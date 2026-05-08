@@ -378,7 +378,7 @@ sandbox_mode = "workspace-write"
 
 ## 10. 本仓库里可以直接采用的工作方式
 
-这个仓库当前已经有 [AGENTS.md](./AGENTS.md)，可以继续扩展成团队规则文件。
+这个仓库当前已经有 [AGENTS.md](../AGENTS.md)，可以继续扩展成团队规则文件。
 
 你以后在这个仓库里给 Codex 下任务时，可以优先用下面这类说法：
 
