@@ -1,8 +1,8 @@
 # CODEX
 
-This repository includes Chinese tutorials for AI agent tools:
+This repository includes Chinese documentation for AI tools and everyday learning/workflow use:
 
-- [docs/ai/Codex入门教程.md](./docs/ai/Codex入门教程.md)
-- [docs/ai/Codex生产开发指南.md](./docs/ai/Codex生产开发指南.md)
-- [docs/ai/HermesAgent入门教程.md](./docs/ai/HermesAgent入门教程.md)
-- [docs/学习/README.md](./docs/学习/README.md)
+- [docs/README.md](./docs/README.md)
+- [docs/ai/codex/入门教程.md](./docs/ai/codex/入门教程.md)
+- [docs/ai/codex/生产开发指南.md](./docs/ai/codex/生产开发指南.md)
+- [docs/ai/hermes/入门教程.md](./docs/ai/hermes/入门教程.md)
