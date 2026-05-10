@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>统一登录</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="page">
+    <section class="intro-panel" aria-label="登录说明">
+      <div class="brand-block">
+        <p class="eyebrow">Workspace Access</p>
+        <h1>统一登录</h1>
+        <p class="intro-copy">
+          使用组织账号访问你的工作台、审批流和受控资源。
+        </p>
+      </div>
+
+      <div class="security-summary" aria-label="安全信息">
+        <div class="summary-item">
+          <span class="summary-label">登录方式</span>
+          <strong>账号密码</strong>
+        </div>
+        <div class="summary-item">
+          <span class="summary-label">访问策略</span>
+          <strong>设备与权限校验</strong>
+        </div>
+        <div class="summary-item">
+          <span class="summary-label">当前状态</span>
+          <strong>身份保护已启用</strong>
+        </div>
+      </div>
+    </section>
+
+    <main class="auth-panel">
+      <div class="auth-card">
+        <div class="auth-header">
+          <p class="eyebrow">Account Sign In</p>
+          <h2>欢迎回来</h2>
+          <p class="auth-copy">输入账号信息以继续。</p>
+        </div>
+
+        <form id="login-form" class="auth-form" novalidate>
+          <div class="field">
+            <label for="email">邮箱</label>
+            <input
+              id="email"
+              name="email"
+              type="email"
+              autocomplete="username"
+              inputmode="email"
+              placeholder="name@company.com"
+              required
+            >
+            <p class="field-hint" data-error-for="email"></p>
+          </div>
+
+          <div class="field">
+            <div class="field-row">
+              <label for="password">密码</label>
+              <a href="#" class="helper-link">忘记密码？</a>
+            </div>
+            <div class="password-wrap">
+              <input
+                id="password"
+                name="password"
+                type="password"
+                autocomplete="current-password"
+                placeholder="输入至少 8 位密码"
+                required
+              >
+              <button
+                id="toggle-password"
+                class="ghost-button"
+                type="button"
+                aria-controls="password"
+                aria-label="显示密码"
+              >
+                显示
+              </button>
+            </div>
+            <p class="field-hint" data-error-for="password"></p>
+          </div>
+
+          <div class="form-options">
+            <label class="check-option" for="remember">
+              <input id="remember" name="remember" type="checkbox">
+              <span>记住我</span>
+            </label>
+            <span class="security-chip">受控访问</span>
+          </div>
+
+          <button class="primary-button" type="submit">登录</button>
+
+          <div class="divider" aria-hidden="true">
+            <span>或</span>
+          </div>
+
+          <div class="alternate-actions">
+            <button class="secondary-button" type="button">短信验证码</button>
+            <button class="secondary-button" type="button">单点登录</button>
+          </div>
+
+          <p id="form-status" class="form-status" role="status" aria-live="polite"></p>
+        </form>
+      </div>
+    </main>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
