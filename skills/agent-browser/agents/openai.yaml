@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Browser"
+  short_description: "Drive Chrome with the local agent-browser CLI"
+  default_prompt: "Use $agent-browser to inspect a page in Chrome, interact with it, and report the result."
