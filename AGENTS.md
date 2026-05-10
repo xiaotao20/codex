@@ -6,4 +6,5 @@
 - Do not create empty commits.
 - Keep each commit scoped to the current task.
 - Do not silently include unrelated pre-existing changes that were not part of the current task.
+- All generated documentation content in this repository must be written in Chinese.
 - Use short, clear commit messages.
