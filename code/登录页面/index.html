@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NEXUS ACCESS | 统一登录</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <canvas id="scene-canvas" class="scene-canvas" aria-hidden="true"></canvas>
+  <div class="page-shell">
+    <div class="noise-layer" aria-hidden="true"></div>
+    <div class="grid-layer" aria-hidden="true"></div>
+    <div class="cursor-glow" aria-hidden="true"></div>
+
+    <section class="experience-panel" aria-label="品牌与安全概览">
+      <header class="topbar">
+        <div class="brand-cluster">
+          <span class="brand-mark" aria-hidden="true">
+            <span class="brand-ring brand-ring-outer"></span>
+            <span class="brand-ring brand-ring-inner"></span>
+            <span class="brand-core"></span>
+          </span>
+          <div class="brand-copy">
+            <p class="eyebrow">NEXUS ACCESS</p>
+            <p class="brand-name">Identity Console</p>
+          </div>
+        </div>
+        <div class="status-pill">
+          <span class="status-dot"></span>
+          Global Shield Online
+        </div>
+      </header>
+
+      <div class="hero-copy">
+        <p class="eyebrow">Secure by design</p>
+        <h1>进入你的下一代工作台。</h1>
+        <p class="intro-copy">
+          面向 AI 工作台、数据资产中心与高权限控制台的统一身份入口。
+          用更克制的配色、更真实的空间层次和更顺滑的动态反馈，做出高级感。
+        </p>
+      </div>
+
+      <div class="signal-matrix" aria-label="关键能力">
+        <article class="signal-block">
+          <span class="signal-label">Trust Score</span>
+          <strong>99.982%</strong>
+          <p>设备指纹、组织策略与风险画像实时联合校验。</p>
+        </article>
+        <article class="signal-block">
+          <span class="signal-label">Edge Handshake</span>
+          <strong>148ms</strong>
+          <p>登录链路全程加密，跨区域访问仍保持低时延。</p>
+        </article>
+        <article class="signal-block">
+          <span class="signal-label">Security Mesh</span>
+          <strong>24 / 7</strong>
+          <p>异常行为检测、凭据保护和会话巡检始终在线。</p>
+        </article>
+      </div>
+
+      <div class="protocol-strip" aria-label="登录协议流程">
+        <div class="protocol-node protocol-node-active">
+          <span class="protocol-step">01</span>
+          <span class="protocol-text">设备签名</span>
+        </div>
+        <div class="protocol-node">
+          <span class="protocol-step">02</span>
+          <span class="protocol-text">组织鉴权</span>
+        </div>
+        <div class="protocol-node">
+          <span class="protocol-step">03</span>
+          <span class="protocol-text">风控放行</span>
+        </div>
+      </div>
+
+      <div class="feature-rail" aria-label="体验亮点">
+        <div class="feature-item">
+          <span class="feature-title">实时会话反馈</span>
+          <span class="feature-desc">输入、校验、提交状态都被可视化。</span>
+        </div>
+        <div class="feature-item">
+          <span class="feature-title">沉浸式空间感</span>
+          <span class="feature-desc">动态光效、视差和网络粒子共同撑住氛围。</span>
+        </div>
+        <div class="feature-item">
+          <span class="feature-title">可直接落地预览</span>
+          <span class="feature-desc">纯 HTML / CSS / JS，双击文件即可打开。</span>
+        </div>
+      </div>
+    </section>
+
+    <main class="auth-stage">
+      <section class="auth-panel" aria-label="登录面板">
+        <div class="auth-panel-header">
+          <div>
+            <p class="eyebrow">Workspace Sign In</p>
+            <h2>欢迎回来</h2>
+          </div>
+          <div class="session-pill">Priority Lane</div>
+        </div>
+
+        <form id="login-form" class="auth-form" novalidate>
+          <div class="field-grid">
+            <label class="field" for="workspace">
+              <span class="field-label">工作区</span>
+              <input
+                id="workspace"
+                name="workspace"
+                type="text"
+                autocomplete="organization"
+                placeholder="NEXUS-SHANGHAI"
+                required
+              >
+              <span class="field-line"></span>
+              <p class="field-hint" data-error-for="workspace"></p>
+            </label>
+
+            <label class="field" for="email">
+              <span class="field-label">邮箱</span>
+              <input
+                id="email"
+                name="email"
+                type="email"
+                autocomplete="username"
+                inputmode="email"
+                placeholder="name@company.com"
+                required
+              >
+              <span class="field-line"></span>
+              <p class="field-hint" data-error-for="email"></p>
+            </label>
+
+            <label class="field field-password" for="password">
+              <span class="field-label">密码</span>
+              <div class="password-wrap">
+                <input
+                  id="password"
+                  name="password"
+                  type="password"
+                  autocomplete="current-password"
+                  placeholder="输入至少 8 位密码"
+                  required
+                >
+                <button
+                  id="toggle-password"
+                  class="ghost-button"
+                  type="button"
+                  aria-controls="password"
+                  aria-label="显示密码"
+                >
+                  显示
+                </button>
+              </div>
+              <span class="field-line"></span>
+              <div class="password-meta">
+                <span>强度</span>
+                <span id="password-strength">未输入</span>
+              </div>
+              <div class="strength-meter" aria-hidden="true">
+                <span id="strength-bar" class="strength-bar"></span>
+              </div>
+              <p class="field-hint" data-error-for="password"></p>
+            </label>
+          </div>
+
+          <div class="form-options">
+            <label class="check-option" for="remember">
+              <input id="remember" name="remember" type="checkbox" checked>
+              <span>记住这台可信设备</span>
+            </label>
+            <button class="text-link" type="button">找回密码</button>
+          </div>
+
+          <button id="submit-button" class="primary-button" type="submit">
+            <span>进入控制台</span>
+          </button>
+
+          <div class="divider" aria-hidden="true">
+            <span>或继续使用</span>
+          </div>
+
+          <div class="alternate-actions">
+            <button class="secondary-button" type="button">Apple</button>
+            <button class="secondary-button" type="button">SSO</button>
+          </div>
+
+          <p id="form-status" class="form-status" role="status" aria-live="polite"></p>
+        </form>
+
+        <footer class="auth-footer">
+          <div class="footer-item">
+            <span class="footer-label">最近登录地</span>
+            <strong>Shanghai CN</strong>
+          </div>
+          <div class="footer-item">
+            <span class="footer-label">会话级加密</span>
+            <strong>已启用</strong>
+          </div>
+        </footer>
+      </section>
+    </main>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
