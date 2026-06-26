@@ -1,5 +1,5 @@
 settings:
-  fetch_adapter: stub
+  fetch_adapter: douyin_yt_dlp
   report_top_n: 10
   max_videos_per_creator: 2
   local_seed_file: seeds/example_videos.json
@@ -7,14 +7,8 @@ settings:
   douyin_cookie_file: ""
 
 creators:
-  - creator_id: demo_knowledge
-    name: 知识类示例博主
-    homepage: https://www.douyin.com/user/demo_knowledge
+  - creator_id: target_creator_1
+    name: 目标博主 1
+    homepage: https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX
     enabled: true
-    content_hint: 分享效率工具、AI 工作流和办公经验
-
-  - creator_id: demo_marketing
-    name: 运营类示例博主
-    homepage: https://www.douyin.com/user/demo_marketing
-    enabled: true
-    content_hint: 分享短视频选题、爆款拆解和转化技巧
+    content_hint: 待补充
