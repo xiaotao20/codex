@@ -20,6 +20,7 @@ def load_config(path: Path) -> PipelineConfig:
         max_videos_per_creator=int(settings_payload.get("max_videos_per_creator", 2)),
         local_seed_file=settings_payload.get("local_seed_file", "seeds/example_videos.json"),
         ffmpeg_path=settings_payload.get("ffmpeg_path", "ffmpeg"),
+        douyin_cookie_file=settings_payload.get("douyin_cookie_file", ""),
     )
     creators = [
         CreatorConfig(

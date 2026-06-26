@@ -20,6 +20,7 @@ class AppSettings:
     max_videos_per_creator: int = 2
     local_seed_file: str = "seeds/example_videos.json"
     ffmpeg_path: str = "ffmpeg"
+    douyin_cookie_file: str = ""
 
 
 @dataclass
@@ -43,6 +44,7 @@ class VideoMetadata:
     local_media_path: str = ""
     audio_path: str = ""
     transcript_hint: str = ""
+    duration_seconds: float = 0.0
     raw_payload: dict[str, Any] = field(default_factory=dict)
 
     def to_dict(self) -> dict[str, Any]:

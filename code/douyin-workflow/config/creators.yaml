@@ -4,6 +4,7 @@ settings:
   max_videos_per_creator: 2
   local_seed_file: seeds/example_videos.json
   ffmpeg_path: ffmpeg
+  douyin_cookie_file: ""
 
 creators:
   - creator_id: demo_knowledge
