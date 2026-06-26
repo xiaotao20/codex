@@ -21,8 +21,8 @@
       ],
       "source": "douyin_playwright",
       "media_url": "https://v5-hl-zenl-ov.zjcdn.com/758db45568805e002a9d3308b2ba61ed/6a3e1fbc/video/tos/cn/tos-cn-ve-15/oU45E5De7ALqpYBmAEgiVHGSIf4n1biBgQq69A/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3097&bt=3097&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wG0VqHhd.9tiNC73-ApQX&mime_type=video_mp4&qs=0&rc=aWg3aDlpaDwzaDc3ZTk4aUBpam94cnQ5cmdvOzMzNGkzM0AxYV8uYjI1Ni8xYWA0LTY2YSNwYDFoMmRzXnJhLS1kLTBzcw%3D%3D&btag=c0000e00008000&cquery=100w_100B_100x_100z_100o&dy_q=1782445439&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260626114358571570F28D8A246B5C17",
-      "local_media_path": "",
-      "audio_path": "",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7655369459640613230.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7655369459640613230.mp3",
       "transcript_hint": "",
       "duration_seconds": 13.034,
       "raw_payload": {
@@ -37,12 +37,54 @@
     "fetch_runs": [
       "2026-06-26"
     ],
-    "media_status": "pending",
-    "media": null,
-    "transcript_status": "pending",
-    "analysis_status": "pending",
-    "transcript": null,
-    "analysis": null,
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7655369459640613230.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7655369459640613230.mp3",
+      "source": "download",
+      "processed_at": "2026-06-26T13:42:37+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7655369459640613230",
+      "transcript_raw": "岑溪中学高考再创辉煌#一考生705分#梧州市理科第一岑溪中学高考再创辉煌#一考生705分#梧州市理科第一补充信息：岑溪中学高考再创辉煌#一考生705分#梧州市理科第一关键词：一考生705分、梧州市理科第一",
+      "transcript_clean": "岑溪中学高考再创辉煌#一考生705分#梧州市理科第一岑溪中学高考再创辉煌#一考生705分#梧州市理科第一补充信息：岑溪中学高考再创辉煌#一考生705分#梧州市理科第一关键词：一考生705分、梧州市理科第一",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-26/7655369459640613230.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7655369459640613230",
+      "summary": "老侯围绕“一考生705分”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "岑溪中学高考再创辉煌#一考生705分#梧州市理科第一。岑溪中学高考再创辉煌#一考生705分#梧州市理科第一岑溪中学高考再创辉煌#一考生705分#梧州市理科第一补充信息：岑溪中学高考再创辉煌#一考生705分#梧州市理科第一关键词：一考生705分、梧州市理科第一 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "一考生705分为什么总是做不出来结果？",
+        "先把梧州市理科第一想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕一考生705分组织标题与开头。",
+        "用梧州市理科第一和岑溪中学高考再创辉煌#一考生705分#梧州市理科第一岑溪中学高考再创辉煌#一考生705分#梧州市理科第一补充信息：岑溪中学高考再创辉煌#一考生705分#梧州市理科第一关键词：一考生705分、梧州市理科第一补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "一考生705分",
+        "梧州市理科第一",
+        "岑溪中学高考再创辉煌#一考生705分#梧州市理科第一岑溪中学高考再创辉煌#一考生705分#梧州市理科第一补充信息：岑溪中学高考再创辉煌#一考生705分#梧州市理科第一关键词：一考生705分、梧州市理科第一"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-26/7655369459640613230.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
     "last_error": null
   },
   "7643437269350077413": {
@@ -67,8 +109,8 @@
       ],
       "source": "douyin_playwright",
       "media_url": "https://v5-dy-o-abtest.zjcdn.com/9ba34abb6764baed1ad64ddffc5343e6/6a3e1fb8/video/tos/cn/tos-cn-ve-15c000-ce/osuzOerNGIgsamfMAGLggf2LIGe1oDTQIUAUDS/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1932&bt=1932&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wI3VqHhd.9tiNC73-ApQX&mime_type=video_mp4&qs=0&rc=ZzM6Ozk4N2RkOGQ5OGc3aUBpajc5ZHk5cjRpOzMzbGkzNUAtNTU0L2MvXy8xMWM1MWJjYSMzM2dnMmRjMDZhLS1kLTVzcw%3D%3D&btag=c0000e00008000&cquery=100z_100o_100w_100B_100x&dy_q=1782445441&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026062611440147358E536306936B522D",
-      "local_media_path": "",
-      "audio_path": "",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7643437269350077413.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7643437269350077413.mp3",
       "transcript_hint": "",
       "duration_seconds": 7.9,
       "raw_payload": {
@@ -83,12 +125,677 @@
     "fetch_runs": [
       "2026-06-26"
     ],
-    "media_status": "pending",
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7643437269350077413.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7643437269350077413.mp3",
+      "source": "download",
+      "processed_at": "2026-06-26T13:42:44+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7643437269350077413",
+      "transcript_raw": "朱杨柱 张志远 黎家盈3名航天员领命出征 ，中国航天加油！祝一切顺利！#航天员 #神23朱杨柱 张志远 黎家盈3名航天员领命出征 ，中国航天加油！祝一切顺利！#航天员 #神23补充信息：朱杨柱 张志远 黎家盈3名航天员领命出征 ，中国航天加油！祝一切顺利！#航天员 #神23关键词：航天员、神23",
+      "transcript_clean": "朱杨柱 张志远 黎家盈3名航天员领命出征 ，中国航天加油！祝一切顺利！#航天员 #神23朱杨柱 张志远 黎家盈3名航天员领命出征 ，中国航天加油！祝一切顺利！#航天员 #神23补充信息：朱杨柱 张志远 黎家盈3名航天员领命出征 ，中国航天加油！祝一切顺利！#航天员 #神23关键词：航天员、神23",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-26/7643437269350077413.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7643437269350077413",
+      "summary": "哈尔滨日报围绕“航天员”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "朱杨柱 张志远 黎家盈3名航天员领命出征 ，中国航天加油！祝一切顺利！#航天员 #神23。朱杨柱 张志远 黎家盈3名航天员领命出征 ，中国航天加油！祝一切顺利！#航天员 #神23朱杨柱 张志远 黎家盈3名航天员领命出征 ，中国航天加油！祝一切顺利！#航天员 #神23补充信息：朱杨柱 张志远 黎家盈3名航天员领命出征 ，中国航天加油！祝一切顺利！#航天员 #神23关键词：航天员、神23 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "航天员为什么总是做不出来结果？",
+        "先把神23想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕航天员组织标题与开头。",
+        "用神23和张志远补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "航天员",
+        "神23",
+        "张志远"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-26/7643437269350077413.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "last_error": null
+  },
+  "7655165912312650923": {
+    "video_id": "7655165912312650923",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "爱我所爱❤️",
+      "video_id": "7655165912312650923",
+      "title": "各个大学招生了",
+      "publish_time": "2026-06-25T11:13:27+08:00",
+      "video_url": "https://www.douyin.com/video/7655165912312650923",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/ognj8IkaakugywQNJ6TAwkA4PGbciPAEBDwiI~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097810000&x-signature=UL8jdPJR1YLjf1MvRnBAPHjXhuk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260626134048A6064A94F683B68B2054",
+      "like_count": 21,
+      "comment_count": 6,
+      "share_count": 2,
+      "collect_count": 2,
+      "description": "各个大学招生了",
+      "text_hint": "各个大学招生了",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/04ee77389ad78b06717fa9602345f163/6a3e3b1b/video/tos/cn/tos-cn-ve-15/oUcP3i8PiyQII0jEucwTbQgFA1aBAkwxwIoGQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3933&bt=3933&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wKy3qHhd.JSLvR03-ApQX&mime_type=video_mp4&qs=0&rc=ZDg3OmlpNTg5NDc7ZjlpOkBpM2hpcmo5cjk8OzMzNGkzM0AzMjU0Y2A2XjUxMDUzMS1hYSNmLi9hMmQ0bHJhLS1kLTBzcw%3D%3D&btag=c0000e00008000&cquery=100x_100z_100o_100w_100B&dy_q=1782452448&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260626134048A6064A94F683B68B2054",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7655165912312650923.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7655165912312650923.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 11.352,
+      "raw_payload": {
+        "aweme_id": "7655165912312650923",
+        "author_uid": "75486643465",
+        "sec_uid": "MS4wLjABAAAAWdQLk-HRUZYJRxFxjrZDN8YoN7YD-wl_aie_aCZuyIk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWdQLk-HRUZYJRxFxjrZDN8YoN7YD-wl_aie_aCZuyIk"
+      }
+    },
+    "first_seen_at": "2026-06-26T13:40:33+08:00",
+    "last_seen_at": "2026-06-26T13:40:33+08:00",
+    "fetch_runs": [
+      "2026-06-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7655165912312650923.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7655165912312650923.mp3",
+      "source": "download",
+      "processed_at": "2026-06-26T13:42:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7655165912312650923",
+      "transcript_raw": "各个大学招生了各个大学招生了补充信息：各个大学招生了",
+      "transcript_clean": "各个大学招生了各个大学招生了补充信息：各个大学招生了",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-26/7655165912312650923.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7655165912312650923",
+      "summary": "爱我所爱❤️围绕“各个大学招生了各个大学招生了补充信息：各个大学招生了”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "各个大学招生了。各个大学招生了各个大学招生了补充信息：各个大学招生了 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "各个大学招生了各个大学招生了补充信息：各个大学招生了为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕各个大学招生了各个大学招生了补充信息：各个大学招生了组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "各个大学招生了各个大学招生了补充信息：各个大学招生了",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-26/7655165912312650923.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "last_error": null
+  },
+  "7575137693265366306": {
+    "video_id": "7575137693265366306",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7575137693265366306",
+      "title": "失聪的贝多芬，也是贝多芬啊 #喜人奇妙夜2 #喜人奇妙夜 #王天放",
+      "publish_time": "2025-11-21T11:23:00+08:00",
+      "video_url": "https://www.douyin.com/video/7575137693265366306",
+      "cover_url": "",
+      "like_count": 45000,
+      "comment_count": 405,
+      "share_count": 2401,
+      "collect_count": 2953,
+      "description": "失聪的贝多芬，也是贝多芬啊 #喜人奇妙夜2 #喜人奇妙夜 #王天放",
+      "text_hint": "失聪的贝多芬，也是贝多芬啊 #喜人奇妙夜2 #喜人奇妙夜 #王天放",
+      "topic_tags": [
+        "喜人奇妙夜2",
+        "喜人奇妙夜",
+        "王天放"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/6481a211-b837-4fc3-8cf4-6cc2e85a4c81",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7575137693265366306",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-06-26T13:40:33+08:00",
+    "last_seen_at": "2026-06-26T13:40:33+08:00",
+    "fetch_runs": [
+      "2026-06-26"
+    ],
+    "media_status": "failed",
     "media": null,
     "transcript_status": "pending",
     "analysis_status": "pending",
     "transcript": null,
     "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7396363252340378919": {
+    "video_id": "7396363252340378919",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "鳄梨头马同学",
+      "video_id": "7396363252340378919",
+      "title": "蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常",
+      "publish_time": "2024-07-28T01:07:36+08:00",
+      "video_url": "https://www.douyin.com/video/7396363252340378919",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/d597dcb03f598baa6d6f85e56cb8efb1~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097810000&x-signature=vH%2Ftz1zR2%2BDLeuX%2FIMHab9ydb7M%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026062613412707A893E2A3B46D8845F8",
+      "like_count": 96,
+      "comment_count": 29,
+      "share_count": 15,
+      "collect_count": 20,
+      "description": "蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常",
+      "text_hint": "蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常",
+      "topic_tags": [
+        "蔚来手机",
+        "手机📱",
+        "数码科技",
+        "vlog日常"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/48c2ddd79fd513446f393598d5041b0c/6a3e3c16/video/tos/cn/tos-cn-ve-0015c800/oMSAfpQ22FuSABC8Smgn9dgpaEInfApDE5zmwa/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1540&bt=1540&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w3X3qHhd.JSLvR03-ApQX&mime_type=video_mp4&qs=0&rc=ODlpO2U2aWY5OWg1Zzs2ZEBpMzxkcWo5cjxsdDMzNGkzM0BgXl5iY2ItXy4xLWJgNjUyYSM2cW5hMmRzYWZgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1782452487&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026062613412707A893E2A3B46D8845F8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7396363252340378919.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7396363252340378919.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 223.067,
+      "raw_payload": {
+        "aweme_id": "7396363252340378919",
+        "author_uid": "1525727026232516",
+        "sec_uid": "MS4wLjABAAAAGTzbPliNzWG4vuwtdrsBXD9Z03AEWAis5q__06MGyh4tn3ZjGFrBy-vwlfRha3O4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAGTzbPliNzWG4vuwtdrsBXD9Z03AEWAis5q__06MGyh4tn3ZjGFrBy-vwlfRha3O4"
+      }
+    },
+    "first_seen_at": "2026-06-26T13:40:33+08:00",
+    "last_seen_at": "2026-06-26T13:40:33+08:00",
+    "fetch_runs": [
+      "2026-06-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7396363252340378919.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7396363252340378919.mp3",
+      "source": "download",
+      "processed_at": "2026-06-26T13:45:47+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7396363252340378919",
+      "transcript_raw": "蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常补充信息：蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常关键词：蔚来手机、手机📱、数码科技、vlog日常",
+      "transcript_clean": "蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常补充信息：蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常关键词：蔚来手机、手机📱、数码科技、vlog日常",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-26/7396363252340378919.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7396363252340378919",
+      "summary": "鳄梨头马同学围绕“蔚来手机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常。蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常补充信息：蔚来NIO Phone都出第二代啦！#蔚来手机 #手机📱 #数码科技 #vlog日常关键词：蔚来手机、手机📱、数码科技、vlog日常 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "蔚来手机为什么总是做不出来结果？",
+        "先把手机📱想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕蔚来手机组织标题与开头。",
+        "用手机📱和数码科技补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "蔚来手机",
+        "手机📱",
+        "数码科技"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-26/7396363252340378919.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "last_error": null
+  },
+  "7400462852655435043": {
+    "video_id": "7400462852655435043",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "鄭棣盛老師",
+      "video_id": "7400462852655435043",
+      "title": "处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道",
+      "publish_time": "2024-08-08T10:00:01+08:00",
+      "video_url": "https://www.douyin.com/video/7400462852655435043",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5384c407de5c6ac2f59543f1d3ad0aaa~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097810000&x-signature=A5gglyn%2Fn9OOm5r1g%2F%2BPVUddqLE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202606261341304557CD1A24853B8A46DB",
+      "like_count": 4,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道",
+      "text_hint": "处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道",
+      "topic_tags": [
+        "郑棣盛老师",
+        "成长为TOT的要诀",
+        "保险的四大特性",
+        "夫妻相处之道"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fdec584ce2bd44fca29b3fb71eff03a5/6a3e3ca8/video/tos/cn/tos-cn-ve-0015c800/ooFBLYGfLuLLZdnql7AUACrBa61QIGgeAN3fyI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=521&bt=521&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wlX3qHhd.JSLvR03-ApQX&mime_type=video_mp4&qs=0&rc=N2RoZjQ8ZjdoNmY0ZDY7PEBpMzhlZXg5cnN1dDMzNGkzM0A2MF9hLmEvXjExLmBgXi01YSNpX3NnMmRjZm1gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100H_100K&dy_q=1782452491&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202606261341304557CD1A24853B8A46DB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7400462852655435043.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7400462852655435043.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 365.567,
+      "raw_payload": {
+        "aweme_id": "7400462852655435043",
+        "author_uid": "97715747238",
+        "sec_uid": "MS4wLjABAAAACfFHJHML2I6jc_A1qQWJSY5upJF4Rcf25R_WvHajEE4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACfFHJHML2I6jc_A1qQWJSY5upJF4Rcf25R_WvHajEE4"
+      }
+    },
+    "first_seen_at": "2026-06-26T13:40:33+08:00",
+    "last_seen_at": "2026-06-26T13:40:33+08:00",
+    "fetch_runs": [
+      "2026-06-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7400462852655435043.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7400462852655435043.mp3",
+      "source": "download",
+      "processed_at": "2026-06-26T13:45:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7400462852655435043",
+      "transcript_raw": "处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道补充信息：处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道关键词：郑棣盛老师、成长为TOT的要诀、保险的四大特性、夫妻相处之道",
+      "transcript_clean": "处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道补充信息：处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道关键词：郑棣盛老师、成长为TOT的要诀、保险的四大特性、夫妻相处之道",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-26/7400462852655435043.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7400462852655435043",
+      "summary": "鄭棣盛老師围绕“郑棣盛老师”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道。处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道补充信息：处理反对异议的核心 #郑棣盛老师  #成长为TOT的要诀  #保险的四大特性 #夫妻相处之道关键词：郑棣盛老师、成长为TOT的要诀、保险的四大特性、夫妻相处之道 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "郑棣盛老师为什么总是做不出来结果？",
+        "先把成长为TOT的要诀想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕郑棣盛老师组织标题与开头。",
+        "用成长为TOT的要诀和保险的四大特性补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "郑棣盛老师",
+        "成长为TOT的要诀",
+        "保险的四大特性"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-26/7400462852655435043.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "last_error": null
+  },
+  "7584679384365583674": {
+    "video_id": "7584679384365583674",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7584679384365583674",
+      "title": "长富汽修官方号在抖音记录美好生活20251217",
+      "publish_time": "2025-12-17T04:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7584679384365583674",
+      "cover_url": "",
+      "like_count": 17,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "长富汽修官方号在抖音记录美好生活20251217",
+      "text_hint": "长富汽修官方号在抖音记录美好生活20251217",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c3631a61-a3e4-4834-a83c-ce1f7ddf478f",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7584679384365583674",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-06-26T13:40:33+08:00",
+    "last_seen_at": "2026-06-26T13:40:33+08:00",
+    "fetch_runs": [
+      "2026-06-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7409893640203537673": {
+    "video_id": "7409893640203537673",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小美分享",
+      "video_id": "7409893640203537673",
+      "title": "有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐",
+      "publish_time": "2024-09-02T12:11:51+08:00",
+      "video_url": "https://www.douyin.com/video/7409893640203537673",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8eb06d19aabe5d5d97cfe1f45bb41ad6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097810000&x-signature=NT2%2FLTvPwvgd4jHRwSZ3%2FdJFGXs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202606261341551E5C352774870C7A1469",
+      "like_count": 159,
+      "comment_count": 0,
+      "share_count": 12,
+      "collect_count": 50,
+      "description": "有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐",
+      "text_hint": "有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐",
+      "topic_tags": [
+        "理发器",
+        "好物推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/809a7855f0d72e821b59892f504f0180/6a3e3c6f/video/tos/cn/tos-cn-ve-51c800/o4CEAOQq1L7eaGnjQNIGcgeEIXdZAIgXBEVdfb/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3642&bt=3642&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wmX3qHhd.JSLvR03-ApQX&mime_type=video_mp4&qs=0&rc=ZDs8Zmc7ODlkaGY5OmQ2ZkBpMzZzbnk5cjRtdTMzNDYzM0A0YTEuYzAvNWMxLTYwNF4zYSNnb2xrMmRzal5gLS1kMC9zcw%3D%3D&btag=80000e00030000&cquery=102v_102u_100o_100w_100B&dy_q=1782452515&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=202606261341551E5C352774870C7A1469",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7409893640203537673.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7409893640203537673.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 284.19,
+      "raw_payload": {
+        "aweme_id": "7409893640203537673",
+        "author_uid": "2360031530976243",
+        "sec_uid": "MS4wLjABAAAAt89KMRDPoAL6cQXMECt1JsJQLL8msUwhR8AfVKE-pmKHGWnDYysODlNAgMT7ldgi",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAt89KMRDPoAL6cQXMECt1JsJQLL8msUwhR8AfVKE-pmKHGWnDYysODlNAgMT7ldgi"
+      }
+    },
+    "first_seen_at": "2026-06-26T13:40:33+08:00",
+    "last_seen_at": "2026-06-26T13:40:33+08:00",
+    "fetch_runs": [
+      "2026-06-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7409893640203537673.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7409893640203537673.mp3",
+      "source": "download",
+      "processed_at": "2026-06-26T13:45:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7409893640203537673",
+      "transcript_raw": "有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐补充信息：有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐关键词：理发器、好物推荐",
+      "transcript_clean": "有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐补充信息：有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐关键词：理发器、好物推荐",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-26/7409893640203537673.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7409893640203537673",
+      "summary": "小美分享围绕“理发器”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐。有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐补充信息：有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器 #好物推荐关键词：理发器、好物推荐 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "理发器为什么总是做不出来结果？",
+        "先把好物推荐想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕理发器组织标题与开头。",
+        "用好物推荐和有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "理发器",
+        "好物推荐",
+        "有了这个多功能电推理发器，自己在家就可以刮胡子理发，太方便了#理发器"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-26/7409893640203537673.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "last_error": null
+  },
+  "6947007665641884962": {
+    "video_id": "6947007665641884962",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "考研届的佟大为",
+      "video_id": "6947007665641884962",
+      "title": "如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生",
+      "publish_time": "2021-04-04T02:58:44+08:00",
+      "video_url": "https://www.douyin.com/video/6947007665641884962",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0f412238832118fdf6edde066b88d1f9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097810000&x-signature=r51lcxE9Uio1PKoQmnsnyJgA50U%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260626134158C248CC92EC9A0B88A01E",
+      "like_count": 5915,
+      "comment_count": 1021,
+      "share_count": 394,
+      "collect_count": 193,
+      "description": "如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生",
+      "text_hint": "如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生",
+      "topic_tags": [
+        "医学",
+        "医学考研",
+        "大专医学生"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/6e0b505fdeb13a17c4f142f6c7f34369/6a3e3c24/video/tos/cn/tos-cn-ve-0015c800/80386787e7e1460eb5300ec9f42a2111/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1378&bt=1378&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wWX3qHhd.JSLvR03-ApQX&mime_type=video_mp4&qs=0&rc=ZzZoN2RnOzhkNjozOjY4OUBpanVlc29oZGRlNDMzNGkzM0BgMWAxYS0vXjIxXzY0Ly4tYSNtYTZnX2RvaGhgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_102u_100o&dy_q=1782452518&l=20260626134158C248CC92EC9A0B88A01E",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/6947007665641884962.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/6947007665641884962.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 206.192,
+      "raw_payload": {
+        "aweme_id": "6947007665641884962",
+        "author_uid": "95124776396",
+        "sec_uid": "MS4wLjABAAAAQeXaXdXCQczvn5N-TGX2RmHIsoaPklW6IY31nZh9nOk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQeXaXdXCQczvn5N-TGX2RmHIsoaPklW6IY31nZh9nOk"
+      }
+    },
+    "first_seen_at": "2026-06-26T13:40:33+08:00",
+    "last_seen_at": "2026-06-26T13:40:33+08:00",
+    "fetch_runs": [
+      "2026-06-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/6947007665641884962.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/6947007665641884962.mp3",
+      "source": "download",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6947007665641884962",
+      "transcript_raw": "如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生补充信息：如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生关键词：医学、医学考研、大专医学生",
+      "transcript_clean": "如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生补充信息：如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生关键词：医学、医学考研、大专医学生",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-26/6947007665641884962.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "analysis": {
+      "video_id": "6947007665641884962",
+      "summary": "考研届的佟大为围绕“医学”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生。如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生补充信息：如果有立志读医学的孩子，高考没考上本科就尽量直接出国，最好不要读专科医学#医学 #医学考研 #大专医学生关键词：医学、医学考研、大专医学生 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "医学为什么总是做不出来结果？",
+        "先把医学考研想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕医学组织标题与开头。",
+        "用医学考研和大专医学生补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "医学",
+        "医学考研",
+        "大专医学生"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-26/6947007665641884962.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "last_error": null
+  },
+  "7512419391825333539": {
+    "video_id": "7512419391825333539",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7512419391825333539",
+      "title": "怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑",
+      "publish_time": "2025-06-05T11:07:00+08:00",
+      "video_url": "https://www.douyin.com/video/7512419391825333539",
+      "cover_url": "",
+      "like_count": 108,
+      "comment_count": 132,
+      "share_count": 9,
+      "collect_count": 32,
+      "description": "怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑",
+      "text_hint": "怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑",
+      "topic_tags": [
+        "龙之谷",
+        "龙之谷怀旧服",
+        "策划面对面",
+        "直播",
+        "答疑"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/12ba47f8ddc5cdaf16d23dbb1148d30a/6a3e3d5b/video/tos/cn/tos-cn-ve-15/og5IgGg5pMAoezoeOvXEB7QG0BsAHCVgRe8XFQ/?a=6383&br=1737&bt=1737&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100K_100o_100w_100B_100H&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1782452535&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wJX3qHhd.JSLvR03-ApQX&is_ssr=1&l=20260626134215F8BDA8191FC18187B656&lr=all&mime_type=video_mp4&qs=1&rc=OWVlZDhpNDM1ZWY4OGdnOkBpMzR4bXI5cjhxNDMzNGkzM0AtLmEzXi8vNWMxM2NgYi9jYSNwamdnMmQ0Zi1hLS1kLTBzcw%3D%3D&__vid=7512419391825333539",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7512419391825333539.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7512419391825333539.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7512419391825333539",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-06-26T13:40:33+08:00",
+    "last_seen_at": "2026-06-26T13:40:33+08:00",
+    "fetch_runs": [
+      "2026-06-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7512419391825333539.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-26/7512419391825333539.mp3",
+      "source": "download",
+      "processed_at": "2026-06-26T13:43:37+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7512419391825333539",
+      "transcript_raw": "怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑补充信息：怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑关键词：龙之谷、龙之谷怀旧服、策划面对面、直播、答疑",
+      "transcript_clean": "怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑补充信息：怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑关键词：龙之谷、龙之谷怀旧服、策划面对面、直播、答疑",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-26/7512419391825333539.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7512419391825333539",
+      "summary": "知雪围绕“龙之谷”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑。怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑补充信息：怀旧服策划面对面——弹幕答疑精选，版本爆料、系统优化、外观返场、BUG修复，快来来看看有没有你关心的问题？#龙之谷 #龙之谷怀旧服 #策划面对面 #直播 #答疑关键词：龙之谷、龙之谷怀旧服、策划面对面、直播、答疑 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "龙之谷为什么总是做不出来结果？",
+        "先把龙之谷怀旧服想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕龙之谷组织标题与开头。",
+        "用龙之谷怀旧服和策划面对面补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "龙之谷",
+        "龙之谷怀旧服",
+        "策划面对面"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-26/7512419391825333539.json",
+      "processed_at": "2026-06-26T13:46:10+08:00"
+    },
     "last_error": null
   }
 }
