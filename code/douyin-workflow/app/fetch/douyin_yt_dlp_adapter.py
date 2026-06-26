@@ -3,7 +3,6 @@ from __future__ import annotations
 import json
 import os
 import re
-import time
 from datetime import datetime, timedelta, timezone
 from http.cookies import SimpleCookie
 from pathlib import Path
@@ -234,7 +233,10 @@ class DouyinYtDlpAdapter(FetchAdapter):
         )
         aweme_items: list[dict[str, Any]] = []
         for video_url in video_urls[: self.max_videos_per_creator]:
-            detail = self._fetch_video_detail_with_browser(page.context, video_url)
+            try:
+                detail = self._fetch_video_detail_with_browser(page.context, video_url)
+            except Exception:
+                detail = None
             if detail:
                 aweme_items.append(detail)
         return aweme_items
@@ -243,29 +245,37 @@ class DouyinYtDlpAdapter(FetchAdapter):
         detail_page = context.new_page()
         detail_page.set_default_timeout(60_000)
         try:
-            with detail_page.expect_response(
-                lambda response: "aweme/v1/web/aweme/detail/" in response.url and response.status == 200,
-                timeout=60_000,
-            ) as detail_info:
+            try:
+                with detail_page.expect_response(
+                    lambda response: "aweme/v1/web/aweme/detail/" in response.url and response.status == 200,
+                    timeout=15_000,
+                ) as detail_info:
+                    detail_page.goto(video_url, wait_until="domcontentloaded", timeout=60_000)
+                payload = detail_info.value.json()
+                aweme_detail = payload.get("aweme_detail") or {}
+                if aweme_detail:
+                    return aweme_detail
+            except Exception:
                 detail_page.goto(video_url, wait_until="domcontentloaded", timeout=60_000)
-
-            payload = detail_info.value.json()
-            aweme_detail = payload.get("aweme_detail") or {}
-            if aweme_detail:
-                return aweme_detail
 
             detail_page.wait_for_timeout(4_000)
             video_elements = detail_page.eval_on_selector_all(
                 "video",
                 "nodes => nodes.map(node => node.currentSrc || node.src).filter(Boolean)",
             )
-            if not video_elements:
+            aweme_id = _extract_video_id_from_url(video_url)
+            page_title = detail_page.title().replace(" - 抖音", "").strip()
+            body_text = detail_page.locator("body").inner_text()
+            text_meta = _extract_detail_text_meta(body_text)
+
+            if not video_elements and not page_title:
                 return None
 
-            aweme_id = _extract_video_id_from_url(video_url)
             return {
                 "aweme_id": aweme_id,
-                "desc": detail_page.title().replace(" - 抖音", "").strip(),
+                "desc": page_title,
+                "create_time": text_meta["create_time"],
+                "statistics": text_meta["statistics"],
                 "video": {
                     "play_addr": {"url_list": video_elements},
                 },
@@ -503,6 +513,65 @@ def _pick_aweme_media_url(video: dict[str, Any]) -> str:
 def _extract_video_id_from_url(video_url: str) -> str:
     matched = re.search(r"/video/(\d+)", video_url)
     return matched.group(1) if matched else ""
+
+
+def _extract_detail_text_meta(body_text: str) -> dict[str, Any]:
+    lines = [line.strip() for line in body_text.splitlines() if line.strip()]
+    statistics = {
+        "digg_count": 0,
+        "comment_count": 0,
+        "share_count": 0,
+        "collect_count": 0,
+    }
+    create_time = 0
+
+    if "举报" in lines:
+        report_index = lines.index("举报")
+        stats_lines = lines[max(0, report_index - 4) : report_index]
+        if len(stats_lines) == 4:
+            statistics = {
+                "digg_count": _parse_count_text(stats_lines[0]),
+                "comment_count": _parse_count_text(stats_lines[1]),
+                "share_count": _parse_count_text(stats_lines[2]),
+                "collect_count": _parse_count_text(stats_lines[3]),
+            }
+
+    for line in lines:
+        if line.startswith("发布时间：") or line.startswith("发布时间:"):
+            raw_value = line.split("：", 1)[1] if "：" in line else line.split(":", 1)[1]
+            parsed = _parse_publish_datetime(raw_value.strip())
+            if parsed:
+                create_time = parsed
+            break
+
+    return {"statistics": statistics, "create_time": create_time}
+
+
+def _parse_count_text(value: str) -> int:
+    normalized = value.strip().lower().replace(",", "")
+    normalized = normalized.replace("w", "万")
+    if not normalized:
+        return 0
+    if normalized.endswith("万"):
+        try:
+            return int(float(normalized[:-1]) * 10_000)
+        except ValueError:
+            return 0
+    digits = re.sub(r"[^\d.]", "", normalized)
+    if not digits:
+        return 0
+    try:
+        return int(float(digits))
+    except ValueError:
+        return 0
+
+
+def _parse_publish_datetime(value: str) -> int:
+    try:
+        parsed = datetime.strptime(value, "%Y-%m-%d %H:%M").replace(tzinfo=ASIA_SHANGHAI)
+        return int(parsed.timestamp())
+    except ValueError:
+        return 0
 
 
 def _safe_response_json(response) -> dict[str, Any]:

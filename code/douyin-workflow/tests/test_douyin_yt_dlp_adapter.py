@@ -1,5 +1,7 @@
 from app.fetch.douyin_yt_dlp_adapter import (
     _pick_candidate_url,
+    _extract_detail_text_meta,
+    _parse_count_text,
     _should_use_browser_fetch,
     build_video_metadata_from_aweme,
     build_video_metadata,
@@ -119,3 +121,32 @@ def test_should_use_browser_fetch_supports_homepage_and_short_link() -> None:
     assert _should_use_browser_fetch("https://www.iesdouyin.com/share/user/MS4wLjABAAAA123") is True
     assert _should_use_browser_fetch("https://v.douyin.com/xlCnV5lTBeo/") is True
     assert _should_use_browser_fetch("https://www.douyin.com/video/7480000000000000000") is False
+
+
+def test_parse_count_text_supports_wan_suffix() -> None:
+    assert _parse_count_text("9.4万") == 94000
+    assert _parse_count_text("2464") == 2464
+
+
+def test_extract_detail_text_meta_parses_statistics_and_publish_time() -> None:
+    body_text = "\n".join(
+        [
+            "Codex零基础使用教程",
+            "9.4万",
+            "2464",
+            "8.5万",
+            "1.7万",
+            "举报",
+            "发布时间：2026-06-11 01:34",
+        ]
+    )
+
+    meta = _extract_detail_text_meta(body_text)
+
+    assert meta["statistics"] == {
+        "digg_count": 94000,
+        "comment_count": 2464,
+        "share_count": 85000,
+        "collect_count": 17000,
+    }
+    assert meta["create_time"] > 0
