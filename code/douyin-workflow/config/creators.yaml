@@ -1,7 +1,7 @@
 settings:
   fetch_adapter: douyin_yt_dlp
   report_top_n: 10
-  max_videos_per_creator: 2
+  max_videos_per_creator: 10
   local_seed_file: seeds/example_videos.json
   ffmpeg_path: ffmpeg
   douyin_cookie_file: ""
