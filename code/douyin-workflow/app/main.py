@@ -8,6 +8,7 @@ from typing import Any
 from app.ai.analyze import analyze_video
 from app.ai.transcribe import transcribe_video
 from app.config import load_config
+from app.environment import load_project_env
 from app.fetch.factory import build_fetch_adapter
 from app.io_utils import ensure_directory, write_json
 from app.logging_setup import setup_logging
@@ -35,6 +36,7 @@ def parse_args() -> argparse.Namespace:
 def main() -> int:
     args = parse_args()
     base_dir = Path(args.base_dir).resolve()
+    load_project_env(base_dir)
     config_path = (base_dir / args.config).resolve()
     run_date = date.fromisoformat(args.run_date) if args.run_date else datetime.now(ASIA_SHANGHAI).date()
     run_date_str = run_date.isoformat()
