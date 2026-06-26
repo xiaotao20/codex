@@ -1,0 +1,17 @@
+settings:
+  fetch_adapter: stub
+  report_top_n: 10
+  max_videos_per_creator: 2
+
+creators:
+  - creator_id: demo_knowledge
+    name: 知识类示例博主
+    homepage: https://www.douyin.com/user/demo_knowledge
+    enabled: true
+    content_hint: 分享效率工具、AI 工作流和办公经验
+
+  - creator_id: demo_marketing
+    name: 运营类示例博主
+    homepage: https://www.douyin.com/user/demo_marketing
+    enabled: true
+    content_hint: 分享短视频选题、爆款拆解和转化技巧
