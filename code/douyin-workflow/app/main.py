@@ -11,6 +11,7 @@ from app.config import load_config
 from app.fetch.factory import build_fetch_adapter
 from app.io_utils import ensure_directory, write_json
 from app.logging_setup import setup_logging
+from app.media.downloader import prepare_media
 from app.report.daily_report import build_report, write_report
 from app.storage import StateStore
 
@@ -20,7 +21,11 @@ ASIA_SHANGHAI = timezone(timedelta(hours=8))
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="抖音博主视频采集与总结工作流")
-    parser.add_argument("--mode", choices=["all", "fetch", "transcribe", "analyze", "report"], default="all")
+    parser.add_argument(
+        "--mode",
+        choices=["all", "fetch", "media", "transcribe", "analyze", "report"],
+        default="all",
+    )
     parser.add_argument("--config", default="config/creators.yaml")
     parser.add_argument("--base-dir", default=".")
     parser.add_argument("--run-date", default="")
@@ -38,7 +43,7 @@ def main() -> int:
     logger = setup_logging(log_path)
     logger.info("开始执行工作流，模式=%s，日期=%s", args.mode, run_date_str)
 
-    for relative in ["raw", "transcripts", "analysis", "reports", "logs", "state"]:
+    for relative in ["raw", "media", "transcripts", "analysis", "reports", "logs", "state"]:
         ensure_directory(outputs_dir / relative)
 
     pipeline_config = load_config(config_path)
@@ -46,6 +51,10 @@ def main() -> int:
 
     if args.mode in {"all", "fetch"}:
         execute_fetch(base_dir, pipeline_config, state_store, run_date, logger)
+        state_store.save()
+
+    if args.mode in {"all", "media"}:
+        execute_media(base_dir, pipeline_config, state_store, run_date_str, logger)
         state_store.save()
 
     if args.mode in {"all", "transcribe"}:
@@ -70,7 +79,7 @@ def main() -> int:
 
 
 def execute_fetch(base_dir: Path, pipeline_config, state_store: StateStore, run_date: date, logger) -> None:
-    adapter = build_fetch_adapter(pipeline_config.settings)
+    adapter = build_fetch_adapter(pipeline_config.settings, base_dir)
     fetched_at = StateStore.now_iso()
     videos = adapter.fetch_videos(pipeline_config.creators, run_date)
     raw_payload = [video.to_dict() for video in videos]
@@ -79,6 +88,29 @@ def execute_fetch(base_dir: Path, pipeline_config, state_store: StateStore, run_
     for video in videos:
         state_store.upsert_video(video, run_date.isoformat(), fetched_at)
     logger.info("采集完成，博主数=%s，视频数=%s", len(pipeline_config.creators), len(videos))
+
+
+def execute_media(base_dir: Path, pipeline_config, state_store: StateStore, run_date: str, logger) -> None:
+    pending = state_store.list_pending_media(run_date)
+    logger.info("待准备媒体视频数=%s", len(pending))
+    for record in pending:
+        video = record["video"]
+        try:
+            media = prepare_media(
+                video=video,
+                base_dir=base_dir,
+                run_date=run_date,
+                ffmpeg_path=pipeline_config.settings.ffmpeg_path,
+            )
+            if media.get("audio_path") or media.get("video_path"):
+                state_store.mark_media_success(video["video_id"], media, StateStore.now_iso())
+                logger.info("媒体准备完成，video_id=%s，source=%s", video["video_id"], media["source"])
+            else:
+                state_store.mark_media_skipped(video["video_id"], "未提供媒体文件，使用文本直出模式", StateStore.now_iso())
+                logger.info("媒体准备跳过，video_id=%s", video["video_id"])
+        except Exception as exc:
+            state_store.mark_media_failure(video["video_id"], str(exc))
+            logger.exception("媒体准备失败，video_id=%s", video["video_id"])
 
 
 def execute_transcribe(base_dir: Path, state_store: StateStore, run_date: str, logger) -> None:

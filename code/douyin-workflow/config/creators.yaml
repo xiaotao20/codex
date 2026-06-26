@@ -2,6 +2,8 @@ settings:
   fetch_adapter: stub
   report_top_n: 10
   max_videos_per_creator: 2
+  local_seed_file: seeds/example_videos.json
+  ffmpeg_path: ffmpeg
 
 creators:
   - creator_id: demo_knowledge

@@ -34,6 +34,16 @@ def transcribe_video(
         except Exception:
             pass
 
+    if video.get("transcript_hint"):
+        transcript_text = video["transcript_hint"].strip()
+        return TranscriptResult(
+            video_id=video["video_id"],
+            transcript_raw=transcript_text,
+            transcript_clean=transcript_text,
+            duration_seconds=0.0,
+            source="transcript_hint",
+        )
+
     transcript_text = _build_mock_transcript(video)
     return TranscriptResult(
         video_id=video["video_id"],
@@ -45,6 +55,9 @@ def transcribe_video(
 
 
 def _build_mock_transcript(video: dict) -> str:
+    transcript_hint = (video.get("transcript_hint") or "").strip()
+    if transcript_hint:
+        return transcript_hint
     text_hint = video.get("text_hint") or ""
     description = video.get("description") or ""
     topic_tags = "、".join(video.get("topic_tags", []))

@@ -1,0 +1,36 @@
+[
+  {
+    "creator_id": "demo_knowledge",
+    "creator_name": "知识类示例博主",
+    "video_id": "seed_video_001",
+    "title": "用一条模板把 AI 选题拆成日报",
+    "publish_time": "2026-06-26T09:00:00+08:00",
+    "video_url": "https://example.com/seed/video_001",
+    "cover_url": "https://example.com/seed/video_001.jpg",
+    "like_count": 2800,
+    "comment_count": 140,
+    "share_count": 25,
+    "collect_count": 88,
+    "description": "分享效率工具、AI 工作流和办公经验",
+    "topic_tags": ["AI 选题", "日报模板", "复盘"],
+    "transcript_hint": "这条视频主要讲怎么把 AI 选题整理成日报。先固定输入格式，再统一总结字段，最后用同一套模板批量复用。",
+    "text_hint": "讲解日报模板和选题整理方法"
+  },
+  {
+    "creator_id": "demo_marketing",
+    "creator_name": "运营类示例博主",
+    "video_id": "seed_video_002",
+    "title": "爆款拆解不要只看点赞",
+    "publish_time": "2026-06-26T10:30:00+08:00",
+    "video_url": "https://example.com/seed/video_002",
+    "cover_url": "https://example.com/seed/video_002.jpg",
+    "like_count": 4200,
+    "comment_count": 360,
+    "share_count": 71,
+    "collect_count": 115,
+    "description": "分享短视频选题、爆款拆解和转化技巧",
+    "topic_tags": ["爆款拆解", "互动指标", "转化"],
+    "transcript_hint": "这条视频强调爆款拆解不要只盯点赞，还要一起看评论率、收藏率和转化动作，否则总结会偏掉。",
+    "text_hint": "讲解多指标拆解方法"
+  }
+]

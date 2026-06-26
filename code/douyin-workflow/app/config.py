@@ -18,6 +18,8 @@ def load_config(path: Path) -> PipelineConfig:
         fetch_adapter=settings_payload.get("fetch_adapter", "stub"),
         report_top_n=int(settings_payload.get("report_top_n", 10)),
         max_videos_per_creator=int(settings_payload.get("max_videos_per_creator", 2)),
+        local_seed_file=settings_payload.get("local_seed_file", "seeds/example_videos.json"),
+        ffmpeg_path=settings_payload.get("ffmpeg_path", "ffmpeg"),
     )
     creators = [
         CreatorConfig(

@@ -13,6 +13,7 @@ on:
         options:
           - all
           - fetch
+          - media
           - transcribe
           - analyze
           - report
@@ -85,6 +86,7 @@ jobs:
             code/douyin-workflow/outputs/reports/**
             code/douyin-workflow/outputs/logs/**
             code/douyin-workflow/outputs/raw/**
+            code/douyin-workflow/outputs/media/**
             code/douyin-workflow/outputs/transcripts/**
             code/douyin-workflow/outputs/analysis/**
           retention-days: 7

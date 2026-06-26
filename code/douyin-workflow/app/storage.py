@@ -25,9 +25,11 @@ class StateStore:
         if run_date not in fetch_runs:
             fetch_runs.append(run_date)
 
+        media_status = record.get("media_status", "pending")
         transcript_status = record.get("transcript_status", "pending")
         analysis_status = record.get("analysis_status", "pending")
         if video.video_id not in self.records:
+            media_status = "pending"
             transcript_status = "pending"
             analysis_status = "pending"
 
@@ -37,6 +39,8 @@ class StateStore:
             "first_seen_at": record.get("first_seen_at", fetched_at),
             "last_seen_at": fetched_at,
             "fetch_runs": fetch_runs,
+            "media_status": media_status,
+            "media": record.get("media"),
             "transcript_status": transcript_status,
             "analysis_status": analysis_status,
             "transcript": record.get("transcript"),
@@ -58,6 +62,7 @@ class StateStore:
             item
             for item in self.list_records_for_run(run_date)
             if item.get("transcript_status") != "completed"
+            and item.get("media_status") in {"completed", "skipped"}
         ]
 
     def list_pending_analysis(self, run_date: str) -> list[dict[str, Any]]:
@@ -66,6 +71,34 @@ class StateStore:
             for item in self.list_records_for_run(run_date)
             if item.get("transcript_status") == "completed" and item.get("analysis_status") != "completed"
         ]
+
+    def list_pending_media(self, run_date: str) -> list[dict[str, Any]]:
+        return [
+            item
+            for item in self.list_records_for_run(run_date)
+            if item.get("media_status") != "completed"
+        ]
+
+    def mark_media_success(self, video_id: str, media: dict[str, Any], processed_at: str) -> None:
+        record = self.records[video_id]
+        record["media_status"] = "completed"
+        record["media"] = {**media, "processed_at": processed_at}
+        record["last_error"] = None
+        if media.get("audio_path"):
+            record["video"]["audio_path"] = media["audio_path"]
+        if media.get("video_path"):
+            record["video"]["local_media_path"] = media["video_path"]
+
+    def mark_media_skipped(self, video_id: str, reason: str, processed_at: str) -> None:
+        record = self.records[video_id]
+        record["media_status"] = "skipped"
+        record["media"] = {"reason": reason, "processed_at": processed_at}
+        record["last_error"] = None
+
+    def mark_media_failure(self, video_id: str, error_message: str) -> None:
+        record = self.records[video_id]
+        record["media_status"] = "failed"
+        record["last_error"] = error_message
 
     def mark_transcript_success(
         self,

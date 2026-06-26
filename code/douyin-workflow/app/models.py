@@ -18,6 +18,8 @@ class AppSettings:
     fetch_adapter: str = "stub"
     report_top_n: int = 10
     max_videos_per_creator: int = 2
+    local_seed_file: str = "seeds/example_videos.json"
+    ffmpeg_path: str = "ffmpeg"
 
 
 @dataclass
@@ -36,6 +38,11 @@ class VideoMetadata:
     description: str = ""
     text_hint: str = ""
     topic_tags: list[str] = field(default_factory=list)
+    source: str = "stub"
+    media_url: str = ""
+    local_media_path: str = ""
+    audio_path: str = ""
+    transcript_hint: str = ""
     raw_payload: dict[str, Any] = field(default_factory=dict)
 
     def to_dict(self) -> dict[str, Any]:
