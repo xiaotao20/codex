@@ -1,5 +1,6 @@
 from app.fetch.douyin_yt_dlp_adapter import (
     _pick_candidate_url,
+    build_homepage_fetch_error,
     build_video_metadata,
     normalize_publish_time,
 )
@@ -49,3 +50,17 @@ def test_normalize_publish_time_uses_upload_date_when_timestamp_missing() -> Non
 
 def test_pick_candidate_url_falls_back_to_video_page() -> None:
     assert _pick_candidate_url({"id": "7499999999999999999"}) == "https://www.douyin.com/video/7499999999999999999"
+
+
+def test_build_homepage_fetch_error_for_user_page() -> None:
+    error = build_homepage_fetch_error("https://www.douyin.com/user/MS4wLjABAAAA123")
+    assert "不支持抖音博主页" in error
+
+
+def test_build_homepage_fetch_error_for_share_short_link() -> None:
+    error = build_homepage_fetch_error("https://v.douyin.com/xlCnV5lTBeo/")
+    assert "主页短链" in error
+
+
+def test_build_homepage_fetch_error_ignores_video_link() -> None:
+    assert build_homepage_fetch_error("https://www.douyin.com/video/7480000000000000000") == ""

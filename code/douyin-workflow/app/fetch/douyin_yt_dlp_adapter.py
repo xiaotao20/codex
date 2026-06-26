@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import os
+from urllib.parse import urlparse
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
@@ -39,6 +40,9 @@ class DouyinYtDlpAdapter(FetchAdapter):
         with ydl_class(options) as ydl:
             info = ydl.extract_info(creator.homepage, download=False)
         if not info:
+            error_message = build_homepage_fetch_error(creator.homepage)
+            if error_message:
+                raise RuntimeError(error_message)
             return []
         if info.get("_type") == "playlist":
             return [entry for entry in info.get("entries", []) if entry]
@@ -154,4 +158,21 @@ def _pick_candidate_url(entry: dict[str, Any]) -> str:
     video_id = str(entry.get("id") or "").strip()
     if video_id:
         return f"https://www.douyin.com/video/{video_id}"
+    return ""
+
+
+def build_homepage_fetch_error(homepage: str) -> str:
+    parsed = urlparse(homepage)
+    host = parsed.netloc.lower()
+    path = parsed.path.rstrip("/")
+
+    if host.endswith("douyin.com") and path.startswith("/user/"):
+        return "当前 douyin_yt_dlp 适配器只支持单视频链接，不支持抖音博主页。请改用单条视频链接，或继续开发主页抓取适配器。"
+
+    if host.endswith("iesdouyin.com") and path.startswith("/share/user/"):
+        return "当前 douyin_yt_dlp 适配器不支持抖音博主页分享链接。请改用单条视频链接，或继续开发主页抓取适配器。"
+
+    if host == "v.douyin.com":
+        return "当前 douyin_yt_dlp 适配器暂不支持抖音主页短链。请改用单条视频链接，或继续开发主页抓取适配器。"
+
     return ""
