@@ -32,6 +32,9 @@ jobs:
   pipeline:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: code/douyin-workflow
     env:
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       OPENAI_TRANSCRIBE_MODEL: ${{ vars.OPENAI_TRANSCRIBE_MODEL || 'gpt-4o-mini-transcribe' }}
@@ -79,9 +82,9 @@ jobs:
         with:
           name: douyin-pipeline-${{ github.run_id }}
           path: |
-            outputs/reports/**
-            outputs/logs/**
-            outputs/raw/**
-            outputs/transcripts/**
-            outputs/analysis/**
+            code/douyin-workflow/outputs/reports/**
+            code/douyin-workflow/outputs/logs/**
+            code/douyin-workflow/outputs/raw/**
+            code/douyin-workflow/outputs/transcripts/**
+            code/douyin-workflow/outputs/analysis/**
           retention-days: 7

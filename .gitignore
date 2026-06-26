@@ -9,3 +9,8 @@ outputs/*
 !outputs/state/
 outputs/state/*
 !outputs/state/processed.json
+
+code/douyin-workflow/outputs/*
+!code/douyin-workflow/outputs/state/
+code/douyin-workflow/outputs/state/*
+!code/douyin-workflow/outputs/state/processed.json
