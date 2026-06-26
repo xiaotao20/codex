@@ -60,6 +60,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: 安装浏览器
+        run: |
+          python -m playwright install --with-deps chromium
+
+      - name: 安装 ffmpeg
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
       - name: 执行工作流
         run: |
           python -m app.main --mode "$PIPELINE_MODE" --run-date "$PIPELINE_RUN_DATE"

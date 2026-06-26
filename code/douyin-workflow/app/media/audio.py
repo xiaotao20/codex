@@ -16,5 +16,8 @@ def extract_audio(video_path: Path, audio_path: Path, ffmpeg_path: str) -> bool:
         "mp3",
         str(audio_path),
     ]
-    completed = subprocess.run(command, capture_output=True, text=True, check=False)
+    try:
+        completed = subprocess.run(command, capture_output=True, text=True, check=False)
+    except FileNotFoundError:
+        return False
     return completed.returncode == 0 and audio_path.exists()

@@ -1,8 +1,10 @@
 from app.fetch.douyin_yt_dlp_adapter import (
     _pick_candidate_url,
-    build_homepage_fetch_error,
+    _should_use_browser_fetch,
+    build_video_metadata_from_aweme,
     build_video_metadata,
     normalize_publish_time,
+    parse_cookie_string,
 )
 from app.models import CreatorConfig
 
@@ -52,15 +54,68 @@ def test_pick_candidate_url_falls_back_to_video_page() -> None:
     assert _pick_candidate_url({"id": "7499999999999999999"}) == "https://www.douyin.com/video/7499999999999999999"
 
 
-def test_build_homepage_fetch_error_for_user_page() -> None:
-    error = build_homepage_fetch_error("https://www.douyin.com/user/MS4wLjABAAAA123")
-    assert "不支持抖音博主页" in error
+def test_build_video_metadata_from_aweme_maps_core_fields() -> None:
+    creator = CreatorConfig(
+        creator_id="creator_1",
+        name="测试博主",
+        homepage="https://www.douyin.com/user/MS4wLjABAAAA123",
+    )
+    aweme = {
+        "aweme_id": "7652732962794346609",
+        "desc": "AI做PPT零基础教学！#PPT #Codex",
+        "create_time": 1782435600,
+        "author": {
+            "nickname": "知雪",
+            "sec_uid": "MS4wLjABAAAA123",
+            "uid": "7569807853663470641",
+        },
+        "statistics": {
+            "digg_count": 1974,
+            "comment_count": 123,
+            "share_count": 45,
+            "collect_count": 67,
+        },
+        "video": {
+            "duration": 18500,
+            "cover": {"url_list": ["https://example.com/cover.jpg"]},
+            "play_addr": {
+                "url_list": [
+                    "https://example.com/video.mp4",
+                    "https://www.douyin.com/aweme/v1/play/?video_id=1",
+                ]
+            },
+        },
+        "text_extra": [
+            {"hashtag_name": "PPT"},
+            {"hashtag_name": "Codex"},
+        ],
+    }
+
+    video = build_video_metadata_from_aweme(creator, aweme)
+
+    assert video.video_id == "7652732962794346609"
+    assert video.creator_name == "知雪"
+    assert video.like_count == 1974
+    assert video.comment_count == 123
+    assert video.share_count == 45
+    assert video.collect_count == 67
+    assert video.cover_url == "https://example.com/cover.jpg"
+    assert video.media_url == "https://example.com/video.mp4"
+    assert video.topic_tags == ["PPT", "Codex"]
+    assert video.duration_seconds == 18.5
+    assert video.source == "douyin_playwright"
 
 
-def test_build_homepage_fetch_error_for_share_short_link() -> None:
-    error = build_homepage_fetch_error("https://v.douyin.com/xlCnV5lTBeo/")
-    assert "主页短链" in error
+def test_parse_cookie_string_builds_browser_cookie_payload() -> None:
+    cookies = parse_cookie_string("sessionid=abc123; sid_guard=xyz")
+    assert cookies[0]["name"] == "sessionid"
+    assert cookies[0]["value"] == "abc123"
+    assert cookies[0]["domain"] == ".douyin.com"
+    assert cookies[1]["name"] == "sid_guard"
 
 
-def test_build_homepage_fetch_error_ignores_video_link() -> None:
-    assert build_homepage_fetch_error("https://www.douyin.com/video/7480000000000000000") == ""
+def test_should_use_browser_fetch_supports_homepage_and_short_link() -> None:
+    assert _should_use_browser_fetch("https://www.douyin.com/user/MS4wLjABAAAA123") is True
+    assert _should_use_browser_fetch("https://www.iesdouyin.com/share/user/MS4wLjABAAAA123") is True
+    assert _should_use_browser_fetch("https://v.douyin.com/xlCnV5lTBeo/") is True
+    assert _should_use_browser_fetch("https://www.douyin.com/video/7480000000000000000") is False
