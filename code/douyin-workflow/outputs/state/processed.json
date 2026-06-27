@@ -797,5 +797,482 @@
       "processed_at": "2026-06-26T13:46:10+08:00"
     },
     "last_error": null
+  },
+  "7065611424403393805": {
+    "video_id": "7065611424403393805",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "溺水的小鱼干🐡",
+      "video_id": "7065611424403393805",
+      "title": "纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑",
+      "publish_time": "2022-02-17T17:41:28+08:00",
+      "video_url": "https://www.douyin.com/video/7065611424403393805",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/d0874347e4197e8be11e80afa1941915~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097892800&x-signature=JrLkxkOHeUl6V4op01ixTUE5010%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026062712580978E1B00A97AEE878C495",
+      "like_count": 127784,
+      "comment_count": 2454,
+      "share_count": 2236,
+      "collect_count": 4127,
+      "description": "纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑",
+      "text_hint": "纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑",
+      "topic_tags": [
+        "周洋",
+        "王濛",
+        "短道速滑"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/9b38eb217563c51379d28ea930e84cac/6a3f8310/video/tos/cn/tos-cn-ve-15-alinc2/ccf47d8b4a9c4ca89409193086425a7b/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=558&bt=558&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wag8qHhd.xf80l03-ApQX&mime_type=video_mp4&qs=0&rc=ZTVoZzk0ZTo1ODs3NWc4NEBpanZxaGk6Zm00OzMzNGkzM0A2MjJgLmFfXl4xNmEwLzYuYSMzZV5rcjQwZDRgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100o_100w_100B_100D_102u&dy_q=1782536289&l=2026062712580978E1B00A97AEE878C495",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7065611424403393805.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7065611424403393805.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 129.729,
+      "raw_payload": {
+        "aweme_id": "7065611424403393805",
+        "author_uid": "66598221836",
+        "sec_uid": "MS4wLjABAAAAFbOvvDdoN8NUZollu_iNVghXWbozH6pu7UEANZuZBHg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAFbOvvDdoN8NUZollu_iNVghXWbozH6pu7UEANZuZBHg"
+      }
+    },
+    "first_seen_at": "2026-06-27T12:57:57+08:00",
+    "last_seen_at": "2026-06-27T12:57:57+08:00",
+    "fetch_runs": [
+      "2026-06-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7065611424403393805.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7065611424403393805.mp3",
+      "source": "download",
+      "processed_at": "2026-06-27T13:01:32+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7065611424403393805",
+      "transcript_raw": "纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑补充信息：纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑关键词：周洋、王濛、短道速滑",
+      "transcript_clean": "纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑补充信息：纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑关键词：周洋、王濛、短道速滑",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-27/7065611424403393805.json",
+      "processed_at": "2026-06-27T13:01:32+08:00"
+    },
+    "analysis": {
+      "video_id": "7065611424403393805",
+      "summary": "溺水的小鱼干🐡围绕“周洋”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑。纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑补充信息：纵使王濛身披数个冠军光环，但她却只在周洋夺冠的时候泪洒冰场！#周洋 #王濛 #短道速滑关键词：周洋、王濛、短道速滑 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "周洋为什么总是做不出来结果？",
+        "先把王濛想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕周洋组织标题与开头。",
+        "用王濛和短道速滑补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "周洋",
+        "王濛",
+        "短道速滑"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-27/7065611424403393805.json",
+      "processed_at": "2026-06-27T13:01:32+08:00"
+    },
+    "last_error": null
+  },
+  "7398893398230388006": {
+    "video_id": "7398893398230388006",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "佳读好书",
+      "video_id": "7398893398230388006",
+      "title": "穿越滇缅公路，重温战时记忆，开启惊险之旅！",
+      "publish_time": "2024-08-03T20:46:07+08:00",
+      "video_url": "https://www.douyin.com/video/7398893398230388006",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/02ba9fab04d7906d501a43dcc0889b73~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097892800&x-signature=2gkH%2FK4zIxSshBmVeRdpm6fpr5w%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260627125813BC5672D9FBD962956246",
+      "like_count": 7,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "穿越滇缅公路，重温战时记忆，开启惊险之旅！",
+      "text_hint": "穿越滇缅公路，重温战时记忆，开启惊险之旅！",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/ca392eac50a426112660c8b657bffe6f/6a3f83ed/video/tos/cn/tos-cn-ve-0015c800/o4QeumzABBigjg9T5qIAWFEAaJDbxrhHtfuO4C/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=1154&bt=1154&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wsg8qHhd.xf80l03-ApQX&mime_type=video_mp4&qs=0&rc=OjU8OWVnNWQ0Z2RkOjszNkBpanJvZHY5cjY1dDMzNGkzM0BiMy5eXzZeNS4xNDBiY2NfYSNvZ2JvMmRrYWtgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=101N_100o_100w_100B_101A&dy_q=1782536293&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260627125813BC5672D9FBD962956246",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7398893398230388006.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7398893398230388006.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 344.034,
+      "raw_payload": {
+        "aweme_id": "7398893398230388006",
+        "author_uid": "3096669351588147",
+        "sec_uid": "MS4wLjABAAAA59tNjUeUa9DHf0afh0u8chlBiWJz_NcDa-1pvW-0CjytqF8hgNUhG9CbotFlEPai",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA59tNjUeUa9DHf0afh0u8chlBiWJz_NcDa-1pvW-0CjytqF8hgNUhG9CbotFlEPai"
+      }
+    },
+    "first_seen_at": "2026-06-27T12:57:57+08:00",
+    "last_seen_at": "2026-06-27T12:57:57+08:00",
+    "fetch_runs": [
+      "2026-06-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7398893398230388006.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7398893398230388006.mp3",
+      "source": "download",
+      "processed_at": "2026-06-27T13:01:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7398893398230388006",
+      "transcript_raw": "穿越滇缅公路，重温战时记忆，开启惊险之旅！穿越滇缅公路，重温战时记忆，开启惊险之旅！补充信息：穿越滇缅公路，重温战时记忆，开启惊险之旅！",
+      "transcript_clean": "穿越滇缅公路，重温战时记忆，开启惊险之旅！穿越滇缅公路，重温战时记忆，开启惊险之旅！补充信息：穿越滇缅公路，重温战时记忆，开启惊险之旅！",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-27/7398893398230388006.json",
+      "processed_at": "2026-06-27T13:01:32+08:00"
+    },
+    "analysis": {
+      "video_id": "7398893398230388006",
+      "summary": "佳读好书围绕“穿越滇缅公路，重温战时记忆，开启惊险之旅！穿越滇缅公路，重温战时记忆，开启惊险之旅！补充信息：穿越滇缅公路，重温战时记忆，开启惊险之旅”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "穿越滇缅公路，重温战时记忆，开启惊险之旅！。穿越滇缅公路，重温战时记忆，开启惊险之旅！穿越滇缅公路，重温战时记忆，开启惊险之旅！补充信息：穿越滇缅公路，重温战时记忆，开启惊险之旅！ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "穿越滇缅公路，重温战时记忆，开启惊险之旅！穿越滇缅公路，重温战时记忆，开启惊险之旅！补充信息：穿越滇缅公路，重温战时记忆，开启惊险之旅为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕穿越滇缅公路，重温战时记忆，开启惊险之旅！穿越滇缅公路，重温战时记忆，开启惊险之旅！补充信息：穿越滇缅公路，重温战时记忆，开启惊险之旅组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "穿越滇缅公路，重温战时记忆，开启惊险之旅！穿越滇缅公路，重温战时记忆，开启惊险之旅！补充信息：穿越滇缅公路，重温战时记忆，开启惊险之旅",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-27/7398893398230388006.json",
+      "processed_at": "2026-06-27T13:01:32+08:00"
+    },
+    "last_error": null
+  },
+  "7399966362304531724": {
+    "video_id": "7399966362304531724",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7399966362304531724",
+      "title": "在抖音记录美好生活20260627",
+      "publish_time": "2026-06-27T12:59:13+08:00",
+      "video_url": "https://www.douyin.com/video/7399966362304531724",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260627",
+      "text_hint": "在抖音记录美好生活20260627",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/352572c6-0210-478b-a661-9a5716122dac",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7399966362304531724",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-06-27T12:57:57+08:00",
+    "last_seen_at": "2026-06-27T12:57:57+08:00",
+    "fetch_runs": [
+      "2026-06-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7531712184641260810": {
+    "video_id": "7531712184641260810",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7531712184641260810",
+      "title": "库力孜亚，祖肯🇨🇳🎼在抖音记录美好生活20250727",
+      "publish_time": "2025-07-27T10:49:00+08:00",
+      "video_url": "https://www.douyin.com/video/7531712184641260810",
+      "cover_url": "",
+      "like_count": 78,
+      "comment_count": 14,
+      "share_count": 4,
+      "collect_count": 0,
+      "description": "库力孜亚，祖肯🇨🇳🎼在抖音记录美好生活20250727",
+      "text_hint": "库力孜亚，祖肯🇨🇳🎼在抖音记录美好生活20250727",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/8265cfcb-60a0-481c-8b5e-2246b250bab5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7531712184641260810",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-06-27T12:57:57+08:00",
+    "last_seen_at": "2026-06-27T12:57:57+08:00",
+    "fetch_runs": [
+      "2026-06-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7226733439733550373": {
+    "video_id": "7226733439733550373",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7226733439733550373",
+      "title": "在抖音记录美好生活20260627",
+      "publish_time": "2026-06-27T12:59:13+08:00",
+      "video_url": "https://www.douyin.com/video/7226733439733550373",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260627",
+      "text_hint": "在抖音记录美好生活20260627",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/9c950396-078e-4354-b30d-c9fc73e58da5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7226733439733550373",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-06-27T12:57:57+08:00",
+    "last_seen_at": "2026-06-27T12:57:57+08:00",
+    "fetch_runs": [
+      "2026-06-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7185724325419306297": {
+    "video_id": "7185724325419306297",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "科技点子王",
+      "video_id": "7185724325419306297",
+      "title": "被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱",
+      "publish_time": "2023-01-07T10:00:01+08:00",
+      "video_url": "https://www.douyin.com/video/7185724325419306297",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/72b5c69cca71581e6d95d7162a7c4c57~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097892800&x-signature=IeYzIi7RkYmk6M6QbX0kbEJn4T4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260627125851C001D3982F42A2934B1D",
+      "like_count": 4606,
+      "comment_count": 48,
+      "share_count": 285,
+      "collect_count": 838,
+      "description": "被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱",
+      "text_hint": "被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱",
+      "topic_tags": [
+        "美国霸权",
+        "战争",
+        "人间炼狱"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/f5738377f2aabde6bb97384a3529c27b/6a3f8391/video/tos/cn/tos-cn-ve-0015c800/oIqaHBoPRgn0AkAeQm9BCeVx4EeU7cLDrvkZbP/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=902&bt=902&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wlO8qHhd.xf80l03-ApQX&mime_type=video_mp4&qs=0&rc=ZTw2PDtmPDM6Zjg7ZTw1NEBpMzg8ZDo6ZmlnaDMzNGkzM0BiL2NeM2JhNS4xXjBiNDItYSNyaGpqcjRnMXBgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100D_100J&dy_q=1782536331&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260627125851C001D3982F42A2934B1D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7185724325419306297.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7185724325419306297.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 214.529,
+      "raw_payload": {
+        "aweme_id": "7185724325419306297",
+        "author_uid": "1091178059535211",
+        "sec_uid": "MS4wLjABAAAAaapSdKfx9MDLwY2uXXNq9LpQkBrFAi6iXunZFOpIs4C0uI_R4f4bg8tVnRlWzJCp",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAaapSdKfx9MDLwY2uXXNq9LpQkBrFAi6iXunZFOpIs4C0uI_R4f4bg8tVnRlWzJCp"
+      }
+    },
+    "first_seen_at": "2026-06-27T12:57:57+08:00",
+    "last_seen_at": "2026-06-27T12:57:57+08:00",
+    "fetch_runs": [
+      "2026-06-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7185724325419306297.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7185724325419306297.mp3",
+      "source": "download",
+      "processed_at": "2026-06-27T13:01:23+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7185724325419306297",
+      "transcript_raw": "被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱补充信息：被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱关键词：美国霸权、战争、人间炼狱",
+      "transcript_clean": "被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱补充信息：被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱关键词：美国霸权、战争、人间炼狱",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-27/7185724325419306297.json",
+      "processed_at": "2026-06-27T13:01:32+08:00"
+    },
+    "analysis": {
+      "video_id": "7185724325419306297",
+      "summary": "科技点子王围绕“美国霸权”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱。被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱补充信息：被美国整垮的国家有哪些？有的至今仍被轰炸，有的直接被灭国 #美国霸权 #战争 #人间炼狱关键词：美国霸权、战争、人间炼狱 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "美国霸权为什么总是做不出来结果？",
+        "先把战争想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕美国霸权组织标题与开头。",
+        "用战争和人间炼狱补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "美国霸权",
+        "战争",
+        "人间炼狱"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-27/7185724325419306297.json",
+      "processed_at": "2026-06-27T13:01:32+08:00"
+    },
+    "last_error": null
+  },
+  "7430506201726618915": {
+    "video_id": "7430506201726618915",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7430506201726618915",
+      "title": "芭提雅市区海景别墅 不需要公司名额 外国人可以直接买",
+      "publish_time": "2024-10-28T00:35:00+08:00",
+      "video_url": "https://www.douyin.com/video/7430506201726618915",
+      "cover_url": "",
+      "like_count": 114,
+      "comment_count": 30,
+      "share_count": 58,
+      "collect_count": 50,
+      "description": "芭提雅市区海景别墅 不需要公司名额 外国人可以直接买",
+      "text_hint": "芭提雅市区海景别墅 不需要公司名额 外国人可以直接买",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/dc4fd0914a995362387c68aacaca18ad/6a3f84ac/video/tos/cn/tos-cn-ve-15/okQReOFBkCOOFA72SwIAgLIBm4GXePkWOewvma/?a=6383&br=2300&bt=2300&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100K_100o_100w_100B_100H&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1782536347&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wYO8qHhd.xf80l03-ApQX&is_ssr=1&l=20260627125907214CDA563C7568985E7F&lr=all&mime_type=video_mp4&qs=1&rc=aTNmaWY2PDw8NzNnZjQzZkBpM3lqdW45cm86djMzNGkzM0BeYGAuMjY2NjUxYi02MGA2YSNgL2FlMmRzNmNgLS1kLWFzcw%3D%3D&__vid=7430506201726618915",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7430506201726618915.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7430506201726618915.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7430506201726618915",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-06-27T12:57:57+08:00",
+    "last_seen_at": "2026-06-27T12:57:57+08:00",
+    "fetch_runs": [
+      "2026-06-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7430506201726618915.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-27/7430506201726618915.mp3",
+      "source": "download",
+      "processed_at": "2026-06-27T13:00:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7430506201726618915",
+      "transcript_raw": "芭提雅市区海景别墅 不需要公司名额 外国人可以直接买芭提雅市区海景别墅 不需要公司名额 外国人可以直接买补充信息：芭提雅市区海景别墅 不需要公司名额 外国人可以直接买",
+      "transcript_clean": "芭提雅市区海景别墅 不需要公司名额 外国人可以直接买芭提雅市区海景别墅 不需要公司名额 外国人可以直接买补充信息：芭提雅市区海景别墅 不需要公司名额 外国人可以直接买",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-27/7430506201726618915.json",
+      "processed_at": "2026-06-27T13:01:32+08:00"
+    },
+    "analysis": {
+      "video_id": "7430506201726618915",
+      "summary": "知雪围绕“不需要公司名额”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "芭提雅市区海景别墅 不需要公司名额 外国人可以直接买。芭提雅市区海景别墅 不需要公司名额 外国人可以直接买芭提雅市区海景别墅 不需要公司名额 外国人可以直接买补充信息：芭提雅市区海景别墅 不需要公司名额 外国人可以直接买 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "不需要公司名额为什么总是做不出来结果？",
+        "先把芭提雅市区海景别墅想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕不需要公司名额组织标题与开头。",
+        "用芭提雅市区海景别墅和外国人可以直接买芭提雅市区海景别墅补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "不需要公司名额",
+        "芭提雅市区海景别墅",
+        "外国人可以直接买芭提雅市区海景别墅"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-27/7430506201726618915.json",
+      "processed_at": "2026-06-27T13:01:32+08:00"
+    },
+    "last_error": null
   }
 }
