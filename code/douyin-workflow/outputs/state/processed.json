@@ -1274,5 +1274,577 @@
       "processed_at": "2026-06-27T13:01:32+08:00"
     },
     "last_error": null
+  },
+  "7622594441798372649": {
+    "video_id": "7622594441798372649",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "影子说剧",
+      "video_id": "7622594441798372649",
+      "title": "可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强",
+      "publish_time": "2026-03-29T16:39:39+08:00",
+      "video_url": "https://www.douyin.com/video/7622594441798372649",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bac083964f6e76821238836c5c959a8e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097982800&x-signature=7hxreFW29QS5JUKIcRMsBPKjK3U%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260628132237D8EA48370D4E9B29EB7A",
+      "like_count": 197973,
+      "comment_count": 1527,
+      "share_count": 11844,
+      "collect_count": 5683,
+      "description": "可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强",
+      "text_hint": "可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强",
+      "topic_tags": [
+        "白日提灯",
+        "迪丽热巴",
+        "好剧推荐",
+        "白日提灯一集更比一集强"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/f7e3a168ebf72fbc2afa65ec3c067857/6a40da58/video/tos/cn/tos-cn-ve-15/o0fWsBCIgw7aenYFf8jiSRcVTKot1MPFkBQAAB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1301&bt=1301&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wQei1Hhd.9bYrf03-ApQX&mime_type=video_mp4&qs=0&rc=ZGc6NmVpaWQzO2c7PDM4ZEBpajpkOG45cnJoOjMzNGkzM0AvNl81X2BgNi0xY19eMDAvYSNxZmliMmRrNjFhLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100H_100K&dy_q=1782624157&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260628132237D8EA48370D4E9B29EB7A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7622594441798372649.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7622594441798372649.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 139.437,
+      "raw_payload": {
+        "aweme_id": "7622594441798372649",
+        "author_uid": "3817933653934365",
+        "sec_uid": "MS4wLjABAAAAh3Kxk1KUjQKuPPel1cYOBU7AhH_bPJURhLR88bzLqykD5XxSB-FlHUl_NsHKuz8T",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAh3Kxk1KUjQKuPPel1cYOBU7AhH_bPJURhLR88bzLqykD5XxSB-FlHUl_NsHKuz8T"
+      }
+    },
+    "first_seen_at": "2026-06-28T13:22:24+08:00",
+    "last_seen_at": "2026-06-28T13:22:24+08:00",
+    "fetch_runs": [
+      "2026-06-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7622594441798372649.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7622594441798372649.mp3",
+      "source": "download",
+      "processed_at": "2026-06-28T13:23:49+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7622594441798372649",
+      "transcript_raw": "可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强补充信息：可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强关键词：白日提灯、迪丽热巴、好剧推荐、白日提灯一集更比一集强",
+      "transcript_clean": "可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强补充信息：可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强关键词：白日提灯、迪丽热巴、好剧推荐、白日提灯一集更比一集强",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-28/7622594441798372649.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7622594441798372649",
+      "summary": "影子说剧围绕“白日提灯”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强。可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强补充信息：可算知道贺思慕所占据的那个身体，为什么这么弱了 #白日提灯 #迪丽热巴 #好剧推荐#白日提灯一集更比一集强关键词：白日提灯、迪丽热巴、好剧推荐、白日提灯一集更比一集强 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "白日提灯为什么总是做不出来结果？",
+        "先把迪丽热巴想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕白日提灯组织标题与开头。",
+        "用迪丽热巴和好剧推荐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "白日提灯",
+        "迪丽热巴",
+        "好剧推荐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-28/7622594441798372649.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "last_error": null
+  },
+  "7366562306823621927": {
+    "video_id": "7366562306823621927",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "全民历史观",
+      "video_id": "7366562306823621927",
+      "title": "2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势",
+      "publish_time": "2024-05-08T17:44:01+08:00",
+      "video_url": "https://www.douyin.com/video/7366562306823621927",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/32376b21fc20d7e0ecb7a9d6a659818c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097982800&x-signature=zyaxGL64NZ%2BQTKisnNiKh9bNiCA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260628132240D20E0D53023865318253",
+      "like_count": 370,
+      "comment_count": 37,
+      "share_count": 28,
+      "collect_count": 72,
+      "description": "2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势",
+      "text_hint": "2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/7710f1f2bc13420a8f71df99498a1836/6a40dac8/video/tos/cn/tos-cn-ve-0015c800/oIkQ2A7WpGgFfIIMBdLeBCAVLfCrLCQl7vGgBZ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=786&bt=786&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wKei1Hhd.9bYrf03-ApQX&mime_type=video_mp4&qs=0&rc=aGc4NTozOGczOzdpNGQ6N0Bpajh5cHI5cnVucjMzNGkzM0AwYzU2My0uXjYxXzY0Li81YSNkbzYxMmQ0ZnFgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100J_100o_100w_100B_100D&dy_q=1782624160&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260628132240D20E0D53023865318253",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7366562306823621927.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7366562306823621927.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 248.299,
+      "raw_payload": {
+        "aweme_id": "7366562306823621927",
+        "author_uid": "2780043896430820",
+        "sec_uid": "MS4wLjABAAAAS8BxjYfzTKKWFLvLRtPa-t0eTZZh6P_Om7UQQU5DX-pis-aYrvpICSNw_6tESjKm",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAS8BxjYfzTKKWFLvLRtPa-t0eTZZh6P_Om7UQQU5DX-pis-aYrvpICSNw_6tESjKm"
+      }
+    },
+    "first_seen_at": "2026-06-28T13:22:24+08:00",
+    "last_seen_at": "2026-06-28T13:22:24+08:00",
+    "fetch_runs": [
+      "2026-06-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7366562306823621927.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7366562306823621927.mp3",
+      "source": "download",
+      "processed_at": "2026-06-28T13:25:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7366562306823621927",
+      "transcript_raw": "2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势补充信息：2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势",
+      "transcript_clean": "2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势补充信息：2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-28/7366562306823621927.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7366562306823621927",
+      "summary": "全民历史观围绕“2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势补充信息：2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势。2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势补充信息：2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势补充信息：2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势补充信息：2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势补充信息：2亿人挨饿，印度为何仍能疯狂出口粮食？对比中国，印度有3大优势",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-28/7366562306823621927.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "last_error": null
+  },
+  "7343800131151498537": {
+    "video_id": "7343800131151498537",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "福建师范大学小葵",
+      "video_id": "7343800131151498537",
+      "title": "福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐",
+      "publish_time": "2024-03-08T09:35:22+08:00",
+      "video_url": "https://www.douyin.com/video/7343800131151498537",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/08deb7c4748985708146a874e0850b42~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097982800&x-signature=WozhBUHenUixg%2BHrZUesAyQewE4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026062813224593492A31695AB2096AC0",
+      "like_count": 104,
+      "comment_count": 1,
+      "share_count": 22,
+      "collect_count": 8,
+      "description": "福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐",
+      "text_hint": "福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐",
+      "topic_tags": [
+        "严复",
+        "女性",
+        "新时代女性",
+        "抖音高校",
+        "妇女节快乐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/37a949a0a3db1d8b445c9bd21af5df75/6a40da9d/video/tos/cn/tos-cn-ve-0015c800/oE1AKXf6XIzieIQAqmugNyhulqEr9d5ANM4maB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=520&bt=520&cs=0&ds=1&ft=CZdgCYlIDyjNMRVQ9wsei1Hhd.9bYrf03-ApQX&mime_type=video_mp4&qs=0&rc=N2VkZDU1Ozc8ZmhkaGlmO0BpM3E3Zjs6Zmk5cTMzNGkzM0BfYl40Yl5fNTYxYjMtMS1jYSNnaGtrcjQwaWlgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100z_100o_100w_100B_100x&dy_q=1782624165&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026062813224593492A31695AB2096AC0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7343800131151498537.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7343800131151498537.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 200.296,
+      "raw_payload": {
+        "aweme_id": "7343800131151498537",
+        "author_uid": "108829045926",
+        "sec_uid": "MS4wLjABAAAA8gUpav6WigJEMTmHEVS2cq-_nBlU_ziOjmbG_KrVYVY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA8gUpav6WigJEMTmHEVS2cq-_nBlU_ziOjmbG_KrVYVY"
+      }
+    },
+    "first_seen_at": "2026-06-28T13:22:24+08:00",
+    "last_seen_at": "2026-06-28T13:22:24+08:00",
+    "fetch_runs": [
+      "2026-06-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7343800131151498537.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7343800131151498537.mp3",
+      "source": "download",
+      "processed_at": "2026-06-28T13:25:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7343800131151498537",
+      "transcript_raw": "福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐补充信息：福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐关键词：严复、女性、新时代女性、抖音高校、妇女节快乐",
+      "transcript_clean": "福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐补充信息：福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐关键词：严复、女性、新时代女性、抖音高校、妇女节快乐",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-28/7343800131151498537.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7343800131151498537",
+      "summary": "福建师范大学小葵围绕“严复”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐。福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐补充信息：福建师范大学“数说侯官历史 赓续千年文脉”实践队出品《严复眼中的女孩们》 带你从新视角看#严复 的#女性 观！#新时代女性 #抖音高校 #妇女节快乐关键词：严复、女性、新时代女性、抖音高校、妇女节快乐 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "严复为什么总是做不出来结果？",
+        "先把女性想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕严复组织标题与开头。",
+        "用女性和新时代女性补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "严复",
+        "女性",
+        "新时代女性"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-28/7343800131151498537.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "last_error": null
+  },
+  "7581088098303839887": {
+    "video_id": "7581088098303839887",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7581088098303839887",
+      "title": "把一段河北梆子《大登殿》选段，送给我的兄弟姐妹聆听，谢谢大家的关注点赞与支持。",
+      "publish_time": "2025-12-07T12:13:00+08:00",
+      "video_url": "https://www.douyin.com/video/7581088098303839887",
+      "cover_url": "",
+      "like_count": 224,
+      "comment_count": 112,
+      "share_count": 5,
+      "collect_count": 0,
+      "description": "把一段河北梆子《大登殿》选段，送给我的兄弟姐妹聆听，谢谢大家的关注点赞与支持。",
+      "text_hint": "把一段河北梆子《大登殿》选段，送给我的兄弟姐妹聆听，谢谢大家的关注点赞与支持。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/885e5fe6-1fba-4ba3-b318-68ddf470e3a4",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7581088098303839887",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-06-28T13:22:24+08:00",
+    "last_seen_at": "2026-06-28T13:22:24+08:00",
+    "fetch_runs": [
+      "2026-06-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7020979112080674085": {
+    "video_id": "7020979112080674085",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "淡泊湖（影视摄制）",
+      "video_id": "7020979112080674085",
+      "title": "陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……",
+      "publish_time": "2021-10-20T11:04:47+08:00",
+      "video_url": "https://www.douyin.com/video/7020979112080674085",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/abe8214105e79378aac9753c4bc725af~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097982800&x-signature=Qk2TlP%2BCKpLiYr0V8zCO1xjZmxU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202606281323087589D2AE2DD87F06F36F",
+      "like_count": 1735,
+      "comment_count": 98,
+      "share_count": 144,
+      "collect_count": 38,
+      "description": "陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……",
+      "text_hint": "陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/d962a0c2cda1c78e2500f4e1a6f46e99/6a40dab7/video/cn/mps/realtime/v1/r/p/v0200fg10000c5nodhjc77u4etbi5ql0/f772ba2293d5447289cdebf8d0262d2f/331b120d04f5caff1e7be9083bebad97/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=283&bt=283&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9wTei1Hhd.9bYrf03-ApQX&mime_type=video_mp4&qs=0&rc=aWc5MztlZzw1Nzg2NWQ1OkBpM3Rsdzc6ZmtyODMzNGkzM0AvLy9hY2JgNTQxYTYvXzRjYSNpMl9icjRnYWtgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100o_100w_100B_100x_102u&definition=720p&dy_q=1782624188&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7020979112080674085&l=202606281323087589D2AE2DD87F06F36F&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7020979112080674085.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7020979112080674085.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 205.767,
+      "raw_payload": {
+        "aweme_id": "7020979112080674085",
+        "author_uid": "106549253813",
+        "sec_uid": "MS4wLjABAAAACDD0Ih1umut5mnRWGk0WX-eb5Lqsi4qa3Zv0wx4ypkk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACDD0Ih1umut5mnRWGk0WX-eb5Lqsi4qa3Zv0wx4ypkk"
+      }
+    },
+    "first_seen_at": "2026-06-28T13:22:24+08:00",
+    "last_seen_at": "2026-06-28T13:22:24+08:00",
+    "fetch_runs": [
+      "2026-06-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7020979112080674085.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7020979112080674085.mp3",
+      "source": "download",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7020979112080674085",
+      "transcript_raw": "陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……补充信息：陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……",
+      "transcript_clean": "陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……补充信息：陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-28/7020979112080674085.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7020979112080674085",
+      "summary": "淡泊湖（影视摄制）围绕“陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……补充信息：陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……。陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……补充信息：陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了…… 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……补充信息：陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……补充信息：陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……补充信息：陶铸于1951年完成广西剿匪后赴武汉途径祁阳下车小息，为何突然不走了……",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-28/7020979112080674085.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "last_error": null
+  },
+  "7045976797581790478": {
+    "video_id": "7045976797581790478",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "江莱仔仔",
+      "video_id": "7045976797581790478",
+      "title": "如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养",
+      "publish_time": "2021-12-27T11:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7045976797581790478",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/615d950577340f8ce403f305ffedd0ac~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2097982800&x-signature=DMRiPVFyWGjm%2BVDCFiAaun9EIE8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026062813231249B0401829D22D2FF24D",
+      "like_count": 4567,
+      "comment_count": 875,
+      "share_count": 932,
+      "collect_count": 448,
+      "description": "如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养",
+      "text_hint": "如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养",
+      "topic_tags": [
+        "妈妈带娃",
+        "育儿",
+        "科学喂养"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/b9382f7a50ce7137aef01bdd50ea4742/6a40dab4/video/cn/mps/realtime/v1/r/p/v0200fg10000c7459o3c77u7umfgqvg0/184e05262971492089e1a4e30fd55042/554bd1f9a4a545dc66bd43000db37c21/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=676&bt=676&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9w.bi1Hhd.9bYrf03-ApQX&mime_type=video_mp4&qs=0&rc=NTM4aTY3NDwzPDQ8OThoO0BpM3lqcDo6ZnI4OjMzNGkzM0AxMmEtYl5iNS8xNC8vLTEuYSNkbmNycjQwNjFgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100B_100H_102u_100o_100w&definition=720p&dy_q=1782624192&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7045976797581790478&l=2026062813231249B0401829D22D2FF24D&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7045976797581790478.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7045976797581790478.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 196.791,
+      "raw_payload": {
+        "aweme_id": "7045976797581790478",
+        "author_uid": "98823624583",
+        "sec_uid": "MS4wLjABAAAAGXSZqvN467Nl669bP24dEnxAz2eh6Iah0oxnI2S4QAs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAGXSZqvN467Nl669bP24dEnxAz2eh6Iah0oxnI2S4QAs"
+      }
+    },
+    "first_seen_at": "2026-06-28T13:22:24+08:00",
+    "last_seen_at": "2026-06-28T13:22:24+08:00",
+    "fetch_runs": [
+      "2026-06-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7045976797581790478.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7045976797581790478.mp3",
+      "source": "download",
+      "processed_at": "2026-06-28T13:25:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7045976797581790478",
+      "transcript_raw": "如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养补充信息：如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养关键词：妈妈带娃、育儿、科学喂养",
+      "transcript_clean": "如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养补充信息：如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养关键词：妈妈带娃、育儿、科学喂养",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-28/7045976797581790478.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7045976797581790478",
+      "summary": "江莱仔仔围绕“妈妈带娃”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养。如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养补充信息：如何训练吞咽困难宝宝，从一口0.2毫升喂到一餐200毫升！！#妈妈带娃 #育儿 #科学喂养关键词：妈妈带娃、育儿、科学喂养 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "妈妈带娃为什么总是做不出来结果？",
+        "先把育儿想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕妈妈带娃组织标题与开头。",
+        "用育儿和科学喂养补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "妈妈带娃",
+        "育儿",
+        "科学喂养"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-28/7045976797581790478.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "last_error": null
+  },
+  "7022941645129780483": {
+    "video_id": "7022941645129780483",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7022941645129780483",
+      "title": "孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育",
+      "publish_time": "2021-10-25T12:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7022941645129780483",
+      "cover_url": "",
+      "like_count": 1103,
+      "comment_count": 116,
+      "share_count": 320,
+      "collect_count": 335,
+      "description": "孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育",
+      "text_hint": "孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育",
+      "topic_tags": [
+        "中考",
+        "中考分流",
+        "家庭教育"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/14d10dba1429bc4795abefe786b40837/6a40dbb1/video/tos/cn/tos-cn-ve-0015c800/efc0ca668e6441d483023a8ab9a050d7/?a=6383&br=491&bt=491&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100H_102u_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1782624208&ft=CZdgCYlIDyjNMRVQ9w0bi1Hhd.9bYrf03-ApQX&is_ssr=1&l=20260628132327CCC383CAE32F113E8483&lr=all&mime_type=video_mp4&qs=0&rc=aGk6NzozNWVlZTVpMzpoPEBpM2RxOTM6ZnI6ODMzNGkzM0AwLWIyYWNgNWMxMi4tYjNeYSNscDBjcjRnbm9gLS1kLS9zcw%3D%3D&__vid=7022941645129780483",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7022941645129780483.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7022941645129780483.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7022941645129780483",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-06-28T13:22:24+08:00",
+    "last_seen_at": "2026-06-28T13:22:24+08:00",
+    "fetch_runs": [
+      "2026-06-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7022941645129780483.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-28/7022941645129780483.mp3",
+      "source": "download",
+      "processed_at": "2026-06-28T13:26:11+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7022941645129780483",
+      "transcript_raw": "孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育补充信息：孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育关键词：中考、中考分流、家庭教育",
+      "transcript_clean": "孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育补充信息：孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育关键词：中考、中考分流、家庭教育",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-28/7022941645129780483.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7022941645129780483",
+      "summary": "知雪围绕“中考”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育。孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育补充信息：孩子考不上高中，这辈子真的废了吗，不上高中的路应该怎么走，建议家长参考#中考 #中考分流 #家庭教育关键词：中考、中考分流、家庭教育 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "中考为什么总是做不出来结果？",
+        "先把中考分流想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕中考组织标题与开头。",
+        "用中考分流和家庭教育补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "中考",
+        "中考分流",
+        "家庭教育"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-28/7022941645129780483.json",
+      "processed_at": "2026-06-28T13:26:26+08:00"
+    },
+    "last_error": null
   }
 }
