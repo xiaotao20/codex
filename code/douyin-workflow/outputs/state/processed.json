@@ -1846,5 +1846,642 @@
       "processed_at": "2026-06-28T13:26:26+08:00"
     },
     "last_error": null
+  },
+  "7656583855139726435": {
+    "video_id": "7656583855139726435",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "唐千霖说高报",
+      "video_id": "7656583855139726435",
+      "title": "天大保专业政策#天大#保专业",
+      "publish_time": "2026-06-29T06:55:48+08:00",
+      "video_url": "https://www.douyin.com/video/7656583855139726435",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oIEWBPCPIGNIJ3c7QgoividnVXBaVkADAwmQp~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098069200&x-signature=EDkABLrMSYC33wU8ZkVTdpKH9JU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260629135703759204F2F02AEAE63363",
+      "like_count": 3,
+      "comment_count": 1,
+      "share_count": 1,
+      "collect_count": 0,
+      "description": "天大保专业政策#天大#保专业",
+      "text_hint": "天大保专业政策#天大#保专业",
+      "topic_tags": [
+        "天大",
+        "保专业"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/eab3f104779c7d54ea65de924ff77d54/6a423366/video/tos/cn/tos-cn-ve-15/oIgDmWkBV7ATBEpvnjPAaphHPiIJoiPI6QGc3/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1253&bt=1253&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wDrE1Hhd.M9mRf03-ApQX&mime_type=video_mp4&qs=0&rc=OjtpaGVoODRkaWZkOGU3OkBpM29odHE5cnZ0PDMzNGkzM0AvMmNjMDQ1NWExYzI0Ni1fYSNfci1xMmQ0YC1hLS1kLS9zcw%3D%3D&btag=80000e00008000&cquery=100x_100z_100o_100w_100B&dy_q=1782712624&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260629135703759204F2F02AEAE63363",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7656583855139726435.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7656583855139726435.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 6.34,
+      "raw_payload": {
+        "aweme_id": "7656583855139726435",
+        "author_uid": "2493286352683795",
+        "sec_uid": "MS4wLjABAAAAllLo0Cb88WHmceG8H1uI7AJ2tcwna4mGK_-F61FODPV6La3UBlOMdidAhgHfB7-B",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAllLo0Cb88WHmceG8H1uI7AJ2tcwna4mGK_-F61FODPV6La3UBlOMdidAhgHfB7-B"
+      }
+    },
+    "first_seen_at": "2026-06-29T13:56:49+08:00",
+    "last_seen_at": "2026-06-29T13:56:49+08:00",
+    "fetch_runs": [
+      "2026-06-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7656583855139726435.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7656583855139726435.mp3",
+      "source": "download",
+      "processed_at": "2026-06-29T13:58:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7656583855139726435",
+      "transcript_raw": "天大保专业政策#天大#保专业天大保专业政策#天大#保专业补充信息：天大保专业政策#天大#保专业关键词：天大、保专业",
+      "transcript_clean": "天大保专业政策#天大#保专业天大保专业政策#天大#保专业补充信息：天大保专业政策#天大#保专业关键词：天大、保专业",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-29/7656583855139726435.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7656583855139726435",
+      "summary": "唐千霖说高报围绕“天大”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "天大保专业政策#天大#保专业。天大保专业政策#天大#保专业天大保专业政策#天大#保专业补充信息：天大保专业政策#天大#保专业关键词：天大、保专业 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "天大为什么总是做不出来结果？",
+        "先把保专业想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕天大组织标题与开头。",
+        "用保专业和天大保专业政策#天大#保专业天大保专业政策#天大#保专业补充信息：天大保专业政策#天大#保专业关键词：天大、保专业补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "天大",
+        "保专业",
+        "天大保专业政策#天大#保专业天大保专业政策#天大#保专业补充信息：天大保专业政策#天大#保专业关键词：天大、保专业"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-29/7656583855139726435.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "last_error": null
+  },
+  "7620628870715660773": {
+    "video_id": "7620628870715660773",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7620628870715660773",
+      "title": "雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手",
+      "publish_time": "2026-03-24T01:32:00+08:00",
+      "video_url": "https://www.douyin.com/video/7620628870715660773",
+      "cover_url": "",
+      "like_count": 314,
+      "comment_count": 54,
+      "share_count": 17,
+      "collect_count": 26,
+      "description": "雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手",
+      "text_hint": "雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手",
+      "topic_tags": [
+        "雄鹿",
+        "字母哥",
+        "卡梅隆托马斯",
+        "库里",
+        "勇士"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/6be657ef14eb1296e2e9cd296b182a42/6a423388/video/tos/cn/tos-cn-ve-15c000-ce/oIQuDTvBUDeE7g7skAIAuFEJk2DwyggfifS7QQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=566&bt=566&cs=0&ds=6&ft=CZdgCYlIDyjNMRVQ9wqrE1Hhd.M9mRf03-ApQX&mime_type=video_mp4&qs=12&rc=NGg3OGk5aTg3NThmN2ZkOEBpanM0b2w5cmh4OjMzbGkzNUAzMTI2LTI2NTMxYjQyLjEzYSMxY2Q1MmRzZi1hLS1kLTVzcw%3D%3D&btag=80000e00018000&cquery=100w_100B_100x_100z_100o&dy_q=1782712630&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026062913571004FBF25FF2D27B9EF166&__vid=7620628870715660773",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7620628870715660773.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7620628870715660773.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7620628870715660773",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-06-29T13:56:49+08:00",
+    "last_seen_at": "2026-06-29T13:56:49+08:00",
+    "fetch_runs": [
+      "2026-06-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7620628870715660773.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7620628870715660773.mp3",
+      "source": "download",
+      "processed_at": "2026-06-29T13:58:12+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7620628870715660773",
+      "transcript_raw": "雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手补充信息：雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手关键词：雄鹿、字母哥、卡梅隆托马斯、库里、勇士",
+      "transcript_clean": "雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手补充信息：雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手关键词：雄鹿、字母哥、卡梅隆托马斯、库里、勇士",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-29/7620628870715660773.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7620628870715660773",
+      "summary": "目标博主 1围绕“雄鹿”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手。雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手补充信息：雄鹿裁掉托马斯！小火车托马斯！卡梅隆托马斯！建议勇士签约 #雄鹿 #字母哥 #卡梅隆托马斯 #库里 #勇士 @DOU+小助手关键词：雄鹿、字母哥、卡梅隆托马斯、库里、勇士 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "雄鹿为什么总是做不出来结果？",
+        "先把字母哥想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕雄鹿组织标题与开头。",
+        "用字母哥和卡梅隆托马斯补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "雄鹿",
+        "字母哥",
+        "卡梅隆托马斯"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-29/7620628870715660773.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "last_error": null
+  },
+  "7310423056541879602": {
+    "video_id": "7310423056541879602",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "阿祖巛新视角",
+      "video_id": "7310423056541879602",
+      "title": "铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班",
+      "publish_time": "2023-12-09T10:55:17+08:00",
+      "video_url": "https://www.douyin.com/video/7310423056541879602",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oQA9ZcDBnAZqMzNQAGUD1AgEnbAReAAfdCAl9I~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098069200&x-signature=%2F84R9oi76q0c%2Fcb9n96rR3kNOyQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202606291357167C95A2C0197ADCE4BAD2",
+      "like_count": 11,
+      "comment_count": 1,
+      "share_count": 2,
+      "collect_count": 3,
+      "description": "铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班",
+      "text_hint": "铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-o-abtest.zjcdn.com/2308128d6dc7cbe68c88e5ce9c946834/6a42355f/video/tos/cn/tos-cn-ve-0015c800/owras9P5nRrzInkUAk8ENv9DrBbWlfAgDfgTAc/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1310&bt=1310&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wTrE1Hhd.M9mRf03-ApQX&mime_type=video_mp4&qs=0&rc=PDw3NjY5OGdmNGlkOTkzaUBpM2R0ODw6ZjN3bzMzNGkzM0AyMzAwYjUxNTIxYTZiMF9iYSNtZjM0cjRvXm1gLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1782712636&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202606291357167C95A2C0197ADCE4BAD2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7310423056541879602.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7310423056541879602.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 499.276,
+      "raw_payload": {
+        "aweme_id": "7310423056541879602",
+        "author_uid": "2475755563133955",
+        "sec_uid": "MS4wLjABAAAAY3bHV8167b5MEw7JbGeqUe3q2E6B2vW6LI-CY3__d9mZAn-YMuDWXPM6-hHrwV40",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAY3bHV8167b5MEw7JbGeqUe3q2E6B2vW6LI-CY3__d9mZAn-YMuDWXPM6-hHrwV40"
+      }
+    },
+    "first_seen_at": "2026-06-29T13:56:49+08:00",
+    "last_seen_at": "2026-06-29T13:56:49+08:00",
+    "fetch_runs": [
+      "2026-06-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7310423056541879602.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7310423056541879602.mp3",
+      "source": "download",
+      "processed_at": "2026-06-29T13:59:44+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7310423056541879602",
+      "transcript_raw": "铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班补充信息：铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班",
+      "transcript_clean": "铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班补充信息：铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-29/7310423056541879602.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7310423056541879602",
+      "summary": "阿祖巛新视角围绕“铭记历史·纪念129运动经典诵读活动《薪火赓续承先志”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班。铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班补充信息：铭记历史·纪念129运动经典诵读活动《薪火赓续承先志 奋楫笃行谱新篇》——珲春市第三中学校——七年九班 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "铭记历史·纪念129运动经典诵读活动《薪火赓续承先志为什么总是做不出来结果？",
+        "先把奋楫笃行谱新篇》——珲春市第三中学校——七年九班铭记历史·纪念129运动经典诵读活动《薪火赓续承先志想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕铭记历史·纪念129运动经典诵读活动《薪火赓续承先志组织标题与开头。",
+        "用奋楫笃行谱新篇》——珲春市第三中学校——七年九班铭记历史·纪念129运动经典诵读活动《薪火赓续承先志和奋楫笃行谱新篇》——珲春市第三中学校——七年九班补充信息：铭记历史·纪念129运动经典诵读活动《薪火赓续承先志补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "铭记历史·纪念129运动经典诵读活动《薪火赓续承先志",
+        "奋楫笃行谱新篇》——珲春市第三中学校——七年九班铭记历史·纪念129运动经典诵读活动《薪火赓续承先志",
+        "奋楫笃行谱新篇》——珲春市第三中学校——七年九班补充信息：铭记历史·纪念129运动经典诵读活动《薪火赓续承先志"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-29/7310423056541879602.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "last_error": null
+  },
+  "7367290508776885538": {
+    "video_id": "7367290508776885538",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "花都古巨基",
+      "video_id": "7367290508776885538",
+      "title": "离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基",
+      "publish_time": "2024-05-10T16:50:04+08:00",
+      "video_url": "https://www.douyin.com/video/7367290508776885538",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bf0952df3bbc2d3fe883d4010e45bdda~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098069200&x-signature=mrTZfML8Mii7kg13VnwuiVBcvhQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260629135720C542195AC8B09C9C4599",
+      "like_count": 6274,
+      "comment_count": 2303,
+      "share_count": 2270,
+      "collect_count": 1732,
+      "description": "离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基",
+      "text_hint": "离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基",
+      "topic_tags": [
+        "苹果手机维修",
+        "手机维修",
+        "手机",
+        "鸿漾科技",
+        "花都古巨基"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/564b4a58cb6bba76b073cda66e60f960/6a42349a/video/tos/cn/tos-cn-ve-15/ocM5hi0nYE9YmOMeD8f7lAQgDCj9bevAx2IG0f/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2591&bt=2591&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w.dE1Hhd.M9mRf03-ApQX&mime_type=video_mp4&qs=0&rc=aGU0Nzs8ZTc7NDppM2RpPEBpM205OWY6Zml3cjMzNGkzM0BeMF4xNmI2NV4xLjNgX2EzYSMwYDM1cjRvcnJgLS1kLWFzcw%3D%3D&btag=80000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1782712640&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260629135720C542195AC8B09C9C4599",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7367290508776885538.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7367290508776885538.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 298.679,
+      "raw_payload": {
+        "aweme_id": "7367290508776885538",
+        "author_uid": "1957559788116128",
+        "sec_uid": "MS4wLjABAAAAatZGo3Pjk2c4Z1ZXbrRnK-jC_PslXs-YWOcNzr2lWLUxqky7d6qWohQWgox2CHi4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAatZGo3Pjk2c4Z1ZXbrRnK-jC_PslXs-YWOcNzr2lWLUxqky7d6qWohQWgox2CHi4"
+      }
+    },
+    "first_seen_at": "2026-06-29T13:56:49+08:00",
+    "last_seen_at": "2026-06-29T13:56:49+08:00",
+    "fetch_runs": [
+      "2026-06-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7367290508776885538.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7367290508776885538.mp3",
+      "source": "download",
+      "processed_at": "2026-06-29T13:58:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7367290508776885538",
+      "transcript_raw": "离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基补充信息：离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基关键词：苹果手机维修、手机维修、手机、鸿漾科技、花都古巨基",
+      "transcript_clean": "离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基补充信息：离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基关键词：苹果手机维修、手机维修、手机、鸿漾科技、花都古巨基",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-29/7367290508776885538.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7367290508776885538",
+      "summary": "花都古巨基围绕“苹果手机维修”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基。离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基补充信息：离谱了，只要消费过，可以一直免费换贴膜和清洗手机，鸿漾科技#苹果手机维修 #手机维修 #手机 #鸿漾科技 #花都古巨基关键词：苹果手机维修、手机维修、手机、鸿漾科技、花都古巨基 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "苹果手机维修为什么总是做不出来结果？",
+        "先把手机维修想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕苹果手机维修组织标题与开头。",
+        "用手机维修和手机补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "苹果手机维修",
+        "手机维修",
+        "手机"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-29/7367290508776885538.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "last_error": null
+  },
+  "7558808981585300793": {
+    "video_id": "7558808981585300793",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7558808981585300793",
+      "title": "恩施鹤峰屏山峡谷vlog 恩施鹤峰屏山峡谷，中国的仙本那 #恩施 #自驾游 #屏山峡谷 #鹤峰屏山峡谷 #好山好水好风景",
+      "publish_time": "2025-10-08T11:19:00+08:00",
+      "video_url": "https://www.douyin.com/video/7558808981585300793",
+      "cover_url": "",
+      "like_count": 43,
+      "comment_count": 9,
+      "share_count": 7,
+      "collect_count": 13,
+      "description": "恩施鹤峰屏山峡谷vlog 恩施鹤峰屏山峡谷，中国的仙本那 #恩施 #自驾游 #屏山峡谷 #鹤峰屏山峡谷 #好山好水好风景",
+      "text_hint": "恩施鹤峰屏山峡谷vlog 恩施鹤峰屏山峡谷，中国的仙本那 #恩施 #自驾游 #屏山峡谷 #鹤峰屏山峡谷 #好山好水好风景",
+      "topic_tags": [
+        "恩施",
+        "自驾游",
+        "屏山峡谷",
+        "鹤峰屏山峡谷",
+        "好山好水好风景"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/32755076-2630-486c-a7c8-ceebf799e04c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7558808981585300793",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-06-29T13:56:49+08:00",
+    "last_seen_at": "2026-06-29T13:56:49+08:00",
+    "fetch_runs": [
+      "2026-06-29"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7264175302144822588": {
+    "video_id": "7264175302144822588",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "阳光婕熠爱京剧",
+      "video_id": "7264175302144822588",
+      "title": "#京剧荀派 #经典名段 #真人真唱 天热懒得出镜，发个前两年的存货，这段优美的四平调很好听。仅仅是练习，毛病还不少！",
+      "publish_time": "2023-08-06T19:50:21+08:00",
+      "video_url": "https://www.douyin.com/video/7264175302144822588",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/o0wPe8UyyECAAAALiCZfPDRhIHzAylAn8gtQP4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098069200&x-signature=Q%2FKm1Rexn9GGN%2BzB0lYtiLgKiHY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202606291357448147FA27F4BF55E3EA75",
+      "like_count": 45,
+      "comment_count": 31,
+      "share_count": 0,
+      "collect_count": 4,
+      "description": "#京剧荀派 #经典名段 #真人真唱 天热懒得出镜，发个前两年的存货，这段优美的四平调很好听。仅仅是练习，毛病还不少！",
+      "text_hint": "#京剧荀派 #经典名段 #真人真唱 天热懒得出镜，发个前两年的存货，这段优美的四平调很好听。仅仅是练习，毛病还不少！",
+      "topic_tags": [
+        "京剧荀派",
+        "经典名段",
+        "真人真唱"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/5d9bed5448500ddf42816bdd56295022/6a4234bb/video/tos/cn/tos-cn-ve-0015c800/oAyZrLaiEG87B60AIGGP9AA1RefXHCt2KgEzPh/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1872&bt=1872&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9whdE1Hhd.M9mRf03-ApQX&mime_type=video_mp4&qs=0&rc=ZTMzZmVnZDhoMzozZDozZEBpanRtZ2U6ZjZybTMzNGkzM0BgNmBfNV40NjUxXmEyXjI1YSNxaGRucjRfYzRgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1782712665&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202606291357448147FA27F4BF55E3EA75",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 306.759,
+      "raw_payload": {
+        "aweme_id": "7264175302144822588",
+        "author_uid": "93808680792",
+        "sec_uid": "MS4wLjABAAAADulbjA28zodJHVVKwL1pG-_4H2bAudJ3lid5gfBCC58",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAADulbjA28zodJHVVKwL1pG-_4H2bAudJ3lid5gfBCC58"
+      }
+    },
+    "first_seen_at": "2026-06-29T13:56:49+08:00",
+    "last_seen_at": "2026-06-29T13:56:49+08:00",
+    "fetch_runs": [
+      "2026-06-29"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "The read operation timed out"
+  },
+  "7263651157896203574": {
+    "video_id": "7263651157896203574",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "胖虎君",
+      "video_id": "7263651157896203574",
+      "title": "为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行",
+      "publish_time": "2023-08-05T09:56:43+08:00",
+      "video_url": "https://www.douyin.com/video/7263651157896203574",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/58610959ab8ed4c3902dc5964575ad97~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098069200&x-signature=v8BvaKW1k99UHZ7NO5gg%2Bdo8n4M%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202606291357484451EC5808E000EEFF7E",
+      "like_count": 189,
+      "comment_count": 18,
+      "share_count": 39,
+      "collect_count": 40,
+      "description": "为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行",
+      "text_hint": "为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行",
+      "topic_tags": [
+        "道顿堀",
+        "心斋桥",
+        "中国人",
+        "环球旅行",
+        "大阪",
+        "东京",
+        "大阪旅游",
+        "大阪美食",
+        "日本街头"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e575cf63619af909ebb30db93a42e845/6a423488/video/tos/cn/tos-cn-ve-15/oMxxgZBR5EyxiSSYpDfBeSulSwW1btA1AiAt0I/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3693&bt=3693&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wddE1Hhd.M9mRf03-ApQX&mime_type=video_mp4&qs=0&rc=ODllM2dpNjNpPDtpZ2Y6N0BpanBvZmo5cnF0bTMzNGkzM0AxYF9eYzFiNS8xMzA1LS4vYSNqMWI2MmRjbDNgLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100B_100D_100J_100o_100w&dy_q=1782712668&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202606291357484451EC5808E000EEFF7E",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7263651157896203574.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7263651157896203574.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 252.6,
+      "raw_payload": {
+        "aweme_id": "7263651157896203574",
+        "author_uid": "64082293582",
+        "sec_uid": "MS4wLjABAAAAz9qROkaSOqbEk9BILmvZ0jHYzYErWDn_oeqrFAT-6rU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAz9qROkaSOqbEk9BILmvZ0jHYzYErWDn_oeqrFAT-6rU"
+      }
+    },
+    "first_seen_at": "2026-06-29T13:56:49+08:00",
+    "last_seen_at": "2026-06-29T13:56:49+08:00",
+    "fetch_runs": [
+      "2026-06-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7263651157896203574.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7263651157896203574.mp3",
+      "source": "download",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7263651157896203574",
+      "transcript_raw": "为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行补充信息：为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行关键词：道顿堀、心斋桥、中国人、环球旅行、大阪、东京、大阪旅游、大阪美食、日本街头",
+      "transcript_clean": "为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行补充信息：为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行关键词：道顿堀、心斋桥、中国人、环球旅行、大阪、东京、大阪旅游、大阪美食、日本街头",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-29/7263651157896203574.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7263651157896203574",
+      "summary": "胖虎君围绕“道顿堀”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行。为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行补充信息：为什么大阪人是日本的中国人？大阪人和东京人为什么互相嫌弃？#大阪 #东京 #大阪旅游 #道顿堀 #心斋桥 #大阪美食 #日本街头 #中国人 #环球旅行关键词：道顿堀、心斋桥、中国人、环球旅行、大阪、东京、大阪旅游、大阪美食、日本街头 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "道顿堀为什么总是做不出来结果？",
+        "先把心斋桥想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕道顿堀组织标题与开头。",
+        "用心斋桥和中国人补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "道顿堀",
+        "心斋桥",
+        "中国人"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-29/7263651157896203574.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "last_error": null
+  },
+  "7299698032663219468": {
+    "video_id": "7299698032663219468",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7299698032663219468",
+      "title": "视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得",
+      "publish_time": "2023-11-10T05:16:00+08:00",
+      "video_url": "https://www.douyin.com/video/7299698032663219468",
+      "cover_url": "",
+      "like_count": 1082,
+      "comment_count": 212,
+      "share_count": 646,
+      "collect_count": 324,
+      "description": "视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得",
+      "text_hint": "视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得",
+      "topic_tags": [
+        "中视频计划",
+        "中视频伙伴计划",
+        "剪映",
+        "电脑技巧",
+        "创作心得"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6bbab5fa4663ef9f926d52311193f15f/6a423507/video/tos/cn/tos-cn-ve-15c001-alinc2/oUtyBaMLihNiTDaA2gLIppR9e5gnBAQ4AfYEQD/?a=6383&br=269&bt=269&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100D_100J_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1782712684&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wVdE1Hhd.M9mRf03-ApQX&is_ssr=1&l=20260629135803A1CA31ED54508103149D&lr=all&mime_type=video_mp4&qs=1&rc=OmZoOTNnZ2c7OjRnO2ZpaEBpamp3cnI5cmp1bzMzNGkzM0A1L181YDIxNTIxMjVjLTNiYSNoMzE1MmRzbTNgLS1kLTBzcw%3D%3D&__vid=7299698032663219468",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7299698032663219468.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7299698032663219468.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7299698032663219468",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-06-29T13:56:49+08:00",
+    "last_seen_at": "2026-06-29T13:56:49+08:00",
+    "fetch_runs": [
+      "2026-06-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7299698032663219468.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-29/7299698032663219468.mp3",
+      "source": "download",
+      "processed_at": "2026-06-29T13:59:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7299698032663219468",
+      "transcript_raw": "视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得补充信息：视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得关键词：中视频计划、中视频伙伴计划、剪映、电脑技巧、创作心得",
+      "transcript_clean": "视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得补充信息：视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得关键词：中视频计划、中视频伙伴计划、剪映、电脑技巧、创作心得",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-29/7299698032663219468.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7299698032663219468",
+      "summary": "目标博主 1围绕“中视频计划”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得。视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得补充信息：视频保存到手机，封面变了怎么办 //通过多轮测试，分析原因，并提出完美解决方法～ #中视频计划 #中视频伙伴计划 #剪映 #电脑技巧 #创作心得关键词：中视频计划、中视频伙伴计划、剪映、电脑技巧、创作心得 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "中视频计划为什么总是做不出来结果？",
+        "先把中视频伙伴计划想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕中视频计划组织标题与开头。",
+        "用中视频伙伴计划和剪映补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "中视频计划",
+        "中视频伙伴计划",
+        "剪映"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-29/7299698032663219468.json",
+      "processed_at": "2026-06-29T14:02:23+08:00"
+    },
+    "last_error": null
   }
 }
