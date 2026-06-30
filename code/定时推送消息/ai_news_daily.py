@@ -83,6 +83,10 @@ def get_rss_feeds() -> list[str]:
     return feeds or DEFAULT_RSS_FEEDS
 
 
+def get_max_digest_items() -> int:
+    return max(1, env_int("MAX_DIGEST_ITEMS", 8))
+
+
 def get_messages_url() -> str:
     exact_url = env_text("ANTHROPIC_MESSAGES_URL")
     if exact_url:
@@ -188,7 +192,7 @@ def build_prompt(news_items: list[dict[str, str]]) -> str:
 {reader_profile}
 
 输出要求：
-1. 重要新闻最多保留 8 条，按重要性排序；
+1. 重要新闻最多保留 {get_max_digest_items()} 条，按重要性排序；
 2. 每条新闻都要给出：
    - title：中文标题
    - summary：2-3 句中文总结
@@ -249,7 +253,7 @@ def parse_digest_json(raw_text: str) -> dict[str, object]:
     return {
         "overview": str(payload.get("overview") or "").strip(),
         "key_observations": clean_string_list(payload.get("key_observations"), limit=3),
-        "items": [normalize_digest_item(item) for item in items[:8]],
+        "items": [normalize_digest_item(item) for item in items[: get_max_digest_items()]],
         "overall_impact": clean_string_list(payload.get("overall_impact"), limit=3),
         "action_suggestions": clean_string_list(payload.get("action_suggestions"), limit=3),
     }
