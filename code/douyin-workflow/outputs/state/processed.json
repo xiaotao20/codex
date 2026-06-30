@@ -2483,5 +2483,505 @@
       "processed_at": "2026-06-29T14:02:23+08:00"
     },
     "last_error": null
+  },
+  "7479637006759316788": {
+    "video_id": "7479637006759316788",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "西北往事",
+      "video_id": "7479637006759316788",
+      "title": "听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史",
+      "publish_time": "2025-03-09T10:52:04+08:00",
+      "video_url": "https://www.douyin.com/video/7479637006759316788",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/oYfvN2mAAACiADgPyuBHNzIk5EAE8AevoibADV~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098155600&x-signature=1GqYF93u5zwLXu6UZXCXRmOyBD0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026063013105922155D9545056564B91C",
+      "like_count": 39,
+      "comment_count": 8,
+      "share_count": 5,
+      "collect_count": 5,
+      "description": "听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史",
+      "text_hint": "听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史",
+      "topic_tags": [
+        "甘肃",
+        "西北",
+        "陕西",
+        "公粮",
+        "历史"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/2d89469723df1567115c576b40459a69/6a437a6c/video/cn/mps/realtime/v1/r/p/v0d00fg10000cv6g4jfog65ot1547fh0/b6a28927fe634ba595b1e804376f68f0/a39cdde21ec73901c92d2d4b5b236070/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=797&bt=797&cs=0&ds=3&eid=64256&ft=FYrO_g30BN16UvjVQ8t6Ph7usZtDlSmaglcjp&mime_type=video_mp4&qs=0&rc=MztpOjc7NDg4ZTZoOjw1OUBpM2k3NHI5cm1qeTMzNGkzM0BjMzMwLWJfNl4xM2MvNV5fYSNlNDJxMmRjMTNgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cc=1f&codec=h264&cquery=100z_100o_100w_100B_100x&definition=720p&dy_q=1782796259&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7479637006759316788&l=2026063013105922155D9545056564B91C&logo_type=&req_cdn_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7479637006759316788.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7479637006759316788.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 89.652,
+      "raw_payload": {
+        "aweme_id": "7479637006759316788",
+        "author_uid": "100714981449",
+        "sec_uid": "MS4wLjABAAAABfJTz2UlpZkRi2IUrOV0fNa0Dd20DE8fkHi_lDnL8qY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABfJTz2UlpZkRi2IUrOV0fNa0Dd20DE8fkHi_lDnL8qY"
+      }
+    },
+    "first_seen_at": "2026-06-30T13:10:46+08:00",
+    "last_seen_at": "2026-06-30T13:10:46+08:00",
+    "fetch_runs": [
+      "2026-06-30"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7479637006759316788.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7479637006759316788.mp3",
+      "source": "download",
+      "processed_at": "2026-06-30T13:12:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7479637006759316788",
+      "transcript_raw": "听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史补充信息：听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史关键词：甘肃、西北、陕西、公粮、历史",
+      "transcript_clean": "听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史补充信息：听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史关键词：甘肃、西北、陕西、公粮、历史",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-30/7479637006759316788.json",
+      "processed_at": "2026-06-30T13:13:50+08:00"
+    },
+    "analysis": {
+      "video_id": "7479637006759316788",
+      "summary": "西北往事围绕“甘肃”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史。听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史补充信息：听爸爸妈妈说，他们小时候还需要交公粮。\n对大家了解这段历史。#甘肃#西北#陕西#公粮#历史关键词：甘肃、西北、陕西、公粮、历史 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "甘肃为什么总是做不出来结果？",
+        "先把西北想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕甘肃组织标题与开头。",
+        "用西北和陕西补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "甘肃",
+        "西北",
+        "陕西"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-30/7479637006759316788.json",
+      "processed_at": "2026-06-30T13:13:50+08:00"
+    },
+    "last_error": null
+  },
+  "7239889661420735804": {
+    "video_id": "7239889661420735804",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7239889661420735804",
+      "title": "在抖音记录美好生活20260630",
+      "publish_time": "2026-06-30T13:12:04+08:00",
+      "video_url": "https://www.douyin.com/video/7239889661420735804",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260630",
+      "text_hint": "在抖音记录美好生活20260630",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/925f21d7-47ea-411a-973c-bdcb161de90f",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7239889661420735804",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-06-30T13:10:46+08:00",
+    "last_seen_at": "2026-06-30T13:10:46+08:00",
+    "fetch_runs": [
+      "2026-06-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7258630408974257419": {
+    "video_id": "7258630408974257419",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "五一火焰机",
+      "video_id": "7258630408974257419",
+      "title": "亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机",
+      "publish_time": "2023-07-22T21:13:17+08:00",
+      "video_url": "https://www.douyin.com/video/7258630408974257419",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bea5fe7d37fe97b2732aaf9504c4bc2f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098155600&x-signature=sjAY8nCLx%2BGHuO4Xaevh8tyZgmo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260630131111BD426F2278B3B17E534D",
+      "like_count": 148,
+      "comment_count": 57,
+      "share_count": 32,
+      "collect_count": 78,
+      "description": "亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机",
+      "text_hint": "亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机",
+      "topic_tags": [
+        "设备生产厂家",
+        "亚克力制品",
+        "厂家实拍",
+        "电机马达",
+        "火焰抛光机"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/0c256dc1bf91626c1388ef36fd4aa4ae/6a437baf/video/tos/cn/tos-cn-ve-15c001-alinc2/owHg1q1wAnpAeFNk9E9BAaA34hEKIRf7gKGuNz/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1442&bt=1442&cs=0&ds=3&ft=FYrO_g30BN16UvjVQqt6Ph7usZtDlSmaglcjp&mime_type=video_mp4&qs=0&rc=aTRnNGZlZzg0NGU3M2U1O0BpamQ0dzg6ZnJ3bDMzNGkzM0AwXjU0MGMxXmMxLl8vMS8wYSNyaTVncjQwNnFgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100B_100x_100z_100o_100w&dy_q=1782796271&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260630131111BD426F2278B3B17E534D&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7258630408974257419.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7258630408974257419.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 400.452,
+      "raw_payload": {
+        "aweme_id": "7258630408974257419",
+        "author_uid": "694506829907447",
+        "sec_uid": "MS4wLjABAAAACvfrWMLqX1D8vTXRNWKk9tWvkubi-5QgEqHo2upGzIM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACvfrWMLqX1D8vTXRNWKk9tWvkubi-5QgEqHo2upGzIM"
+      }
+    },
+    "first_seen_at": "2026-06-30T13:10:46+08:00",
+    "last_seen_at": "2026-06-30T13:10:46+08:00",
+    "fetch_runs": [
+      "2026-06-30"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7258630408974257419.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7258630408974257419.mp3",
+      "source": "download",
+      "processed_at": "2026-06-30T13:12:58+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7258630408974257419",
+      "transcript_raw": "亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机补充信息：亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机关键词：设备生产厂家、亚克力制品、厂家实拍、电机马达、火焰抛光机",
+      "transcript_clean": "亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机补充信息：亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机关键词：设备生产厂家、亚克力制品、厂家实拍、电机马达、火焰抛光机",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-30/7258630408974257419.json",
+      "processed_at": "2026-06-30T13:13:50+08:00"
+    },
+    "analysis": {
+      "video_id": "7258630408974257419",
+      "summary": "五一火焰机围绕“设备生产厂家”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机。亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机补充信息：亚克力抛光机，火焰抛光机，火抛机，火焰机，水焊机，氢氧焊机安全操作演示#设备生产厂家 #亚克力制品 #厂家实拍 #电机马达 #火焰抛光机关键词：设备生产厂家、亚克力制品、厂家实拍、电机马达、火焰抛光机 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "设备生产厂家为什么总是做不出来结果？",
+        "先把亚克力制品想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕设备生产厂家组织标题与开头。",
+        "用亚克力制品和厂家实拍补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "设备生产厂家",
+        "亚克力制品",
+        "厂家实拍"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-30/7258630408974257419.json",
+      "processed_at": "2026-06-30T13:13:50+08:00"
+    },
+    "last_error": null
+  },
+  "7038570829101190430": {
+    "video_id": "7038570829101190430",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7038570829101190430",
+      "title": "新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活",
+      "publish_time": "2021-12-06T12:50:00+08:00",
+      "video_url": "https://www.douyin.com/video/7038570829101190430",
+      "cover_url": "",
+      "like_count": 56,
+      "comment_count": 4,
+      "share_count": 35,
+      "collect_count": 56,
+      "description": "新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活",
+      "text_hint": "新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活",
+      "topic_tags": [
+        "越野穿越",
+        "大山风景",
+        "自驾游",
+        "我的乡村生活"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/1223544ca8e34131d038765fbcbc903a/6a437b0b/video/tos/cn/tos-cn-ve-0015c800/7617bef330854b439b4f0fab4c157398/?a=6383&br=2849&bt=2849&btag=80000e00028000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100D_102u_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1782796287&ft=FYrO_g30BN16UvjVQXt6Ph7usZtDlSmaglcjp&is_ssr=1&l=20260630131127D8E5A6AF964C3F2C200D&lr=all&mime_type=video_mp4&qs=0&rc=O2c6NTQ0aDo1PDk6aDloNkBpajVkZTc6ZjUzOTMzNGkzM0AwMTZgMzEzNV4xYy01NS8wYSM0Y28xcjQwYmtgLS1kLS9zcw%3D%3D&req_cdn_type=&__vid=7038570829101190430",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7038570829101190430.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7038570829101190430.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7038570829101190430",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-06-30T13:10:46+08:00",
+    "last_seen_at": "2026-06-30T13:10:46+08:00",
+    "fetch_runs": [
+      "2026-06-30"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7038570829101190430.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7038570829101190430.mp3",
+      "source": "download",
+      "processed_at": "2026-06-30T13:13:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7038570829101190430",
+      "transcript_raw": "新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活补充信息：新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活关键词：越野穿越、大山风景、自驾游、我的乡村生活",
+      "transcript_clean": "新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活补充信息：新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活关键词：越野穿越、大山风景、自驾游、我的乡村生活",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-30/7038570829101190430.json",
+      "processed_at": "2026-06-30T13:13:50+08:00"
+    },
+    "analysis": {
+      "video_id": "7038570829101190430",
+      "summary": "目标博主 1围绕“越野穿越”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活。新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活补充信息：新乡除了张北草原，还有张南草原，完全就是越野车的竞技地 #越野穿越 #大山风景 #自驾游 #我的乡村生活关键词：越野穿越、大山风景、自驾游、我的乡村生活 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "越野穿越为什么总是做不出来结果？",
+        "先把大山风景想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕越野穿越组织标题与开头。",
+        "用大山风景和自驾游补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "越野穿越",
+        "大山风景",
+        "自驾游"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-30/7038570829101190430.json",
+      "processed_at": "2026-06-30T13:13:50+08:00"
+    },
+    "last_error": null
+  },
+  "7252958813492415800": {
+    "video_id": "7252958813492415800",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "浩姥",
+      "video_id": "7252958813492415800",
+      "title": "#热爱广场舞农村大姐 #岁月匆匆一转眼就老了 #在家自娱自乐一下 #坚持锻炼给自己一个好身体 #让健身成为一种习惯 感謝大家的支持",
+      "publish_time": "2023-07-07T14:24:39+08:00",
+      "video_url": "https://www.douyin.com/video/7252958813492415800",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oEAsvrEgN5AeGD6ria9KGpbOB8nsABcIfA6ksn~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098155600&x-signature=G7mrkKxWESI65BmN3TbS%2Fb7szhA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260630131134743A674753A2EB63E1E3",
+      "like_count": 650,
+      "comment_count": 232,
+      "share_count": 12,
+      "collect_count": 29,
+      "description": "#热爱广场舞农村大姐 #岁月匆匆一转眼就老了 #在家自娱自乐一下 #坚持锻炼给自己一个好身体 #让健身成为一种习惯 感謝大家的支持",
+      "text_hint": "#热爱广场舞农村大姐 #岁月匆匆一转眼就老了 #在家自娱自乐一下 #坚持锻炼给自己一个好身体 #让健身成为一种习惯 感謝大家的支持",
+      "topic_tags": [
+        "热爱广场舞农村大姐",
+        "岁月匆匆一转眼就老了",
+        "在家自娱自乐一下",
+        "坚持锻炼给自己一个好身体",
+        "让健身成为一种习惯"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/b762529185f5a6715b0e5908dfebc8dc/6a437aeb/video/cn/mps/realtime/v1/r/p/v0d00fg10000cijquarc77u3b1qpua30/5f16ee9de3aa4141b5b6c756c1853d09/06b8810025b6c72925de99bf98895a9d/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=571&bt=571&cs=0&ds=3&eid=64256&ft=FYrO_g30BN16UvjVQadyPh7usZtDlSmaglcjp&mime_type=video_mp4&qs=0&rc=PGc4NDk6OTg0NGQ2Z2g5aUBpM2RzNDY6ZmR0bDMzNGkzM0AtMDVgMmBfXzExXmI2Yi4yYSMwcm5fcjRvcmdgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cc=1f&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1782796295&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7252958813492415800&l=20260630131134743A674753A2EB63E1E3&logo_type=&req_cdn_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 180.23,
+      "raw_payload": {
+        "aweme_id": "7252958813492415800",
+        "author_uid": "85973460864",
+        "sec_uid": "MS4wLjABAAAA2OPe5V-Topew1lZscBX-DQYaVYlfSy7Iq-RkX7bs5So",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA2OPe5V-Topew1lZscBX-DQYaVYlfSy7Iq-RkX7bs5So"
+      }
+    },
+    "first_seen_at": "2026-06-30T13:10:46+08:00",
+    "last_seen_at": "2026-06-30T13:10:46+08:00",
+    "fetch_runs": [
+      "2026-06-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 424: Failed Dependency"
+  },
+  "7423351314261773603": {
+    "video_id": "7423351314261773603",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7423351314261773603",
+      "title": "如果你知道我担是谁 那你一定会觉得我命好 剪了一个通宵的超长安利 #钱锟 #WayV #威神V",
+      "publish_time": "2024-10-08T10:34:00+08:00",
+      "video_url": "https://www.douyin.com/video/7423351314261773603",
+      "cover_url": "",
+      "like_count": 1435,
+      "comment_count": 102,
+      "share_count": 195,
+      "collect_count": 203,
+      "description": "如果你知道我担是谁 那你一定会觉得我命好 剪了一个通宵的超长安利 #钱锟 #WayV #威神V",
+      "text_hint": "如果你知道我担是谁 那你一定会觉得我命好 剪了一个通宵的超长安利 #钱锟 #WayV #威神V",
+      "topic_tags": [
+        "钱锟",
+        "WayV",
+        "威神V"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/7afcd115-d1f6-4ea7-87f3-5cf4831489de",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7423351314261773603",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-06-30T13:10:46+08:00",
+    "last_seen_at": "2026-06-30T13:10:46+08:00",
+    "fetch_runs": [
+      "2026-06-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7199652397499649340": {
+    "video_id": "7199652397499649340",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7199652397499649340",
+      "title": "教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程",
+      "publish_time": "2023-02-13T14:48:00+08:00",
+      "video_url": "https://www.douyin.com/video/7199652397499649340",
+      "cover_url": "",
+      "like_count": 128,
+      "comment_count": 15,
+      "share_count": 62,
+      "collect_count": 20,
+      "description": "教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程",
+      "text_hint": "教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程",
+      "topic_tags": [
+        "视频剪辑教程",
+        "特效教程",
+        "短视频制作教程"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/3a9dd3b12208e2407b175a78a1c6aed4/6a437b54/video/tos/cn/tos-cn-ve-0015c800/oAEGDxf6g3q9AhSejNROoV86AtApCkbNB9B8nv/?a=6383&br=610&bt=610&btag=c0000e00030000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100D_100J_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1782796320&feature_id=f0150a16a324336cda5d6dd0b69ed299&ft=FYrO_g30BN16UvjVQLdyPh7usZtDlSmaglcjp&is_ssr=1&l=202606301311599C3A85A85A0A2D80CE2C&lr=all&mime_type=video_mp4&qs=0&rc=NDQ6ZDQ4Zjo6OjozaGQ8aEBpanlsOWQ6Zms3aTMzNGkzM0AvMTNjX2IzNWMxMy1fYTJhYSNjamRqcjQwb2lgLS1kLS9zcw%3D%3D&req_cdn_type=&__vid=7199652397499649340",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7199652397499649340.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7199652397499649340.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7199652397499649340",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-06-30T13:10:46+08:00",
+    "last_seen_at": "2026-06-30T13:10:46+08:00",
+    "fetch_runs": [
+      "2026-06-30"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7199652397499649340.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-06-30/7199652397499649340.mp3",
+      "source": "download",
+      "processed_at": "2026-06-30T13:13:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7199652397499649340",
+      "transcript_raw": "教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程补充信息：教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程关键词：视频剪辑教程、特效教程、短视频制作教程",
+      "transcript_clean": "教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程补充信息：教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程关键词：视频剪辑教程、特效教程、短视频制作教程",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-06-30/7199652397499649340.json",
+      "processed_at": "2026-06-30T13:13:50+08:00"
+    },
+    "analysis": {
+      "video_id": "7199652397499649340",
+      "summary": "目标博主 1围绕“视频剪辑教程”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程。教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程补充信息：教你制作画面律动效果跳舞视频，剪映三种制作方法，简单易学 #视频剪辑教程 #特效教程 #短视频制作教程关键词：视频剪辑教程、特效教程、短视频制作教程 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "视频剪辑教程为什么总是做不出来结果？",
+        "先把特效教程想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕视频剪辑教程组织标题与开头。",
+        "用特效教程和短视频制作教程补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "视频剪辑教程",
+        "特效教程",
+        "短视频制作教程"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-06-30/7199652397499649340.json",
+      "processed_at": "2026-06-30T13:13:50+08:00"
+    },
+    "last_error": null
   }
 }
