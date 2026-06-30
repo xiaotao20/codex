@@ -2,10 +2,12 @@ from __future__ import annotations
 
 import argparse
 import datetime
+import html
 import json
 import os
 import smtplib
 from email.header import Header
+from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
 
@@ -131,9 +133,15 @@ def fetch_news() -> list[dict[str, str]]:
     return items
 
 
-def summarize_with_claude(news_items: list[dict[str, str]]) -> str:
+def summarize_with_claude(news_items: list[dict[str, str]]) -> dict[str, object]:
     if not news_items:
-        return "今天没有抓到新内容，可能是 RSS 源暂时无更新。"
+        return {
+            "overview": "今天没有抓到新内容，可能是 RSS 源暂时无更新。",
+            "key_observations": [],
+            "items": [],
+            "overall_impact": ["今天暂无可判断的重点影响。"],
+            "action_suggestions": ["稍后重试，或检查 RSS 源是否正常更新。"],
+        }
 
     prompt = build_prompt(news_items)
     headers = {
@@ -162,7 +170,7 @@ def summarize_with_claude(news_items: list[dict[str, str]]) -> str:
         if thinking_blocks and payload.get("stop_reason") == "max_tokens":
             raise RuntimeError("API 只返回了 thinking 内容且被 max_tokens 截断，请增大 ANTHROPIC_MAX_TOKENS 或更换模型。")
         raise RuntimeError(f"总结生成失败，请检查 API 返回: {json.dumps(payload, ensure_ascii=False)}")
-    return "\n".join(text_blocks)
+    return parse_digest_json("\n".join(text_blocks))
 
 
 def build_prompt(news_items: list[dict[str, str]]) -> str:
@@ -170,27 +178,226 @@ def build_prompt(news_items: list[dict[str, str]]) -> str:
         f"来源: {item['source']}\n标题: {item['title']}\n摘要: {item['summary']}\n链接: {item['link']}"
         for item in news_items
     )
-    return f"""以下是今天从多个英文 AI 新闻源抓取到的原始条目。请你：
-1. 筛选出真正有价值、属于“AI 行业”的新闻，过滤掉广告和无关内容；
-2. 把标题和要点翻译成中文，每条新闻用 2-3 句话总结；
-3. 按重要性排序，最多保留 8 条；
-4. 输出格式为纯文本，每条新闻包含：中文标题、一句话总结、原文链接。
+    reader_profile = env_text(
+        "READER_PROFILE",
+        "我是一位关注 AI 工具、产品机会、工作效率和商业化方向的中文读者。",
+    )
+    return f"""以下是今天从多个英文 AI 新闻源抓取到的原始条目。
+
+请先筛选出真正有价值、属于“AI 行业”的新闻，过滤掉广告和明显无关内容；再面向下面这个读者画像，输出一份中文简报：
+{reader_profile}
+
+输出要求：
+1. 重要新闻最多保留 8 条，按重要性排序；
+2. 每条新闻都要给出：
+   - title：中文标题
+   - summary：2-3 句中文总结
+   - impact：这条新闻“对我有什么影响”，用 1-2 句写清楚
+   - link：原文链接
+3. 另外再给出：
+   - overview：今天的总体判断，2-3 句
+   - key_observations：3 条以内的关键信号
+   - overall_impact：3 条以内“对我的整体影响”
+   - action_suggestions：3 条以内可执行建议
+
+只允许输出 JSON 对象，不要输出 Markdown，不要输出代码块，不要解释。
+
+JSON 结构如下：
+{{
+  "overview": "string",
+  "key_observations": ["string"],
+  "items": [
+    {{
+      "title": "string",
+      "summary": "string",
+      "impact": "string",
+      "link": "string"
+    }}
+  ],
+  "overall_impact": ["string"],
+  "action_suggestions": ["string"]
+}}
 
 原始条目：
 {news_text}
 """
 
 
-def send_email(content: str) -> None:
+def parse_digest_json(raw_text: str) -> dict[str, object]:
+    normalized = raw_text.strip()
+    if normalized.startswith("```"):
+        normalized = normalized.strip("`")
+        if normalized.startswith("json"):
+            normalized = normalized[4:].strip()
+
+    try:
+        payload = json.loads(normalized)
+    except json.JSONDecodeError:
+        start = normalized.find("{")
+        end = normalized.rfind("}")
+        if start == -1 or end == -1 or end <= start:
+            raise RuntimeError(f"模型没有返回可解析的 JSON：{raw_text}")
+        payload = json.loads(normalized[start : end + 1])
+
+    if not isinstance(payload, dict):
+        raise RuntimeError(f"模型返回的内容不是 JSON 对象：{raw_text}")
+
+    items = payload.get("items")
+    if not isinstance(items, list):
+        raise RuntimeError(f"模型返回缺少 items 列表：{raw_text}")
+
+    return {
+        "overview": str(payload.get("overview") or "").strip(),
+        "key_observations": clean_string_list(payload.get("key_observations"), limit=3),
+        "items": [normalize_digest_item(item) for item in items[:8]],
+        "overall_impact": clean_string_list(payload.get("overall_impact"), limit=3),
+        "action_suggestions": clean_string_list(payload.get("action_suggestions"), limit=3),
+    }
+
+
+def clean_string_list(value: object, limit: int) -> list[str]:
+    if not isinstance(value, list):
+        return []
+    cleaned = []
+    for item in value:
+        text = str(item).strip()
+        if text:
+            cleaned.append(text)
+        if len(cleaned) >= limit:
+            break
+    return cleaned
+
+
+def normalize_digest_item(item: object) -> dict[str, str]:
+    if not isinstance(item, dict):
+        return {"title": "", "summary": "", "impact": "", "link": ""}
+    return {
+        "title": str(item.get("title") or "").strip(),
+        "summary": str(item.get("summary") or "").strip(),
+        "impact": str(item.get("impact") or "").strip(),
+        "link": str(item.get("link") or "").strip(),
+    }
+
+
+def build_plaintext_digest(digest: dict[str, object]) -> str:
+    lines: list[str] = []
+    overview = str(digest.get("overview") or "").strip()
+    if overview:
+        lines.extend(["今日判断", overview, ""])
+
+    observations = digest.get("key_observations") or []
+    if observations:
+        lines.append("关键信号")
+        lines.extend(f"- {item}" for item in observations)
+        lines.append("")
+
+    items = digest.get("items") or []
+    if items:
+        lines.append("重点新闻")
+        for index, item in enumerate(items, start=1):
+            lines.append(f"{index}. {item['title']}")
+            lines.append(f"   摘要：{item['summary']}")
+            lines.append(f"   对我的影响：{item['impact']}")
+            lines.append(f"   链接：{item['link']}")
+        lines.append("")
+
+    overall_impact = digest.get("overall_impact") or []
+    if overall_impact:
+        lines.append("对我的整体影响")
+        lines.extend(f"- {item}" for item in overall_impact)
+        lines.append("")
+
+    action_suggestions = digest.get("action_suggestions") or []
+    if action_suggestions:
+        lines.append("建议动作")
+        lines.extend(f"- {item}" for item in action_suggestions)
+
+    return "\n".join(lines).strip()
+
+
+def build_html_digest(digest: dict[str, object]) -> str:
+    today = datetime.date.today().strftime("%Y-%m-%d")
+    overview = html.escape(str(digest.get("overview") or "").strip())
+    observations = "".join(
+        f"<li>{html.escape(item)}</li>" for item in (digest.get("key_observations") or [])
+    )
+    news_cards = "".join(render_news_card(index, item) for index, item in enumerate(digest.get("items") or [], start=1))
+    overall_impact = "".join(
+        f"<li>{html.escape(item)}</li>" for item in (digest.get("overall_impact") or [])
+    )
+    action_suggestions = "".join(
+        f"<li>{html.escape(item)}</li>" for item in (digest.get("action_suggestions") or [])
+    )
+
+    return f"""<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <title>AI 行业新闻日报 {today}</title>
+  </head>
+  <body style="margin:0;padding:24px;background:#f3f6fb;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;color:#1f2937;">
+    <div style="max-width:880px;margin:0 auto;">
+      <div style="background:#111827;color:#ffffff;padding:28px 32px;border-radius:14px;">
+        <div style="font-size:13px;opacity:0.75;">AI 行业新闻日报</div>
+        <h1 style="margin:8px 0 0;font-size:28px;line-height:1.3;">{today}</h1>
+        <p style="margin:16px 0 0;font-size:15px;line-height:1.8;color:#d1d5db;">{overview}</p>
+      </div>
+
+      {render_section("关键信号", f"<ul style='margin:0;padding-left:20px;line-height:1.9;'>{observations}</ul>" if observations else "<p style='margin:0;color:#6b7280;'>今天没有额外提炼到明显信号。</p>")}
+
+      {render_section("重点新闻", news_cards or "<p style='margin:0;color:#6b7280;'>今天没有可展示的重点新闻。</p>")}
+
+      {render_section("对我的整体影响", f"<ul style='margin:0;padding-left:20px;line-height:1.9;'>{overall_impact}</ul>" if overall_impact else "<p style='margin:0;color:#6b7280;'>今天暂无明确整体影响判断。</p>")}
+
+      {render_section("建议动作", f"<ul style='margin:0;padding-left:20px;line-height:1.9;'>{action_suggestions}</ul>" if action_suggestions else "<p style='margin:0;color:#6b7280;'>今天暂无建议动作。</p>")}
+    </div>
+  </body>
+</html>"""
+
+
+def render_section(title: str, body: str) -> str:
+    return (
+        "<section style='margin-top:18px;background:#ffffff;border:1px solid #e5e7eb;border-radius:14px;padding:24px 28px;'>"
+        f"<h2 style='margin:0 0 16px;font-size:20px;color:#111827;'>{html.escape(title)}</h2>"
+        f"{body}"
+        "</section>"
+    )
+
+
+def render_news_card(index: int, item: dict[str, str]) -> str:
+    title = html.escape(item.get("title", ""))
+    summary = html.escape(item.get("summary", ""))
+    impact = html.escape(item.get("impact", ""))
+    link = html.escape(item.get("link", ""))
+    link_html = (
+        f"<a href=\"{link}\" style=\"color:#2563eb;text-decoration:none;word-break:break-all;\">查看原文</a>"
+        if link
+        else "<span style='color:#9ca3af;'>无原文链接</span>"
+    )
+    return f"""
+      <article style="padding:18px 20px;border:1px solid #e5e7eb;border-radius:12px;background:#f8fafc;margin-bottom:14px;">
+        <div style="display:inline-block;font-size:12px;font-weight:700;color:#2563eb;background:#dbeafe;border-radius:999px;padding:4px 10px;">重点 {index}</div>
+        <h3 style="margin:12px 0 10px;font-size:18px;line-height:1.5;color:#111827;">{title}</h3>
+        <p style="margin:0 0 12px;font-size:14px;line-height:1.85;color:#374151;"><strong>摘要：</strong>{summary}</p>
+        <div style="margin:0 0 14px;padding:12px 14px;background:#eef2ff;border-radius:10px;font-size:14px;line-height:1.8;color:#312e81;">
+          <strong>对我的影响：</strong>{impact}
+        </div>
+        <div style="font-size:14px;line-height:1.7;">{link_html}</div>
+      </article>"""
+
+
+def send_email(plain_text: str, html_content: str) -> None:
     today = datetime.date.today().strftime("%Y-%m-%d")
     subject = f"AI 行业新闻日报 {today}"
     sender_email = env_text("SENDER_EMAIL")
     receiver_email = env_text("RECEIVER_EMAIL")
 
-    msg = MIMEText(content, "plain", "utf-8")
+    msg = MIMEMultipart("alternative")
     msg["Subject"] = Header(subject, "utf-8")
     msg["From"] = sender_email
     msg["To"] = receiver_email
+    msg.attach(MIMEText(plain_text, "plain", "utf-8"))
+    msg.attach(MIMEText(html_content, "html", "utf-8"))
 
     with smtplib.SMTP_SSL(env_text("SMTP_HOST", "smtp.qq.com"), env_int("SMTP_PORT", 465)) as server:
         server.login(sender_email, env_text("SENDER_AUTH_CODE"))
@@ -205,15 +412,17 @@ def run(skip_email: bool) -> None:
     print(f"共抓取到 {len(news_items)} 条原始新闻，开始总结...")
 
     digest = summarize_with_claude(news_items)
+    plain_text = build_plaintext_digest(digest)
+    html_content = build_html_digest(digest)
     print("总结完成。")
 
     if skip_email:
         print("当前为仅预览模式，摘要如下：\n")
-        print(digest)
+        print(plain_text)
         return
 
     print("开始发送邮件...")
-    send_email(digest)
+    send_email(plain_text, html_content)
     print("完成。")
 
 
