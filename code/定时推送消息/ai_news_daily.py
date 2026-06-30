@@ -143,7 +143,7 @@ def summarize_with_claude(news_items: list[dict[str, str]]) -> str:
     }
     body = {
         "system": "你是 AI 行业资讯编辑。只输出最终中文日报，不要展示思考过程、筛选分析或推理步骤。",
-        "model": env_text("ANTHROPIC_MODEL", "claude-sonnet-4-6"),
+        "model": env_text("ANTHROPIC_MODEL", "claude-opus-4-8"),
         "max_tokens": env_int("ANTHROPIC_MAX_TOKENS", 4096),
         "messages": [{"role": "user", "content": prompt}],
     }
