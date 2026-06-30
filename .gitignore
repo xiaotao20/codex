@@ -4,6 +4,7 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 .env
+code/定时推送消息/logs/
 
 outputs/*
 !outputs/state/
