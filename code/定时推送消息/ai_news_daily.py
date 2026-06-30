@@ -10,18 +10,61 @@ from email.header import Header
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
+from urllib.parse import urlparse
 
 import feedparser
 import requests
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 DEFAULT_RSS_FEEDS = [
-    "https://techcrunch.com/category/artificial-intelligence/feed/",
-    "https://venturebeat.com/category/ai/feed/",
-    "https://www.technologyreview.com/feed/",
-    "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+    {
+        "name": "OpenAI News",
+        "focus": "模型发布",
+        "url": "https://openai.com/news/rss.xml",
+    },
+    {
+        "name": "Google AI",
+        "focus": "模型发布",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+    },
+    {
+        "name": "Hugging Face Blog",
+        "focus": "开源爆款",
+        "url": "https://huggingface.co/blog/feed.xml",
+    },
+    {
+        "name": "AWS Machine Learning Blog",
+        "focus": "商业机会",
+        "url": "https://aws.amazon.com/blogs/machine-learning/feed/",
+    },
+    {
+        "name": "TechCrunch AI",
+        "focus": "创业信号",
+        "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    },
+    {
+        "name": "VentureBeat AI",
+        "focus": "商业机会",
+        "url": "https://venturebeat.com/category/ai/feed/",
+    },
+    {
+        "name": "The Verge AI",
+        "focus": "模型发布",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/rss/index.xml",
+    },
+    {
+        "name": "arXiv cs.AI",
+        "focus": "开源爆款",
+        "url": "https://rss.arxiv.org/rss/cs.AI",
+    },
 ]
 PLACEHOLDER_MARKERS = ("你的", "请填写", "示例", "example", "xxxx", "TODO")
+SECTION_FIELDS = [
+    ("model_releases", "模型发布"),
+    ("business_opportunities", "商业机会"),
+    ("open_source_hits", "开源爆款"),
+    ("startup_signals", "创业信号"),
+]
 
 
 def load_env_file(path: Path) -> None:
@@ -70,17 +113,31 @@ def looks_configured(value: str) -> bool:
     return not any(marker.lower() in lowered for marker in PLACEHOLDER_MARKERS)
 
 
-def get_rss_feeds() -> list[str]:
+def get_rss_feeds() -> list[dict[str, str]]:
     raw = env_text("RSS_FEEDS")
     if not raw:
         return DEFAULT_RSS_FEEDS
 
-    feeds = []
+    feeds: list[dict[str, str]] = []
     for part in raw.replace(",", "\n").splitlines():
-        url = part.strip()
-        if url:
-            feeds.append(url)
+        entry = part.strip()
+        if not entry:
+            continue
+
+        parsed = [item.strip() for item in entry.split("|")]
+        if len(parsed) == 3:
+            feeds.append({"name": parsed[0], "focus": parsed[1], "url": parsed[2]})
+            continue
+
+        url = parsed[-1]
+        feeds.append({"name": infer_feed_name(url), "focus": "综合", "url": url})
     return feeds or DEFAULT_RSS_FEEDS
+
+
+def infer_feed_name(url: str) -> str:
+    parsed = urlparse(url)
+    host = parsed.netloc or url
+    return host.replace("www.", "")
 
 
 def get_max_digest_items() -> int:
@@ -119,14 +176,17 @@ def validate_config(skip_email: bool) -> None:
 def fetch_news() -> list[dict[str, str]]:
     items: list[dict[str, str]] = []
     max_items = env_int("MAX_ITEMS_PER_FEED", 5)
-    for url in get_rss_feeds():
+    for feed_config in get_rss_feeds():
+        url = feed_config["url"]
         try:
             feed = feedparser.parse(url)
-            source_name = feed.feed.get("title", url)
+            source_name = feed_config["name"] or feed.feed.get("title", url)
+            focus = feed_config["focus"] or "综合"
             for entry in feed.entries[:max_items]:
                 items.append(
                     {
                         "source": source_name,
+                        "focus": focus,
                         "title": entry.get("title", ""),
                         "link": entry.get("link", ""),
                         "summary": entry.get("summary", "")[:500],
@@ -142,7 +202,7 @@ def summarize_with_claude(news_items: list[dict[str, str]]) -> dict[str, object]
         return {
             "overview": "今天没有抓到新内容，可能是 RSS 源暂时无更新。",
             "key_observations": [],
-            "items": [],
+            "sections": empty_sections(),
             "overall_impact": ["今天暂无可判断的重点影响。"],
             "action_suggestions": ["稍后重试，或检查 RSS 源是否正常更新。"],
         }
@@ -179,7 +239,13 @@ def summarize_with_claude(news_items: list[dict[str, str]]) -> dict[str, object]
 
 def build_prompt(news_items: list[dict[str, str]]) -> str:
     news_text = "\n\n".join(
-        f"来源: {item['source']}\n标题: {item['title']}\n摘要: {item['summary']}\n链接: {item['link']}"
+        (
+            f"来源: {item['source']}\n"
+            f"来源侧重: {item['focus']}\n"
+            f"标题: {item['title']}\n"
+            f"摘要: {item['summary']}\n"
+            f"链接: {item['link']}"
+        )
         for item in news_items
     )
     reader_profile = env_text(
@@ -192,13 +258,18 @@ def build_prompt(news_items: list[dict[str, str]]) -> str:
 {reader_profile}
 
 输出要求：
-1. 重要新闻最多保留 {get_max_digest_items()} 条，按重要性排序；
-2. 每条新闻都要给出：
+1. 只保留真正值得关注的新闻，总条数不超过 {get_max_digest_items()} 条；
+2. 按以下四个栏目整理，某些栏目可以为空，但必须输出这四个栏目：
+   - model_releases：模型发布
+   - business_opportunities：商业机会
+   - open_source_hits：开源爆款
+   - startup_signals：创业信号
+3. 每条新闻都要给出：
    - title：中文标题
    - summary：2-3 句中文总结
    - impact：这条新闻“对我有什么影响”，用 1-2 句写清楚
    - link：原文链接
-3. 另外再给出：
+4. 另外再给出：
    - overview：今天的总体判断，2-3 句
    - key_observations：3 条以内的关键信号
    - overall_impact：3 条以内“对我的整体影响”
@@ -210,14 +281,19 @@ JSON 结构如下：
 {{
   "overview": "string",
   "key_observations": ["string"],
-  "items": [
-    {{
-      "title": "string",
-      "summary": "string",
-      "impact": "string",
-      "link": "string"
-    }}
-  ],
+  "sections": {{
+    "model_releases": [
+      {{
+        "title": "string",
+        "summary": "string",
+        "impact": "string",
+        "link": "string"
+      }}
+    ],
+    "business_opportunities": [],
+    "open_source_hits": [],
+    "startup_signals": []
+  }},
   "overall_impact": ["string"],
   "action_suggestions": ["string"]
 }}
@@ -246,17 +322,47 @@ def parse_digest_json(raw_text: str) -> dict[str, object]:
     if not isinstance(payload, dict):
         raise RuntimeError(f"模型返回的内容不是 JSON 对象：{raw_text}")
 
-    items = payload.get("items")
-    if not isinstance(items, list):
-        raise RuntimeError(f"模型返回缺少 items 列表：{raw_text}")
-
     return {
         "overview": str(payload.get("overview") or "").strip(),
         "key_observations": clean_string_list(payload.get("key_observations"), limit=3),
-        "items": [normalize_digest_item(item) for item in items[: get_max_digest_items()]],
+        "sections": normalize_sections(payload),
         "overall_impact": clean_string_list(payload.get("overall_impact"), limit=3),
         "action_suggestions": clean_string_list(payload.get("action_suggestions"), limit=3),
     }
+
+
+def empty_sections() -> dict[str, list[dict[str, str]]]:
+    return {field: [] for field, _title in SECTION_FIELDS}
+
+
+def normalize_sections(payload: dict[str, object]) -> dict[str, list[dict[str, str]]]:
+    sections_payload = payload.get("sections")
+    fallback_items = payload.get("items")
+    normalized = empty_sections()
+    total_limit = get_max_digest_items()
+    current_total = 0
+
+    if isinstance(sections_payload, dict):
+        for field, _title in SECTION_FIELDS:
+            section_items = sections_payload.get(field)
+            if not isinstance(section_items, list):
+                continue
+            for item in section_items:
+                if current_total >= total_limit:
+                    return normalized
+                normalized[field].append(normalize_digest_item(item))
+                current_total += 1
+        return normalized
+
+    if isinstance(fallback_items, list):
+        for item in fallback_items:
+            if current_total >= total_limit:
+                break
+            normalized["model_releases"].append(normalize_digest_item(item))
+            current_total += 1
+        return normalized
+
+    raise RuntimeError(f"模型返回缺少 sections 结构：{payload}")
 
 
 def clean_string_list(value: object, limit: int) -> list[str]:
@@ -295,9 +401,12 @@ def build_plaintext_digest(digest: dict[str, object]) -> str:
         lines.extend(f"- {item}" for item in observations)
         lines.append("")
 
-    items = digest.get("items") or []
-    if items:
-        lines.append("重点新闻")
+    sections = digest.get("sections") or empty_sections()
+    for field, title in SECTION_FIELDS:
+        items = sections.get(field) or []
+        if not items:
+            continue
+        lines.append(title)
         for index, item in enumerate(items, start=1):
             lines.append(f"{index}. {item['title']}")
             lines.append(f"   摘要：{item['summary']}")
@@ -325,7 +434,10 @@ def build_html_digest(digest: dict[str, object]) -> str:
     observations = "".join(
         f"<li>{html.escape(item)}</li>" for item in (digest.get("key_observations") or [])
     )
-    news_cards = "".join(render_news_card(index, item) for index, item in enumerate(digest.get("items") or [], start=1))
+    section_blocks = "".join(
+        render_news_section(title, digest.get("sections", {}).get(field) or [])
+        for field, title in SECTION_FIELDS
+    )
     overall_impact = "".join(
         f"<li>{html.escape(item)}</li>" for item in (digest.get("overall_impact") or [])
     )
@@ -349,7 +461,7 @@ def build_html_digest(digest: dict[str, object]) -> str:
 
       {render_section("关键信号", f"<ul style='margin:0;padding-left:20px;line-height:1.9;'>{observations}</ul>" if observations else "<p style='margin:0;color:#6b7280;'>今天没有额外提炼到明显信号。</p>")}
 
-      {render_section("重点新闻", news_cards or "<p style='margin:0;color:#6b7280;'>今天没有可展示的重点新闻。</p>")}
+      {render_section("风口栏目", section_blocks or "<p style='margin:0;color:#6b7280;'>今天没有可展示的重点新闻。</p>")}
 
       {render_section("对我的整体影响", f"<ul style='margin:0;padding-left:20px;line-height:1.9;'>{overall_impact}</ul>" if overall_impact else "<p style='margin:0;color:#6b7280;'>今天暂无明确整体影响判断。</p>")}
 
@@ -365,6 +477,18 @@ def render_section(title: str, body: str) -> str:
         f"<h2 style='margin:0 0 16px;font-size:20px;color:#111827;'>{html.escape(title)}</h2>"
         f"{body}"
         "</section>"
+    )
+
+
+def render_news_section(title: str, items: list[dict[str, str]]) -> str:
+    if not items:
+        return ""
+    cards = "".join(render_news_card(index, item) for index, item in enumerate(items, start=1))
+    return (
+        "<div style='margin-bottom:20px;'>"
+        f"<h3 style='margin:0 0 14px;font-size:18px;color:#111827;'>{html.escape(title)}</h3>"
+        f"{cards}"
+        "</div>"
     )
 
 
