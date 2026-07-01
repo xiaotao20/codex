@@ -172,6 +172,21 @@ def validate_config(skip_email: bool) -> None:
         joined = "、".join(missing)
         raise SystemExit(f"配置不完整，请先补齐同目录 .env 中的: {joined}")
 
+    validate_wechat_config()
+
+
+def validate_wechat_config() -> None:
+    if env_text("ENABLE_WECHAT", "false").lower() != "true":
+        return
+
+    provider = env_text("WECHAT_PROVIDER", "pushplus").lower()
+    if provider == "pushplus":
+        if not looks_configured(env_text("PUSHPLUS_TOKEN")):
+            raise SystemExit("微信推送已启用，但缺少 PUSHPLUS_TOKEN")
+        return
+
+    raise SystemExit(f"暂不支持的微信推送渠道: {provider}")
+
 
 def fetch_news() -> list[dict[str, str]]:
     items: list[dict[str, str]] = []
@@ -234,7 +249,57 @@ def summarize_with_claude(news_items: list[dict[str, str]]) -> dict[str, object]
         if thinking_blocks and payload.get("stop_reason") == "max_tokens":
             raise RuntimeError("API 只返回了 thinking 内容且被 max_tokens 截断，请增大 ANTHROPIC_MAX_TOKENS 或更换模型。")
         raise RuntimeError(f"总结生成失败，请检查 API 返回: {json.dumps(payload, ensure_ascii=False)}")
-    return parse_digest_json("\n".join(text_blocks))
+    try:
+        return parse_digest_json("\n".join(text_blocks))
+    except Exception:
+        return summarize_with_claude_as_plaintext(news_items)
+
+
+def summarize_with_claude_as_plaintext(news_items: list[dict[str, str]]) -> dict[str, object]:
+    prompt = build_plaintext_prompt(news_items)
+    headers = {
+        "x-api-key": env_text("ANTHROPIC_API_KEY"),
+        "anthropic-version": env_text("ANTHROPIC_VERSION", "2023-06-01"),
+        "content-type": "application/json",
+    }
+    body = {
+        "system": "你是 AI 行业资讯编辑。只输出最终中文简报，不要展示推理过程。",
+        "model": env_text("ANTHROPIC_MODEL", "claude-opus-4-8"),
+        "max_tokens": env_int("ANTHROPIC_MAX_TOKENS", 4096),
+        "messages": [{"role": "user", "content": prompt}],
+    }
+
+    response = requests.post(
+        get_messages_url(),
+        headers=headers,
+        data=json.dumps(body),
+        timeout=env_int("REQUEST_TIMEOUT_SECONDS", 60),
+    )
+    response.raise_for_status()
+    payload = response.json()
+    text_blocks = [block["text"] for block in payload.get("content", []) if block.get("type") == "text"]
+    if not text_blocks:
+        raise RuntimeError(f"备用总结生成失败，请检查 API 返回: {json.dumps(payload, ensure_ascii=False)}")
+
+    return {
+        "overview": "今天的简报已生成，以下内容来自备用文本模式。",
+        "key_observations": [],
+        "sections": {
+            "model_releases": [
+                {
+                    "title": "AI 日报文本版",
+                    "summary": "\n".join(text_blocks).strip(),
+                    "impact": "本次模型返回的结构化 JSON 不完整，已自动降级为文本模式，保证内容能继续发送。",
+                    "link": "",
+                }
+            ],
+            "business_opportunities": [],
+            "open_source_hits": [],
+            "startup_signals": [],
+        },
+        "overall_impact": ["本次发送使用了备用文本模式，建议后续继续优化结构化输出稳定性。"],
+        "action_suggestions": ["先确认微信和邮件链路是否打通，再决定是否继续收紧 JSON 输出要求。"],
+    }
 
 
 def build_prompt(news_items: list[dict[str, str]]) -> str:
@@ -297,6 +362,55 @@ JSON 结构如下：
   "overall_impact": ["string"],
   "action_suggestions": ["string"]
 }}
+
+原始条目：
+{news_text}
+"""
+
+
+def build_plaintext_prompt(news_items: list[dict[str, str]]) -> str:
+    news_text = "\n\n".join(
+        (
+            f"来源: {item['source']}\n"
+            f"来源侧重: {item['focus']}\n"
+            f"标题: {item['title']}\n"
+            f"摘要: {item['summary']}\n"
+            f"链接: {item['link']}"
+        )
+        for item in news_items
+    )
+    return f"""以下是今天从多个英文 AI 新闻源抓取到的原始条目。
+
+请整理成中文简报，必须按下面这个纯文本结构输出，不要输出 JSON，不要输出代码块：
+
+今日判断
+<2-3 句>
+
+关键信号
+- <最多 3 条>
+
+模型发布
+1. 标题
+   摘要：...
+   对我的影响：...
+   链接：...
+
+商业机会
+...
+
+开源爆款
+...
+
+创业信号
+...
+
+对我的整体影响
+- <最多 3 条>
+
+建议动作
+- <最多 3 条>
+
+总条数不要超过 {get_max_digest_items()} 条。
 
 原始条目：
 {news_text}
@@ -534,6 +648,46 @@ def send_email(plain_text: str, html_content: str) -> None:
     print(f"邮件已发送至 {receiver_email}")
 
 
+def send_wechat(plain_text: str, html_content: str, digest: dict[str, object]) -> None:
+    if env_text("ENABLE_WECHAT", "false").lower() != "true":
+        return
+
+    provider = env_text("WECHAT_PROVIDER", "pushplus").lower()
+    if provider == "pushplus":
+        send_wechat_via_pushplus(plain_text, html_content, digest)
+        return
+
+    raise RuntimeError(f"暂不支持的微信推送渠道: {provider}")
+
+
+def send_wechat_via_pushplus(plain_text: str, html_content: str, digest: dict[str, object]) -> None:
+    del plain_text, digest
+    today = datetime.date.today().strftime("%Y-%m-%d")
+    payload = {
+        "token": env_text("PUSHPLUS_TOKEN"),
+        "title": f"AI 行业新闻日报 {today}",
+        "content": html_content,
+        "template": env_text("PUSHPLUS_TEMPLATE", "html"),
+        "channel": env_text("PUSHPLUS_CHANNEL", "wechat"),
+    }
+
+    to_value = env_text("PUSHPLUS_TO")
+    if to_value:
+        payload["to"] = to_value
+
+    response = requests.post(
+        "https://www.pushplus.plus/send",
+        json=payload,
+        timeout=30,
+    )
+    response.raise_for_status()
+    result = response.json()
+    if int(result.get("code", 0)) != 200:
+        raise RuntimeError(f"pushplus 推送失败: {json.dumps(result, ensure_ascii=False)}")
+
+    print("微信推送已提交到 pushplus。")
+
+
 def run(skip_email: bool) -> None:
     print("开始抓取新闻...")
     news_items = fetch_news()
@@ -551,6 +705,7 @@ def run(skip_email: bool) -> None:
 
     print("开始发送邮件...")
     send_email(plain_text, html_content)
+    send_wechat(plain_text, html_content, digest)
     print("完成。")
 
 
