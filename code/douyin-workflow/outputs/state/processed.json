@@ -2983,5 +2983,678 @@
       "processed_at": "2026-06-30T13:13:50+08:00"
     },
     "last_error": null
+  },
+  "7657197162031254826": {
+    "video_id": "7657197162031254826",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "一纸书香",
+      "video_id": "7657197162031254826",
+      "title": "孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科",
+      "publish_time": "2026-06-30T22:35:49+08:00",
+      "video_url": "https://www.douyin.com/video/7657197162031254826",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-958309/ogDDRqwos5deIeKlvCCISgAyIFSQBZ4maIIqtP~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098242000&x-signature=v5A3RhTqEYEYUl0Lk6iKNzqQPFk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607011328351624BEC595D1B2D432D7",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科",
+      "text_hint": "孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科",
+      "topic_tags": [
+        "数理化",
+        "理科"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/108f3cf06e81bf6697d0242528eaeaca/6a44d014/video/tos/cn/tos-cn-v-958309/os8vIZeqkwCFcPYDAQ4IERQmtoqg0BhaYesDqV/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=2070&bt=2070&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wM3iVHhd.Yz1I_R3-ApQX&mime_type=video_mp4&qs=0&rc=ZWU2NTw3OjQ0ZWdnMzs5M0BpajduZXk5cmt3PDMzNDYzM0AwNmEzNC9gXjYxLV5eNTYzYSNhZS1mMmRjNS5hLS1kMDBzcw%3D%3D&btag=c0000e00028000&cquery=100B_102v_102u_100o_100w&dy_q=1782883715&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=202607011328351624BEC595D1B2D432D7",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7657197162031254826.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7657197162031254826.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 97.234,
+      "raw_payload": {
+        "aweme_id": "7657197162031254826",
+        "author_uid": "3004344994105447",
+        "sec_uid": "MS4wLjABAAAAPTjJFRViIImILCCDCxJsqn7zG42WJf_kRBG14ALReYiTzYTsnC-5KqjRB9r1UOQE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAPTjJFRViIImILCCDCxJsqn7zG42WJf_kRBG14ALReYiTzYTsnC-5KqjRB9r1UOQE"
+      }
+    },
+    "first_seen_at": "2026-07-01T13:28:21+08:00",
+    "last_seen_at": "2026-07-01T13:28:21+08:00",
+    "fetch_runs": [
+      "2026-07-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7657197162031254826.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7657197162031254826.mp3",
+      "source": "download",
+      "processed_at": "2026-07-01T13:29:37+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7657197162031254826",
+      "transcript_raw": "孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科补充信息：孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科关键词：数理化、理科",
+      "transcript_clean": "孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科补充信息：孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科关键词：数理化、理科",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-01/7657197162031254826.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7657197162031254826",
+      "summary": "一纸书香围绕“数理化”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科。孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科补充信息：孩子学好数理化，走遍天下都不怕 推荐家长们给孩子看看这本物理化学2000问#数理化 #理科关键词：数理化、理科 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "数理化为什么总是做不出来结果？",
+        "先把理科想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕数理化组织标题与开头。",
+        "用理科和推荐家长们给孩子看看这本物理化学2000问#数理化补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "数理化",
+        "理科",
+        "推荐家长们给孩子看看这本物理化学2000问#数理化"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-01/7657197162031254826.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "last_error": null
+  },
+  "7622338107027425700": {
+    "video_id": "7622338107027425700",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "迟述川",
+      "video_id": "7622338107027425700",
+      "title": "小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜",
+      "publish_time": "2026-03-29T00:04:50+08:00",
+      "video_url": "https://www.douyin.com/video/7622338107027425700",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/dbf0ab677b5ee660f55cb1abec9a0270~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098242000&x-signature=VvuN1tRD7n2Hwc5vy1fpH%2FM20hQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607011328380CCD4B769B9FA6029E03",
+      "like_count": 4247,
+      "comment_count": 61,
+      "share_count": 108,
+      "collect_count": 409,
+      "description": "小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜",
+      "text_hint": "小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜",
+      "topic_tags": [
+        "鞠婧祎",
+        "鞠婧祎雨爱",
+        "鞠婧祎你在不在",
+        "qq音乐巅峰之夜",
+        "鞠婧祎qq音乐巅峰之夜",
+        "鞠婧祎QQ音乐巅峰之夜"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/22a3492fabfe02a7e83f655d7c3d586c/6a44d03b/video/tos/cn/tos-cn-ve-15/o4iyENdff1NIJEA9R4xpVQi294AB8TgAAKyghB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3129&bt=3129&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wS3iVHhd.Yz1I_R3-ApQX&mime_type=video_mp4&qs=0&rc=PDs0Z2k5OTg6ODM2ZWczaEBpamc3eWw5cjt5OjMzNGkzM0AvYzUuYDMtX2AxYTFeYjReYSNyaC5eMmRzajBhLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1782883718&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=202607011328380CCD4B769B9FA6029E03",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7622338107027425700.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7622338107027425700.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 133.2,
+      "raw_payload": {
+        "aweme_id": "7622338107027425700",
+        "author_uid": "3118645528239736",
+        "sec_uid": "MS4wLjABAAAA7eAzIPF3rMw1uJf_10Rt22CWtKSZEoNVVpr8hIii-vBBRxfVGWfP_KcMjw8v9wJV",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7eAzIPF3rMw1uJf_10Rt22CWtKSZEoNVVpr8hIii-vBBRxfVGWfP_KcMjw8v9wJV"
+      }
+    },
+    "first_seen_at": "2026-07-01T13:28:21+08:00",
+    "last_seen_at": "2026-07-01T13:28:21+08:00",
+    "fetch_runs": [
+      "2026-07-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7622338107027425700.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7622338107027425700.mp3",
+      "source": "download",
+      "processed_at": "2026-07-01T13:30:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7622338107027425700",
+      "transcript_raw": "小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜补充信息：小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜关键词：鞠婧祎、鞠婧祎雨爱、鞠婧祎你在不在、qq音乐巅峰之夜、鞠婧祎qq音乐巅峰之夜、鞠婧祎QQ音乐巅峰之夜",
+      "transcript_clean": "小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜补充信息：小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜关键词：鞠婧祎、鞠婧祎雨爱、鞠婧祎你在不在、qq音乐巅峰之夜、鞠婧祎qq音乐巅峰之夜、鞠婧祎QQ音乐巅峰之夜",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-01/7622338107027425700.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7622338107027425700",
+      "summary": "迟述川围绕“鞠婧祎”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜。小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜补充信息：小鞠!可惜x200拍不清楚!#鞠婧祎 #鞠婧祎雨爱 #鞠婧祎你在不在 #qq音乐巅峰之夜  #鞠婧祎QQ音乐巅峰之夜关键词：鞠婧祎、鞠婧祎雨爱、鞠婧祎你在不在、qq音乐巅峰之夜、鞠婧祎qq音乐巅峰之夜、鞠婧祎QQ音乐巅峰之夜 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "鞠婧祎为什么总是做不出来结果？",
+        "先把鞠婧祎雨爱想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕鞠婧祎组织标题与开头。",
+        "用鞠婧祎雨爱和鞠婧祎你在不在补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "鞠婧祎",
+        "鞠婧祎雨爱",
+        "鞠婧祎你在不在"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-01/7622338107027425700.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "last_error": null
+  },
+  "7353565941373930788": {
+    "video_id": "7353565941373930788",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "淄博易豪二手车",
+      "video_id": "7353565941373930788",
+      "title": "2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角",
+      "publish_time": "2024-04-03T17:11:41+08:00",
+      "video_url": "https://www.douyin.com/video/7353565941373930788",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1fd75cc92be0d027ab015a805a947c96~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098242000&x-signature=owA%2FinOFh8dgP73%2FGW%2FIREEUbh0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260701132842440C9498796156233BEB",
+      "like_count": 42,
+      "comment_count": 13,
+      "share_count": 5,
+      "collect_count": 10,
+      "description": "2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角",
+      "text_hint": "2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角",
+      "topic_tags": [
+        "斯柯达晶锐",
+        "淄博易豪名车",
+        "淄博",
+        "二手车",
+        "第一视角"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/c25beb989fbb48b6a330651fd9f1254d/6a44d090/video/cn/mps/realtime/v1/r/p/v0d00fg10000co6hnu3c77u2llu0qh70/1da7147d80514a6c93f2f71eaf9e4539/184ac0077eb8e3f5970ed3881c9e7098/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1477&bt=1477&cs=0&ds=3&ft=InFJ3Y-5DyjNNRVQ9wA3iVHhd.Yz1I_R3-ApQX&mime_type=video_mp4&qs=0&rc=PDhoaWg6NTZmZDQzZzc6Z0BpM2szbzU6ZnhrcjMzNGkzM0AwMTZeLmNjNjMxMjU0Ll4uYSM0bnJpcjQwazNgLS1kLWFzcw%3D%3D&btag=80000e00028000&codec=h264&cquery=100B_100x_100z_100o_100w&definition=720p&dy_q=1782883722&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7353565941373930788&l=20260701132842440C9498796156233BEB&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7353565941373930788.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7353565941373930788.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 214.93,
+      "raw_payload": {
+        "aweme_id": "7353565941373930788",
+        "author_uid": "3680807025129771",
+        "sec_uid": "MS4wLjABAAAALBXRqZLs_mVRKC3XzQ5gYieoJzCdIlqbEJTTb1WzOHFKsQwPInIYZbZWoHmmK3Ih",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAALBXRqZLs_mVRKC3XzQ5gYieoJzCdIlqbEJTTb1WzOHFKsQwPInIYZbZWoHmmK3Ih"
+      }
+    },
+    "first_seen_at": "2026-07-01T13:28:21+08:00",
+    "last_seen_at": "2026-07-01T13:28:21+08:00",
+    "fetch_runs": [
+      "2026-07-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7353565941373930788.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7353565941373930788.mp3",
+      "source": "download",
+      "processed_at": "2026-07-01T13:31:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7353565941373930788",
+      "transcript_raw": "2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角补充信息：2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角关键词：斯柯达晶锐、淄博易豪名车、淄博、二手车、第一视角",
+      "transcript_clean": "2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角补充信息：2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角关键词：斯柯达晶锐、淄博易豪名车、淄博、二手车、第一视角",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-01/7353565941373930788.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7353565941373930788",
+      "summary": "淄博易豪二手车围绕“斯柯达晶锐”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角。2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角补充信息：2013年1.6L自动挡，Scout版，最顶配#斯柯达晶锐 ，试驾视频（下）#淄博易豪名车 #淄博 #二手车 #第一视角关键词：斯柯达晶锐、淄博易豪名车、淄博、二手车、第一视角 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "斯柯达晶锐为什么总是做不出来结果？",
+        "先把淄博易豪名车想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕斯柯达晶锐组织标题与开头。",
+        "用淄博易豪名车和淄博补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "斯柯达晶锐",
+        "淄博易豪名车",
+        "淄博"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-01/7353565941373930788.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "last_error": null
+  },
+  "7345025172816071986": {
+    "video_id": "7345025172816071986",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小白电脑",
+      "video_id": "7345025172816071986",
+      "title": "500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生",
+      "publish_time": "2024-03-11T16:49:10+08:00",
+      "video_url": "https://www.douyin.com/video/7345025172816071986",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e37d532d2a707c891fc4e28e845334bc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098242000&x-signature=NRbxFtltQK1yOA6xtr7hukNEeFs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026070113284641EBAA6041B253BB7342",
+      "like_count": 43,
+      "comment_count": 3,
+      "share_count": 13,
+      "collect_count": 5,
+      "description": "500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生",
+      "text_hint": "500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生",
+      "topic_tags": [
+        "笔记本",
+        "电脑",
+        "苹果",
+        "大学生"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/9a9547bf3e58df6d65d625830008a915/6a44d072/video/cn/mps/realtime/v1/r/p/v0200fg10000cnnc9crc77u9qtobs6dg/f45b03d5dd2f401e9d6a2d6d620fd2af/46391e4b8cc81902ac81eb9cbd6f2c18/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1102&bt=1102&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNNRVQ9wx3iVHhd.Yz1I_R3-ApQX&mime_type=video_mp4&qs=0&rc=aTVpNWdnZGdoM2lnODZlN0Bpajlldzw6ZmZmcTMzNGkzM0BeYS0zMy8zNi4xL2FhLTJjYSNhcGxucjRvNmtgLS1kLS9zcw%3D%3D&btag=80000e00028000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=720p&dy_q=1782883726&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7345025172816071986&l=2026070113284641EBAA6041B253BB7342&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7345025172816071986.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7345025172816071986.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.088,
+      "raw_payload": {
+        "aweme_id": "7345025172816071986",
+        "author_uid": "2889167038592935",
+        "sec_uid": "MS4wLjABAAAAFdYM91EOvLpzMq8WLjxWQy_Po10bWLmaFj7L5UOmcWX1VFi86GYqXskufdWMYDBy",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAFdYM91EOvLpzMq8WLjxWQy_Po10bWLmaFj7L5UOmcWX1VFi86GYqXskufdWMYDBy"
+      }
+    },
+    "first_seen_at": "2026-07-01T13:28:21+08:00",
+    "last_seen_at": "2026-07-01T13:28:21+08:00",
+    "fetch_runs": [
+      "2026-07-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7345025172816071986.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7345025172816071986.mp3",
+      "source": "download",
+      "processed_at": "2026-07-01T13:32:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7345025172816071986",
+      "transcript_raw": "500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生补充信息：500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生关键词：笔记本、电脑、苹果、大学生",
+      "transcript_clean": "500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生补充信息：500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生关键词：笔记本、电脑、苹果、大学生",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-01/7345025172816071986.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7345025172816071986",
+      "summary": "小白电脑围绕“笔记本”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生。500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生补充信息：500块回收的苹果macbook pro 2021款，i5-2435 4G内存 500G硬盘 ，可以正常办公、学习、追剧，最重要的是可以装一下！599 粉丝福利#笔记本 #电脑 #苹果 #大学生关键词：笔记本、电脑、苹果、大学生 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "笔记本为什么总是做不出来结果？",
+        "先把电脑想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕笔记本组织标题与开头。",
+        "用电脑和苹果补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "笔记本",
+        "电脑",
+        "苹果"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-01/7345025172816071986.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "last_error": null
+  },
+  "7564357713866837290": {
+    "video_id": "7564357713866837290",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7564357713866837290",
+      "title": "在抖音记录美好生活20260701",
+      "publish_time": "2026-07-01T13:29:23+08:00",
+      "video_url": "https://www.douyin.com/video/7564357713866837290",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260701",
+      "text_hint": "在抖音记录美好生活20260701",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ae4f90f4-5cf0-4658-a0f5-159adeb6e7bf",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7564357713866837290",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-01T13:28:21+08:00",
+    "last_seen_at": "2026-07-01T13:28:21+08:00",
+    "fetch_runs": [
+      "2026-07-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7246005847963323682": {
+    "video_id": "7246005847963323682",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "李占詹✨星座🃏塔罗（教-学）",
+      "video_id": "7246005847963323682",
+      "title": "梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿",
+      "publish_time": "2023-06-18T20:43:31+08:00",
+      "video_url": "https://www.douyin.com/video/7246005847963323682",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b62d5da001a615f5efa5f03d0cef3e09~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098242000&x-signature=pKtdPA9mx0eZjSVrgVtCplkTkZ4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260701132857DF8827D1BFF9AB0C21C6",
+      "like_count": 2419,
+      "comment_count": 342,
+      "share_count": 83,
+      "collect_count": 358,
+      "description": "梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿",
+      "text_hint": "梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿",
+      "topic_tags": [
+        "塔罗测试",
+        "愿所求皆所愿"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/409209db39f1a9b71859ac9135891061/6a44d1cf/video/tos/cn/tos-cn-ve-0015c800/o8nrpDHRsEJjGecAcCAbOycRBTifB9gHPkIvAA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1557&bt=1557&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wh3iVHhd.Yz1I_R3-ApQX&mime_type=video_mp4&qs=0&rc=aWllOGQ5aTc1OzVnODc6NEBpamg3dzY6ZjRpbDMzNGkzM0A1XmA0Xl8uNWAxYTFgYmBjYSNjZ2NlcjRnajRgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1782883737&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260701132857DF8827D1BFF9AB0C21C6",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7246005847963323682.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7246005847963323682.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 518.967,
+      "raw_payload": {
+        "aweme_id": "7246005847963323682",
+        "author_uid": "105441145242",
+        "sec_uid": "MS4wLjABAAAApDVeoHBogAk59_Lmuf4tmGylXN3xzh4PdUdjdRwXL0s",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAApDVeoHBogAk59_Lmuf4tmGylXN3xzh4PdUdjdRwXL0s"
+      }
+    },
+    "first_seen_at": "2026-07-01T13:28:21+08:00",
+    "last_seen_at": "2026-07-01T13:28:21+08:00",
+    "fetch_runs": [
+      "2026-07-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7246005847963323682.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7246005847963323682.mp3",
+      "source": "download",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7246005847963323682",
+      "transcript_raw": "梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿补充信息：梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿关键词：塔罗测试、愿所求皆所愿",
+      "transcript_clean": "梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿补充信息：梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿关键词：塔罗测试、愿所求皆所愿",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-01/7246005847963323682.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7246005847963323682",
+      "summary": "李占詹✨星座🃏塔罗（教-学）围绕“塔罗测试”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿。梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿补充信息：梦想可以实现吗pick  card#塔罗测试 #愿所求皆所愿关键词：塔罗测试、愿所求皆所愿 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "塔罗测试为什么总是做不出来结果？",
+        "先把愿所求皆所愿想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕塔罗测试组织标题与开头。",
+        "用愿所求皆所愿和card#塔罗测试补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "塔罗测试",
+        "愿所求皆所愿",
+        "card#塔罗测试"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-01/7246005847963323682.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "last_error": null
+  },
+  "7554959117488639259": {
+    "video_id": "7554959117488639259",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "玩车廖布斯",
+      "video_id": "7554959117488639259",
+      "title": "没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车",
+      "publish_time": "2025-09-28T10:20:02+08:00",
+      "video_url": "https://www.douyin.com/video/7554959117488639259",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c42395352ff6d107d83bbe18bf12add3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098242000&x-signature=0Xgj%2FAxfLByzWxiMSXzQ6VaM%2F3E%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607011329004ED61310C2B6E7BC0AB3",
+      "like_count": 11933,
+      "comment_count": 621,
+      "share_count": 1196,
+      "collect_count": 532,
+      "description": "没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车",
+      "text_hint": "没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车",
+      "topic_tags": [
+        "新一代智己LS6",
+        "买增程先看智己",
+        "新能源汽车"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/5dba4edbae90232f12e8642bd6d3b26e/6a44d107/video/tos/cn/tos-cn-ve-15/owJDFBk4JAravmPzQi4tEfu0Ck2yoIAzfA49go/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2394&bt=2394&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wd3iVHhd.Yz1I_R3-ApQX&mime_type=video_mp4&qs=0&rc=Nzg5PDc4aTM1OjZnPGk7OkBpanE8OW85cnc8NjMzNGkzM0BjMTNeXjIxNTIxYF8zXmIuYSNvbGJyMmQ0NGBhLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1782883740&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202607011329004ED61310C2B6E7BC0AB3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7554959117488639259.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7554959117488639259.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 315.512,
+      "raw_payload": {
+        "aweme_id": "7554959117488639259",
+        "author_uid": "2559293384831758",
+        "sec_uid": "MS4wLjABAAAApCR2xeJorejn8y6hJWVu-dhq7VfSRFah-oSMXj1vvQazmnUWvR_M4IRlkQT5XFeR",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAApCR2xeJorejn8y6hJWVu-dhq7VfSRFah-oSMXj1vvQazmnUWvR_M4IRlkQT5XFeR"
+      }
+    },
+    "first_seen_at": "2026-07-01T13:28:21+08:00",
+    "last_seen_at": "2026-07-01T13:28:21+08:00",
+    "fetch_runs": [
+      "2026-07-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7554959117488639259.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7554959117488639259.mp3",
+      "source": "download",
+      "processed_at": "2026-07-01T13:30:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7554959117488639259",
+      "transcript_raw": "没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车补充信息：没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车关键词：新一代智己LS6、买增程先看智己、新能源汽车",
+      "transcript_clean": "没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车补充信息：没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车关键词：新一代智己LS6、买增程先看智己、新能源汽车",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-01/7554959117488639259.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7554959117488639259",
+      "summary": "玩车廖布斯围绕“新一代智己LS6”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车。没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车补充信息：没充电桩又难停车？看新一代智己LS6如何解决这些终极难题！ #新一代智己LS6 #买增程先看智己 #新能源汽车关键词：新一代智己LS6、买增程先看智己、新能源汽车 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新一代智己LS6为什么总是做不出来结果？",
+        "先把买增程先看智己想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新一代智己LS6组织标题与开头。",
+        "用买增程先看智己和新能源汽车补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新一代智己LS6",
+        "买增程先看智己",
+        "新能源汽车"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-01/7554959117488639259.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "last_error": null
+  },
+  "7396211992148643099": {
+    "video_id": "7396211992148643099",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7396211992148643099",
+      "title": "未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏",
+      "publish_time": "2024-07-27T07:20:00+08:00",
+      "video_url": "https://www.douyin.com/video/7396211992148643099",
+      "cover_url": "",
+      "like_count": 790,
+      "comment_count": 23,
+      "share_count": 100,
+      "collect_count": 53,
+      "description": "未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏",
+      "text_hint": "未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏",
+      "topic_tags": [
+        "亦舒",
+        "郑佩佩",
+        "蔡边村",
+        "母爱",
+        "婚姻",
+        "娱乐评论大赏"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/711a4dd0d363602e3f0f73df8ef18796/6a44d095/video/tos/cn/tos-cn-ve-15/oEtktZASfAIkTeGTQD7NMwCuoEBEFBYXnTJE6e/?a=6383&br=413&bt=413&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100D_100J_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1782883756&feature_id=f0150a16a324336cda5d6dd0b69ed299&ft=CZdgCYlIDyjNNRVQ9wV3iVHhd.Yz1I_R3-ApQX&is_ssr=1&l=20260701132916F5B84D45AB6F7DBBC8EF&lr=all&mime_type=video_mp4&qs=0&rc=OGkzNzM3ZTozZzk1aWVpZUBpM3NvbXg5cmU8dDMzNGkzM0AuMy8xNS01XzMxNDY1MWFhYSNrYjJnMmRjc2ZgLS1kLS9zcw%3D%3D&__vid=7396211992148643099",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7396211992148643099.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7396211992148643099.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7396211992148643099",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-01T13:28:21+08:00",
+    "last_seen_at": "2026-07-01T13:28:21+08:00",
+    "fetch_runs": [
+      "2026-07-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7396211992148643099.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-01/7396211992148643099.mp3",
+      "source": "download",
+      "processed_at": "2026-07-01T13:30:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7396211992148643099",
+      "transcript_raw": "未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏补充信息：未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏关键词：亦舒、郑佩佩、蔡边村、母爱、婚姻、娱乐评论大赏",
+      "transcript_clean": "未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏补充信息：未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏关键词：亦舒、郑佩佩、蔡边村、母爱、婚姻、娱乐评论大赏",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-01/7396211992148643099.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7396211992148643099",
+      "summary": "目标博主 1围绕“亦舒”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏。未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏补充信息：未婚生子弃养，插足闺蜜感情，作家的作品不代表人品 #亦舒 #郑佩佩 #蔡边村 #母爱 #婚姻 #娱乐评论大赏关键词：亦舒、郑佩佩、蔡边村、母爱、婚姻、娱乐评论大赏 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "亦舒为什么总是做不出来结果？",
+        "先把郑佩佩想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕亦舒组织标题与开头。",
+        "用郑佩佩和蔡边村补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "亦舒",
+        "郑佩佩",
+        "蔡边村"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-01/7396211992148643099.json",
+      "processed_at": "2026-07-01T13:32:55+08:00"
+    },
+    "last_error": null
   }
 }
