@@ -3656,5 +3656,664 @@
       "processed_at": "2026-07-01T13:32:55+08:00"
     },
     "last_error": null
+  },
+  "7657480681804067739": {
+    "video_id": "7657480681804067739",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "跟花花学英语",
+      "video_id": "7657480681804067739",
+      "title": "晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语",
+      "publish_time": "2026-07-01T16:55:56+08:00",
+      "video_url": "https://www.douyin.com/video/7657480681804067739",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/okhE9qZpRheEA1jIAAIwlhXfF5ug6FEDBACBvN~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098328400&x-signature=DLGuKzVrqL54KErLggzPRnA56NU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260702130416A358E2CEBFCBFE4BBD70",
+      "like_count": 4,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语",
+      "text_hint": "晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语",
+      "topic_tags": [
+        "日常英语积累",
+        "启蒙英语",
+        "少儿英语",
+        "零基础口语",
+        "晨读英语"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/9ffc9d30261830cf20d39b1389372edc/6a461b8f/video/tos/cn/tos-cn-ve-15/oIuLuDVeQIWk7JGBarUBJGECiIe7ECceAATLy7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=360&bt=360&cs=0&ds=3&ft=CZdgCYlIDyjNewVQ9w0GVVHhd.UMwNC73-ApQX&mime_type=video_mp4&qs=0&rc=aDY4ZmdkZ2RoMzQ5ZmlpaEBpajg3aWo5cmtnPDMzNGkzM0BjXi40Ni4zXi8xYzQ0Y18vYSNrLmtuMmRjXy9hLS1kLS9zcw%3D%3D&btag=80000e00010000&cquery=100w_100B_100x_100z_100o&dy_q=1782968656&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260702130416A358E2CEBFCBFE4BBD70",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7657480681804067739.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7657480681804067739.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 15.0,
+      "raw_payload": {
+        "aweme_id": "7657480681804067739",
+        "author_uid": "92614456791",
+        "sec_uid": "MS4wLjABAAAAvp5B5Md5YXGohzx-FuWIQqDSJXLPuBCgr-c9AGM0uu0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAvp5B5Md5YXGohzx-FuWIQqDSJXLPuBCgr-c9AGM0uu0"
+      }
+    },
+    "first_seen_at": "2026-07-02T13:04:03+08:00",
+    "last_seen_at": "2026-07-02T13:04:03+08:00",
+    "fetch_runs": [
+      "2026-07-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7657480681804067739.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7657480681804067739.mp3",
+      "source": "download",
+      "processed_at": "2026-07-02T13:05:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7657480681804067739",
+      "transcript_raw": "晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语补充信息：晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语关键词：日常英语积累、启蒙英语、少儿英语、零基础口语、晨读英语",
+      "transcript_clean": "晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语补充信息：晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语关键词：日常英语积累、启蒙英语、少儿英语、零基础口语、晨读英语",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-02/7657480681804067739.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7657480681804067739",
+      "summary": "跟花花学英语围绕“日常英语积累”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语。晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语补充信息：晨读晚读英语 每天几句话，英语顶呱呱#日常英语积累 #启蒙英语 #少儿英语 #零基础口语 #晨读英语关键词：日常英语积累、启蒙英语、少儿英语、零基础口语、晨读英语 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "日常英语积累为什么总是做不出来结果？",
+        "先把启蒙英语想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕日常英语积累组织标题与开头。",
+        "用启蒙英语和少儿英语补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "日常英语积累",
+        "启蒙英语",
+        "少儿英语"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-02/7657480681804067739.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "last_error": null
+  },
+  "7655658280924073268": {
+    "video_id": "7655658280924073268",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "宁波晚报",
+      "video_id": "7655658280924073268",
+      "title": "万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说",
+      "publish_time": "2026-06-26T19:04:16+08:00",
+      "video_url": "https://www.douyin.com/video/7655658280924073268",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1d2e17c2747ae6eccaf12aac533ea8cb~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098328400&x-signature=zyB3p7f5y54snjRE9FTrYXIkEj0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260702130420249942028DEC709A8224",
+      "like_count": 1281,
+      "comment_count": 67,
+      "share_count": 658,
+      "collect_count": 79,
+      "description": "万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说",
+      "text_hint": "万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说",
+      "topic_tags": [
+        "媒体精选计划",
+        "晚报主播说"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/995c73045735eaf23b75d4a4d1dc1cfb/6a461b94/video/tos/cn/tos-cn-ve-15/ocx2GIAXQAogf9D7IEew5MLDdfAxZCeLBqAakt/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=908&bt=908&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9w1GVVHhd.UMwNC73-ApQX&mime_type=video_mp4&qs=0&rc=NjNnZTVmOTc5ZThlNjM6OEBpM3ZxNGo5cjg4OzMzNGkzM0BjNDQzNS4tX2ExXmNfYzMwYSNkc241MmRrbXNhLS1kLTBzcw%3D%3D&btag=c0000e00010000&cquery=100H_100K_100o_100w_100B&dy_q=1782968660&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260702130420249942028DEC709A8224",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7655658280924073268.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7655658280924073268.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 16.974,
+      "raw_payload": {
+        "aweme_id": "7655658280924073268",
+        "author_uid": "81534483155",
+        "sec_uid": "MS4wLjABAAAABmSbUaCOIiZMWUaw2DqBuET7LLzfAnsFI7tu_RWjUIo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABmSbUaCOIiZMWUaw2DqBuET7LLzfAnsFI7tu_RWjUIo"
+      }
+    },
+    "first_seen_at": "2026-07-02T13:04:03+08:00",
+    "last_seen_at": "2026-07-02T13:04:03+08:00",
+    "fetch_runs": [
+      "2026-07-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7655658280924073268.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7655658280924073268.mp3",
+      "source": "download",
+      "processed_at": "2026-07-02T13:05:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7655658280924073268",
+      "transcript_raw": "万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说补充信息：万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说关键词：媒体精选计划、晚报主播说",
+      "transcript_clean": "万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说补充信息：万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说关键词：媒体精选计划、晚报主播说",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-02/7655658280924073268.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7655658280924073268",
+      "summary": "宁波晚报围绕“媒体精选计划”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说。万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说补充信息：万分之一的概率！河南29岁女子生4胞胎3儿1女，丈夫称生产前担心会是4个儿子，“非常开心，看见孩子们动力更大” #媒体精选计划 #晚报主播说关键词：媒体精选计划、晚报主播说 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "媒体精选计划为什么总是做不出来结果？",
+        "先把晚报主播说想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕媒体精选计划组织标题与开头。",
+        "用晚报主播说和#媒体精选计划补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "媒体精选计划",
+        "晚报主播说",
+        "#媒体精选计划"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-02/7655658280924073268.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "last_error": null
+  },
+  "7412659951195213095": {
+    "video_id": "7412659951195213095",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "xin  yu",
+      "video_id": "7412659951195213095",
+      "title": "xin  yu 视频 7412659951195213095",
+      "publish_time": "2024-09-09T23:06:38+08:00",
+      "video_url": "https://www.douyin.com/video/7412659951195213095",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oEIBy7CN1vfD0LhqOsOGvABBEyBeA1HzeQH9Ih~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098328400&x-signature=cdi852U5TLyN%2BwRWhcnIuRIvDEE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260702130424084D4A9267B59795E694",
+      "like_count": 75,
+      "comment_count": 10,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/99cd52da7b3872b77438c893e76c1245/6a461c72/video/tos/cn/tos-cn-ve-0015c800/oEzBsehfhA57GmKIheOIA1CEDBvLQZp9Ny0HtW/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=1303&bt=1303&cs=0&ds=3&ft=CZdgCYlIDyjNewVQ9wuGVVHhd.UMwNC73-ApQX&mime_type=video_mp4&qs=0&rc=PDs3MzM0Zjo6OzQ5OTloNUBpM3N3eW05cjlqdTMzNGkzM0AuX14tLWI0NjUxMzIvYGFhYSNfLm9kMmRrcWNgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1782968664&feature_id=aa7df520beeae8e397df15f38df0454c&l=20260702130424084D4A9267B59795E694",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7412659951195213095.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7412659951195213095.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 234.828,
+      "raw_payload": {
+        "aweme_id": "7412659951195213095",
+        "author_uid": "104417128512",
+        "sec_uid": "MS4wLjABAAAAOs0OZnLE7KYXwFGgTqhBTIcp7jqchgXcWCnCS7c8I3Y",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAOs0OZnLE7KYXwFGgTqhBTIcp7jqchgXcWCnCS7c8I3Y"
+      }
+    },
+    "first_seen_at": "2026-07-02T13:04:03+08:00",
+    "last_seen_at": "2026-07-02T13:04:03+08:00",
+    "fetch_runs": [
+      "2026-07-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7412659951195213095.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7412659951195213095.mp3",
+      "source": "download",
+      "processed_at": "2026-07-02T13:06:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7412659951195213095",
+      "transcript_raw": "xin  yu 视频 7412659951195213095",
+      "transcript_clean": "xin  yu 视频 7412659951195213095",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-02/7412659951195213095.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7412659951195213095",
+      "summary": "xin  yu围绕“xin”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "xin  yu 视频 7412659951195213095。xin  yu 视频 7412659951195213095 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "xin为什么总是做不出来结果？",
+        "先把yu想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕xin组织标题与开头。",
+        "用yu和视频补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "xin",
+        "yu",
+        "视频"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-02/7412659951195213095.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "last_error": null
+  },
+  "7413353330786766090": {
+    "video_id": "7413353330786766090",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小小笨",
+      "video_id": "7413353330786766090",
+      "title": "#小说 #小说推荐 #小说推文",
+      "publish_time": "2024-09-12T10:20:00+08:00",
+      "video_url": "https://www.douyin.com/video/7413353330786766090",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/12eb8af9115ebe87954182f35ac94839~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098328400&x-signature=OjBumUxT9zPu2h7HqUhdGHIBFVM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260702130426794548E2809BC7424C2C",
+      "like_count": 27,
+      "comment_count": 3,
+      "share_count": 2,
+      "collect_count": 16,
+      "description": "#小说 #小说推荐 #小说推文",
+      "text_hint": "#小说 #小说推荐 #小说推文",
+      "topic_tags": [
+        "小说",
+        "小说推荐",
+        "小说推文"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8d98be61f011475d018cda225fb17c81/6a461d95/video/tos/cn/tos-cn-ve-0015c800/o0c9y4EfrbI9hhDqAmLchNgQDfAQFAiI8BGmWI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1213&bt=1213&cs=0&ds=3&ft=CZdgCYlIDyjNewVQ9wrGVVHhd.UMwNC73-ApQX&mime_type=video_mp4&qs=0&rc=NDQzNThnOTtkNztkZzY2O0BpMzdxN3M5cnFwdTMzNGkzM0AuLy1iMzZfNi0xL14uNmIwYSM0cG4vMmQ0MmRgLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1782968666&feature_id=aa7df520beeae8e397df15f38df0454c&l=20260702130426794548E2809BC7424C2C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7413353330786766090.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7413353330786766090.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 523.75,
+      "raw_payload": {
+        "aweme_id": "7413353330786766090",
+        "author_uid": "1330865742807244",
+        "sec_uid": "MS4wLjABAAAAmdNj1QEOw679umR8SU6r5KytTOdSvRa3FVqgCFLwxFI-sFaxQTbnwQy7FkLDJ14o",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAmdNj1QEOw679umR8SU6r5KytTOdSvRa3FVqgCFLwxFI-sFaxQTbnwQy7FkLDJ14o"
+      }
+    },
+    "first_seen_at": "2026-07-02T13:04:03+08:00",
+    "last_seen_at": "2026-07-02T13:04:03+08:00",
+    "fetch_runs": [
+      "2026-07-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7413353330786766090.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7413353330786766090.mp3",
+      "source": "download",
+      "processed_at": "2026-07-02T13:06:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7413353330786766090",
+      "transcript_raw": "#小说 #小说推荐 #小说推文#小说 #小说推荐 #小说推文补充信息：#小说 #小说推荐 #小说推文关键词：小说、小说推荐、小说推文",
+      "transcript_clean": "#小说 #小说推荐 #小说推文#小说 #小说推荐 #小说推文补充信息：#小说 #小说推荐 #小说推文关键词：小说、小说推荐、小说推文",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-02/7413353330786766090.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7413353330786766090",
+      "summary": "小小笨围绕“小说”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#小说 #小说推荐 #小说推文。#小说 #小说推荐 #小说推文#小说 #小说推荐 #小说推文补充信息：#小说 #小说推荐 #小说推文关键词：小说、小说推荐、小说推文 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "小说为什么总是做不出来结果？",
+        "先把小说推荐想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕小说组织标题与开头。",
+        "用小说推荐和小说推文补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "小说",
+        "小说推荐",
+        "小说推文"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-02/7413353330786766090.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "last_error": null
+  },
+  "7580177038234496192": {
+    "video_id": "7580177038234496192",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7580177038234496192",
+      "title": "在抖音记录美好生活20260702",
+      "publish_time": "2026-07-02T13:05:02+08:00",
+      "video_url": "https://www.douyin.com/video/7580177038234496192",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260702",
+      "text_hint": "在抖音记录美好生活20260702",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/7b067137-3360-4bcd-80f8-3be9ff634109",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7580177038234496192",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-02T13:04:03+08:00",
+    "last_seen_at": "2026-07-02T13:04:03+08:00",
+    "fetch_runs": [
+      "2026-07-02"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7547634283003907338": {
+    "video_id": "7547634283003907338",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "我的名字",
+      "video_id": "7547634283003907338",
+      "title": "小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！",
+      "publish_time": "2025-09-08T16:35:52+08:00",
+      "video_url": "https://www.douyin.com/video/7547634283003907338",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/9f07f99f6e9895d21d95e1d7be1213e6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098328400&x-signature=FqipIKvwpF%2BzoPl3k5rRcFM5Sfo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260702130437E8C11FAC20B8BD395759",
+      "like_count": 500,
+      "comment_count": 85,
+      "share_count": 376,
+      "collect_count": 52,
+      "description": "小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！",
+      "text_hint": "小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/26fd9543f366398f7a7be44fce0def66/6a461c9a/video/tos/cn/tos-cn-v-c9e10a/oENkQP5OBE1WMQ9eDdiQNT5LPBfEo4AIi0ghIR/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1763&bt=1763&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wsGVVHhd.UMwNC73-ApQX&mime_type=video_mp4&qs=0&rc=NzVlODc8ZWdnMzc2NjQ0ZEBpajp4c3I5cnQ8NTMzNDYzM0AzYTRgXjNfNi0xLi9iNDBgYSM0cWBrMmQ0XnNhLS1kMC9zcw%3D%3D&btag=80000e00030000&cquery=102v_102u_100o_100w_100B&dy_q=1782968677&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=20260702130437E8C11FAC20B8BD395759",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7547634283003907338.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7547634283003907338.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 261.108,
+      "raw_payload": {
+        "aweme_id": "7547634283003907338",
+        "author_uid": "443842530918036",
+        "sec_uid": "MS4wLjABAAAAalAZ5Hp4bWR4v_3SH4kZoxeJLW3iCuiah70s9pltjXw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAalAZ5Hp4bWR4v_3SH4kZoxeJLW3iCuiah70s9pltjXw"
+      }
+    },
+    "first_seen_at": "2026-07-02T13:04:03+08:00",
+    "last_seen_at": "2026-07-02T13:04:03+08:00",
+    "fetch_runs": [
+      "2026-07-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7547634283003907338.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7547634283003907338.mp3",
+      "source": "download",
+      "processed_at": "2026-07-02T13:05:38+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7547634283003907338",
+      "transcript_raw": "小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！补充信息：小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！",
+      "transcript_clean": "小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！补充信息：小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-02/7547634283003907338.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7547634283003907338",
+      "summary": "我的名字围绕“小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！补充信息：小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！。小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！补充信息：小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！补充信息：小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！补充信息：小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧！补充信息：小姐姐唱歌竟然这么好，原来是在这学的！你也来试试吧",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-02/7547634283003907338.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "last_error": null
+  },
+  "7039365289460501799": {
+    "video_id": "7039365289460501799",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "逸飞",
+      "video_id": "7039365289460501799",
+      "title": "至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店",
+      "publish_time": "2021-12-09T00:12:34+08:00",
+      "video_url": "https://www.douyin.com/video/7039365289460501799",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/fc2ee42931716dc03deba162600baf12~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098328400&x-signature=8fhizMqmVeppR%2B4A1FDODM2pEe8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260702130441A8261D499751C6A57A26",
+      "like_count": 2776,
+      "comment_count": 802,
+      "share_count": 436,
+      "collect_count": 119,
+      "description": "至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店",
+      "text_hint": "至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店",
+      "topic_tags": [
+        "英雄联盟皮肤",
+        "lol",
+        "至臻商店"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e1e603a785595342842b2173caec6094/6a461ce3/video/tos/cn/tos-cn-ve-15-alinc2/e0ced77564c14309b7516543a7b33e89/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=880&bt=880&cs=0&ds=3&ft=CZdgCYlIDyjNewVQ9wCGVVHhd.UMwNC73-ApQX&mime_type=video_mp4&qs=0&rc=ODZoNDtlNTtmPDM3OWU7M0BpajU5c2k6ZjNnOTMzNGkzM0AvNDUyMWAvNTMxYzUxYzZfYSNscWFvcjRfZmxgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100x_102u_100o_100w_100B&dy_q=1782968681&l=20260702130441A8261D499751C6A57A26",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7039365289460501799.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7039365289460501799.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 330.281,
+      "raw_payload": {
+        "aweme_id": "7039365289460501799",
+        "author_uid": "111060074849",
+        "sec_uid": "MS4wLjABAAAAxPn874Hsa04FfNJ8jxid23qOjCprMLyEHLvSjKtcZfo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAxPn874Hsa04FfNJ8jxid23qOjCprMLyEHLvSjKtcZfo"
+      }
+    },
+    "first_seen_at": "2026-07-02T13:04:03+08:00",
+    "last_seen_at": "2026-07-02T13:04:03+08:00",
+    "fetch_runs": [
+      "2026-07-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7039365289460501799.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7039365289460501799.mp3",
+      "source": "download",
+      "processed_at": "2026-07-02T13:07:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7039365289460501799",
+      "transcript_raw": "至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店补充信息：至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店关键词：英雄联盟皮肤、lol、至臻商店",
+      "transcript_clean": "至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店补充信息：至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店关键词：英雄联盟皮肤、lol、至臻商店",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-02/7039365289460501799.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7039365289460501799",
+      "summary": "逸飞围绕“英雄联盟皮肤”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店。至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店补充信息：至臻商店12月10日开启，推荐最值得兑换的高质量至臻皮肤#英雄联盟皮肤 #lol #至臻商店关键词：英雄联盟皮肤、lol、至臻商店 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "英雄联盟皮肤为什么总是做不出来结果？",
+        "先把lol想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕英雄联盟皮肤组织标题与开头。",
+        "用lol和至臻商店补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "英雄联盟皮肤",
+        "lol",
+        "至臻商店"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-02/7039365289460501799.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "last_error": null
+  },
+  "7026238444149984543": {
+    "video_id": "7026238444149984543",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7026238444149984543",
+      "title": "房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略",
+      "publish_time": "2021-11-03T07:13:00+08:00",
+      "video_url": "https://www.douyin.com/video/7026238444149984543",
+      "cover_url": "",
+      "like_count": 1947,
+      "comment_count": 183,
+      "share_count": 60,
+      "collect_count": 171,
+      "description": "房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略",
+      "text_hint": "房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略",
+      "topic_tags": [
+        "房产",
+        "买房",
+        "买房攻略"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/fe8ba812cf1e4311400bc273b42036e6/6a461c8c/video/cn/mps/realtime/v1/r/p/v0200fg10000c613c5jc77u9bso6a84g/7ec80176edd241e281992816df215687/c83001f2189a16ef4c815df59e7d9a49/mp4/main.mp4?a=6383&br=588&bt=588&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&codec=h264&cquery=100B_100x_102u_100o_100w&cr=3&cs=0&cv=1&definition=720p&dr=0&ds=3&dy_q=1782968697&eid=64256&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&ft=InFJ3Y-5DyjNewVQ9wRGVVHhd.UMwNC73-ApQX&is_ssr=1&item_id=7026238444149984543&l=202607021304570206662076C3663E280B&logo_type=&lr=all&mime_type=video_mp4&qs=0&rc=Ojk0aTk7PDQ1NDVnOTQ7aEBpajs5djw6Zjg2OTMzNGkzM0A1Mi9hLi82NWIxYWI0LWA0YSMxXmxfcjRnYC5gLS1kLS9zcw%3D%3D&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type&__vid=7026238444149984543",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7026238444149984543.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7026238444149984543.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7026238444149984543",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-02T13:04:03+08:00",
+    "last_seen_at": "2026-07-02T13:04:03+08:00",
+    "fetch_runs": [
+      "2026-07-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7026238444149984543.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-02/7026238444149984543.mp3",
+      "source": "download",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7026238444149984543",
+      "transcript_raw": "房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略补充信息：房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略关键词：房产、买房、买房攻略",
+      "transcript_clean": "房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略补充信息：房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略关键词：房产、买房、买房攻略",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-02/7026238444149984543.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7026238444149984543",
+      "summary": "知雪围绕“房产”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略。房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略补充信息：房价下跌，什么样的房子应该卖掉！什么样的房子应该留下。#房产 #买房 #买房攻略关键词：房产、买房、买房攻略 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "房产为什么总是做不出来结果？",
+        "先把买房想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕房产组织标题与开头。",
+        "用买房和买房攻略补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "房产",
+        "买房",
+        "买房攻略"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-02/7026238444149984543.json",
+      "processed_at": "2026-07-02T13:07:31+08:00"
+    },
+    "last_error": null
   }
 }
