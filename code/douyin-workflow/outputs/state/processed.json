@@ -4315,5 +4315,628 @@
       "processed_at": "2026-07-02T13:07:31+08:00"
     },
     "last_error": null
+  },
+  "7657811449612209257": {
+    "video_id": "7657811449612209257",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "鑫 芸汐",
+      "video_id": "7657811449612209257",
+      "title": "六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影",
+      "publish_time": "2026-07-02T14:19:29+08:00",
+      "video_url": "https://www.douyin.com/video/7657811449612209257",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oEv1NHeFAtBIkGAiDAiBeEmvA4GbIgB0wdBD5A~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098411200&x-signature=lmkPk65C3FBOQSi3tk95Oxm%2F67k%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607031248379D4C9E1A7F73F4B42942",
+      "like_count": 6,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影",
+      "text_hint": "六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影",
+      "topic_tags": [
+        "学校的美好时光",
+        "班级合影"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fe66847f727c151c6549a5cf70db7746/6a476967/video/tos/cn/tos-cn-ve-15/oAB5GwvBQkdw1iCAXR0BAeD4iIEAAIbgeHtcFn/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1088&bt=1088&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wshkVHhd.WshX103-ApQX&mime_type=video_mp4&qs=0&rc=NjgzNTlmNDY1NjVoOTQ4NkBpM3dqcG45cngzPDMzNGkzM0A1LTJhYmAyXjAxLV4uLjZjYSNwYnBwMmRrLjBhLS1kLTBzcw%3D%3D&btag=c0000e00010000&cquery=100z_100o_100w_100E_100x&dy_q=1783054117&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202607031248379D4C9E1A7F73F4B42942",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7657811449612209257.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7657811449612209257.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 18.434,
+      "raw_payload": {
+        "aweme_id": "7657811449612209257",
+        "author_uid": "77035392406",
+        "sec_uid": "MS4wLjABAAAAvOH5Hse2HYsSlnGvVEICA7vRYQWeAHT1qS7W8YK4aws",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAvOH5Hse2HYsSlnGvVEICA7vRYQWeAHT1qS7W8YK4aws"
+      }
+    },
+    "first_seen_at": "2026-07-03T12:48:24+08:00",
+    "last_seen_at": "2026-07-03T12:48:24+08:00",
+    "fetch_runs": [
+      "2026-07-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7657811449612209257.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7657811449612209257.mp3",
+      "source": "download",
+      "processed_at": "2026-07-03T12:49:36+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7657811449612209257",
+      "transcript_raw": "六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影补充信息：六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影关键词：学校的美好时光、班级合影",
+      "transcript_clean": "六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影补充信息：六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影关键词：学校的美好时光、班级合影",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-03/7657811449612209257.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7657811449612209257",
+      "summary": "鑫 芸汐围绕“学校的美好时光”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影。六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影补充信息：六年圆满收官，告别小学，愿少年乘风破浪，自在成长！ #学校的美好时光 #班级合影关键词：学校的美好时光、班级合影 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "学校的美好时光为什么总是做不出来结果？",
+        "先把班级合影想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕学校的美好时光组织标题与开头。",
+        "用班级合影和#学校的美好时光补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "学校的美好时光",
+        "班级合影",
+        "#学校的美好时光"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-03/7657811449612209257.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "last_error": null
+  },
+  "7600661491376852239": {
+    "video_id": "7600661491376852239",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "观察者网",
+      "video_id": "7600661491376852239",
+      "title": "让中国施压俄罗斯？英首相拒绝回应",
+      "publish_time": "2026-01-29T14:08:42+08:00",
+      "video_url": "https://www.douyin.com/video/7600661491376852239",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/adc44011bacd8616745a2eb134c604d6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098411200&x-signature=xzLtPGp20Jh8vuT97V0j98iuWbs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260703124840C5206AE15A0306342CAC",
+      "like_count": 1886,
+      "comment_count": 57,
+      "share_count": 26,
+      "collect_count": 270,
+      "description": "让中国施压俄罗斯？英首相拒绝回应",
+      "text_hint": "让中国施压俄罗斯？英首相拒绝回应",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fd387050bbaaa3e3355251c43da5faf6/6a47696c/video/tos/cn/tos-cn-ve-15/o4Q1IgEctfb1AAMLfWTO8xyjeTKHfQFAYzeVIY/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1068&bt=1068&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wHhkVHhd.WshX103-ApQX&mime_type=video_mp4&qs=0&rc=OjU3ODY2NWg5OmYzZDRkNEBpanZ1eGs5cmlpODMzNGkzM0BgYzRfMGMwXjYxXmItYl9iYSNjbTNfMmRzZnFhLS1kLTBzcw%3D%3D&btag=c0000e00010000&cquery=100o_100w_100B_100H_100K&dy_q=1783054120&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260703124840C5206AE15A0306342CAC",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7600661491376852239.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7600661491376852239.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 20.874,
+      "raw_payload": {
+        "aweme_id": "7600661491376852239",
+        "author_uid": "104418341759",
+        "sec_uid": "MS4wLjABAAAAUlk_JJYcw09_lIy0QtxqUuED1O8qSKyqdsYQ5bCUiJY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAUlk_JJYcw09_lIy0QtxqUuED1O8qSKyqdsYQ5bCUiJY"
+      }
+    },
+    "first_seen_at": "2026-07-03T12:48:24+08:00",
+    "last_seen_at": "2026-07-03T12:48:24+08:00",
+    "fetch_runs": [
+      "2026-07-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7600661491376852239.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7600661491376852239.mp3",
+      "source": "download",
+      "processed_at": "2026-07-03T12:49:38+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7600661491376852239",
+      "transcript_raw": "让中国施压俄罗斯？英首相拒绝回应让中国施压俄罗斯？英首相拒绝回应补充信息：让中国施压俄罗斯？英首相拒绝回应",
+      "transcript_clean": "让中国施压俄罗斯？英首相拒绝回应让中国施压俄罗斯？英首相拒绝回应补充信息：让中国施压俄罗斯？英首相拒绝回应",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-03/7600661491376852239.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7600661491376852239",
+      "summary": "观察者网围绕“让中国施压俄罗斯？英首相拒绝回应让中国施压俄罗斯？英首相拒绝回应补充信息：让中国施压俄罗斯？英首相拒绝回应”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "让中国施压俄罗斯？英首相拒绝回应。让中国施压俄罗斯？英首相拒绝回应让中国施压俄罗斯？英首相拒绝回应补充信息：让中国施压俄罗斯？英首相拒绝回应 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "让中国施压俄罗斯？英首相拒绝回应让中国施压俄罗斯？英首相拒绝回应补充信息：让中国施压俄罗斯？英首相拒绝回应为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕让中国施压俄罗斯？英首相拒绝回应让中国施压俄罗斯？英首相拒绝回应补充信息：让中国施压俄罗斯？英首相拒绝回应组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "让中国施压俄罗斯？英首相拒绝回应让中国施压俄罗斯？英首相拒绝回应补充信息：让中国施压俄罗斯？英首相拒绝回应",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-03/7600661491376852239.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "last_error": null
+  },
+  "7239192409198939447": {
+    "video_id": "7239192409198939447",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "创新荔",
+      "video_id": "7239192409198939447",
+      "title": "在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程",
+      "publish_time": "2023-05-31T12:03:59+08:00",
+      "video_url": "https://www.douyin.com/video/7239192409198939447",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o8beHsqNdBA8nqMQAgqFc6Aj0obgLke9nA9bD3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098411200&x-signature=QUgj187ZZuTIqnZRslCKGPuik2M%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260703124843EEC87BA2E3C5C7CC4B3F",
+      "like_count": 5,
+      "comment_count": 3,
+      "share_count": 4,
+      "collect_count": 1,
+      "description": "在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程",
+      "text_hint": "在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程",
+      "topic_tags": [
+        "科技创新",
+        "科技改变生活",
+        "人工智能",
+        "发明创造",
+        "编程"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b072f04158cc768b036ed928afff2152/6a476ab4/video/tos/cn/tos-cn-ve-0015c800/okBye7zxOF2NNWIZ2KGPNL1hQDHfIAy6AEgA3t/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=544&bt=544&cs=0&ds=1&ft=CZdgCYlIDyjNbRVQ9wchkVHhd.WshX103-ApQX&mime_type=video_mp4&qs=0&rc=Z2lkOTY3ZjU1aGU7NGdmN0Bpamc6Njo6ZnRmazMzNGkzM0AtMF9gMTAtX2AxYmJiNjRhYSMuaW8ycjRnYW9gLS1kLWFzcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1783054123&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260703124843EEC87BA2E3C5C7CC4B3F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7239192409198939447.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7239192409198939447.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 344.956,
+      "raw_payload": {
+        "aweme_id": "7239192409198939447",
+        "author_uid": "4419684833181507",
+        "sec_uid": "MS4wLjABAAAAoCuG-SLh-Xv-ngmC7MLtTebsZSk8_G3AQB2vVgmmznr0Rb3amts0qxb8mBMV9idM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAoCuG-SLh-Xv-ngmC7MLtTebsZSk8_G3AQB2vVgmmznr0Rb3amts0qxb8mBMV9idM"
+      }
+    },
+    "first_seen_at": "2026-07-03T12:48:24+08:00",
+    "last_seen_at": "2026-07-03T12:48:24+08:00",
+    "fetch_runs": [
+      "2026-07-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7239192409198939447.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7239192409198939447.mp3",
+      "source": "download",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7239192409198939447",
+      "transcript_raw": "在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程补充信息：在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程关键词：科技创新、科技改变生活、人工智能、发明创造、编程",
+      "transcript_clean": "在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程补充信息：在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程关键词：科技创新、科技改变生活、人工智能、发明创造、编程",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-03/7239192409198939447.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7239192409198939447",
+      "summary": "创新荔围绕“科技创新”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程。在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程补充信息：在后疫情时代的校园生活，常规消毒，不仅需要投入大量人力，也增加了由直接接触带来的风险。那么，智能防疫机器人的出现，可以在一定程度上降低人力消毒的成本！#科技创新 #科技改变生活 #人工智能 #发明创造 #编程关键词：科技创新、科技改变生活、人工智能、发明创造、编程 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "科技创新为什么总是做不出来结果？",
+        "先把科技改变生活想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕科技创新组织标题与开头。",
+        "用科技改变生活和人工智能补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "科技创新",
+        "科技改变生活",
+        "人工智能"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-03/7239192409198939447.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "last_error": null
+  },
+  "7256418050436615483": {
+    "video_id": "7256418050436615483",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "千红剑",
+      "video_id": "7256418050436615483",
+      "title": "掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫",
+      "publish_time": "2023-07-16T22:08:12+08:00",
+      "video_url": "https://www.douyin.com/video/7256418050436615483",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/103a387d57185c6515b4e9e583b14bfc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098411200&x-signature=%2F2qpJUA4qJSV8OFwUOd6JdlevcE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607031248466A810B2D49FDE3CEE5D8",
+      "like_count": 188,
+      "comment_count": 52,
+      "share_count": 16,
+      "collect_count": 60,
+      "description": "掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫",
+      "text_hint": "掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫",
+      "topic_tags": [
+        "鼠标脚贴",
+        "鼠标垫"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a548ba21b2253f110fe5c567bc54b22b/6a476a1d/video/tos/cn/tos-cn-ve-15c001-alinc2/oEGnKHQTD9HhIqeAJwBAzefb4kB7CqBZnQBziP/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1521&bt=1521&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wjhkVHhd.WshX103-ApQX&mime_type=video_mp4&qs=0&rc=NWRkOjdkOWQ0aDk7PDg8NkBpajM5NzM6ZmR5bDMzNGkzM0AyLjA1MjFiXjUxYDUuY2IyYSNmY19ycjRnZm1gLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1783054126&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202607031248466A810B2D49FDE3CEE5D8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7256418050436615483.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7256418050436615483.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 191.934,
+      "raw_payload": {
+        "aweme_id": "7256418050436615483",
+        "author_uid": "62335056335",
+        "sec_uid": "MS4wLjABAAAA9fH7WgBq-7Af6mA0cmP9jv7P_eW43uhulL7HQdbDED8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9fH7WgBq-7Af6mA0cmP9jv7P_eW43uhulL7HQdbDED8"
+      }
+    },
+    "first_seen_at": "2026-07-03T12:48:24+08:00",
+    "last_seen_at": "2026-07-03T12:48:24+08:00",
+    "fetch_runs": [
+      "2026-07-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7256418050436615483.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7256418050436615483.mp3",
+      "source": "download",
+      "processed_at": "2026-07-03T12:50:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7256418050436615483",
+      "transcript_raw": "掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫补充信息：掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫关键词：鼠标脚贴、鼠标垫",
+      "transcript_clean": "掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫补充信息：掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫关键词：鼠标脚贴、鼠标垫",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-03/7256418050436615483.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7256418050436615483",
+      "summary": "千红剑围绕“鼠标脚贴”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫。掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫补充信息：掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴 #鼠标垫关键词：鼠标脚贴、鼠标垫 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "鼠标脚贴为什么总是做不出来结果？",
+        "先把鼠标垫想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕鼠标脚贴组织标题与开头。",
+        "用鼠标垫和掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "鼠标脚贴",
+        "鼠标垫",
+        "掌握选购技巧，让你的鼠标垫和脚贴无敌！#鼠标脚贴"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-03/7256418050436615483.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "last_error": null
+  },
+  "7550566088585940266": {
+    "video_id": "7550566088585940266",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7550566088585940266",
+      "title": "没说完，时间不够了。我拍视频这本书是老版，和我上车的书内容是一样的。就是封面不一样。新版给我外甥在做#每日分享 #每天进步一点 #学习计划 #必考考点 #小学语文",
+      "publish_time": "2025-09-16T06:12:00+08:00",
+      "video_url": "https://www.douyin.com/video/7550566088585940266",
+      "cover_url": "",
+      "like_count": 137,
+      "comment_count": 9,
+      "share_count": 46,
+      "collect_count": 8,
+      "description": "没说完，时间不够了。我拍视频这本书是老版，和我上车的书内容是一样的。就是封面不一样。新版给我外甥在做#每日分享 #每天进步一点 #学习计划 #必考考点 #小学语文",
+      "text_hint": "没说完，时间不够了。我拍视频这本书是老版，和我上车的书内容是一样的。就是封面不一样。新版给我外甥在做#每日分享 #每天进步一点 #学习计划 #必考考点 #小学语文",
+      "topic_tags": [
+        "每日分享",
+        "每天进步一点",
+        "学习计划",
+        "必考考点",
+        "小学语文"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/82d84edc-2302-48c4-87eb-d0615903244f",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7550566088585940266",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-03T12:48:24+08:00",
+    "last_seen_at": "2026-07-03T12:48:24+08:00",
+    "fetch_runs": [
+      "2026-07-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7529203921814949160": {
+    "video_id": "7529203921814949160",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "trigger",
+      "video_id": "7529203921814949160",
+      "title": "我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季",
+      "publish_time": "2025-07-21T00:36:41+08:00",
+      "video_url": "https://www.douyin.com/video/7529203921814949160",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oYzabiEIEBAQlIffBGFE9pl6fxoE5BAXDCR7Ci~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098411200&x-signature=U8NhC0lvuXqBM396OyMMz9pZAeg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607031249092496D948A22672762CBD",
+      "like_count": 123,
+      "comment_count": 21,
+      "share_count": 20,
+      "collect_count": 7,
+      "description": "我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季",
+      "text_hint": "我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季",
+      "topic_tags": [
+        "加油少年未来可期",
+        "毕业季"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/702be05694353bca7d2fe36a63a43fc1/6a476ac3/video/tos/cn/tos-cn-ve-0015c800/oELxIuweARE2AgJrhfRrCRLFD0CeIje7E3B8GC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=772&bt=772&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wtDkVHhd.WshX103-ApQX&mime_type=video_mp4&qs=0&rc=Ozc1OWQ3NmRmZGVmMzQ4OEBpamc8cms5cjxrNDMzNGkzM0AwLy4wYDQuXmMxXmMyNTU2YSNzbjEyMmRjaHJhLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1783054149&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607031249092496D948A22672762CBD",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7529203921814949160.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7529203921814949160.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 334.167,
+      "raw_payload": {
+        "aweme_id": "7529203921814949160",
+        "author_uid": "4257776968410254",
+        "sec_uid": "MS4wLjABAAAA-vDUfF4kXddTrZLrDGM0_Tv8_U4VkPs-KWLz5v9s1b14wxMi8QyPALyXjO_1dU4s",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA-vDUfF4kXddTrZLrDGM0_Tv8_U4VkPs-KWLz5v9s1b14wxMi8QyPALyXjO_1dU4s"
+      }
+    },
+    "first_seen_at": "2026-07-03T12:48:24+08:00",
+    "last_seen_at": "2026-07-03T12:48:24+08:00",
+    "fetch_runs": [
+      "2026-07-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7529203921814949160.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7529203921814949160.mp3",
+      "source": "download",
+      "processed_at": "2026-07-03T12:50:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7529203921814949160",
+      "transcript_raw": "我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季补充信息：我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季关键词：加油少年未来可期、毕业季",
+      "transcript_clean": "我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季补充信息：我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季关键词：加油少年未来可期、毕业季",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-03/7529203921814949160.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7529203921814949160",
+      "summary": "trigger围绕“加油少年未来可期”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季。我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季补充信息：我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期 #毕业季关键词：加油少年未来可期、毕业季 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "加油少年未来可期为什么总是做不出来结果？",
+        "先把毕业季想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕加油少年未来可期组织标题与开头。",
+        "用毕业季和我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "加油少年未来可期",
+        "毕业季",
+        "我的骐骥5期！报考10个一中考上9个娃，全班55名同学51个过高中建档线，我们可能不是最优秀的，但是我们做到了自己最努力的！这个迟到的视频仅仅代表了我对你们的思念！#加油少年未来可期"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-03/7529203921814949160.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "last_error": null
+  },
+  "7389928375495773477": {
+    "video_id": "7389928375495773477",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "儿外何医生",
+      "video_id": "7389928375495773477",
+      "title": "从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动",
+      "publish_time": "2024-07-10T16:56:30+08:00",
+      "video_url": "https://www.douyin.com/video/7389928375495773477",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/02acc3e0e21248e76b7cf7c0becbede9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098411200&x-signature=1ruGDbLIM787K36xaAJO5aC5QfE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260703124912444A3C80F17DD1CE798C",
+      "like_count": 167,
+      "comment_count": 7,
+      "share_count": 131,
+      "collect_count": 56,
+      "description": "从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动",
+      "text_hint": "从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动",
+      "topic_tags": [
+        "尿布疹",
+        "肛周脓肿",
+        "医疗创作者培优计划",
+        "硬核健康科普行动",
+        "红屁股"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6e7400591045a93b84d418be661d54ff/6a476afd/video/tos/cn/tos-cn-ve-0015c800/oIkDFBHekA5d4uvZIQpFEfJ9Nzj0mEAWoAy9g7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=872&bt=872&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9weDkVHhd.WshX103-ApQX&mime_type=video_mp4&qs=0&rc=ZjNpaDQ5NTo2NGk5OzU0ZEBpanJ5OHY5cnk3dDMzNGkzM0BgYTQxMy0tNV8xYDYzMGIxYSMxMmRzMmRjazRgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1783054152&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260703124912444A3C80F17DD1CE798C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7389928375495773477.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7389928375495773477.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 389.376,
+      "raw_payload": {
+        "aweme_id": "7389928375495773477",
+        "author_uid": "101725943238",
+        "sec_uid": "MS4wLjABAAAAA5udTs5pIitLoIVLJGAGUjtPjDGx7F7HYfrqHniiYr4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAA5udTs5pIitLoIVLJGAGUjtPjDGx7F7HYfrqHniiYr4"
+      }
+    },
+    "first_seen_at": "2026-07-03T12:48:24+08:00",
+    "last_seen_at": "2026-07-03T12:48:24+08:00",
+    "fetch_runs": [
+      "2026-07-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7389928375495773477.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-03/7389928375495773477.mp3",
+      "source": "download",
+      "processed_at": "2026-07-03T12:50:29+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7389928375495773477",
+      "transcript_raw": "从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动补充信息：从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动关键词：尿布疹、肛周脓肿、医疗创作者培优计划、硬核健康科普行动、红屁股",
+      "transcript_clean": "从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动补充信息：从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动关键词：尿布疹、肛周脓肿、医疗创作者培优计划、硬核健康科普行动、红屁股",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-03/7389928375495773477.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7389928375495773477",
+      "summary": "儿外何医生围绕“尿布疹”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动。从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动补充信息：从医生的角度分析新生儿尿布疹和新生儿肛周脓肿区别，并给出最专业的治疗方案。#红屁股#尿布疹#肛周脓肿\n#医疗创作者培优计划 #硬核健康科普行动关键词：尿布疹、肛周脓肿、医疗创作者培优计划、硬核健康科普行动、红屁股 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "尿布疹为什么总是做不出来结果？",
+        "先把肛周脓肿想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕尿布疹组织标题与开头。",
+        "用肛周脓肿和医疗创作者培优计划补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "尿布疹",
+        "肛周脓肿",
+        "医疗创作者培优计划"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-03/7389928375495773477.json",
+      "processed_at": "2026-07-03T12:51:06+08:00"
+    },
+    "last_error": null
+  },
+  "7560378115118353724": {
+    "video_id": "7560378115118353724",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7560378115118353724",
+      "title": "住院9天，终于可以出院了～ 感谢这期间关心我的家人朋友以及兄弟姐妹们，今后我会更加爱护身体，且行且珍惜～@丁丁本人",
+      "publish_time": "2025-10-13T00:08:00+08:00",
+      "video_url": "https://www.douyin.com/video/7560378115118353724",
+      "cover_url": "",
+      "like_count": 7874,
+      "comment_count": 430,
+      "share_count": 244,
+      "collect_count": 38,
+      "description": "住院9天，终于可以出院了～ 感谢这期间关心我的家人朋友以及兄弟姐妹们，今后我会更加爱护身体，且行且珍惜～@丁丁本人",
+      "text_hint": "住院9天，终于可以出院了～ 感谢这期间关心我的家人朋友以及兄弟姐妹们，今后我会更加爱护身体，且行且珍惜～@丁丁本人",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/6680f220-3a8b-40d1-81fa-cd9bed675a97",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7560378115118353724",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-03T12:48:24+08:00",
+    "last_seen_at": "2026-07-03T12:48:24+08:00",
+    "fetch_runs": [
+      "2026-07-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
