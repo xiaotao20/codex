@@ -4938,5 +4938,577 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7601765551040291557": {
+    "video_id": "7601765551040291557",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "海报新闻",
+      "video_id": "7601765551040291557",
+      "title": "韦东奕正式获聘北京大学长聘副教授",
+      "publish_time": "2026-02-01T13:32:52+08:00",
+      "video_url": "https://www.douyin.com/video/7601765551040291557",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3e9090075cbc624af0f9e5a676fd0813~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098497600&x-signature=pKIkP9Pju8TU8GXKWRlIXcxx8gI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607041240346FF7023C51602A0A0A22",
+      "like_count": 1799,
+      "comment_count": 132,
+      "share_count": 178,
+      "collect_count": 138,
+      "description": "韦东奕正式获聘北京大学长聘副教授",
+      "text_hint": "韦东奕正式获聘北京大学长聘副教授",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6f711f51db661eadf7a6ebb2b3c05fbd/6a48b8fc/video/tos/cn/tos-cn-ve-15c000-ce/ocDIgEkg7VvQSA6feywfzuqCLOUDBDFEOovJtT/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1416&bt=1416&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wwk_dHhd.5znhXR3-ApQX&mime_type=video_mp4&qs=0&rc=OTo3NTxlZzhmOGY3ZjZmZUBpMzp4NGw5cmtoODMzbGkzNUA0Ly0tLmFjX2AxMDVgM19hYSNgZ2JeMmQ0XnNhLS1kLTRzcw%3D%3D&btag=80000e00008000&cquery=100w_100B_100x_100z_100o&dy_q=1783140034&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202607041240346FF7023C51602A0A0A22",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7601765551040291557.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7601765551040291557.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 10.967,
+      "raw_payload": {
+        "aweme_id": "7601765551040291557",
+        "author_uid": "93107855614",
+        "sec_uid": "MS4wLjABAAAAWsU5J810iwr6xROhcctkDh1EqNqJzK0HassJ7DOuv_o",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWsU5J810iwr6xROhcctkDh1EqNqJzK0HassJ7DOuv_o"
+      }
+    },
+    "first_seen_at": "2026-07-04T12:40:19+08:00",
+    "last_seen_at": "2026-07-04T12:40:19+08:00",
+    "fetch_runs": [
+      "2026-07-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7601765551040291557.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7601765551040291557.mp3",
+      "source": "download",
+      "processed_at": "2026-07-04T12:41:19+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7601765551040291557",
+      "transcript_raw": "韦东奕正式获聘北京大学长聘副教授韦东奕正式获聘北京大学长聘副教授补充信息：韦东奕正式获聘北京大学长聘副教授",
+      "transcript_clean": "韦东奕正式获聘北京大学长聘副教授韦东奕正式获聘北京大学长聘副教授补充信息：韦东奕正式获聘北京大学长聘副教授",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-04/7601765551040291557.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7601765551040291557",
+      "summary": "海报新闻围绕“韦东奕正式获聘北京大学长聘副教授韦东奕正式获聘北京大学长聘副教授补充信息：韦东奕正式获聘北京大学长聘副教授”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "韦东奕正式获聘北京大学长聘副教授。韦东奕正式获聘北京大学长聘副教授韦东奕正式获聘北京大学长聘副教授补充信息：韦东奕正式获聘北京大学长聘副教授 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "韦东奕正式获聘北京大学长聘副教授韦东奕正式获聘北京大学长聘副教授补充信息：韦东奕正式获聘北京大学长聘副教授为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕韦东奕正式获聘北京大学长聘副教授韦东奕正式获聘北京大学长聘副教授补充信息：韦东奕正式获聘北京大学长聘副教授组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "韦东奕正式获聘北京大学长聘副教授韦东奕正式获聘北京大学长聘副教授补充信息：韦东奕正式获聘北京大学长聘副教授",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-04/7601765551040291557.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "last_error": null
+  },
+  "7365048029902146870": {
+    "video_id": "7365048029902146870",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "惠达分公司南昌香江店",
+      "video_id": "7365048029902146870",
+      "title": "南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修",
+      "publish_time": "2024-05-04T15:48:05+08:00",
+      "video_url": "https://www.douyin.com/video/7365048029902146870",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/d11c1fb95c395cb2fb321336bce61089~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098497600&x-signature=c%2BN0CPLwxSea%2BOsR386LA5Udkr4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260704124037399C9FFD9B5032D03F6B",
+      "like_count": 10,
+      "comment_count": 1,
+      "share_count": 1,
+      "collect_count": 1,
+      "description": "南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修",
+      "text_hint": "南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修",
+      "topic_tags": [
+        "南昌装修",
+        "惠达40年智净中国家",
+        "同城装修"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/09f48f3927efec077f2fdff68ad94463/6a48b9d5/video/cn/mps/realtime/v1/r/p/v0200fg10000coqucr3c77ueoj780e00/2f7f0a4394364627b3f74c938bf55a0d/6325ac45c9a3d9e9b10616aa3bc2f894/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1076&bt=1076&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNb~VQ9wtk_dHhd.5znhXR3-ApQX&mime_type=video_mp4&qs=0&rc=Z2Q4ZTZmOjY6OTk3NmRpaUBpM2g7bWg6ZnV4cjMzNGkzM0AtMmM1NjFjXy8xMDYxLTQvYSMtLTRscjQwYG5gLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=720p&dy_q=1783140037&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7365048029902146870&l=20260704124037399C9FFD9B5032D03F6B&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7365048029902146870.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7365048029902146870.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 224.295,
+      "raw_payload": {
+        "aweme_id": "7365048029902146870",
+        "author_uid": "1978756957216039",
+        "sec_uid": "MS4wLjABAAAAoWC-wktdnbq-H38VEqzKuNTDkXM8uw2m99duhV2WMwi_YtB0gK_GxRfg6EmAajR2",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAoWC-wktdnbq-H38VEqzKuNTDkXM8uw2m99duhV2WMwi_YtB0gK_GxRfg6EmAajR2"
+      }
+    },
+    "first_seen_at": "2026-07-04T12:40:19+08:00",
+    "last_seen_at": "2026-07-04T12:40:19+08:00",
+    "fetch_runs": [
+      "2026-07-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7365048029902146870.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7365048029902146870.mp3",
+      "source": "download",
+      "processed_at": "2026-07-04T12:46:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7365048029902146870",
+      "transcript_raw": "南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修补充信息：南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修关键词：南昌装修、惠达40年智净中国家、同城装修",
+      "transcript_clean": "南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修补充信息：南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修关键词：南昌装修、惠达40年智净中国家、同城装修",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-04/7365048029902146870.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7365048029902146870",
+      "summary": "惠达分公司南昌香江店围绕“南昌装修”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修。南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修补充信息：南昌市要装修卫浴的小伙伴们看过来～ 42年的老品牌在香江开了15年的老店要装修升级啦！想薅羊毛的抓紧看过来#南昌装修#惠达40年智净中国家#同城装修关键词：南昌装修、惠达40年智净中国家、同城装修 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "南昌装修为什么总是做不出来结果？",
+        "先把惠达40年智净中国家想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕南昌装修组织标题与开头。",
+        "用惠达40年智净中国家和同城装修补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "南昌装修",
+        "惠达40年智净中国家",
+        "同城装修"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-04/7365048029902146870.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "last_error": null
+  },
+  "7365515369479507239": {
+    "video_id": "7365515369479507239",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "方片在路上",
+      "video_id": "7365515369479507239",
+      "title": "骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游",
+      "publish_time": "2024-05-05T22:01:32+08:00",
+      "video_url": "https://www.douyin.com/video/7365515369479507239",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b264df03f03265bebdf37d7098a0db50~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098497600&x-signature=648fRHeOFU0knnLanKk9AZZ5fzQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607041240417E5E0BEB4370AA52B29C",
+      "like_count": 584,
+      "comment_count": 91,
+      "share_count": 38,
+      "collect_count": 35,
+      "description": "骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游",
+      "text_hint": "骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游",
+      "topic_tags": [
+        "一人一车浪迹天涯",
+        "记录真实生活",
+        "流浪",
+        "穷游"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c3165d63eeb2ae454375a8c59a919136/6a48be13/video/tos/cn/tos-cn-ve-0015c800/oQOCYbfpnAgme7yA73D84aI5NBNE8JXgRh9C5A/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3303&bt=3303&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wpk_dHhd.5znhXR3-ApQX&mime_type=video_mp4&qs=0&rc=NDMzOzs4ODw3ZTo5OTU3NEBpank3ODs6ZnhycjMzNGkzM0BfYS5hLWNeNmMxXmJeYF82YSMxazRzcjRvcG9gLS1kLWFzcw%3D%3D&btag=80000e00038000&cquery=100o_100w_100B_100x_100z&dy_q=1783140041&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607041240417E5E0BEB4370AA52B29C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7365515369479507239.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7365515369479507239.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 1306.702,
+      "raw_payload": {
+        "aweme_id": "7365515369479507239",
+        "author_uid": "2087303465935756",
+        "sec_uid": "MS4wLjABAAAABfyGUxJnEMr3LAdSx7--D_8qAR8Mkds1S3_BnnpOhbiqnFQhSXGx05wtpZaF-pFT",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABfyGUxJnEMr3LAdSx7--D_8qAR8Mkds1S3_BnnpOhbiqnFQhSXGx05wtpZaF-pFT"
+      }
+    },
+    "first_seen_at": "2026-07-04T12:40:19+08:00",
+    "last_seen_at": "2026-07-04T12:40:19+08:00",
+    "fetch_runs": [
+      "2026-07-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7365515369479507239.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7365515369479507239.mp3",
+      "source": "download",
+      "processed_at": "2026-07-04T12:45:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7365515369479507239",
+      "transcript_raw": "骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游补充信息：骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游关键词：一人一车浪迹天涯、记录真实生活、流浪、穷游",
+      "transcript_clean": "骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游补充信息：骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游关键词：一人一车浪迹天涯、记录真实生活、流浪、穷游",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-04/7365515369479507239.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7365515369479507239",
+      "summary": "方片在路上围绕“一人一车浪迹天涯”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游。骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游补充信息：骑行半年了，第一辆自行车正式报废，完成了它的使命，野狼2接棒#一人一车浪迹天涯 #记录真实生活 #流浪 #穷游关键词：一人一车浪迹天涯、记录真实生活、流浪、穷游 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "一人一车浪迹天涯为什么总是做不出来结果？",
+        "先把记录真实生活想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕一人一车浪迹天涯组织标题与开头。",
+        "用记录真实生活和流浪补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "一人一车浪迹天涯",
+        "记录真实生活",
+        "流浪"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-04/7365515369479507239.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "last_error": null
+  },
+  "7586003951461174585": {
+    "video_id": "7586003951461174585",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7586003951461174585",
+      "title": "在抖音记录美好生活20260704",
+      "publish_time": "2026-07-04T12:41:17+08:00",
+      "video_url": "https://www.douyin.com/video/7586003951461174585",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260704",
+      "text_hint": "在抖音记录美好生活20260704",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/b79fed3b-b8b1-49e0-a336-241fc2672752",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7586003951461174585",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-04T12:40:19+08:00",
+    "last_seen_at": "2026-07-04T12:40:19+08:00",
+    "fetch_runs": [
+      "2026-07-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7226203276054646031": {
+    "video_id": "7226203276054646031",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "青涩幸福_",
+      "video_id": "7226203276054646031",
+      "title": "广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗",
+      "publish_time": "2023-04-26T11:59:26+08:00",
+      "video_url": "https://www.douyin.com/video/7226203276054646031",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/325db6cedde20fbd6322dc8b0a3ac964~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098497600&x-signature=UogGpTnnvgMfCgvCzo5EOLtBwDQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260704124051D20E0D53023865D70566",
+      "like_count": 54,
+      "comment_count": 17,
+      "share_count": 26,
+      "collect_count": 7,
+      "description": "广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗",
+      "text_hint": "广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗",
+      "topic_tags": [
+        "给自己一个微笑😊让心情豁然开朗"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/47ef996ffd950b988ebd925181a9817b/6a48b9ca/video/tos/cn/tos-cn-ve-0015c800/oINBSYcAxKIzM8EaSRV9FftCAWAfTphkgIBEc9/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=5984&bt=5984&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9w1k_dHhd.5znhXR3-ApQX&mime_type=video_mp4&qs=0&rc=M2g6Ojw5Njc1Zjg5ZDU6M0BpanA0Ojc6ZmlkazMzNGkzM0AvMTIvMi8vXzAxLTAxY2IwYSMtbC5ycjRvLjFgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1783140052&feature_id=ba836eff443a4aac3aafe2b0f9e37539&l=20260704124051D20E0D53023865D70566",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7226203276054646031.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7226203276054646031.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 198.949,
+      "raw_payload": {
+        "aweme_id": "7226203276054646031",
+        "author_uid": "50596383547",
+        "sec_uid": "MS4wLjABAAAAmvv0zdhPjqxfLi5RpyZEQk298NO92iQrc9HDVURiBzY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAmvv0zdhPjqxfLi5RpyZEQk298NO92iQrc9HDVURiBzY"
+      }
+    },
+    "first_seen_at": "2026-07-04T12:40:19+08:00",
+    "last_seen_at": "2026-07-04T12:40:19+08:00",
+    "fetch_runs": [
+      "2026-07-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7226203276054646031.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7226203276054646031.mp3",
+      "source": "download",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7226203276054646031",
+      "transcript_raw": "广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗补充信息：广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗关键词：给自己一个微笑😊让心情豁然开朗",
+      "transcript_clean": "广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗补充信息：广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗关键词：给自己一个微笑😊让心情豁然开朗",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-04/7226203276054646031.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7226203276054646031",
+      "summary": "青涩幸福_围绕“给自己一个微笑😊让心情豁然开朗”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗。广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗补充信息：广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗关键词：给自己一个微笑😊让心情豁然开朗 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "给自己一个微笑😊让心情豁然开朗为什么总是做不出来结果？",
+        "先把广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗补充信息：广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗关键词：给自己一个微笑😊让心情豁然开朗想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕给自己一个微笑😊让心情豁然开朗组织标题与开头。",
+        "用广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗补充信息：广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗关键词：给自己一个微笑😊让心情豁然开朗和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "给自己一个微笑😊让心情豁然开朗",
+        "广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗补充信息：广场舞大赛跳起来🎊🎊🎊#给自己一个微笑😊让心情豁然开朗关键词：给自己一个微笑😊让心情豁然开朗",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-04/7226203276054646031.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "last_error": null
+  },
+  "7263706942277799229": {
+    "video_id": "7263706942277799229",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "Amin米禾",
+      "video_id": "7263706942277799229",
+      "title": "#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。",
+      "publish_time": "2023-08-05T13:32:52+08:00",
+      "video_url": "https://www.douyin.com/video/7263706942277799229",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/67170521f3010e31fce66bcdb6ff75e8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098497600&x-signature=fYUi0fon0a8nGIf5bcI%2BiaLdwn0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260704124055D27148410CE1F6FE82F9",
+      "like_count": 772,
+      "comment_count": 169,
+      "share_count": 81,
+      "collect_count": 240,
+      "description": "#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。",
+      "text_hint": "#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。",
+      "topic_tags": [
+        "双子座"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/3a65c184f6240a2df25e4ac170c70bd2/6a48bae0/video/tos/cn/tos-cn-ve-0015c800/o0bGwdmDzBA8cKMgERqOL1ACga6gekRNnA9bDe/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1337&bt=1337&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wOk_dHhd.5znhXR3-ApQX&mime_type=video_mp4&qs=0&rc=NTVnNDw2aWY8OTo1NDMzOkBpajt2OzU6Zjx3bTMzNGkzM0A0YjQuMV9gXjQxNGMwNC5iYSMuaW5vcjRncTNgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100z_100o_100w_100B_100x&dy_q=1783140055&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260704124055D27148410CE1F6FE82F9&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7263706942277799229.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7263706942277799229.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 473.477,
+      "raw_payload": {
+        "aweme_id": "7263706942277799229",
+        "author_uid": "34823011315368",
+        "sec_uid": "MS4wLjABAAAA-vRf2Vl7AwtK39LEr6IM0CApGzn713YYXepm5GGpTMI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA-vRf2Vl7AwtK39LEr6IM0CApGzn713YYXepm5GGpTMI"
+      }
+    },
+    "first_seen_at": "2026-07-04T12:40:19+08:00",
+    "last_seen_at": "2026-07-04T12:40:19+08:00",
+    "fetch_runs": [
+      "2026-07-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7263706942277799229.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7263706942277799229.mp3",
+      "source": "download",
+      "processed_at": "2026-07-04T12:47:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7263706942277799229",
+      "transcript_raw": "#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。补充信息：#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。关键词：双子座",
+      "transcript_clean": "#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。补充信息：#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。关键词：双子座",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-04/7263706942277799229.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7263706942277799229",
+      "summary": "Amin米禾围绕“双子座”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。。#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。补充信息：#双子座 8月15—9月15日复合指南\n理解一个人并不一定非要同意这个人的观点，改变和说服对方不是爱的本质而是占有欲的体现。关键词：双子座 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "双子座为什么总是做不出来结果？",
+        "先把8月15—9月15日复合指南想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕双子座组织标题与开头。",
+        "用8月15—9月15日复合指南和#双子座补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "双子座",
+        "8月15—9月15日复合指南",
+        "#双子座"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-04/7263706942277799229.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "last_error": null
+  },
+  "7370578463326997760": {
+    "video_id": "7370578463326997760",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7370578463326997760",
+      "title": "额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林",
+      "publish_time": "2024-05-19T05:28:00+08:00",
+      "video_url": "https://www.douyin.com/video/7370578463326997760",
+      "cover_url": "",
+      "like_count": 542,
+      "comment_count": 138,
+      "share_count": 245,
+      "collect_count": 1221,
+      "description": "额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林",
+      "text_hint": "额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林",
+      "topic_tags": [
+        "户外露营",
+        "新疆",
+        "周末去哪玩",
+        "旅行推荐官",
+        "野果林"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7b3293d5c78140fd4f404627adae4f94/6a48b9e4/video/tos/cn/tos-cn-ve-0015c800/o43SnbdJADVNIf5qhhmgeBEIQF9YAOww1AlbAr/?a=6383&br=1814&bt=1814&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1783140071&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNb~VQ9wFk_dHhd.5znhXR3-ApQX&is_ssr=1&l=20260704124111BC0572D4474BC754ADD3&lr=all&mime_type=video_mp4&qs=1&rc=Ozs8ZmdkaDg7MzQ7ZzQzPEBpM280O2g6ZmxyczMzNGkzM0BhMjUuLmE2XzAxX18uMzJeYSNgZGRscjRfbzFgLS1kLWFzcw%3D%3D&__vid=7370578463326997760",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7370578463326997760.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7370578463326997760.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7370578463326997760",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-04T12:40:19+08:00",
+    "last_seen_at": "2026-07-04T12:40:19+08:00",
+    "fetch_runs": [
+      "2026-07-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7370578463326997760.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-04/7370578463326997760.mp3",
+      "source": "download",
+      "processed_at": "2026-07-04T12:41:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7370578463326997760",
+      "transcript_raw": "额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林补充信息：额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林关键词：户外露营、新疆、周末去哪玩、旅行推荐官、野果林",
+      "transcript_clean": "额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林补充信息：额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林关键词：户外露营、新疆、周末去哪玩、旅行推荐官、野果林",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-04/7370578463326997760.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7370578463326997760",
+      "summary": "知雪围绕“户外露营”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林。额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林补充信息：额敏，野果林露营攻略！下。 超级详细，有想要去的小伙伴可要抓紧时间啦#户外露营 #新疆 #周末去哪玩 #旅行推荐官 #野果林关键词：户外露营、新疆、周末去哪玩、旅行推荐官、野果林 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "户外露营为什么总是做不出来结果？",
+        "先把新疆想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕户外露营组织标题与开头。",
+        "用新疆和周末去哪玩补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "户外露营",
+        "新疆",
+        "周末去哪玩"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-04/7370578463326997760.json",
+      "processed_at": "2026-07-04T12:48:29+08:00"
+    },
+    "last_error": null
   }
 }
