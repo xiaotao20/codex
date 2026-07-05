@@ -5510,5 +5510,677 @@
       "processed_at": "2026-07-04T12:48:29+08:00"
     },
     "last_error": null
+  },
+  "7654889263464897250": {
+    "video_id": "7654889263464897250",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "BJ聊英语",
+      "video_id": "7654889263464897250",
+      "title": "复习是recap还是review #英语",
+      "publish_time": "2026-07-04T09:19:00+08:00",
+      "video_url": "https://www.douyin.com/video/7654889263464897250",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oIoASBajgIAOTiWAtihxAzsE1P7AvAuzogWiI~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098587600&x-signature=a8L%2BC0rl63w5eQvmNHZ1onVeCRE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260705130220605EE0F9B25C7DE547AB",
+      "like_count": 67,
+      "comment_count": 2,
+      "share_count": 2,
+      "collect_count": 25,
+      "description": "复习是recap还是review #英语",
+      "text_hint": "复习是recap还是review #英语",
+      "topic_tags": [
+        "英语"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7c56ba393bad615f67dac8b657773c03/6a4a0fbe/video/tos/cn/tos-cn-ve-15/okUAgf67xgi9DiEIg43EAcBCoAOFQr4xqjEafk/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=408&bt=408&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wd0GdHhd.VMMf_73-ApQX&mime_type=video_mp4&qs=0&rc=NzU0Nmg6O2c5NzszNmQ2aEBpM2trcHU5cjp0OzMzNGkzM0BfLzUvNjBhNjIxMzA2LTY1YSNsZTRqMmQ0L3FhLS1kLS9zcw%3D%3D&btag=c0000e00020000&cquery=100B_100x_100z_100o_100w&dy_q=1783227740&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260705130220605EE0F9B25C7DE547AB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7654889263464897250.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7654889263464897250.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 50.067,
+      "raw_payload": {
+        "aweme_id": "7654889263464897250",
+        "author_uid": "4358942146692688",
+        "sec_uid": "MS4wLjABAAAAeWnyAhtVul5BRzJuKujMXxA68YzwfW8dsHScSSNO4mvcDnxadZCeiUN_NpqYK6oU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAeWnyAhtVul5BRzJuKujMXxA68YzwfW8dsHScSSNO4mvcDnxadZCeiUN_NpqYK6oU"
+      }
+    },
+    "first_seen_at": "2026-07-05T13:02:09+08:00",
+    "last_seen_at": "2026-07-05T13:02:09+08:00",
+    "fetch_runs": [
+      "2026-07-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7654889263464897250.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7654889263464897250.mp3",
+      "source": "download",
+      "processed_at": "2026-07-05T13:03:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7654889263464897250",
+      "transcript_raw": "复习是recap还是review #英语复习是recap还是review #英语补充信息：复习是recap还是review #英语关键词：英语",
+      "transcript_clean": "复习是recap还是review #英语复习是recap还是review #英语补充信息：复习是recap还是review #英语关键词：英语",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-05/7654889263464897250.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7654889263464897250",
+      "summary": "BJ聊英语围绕“英语”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "复习是recap还是review #英语。复习是recap还是review #英语复习是recap还是review #英语补充信息：复习是recap还是review #英语关键词：英语 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "英语为什么总是做不出来结果？",
+        "先把复习是recap还是review想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕英语组织标题与开头。",
+        "用复习是recap还是review和#英语复习是recap还是review补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "英语",
+        "复习是recap还是review",
+        "#英语复习是recap还是review"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-05/7654889263464897250.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "last_error": null
+  },
+  "7654042450919119227": {
+    "video_id": "7654042450919119227",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "王子心°",
+      "video_id": "7654042450919119227",
+      "title": "中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养",
+      "publish_time": "2026-06-22T10:33:51+08:00",
+      "video_url": "https://www.douyin.com/video/7654042450919119227",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oMpi1ABvEr9o83Te8f9w4IJZqwbnMB6GOBiwAE~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098587600&x-signature=%2BQ92SoGtQN1WuHNhhaaSDzg5eAk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260705130224CE22B87A449D61DC04AA",
+      "like_count": 10,
+      "comment_count": 6,
+      "share_count": 6,
+      "collect_count": 4,
+      "description": "中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养",
+      "text_hint": "中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养",
+      "topic_tags": [
+        "太太桃红饮",
+        "中式养生",
+        "好气色是养出来的",
+        "40岁女人皮肤保养",
+        "内调外养"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7d1a39b2d917997b483be04847f3de37/6a4a0fd2/video/tos/cn/tos-cn-ve-15c000-ce/oAfxnJeoOBEiZA1IQEvc9LASpw3w0qoMBA94i8/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1408&bt=1408&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wK0GdHhd.VMMf_73-ApQX&mime_type=video_mp4&qs=0&rc=N2lnOTUzaWloZGU4N2U1ZkBpajw5Nnc5cnk8OzMzbGkzNUA0NjA2MzMwXjExLi8yXzMvYSNuczBsMmRjb3BhLS1kLTVzcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1783227744&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260705130224CE22B87A449D61DC04AA",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7654042450919119227.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7654042450919119227.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 66.6,
+      "raw_payload": {
+        "aweme_id": "7654042450919119227",
+        "author_uid": "2538098818556076",
+        "sec_uid": "MS4wLjABAAAA7j-V1lVYtDYuNJXSSvLd4ToCEW0QouSGBsEI2DAvdCUrThrGPiEg3GIJDFRkYWnR",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7j-V1lVYtDYuNJXSSvLd4ToCEW0QouSGBsEI2DAvdCUrThrGPiEg3GIJDFRkYWnR"
+      }
+    },
+    "first_seen_at": "2026-07-05T13:02:09+08:00",
+    "last_seen_at": "2026-07-05T13:02:09+08:00",
+    "fetch_runs": [
+      "2026-07-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7654042450919119227.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7654042450919119227.mp3",
+      "source": "download",
+      "processed_at": "2026-07-05T13:03:16+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7654042450919119227",
+      "transcript_raw": "中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养补充信息：中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养关键词：太太桃红饮、中式养生、好气色是养出来的、40岁女人皮肤保养、内调外养",
+      "transcript_clean": "中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养补充信息：中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养关键词：太太桃红饮、中式养生、好气色是养出来的、40岁女人皮肤保养、内调外养",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-05/7654042450919119227.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7654042450919119227",
+      "summary": "王子心°围绕“太太桃红饮”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养。中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养补充信息：中式智慧给了我40岁素颜的底气！#太太桃红饮#中式养生 #好气色是养出来的 #40岁女人皮肤保养 #内调外养关键词：太太桃红饮、中式养生、好气色是养出来的、40岁女人皮肤保养、内调外养 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "太太桃红饮为什么总是做不出来结果？",
+        "先把中式养生想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕太太桃红饮组织标题与开头。",
+        "用中式养生和好气色是养出来的补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "太太桃红饮",
+        "中式养生",
+        "好气色是养出来的"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-05/7654042450919119227.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "last_error": null
+  },
+  "7174626295861628173": {
+    "video_id": "7174626295861628173",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "老周民间故事",
+      "video_id": "7174626295861628173",
+      "title": "狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事",
+      "publish_time": "2022-12-08T12:14:51+08:00",
+      "video_url": "https://www.douyin.com/video/7174626295861628173",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b5091518aac8fd9f803351890fc05473~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098587600&x-signature=WjAX1CQXXSCGW2JUWL%2BbenDnScA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260705130227831861D1DD7C86DD9CFC",
+      "like_count": 6,
+      "comment_count": 0,
+      "share_count": 1,
+      "collect_count": 0,
+      "description": "狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事",
+      "text_hint": "狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事",
+      "topic_tags": [
+        "民间故事",
+        "民间传说",
+        "乡愁记忆",
+        "故事",
+        "老房子的回忆",
+        "民间故事正能量"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2fc9036ecf44c9a0d29e6059ce8a02f2/6a4a110d/video/tos/cn/tos-cn-ve-0015c800/oMayCIdUzdGJLBZKghtSAzQl2fEFMxAAWEhegR/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=272&bt=272&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wm0GdHhd.VMMf_73-ApQX&mime_type=video_mp4&qs=0&rc=ZDVkZ2hnNjc3NmRlOWQ2NkBpamRxNDc6ZmhwaDMzNGkzM0AwM18tNjYtX18xLy5hLy4uYSNkYF8vcjRvNjVgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100D_100J_100o&dy_q=1783227747&l=20260705130227831861D1DD7C86DD9CFC",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7174626295861628173.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7174626295861628173.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 378.207,
+      "raw_payload": {
+        "aweme_id": "7174626295861628173",
+        "author_uid": "3095838098468488",
+        "sec_uid": "MS4wLjABAAAAIL8uR-EqV3vwVYGP7mjcUFa9Lb5o2FOubyDFz5_S0eL7cl-FrueYUtjTkQQx0YKx",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAIL8uR-EqV3vwVYGP7mjcUFa9Lb5o2FOubyDFz5_S0eL7cl-FrueYUtjTkQQx0YKx"
+      }
+    },
+    "first_seen_at": "2026-07-05T13:02:09+08:00",
+    "last_seen_at": "2026-07-05T13:02:09+08:00",
+    "fetch_runs": [
+      "2026-07-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7174626295861628173.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7174626295861628173.mp3",
+      "source": "download",
+      "processed_at": "2026-07-05T13:03:56+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7174626295861628173",
+      "transcript_raw": "狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事补充信息：狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事关键词：民间故事、民间传说、乡愁记忆、故事、老房子的回忆、民间故事正能量",
+      "transcript_clean": "狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事补充信息：狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事关键词：民间故事、民间传说、乡愁记忆、故事、老房子的回忆、民间故事正能量",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-05/7174626295861628173.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7174626295861628173",
+      "summary": "老周民间故事围绕“民间故事”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事。狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事补充信息：狐仙转世投胎报恩 #民间故事 #民间传说 #乡愁记忆 #故事 #老房子的回忆 #民间故事正能量 #故事关键词：民间故事、民间传说、乡愁记忆、故事、老房子的回忆、民间故事正能量 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "民间故事为什么总是做不出来结果？",
+        "先把民间传说想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕民间故事组织标题与开头。",
+        "用民间传说和乡愁记忆补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "民间故事",
+        "民间传说",
+        "乡愁记忆"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-05/7174626295861628173.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "last_error": null
+  },
+  "7176969627933625658": {
+    "video_id": "7176969627933625658",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "贵港杰修科技（寄修）",
+      "video_id": "7176969627933625658",
+      "title": "苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人",
+      "publish_time": "2022-12-14T19:47:42+08:00",
+      "video_url": "https://www.douyin.com/video/7176969627933625658",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/50c01b810b1a1fca1933c4a20359bf7b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098587600&x-signature=25ZXCMQqhbjuRiBrqRMhGwWQzR8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026070513023152F71D4228BDDBB402DC",
+      "like_count": 157,
+      "comment_count": 23,
+      "share_count": 17,
+      "collect_count": 42,
+      "description": "苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人",
+      "text_hint": "苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人",
+      "topic_tags": [
+        "芯片级维修",
+        "苹果手机维修",
+        "专业的事交给专业的人"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f6ffe188b026d73a82f8c75c6e1f90c2/6a4a104c/video/tos/cn/tos-cn-ve-15/oEZEgzzQvUxofWltWCtBenN1NG5WuNAIAhALLI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1840&bt=1840&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wF0GdHhd.VMMf_73-ApQX&mime_type=video_mp4&qs=0&rc=aTo6Z2g5OzQ8ZTppPDY6OEBpanM1azk6Zjl1aDMzNGkzM0BgMzU2MDVhNTQxMTY0YTMvYSMyXy5ncjRvYWBgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1783227751&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026070513023152F71D4228BDDBB402DC",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7176969627933625658.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7176969627933625658.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 181.367,
+      "raw_payload": {
+        "aweme_id": "7176969627933625658",
+        "author_uid": "65583153823",
+        "sec_uid": "MS4wLjABAAAAd0tl9bVWDBjy0dHZb1vS3wdZI1BdBNbRg3OONKQvx9Q",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAd0tl9bVWDBjy0dHZb1vS3wdZI1BdBNbRg3OONKQvx9Q"
+      }
+    },
+    "first_seen_at": "2026-07-05T13:02:09+08:00",
+    "last_seen_at": "2026-07-05T13:02:09+08:00",
+    "fetch_runs": [
+      "2026-07-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7176969627933625658.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7176969627933625658.mp3",
+      "source": "download",
+      "processed_at": "2026-07-05T13:03:45+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7176969627933625658",
+      "transcript_raw": "苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人补充信息：苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人关键词：芯片级维修、苹果手机维修、专业的事交给专业的人",
+      "transcript_clean": "苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人补充信息：苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人关键词：芯片级维修、苹果手机维修、专业的事交给专业的人",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-05/7176969627933625658.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7176969627933625658",
+      "summary": "贵港杰修科技（寄修）围绕“芯片级维修”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人。苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人补充信息：苹果x不触摸，触摸供电ic损坏，已完美修复！#芯片级维修 #苹果手机维修 #专业的事交给专业的人关键词：芯片级维修、苹果手机维修、专业的事交给专业的人 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "芯片级维修为什么总是做不出来结果？",
+        "先把苹果手机维修想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕芯片级维修组织标题与开头。",
+        "用苹果手机维修和专业的事交给专业的人补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "芯片级维修",
+        "苹果手机维修",
+        "专业的事交给专业的人"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-05/7176969627933625658.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "last_error": null
+  },
+  "7584126106811731259": {
+    "video_id": "7584126106811731259",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7584126106811731259",
+      "title": "在抖音记录美好生活20260705",
+      "publish_time": "2026-07-05T13:03:07+08:00",
+      "video_url": "https://www.douyin.com/video/7584126106811731259",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260705",
+      "text_hint": "在抖音记录美好生活20260705",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/3653ed38-e5e8-46d8-9088-cd384c562cfb",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7584126106811731259",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-05T13:02:09+08:00",
+    "last_seen_at": "2026-07-05T13:02:09+08:00",
+    "fetch_runs": [
+      "2026-07-05"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7155115173664034079": {
+    "video_id": "7155115173664034079",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "车载音乐伍",
+      "video_id": "7155115173664034079",
+      "title": "经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐",
+      "publish_time": "2022-10-16T22:22:32+08:00",
+      "video_url": "https://www.douyin.com/video/7155115173664034079",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/acd467ccb8185af858ae6fa9ebb58c9c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098587600&x-signature=wJCSsP6RWx09JFYMTsHGtcckvQc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260705130242C978025258172AE134BA",
+      "like_count": 1348,
+      "comment_count": 108,
+      "share_count": 196,
+      "collect_count": 358,
+      "description": "经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐",
+      "text_hint": "经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐",
+      "topic_tags": [
+        "经典老歌",
+        "凤凰传奇",
+        "动感音乐",
+        "最炫民族风",
+        "音乐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e352e84402e8c8357312355399edcc74/6a4a10bb/video/tos/cn/tos-cn-ve-0015c800/d2abc8544f3548bc80c13f2903efe4ab/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1523&bt=1523&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wz0GdHhd.VMMf_73-ApQX&mime_type=video_mp4&qs=0&rc=aWY3PDk7PGU3ZDk0OjkzNEBpM3E1c2U6Zm40ZzMzNGkzM0AxXjFgMy1fXzIxMy80YF8yYSNeczZgcjQwMjNgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100H_100K&dy_q=1783227762&l=20260705130242C978025258172AE134BA",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7155115173664034079.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7155115173664034079.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 281.217,
+      "raw_payload": {
+        "aweme_id": "7155115173664034079",
+        "author_uid": "2739575332285739",
+        "sec_uid": "MS4wLjABAAAAHrtCrqoZmeZBwRMWkQlZYls7bJR-4ETBR_UVHOd7Hur_smKmLM3xA2kVuFU9PJXS",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHrtCrqoZmeZBwRMWkQlZYls7bJR-4ETBR_UVHOd7Hur_smKmLM3xA2kVuFU9PJXS"
+      }
+    },
+    "first_seen_at": "2026-07-05T13:02:09+08:00",
+    "last_seen_at": "2026-07-05T13:02:09+08:00",
+    "fetch_runs": [
+      "2026-07-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7155115173664034079.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7155115173664034079.mp3",
+      "source": "download",
+      "processed_at": "2026-07-05T13:04:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7155115173664034079",
+      "transcript_raw": "经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐补充信息：经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐关键词：经典老歌、凤凰传奇、动感音乐、最炫民族风、音乐",
+      "transcript_clean": "经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐补充信息：经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐关键词：经典老歌、凤凰传奇、动感音乐、最炫民族风、音乐",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-05/7155115173664034079.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7155115173664034079",
+      "summary": "车载音乐伍围绕“经典老歌”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐。经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐补充信息：经典老歌第236首来自凤凰传奇的一首动感音乐《最炫民族风》。#经典老歌 #凤凰传奇 #动感音乐 #最炫民族风 #音乐关键词：经典老歌、凤凰传奇、动感音乐、最炫民族风、音乐 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "经典老歌为什么总是做不出来结果？",
+        "先把凤凰传奇想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕经典老歌组织标题与开头。",
+        "用凤凰传奇和动感音乐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "经典老歌",
+        "凤凰传奇",
+        "动感音乐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-05/7155115173664034079.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "last_error": null
+  },
+  "7023322443792092455": {
+    "video_id": "7023322443792092455",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "内娱左使",
+      "video_id": "7023322443792092455",
+      "title": "何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长",
+      "publish_time": "2021-10-26T18:38:58+08:00",
+      "video_url": "https://www.douyin.com/video/7023322443792092455",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f6588306c415f5ab2de51bbc86be8ab5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098587600&x-signature=Ut%2FF7H2q3pOhMPQVxeFVEgnSbmE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607051302469008960D114F3CE99138",
+      "like_count": 933,
+      "comment_count": 66,
+      "share_count": 113,
+      "collect_count": 207,
+      "description": "何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长",
+      "text_hint": "何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长",
+      "topic_tags": [
+        "何晟民",
+        "娱乐",
+        "成长"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/86b7fc99bdc61d647ec5af3167cfee38/6a4a1071/video/tos/cn/tos-cn-ve-0015c800/0bf106095be447b1a49d253b6e0d82fe/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=847&bt=847&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wq0GdHhd.VMMf_73-ApQX&mime_type=video_mp4&qs=0&rc=Ozs8OzRpNTZnaTY3NjdkN0BpM2k4bDw6Zmp3ODMzNGkzM0AyMmM1YF9iNS8xMDIvLjA0YSMwcWlfcjRfaW9gLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100D_102u_100o&dy_q=1783227766&l=202607051302469008960D114F3CE99138",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7023322443792092455.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7023322443792092455.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 203.46,
+      "raw_payload": {
+        "aweme_id": "7023322443792092455",
+        "author_uid": "2076353286120221",
+        "sec_uid": "MS4wLjABAAAAgsdpn7F0qqyAiSwUAK6vTZ1n0UPkn8xb3M0xFFRRsmJqbAem3_baf2d9FnRe2_67",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAgsdpn7F0qqyAiSwUAK6vTZ1n0UPkn8xb3M0xFFRRsmJqbAem3_baf2d9FnRe2_67"
+      }
+    },
+    "first_seen_at": "2026-07-05T13:02:09+08:00",
+    "last_seen_at": "2026-07-05T13:02:09+08:00",
+    "fetch_runs": [
+      "2026-07-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7023322443792092455.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7023322443792092455.mp3",
+      "source": "download",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7023322443792092455",
+      "transcript_raw": "何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长补充信息：何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长关键词：何晟民、娱乐、成长",
+      "transcript_clean": "何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长补充信息：何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长关键词：何晟民、娱乐、成长",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-05/7023322443792092455.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7023322443792092455",
+      "summary": "内娱左使围绕“何晟民”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长。何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长补充信息：何晟铭为何突然不“红”了？看他干过的那些事，就一点都不奇怪了 #何晟民 # 宫锁心玉 #娱乐 #成长关键词：何晟民、娱乐、成长 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "何晟民为什么总是做不出来结果？",
+        "先把娱乐想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕何晟民组织标题与开头。",
+        "用娱乐和成长补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "何晟民",
+        "娱乐",
+        "成长"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-05/7023322443792092455.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "last_error": null
+  },
+  "7535377387794828578": {
+    "video_id": "7535377387794828578",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7535377387794828578",
+      "title": "什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校",
+      "publish_time": "2025-08-06T07:52:00+08:00",
+      "video_url": "https://www.douyin.com/video/7535377387794828578",
+      "cover_url": "",
+      "like_count": 141,
+      "comment_count": 8,
+      "share_count": 88,
+      "collect_count": 55,
+      "description": "什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校",
+      "text_hint": "什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校",
+      "topic_tags": [
+        "博士",
+        "研究生",
+        "小猴考博",
+        "985院校"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d5fd389278b63da7c4e0d31fc7e553bf/6a4a1138/video/tos/cn/tos-cn-ve-0015c800/oYCzkpK9lIJdADeAEowghkD8FKfQABLY6EaTmP/?a=6383&br=522&bt=522&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1783227782&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wS3GdHhd.VMMf_73-ApQX&is_ssr=1&l=20260705130302D539D232AD9207AC2EC9&lr=all&mime_type=video_mp4&qs=12&rc=MzRlZWU6Z2loODg4OGdkO0BpajhxaXg5cjVqNTMzNGkzM0AzXmIzNDQxX2IxYTUzNV4zYSNoNGcvMmRrZjZhLS1kLS9zcw%3D%3D&__vid=7535377387794828578",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7535377387794828578.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7535377387794828578.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7535377387794828578",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-05T13:02:09+08:00",
+    "last_seen_at": "2026-07-05T13:02:09+08:00",
+    "fetch_runs": [
+      "2026-07-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7535377387794828578.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-05/7535377387794828578.mp3",
+      "source": "download",
+      "processed_at": "2026-07-05T13:03:25+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7535377387794828578",
+      "transcript_raw": "什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校补充信息：什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校关键词：博士、研究生、小猴考博、985院校",
+      "transcript_clean": "什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校补充信息：什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校关键词：博士、研究生、小猴考博、985院校",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-05/7535377387794828578.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7535377387794828578",
+      "summary": "知雪围绕“博士”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校。什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校补充信息：什么教育背景和成果能升上985博士，985博士人群画像#博士#研究生 #小猴考博#985院校关键词：博士、研究生、小猴考博、985院校 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "博士为什么总是做不出来结果？",
+        "先把研究生想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕博士组织标题与开头。",
+        "用研究生和小猴考博补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "博士",
+        "研究生",
+        "小猴考博"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-05/7535377387794828578.json",
+      "processed_at": "2026-07-05T13:04:40+08:00"
+    },
+    "last_error": null
   }
 }
