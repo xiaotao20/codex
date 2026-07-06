@@ -6182,5 +6182,666 @@
       "processed_at": "2026-07-05T13:04:40+08:00"
     },
     "last_error": null
+  },
+  "7659218295560452809": {
+    "video_id": "7659218295560452809",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "时光",
+      "video_id": "7659218295560452809",
+      "title": "##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦",
+      "publish_time": "2026-07-06T09:18:46+08:00",
+      "video_url": "https://www.douyin.com/video/7659218295560452809",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/o4PiaAAIB6iAAsBLAFPEIzn1wO7IAdCSn6kgB~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098674000&x-signature=94Db0GVYtJm6kH8BaKazlNeZco4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260706131846F20C3FCB1B97913DE43C",
+      "like_count": 1,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦",
+      "text_hint": "##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦",
+      "topic_tags": [
+        "英语趣配音",
+        "口语"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/1d88ddce2a96d624217eb9893f2fd43e/6a4b651f/video/tos/cn/tos-cn-ve-15/oMcJGgDDqBBspfjFEESwTAQIAA8WfSjgP9IPqq/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=308&bt=308&cs=0&ds=1&ft=CZdgCYlIDyjNb~VQ9wqTkdHhd.GkrMM73-ApQX&mime_type=video_mp4&qs=0&rc=aWc2NzQ6aGg4Z2lpNWY7aEBpM25zNHA5cnRqPDMzNGkzM0AxXjM1MjYzNmAxMzMvMi5eYSNrMHMvMmRrMTJhLS1kLTBzcw%3D%3D&btag=80000e00020000&cc=1f&cquery=100B_100x_100z_100o_100w&dy_q=1783315126&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260706131846F20C3FCB1B97913DE43C&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7659218295560452809.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7659218295560452809.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 57.0,
+      "raw_payload": {
+        "aweme_id": "7659218295560452809",
+        "author_uid": "53882316463",
+        "sec_uid": "MS4wLjABAAAAWfNoZm24Tupi2urXNF0OEYInyWgc9TDJzt9yJK6uHnI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWfNoZm24Tupi2urXNF0OEYInyWgc9TDJzt9yJK6uHnI"
+      }
+    },
+    "first_seen_at": "2026-07-06T13:18:29+08:00",
+    "last_seen_at": "2026-07-06T13:18:29+08:00",
+    "fetch_runs": [
+      "2026-07-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7659218295560452809.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7659218295560452809.mp3",
+      "source": "download",
+      "processed_at": "2026-07-06T13:20:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7659218295560452809",
+      "transcript_raw": "##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦补充信息：##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦关键词：英语趣配音、口语",
+      "transcript_clean": "##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦补充信息：##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦关键词：英语趣配音、口语",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-06/7659218295560452809.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7659218295560452809",
+      "summary": "时光围绕“英语趣配音”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦。##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦补充信息：##英语趣配音 #口语 Sophia已经坚持配音215个了，口语越来越流利啦关键词：英语趣配音、口语 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "英语趣配音为什么总是做不出来结果？",
+        "先把口语想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕英语趣配音组织标题与开头。",
+        "用口语和#口语补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "英语趣配音",
+        "口语",
+        "#口语"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-06/7659218295560452809.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "last_error": null
+  },
+  "7652751578466751594": {
+    "video_id": "7652751578466751594",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "hi人间事儿",
+      "video_id": "7652751578466751594",
+      "title": "5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法",
+      "publish_time": "2026-06-19T08:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7652751578466751594",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8125efcc43dd983cb2d63f4ab27e74b2~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098674000&x-signature=QZQYzURe6Dy6E8XkTuF0mkiH4R8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260706131849018A104406BEEB0539C9",
+      "like_count": 19680,
+      "comment_count": 1260,
+      "share_count": 736,
+      "collect_count": 838,
+      "description": "5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法",
+      "text_hint": "5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法",
+      "topic_tags": [
+        "真实生活分享计划",
+        "端午节粽子",
+        "端午节安康",
+        "粽子爷爷",
+        "一代人有一代人的包粽子方法"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7fb326783fc5a2a8e42f24a3eecc051e/6a4b6586/video/tos/cn/tos-cn-ve-15/o8q3QfClBAI1ikGAd0imgHINGBNEgBgg0JePPA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2208&bt=2208&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wRTkdHhd.GkrMM73-ApQX&mime_type=video_mp4&qs=0&rc=NzxpZWZmOzwzOWQ3N2RlOUBpajV0PG45cmgzOzMzNGkzM0AyLS0zY15hNl8xNGFhNGNeYSMtLTVkMmRzY25hLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1783315129&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260706131849018A104406BEEB0539C9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7652751578466751594.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7652751578466751594.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 157.85,
+      "raw_payload": {
+        "aweme_id": "7652751578466751594",
+        "author_uid": "1961174896481006",
+        "sec_uid": "MS4wLjABAAAAb4RZUEAWsiE3S-WX7n8Adlejjy8Yz2fPvsCmrwSfRP3GfLJGh7c8DuIyzzJxYNR-",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAb4RZUEAWsiE3S-WX7n8Adlejjy8Yz2fPvsCmrwSfRP3GfLJGh7c8DuIyzzJxYNR-"
+      }
+    },
+    "first_seen_at": "2026-07-06T13:18:29+08:00",
+    "last_seen_at": "2026-07-06T13:18:29+08:00",
+    "fetch_runs": [
+      "2026-07-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7652751578466751594.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7652751578466751594.mp3",
+      "source": "download",
+      "processed_at": "2026-07-06T13:20:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7652751578466751594",
+      "transcript_raw": "5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法补充信息：5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法关键词：真实生活分享计划、端午节粽子、端午节安康、粽子爷爷、一代人有一代人的包粽子方法",
+      "transcript_clean": "5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法补充信息：5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法关键词：真实生活分享计划、端午节粽子、端午节安康、粽子爷爷、一代人有一代人的包粽子方法",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-06/7652751578466751594.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7652751578466751594",
+      "summary": "hi人间事儿围绕“真实生活分享计划”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法。5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法补充信息：5毛1个的“粽子爷爷”粽子，暖到心尖啦！ 你敢信吗？2026年的现在，居然还能吃到5毛1个的粽子！坚持17年不涨价的老人，用手作的温度，为我们留住了时代里的烟火气。\n#真实生活分享计划 #端午节粽子 #端午节安康 #粽子爷爷 #一代人有一代人的包粽子方法关键词：真实生活分享计划、端午节粽子、端午节安康、粽子爷爷、一代人有一代人的包粽子方法 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "真实生活分享计划为什么总是做不出来结果？",
+        "先把端午节粽子想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕真实生活分享计划组织标题与开头。",
+        "用端午节粽子和端午节安康补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "真实生活分享计划",
+        "端午节粽子",
+        "端午节安康"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-06/7652751578466751594.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "last_error": null
+  },
+  "7215516003059420474": {
+    "video_id": "7215516003059420474",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7215516003059420474",
+      "title": "【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课",
+      "publish_time": "2023-03-28T08:47:00+08:00",
+      "video_url": "https://www.douyin.com/video/7215516003059420474",
+      "cover_url": "",
+      "like_count": 38,
+      "comment_count": 1,
+      "share_count": 13,
+      "collect_count": 21,
+      "description": "【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课",
+      "text_hint": "【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课",
+      "topic_tags": [
+        "儿童科普",
+        "人体奥秘启蒙课"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0aa40c15bc212f81fa4d4c06f3782629/6a4b66b1/video/tos/cn/tos-cn-ve-0015c800/ocoQelcsBnCRnE3bR8eqAMID7AIHgafbB6CInV/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=534&bt=534&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9w.AkdHhd.GkrMM73-ApQX&mime_type=video_mp4&qs=1&rc=aDZpO2Y6NDlmaDxkNzM1PEBpM2hpODc6ZjpkajMzNGkzM0BiMjYwMl81XjExNWItY19iYSNja2ZecjRvZ2VgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100D_100J_100o&dy_q=1783315136&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607061318561CC9ECB77DF8A7F359B8&__vid=7215516003059420474",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7215516003059420474.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7215516003059420474.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7215516003059420474",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-06T13:18:29+08:00",
+    "last_seen_at": "2026-07-06T13:18:29+08:00",
+    "fetch_runs": [
+      "2026-07-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7215516003059420474.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7215516003059420474.mp3",
+      "source": "download",
+      "processed_at": "2026-07-06T13:21:01+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7215516003059420474",
+      "transcript_raw": "【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课补充信息：【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课关键词：儿童科普、人体奥秘启蒙课",
+      "transcript_clean": "【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课补充信息：【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课关键词：儿童科普、人体奥秘启蒙课",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-06/7215516003059420474.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7215516003059420474",
+      "summary": "目标博主 1围绕“儿童科普”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课。【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课补充信息：【儿童科普】人体奥秘启蒙课： 第7集 为什么会放屁 #儿童科普 #人体奥秘启蒙课关键词：儿童科普、人体奥秘启蒙课 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "儿童科普为什么总是做不出来结果？",
+        "先把人体奥秘启蒙课想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕儿童科普组织标题与开头。",
+        "用人体奥秘启蒙课和第7集补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "儿童科普",
+        "人体奥秘启蒙课",
+        "第7集"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-06/7215516003059420474.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "last_error": null
+  },
+  "7211062458675367206": {
+    "video_id": "7211062458675367206",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "胜天科",
+      "video_id": "7211062458675367206",
+      "title": "更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机",
+      "publish_time": "2023-03-16T16:45:00+08:00",
+      "video_url": "https://www.douyin.com/video/7211062458675367206",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a3e49db895ee1367eda7ce5ed9bb2853~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098674000&x-signature=6kaNtAZdvceo5wYB%2Fsf98bHV8y0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260706131901F3BA23AD7E2D83FEE301",
+      "like_count": 149,
+      "comment_count": 11,
+      "share_count": 56,
+      "collect_count": 91,
+      "description": "更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机",
+      "text_hint": "更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机",
+      "topic_tags": [
+        "拆机",
+        "换尾插口",
+        "a93手机"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/48e0c1f5b0f8c9b5b6a8c48a94b2c069/6a4b65ee/video/tos/cn/tos-cn-ve-15c001-alinc2/o0L6DAAe5QDRo9ggldAEccotqkrmnbjBDeLkTl/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=953&bt=953&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wtAkdHhd.GkrMM73-ApQX&mime_type=video_mp4&qs=0&rc=OjtkODNmNGVlZzhkOTo1aUBpM2hxZDs6ZjxnajMzNGkzM0AzXy8yXzVhXi0xXzQxY2MyYSM2bWBtcjRnYjZgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100D_100J_100o_100w_100B&dy_q=1783315141&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260706131901F3BA23AD7E2D83FEE301",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7211062458675367206.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7211062458675367206.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 249.336,
+      "raw_payload": {
+        "aweme_id": "7211062458675367206",
+        "author_uid": "102703452504",
+        "sec_uid": "MS4wLjABAAAAzdKz5NTPPgQDOo72TAdIT__j2oBz-_5-8JxaD5aXOis",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAzdKz5NTPPgQDOo72TAdIT__j2oBz-_5-8JxaD5aXOis"
+      }
+    },
+    "first_seen_at": "2026-07-06T13:18:29+08:00",
+    "last_seen_at": "2026-07-06T13:18:29+08:00",
+    "fetch_runs": [
+      "2026-07-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7211062458675367206.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7211062458675367206.mp3",
+      "source": "download",
+      "processed_at": "2026-07-06T13:21:21+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7211062458675367206",
+      "transcript_raw": "更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机补充信息：更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机关键词：拆机、换尾插口、a93手机",
+      "transcript_clean": "更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机补充信息：更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机关键词：拆机、换尾插口、a93手机",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-06/7211062458675367206.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7211062458675367206",
+      "summary": "胜天科围绕“拆机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机。更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机补充信息：更换OPPO A93 充电尾插，充电经常动一下就松掉，type-c也不耐用#拆机 #换尾插口 #a93手机关键词：拆机、换尾插口、a93手机 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "拆机为什么总是做不出来结果？",
+        "先把换尾插口想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕拆机组织标题与开头。",
+        "用换尾插口和a93手机补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "拆机",
+        "换尾插口",
+        "a93手机"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-06/7211062458675367206.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "last_error": null
+  },
+  "7444164080056814905": {
+    "video_id": "7444164080056814905",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7444164080056814905",
+      "title": "yesJk在抖音记录美好生活20241203",
+      "publish_time": "2024-12-03T12:38:00+08:00",
+      "video_url": "https://www.douyin.com/video/7444164080056814905",
+      "cover_url": "",
+      "like_count": 11,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "yesJk在抖音记录美好生活20241203",
+      "text_hint": "yesJk在抖音记录美好生活20241203",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/03de0ff2bdfe6a41a8c5e546f6253b82/6a4b65ba/video/tos/cn/tos-cn-ve-15c000-ce/oQF1QzFdTAqIfz2kqIToegfAlX4GOLScf4C58D/?a=6383&br=970&bt=970&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&dr=0&ds=6&dy_q=1783315158&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNb~VQ9wgAkdHhd.GkrMM73-ApQX&is_ssr=1&l=202607061319188356F3EB929B2F7686DA&lr=all&mime_type=video_mp4&qs=12&rc=NGlpZWUzOjg8NGQ1OWg6NUBpM2l2cW45cjVpdzMzbGkzNEAxMWAxLmFeXzAxLjJjNmI1YSNtLl9kMmRzazRgLS1kLWJzcw%3D%3D&__vid=7444164080056814905",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7444164080056814905.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7444164080056814905.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7444164080056814905",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-06T13:18:29+08:00",
+    "last_seen_at": "2026-07-06T13:18:29+08:00",
+    "fetch_runs": [
+      "2026-07-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7444164080056814905.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7444164080056814905.mp3",
+      "source": "download",
+      "processed_at": "2026-07-06T13:20:35+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7444164080056814905",
+      "transcript_raw": "yesJk在抖音记录美好生活20241203yesJk在抖音记录美好生活20241203补充信息：yesJk在抖音记录美好生活20241203",
+      "transcript_clean": "yesJk在抖音记录美好生活20241203yesJk在抖音记录美好生活20241203补充信息：yesJk在抖音记录美好生活20241203",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-06/7444164080056814905.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7444164080056814905",
+      "summary": "目标博主 1围绕“yesJk在抖音记录美好生活20241203yesJk在抖音记录美好生活20241203补充信息：yesJk在抖音记录美好生活20241203”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "yesJk在抖音记录美好生活20241203。yesJk在抖音记录美好生活20241203yesJk在抖音记录美好生活20241203补充信息：yesJk在抖音记录美好生活20241203 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "yesJk在抖音记录美好生活20241203yesJk在抖音记录美好生活20241203补充信息：yesJk在抖音记录美好生活20241203为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕yesJk在抖音记录美好生活20241203yesJk在抖音记录美好生活20241203补充信息：yesJk在抖音记录美好生活20241203组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "yesJk在抖音记录美好生活20241203yesJk在抖音记录美好生活20241203补充信息：yesJk在抖音记录美好生活20241203",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-06/7444164080056814905.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "last_error": null
+  },
+  "7120552538272795912": {
+    "video_id": "7120552538272795912",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "爬",
+      "video_id": "7120552538272795912",
+      "title": "血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源",
+      "publish_time": "2022-07-15T19:00:43+08:00",
+      "video_url": "https://www.douyin.com/video/7120552538272795912",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1fd36b5461cf78ae1324329226a8d9f8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098674000&x-signature=JSVXIKCBv6ve2A6FzBHx8E%2F8syU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607061319256F7A967E196E32F7BD28",
+      "like_count": 657,
+      "comment_count": 52,
+      "share_count": 188,
+      "collect_count": 83,
+      "description": "血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源",
+      "text_hint": "血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源",
+      "topic_tags": [
+        "血源ps4",
+        "血源"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2a38b9b07cd4416347e9d4ab4d863342/6a4b660a/video/tos/cn/tos-cn-ve-15c001-alinc2/0c718db8743943739280e1c80de60b14/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3630&bt=3630&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wQAkdHhd.GkrMM73-ApQX&mime_type=video_mp4&qs=0&rc=ZjRlZjU1NzQzPGc0OjZpaEBpajl1OzQ6ZnJuZTMzNGkzM0A1M19jXzI2XmExMC4vL2AvYSNmaDNrcjRvYjVgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100H_102u_100o_100w_100B&dy_q=1783315165&l=202607061319256F7A967E196E32F7BD28",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7120552538272795912.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7120552538272795912.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 253.743,
+      "raw_payload": {
+        "aweme_id": "7120552538272795912",
+        "author_uid": "92304706222",
+        "sec_uid": "MS4wLjABAAAAT_Ld4ncbSzAZ9u520uC2ZdvhfKZFAHaD879XaJ5EPSQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAT_Ld4ncbSzAZ9u520uC2ZdvhfKZFAHaD879XaJ5EPSQ"
+      }
+    },
+    "first_seen_at": "2026-07-06T13:18:29+08:00",
+    "last_seen_at": "2026-07-06T13:18:29+08:00",
+    "fetch_runs": [
+      "2026-07-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7120552538272795912.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7120552538272795912.mp3",
+      "source": "download",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7120552538272795912",
+      "transcript_raw": "血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源补充信息：血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源关键词：血源ps4、血源",
+      "transcript_clean": "血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源补充信息：血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源关键词：血源ps4、血源",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-06/7120552538272795912.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7120552538272795912",
+      "summary": "爬围绕“血源ps4”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源。血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源补充信息：血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4 #血源关键词：血源ps4、血源 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "血源ps4为什么总是做不出来结果？",
+        "先把血源想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕血源ps4组织标题与开头。",
+        "用血源和血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "血源ps4",
+        "血源",
+        "血源，无伤七周目路德维希，老驴的无伤个人认为二阶段比一阶段难打，二阶段难点主要在快慢刀，有几下是真的快。#血源ps4"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-06/7120552538272795912.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "last_error": null
+  },
+  "7354330271774149929": {
+    "video_id": "7354330271774149929",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7354330271774149929",
+      "title": "在抖音记录美好生活20260706",
+      "publish_time": "2026-07-06T13:19:55+08:00",
+      "video_url": "https://www.douyin.com/video/7354330271774149929",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260706",
+      "text_hint": "在抖音记录美好生活20260706",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d1592561-88e8-46cd-a0d0-2c867f68fa76",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7354330271774149929",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-06T13:18:29+08:00",
+    "last_seen_at": "2026-07-06T13:18:29+08:00",
+    "fetch_runs": [
+      "2026-07-06"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7242615064404970767": {
+    "video_id": "7242615064404970767",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7242615064404970767",
+      "title": "至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病",
+      "publish_time": "2023-06-09T09:25:00+08:00",
+      "video_url": "https://www.douyin.com/video/7242615064404970767",
+      "cover_url": "",
+      "like_count": 478,
+      "comment_count": 84,
+      "share_count": 27,
+      "collect_count": 41,
+      "description": "至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病",
+      "text_hint": "至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病",
+      "topic_tags": [
+        "父爱",
+        "亲情",
+        "先天性心脏病"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c48ab6b6801bb53777a23e7517b92b7c/6a4b666f/video/tos/cn/tos-cn-ve-0015c800/owhFECUtuk0IdkA9BYgkGQffvHKzLmgAAcPPEB/?a=6383&br=127&bt=127&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100H_100K_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1783315190&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNb~VQ9wqAkdHhd.GkrMM73-ApQX&is_ssr=1&l=20260706131950B625D57F9DE27205260F&lr=all&mime_type=video_mp4&qs=1&rc=aTVkODVlOTgzZTkzNzo3Z0Bpam5vNWk6ZjNobDMzNGkzM0BgYTM1MDQ0NV4xNjMtNWFgYSNrbW8wcjRvcy5gLS1kLS9zcw%3D%3D&__vid=7242615064404970767",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7242615064404970767.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7242615064404970767.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7242615064404970767",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-06T13:18:29+08:00",
+    "last_seen_at": "2026-07-06T13:18:29+08:00",
+    "fetch_runs": [
+      "2026-07-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7242615064404970767.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-06/7242615064404970767.mp3",
+      "source": "download",
+      "processed_at": "2026-07-06T13:20:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7242615064404970767",
+      "transcript_raw": "至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病补充信息：至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病关键词：父爱、亲情、先天性心脏病",
+      "transcript_clean": "至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病补充信息：至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病关键词：父爱、亲情、先天性心脏病",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-06/7242615064404970767.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7242615064404970767",
+      "summary": "目标博主 1围绕“父爱”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病。至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病补充信息：至亲离去的瞬间，通常不会使人悲伤。真正让你悲痛的，是打开冰箱的那半盒牛奶、窗台上随风摇曳的绿萝、安静折叠在床上的绒被、还有那深夜里洗衣机传来的阵阵喧哗。#父爱 #亲情 @抖音小助手 #先天性心脏病关键词：父爱、亲情、先天性心脏病 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "父爱为什么总是做不出来结果？",
+        "先把亲情想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕父爱组织标题与开头。",
+        "用亲情和先天性心脏病补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "父爱",
+        "亲情",
+        "先天性心脏病"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-06/7242615064404970767.json",
+      "processed_at": "2026-07-06T13:22:17+08:00"
+    },
+    "last_error": null
   }
 }
