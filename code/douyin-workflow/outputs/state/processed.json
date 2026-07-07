@@ -6843,5 +6843,676 @@
       "processed_at": "2026-07-06T13:22:17+08:00"
     },
     "last_error": null
+  },
+  "7659313555438636298": {
+    "video_id": "7659313555438636298",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "暖暖科研生信",
+      "video_id": "7659313555438636298",
+      "title": "小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析",
+      "publish_time": "2026-07-06T15:28:31+08:00",
+      "video_url": "https://www.douyin.com/video/7659313555438636298",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/3b5e8f9568954458ba466d75ce0493fc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098756800&x-signature=WdhmhnY7j3fmeasBGZQe3ZoucYY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260707125902B0BB3325865752B009DC",
+      "like_count": 4,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析",
+      "text_hint": "小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析",
+      "topic_tags": [
+        "生信sci",
+        "医学",
+        "科研",
+        "生物信息学",
+        "生信分析"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/97408c701d223a00cae19ffa260f3a89/6a4cb237/video/tos/cn/tos-cn-ve-15/oIiWNt4iOUkkY8aAIQhIuivb9xEBQtwLgEP2A/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1066&bt=1066&cs=0&ds=3&ft=FYraJC~0BN16UvjVQkieah7usFvg6JUaglcjp&mime_type=video_mp4&qs=0&rc=OzlkZDo4PDtkMzQ2NDg0PEBpanVsZ3c5cmhvPDMzNGkzM0AtYzRiLV4xXy4xNV8zNmNeYSNkNWRwMmRrZTJhLS1kLTBzcw%3D%3D&btag=80000e00028000&cc=1f&cquery=100w_100B_100H_100K_100o&dy_q=1783400342&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260707125902B0BB3325865752B009DC&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7659313555438636298.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7659313555438636298.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 113.407,
+      "raw_payload": {
+        "aweme_id": "7659313555438636298",
+        "author_uid": "1870688298730212",
+        "sec_uid": "MS4wLjABAAAARSI0SAYbNCfIlN_851ajENWAv5V5CFYH63Dswq41d4C2dYowwVb7fCyIxCsoPwqh",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAARSI0SAYbNCfIlN_851ajENWAv5V5CFYH63Dswq41d4C2dYowwVb7fCyIxCsoPwqh"
+      }
+    },
+    "first_seen_at": "2026-07-07T12:58:48+08:00",
+    "last_seen_at": "2026-07-07T12:58:48+08:00",
+    "fetch_runs": [
+      "2026-07-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7659313555438636298.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7659313555438636298.mp3",
+      "source": "download",
+      "processed_at": "2026-07-07T13:00:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7659313555438636298",
+      "transcript_raw": "小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析补充信息：小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析关键词：生信sci、医学、科研、生物信息学、生信分析",
+      "transcript_clean": "小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析补充信息：小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析关键词：生信sci、医学、科研、生物信息学、生信分析",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-07/7659313555438636298.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "analysis": {
+      "video_id": "7659313555438636298",
+      "summary": "暖暖科研生信围绕“生信sci”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析。小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析补充信息：小样本发愁？3招直接开挂#生信sci #医学 #科研 #生物信息学 #生信分析关键词：生信sci、医学、科研、生物信息学、生信分析 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "生信sci为什么总是做不出来结果？",
+        "先把医学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕生信sci组织标题与开头。",
+        "用医学和科研补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "生信sci",
+        "医学",
+        "科研"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-07/7659313555438636298.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "last_error": null
+  },
+  "7599918902021295414": {
+    "video_id": "7599918902021295414",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "央视频",
+      "video_id": "7599918902021295414",
+      "title": "中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）",
+      "publish_time": "2026-01-27T14:07:18+08:00",
+      "video_url": "https://www.douyin.com/video/7599918902021295414",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f497f42adf5b7d846538656934c74cf6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098756800&x-signature=6dpuqs7u3jjsNuGMghHfz7ME34M%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260707125906DF8827D1BFF9ABB204C8",
+      "like_count": 21025,
+      "comment_count": 1401,
+      "share_count": 409,
+      "collect_count": 821,
+      "description": "中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）",
+      "text_hint": "中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/14a6dd974a8442388cf788e5d655f782/6a4cb227/video/tos/cn/tos-cn-ve-15/43d7279f423d4234bdec4e63f3d942a6/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=602&bt=602&cs=0&ds=4&ft=FYraJC~0BN16UvjVQbieah7usFvg6JUaglcjp&mime_type=video_mp4&qs=0&rc=ZjU8OjxnZTpmNzszZzk1OkBpajc4cnM5cnU4ODMzNGkzM0BeNi81NDIvXjQxY2M2YWJjYSNwcy1xMmQ0X3BhLS1kLTBzcw%3D%3D&btag=80000e00028000&cc=1f&cquery=100K_100o_100w_100B_100H&dy_q=1783400346&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260707125906DF8827D1BFF9ABB204C8&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7599918902021295414.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7599918902021295414.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 93.809,
+      "raw_payload": {
+        "aweme_id": "7599918902021295414",
+        "author_uid": "1129948451452958",
+        "sec_uid": "MS4wLjABAAAAhV8-lz-QOUpkk492RbeuOM4c1ocosD_DPY9IQiE6iQJR7YW87fECiUQk55QhDXHU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhV8-lz-QOUpkk492RbeuOM4c1ocosD_DPY9IQiE6iQJR7YW87fECiUQk55QhDXHU"
+      }
+    },
+    "first_seen_at": "2026-07-07T12:58:48+08:00",
+    "last_seen_at": "2026-07-07T12:58:48+08:00",
+    "fetch_runs": [
+      "2026-07-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7599918902021295414.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7599918902021295414.mp3",
+      "source": "download",
+      "processed_at": "2026-07-07T13:00:21+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7599918902021295414",
+      "transcript_raw": "中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）补充信息：中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）",
+      "transcript_clean": "中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）补充信息：中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-07/7599918902021295414.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "analysis": {
+      "video_id": "7599918902021295414",
+      "summary": "央视频围绕“中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）补充信息：中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）。中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）补充信息：中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯） 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）补充信息：中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）补充信息：中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）补充信息：中国代表安理会四问日本！当地时间1月26日下午，安理会公开辩论会，面对日方代表在发言中颠倒黑白、混淆视听，且拒绝承认错误、继续无理狡辩，中国常驻联合国副代表孙磊大使坚决予以驳斥。（央视频号：国际时讯）",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-07/7599918902021295414.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "last_error": null
+  },
+  "7244753127629524228": {
+    "video_id": "7244753127629524228",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "涛哥看车",
+      "video_id": "7244753127629524228",
+      "title": "福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝",
+      "publish_time": "2023-06-15T11:42:40+08:00",
+      "video_url": "https://www.douyin.com/video/7244753127629524228",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/da13bdc40182147a98f539ee284fd122~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098756800&x-signature=MiZ%2FDM0a3RwGa9sF5C1KSnql7q4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607071259094C56DAE7034323DE9C2A",
+      "like_count": 1003,
+      "comment_count": 342,
+      "share_count": 84,
+      "collect_count": 142,
+      "description": "福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝",
+      "text_hint": "福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝",
+      "topic_tags": [
+        "西安二手车检测",
+        "二手车鉴定评估",
+        "涛哥看车",
+        "检车帝"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/0657cd3dc23e40687f684cc29c832e3f/6a4cb34c/video/tos/cn/tos-cn-ve-15c001-alinc2/ogaXSHeIJfBztgeHCIWQAFMhBFA7jrvRgd8sGR/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2719&bt=2719&cs=0&ds=4&ft=FYraJC~0BN16UvjVQjieah7usFvg6JUaglcjp&mime_type=video_mp4&qs=0&rc=N2k7aDNnZztlZ2doOGc1ZUBpMzt4dGs5cmY7bDMzNGkzM0AwM2MtNWFgNjIxNDMvNV5fYSMuam4uMmQ0ZTJgLS1kLTBzcw%3D%3D&btag=80000e00030000&cc=1f&cquery=100o_100w_100B_100D_100J&dy_q=1783400349&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202607071259094C56DAE7034323DE9C2A&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7244753127629524228.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7244753127629524228.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 383.634,
+      "raw_payload": {
+        "aweme_id": "7244753127629524228",
+        "author_uid": "95939189065",
+        "sec_uid": "MS4wLjABAAAA1CzvHkqyXnnj4nrfr0pMdOon0RfDMNbupCb20rpqNR0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA1CzvHkqyXnnj4nrfr0pMdOon0RfDMNbupCb20rpqNR0"
+      }
+    },
+    "first_seen_at": "2026-07-07T12:58:48+08:00",
+    "last_seen_at": "2026-07-07T12:58:48+08:00",
+    "fetch_runs": [
+      "2026-07-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7244753127629524228.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7244753127629524228.mp3",
+      "source": "download",
+      "processed_at": "2026-07-07T13:05:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7244753127629524228",
+      "transcript_raw": "福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝补充信息：福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝关键词：西安二手车检测、二手车鉴定评估、涛哥看车、检车帝",
+      "transcript_clean": "福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝补充信息：福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝关键词：西安二手车检测、二手车鉴定评估、涛哥看车、检车帝",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-07/7244753127629524228.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "analysis": {
+      "video_id": "7244753127629524228",
+      "summary": "涛哥看车围绕“西安二手车检测”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝。福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝补充信息：福特麦柯斯MAX油耗实测 #西安二手车检测 #二手车鉴定评估 #涛哥看车 #检车帝关键词：西安二手车检测、二手车鉴定评估、涛哥看车、检车帝 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "西安二手车检测为什么总是做不出来结果？",
+        "先把二手车鉴定评估想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕西安二手车检测组织标题与开头。",
+        "用二手车鉴定评估和涛哥看车补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "西安二手车检测",
+        "二手车鉴定评估",
+        "涛哥看车"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-07/7244753127629524228.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "last_error": null
+  },
+  "7233006715195624741": {
+    "video_id": "7233006715195624741",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "好兆头小绿瓶",
+      "video_id": "7233006715195624741",
+      "title": "母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压",
+      "publish_time": "2023-05-14T20:00:26+08:00",
+      "video_url": "https://www.douyin.com/video/7233006715195624741",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6b7714a3c80d53a52d3bdb6ba4b215f7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098756800&x-signature=pEA%2Bi1yUSXvhSPg%2FteejHujNTAg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260707125913B6172828AB18DEE85F09",
+      "like_count": 1687,
+      "comment_count": 63,
+      "share_count": 167,
+      "collect_count": 159,
+      "description": "母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压",
+      "text_hint": "母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压",
+      "topic_tags": [
+        "极度舒适",
+        "沉浸式体验",
+        "母亲节只是五月中的一天而母爱却是岁岁年年",
+        "放松解压"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/47045e254e3a93123a74eeec721b6e01/6a4cb352/video/tos/cn/tos-cn-ve-0015c800/ooO2XRo6kFAwZHVgBHeDgkn7AYA9GqMEIebgCM/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2212&bt=2212&cs=0&ds=4&ft=FYraJC~0BN16UvjVQ4ieah7usFvg6JUaglcjp&mime_type=video_mp4&qs=0&rc=ZTo5Mzs3ZGloODk2Zjk0M0BpMzpwNjY6ZmhmazMzNGkzM0AwM2A0NWNgNjUxYjYzLTQyYSNxLWZzcjRvZmRgLS1kLS9zcw%3D%3D&btag=80000e00030000&cc=1f&cquery=100K_100o_100w_100B_100H&dy_q=1783400353&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260707125913B6172828AB18DEE85F09&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7233006715195624741.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7233006715195624741.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 385.767,
+      "raw_payload": {
+        "aweme_id": "7233006715195624741",
+        "author_uid": "3337750091145315",
+        "sec_uid": "MS4wLjABAAAAGpOL6fnF5PTlMKD2GGSQzFe_hp8tQUjZ6HkNf49-7X5VvitQK3-RC7letfU_9F8y",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAGpOL6fnF5PTlMKD2GGSQzFe_hp8tQUjZ6HkNf49-7X5VvitQK3-RC7letfU_9F8y"
+      }
+    },
+    "first_seen_at": "2026-07-07T12:58:48+08:00",
+    "last_seen_at": "2026-07-07T12:58:48+08:00",
+    "fetch_runs": [
+      "2026-07-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7233006715195624741.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7233006715195624741.mp3",
+      "source": "download",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7233006715195624741",
+      "transcript_raw": "母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压补充信息：母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压关键词：极度舒适、沉浸式体验、母亲节只是五月中的一天而母爱却是岁岁年年、放松解压",
+      "transcript_clean": "母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压补充信息：母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压关键词：极度舒适、沉浸式体验、母亲节只是五月中的一天而母爱却是岁岁年年、放松解压",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-07/7233006715195624741.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "analysis": {
+      "video_id": "7233006715195624741",
+      "summary": "好兆头小绿瓶围绕“极度舒适”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压。母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压补充信息：母亲节只是五月的一天，母亲的爱却是岁岁年年~空了闲了带妈妈来体验一次碳酸泉头皮护理吧~ #极度舒适 #沉浸式体验 #母亲节只是五月中的一天而母爱却是岁岁年年 #放松解压关键词：极度舒适、沉浸式体验、母亲节只是五月中的一天而母爱却是岁岁年年、放松解压 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "极度舒适为什么总是做不出来结果？",
+        "先把沉浸式体验想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕极度舒适组织标题与开头。",
+        "用沉浸式体验和母亲节只是五月中的一天而母爱却是岁岁年年补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "极度舒适",
+        "沉浸式体验",
+        "母亲节只是五月中的一天而母爱却是岁岁年年"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-07/7233006715195624741.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "last_error": null
+  },
+  "7521716229842226492": {
+    "video_id": "7521716229842226492",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7521716229842226492",
+      "title": "許仙在抖音记录美好生活20250630",
+      "publish_time": "2025-06-30T12:20:00+08:00",
+      "video_url": "https://www.douyin.com/video/7521716229842226492",
+      "cover_url": "",
+      "like_count": 6,
+      "comment_count": 0,
+      "share_count": 1,
+      "collect_count": 0,
+      "description": "許仙在抖音记录美好生活20250630",
+      "text_hint": "許仙在抖音记录美好生活20250630",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/84adcceb-b33a-41d0-b08e-d8e8576d4be1",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7521716229842226492",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-07T12:58:48+08:00",
+    "last_seen_at": "2026-07-07T12:58:48+08:00",
+    "fetch_runs": [
+      "2026-07-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7520656582126325051": {
+    "video_id": "7520656582126325051",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "晓辉博士",
+      "video_id": "7520656582126325051",
+      "title": "AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测",
+      "publish_time": "2025-06-27T23:48:37+08:00",
+      "video_url": "https://www.douyin.com/video/7520656582126325051",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/78dcf24c73979c9152fdebcfab43086a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098756800&x-signature=%2FyQuE09qjlTfBi7qXaQotX89SoQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607071259385DF36790222A92F0DCA3",
+      "like_count": 1847,
+      "comment_count": 83,
+      "share_count": 158,
+      "collect_count": 579,
+      "description": "AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测",
+      "text_hint": "AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测",
+      "topic_tags": [
+        "ai产业落地",
+        "ai应用",
+        "benchmark",
+        "红杉",
+        "ai评测",
+        "AI产业落地",
+        "AI应用",
+        "AI评测"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/dbbb7f5f7231544d0eadf802774ae2bc/6a4cb391/video/tos/cn/tos-cn-ve-15c000-ce/os5roEIvziDuwJASQmKACtOeCeFw9X6E7yFafQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1722&bt=1722&cs=0&ds=4&ft=FYraJC~0BN16UvjVQgieah7usFvg6JUaglcjp&mime_type=video_mp4&qs=0&rc=NjVpNTg4ZDQ8ZjY5N2c0OkBpandta3E5cm5lNDMzbGkzNEBeLTM1YzE2NTAxNDNhLl8uYSMtYmxqMmRrbWNhLS1kLWJzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100o_100w_100B_100x_100z&dy_q=1783400378&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607071259385DF36790222A92F0DCA3&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7520656582126325051.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7520656582126325051.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 423.834,
+      "raw_payload": {
+        "aweme_id": "7520656582126325051",
+        "author_uid": "347089455808523",
+        "sec_uid": "MS4wLjABAAAA4LqLxq7PLK9xEB5PPazcKTG-3oInPFTDwbqiSrRL_mg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4LqLxq7PLK9xEB5PPazcKTG-3oInPFTDwbqiSrRL_mg"
+      }
+    },
+    "first_seen_at": "2026-07-07T12:58:48+08:00",
+    "last_seen_at": "2026-07-07T12:58:48+08:00",
+    "fetch_runs": [
+      "2026-07-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7520656582126325051.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7520656582126325051.mp3",
+      "source": "download",
+      "processed_at": "2026-07-07T13:01:25+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7520656582126325051",
+      "transcript_raw": "AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测补充信息：AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测关键词：ai产业落地、ai应用、benchmark、红杉、ai评测、AI产业落地、AI应用、AI评测",
+      "transcript_clean": "AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测补充信息：AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测关键词：ai产业落地、ai应用、benchmark、红杉、ai评测、AI产业落地、AI应用、AI评测",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-07/7520656582126325051.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "analysis": {
+      "video_id": "7520656582126325051",
+      "summary": "晓辉博士围绕“ai产业落地”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测。AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测补充信息：AI落地产业第一步为什么是从评测开始？ 红杉一个月前发了一篇评估AI Agent在真实产业场景能力的论文，介绍了针对AI实际产业落地能力评估的benchmark。之前一直有个模糊的想法，即评测驱动模型能力的提升，刚好这两天做了一些调研访谈，发现业界落地AI确实都是先从建评测数据集开始的，算是验证了这个想法。接下来，各个场景要不要用AI，以及怎么用AI，都取决于你的评测标准和评测方法，或者换个说法就是你的目标。琢磨这些越来越有意思了。#AI产业落地 #AI应用 #benchmark #红杉 #AI评测关键词：ai产业落地、ai应用、benchmark、红杉、ai评测、AI产业落地、AI应用、AI评测 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "ai产业落地为什么总是做不出来结果？",
+        "先把ai应用想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕ai产业落地组织标题与开头。",
+        "用ai应用和benchmark补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "ai产业落地",
+        "ai应用",
+        "benchmark"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-07/7520656582126325051.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "last_error": null
+  },
+  "7335690217841560866": {
+    "video_id": "7335690217841560866",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "朱葛师傅美食",
+      "video_id": "7335690217841560866",
+      "title": "手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔",
+      "publish_time": "2024-02-15T13:05:35+08:00",
+      "video_url": "https://www.douyin.com/video/7335690217841560866",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/600d4f64501fcdf09b0d427a80c448dc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2098756800&x-signature=%2FCVTpnV3xJ3nFoR%2BhNcmjnzBxFc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260707125942B779DE858FE6D3E84059",
+      "like_count": 351,
+      "comment_count": 24,
+      "share_count": 34,
+      "collect_count": 107,
+      "description": "手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔",
+      "text_hint": "手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔",
+      "topic_tags": [
+        "手撕烤兔培训",
+        "手撕烤兔创始人",
+        "烤兔",
+        "朱葛师傅手撕烤兔"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/419184eff874820a276e84caa6bb81cb/6a4cb2e5/video/tos/cn/tos-cn-ve-0015c800/oAfdQceKBGEfBsI2BjnAIQmJ7iLABCOBLzDDbu/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3354&bt=3354&cs=0&ds=4&ft=FYraJC~0BN16UvjVQKieah7usFvg6JUaglcjp&mime_type=video_mp4&qs=0&rc=Zmc1ZTZoOWhlNmhmOTVpOEBpM3A5ajc6ZjpzcTMzNGkzM0AzMWM2LzNfNTQxMjY2NjE1YSM0cWxscjRvaDNgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100K_100o_100w_100B_100H&dy_q=1783400382&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260707125942B779DE858FE6D3E84059&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7335690217841560866.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7335690217841560866.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 247.92,
+      "raw_payload": {
+        "aweme_id": "7335690217841560866",
+        "author_uid": "3003460665483620",
+        "sec_uid": "MS4wLjABAAAAKYp3mw_mREbmfC4d66VoKGsLoL7OwuaxLD4J-N7mNevc8SVvh2Y-xLNaXyWv44S_",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAKYp3mw_mREbmfC4d66VoKGsLoL7OwuaxLD4J-N7mNevc8SVvh2Y-xLNaXyWv44S_"
+      }
+    },
+    "first_seen_at": "2026-07-07T12:58:48+08:00",
+    "last_seen_at": "2026-07-07T12:58:48+08:00",
+    "fetch_runs": [
+      "2026-07-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7335690217841560866.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7335690217841560866.mp3",
+      "source": "download",
+      "processed_at": "2026-07-07T13:02:44+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7335690217841560866",
+      "transcript_raw": "手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔补充信息：手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔关键词：手撕烤兔培训、手撕烤兔创始人、烤兔、朱葛师傅手撕烤兔",
+      "transcript_clean": "手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔补充信息：手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔关键词：手撕烤兔培训、手撕烤兔创始人、烤兔、朱葛师傅手撕烤兔",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-07/7335690217841560866.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "analysis": {
+      "video_id": "7335690217841560866",
+      "summary": "朱葛师傅美食围绕“手撕烤兔培训”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔。手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔补充信息：手撕烤兔做法及配方，烤兔秘制酱料制作，烤兔腌制配方大全 四川烤兔哪里学习技术，手撕烤兔技术培训学习教程，烤兔商业制作配方，烤兔腌制配方大全，手撕烤兔利润多少分析，烫皮手撕烤兔制作全过程和配方，手撕烤兔做法及配方，烧烤店兔子肉的制作方法，成都炭火生烤手撕烤兔，烧烤全兔配方制作流程，正宗成都手撕烤兔做法，生烤兔肉拌料配方，川味烤兔商业版配方，烤兔的腌制方法配方，烤兔子制作全过程，手撕烤兔教程，麻辣烤兔肉腌制料怎么做，烧烤兔肉秘制烧烤料，手撕烤兔红油酱料制作，朱葛师傅兔肉烧烤店做法，烤兔子要剥皮吗，手撕烤兔秘方绝方#手撕烤兔培训 #手撕烤兔创始人 #烤兔#朱葛师傅手撕烤兔  #烤兔关键词：手撕烤兔培训、手撕烤兔创始人、烤兔、朱葛师傅手撕烤兔 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "手撕烤兔培训为什么总是做不出来结果？",
+        "先把手撕烤兔创始人想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕手撕烤兔培训组织标题与开头。",
+        "用手撕烤兔创始人和烤兔补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "手撕烤兔培训",
+        "手撕烤兔创始人",
+        "烤兔"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-07/7335690217841560866.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "last_error": null
+  },
+  "7261809677099355453": {
+    "video_id": "7261809677099355453",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7261809677099355453",
+      "title": "好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰",
+      "publish_time": "2023-07-31T02:50:00+08:00",
+      "video_url": "https://www.douyin.com/video/7261809677099355453",
+      "cover_url": "",
+      "like_count": 797,
+      "comment_count": 93,
+      "share_count": 269,
+      "collect_count": 239,
+      "description": "好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰",
+      "text_hint": "好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰",
+      "topic_tags": [
+        "未来已来",
+        "阳光玫瑰"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/4e4adcd00bf7d23d2a1228bb2330e0bd/6a4cb310/video/tos/cn/tos-cn-ve-0015c800/owFJ9DM9fApTE7mPAgLQjeEGFeyScDkIBBCXUR/?a=6383&br=2378&bt=2378&btag=c0000e00030000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100D_100J&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1783400398&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=FYraJC~0BN16UvjVQwNeah7usFvg6JUaglcjp&is_ssr=1&l=20260707125957C7A5BBD5390658F377EA&lr=all&mime_type=video_mp4&qs=1&rc=ZWY5O2kzaGk3O2RmNWU6NkBpMzd3cW45cjNsbTMzNGkzM0BjXzAzXl9hNjIxYzZjMV5gYSNmYjJsMmRrMDBgLS1kLS9zcw%3D%3D&req_cdn_type=&__vid=7261809677099355453",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7261809677099355453.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7261809677099355453.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7261809677099355453",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-07T12:58:48+08:00",
+    "last_seen_at": "2026-07-07T12:58:48+08:00",
+    "fetch_runs": [
+      "2026-07-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7261809677099355453.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-07/7261809677099355453.mp3",
+      "source": "download",
+      "processed_at": "2026-07-07T13:03:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7261809677099355453",
+      "transcript_raw": "好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰补充信息：好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰关键词：未来已来、阳光玫瑰",
+      "transcript_clean": "好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰补充信息：好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰关键词：未来已来、阳光玫瑰",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-07/7261809677099355453.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "analysis": {
+      "video_id": "7261809677099355453",
+      "summary": "目标博主 1围绕“未来已来”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰。好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰补充信息：好的阳光玫瑰不仅只表现在果粒和果穗大小上，内在品质越来越重要 #未来已来 #阳光玫瑰关键词：未来已来、阳光玫瑰 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "未来已来为什么总是做不出来结果？",
+        "先把阳光玫瑰想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕未来已来组织标题与开头。",
+        "用阳光玫瑰和#未来已来补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "未来已来",
+        "阳光玫瑰",
+        "#未来已来"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-07/7261809677099355453.json",
+      "processed_at": "2026-07-07T13:06:20+08:00"
+    },
+    "last_error": null
   }
 }
