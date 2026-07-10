@@ -8057,5 +8057,718 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7660285691020334470": {
+    "video_id": "7660285691020334470",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "高考报考生涯规划——付老师",
+      "video_id": "7660285691020334470",
+      "title": "⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书",
+      "publish_time": "2026-07-09T06:20:50+08:00",
+      "video_url": "https://www.douyin.com/video/7660285691020334470",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/ogUBBnhEzIAZebVBkMzkOeBE8AILeCGdUEN7IL~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099016000&x-signature=RM1B7yeIcXcKzr6AASkXDJqu%2FXQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260710125839D7F8E907A8A6D1DF3720",
+      "like_count": 13,
+      "comment_count": 4,
+      "share_count": 14,
+      "collect_count": 11,
+      "description": "⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书",
+      "text_hint": "⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书",
+      "topic_tags": [
+        "真实生活分享计划",
+        "高考录取",
+        "黑龙江录取",
+        "录取",
+        "录取通知书"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/cb88b2c381c6a828ce6223b0ba0a5965/6a50a671/video/tos/cn/tos-cn-ve-15/oMAKkIZNUBK8zehLAGCpxL3nLQkIEEe7WBBeO8/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1257&bt=1257&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wGmIvHhd.1DyJf03-ApQX&mime_type=video_mp4&qs=0&rc=ZzdoZGc3Ozs3Z2ZoOWU5NkBpM3h1amw5cjdmPDMzNGkzM0A1NGMvMGAzX2ExLWJeYV9hYSNyMTFzMmQ0bTRhLS1kLS9zcw%3D%3D&btag=c0000e00028000&cc=1f&cquery=100x_100z_100o_100w_100B&dy_q=1783659519&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260710125839D7F8E907A8A6D1DF3720&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7660285691020334470.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7660285691020334470.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 66.234,
+      "raw_payload": {
+        "aweme_id": "7660285691020334470",
+        "author_uid": "3405647293990314",
+        "sec_uid": "MS4wLjABAAAAp-1RzAnG1IwlVEfa7ql-j09WhAkzChNJSzgBVWpQIS8wZmWlRHI_S9zDKkrI3U9Z",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAp-1RzAnG1IwlVEfa7ql-j09WhAkzChNJSzgBVWpQIS8wZmWlRHI_S9zDKkrI3U9Z"
+      }
+    },
+    "first_seen_at": "2026-07-10T12:58:23+08:00",
+    "last_seen_at": "2026-07-10T12:58:23+08:00",
+    "fetch_runs": [
+      "2026-07-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7660285691020334470.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7660285691020334470.mp3",
+      "source": "download",
+      "processed_at": "2026-07-10T12:59:47+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7660285691020334470",
+      "transcript_raw": "⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书补充信息：⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书关键词：真实生活分享计划、高考录取、黑龙江录取、录取、录取通知书",
+      "transcript_clean": "⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书补充信息：⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书关键词：真实生活分享计划、高考录取、黑龙江录取、录取、录取通知书",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-10/7660285691020334470.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7660285691020334470",
+      "summary": "高考报考生涯规划——付老师围绕“真实生活分享计划”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书。⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书补充信息：⚠️⚠️高考录取结果，如何才能早知道？ #真实生活分享计划 #高考录取 #黑龙江录取#录取 #录取通知书关键词：真实生活分享计划、高考录取、黑龙江录取、录取、录取通知书 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "真实生活分享计划为什么总是做不出来结果？",
+        "先把高考录取想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕真实生活分享计划组织标题与开头。",
+        "用高考录取和黑龙江录取补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "真实生活分享计划",
+        "高考录取",
+        "黑龙江录取"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-10/7660285691020334470.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "last_error": null
+  },
+  "7654951491177876751": {
+    "video_id": "7654951491177876751",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "娱小猫",
+      "video_id": "7654951491177876751",
+      "title": "闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的",
+      "publish_time": "2026-06-24T21:21:34+08:00",
+      "video_url": "https://www.douyin.com/video/7654951491177876751",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f03b54dc8a6c42534b778244cd19154b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099016000&x-signature=LV9biLCNkeJI%2B8Zu2j04q1uieaM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260710125843ED40D01E66D37EA3354F",
+      "like_count": 2527,
+      "comment_count": 36,
+      "share_count": 96,
+      "collect_count": 75,
+      "description": "闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的",
+      "text_hint": "闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的",
+      "topic_tags": [
+        "闫桉夸韩竞德舞蹈是数一数二的"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/861a217edc3342dd56ce14ff85f98b59/6a50a65a/video/tos/cn/tos-cn-ve-15/oE4AFfe7bgd9ByDEQlxiAABC5AOiIJBlq2yR6A/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=814&bt=814&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wM1IvHhd.1DyJf03-ApQX&mime_type=video_mp4&qs=0&rc=N2lkZTM0ODZlZWhkZDk8OUBpanBvc2s5cjN3OzMzNGkzM0AtMGE1MjYvXzExMy1iNjE0YSMva2A1MmRjZnFhLS1kLS9zcw%3D%3D&btag=c0000e00018000&cquery=100H_100K_100o_100w_100B&dy_q=1783659523&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260710125843ED40D01E66D37EA3354F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7654951491177876751.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7654951491177876751.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 39.287,
+      "raw_payload": {
+        "aweme_id": "7654951491177876751",
+        "author_uid": "73158295447",
+        "sec_uid": "MS4wLjABAAAAPLqHhMofohaSQLTfMg4hDbb1Mvh4QT910v5K6IUHbMs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAPLqHhMofohaSQLTfMg4hDbb1Mvh4QT910v5K6IUHbMs"
+      }
+    },
+    "first_seen_at": "2026-07-10T12:58:23+08:00",
+    "last_seen_at": "2026-07-10T12:58:23+08:00",
+    "fetch_runs": [
+      "2026-07-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7654951491177876751.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7654951491177876751.mp3",
+      "source": "download",
+      "processed_at": "2026-07-10T12:59:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7654951491177876751",
+      "transcript_raw": "闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的补充信息：闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的关键词：闫桉夸韩竞德舞蹈是数一数二的",
+      "transcript_clean": "闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的补充信息：闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的关键词：闫桉夸韩竞德舞蹈是数一数二的",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-10/7654951491177876751.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7654951491177876751",
+      "summary": "娱小猫围绕“闫桉夸韩竞德舞蹈是数一数二的”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的。闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的补充信息：闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的关键词：闫桉夸韩竞德舞蹈是数一数二的 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "闫桉夸韩竞德舞蹈是数一数二的为什么总是做不出来结果？",
+        "先把闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的补充信息：闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的关键词：闫桉夸韩竞德舞蹈是数一数二的想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕闫桉夸韩竞德舞蹈是数一数二的组织标题与开头。",
+        "用闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的补充信息：闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的关键词：闫桉夸韩竞德舞蹈是数一数二的和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "闫桉夸韩竞德舞蹈是数一数二的",
+        "闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的补充信息：闫桉疯狂夸夸韩竞德中！#闫桉夸韩竞德舞蹈是数一数二的关键词：闫桉夸韩竞德舞蹈是数一数二的",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-10/7654951491177876751.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "last_error": null
+  },
+  "7234405072761867557": {
+    "video_id": "7234405072761867557",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "宁波奉化方杰四杰手机店",
+      "video_id": "7234405072761867557",
+      "title": "#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办",
+      "publish_time": "2023-05-18T14:26:55+08:00",
+      "video_url": "https://www.douyin.com/video/7234405072761867557",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/9661d8001dbaaad673d9b8fc4163c62b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099016000&x-signature=H50p7WRSLaWL005mg%2FH5jdbRXTU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071012584706A542E3A06C886C17F4",
+      "like_count": 7,
+      "comment_count": 3,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办",
+      "text_hint": "#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办",
+      "topic_tags": [
+        "手机无服务",
+        "红米NOTE12无服务",
+        "手机没有信号",
+        "小米11无服务"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/133e963a1075af2ef89e28517dcdfb2b/6a50a751/video/tos/cn/tos-cn-ve-0015c800/o0LQAqTqD8AA9ZggI9PnNGoecgiwSbkLeAtbB1/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=705&bt=705&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9w31IvHhd.1DyJf03-ApQX&mime_type=video_mp4&qs=0&rc=ZTszOWY5NmZmNDZmOGQ3NEBpamo7NTk6ZjR2azMzNGkzM0BeNDJhXzFeNWExX14xM18tYSNecm9scjRnNmZgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1783659527&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026071012584706A542E3A06C886C17F4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7234405072761867557.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7234405072761867557.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 282.703,
+      "raw_payload": {
+        "aweme_id": "7234405072761867557",
+        "author_uid": "73584579540",
+        "sec_uid": "MS4wLjABAAAA00mMiu3BkE4PBSUWK-E8F9UrHBcOC_-6DpvdROei4Wk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA00mMiu3BkE4PBSUWK-E8F9UrHBcOC_-6DpvdROei4Wk"
+      }
+    },
+    "first_seen_at": "2026-07-10T12:58:23+08:00",
+    "last_seen_at": "2026-07-10T12:58:23+08:00",
+    "fetch_runs": [
+      "2026-07-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7234405072761867557.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7234405072761867557.mp3",
+      "source": "download",
+      "processed_at": "2026-07-10T13:01:23+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7234405072761867557",
+      "transcript_raw": "#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办补充信息：#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办关键词：手机无服务、红米NOTE12无服务、手机没有信号、小米11无服务",
+      "transcript_clean": "#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办补充信息：#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办关键词：手机无服务、红米NOTE12无服务、手机没有信号、小米11无服务",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-10/7234405072761867557.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7234405072761867557",
+      "summary": "宁波奉化方杰四杰手机店围绕“手机无服务”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办。#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办补充信息：#手机无服务 \n#小米11无服务\n#红米NOTE12无服务 #手机没有信号 怎么办关键词：手机无服务、红米NOTE12无服务、手机没有信号、小米11无服务 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "手机无服务为什么总是做不出来结果？",
+        "先把红米NOTE12无服务想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕手机无服务组织标题与开头。",
+        "用红米NOTE12无服务和手机没有信号补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "手机无服务",
+        "红米NOTE12无服务",
+        "手机没有信号"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-10/7234405072761867557.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "last_error": null
+  },
+  "7219522681882905868": {
+    "video_id": "7219522681882905868",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "欧阳姣",
+      "video_id": "7219522681882905868",
+      "title": "欧阳姣 视频 7219522681882905868",
+      "publish_time": "2023-04-08T11:55:21+08:00",
+      "video_url": "https://www.douyin.com/video/7219522681882905868",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/fe00a819d3244eda8fa908820e1225b0_1680926617~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099016000&x-signature=H5jGcWIwAA31yRD7%2BbBor9crhR0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071012585020352EF73B19076A9BBC",
+      "like_count": 2,
+      "comment_count": 0,
+      "share_count": 3,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0c459a6ac9f5d41c4fc8e5a8f5436137/6a50a703/video/tos/cn/tos-cn-ve-0015c800/ogBweHZ1yIDGA4AC5BGf2ILhE3zQ2uA5UgN8gg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=279&bt=279&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wA1IvHhd.1DyJf03-ApQX&mime_type=video_mp4&qs=0&rc=aThlZjppNzU3NzlkO2loaEBpajR5OzU6ZmRoajMzNGkzM0BfNmIxLTI1NjExLV81NV9gYSNgZjNvcjQwX2xgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100N&dy_q=1783659530&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026071012585020352EF73B19076A9BBC",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7219522681882905868.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7219522681882905868.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 201.48,
+      "raw_payload": {
+        "aweme_id": "7219522681882905868",
+        "author_uid": "1780847013271416",
+        "sec_uid": "MS4wLjABAAAACH9WY_C2zfxuDANPtJ57CodPkV5xnfkCsiNXn9eC607nBx8V6XaaekUkAhG6i7bD",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACH9WY_C2zfxuDANPtJ57CodPkV5xnfkCsiNXn9eC607nBx8V6XaaekUkAhG6i7bD"
+      }
+    },
+    "first_seen_at": "2026-07-10T12:58:23+08:00",
+    "last_seen_at": "2026-07-10T12:58:23+08:00",
+    "fetch_runs": [
+      "2026-07-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7219522681882905868.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7219522681882905868.mp3",
+      "source": "download",
+      "processed_at": "2026-07-10T13:01:29+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7219522681882905868",
+      "transcript_raw": "欧阳姣 视频 7219522681882905868",
+      "transcript_clean": "欧阳姣 视频 7219522681882905868",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-10/7219522681882905868.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7219522681882905868",
+      "summary": "欧阳姣围绕“欧阳姣”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "欧阳姣 视频 7219522681882905868。欧阳姣 视频 7219522681882905868 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "欧阳姣为什么总是做不出来结果？",
+        "先把视频想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕欧阳姣组织标题与开头。",
+        "用视频和7219522681882905868补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "欧阳姣",
+        "视频",
+        "7219522681882905868"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-10/7219522681882905868.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "last_error": null
+  },
+  "7582900439281126675": {
+    "video_id": "7582900439281126675",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7582900439281126675",
+      "title": "刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物",
+      "publish_time": "2025-12-12T09:26:00+08:00",
+      "video_url": "https://www.douyin.com/video/7582900439281126675",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物",
+      "text_hint": "刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物",
+      "topic_tags": [
+        "围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看",
+        "儿童围巾",
+        "面料舒适柔软",
+        "母婴好物"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6706c0f5306e8fb1fcc8e07c1aefea66/6a50a719/video/tos/cn/tos-cn-v-c9e10a/oMgRdEhZ710BPaKzjVi3AinkcgGBRQ2mrIfwqn/?a=6383&br=3852&bt=3852&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_102v_102u&cr=3&cs=0&dr=0&ds=4&dy_q=1783659546&feature_id=b1cb202f98cf51d95e455ae01e100ce9&ft=CZdgCYlIDyjNMRVQ9wr1IvHhd.1DyJf03-ApQX&is_ssr=1&l=20260710125906AD83BEF14D9AB45E495C&lr=all&mime_type=video_mp4&qs=0&rc=NWRnNWRkNmk2aGk6Ozo8ZkBpandweXA5cmx3NzMzNDYzM0BjMV5hXy0xNS4xYTViMGEvYSNtbGEzMmRjc3FhLS1kMDBzcw%3D%3D&__vid=7582900439281126675",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7582900439281126675.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7582900439281126675.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7582900439281126675",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-10T12:58:23+08:00",
+    "last_seen_at": "2026-07-10T12:58:23+08:00",
+    "fetch_runs": [
+      "2026-07-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7582900439281126675.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7582900439281126675.mp3",
+      "source": "download",
+      "processed_at": "2026-07-10T13:00:35+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7582900439281126675",
+      "transcript_raw": "刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物补充信息：刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物关键词：围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看、儿童围巾、面料舒适柔软、母婴好物",
+      "transcript_clean": "刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物补充信息：刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物关键词：围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看、儿童围巾、面料舒适柔软、母婴好物",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-10/7582900439281126675.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7582900439281126675",
+      "summary": "知雪围绕“围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物。刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物补充信息：刷到一眼就爱上的#围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看#儿童围巾#面料舒适柔软#母婴好物关键词：围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看、儿童围巾、面料舒适柔软、母婴好物 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看为什么总是做不出来结果？",
+        "先把儿童围巾想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看组织标题与开头。",
+        "用儿童围巾和面料舒适柔软补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "围脖，可可爱爱的款式，天冷了就给宝宝带这个，真的保暖又好看",
+        "儿童围巾",
+        "面料舒适柔软"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-10/7582900439281126675.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "last_error": null
+  },
+  "7387193292385029402": {
+    "video_id": "7387193292385029402",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "木拉力",
+      "video_id": "7387193292385029402",
+      "title": "白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥",
+      "publish_time": "2024-07-03T08:03:07+08:00",
+      "video_url": "https://www.douyin.com/video/7387193292385029402",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oAESEzBALBk3Gger3LIACiiAplBDTQAoXfUSTN~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099016000&x-signature=hqZMj8seuzLJA5bYZ2Oeyhcae%2Bg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607101259140F7BA86A94F484DFA538",
+      "like_count": 428,
+      "comment_count": 65,
+      "share_count": 48,
+      "collect_count": 56,
+      "description": "白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥",
+      "text_hint": "白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/71a822ec875db40c39e1d41d02fb956b/6a50a741/video/tos/cn/tos-cn-ve-0015c800/oE5s4SDeMRIfQf6lAFWCas7LNC8QNnBgQkAsBC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1432&bt=1432&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w~1IvHhd.1DyJf03-ApQX&mime_type=video_mp4&qs=0&rc=NGllZGQ2NTxmNjY4PDQ5OEBpM21mdHE5cjw8dDMzNGkzM0A0LS01Ly8yNl8xNGIyYy5gYSNeL21fMmRjNi9gLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1783659554&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607101259140F7BA86A94F484DFA538",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7387193292385029402.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7387193292385029402.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 239.954,
+      "raw_payload": {
+        "aweme_id": "7387193292385029402",
+        "author_uid": "1869639387972781",
+        "sec_uid": "MS4wLjABAAAAVMwVZtk-Q6Rell7G-006JG9l-QMYYaEZ_2lEtbi3qineubBY6CJhxXKyc_daCCEK",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAVMwVZtk-Q6Rell7G-006JG9l-QMYYaEZ_2lEtbi3qineubBY6CJhxXKyc_daCCEK"
+      }
+    },
+    "first_seen_at": "2026-07-10T12:58:23+08:00",
+    "last_seen_at": "2026-07-10T12:58:23+08:00",
+    "fetch_runs": [
+      "2026-07-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7387193292385029402.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7387193292385029402.mp3",
+      "source": "download",
+      "processed_at": "2026-07-10T13:01:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7387193292385029402",
+      "transcript_raw": "白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥补充信息：白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥",
+      "transcript_clean": "白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥补充信息：白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-10/7387193292385029402.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7387193292385029402",
+      "summary": "木拉力围绕“📝每日日记：养成早上起床后记日记的习惯”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥。白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥补充信息：白珍珠套装，内含：每日日记，水杯，梦想板，笔和能量贴纸，价格399￥\n📝每日日记：养成早上起床后记日记的习惯！\n🥤水杯：养成每天早上喝水的喜欢！\n🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前！\n🖊笔：用笔写，用心记！\n🔖能量贴纸：每天让自己充满正能量 \n凡是购买白珍珠套装的客户，可享受优惠价格，并可以免费参加我亲自带领的为期21天的（与黎明同起）课程！ \n名额有限，请到主页添加微信，加入我们的课程♥ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "📝每日日记：养成早上起床后记日记的习惯为什么总是做不出来结果？",
+        "先把🥤水杯：养成每天早上喝水的喜欢想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕📝每日日记：养成早上起床后记日记的习惯组织标题与开头。",
+        "用🥤水杯：养成每天早上喝水的喜欢和🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "📝每日日记：养成早上起床后记日记的习惯",
+        "🥤水杯：养成每天早上喝水的喜欢",
+        "🗺梦想板：明确自己的目标，清楚自己的的梦想，已肉眼可见的形式成效在自己的眼前"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-10/7387193292385029402.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "last_error": null
+  },
+  "7132772117342457118": {
+    "video_id": "7132772117342457118",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "阿徐笑长茅台鼎鼎陈",
+      "video_id": "7132772117342457118",
+      "title": "江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒",
+      "publish_time": "2022-08-17T17:18:52+08:00",
+      "video_url": "https://www.douyin.com/video/7132772117342457118",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8eeaf339492be40ce3fab2a6c6ec51e5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099016000&x-signature=fBRqQa%2FwPO4f67UJNIStR2PRw3k%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071012591731AA881FDC68B7F49DCD",
+      "like_count": 709,
+      "comment_count": 44,
+      "share_count": 32,
+      "collect_count": 74,
+      "description": "江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒",
+      "text_hint": "江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒",
+      "topic_tags": [
+        "酒文化",
+        "茅台投资",
+        "茅台酒",
+        "老酒藏家",
+        "收藏爱好者",
+        "酱香型白酒",
+        "老酒收藏鉴定",
+        "陈年老酒"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e19192e82d2c0c0b5619f4d74b82dc7d/6a50a85b/video/tos/cn/tos-cn-ve-0015c800/bc80714c1cbe4dd4b0d7c9adeadd2c44/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1128&bt=1128&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9ws1IvHhd.1DyJf03-ApQX&mime_type=video_mp4&qs=0&rc=ODdoN2hkMzczOmY8N2lkaEBpanZoajk6ZnBkZTMzNGkzM0BfXjJjMl8xXl8xNC8vNGBhYSMxbWQwcjRvcnJgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1783659557&l=2026071012591731AA881FDC68B7F49DCD",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7132772117342457118.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7132772117342457118.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 518.919,
+      "raw_payload": {
+        "aweme_id": "7132772117342457118",
+        "author_uid": "108840954262",
+        "sec_uid": "MS4wLjABAAAAnNU_cQ39710_zcSC_Xa-4T42lAUJV0AXwzd_U8pMKbY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAnNU_cQ39710_zcSC_Xa-4T42lAUJV0AXwzd_U8pMKbY"
+      }
+    },
+    "first_seen_at": "2026-07-10T12:58:23+08:00",
+    "last_seen_at": "2026-07-10T12:58:23+08:00",
+    "fetch_runs": [
+      "2026-07-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7132772117342457118.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7132772117342457118.mp3",
+      "source": "download",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7132772117342457118",
+      "transcript_raw": "江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒补充信息：江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒关键词：酒文化、茅台投资、茅台酒、老酒藏家、收藏爱好者、酱香型白酒、老酒收藏鉴定、陈年老酒",
+      "transcript_clean": "江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒补充信息：江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒关键词：酒文化、茅台投资、茅台酒、老酒藏家、收藏爱好者、酱香型白酒、老酒收藏鉴定、陈年老酒",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-10/7132772117342457118.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7132772117342457118",
+      "summary": "阿徐笑长茅台鼎鼎陈围绕“酒文化”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒。江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒补充信息：江湖传闻茅台的7个等级是真的吗？#酒文化 #茅台投资 #茅台酒 #老酒藏家 #收藏爱好者 #酱香型白酒 #老酒收藏鉴定 #陈年老酒关键词：酒文化、茅台投资、茅台酒、老酒藏家、收藏爱好者、酱香型白酒、老酒收藏鉴定、陈年老酒 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "酒文化为什么总是做不出来结果？",
+        "先把茅台投资想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕酒文化组织标题与开头。",
+        "用茅台投资和茅台酒补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "酒文化",
+        "茅台投资",
+        "茅台酒"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-10/7132772117342457118.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "last_error": null
+  },
+  "7526522372737961231": {
+    "video_id": "7526522372737961231",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7526522372737961231",
+      "title": "一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底",
+      "publish_time": "2025-07-13T11:10:00+08:00",
+      "video_url": "https://www.douyin.com/video/7526522372737961231",
+      "cover_url": "",
+      "like_count": 141,
+      "comment_count": 21,
+      "share_count": 93,
+      "collect_count": 68,
+      "description": "一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底",
+      "text_hint": "一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底",
+      "topic_tags": [
+        "新家装修",
+        "理想家",
+        "装修风格",
+        "家居生活",
+        "一镜到底"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/c5d48435f4a6c45e79a81b32b9541d54/6a50a71a/video/tos/cn/tos-cn-ve-15/okAAAc5D5EA54SoazrYKlfQd4gEeVBDyoIn9XF/?a=6383&br=829&bt=829&btag=c0000e00028000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1783659573&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wy1IvHhd.1DyJf03-ApQX&is_ssr=1&l=20260710125932BFBE6C48A3F42975F8C9&lr=all&mime_type=video_mp4&qs=12&rc=NTk0N2dnOWQ1Z2k3OTNmO0BpM3J5cHg5cmhzNDMzNGkzM0BhMzBhYi1hNTExLzU0Ml4xYSNwNGheMmRjMm1hLS1kLTBzcw%3D%3D&req_cdn_type=&__vid=7526522372737961231",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7526522372737961231.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7526522372737961231.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7526522372737961231",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-10T12:58:23+08:00",
+    "last_seen_at": "2026-07-10T12:58:23+08:00",
+    "fetch_runs": [
+      "2026-07-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7526522372737961231.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-10/7526522372737961231.mp3",
+      "source": "download",
+      "processed_at": "2026-07-10T13:00:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7526522372737961231",
+      "transcript_raw": "一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底补充信息：一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底关键词：新家装修、理想家、装修风格、家居生活、一镜到底",
+      "transcript_clean": "一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底补充信息：一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底关键词：新家装修、理想家、装修风格、家居生活、一镜到底",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-10/7526522372737961231.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7526522372737961231",
+      "summary": "知雪围绕“新家装修”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底。一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底补充信息：一镜到底✨中古奶油风的家 欢迎参观你190平米的家 五房两厅两卫 落地60w #新家装修 #理想家 #装修风格 #家居生活 #一镜到底关键词：新家装修、理想家、装修风格、家居生活、一镜到底 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新家装修为什么总是做不出来结果？",
+        "先把理想家想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新家装修组织标题与开头。",
+        "用理想家和装修风格补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新家装修",
+        "理想家",
+        "装修风格"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-10/7526522372737961231.json",
+      "processed_at": "2026-07-10T13:02:08+08:00"
+    },
+    "last_error": null
   }
 }
