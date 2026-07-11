@@ -8770,5 +8770,542 @@
       "processed_at": "2026-07-10T13:02:08+08:00"
     },
     "last_error": null
+  },
+  "7630070026988539182": {
+    "video_id": "7630070026988539182",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "盛梦珂 Kerr",
+      "video_id": "7630070026988539182",
+      "title": "拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点",
+      "publish_time": "2026-04-19T07:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7630070026988539182",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/067814014802054e0a2521d241198000~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099102400&x-signature=Owvao801Nnr68TqaUq%2BWu8ExUew%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607111218281DABB805F886812A4593",
+      "like_count": 35138,
+      "comment_count": 2175,
+      "share_count": 4526,
+      "collect_count": 3230,
+      "description": "拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点",
+      "text_hint": "拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点",
+      "topic_tags": [
+        "早安",
+        "拜祖大典",
+        "三月三",
+        "河南",
+        "热点"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ed0b076d931e76425751753f325f44b7/6a51ee6b/video/tos/cn/tos-cn-ve-15/oMNBCRHvDkM0iAA4I0cjeGVBgiBACNQX6YeyEz/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=584&bt=584&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9w1PCvHhd.PWjbC73-ApQX&mime_type=video_mp4&qs=0&rc=NWU4MzQ5NGg1ZDM0ZGU4NUBpam80OHI5cjpxOjMzNGkzM0AuLmIyNV4xXmAxMl8uNDIvYSNlL29xMmRrNWVhLS1kLS9zcw%3D%3D&btag=80000e00018000&cquery=100K_100o_100w_100B_100H&dy_q=1783743508&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=202607111218281DABB805F886812A4593",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7630070026988539182.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7630070026988539182.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 39.2,
+      "raw_payload": {
+        "aweme_id": "7630070026988539182",
+        "author_uid": "59248620411",
+        "sec_uid": "MS4wLjABAAAA1UKBlMa54cKHwjt042DlkBha5qdNeqJS3CduATqimQY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA1UKBlMa54cKHwjt042DlkBha5qdNeqJS3CduATqimQY"
+      }
+    },
+    "first_seen_at": "2026-07-11T12:18:16+08:00",
+    "last_seen_at": "2026-07-11T12:18:16+08:00",
+    "fetch_runs": [
+      "2026-07-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7630070026988539182.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7630070026988539182.mp3",
+      "source": "download",
+      "processed_at": "2026-07-11T12:19:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7630070026988539182",
+      "transcript_raw": "拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点补充信息：拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点关键词：早安、拜祖大典、三月三、河南、热点",
+      "transcript_clean": "拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点补充信息：拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点关键词：早安、拜祖大典、三月三、河南、热点",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-11/7630070026988539182.json",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7630070026988539182",
+      "summary": "盛梦珂 Kerr围绕“早安”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点。拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点补充信息：拜祖大典｜三月三拜轩辕，华夏儿女共此源 #早安 #拜祖大典 #三月三 #河南 #热点关键词：早安、拜祖大典、三月三、河南、热点 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "早安为什么总是做不出来结果？",
+        "先把拜祖大典想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕早安组织标题与开头。",
+        "用拜祖大典和三月三补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "早安",
+        "拜祖大典",
+        "三月三"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-11/7630070026988539182.json",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "last_error": null
+  },
+  "7224443870745021735": {
+    "video_id": "7224443870745021735",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "武姥姥",
+      "video_id": "7224443870745021735",
+      "title": "60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装",
+      "publish_time": "2023-04-21T18:12:32+08:00",
+      "video_url": "https://www.douyin.com/video/7224443870745021735",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/89433dfbf466a9ee01498956c8d81f13~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099102400&x-signature=vxlw2rAjtTNi5SYG3B5yRM%2BWVWQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071112183097E78409170ACCF6399E",
+      "like_count": 2819,
+      "comment_count": 359,
+      "share_count": 182,
+      "collect_count": 177,
+      "description": "60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装",
+      "text_hint": "60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/629b753c9d04f68927fe937ff62b71da/6a51efec/video/tos/cn/tos-cn-ve-0015c800/oEhn04zIIfADErBIMRhDtZAjADTSNe2CysilgG/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1939&bt=1939&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wOPCvHhd.PWjbC73-ApQX&mime_type=video_mp4&qs=0&rc=PDo6ZzU8aDRpMzU1Njo8ZUBpMzl0dTY6Zjc5azMzNGkzM0AtY15eMjUvNTMxMDJjMTVgYSMzYjNkcjQwMC5gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100D_100J&dy_q=1783743511&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026071112183097E78409170ACCF6399E",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7224443870745021735.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7224443870745021735.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 421.21,
+      "raw_payload": {
+        "aweme_id": "7224443870745021735",
+        "author_uid": "2084309858263176",
+        "sec_uid": "MS4wLjABAAAAkZvT2v9kWWExmemHT7cYj8H7KeCF8fvugs34rjgbp1aWaciqle5za4s5i33tQArL",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAkZvT2v9kWWExmemHT7cYj8H7KeCF8fvugs34rjgbp1aWaciqle5za4s5i33tQArL"
+      }
+    },
+    "first_seen_at": "2026-07-11T12:18:16+08:00",
+    "last_seen_at": "2026-07-11T12:18:16+08:00",
+    "fetch_runs": [
+      "2026-07-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7224443870745021735.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7224443870745021735.mp3",
+      "source": "download",
+      "processed_at": "2026-07-11T12:24:18+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7224443870745021735",
+      "transcript_raw": "60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装补充信息：60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装",
+      "transcript_clean": "60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装补充信息：60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-11/7224443870745021735.json",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7224443870745021735",
+      "summary": "武姥姥围绕“60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装补充信息：60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装。60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装补充信息：60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装补充信息：60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装补充信息：60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装补充信息：60岁到70岁的老太太，专穿20岁至40岁年轻人穿的服装",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-11/7224443870745021735.json",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "last_error": null
+  },
+  "7219161452882529573": {
+    "video_id": "7219161452882529573",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "歪瑞古德",
+      "video_id": "7219161452882529573",
+      "title": "什么是DNA的三级结构？DNA是如何压缩包装成染色体的？",
+      "publish_time": "2023-04-07T12:34:01+08:00",
+      "video_url": "https://www.douyin.com/video/7219161452882529573",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/79c6d2b626e7206dd065785abb8e2b78~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099102400&x-signature=JnIu%2B3XBFX7xIbxrttcMAItpSx4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260711121834913DFB2A5490896627A6",
+      "like_count": 31,
+      "comment_count": 1,
+      "share_count": 15,
+      "collect_count": 35,
+      "description": "什么是DNA的三级结构？DNA是如何压缩包装成染色体的？",
+      "text_hint": "什么是DNA的三级结构？DNA是如何压缩包装成染色体的？",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/61770861e712c4f665e69488f553fc50/6a51efed/video/tos/cn/tos-cn-ve-15c001-alinc2/ogeB6fAzQ0ctYMFhty4OAUCvkmIAE8T5z8n5hg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1184&bt=1184&cs=0&ds=3&ft=CZdgCYlIDyjNxIVQ9wrPCvHhd.PWjbC73-ApQX&mime_type=video_mp4&qs=0&rc=NTQ1NzhpPDQ5Zmg2ZjY5NkBpM3M4d2Y6ZmhzajMzNGkzM0A0LjMvYy9fNTMxMDRfMTY0YSNeNDRkcjRfbmtgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100B_100D_100J_100o_100w&dy_q=1783743514&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260711121834913DFB2A5490896627A6",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7219161452882529573.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7219161452882529573.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 419.167,
+      "raw_payload": {
+        "aweme_id": "7219161452882529573",
+        "author_uid": "111055732826",
+        "sec_uid": "MS4wLjABAAAAPdd5CHT3cyG4ccIZbq2HUK4Sp5JR2hbQbcXZJIC1KwY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAPdd5CHT3cyG4ccIZbq2HUK4Sp5JR2hbQbcXZJIC1KwY"
+      }
+    },
+    "first_seen_at": "2026-07-11T12:18:16+08:00",
+    "last_seen_at": "2026-07-11T12:18:16+08:00",
+    "fetch_runs": [
+      "2026-07-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7219161452882529573.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7219161452882529573.mp3",
+      "source": "download",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7219161452882529573",
+      "transcript_raw": "什么是DNA的三级结构？DNA是如何压缩包装成染色体的？什么是DNA的三级结构？DNA是如何压缩包装成染色体的？补充信息：什么是DNA的三级结构？DNA是如何压缩包装成染色体的？",
+      "transcript_clean": "什么是DNA的三级结构？DNA是如何压缩包装成染色体的？什么是DNA的三级结构？DNA是如何压缩包装成染色体的？补充信息：什么是DNA的三级结构？DNA是如何压缩包装成染色体的？",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-11/7219161452882529573.json",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7219161452882529573",
+      "summary": "歪瑞古德围绕“什么是DNA的三级结构？DNA是如何压缩包装成染色体的？什么是DNA的三级结构？DNA是如何压缩包装成染色体的？补充信息：什么是DNA的三级结构？DNA是如何压缩包装成染色体的”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "什么是DNA的三级结构？DNA是如何压缩包装成染色体的？。什么是DNA的三级结构？DNA是如何压缩包装成染色体的？什么是DNA的三级结构？DNA是如何压缩包装成染色体的？补充信息：什么是DNA的三级结构？DNA是如何压缩包装成染色体的？ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "什么是DNA的三级结构？DNA是如何压缩包装成染色体的？什么是DNA的三级结构？DNA是如何压缩包装成染色体的？补充信息：什么是DNA的三级结构？DNA是如何压缩包装成染色体的为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕什么是DNA的三级结构？DNA是如何压缩包装成染色体的？什么是DNA的三级结构？DNA是如何压缩包装成染色体的？补充信息：什么是DNA的三级结构？DNA是如何压缩包装成染色体的组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "什么是DNA的三级结构？DNA是如何压缩包装成染色体的？什么是DNA的三级结构？DNA是如何压缩包装成染色体的？补充信息：什么是DNA的三级结构？DNA是如何压缩包装成染色体的",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-11/7219161452882529573.json",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "last_error": null
+  },
+  "7572736434633805106": {
+    "video_id": "7572736434633805106",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7572736434633805106",
+      "title": "新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用",
+      "publish_time": "2025-11-15T00:05:00+08:00",
+      "video_url": "https://www.douyin.com/video/7572736434633805106",
+      "cover_url": "",
+      "like_count": 29,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 30,
+      "description": "新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用",
+      "text_hint": "新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用",
+      "topic_tags": [
+        "冬季好物",
+        "方向盘套",
+        "汽车用品",
+        "毛绒保暖",
+        "多车型适用"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7cf8d95dc0ba1d74b730220334683d28/6a51ef5b/video/tos/cn/tos-cn-ve-15/oAAQXF3lOF5CDxCt9fxB89AegCE8AcxEapp0I4/?a=6383&br=1458&bt=1458&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100H_100K_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1783743530&feature_id=fea919893f650a8c49286568590446ef&ft=CZdgCYlIDyjNxIVQ9w7PCvHhd.PWjbC73-ApQX&is_ssr=1&l=202607111218499028082532C9C02F9837&lr=all&mime_type=video_mp4&qs=0&rc=PGQ8N2c4ZjY0NTVoZWk0ZEBpM3Rtdng5cjx2NzMzNGkzM0BiLzUvLjA2X2MxMWFeXzQvYSNwYmJwMmRjNF9hLS1kLS9zcw%3D%3D&__vid=7572736434633805106",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7572736434633805106.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7572736434633805106.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7572736434633805106",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-11T12:18:16+08:00",
+    "last_seen_at": "2026-07-11T12:18:16+08:00",
+    "fetch_runs": [
+      "2026-07-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7572736434633805106.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7572736434633805106.mp3",
+      "source": "download",
+      "processed_at": "2026-07-11T12:19:34+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7572736434633805106",
+      "transcript_raw": "新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用补充信息：新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用关键词：冬季好物、方向盘套、汽车用品、毛绒保暖、多车型适用",
+      "transcript_clean": "新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用补充信息：新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用关键词：冬季好物、方向盘套、汽车用品、毛绒保暖、多车型适用",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-11/7572736434633805106.json",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7572736434633805106",
+      "summary": "知雪围绕“冬季好物”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用。新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用补充信息：新款冬季保暖毛绒方向盘套适用于丰田本田大众宝马奔驰奥迪车把套#冬季好物 #方向盘套 #汽车用品 #毛绒保暖 #多车型适用关键词：冬季好物、方向盘套、汽车用品、毛绒保暖、多车型适用 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "冬季好物为什么总是做不出来结果？",
+        "先把方向盘套想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕冬季好物组织标题与开头。",
+        "用方向盘套和汽车用品补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "冬季好物",
+        "方向盘套",
+        "汽车用品"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-11/7572736434633805106.json",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "last_error": null
+  },
+  "7509651342462405928": {
+    "video_id": "7509651342462405928",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "快工厂-黄启哲",
+      "video_id": "7509651342462405928",
+      "title": "中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲",
+      "publish_time": "2025-05-29T08:08:37+08:00",
+      "video_url": "https://www.douyin.com/video/7509651342462405928",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1883e59b95b3f5b57e9d591ca39c1da9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099102400&x-signature=KJNptXIQx0a0hSY1L5eq5k8tB4s%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607111218570458EFEAC473125EBD81",
+      "like_count": 1784,
+      "comment_count": 235,
+      "share_count": 452,
+      "collect_count": 1378,
+      "description": "中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲",
+      "text_hint": "中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲",
+      "topic_tags": [
+        "ERP",
+        "工厂管理软件",
+        "精益生产落地辅导",
+        "快工厂",
+        "黄启哲"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a872b97917af9ca7696a1ed5c6ca25f2/6a51f015/video/tos/cn/tos-cn-ve-15/ok9heApkAnpIUizoC6CFETvNQBmfIy7w1gD0AF/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1676&bt=1676&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9w2PCvHhd.PWjbC73-ApQX&mime_type=video_mp4&qs=0&rc=NzdpaDNlZTNnNGY6OjNkZUBpamQ8Zm05cnR0MzMzNGkzM0BgNjQ1LTAtXi0xNGBiLS0uYSMtY25lMmRjNm9hLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100H_100K_100o_100w_100B&dy_q=1783743537&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607111218570458EFEAC473125EBD81",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7509651342462405928.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7509651342462405928.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 436.537,
+      "raw_payload": {
+        "aweme_id": "7509651342462405928",
+        "author_uid": "64503949269",
+        "sec_uid": "MS4wLjABAAAAA-aiT5qxc35Tdq9OV0PKzqopHj7s7dYHmheyB5n5qXE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAA-aiT5qxc35Tdq9OV0PKzqopHj7s7dYHmheyB5n5qXE"
+      }
+    },
+    "first_seen_at": "2026-07-11T12:18:16+08:00",
+    "last_seen_at": "2026-07-11T12:18:16+08:00",
+    "fetch_runs": [
+      "2026-07-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7509651342462405928.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-11/7509651342462405928.mp3",
+      "source": "download",
+      "processed_at": "2026-07-11T12:22:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7509651342462405928",
+      "transcript_raw": "中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲补充信息：中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲关键词：ERP、工厂管理软件、精益生产落地辅导、快工厂、黄启哲",
+      "transcript_clean": "中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲补充信息：中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲关键词：ERP、工厂管理软件、精益生产落地辅导、快工厂、黄启哲",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-11/7509651342462405928.json",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7509651342462405928",
+      "summary": "快工厂-黄启哲围绕“ERP”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲。中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲补充信息：中国中小型工厂要不要上ERP？工厂如何选择上ERP软件？ #ERP #工厂管理软件 #精益生产落地辅导 #快工厂 #黄启哲关键词：ERP、工厂管理软件、精益生产落地辅导、快工厂、黄启哲 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "ERP为什么总是做不出来结果？",
+        "先把工厂管理软件想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕ERP组织标题与开头。",
+        "用工厂管理软件和精益生产落地辅导补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "ERP",
+        "工厂管理软件",
+        "精益生产落地辅导"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-11/7509651342462405928.json",
+      "processed_at": "2026-07-11T12:24:52+08:00"
+    },
+    "last_error": null
+  },
+  "7538239768153312512": {
+    "video_id": "7538239768153312512",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "陳單車",
+      "video_id": "7538239768153312512",
+      "title": "六七八寸墨水屏怎么选，重量尺寸便携性深度解析 #墨水屏 #护眼 #阅读器",
+      "publish_time": "2025-08-14T09:00:28+08:00",
+      "video_url": "https://www.douyin.com/video/7538239768153312512",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c7cb6f0c67ac2e88dccb8b77b4bfd524~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099102400&x-signature=WUmeVVhm67coL9MRJyQJtSp6kCw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607111219007446F60CFCCB6A69AB0F",
+      "like_count": 449,
+      "comment_count": 40,
+      "share_count": 42,
+      "collect_count": 145,
+      "description": "六七八寸墨水屏怎么选，重量尺寸便携性深度解析 #墨水屏 #护眼 #阅读器",
+      "text_hint": "六七八寸墨水屏怎么选，重量尺寸便携性深度解析 #墨水屏 #护眼 #阅读器",
+      "topic_tags": [
+        "墨水屏",
+        "护眼",
+        "阅读器"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/051d2bf4df299d15023f29f571455be0/6a51ef38/video/tos/cn/tos-cn-ve-15/oUAg1daLAMQAT4No9vgBAIvqfEIaQgF6Gc7nfD/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1139&bt=1139&cs=0&ds=3&ft=CZdgCYlIDyjNxIVQ9w6PCvHhd.PWjbC73-ApQX&mime_type=video_mp4&qs=0&rc=Z2g6ZGc1ZGVkNzs4Nzc7OkBpM2h4OXY5cjVtNTMzNGkzM0BhMTQ0MjVeNjUxLzQuNS4yYSNsNWowMmRzNWJhLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100H_100K_100o_100w_100B&dy_q=1783743540&feature_id=fea919893f650a8c49286568590446ef&l=202607111219007446F60CFCCB6A69AB0F",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 212.371,
+      "raw_payload": {
+        "aweme_id": "7538239768153312512",
+        "author_uid": "74623948402",
+        "sec_uid": "MS4wLjABAAAASFXB4I3gAylMns65I7T6Nl-SiE7bU16MDvZaWUwlFu4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAASFXB4I3gAylMns65I7T6Nl-SiE7bU16MDvZaWUwlFu4"
+      }
+    },
+    "first_seen_at": "2026-07-11T12:18:16+08:00",
+    "last_seen_at": "2026-07-11T12:18:16+08:00",
+    "fetch_runs": [
+      "2026-07-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "The read operation timed out"
+  },
+  "7272312105976581434": {
+    "video_id": "7272312105976581434",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7272312105976581434",
+      "title": "卡车底盘七扭八歪如何校正，看看巴铁师傅维修技术，坚决不换件 #汽车维修 #卡车维修 #底盘校正",
+      "publish_time": "2023-08-28T10:05:00+08:00",
+      "video_url": "https://www.douyin.com/video/7272312105976581434",
+      "cover_url": "",
+      "like_count": 1228,
+      "comment_count": 34,
+      "share_count": 132,
+      "collect_count": 57,
+      "description": "卡车底盘七扭八歪如何校正，看看巴铁师傅维修技术，坚决不换件 #汽车维修 #卡车维修 #底盘校正",
+      "text_hint": "卡车底盘七扭八歪如何校正，看看巴铁师傅维修技术，坚决不换件 #汽车维修 #卡车维修 #底盘校正",
+      "topic_tags": [
+        "汽车维修",
+        "卡车维修",
+        "底盘校正"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/4cf71474e332f355254d958810d016c0/6a51f002/video/tos/cn/tos-cn-ve-0015c800/o0f9K6FEgIPSA3sBO7JBYGzC2RNGEBUeAAnLf7/?a=6383&br=1870&bt=1870&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100J_100o_100w_100B_100D&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1783743556&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNxIVQ9wivCvHhd.PWjbC73-ApQX&is_ssr=1&l=20260711121916E22326D3AECDD2ECA5A3&lr=all&mime_type=video_mp4&qs=12&rc=aDtmODxkNWg2ZDo1aDtkN0Bpam1sdng5cnE6bTMzNGkzM0AwYjIuXi1eNjAxYDI2YmBgYSNsLWBoMmRrL2pgLS1kLS9zcw%3D%3D&__vid=7272312105976581434",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7272312105976581434",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-11T12:18:16+08:00",
+    "last_seen_at": "2026-07-11T12:18:16+08:00",
+    "fetch_runs": [
+      "2026-07-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "The read operation timed out"
   }
 }
