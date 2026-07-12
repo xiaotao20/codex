@@ -9307,5 +9307,718 @@
     "transcript": null,
     "analysis": null,
     "last_error": "The read operation timed out"
+  },
+  "7661190240949783827": {
+    "video_id": "7661190240949783827",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "盛老师聊升学（辽宁）",
+      "video_id": "7661190240949783827",
+      "title": "26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳",
+      "publish_time": "2026-07-11T18:51:00+08:00",
+      "video_url": "https://www.douyin.com/video/7661190240949783827",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/6286e6b397d64cbb8caba355d51e0e69~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099188800&x-signature=C9xIH7MLUJmm25qoxjNL%2B%2F7mVl0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607121230153A46EB396A878B226B33",
+      "like_count": 19,
+      "comment_count": 1,
+      "share_count": 2,
+      "collect_count": 3,
+      "description": "26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳",
+      "text_hint": "26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳",
+      "topic_tags": [
+        "辽宁中考",
+        "家长必读",
+        "中考查分",
+        "沈阳"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/797670bb7f94c11abccb2c3f08876fdd/6a5342a5/video/tos/cn/tos-cn-ve-15/oADOIq1pAdD7AQ6BUGIiEGLfBoBkaAeCCfgmGJ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=815&bt=815&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wOgvvHhd.gAY7103-ApQX&mime_type=video_mp4&qs=0&rc=ZThpZGkzZmg4ZjtpM2Y1aEBpaml0O2o5cjszPDMzNGkzM0AwY2JgMzRjX2IxNi41M2NjYSNtaDZxMmRjNDZhLS1kLWFzcw%3D%3D&btag=c0000e00018000&cquery=100H_100K_100o_100w_100B&dy_q=1783830615&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202607121230153A46EB396A878B226B33",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7661190240949783827.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7661190240949783827.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 30.867,
+      "raw_payload": {
+        "aweme_id": "7661190240949783827",
+        "author_uid": "7610657783209690149",
+        "sec_uid": "MS4wLjABAAAAf31mi14TAK76XmrgSmjdBYIDvOXwmv1iu226ROkJ0YDbON77FFtQXCHed0rt-HhC",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAf31mi14TAK76XmrgSmjdBYIDvOXwmv1iu226ROkJ0YDbON77FFtQXCHed0rt-HhC"
+      }
+    },
+    "first_seen_at": "2026-07-12T12:30:00+08:00",
+    "last_seen_at": "2026-07-12T12:30:00+08:00",
+    "fetch_runs": [
+      "2026-07-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7661190240949783827.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7661190240949783827.mp3",
+      "source": "download",
+      "processed_at": "2026-07-12T12:31:02+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7661190240949783827",
+      "transcript_raw": "26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳补充信息：26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳关键词：辽宁中考、家长必读、中考查分、沈阳",
+      "transcript_clean": "26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳补充信息：26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳关键词：辽宁中考、家长必读、中考查分、沈阳",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-12/7661190240949783827.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7661190240949783827",
+      "summary": "盛老师聊升学（辽宁）围绕“辽宁中考”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳。26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳补充信息：26年辽宁中考 语文英语出分大反转？#辽宁中考 #家长必读 #中考查分 #沈阳关键词：辽宁中考、家长必读、中考查分、沈阳 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "辽宁中考为什么总是做不出来结果？",
+        "先把家长必读想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕辽宁中考组织标题与开头。",
+        "用家长必读和中考查分补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "辽宁中考",
+        "家长必读",
+        "中考查分"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-12/7661190240949783827.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "last_error": null
+  },
+  "7646986433852476713": {
+    "video_id": "7646986433852476713",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "新华财经",
+      "video_id": "7646986433852476713",
+      "title": "外资公募再增资 中国资产性价比吸引全球资金#投资 #金融",
+      "publish_time": "2026-06-03T10:13:00+08:00",
+      "video_url": "https://www.douyin.com/video/7646986433852476713",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/67080b49be5a11fb14302135bf1d1b9f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099188800&x-signature=RBa8lAiCh7OmyEWOafsvrEGiNCI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071212301802B470BB634588A6A941",
+      "like_count": 160,
+      "comment_count": 2,
+      "share_count": 7,
+      "collect_count": 11,
+      "description": "外资公募再增资 中国资产性价比吸引全球资金#投资 #金融",
+      "text_hint": "外资公募再增资 中国资产性价比吸引全球资金#投资 #金融",
+      "topic_tags": [
+        "投资",
+        "金融"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/355b904fc120228c46c61fe7ec61d383/6a53428f/video/tos/cn/tos-cn-ve-15/3f03fcdfefb9496a9b958c889493f9b8/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1635&bt=1635&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wrgvvHhd.gAY7103-ApQX&mime_type=video_mp4&qs=0&rc=OjY2Njg3Omg0OjwzZztnZUBpajo0cmw5cjpyOzMzNGkzM0BgLi9iMS0xNWExYTZiMjUwYSNnZXJqMmRzb2NhLS1kLTBzcw%3D%3D&btag=c0000e00008000&cquery=100o_100w_100B_100H_100K&dy_q=1783830618&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026071212301802B470BB634588A6A941",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7646986433852476713.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7646986433852476713.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 5.016,
+      "raw_payload": {
+        "aweme_id": "7646986433852476713",
+        "author_uid": "4446052619156203",
+        "sec_uid": "MS4wLjABAAAARavcNe1wkXArhqi1f_zQDMOD3CfA0gWoYr7UapJ0elBwCqsywETTRyyjfU0C199f",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAARavcNe1wkXArhqi1f_zQDMOD3CfA0gWoYr7UapJ0elBwCqsywETTRyyjfU0C199f"
+      }
+    },
+    "first_seen_at": "2026-07-12T12:30:00+08:00",
+    "last_seen_at": "2026-07-12T12:30:00+08:00",
+    "fetch_runs": [
+      "2026-07-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7646986433852476713.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7646986433852476713.mp3",
+      "source": "download",
+      "processed_at": "2026-07-12T12:31:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7646986433852476713",
+      "transcript_raw": "外资公募再增资 中国资产性价比吸引全球资金#投资 #金融外资公募再增资 中国资产性价比吸引全球资金#投资 #金融补充信息：外资公募再增资 中国资产性价比吸引全球资金#投资 #金融关键词：投资、金融",
+      "transcript_clean": "外资公募再增资 中国资产性价比吸引全球资金#投资 #金融外资公募再增资 中国资产性价比吸引全球资金#投资 #金融补充信息：外资公募再增资 中国资产性价比吸引全球资金#投资 #金融关键词：投资、金融",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-12/7646986433852476713.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7646986433852476713",
+      "summary": "新华财经围绕“投资”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "外资公募再增资 中国资产性价比吸引全球资金#投资 #金融。外资公募再增资 中国资产性价比吸引全球资金#投资 #金融外资公募再增资 中国资产性价比吸引全球资金#投资 #金融补充信息：外资公募再增资 中国资产性价比吸引全球资金#投资 #金融关键词：投资、金融 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "投资为什么总是做不出来结果？",
+        "先把金融想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕投资组织标题与开头。",
+        "用金融和中国资产性价比吸引全球资金#投资补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "投资",
+        "金融",
+        "中国资产性价比吸引全球资金#投资"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-12/7646986433852476713.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "last_error": null
+  },
+  "7284587824874114304": {
+    "video_id": "7284587824874114304",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "鸭鸭Violet",
+      "video_id": "7284587824874114304",
+      "title": "纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学",
+      "publish_time": "2023-09-30T20:01:21+08:00",
+      "video_url": "https://www.douyin.com/video/7284587824874114304",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b36ad5a51bd11d935fd48a74d46e354e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099188800&x-signature=Tq6UYxQiknuHxuUpK47xR6IuO1s%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260712123021ED3E53419921EDB870B4",
+      "like_count": 1920,
+      "comment_count": 135,
+      "share_count": 124,
+      "collect_count": 101,
+      "description": "纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学",
+      "text_hint": "纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学",
+      "topic_tags": [
+        "英文vlog",
+        "日常vlog",
+        "口语",
+        "留学生活vlog",
+        "香港大学"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7ec97981d7a0f329d26e4ce2af1f4651/6a53436e/video/tos/cn/tos-cn-ve-0015c800/oEQBw8KHBCIzBbnsIbAPwEiADeMBeMhfxwYA76/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2480&bt=2480&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wQgvvHhd.gAY7103-ApQX&mime_type=video_mp4&qs=0&rc=Mzc8Mzo1ZzMzNDM4NTdnZEBpanZ1djs6ZjozbjMzNGkzM0AyNTJiYjEyNTYxNmIwLTU2YSNzbC81cjRvamBgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1783830621&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260712123021ED3E53419921EDB870B4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7284587824874114304.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7284587824874114304.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 225.8,
+      "raw_payload": {
+        "aweme_id": "7284587824874114304",
+        "author_uid": "892418279617220",
+        "sec_uid": "MS4wLjABAAAA6bhNgrQ2W0jMxLzv2Q7Xxv537oo7G_tqUDsBRX1vhBU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA6bhNgrQ2W0jMxLzv2Q7Xxv537oo7G_tqUDsBRX1vhBU"
+      }
+    },
+    "first_seen_at": "2026-07-12T12:30:00+08:00",
+    "last_seen_at": "2026-07-12T12:30:00+08:00",
+    "fetch_runs": [
+      "2026-07-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7284587824874114304.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7284587824874114304.mp3",
+      "source": "download",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7284587824874114304",
+      "transcript_raw": "纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学补充信息：纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学关键词：英文vlog、日常vlog、口语、留学生活vlog、香港大学",
+      "transcript_clean": "纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学补充信息：纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学关键词：英文vlog、日常vlog、口语、留学生活vlog、香港大学",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-12/7284587824874114304.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7284587824874114304",
+      "summary": "鸭鸭Violet围绕“英文vlog”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学。纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学补充信息：纯英文Vlog｜School day with me!\n#英文vlog #日常vlog #口语 #留学生活vlog #香港大学关键词：英文vlog、日常vlog、口语、留学生活vlog、香港大学 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "英文vlog为什么总是做不出来结果？",
+        "先把日常vlog想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕英文vlog组织标题与开头。",
+        "用日常vlog和口语补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "英文vlog",
+        "日常vlog",
+        "口语"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-12/7284587824874114304.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "last_error": null
+  },
+  "7292345169884515594": {
+    "video_id": "7292345169884515594",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "鹰眼手工视界",
+      "video_id": "7292345169884515594",
+      "title": "翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工",
+      "publish_time": "2023-10-21T17:43:47+08:00",
+      "video_url": "https://www.douyin.com/video/7292345169884515594",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/35fa460c079e39abb99ac59815f90b21~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099188800&x-signature=zTYltHsIULqBMoBNE4gg%2Bl8GdQo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607121230241F742B5868956E97E4F2",
+      "like_count": 57,
+      "comment_count": 4,
+      "share_count": 6,
+      "collect_count": 42,
+      "description": "翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工",
+      "text_hint": "翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工",
+      "topic_tags": [
+        "旧物修复",
+        "翻新修复",
+        "解压",
+        "修复",
+        "手工"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/3b3581f1f59620929420170158a67ff6/6a53439e/video/tos/cn/tos-cn-ve-0015c800/o0IdzlKAZB5r0g9YIBEAMfhAwnzRQMQCvNEelC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1316&bt=1316&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wKgvvHhd.gAY7103-ApQX&mime_type=video_mp4&qs=0&rc=M2k7Zzw6OTVnZzozZjo0NUBpM2o3cDs6ZmlzbjMzNGkzM0BgNWAvYDEuNjAxXjZeMzQxYSMvaC1rcjQwbG1gLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1783830624&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202607121230241F742B5868956E97E4F2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7292345169884515594.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7292345169884515594.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 270.327,
+      "raw_payload": {
+        "aweme_id": "7292345169884515594",
+        "author_uid": "776669794929751",
+        "sec_uid": "MS4wLjABAAAAxxII5k_GCqqaHURH8_jfYtFRXSn3npEh-YY131HRDY8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAxxII5k_GCqqaHURH8_jfYtFRXSn3npEh-YY131HRDY8"
+      }
+    },
+    "first_seen_at": "2026-07-12T12:30:00+08:00",
+    "last_seen_at": "2026-07-12T12:30:00+08:00",
+    "fetch_runs": [
+      "2026-07-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7292345169884515594.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7292345169884515594.mp3",
+      "source": "download",
+      "processed_at": "2026-07-12T12:32:47+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7292345169884515594",
+      "transcript_raw": "翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工补充信息：翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工关键词：旧物修复、翻新修复、解压、修复、手工",
+      "transcript_clean": "翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工补充信息：翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工关键词：旧物修复、翻新修复、解压、修复、手工",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-12/7292345169884515594.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7292345169884515594",
+      "summary": "鹰眼手工视界围绕“旧物修复”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工。翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工补充信息：翻新修复劳斯莱斯玩具模型，过程非常解压#旧物修复 #翻新修复 #解压 #修复 #手工关键词：旧物修复、翻新修复、解压、修复、手工 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "旧物修复为什么总是做不出来结果？",
+        "先把翻新修复想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕旧物修复组织标题与开头。",
+        "用翻新修复和解压补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "旧物修复",
+        "翻新修复",
+        "解压"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-12/7292345169884515594.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "last_error": null
+  },
+  "7410628455588564263": {
+    "video_id": "7410628455588564263",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7410628455588564263",
+      "title": "在抖音记录美好生活20260712",
+      "publish_time": "2026-07-12T12:30:59+08:00",
+      "video_url": "https://www.douyin.com/video/7410628455588564263",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260712",
+      "text_hint": "在抖音记录美好生活20260712",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7410628455588564263",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-12T12:30:00+08:00",
+    "last_seen_at": "2026-07-12T12:30:00+08:00",
+    "fetch_runs": [
+      "2026-07-12"
+    ],
+    "media_status": "skipped",
+    "media": {
+      "reason": "未提供媒体文件，使用文本直出模式",
+      "processed_at": "2026-07-12T12:30:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7410628455588564263",
+      "transcript_raw": "在抖音记录美好生活20260712在抖音记录美好生活20260712补充信息：在抖音记录美好生活20260712",
+      "transcript_clean": "在抖音记录美好生活20260712在抖音记录美好生活20260712补充信息：在抖音记录美好生活20260712",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-12/7410628455588564263.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7410628455588564263",
+      "summary": "知雪围绕“在抖音记录美好生活20260712在抖音记录美好生活20260712补充信息：在抖音记录美好生活20260712”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "在抖音记录美好生活20260712。在抖音记录美好生活20260712在抖音记录美好生活20260712补充信息：在抖音记录美好生活20260712 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "在抖音记录美好生活20260712在抖音记录美好生活20260712补充信息：在抖音记录美好生活20260712为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕在抖音记录美好生活20260712在抖音记录美好生活20260712补充信息：在抖音记录美好生活20260712组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "在抖音记录美好生活20260712在抖音记录美好生活20260712补充信息：在抖音记录美好生活20260712",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-12/7410628455588564263.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "last_error": null
+  },
+  "7498313885738061108": {
+    "video_id": "7498313885738061108",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "北辰跨境日记（欧洲，拉美，中东）",
+      "video_id": "7498313885738061108",
+      "title": "Temu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktok",
+      "publish_time": "2025-04-28T18:47:39+08:00",
+      "video_url": "https://www.douyin.com/video/7498313885738061108",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/49b2b7de8373f8a1f541abddb0458cbd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099188800&x-signature=JRFKIakiImyoD%2BGQhyZanWST%2BBk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260712123034DB69A65A14284AD42C58",
+      "like_count": 77,
+      "comment_count": 16,
+      "share_count": 44,
+      "collect_count": 27,
+      "description": "Temu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktok",
+      "text_hint": "Temu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktok",
+      "topic_tags": [
+        "temu",
+        "temu半托管",
+        "跨境电商",
+        "干货分享",
+        "tiktok"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/7ee23cd924f602d179b114cd6c2dc4be/6a5343af/video/tos/cn/tos-cn-ve-0015c800/o02AQgFDQQDS0siAuyWgfCEDohIQ9HaACti1fB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2556&bt=2556&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w7gvvHhd.gAY7103-ApQX&mime_type=video_mp4&qs=0&rc=M2c3aTZlZjxoNWloZzk0OUBpajtucnA5cmdvMzMzNGkzM0BeMzUwL2FiXzIxLmNfY15jYSNgZDYtMmQ0azRhLS1kLS9zcw%3D%3D&btag=80000e00030000&cc=1f&cquery=100w_100B_100x_100z_100o&dy_q=1783830634&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260712123034DB69A65A14284AD42C58&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7498313885738061108.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7498313885738061108.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 277.7,
+      "raw_payload": {
+        "aweme_id": "7498313885738061108",
+        "author_uid": "240163362712644",
+        "sec_uid": "MS4wLjABAAAANZA3RHS5IX_nPVQBpDtk-ps49GGl1QdWJxwQzsGceYI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAANZA3RHS5IX_nPVQBpDtk-ps49GGl1QdWJxwQzsGceYI"
+      }
+    },
+    "first_seen_at": "2026-07-12T12:30:00+08:00",
+    "last_seen_at": "2026-07-12T12:30:00+08:00",
+    "fetch_runs": [
+      "2026-07-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7498313885738061108.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7498313885738061108.mp3",
+      "source": "download",
+      "processed_at": "2026-07-12T12:32:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7498313885738061108",
+      "transcript_raw": "Temu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktokTemu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktok补充信息：Temu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktok关键词：temu、temu半托管、跨境电商、干货分享、tiktok",
+      "transcript_clean": "Temu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktokTemu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktok补充信息：Temu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktok关键词：temu、temu半托管、跨境电商、干货分享、tiktok",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-12/7498313885738061108.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7498313885738061108",
+      "summary": "北辰跨境日记（欧洲，拉美，中东）围绕“temu”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "Temu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktok。Temu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktokTemu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktok补充信息：Temu平台近期战略性调整以及变化#temu #temu半托管 #跨境电商 #干货分享 #tiktok关键词：temu、temu半托管、跨境电商、干货分享、tiktok 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "temu为什么总是做不出来结果？",
+        "先把temu半托管想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕temu组织标题与开头。",
+        "用temu半托管和跨境电商补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "temu",
+        "temu半托管",
+        "跨境电商"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-12/7498313885738061108.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "last_error": null
+  },
+  "7506139136555846969": {
+    "video_id": "7506139136555846969",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小猫传统钓",
+      "video_id": "7506139136555846969",
+      "title": "钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼",
+      "publish_time": "2025-05-19T20:53:29+08:00",
+      "video_url": "https://www.douyin.com/video/7506139136555846969",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/081174143ae558d4a2257f8f4378c4a2~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099188800&x-signature=zKe2fPlOwCwPtRtdFALQTqZav6I%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260712123037F1D6EF0AF99508AB592B",
+      "like_count": 16426,
+      "comment_count": 731,
+      "share_count": 7321,
+      "collect_count": 7645,
+      "description": "钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼",
+      "text_hint": "钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼",
+      "topic_tags": [
+        "钓鱼技巧",
+        "钓鱼知识",
+        "钓鱼"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d1e09a10078ef7af69dee2e7ecbd7c1f/6a53437a/video/tos/cn/tos-cn-ve-15c000-ce/oUCq9CDVKcyfj0direYsevmEQniFIAojEEwASB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1922&bt=1922&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w5gvvHhd.gAY7103-ApQX&mime_type=video_mp4&qs=0&rc=OjlmPDk5NzM1NDNoNzdkNUBpajRkZWs5cnNsMzMzbGkzNEBfLTQuNS1gNTMxNWAvMTMyYSNnMzFjMmRrZWlhLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1783830637&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260712123037F1D6EF0AF99508AB592B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7506139136555846969.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7506139136555846969.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 221.767,
+      "raw_payload": {
+        "aweme_id": "7506139136555846969",
+        "author_uid": "3751165561934948",
+        "sec_uid": "MS4wLjABAAAA8llsubJba6x-6xKM8ebnA2YWaNTAQYFqvYtQJsZpJrP4VzZeY3rYK8bnsCjvmndc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA8llsubJba6x-6xKM8ebnA2YWaNTAQYFqvYtQJsZpJrP4VzZeY3rYK8bnsCjvmndc"
+      }
+    },
+    "first_seen_at": "2026-07-12T12:30:00+08:00",
+    "last_seen_at": "2026-07-12T12:30:00+08:00",
+    "fetch_runs": [
+      "2026-07-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7506139136555846969.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7506139136555846969.mp3",
+      "source": "download",
+      "processed_at": "2026-07-12T12:31:40+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7506139136555846969",
+      "transcript_raw": "钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼补充信息：钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼关键词：钓鱼技巧、钓鱼知识、钓鱼",
+      "transcript_clean": "钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼补充信息：钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼关键词：钓鱼技巧、钓鱼知识、钓鱼",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-12/7506139136555846969.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7506139136555846969",
+      "summary": "小猫传统钓围绕“钓鱼技巧”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼。钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼补充信息：钓鱼缺氧白条上浮行为分析 钓鱼天气，钓鱼选位，升温天阴天选位，白条上浮行为分析#钓鱼技巧 #钓鱼知识 #钓鱼关键词：钓鱼技巧、钓鱼知识、钓鱼 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "钓鱼技巧为什么总是做不出来结果？",
+        "先把钓鱼知识想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕钓鱼技巧组织标题与开头。",
+        "用钓鱼知识和钓鱼补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "钓鱼技巧",
+        "钓鱼知识",
+        "钓鱼"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-12/7506139136555846969.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "last_error": null
+  },
+  "7528394524612103487": {
+    "video_id": "7528394524612103487",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7528394524612103487",
+      "title": "泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶",
+      "publish_time": "2025-07-18T12:15:00+08:00",
+      "video_url": "https://www.douyin.com/video/7528394524612103487",
+      "cover_url": "",
+      "like_count": 4571,
+      "comment_count": 175,
+      "share_count": 718,
+      "collect_count": 103,
+      "description": "泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶",
+      "text_hint": "泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶",
+      "topic_tags": [
+        "asmr",
+        "好物分享",
+        "声控助眠",
+        "ehd蓬松v脸瓶"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/da14aadd3fc587a24581c14b41113cd9/6a5343d2/video/tos/cn/tos-cn-ve-15/o8QBmeD0eAm7GY0Ig4CIAxCaeB9LQTACQSyA97/?a=6383&br=741&bt=741&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100K_100o_100w_100B_100H&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1783830654&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wEgvvHhd.gAY7103-ApQX&is_ssr=1&l=20260712123053E5CEAAA10C6B8BFB2235&lr=all&mime_type=video_mp4&qs=12&rc=M2U7ZmVoZzlkM2U8PGYzNkBpajxyM2o5cnA0NDMzNGkzM0A1L2ExXzBgNjYxLmFiYS5iYSM2cjJkMmQ0cHFhLS1kLWFzcw%3D%3D&__vid=7528394524612103487",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7528394524612103487.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7528394524612103487.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7528394524612103487",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-12T12:30:00+08:00",
+    "last_seen_at": "2026-07-12T12:30:00+08:00",
+    "fetch_runs": [
+      "2026-07-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7528394524612103487.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-12/7528394524612103487.mp3",
+      "source": "download",
+      "processed_at": "2026-07-12T12:31:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7528394524612103487",
+      "transcript_raw": "泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶补充信息：泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶关键词：asmr、好物分享、声控助眠、ehd蓬松v脸瓶",
+      "transcript_clean": "泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶补充信息：泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶关键词：asmr、好物分享、声控助眠、ehd蓬松v脸瓶",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-12/7528394524612103487.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7528394524612103487",
+      "summary": "知雪围绕“asmr”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶。泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶补充信息：泡沫的声音ASMR🫧变得软绵绵轻飘飘吧！ 第一视角为你洗头搓澡 洗脸按摩，夏日舒适开启#asmr #好物分享 #声控助眠 #ehd蓬松v脸瓶关键词：asmr、好物分享、声控助眠、ehd蓬松v脸瓶 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "asmr为什么总是做不出来结果？",
+        "先把好物分享想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕asmr组织标题与开头。",
+        "用好物分享和声控助眠补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "asmr",
+        "好物分享",
+        "声控助眠"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-12/7528394524612103487.json",
+      "processed_at": "2026-07-12T12:33:23+08:00"
+    },
+    "last_error": null
   }
 }
