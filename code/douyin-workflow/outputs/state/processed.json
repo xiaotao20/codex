@@ -10020,5 +10020,589 @@
       "processed_at": "2026-07-12T12:33:23+08:00"
     },
     "last_error": null
+  },
+  "7661852039571442953": {
+    "video_id": "7661852039571442953",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "秋禾同学",
+      "video_id": "7661852039571442953",
+      "title": "《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读",
+      "publish_time": "2026-07-13T11:39:08+08:00",
+      "video_url": "https://www.douyin.com/video/7661852039571442953",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-v-c9e10a/o8BCbUKC9oaIRQLzLiQCfDGEtpAeeDFooCqIvG~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099275200&x-signature=VylAYsz59wvW9ZEJ%2F2y4%2BG9%2BT%2FI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607131234556E5A236BB6A978B624B1",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读",
+      "text_hint": "《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读",
+      "topic_tags": [
+        "高考",
+        "家长必读"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/dbd0e9fbb9478c0ac038d88f419a02a1/6a549548/video/tos/cn/tos-cn-v-c9e10a/owvOziUEygAUiS6985OZZaIX6zQlI8oQoBRRW/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=2898&bt=2898&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wZAlDHhd.o_6DC73-ApQX&mime_type=video_mp4&qs=0&rc=ZzNkZGk7OTxoZjY5Z2g1PEBpajc8am85cnE4PDMzNDYzM0AzLy80XmNjNWAxMF8wLWFhYSNxM3JxMmQ0b15hLS1kMC9zcw%3D%3D&btag=80000e00018000&cquery=100o_100w_100B_102v_102u&dy_q=1783917295&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=202607131234556E5A236BB6A978B624B1",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7661852039571442953.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7661852039571442953.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 41.347,
+      "raw_payload": {
+        "aweme_id": "7661852039571442953",
+        "author_uid": "3229727693746380",
+        "sec_uid": "MS4wLjABAAAA4QHfIQLtteNwuV21C1e__cyUSWcwPAV_uAatjPXBJjT1yEjm49HYTU4ebMsRYsOb",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4QHfIQLtteNwuV21C1e__cyUSWcwPAV_uAatjPXBJjT1yEjm49HYTU4ebMsRYsOb"
+      }
+    },
+    "first_seen_at": "2026-07-13T12:34:42+08:00",
+    "last_seen_at": "2026-07-13T12:34:42+08:00",
+    "fetch_runs": [
+      "2026-07-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7661852039571442953.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7661852039571442953.mp3",
+      "source": "download",
+      "processed_at": "2026-07-13T12:36:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7661852039571442953",
+      "transcript_raw": "《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读补充信息：《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读关键词：高考、家长必读",
+      "transcript_clean": "《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读补充信息：《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读关键词：高考、家长必读",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-13/7661852039571442953.json",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7661852039571442953",
+      "summary": "秋禾同学围绕“高考”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读。《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读补充信息：《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读关键词：高考、家长必读 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "高考为什么总是做不出来结果？",
+        "先把家长必读想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕高考组织标题与开头。",
+        "用家长必读和《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读补充信息：《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读关键词：高考、家长必读补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "高考",
+        "家长必读",
+        "《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读补充信息：《高考蝶变》收集50位高中生的蜕变故事，用同龄人的口吻激励孩子成长，从此告别懒惰拖延#高考#家长必读关键词：高考、家长必读"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-13/7661852039571442953.json",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "last_error": null
+  },
+  "7628933466997951759": {
+    "video_id": "7628933466997951759",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "深圳新闻网",
+      "video_id": "7628933466997951759",
+      "title": "【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。",
+      "publish_time": "2026-04-15T18:38:19+08:00",
+      "video_url": "https://www.douyin.com/video/7628933466997951759",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2271a21aaaeffef13ecbb8f1e0206302~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099275200&x-signature=Rk0zWhBjha1zgMufT0NXe1FgCoc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260713123458E79B3B7CFEC3858715E1",
+      "like_count": 5202,
+      "comment_count": 667,
+      "share_count": 631,
+      "collect_count": 1049,
+      "description": "【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。",
+      "text_hint": "【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/950ef28733d1abce1df240da92b0f68b/6a549527/video/tos/cn/tos-cn-ve-15/owFQAVvgS0vcBXT02LtNBiIafGnQeqAt7eCNua/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1520&bt=1520&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wzAlDHhd.o_6DC73-ApQX&mime_type=video_mp4&qs=0&rc=Nmg7ZGQ8ODs7ZTZnaDVnPEBpanVuZXM5cjxwOjMzNGkzM0AzLjNjXi40NWAxM15gMy4uYSNiL2FuMmRrZ2NhLS1kLWFzcw%3D%3D&btag=c0000e00008000&cquery=100w_100B_100H_100K_100o&dy_q=1783917298&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260713123458E79B3B7CFEC3858715E1",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7628933466997951759.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7628933466997951759.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 5.12,
+      "raw_payload": {
+        "aweme_id": "7628933466997951759",
+        "author_uid": "99621750750",
+        "sec_uid": "MS4wLjABAAAAhABcFmzz7Ck7NzRJdtR9I0MA_AhVMnAS_gQ8QZKdH7A",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhABcFmzz7Ck7NzRJdtR9I0MA_AhVMnAS_gQ8QZKdH7A"
+      }
+    },
+    "first_seen_at": "2026-07-13T12:34:42+08:00",
+    "last_seen_at": "2026-07-13T12:34:42+08:00",
+    "fetch_runs": [
+      "2026-07-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7628933466997951759.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7628933466997951759.mp3",
+      "source": "download",
+      "processed_at": "2026-07-13T12:36:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7628933466997951759",
+      "transcript_raw": "【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。补充信息：【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。",
+      "transcript_clean": "【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。补充信息：【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-13/7628933466997951759.json",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7628933466997951759",
+      "summary": "深圳新闻网围绕“【男子在德留学多次下药迷奸女友拍视频在群里炫耀】”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。。【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。补充信息：【男子在德留学多次下药迷奸女友拍视频在群里炫耀】 分享作案手法和视频，被判刑11年3个月。 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "【男子在德留学多次下药迷奸女友拍视频在群里炫耀】为什么总是做不出来结果？",
+        "先把分享作案手法和视频，被判刑11年3个月。【男子在德留学多次下药迷奸女友拍视频在群里炫耀】想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕【男子在德留学多次下药迷奸女友拍视频在群里炫耀】组织标题与开头。",
+        "用分享作案手法和视频，被判刑11年3个月。【男子在德留学多次下药迷奸女友拍视频在群里炫耀】和分享作案手法和视频，被判刑11年3个月。补充信息：【男子在德留学多次下药迷奸女友拍视频在群里炫耀】补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "【男子在德留学多次下药迷奸女友拍视频在群里炫耀】",
+        "分享作案手法和视频，被判刑11年3个月。【男子在德留学多次下药迷奸女友拍视频在群里炫耀】",
+        "分享作案手法和视频，被判刑11年3个月。补充信息：【男子在德留学多次下药迷奸女友拍视频在群里炫耀】"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-13/7628933466997951759.json",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "last_error": null
+  },
+  "7278950016830410043": {
+    "video_id": "7278950016830410043",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "破点思维",
+      "video_id": "7278950016830410043",
+      "title": "顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维",
+      "publish_time": "2023-09-15T15:23:49+08:00",
+      "video_url": "https://www.douyin.com/video/7278950016830410043",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/73d347a5b1c663135bd39cce8562def6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099275200&x-signature=w4sN%2BZKWTk%2B6nEn5j066r2jlau4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607131235026B0C1099124C5D5AEF11",
+      "like_count": 27,
+      "comment_count": 2,
+      "share_count": 21,
+      "collect_count": 5,
+      "description": "顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维",
+      "text_hint": "顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维",
+      "topic_tags": [
+        "创业",
+        "商业思维"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ed7e3549653f137f904ac12f7f03bcf5/6a549601/video/tos/cn/tos-cn-ve-0015c800/oEoIATWUhfAFIgQgEeIzChv1gkBVMByEXAuNBv/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=796&bt=796&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wqAlDHhd.o_6DC73-ApQX&mime_type=video_mp4&qs=0&rc=ZmY1OzM6ZTQ2Zzo2aDozM0BpMzd5dTQ6ZmozbjMzNGkzM0AvYzYvMWA2X18xYi02MTEtYSNeX2kvcjRnYC9gLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1783917302&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202607131235026B0C1099124C5D5AEF11",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7278950016830410043.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7278950016830410043.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 219.081,
+      "raw_payload": {
+        "aweme_id": "7278950016830410043",
+        "author_uid": "2994711347084542",
+        "sec_uid": "MS4wLjABAAAAiUJRC_gIDjvMRvucKhbm0Q2VxN5lDwlbLqGRlKQNXcjjY8WKxNCMFD6C3BFH-h2P",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAiUJRC_gIDjvMRvucKhbm0Q2VxN5lDwlbLqGRlKQNXcjjY8WKxNCMFD6C3BFH-h2P"
+      }
+    },
+    "first_seen_at": "2026-07-13T12:34:42+08:00",
+    "last_seen_at": "2026-07-13T12:34:42+08:00",
+    "fetch_runs": [
+      "2026-07-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7278950016830410043.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7278950016830410043.mp3",
+      "source": "download",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7278950016830410043",
+      "transcript_raw": "顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维补充信息：顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维关键词：创业、商业思维",
+      "transcript_clean": "顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维补充信息：顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维关键词：创业、商业思维",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-13/7278950016830410043.json",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7278950016830410043",
+      "summary": "破点思维围绕“创业”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维。顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维补充信息：顾客消费多少返还多少是怎么赚钱的呢？#创业 #商业思维关键词：创业、商业思维 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "创业为什么总是做不出来结果？",
+        "先把商业思维想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕创业组织标题与开头。",
+        "用商业思维和顾客消费多少返还多少是怎么赚钱的呢？#创业补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "创业",
+        "商业思维",
+        "顾客消费多少返还多少是怎么赚钱的呢？#创业"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-13/7278950016830410043.json",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "last_error": null
+  },
+  "7280385911471361332": {
+    "video_id": "7280385911471361332",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7280385911471361332",
+      "title": "在抖音记录美好生活20260713",
+      "publish_time": "2026-07-13T12:35:59+08:00",
+      "video_url": "https://www.douyin.com/video/7280385911471361332",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260713",
+      "text_hint": "在抖音记录美好生活20260713",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/37d87393-300b-4663-a473-22d427cd4706",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7280385911471361332",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-13T12:34:42+08:00",
+    "last_seen_at": "2026-07-13T12:34:42+08:00",
+    "fetch_runs": [
+      "2026-07-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7558742054096981291": {
+    "video_id": "7558742054096981291",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7558742054096981291",
+      "title": "一更到底，全文44分钟#一口气看完系列 #文荒推荐 #宝藏小说 #病娇 #古言",
+      "publish_time": "2025-10-10T10:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7558742054096981291",
+      "cover_url": "",
+      "like_count": 22000,
+      "comment_count": 309,
+      "share_count": 6903,
+      "collect_count": 1410,
+      "description": "一更到底，全文44分钟#一口气看完系列 #文荒推荐 #宝藏小说 #病娇 #古言",
+      "text_hint": "一更到底，全文44分钟#一口气看完系列 #文荒推荐 #宝藏小说 #病娇 #古言",
+      "topic_tags": [
+        "一口气看完系列",
+        "文荒推荐",
+        "宝藏小说",
+        "病娇",
+        "古言"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c3797f83-4c2c-4326-9209-6cd9ccbc1697",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7558742054096981291",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-13T12:34:42+08:00",
+    "last_seen_at": "2026-07-13T12:34:42+08:00",
+    "fetch_runs": [
+      "2026-07-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7410727215849098559": {
+    "video_id": "7410727215849098559",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "💫💫听风🇨🇳🐒🐒",
+      "video_id": "7410727215849098559",
+      "title": "#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌",
+      "publish_time": "2024-09-04T18:06:41+08:00",
+      "video_url": "https://www.douyin.com/video/7410727215849098559",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/19f3c8bd56bcfdaeddb8e4cc540a6255~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099275200&x-signature=xKNhrQuNYXl5FEwEz3UAgIeMUqU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071312353465C4024BC0B929459DD9",
+      "like_count": 310,
+      "comment_count": 43,
+      "share_count": 16,
+      "collect_count": 78,
+      "description": "#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌",
+      "text_hint": "#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌",
+      "topic_tags": [
+        "直播录屏分享",
+        "真人真唱",
+        "山歌热门推送",
+        "鱼峰山公园山歌对唱",
+        "户外唱歌"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/465377af62f884235a41761645a3b6f6/6a549673/video/tos/cn/tos-cn-ve-0015c800/ocAGBBDNGQdKV7yRC4y8CWXseM4fKGgJYuf6VA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4506&bt=4506&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wOQlDHhd.o_6DC73-ApQX&mime_type=video_mp4&qs=0&rc=PDQ2O2RoaWk7ODc1PDo7OUBpM3B3bms5cm02dTMzNGkzM0BfNWE2LV5fNWIxNWMtMy8zYSM0Y2kxMmRrLWBgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1783917335&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026071312353465C4024BC0B929459DD9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7410727215849098559.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7410727215849098559.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 300.42,
+      "raw_payload": {
+        "aweme_id": "7410727215849098559",
+        "author_uid": "101206101406",
+        "sec_uid": "MS4wLjABAAAATgQMSOdyDhP9kpCdiU4qUqkHZCjCEfqenPayYu9Lros",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAATgQMSOdyDhP9kpCdiU4qUqkHZCjCEfqenPayYu9Lros"
+      }
+    },
+    "first_seen_at": "2026-07-13T12:34:42+08:00",
+    "last_seen_at": "2026-07-13T12:34:42+08:00",
+    "fetch_runs": [
+      "2026-07-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7410727215849098559.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7410727215849098559.mp3",
+      "source": "download",
+      "processed_at": "2026-07-13T12:37:27+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7410727215849098559",
+      "transcript_raw": "#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌补充信息：#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌关键词：直播录屏分享、真人真唱、山歌热门推送、鱼峰山公园山歌对唱、户外唱歌",
+      "transcript_clean": "#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌补充信息：#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌关键词：直播录屏分享、真人真唱、山歌热门推送、鱼峰山公园山歌对唱、户外唱歌",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-13/7410727215849098559.json",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7410727215849098559",
+      "summary": "💫💫听风🇨🇳🐒🐒围绕“直播录屏分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌。#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌补充信息：#直播录屏分享 鱼峰山歌何其多，高手过招听编歌；学富五车小谭王，才高八斗牛哥哥#真人真唱 #山歌热门推送 #鱼峰山公园山歌对唱 #户外唱歌关键词：直播录屏分享、真人真唱、山歌热门推送、鱼峰山公园山歌对唱、户外唱歌 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "直播录屏分享为什么总是做不出来结果？",
+        "先把真人真唱想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕直播录屏分享组织标题与开头。",
+        "用真人真唱和山歌热门推送补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "直播录屏分享",
+        "真人真唱",
+        "山歌热门推送"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-13/7410727215849098559.json",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "last_error": null
+  },
+  "7374717386009693478": {
+    "video_id": "7374717386009693478",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "林老师教数学",
+      "video_id": "7374717386009693478",
+      "title": "四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学",
+      "publish_time": "2024-05-30T17:10:12+08:00",
+      "video_url": "https://www.douyin.com/video/7374717386009693478",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/996cfae2484d5b5bacf4d627427a2423~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099275200&x-signature=%2BnlTp9zdx8h9IUnUyJz1gYhuyuc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607131235384C6A7B80155748B5AAAA",
+      "like_count": 624,
+      "comment_count": 94,
+      "share_count": 174,
+      "collect_count": 522,
+      "description": "四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学",
+      "text_hint": "四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学",
+      "topic_tags": [
+        "小学数学",
+        "三角形内角和",
+        "家长必读",
+        "每天学习一点点",
+        "林老师教数学"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/9584ad0fc125ec8de99c641d6a4aeb11/6a549649/video/tos/cn/tos-cn-ve-0015c800/oMIYj6AseAI6pNRLQG7MfkCSaIBaLBT1IIzEof/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1645&bt=1645&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wrQlDHhd.o_6DC73-ApQX&mime_type=video_mp4&qs=0&rc=aTo7PDc5ZTY4OTMzaDc0NUBpM3Q2Onk5cmY3czMzNGkzM0BjYGMvLy81NWIxLzM2YC1eYSM2X21mMmRjMGBgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1783917338&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607131235384C6A7B80155748B5AAAA",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7374717386009693478.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7374717386009693478.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 255.465,
+      "raw_payload": {
+        "aweme_id": "7374717386009693478",
+        "author_uid": "2975753936838813",
+        "sec_uid": "MS4wLjABAAAANKZMc0qktF1M_Wv20YXY35mcBUUOWSCKgUbKuIFZsJlKJrlKdv-6CPZGjI3wUU5h",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAANKZMc0qktF1M_Wv20YXY35mcBUUOWSCKgUbKuIFZsJlKJrlKdv-6CPZGjI3wUU5h"
+      }
+    },
+    "first_seen_at": "2026-07-13T12:34:42+08:00",
+    "last_seen_at": "2026-07-13T12:34:42+08:00",
+    "fetch_runs": [
+      "2026-07-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7374717386009693478.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-13/7374717386009693478.mp3",
+      "source": "download",
+      "processed_at": "2026-07-13T12:37:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7374717386009693478",
+      "transcript_raw": "四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学补充信息：四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学关键词：小学数学、三角形内角和、家长必读、每天学习一点点、林老师教数学",
+      "transcript_clean": "四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学补充信息：四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学关键词：小学数学、三角形内角和、家长必读、每天学习一点点、林老师教数学",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-13/7374717386009693478.json",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7374717386009693478",
+      "summary": "林老师教数学围绕“小学数学”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学。四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学补充信息：四（下）图形与几何#小学数学 #三角形内角和 #家长必读 #每天学习一点点 #林老师教数学关键词：小学数学、三角形内角和、家长必读、每天学习一点点、林老师教数学 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "小学数学为什么总是做不出来结果？",
+        "先把三角形内角和想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕小学数学组织标题与开头。",
+        "用三角形内角和和家长必读补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "小学数学",
+        "三角形内角和",
+        "家长必读"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-13/7374717386009693478.json",
+      "processed_at": "2026-07-13T12:38:08+08:00"
+    },
+    "last_error": null
+  },
+  "7553523660905008419": {
+    "video_id": "7553523660905008419",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7553523660905008419",
+      "title": "大蒜怎么种植出苗快出苗齐？ #种植小技巧 #种菜 #大蒜种植 #关注我一起学种菜 #自己种的纯天然的绿色蔬菜",
+      "publish_time": "2025-09-24T09:27:00+08:00",
+      "video_url": "https://www.douyin.com/video/7553523660905008419",
+      "cover_url": "",
+      "like_count": 3567,
+      "comment_count": 145,
+      "share_count": 1081,
+      "collect_count": 241,
+      "description": "大蒜怎么种植出苗快出苗齐？ #种植小技巧 #种菜 #大蒜种植 #关注我一起学种菜 #自己种的纯天然的绿色蔬菜",
+      "text_hint": "大蒜怎么种植出苗快出苗齐？ #种植小技巧 #种菜 #大蒜种植 #关注我一起学种菜 #自己种的纯天然的绿色蔬菜",
+      "topic_tags": [
+        "种植小技巧",
+        "种菜",
+        "大蒜种植",
+        "关注我一起学种菜",
+        "自己种的纯天然的绿色蔬菜"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/3b9f8ce8-98b1-4a04-be49-9b9b209507d1",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7553523660905008419",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-13T12:34:42+08:00",
+    "last_seen_at": "2026-07-13T12:34:42+08:00",
+    "fetch_runs": [
+      "2026-07-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
