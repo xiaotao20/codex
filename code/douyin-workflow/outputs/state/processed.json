@@ -10604,5 +10604,449 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7661987685216685366": {
+    "video_id": "7661987685216685366",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7661987685216685366",
+      "title": "在抖音记录美好生活20260714",
+      "publish_time": "2026-07-14T12:09:54+08:00",
+      "video_url": "https://www.douyin.com/video/7661987685216685366",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260714",
+      "text_hint": "在抖音记录美好生活20260714",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/4cae067a-6c2d-4f2c-a3be-f78bb7dc4b64",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7661987685216685366",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-14T12:08:28+08:00",
+    "last_seen_at": "2026-07-14T12:08:28+08:00",
+    "fetch_runs": [
+      "2026-07-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7649194817783745838": {
+    "video_id": "7649194817783745838",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7649194817783745838",
+      "title": "在抖音记录美好生活20260714",
+      "publish_time": "2026-07-14T12:09:54+08:00",
+      "video_url": "https://www.douyin.com/video/7649194817783745838",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260714",
+      "text_hint": "在抖音记录美好生活20260714",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/fcf97389-c925-46fe-bc7f-f4c2000bf521",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7649194817783745838",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-14T12:08:28+08:00",
+    "last_seen_at": "2026-07-14T12:08:28+08:00",
+    "fetch_runs": [
+      "2026-07-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7336794213746511143": {
+    "video_id": "7336794213746511143",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7336794213746511143",
+      "title": "超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程",
+      "publish_time": "2024-02-20T04:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7336794213746511143",
+      "cover_url": "",
+      "like_count": 45,
+      "comment_count": 3,
+      "share_count": 26,
+      "collect_count": 10,
+      "description": "超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程",
+      "text_hint": "超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程",
+      "topic_tags": [
+        "单片机",
+        "电子爱好者",
+        "编程",
+        "嵌入式",
+        "机器人编程"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8898f7bace58d0fc9d021f73b3fa8d58/6a55e1a9/video/tos/cn/tos-cn-ve-0015c800/ocYONQNzyBLD9KvfhT3M5AI9AA9zN6HgYeELYC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=566&bt=566&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wrWcDHhd.eRkbC73-ApQX&mime_type=video_mp4&qs=1&rc=ZTlmZzc1ZjZpaWU5ZDczNkBpM3dwcDY6ZjRycTMzNGkzM0BfYi1iLjNgNWAxNjIvXzA2YSNgczRycjQwYjVgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1784002138&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607141208584DC5FAC995001B377365&__vid=7336794213746511143",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-14/7336794213746511143.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-14/7336794213746511143.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7336794213746511143",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-14T12:08:28+08:00",
+    "last_seen_at": "2026-07-14T12:08:28+08:00",
+    "fetch_runs": [
+      "2026-07-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-14/7336794213746511143.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-14/7336794213746511143.mp3",
+      "source": "download",
+      "processed_at": "2026-07-14T12:11:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7336794213746511143",
+      "transcript_raw": "超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程补充信息：超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程关键词：单片机、电子爱好者、编程、嵌入式、机器人编程",
+      "transcript_clean": "超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程补充信息：超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程关键词：单片机、电子爱好者、编程、嵌入式、机器人编程",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-14/7336794213746511143.json",
+      "processed_at": "2026-07-14T12:11:03+08:00"
+    },
+    "analysis": {
+      "video_id": "7336794213746511143",
+      "summary": "目标博主 1围绕“单片机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程。超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程补充信息：超声波蜂鸣预警，本节学习目标 1、学习超声波传感器测距 2、使用蜂鸣器发出类似警笛的声音 3、掌握超声波传感器和蜂鸣器的联动实验#单片机 #电子爱好者 #编程 #嵌入式 #机器人编程关键词：单片机、电子爱好者、编程、嵌入式、机器人编程 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "单片机为什么总是做不出来结果？",
+        "先把电子爱好者想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕单片机组织标题与开头。",
+        "用电子爱好者和编程补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "单片机",
+        "电子爱好者",
+        "编程"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-14/7336794213746511143.json",
+      "processed_at": "2026-07-14T12:11:03+08:00"
+    },
+    "last_error": null
+  },
+  "7323229791736302874": {
+    "video_id": "7323229791736302874",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7323229791736302874",
+      "title": "在抖音记录美好生活20260714",
+      "publish_time": "2026-07-14T12:09:54+08:00",
+      "video_url": "https://www.douyin.com/video/7323229791736302874",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260714",
+      "text_hint": "在抖音记录美好生活20260714",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/970fe220-bd17-4433-b90b-aa3a01d469b4",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7323229791736302874",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-14T12:08:28+08:00",
+    "last_seen_at": "2026-07-14T12:08:28+08:00",
+    "fetch_runs": [
+      "2026-07-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7582143101167357184": {
+    "video_id": "7582143101167357184",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7582143101167357184",
+      "title": "揭秘偏远设备自动重启的电子奥秘：MOS管与驱动电路的精密协作#HKT #合科泰 #车规级MOS管 #车规级贴片电阻",
+      "publish_time": "2025-12-10T08:27:00+08:00",
+      "video_url": "https://www.douyin.com/video/7582143101167357184",
+      "cover_url": "",
+      "like_count": 17,
+      "comment_count": 0,
+      "share_count": 9,
+      "collect_count": 0,
+      "description": "揭秘偏远设备自动重启的电子奥秘：MOS管与驱动电路的精密协作#HKT #合科泰 #车规级MOS管 #车规级贴片电阻",
+      "text_hint": "揭秘偏远设备自动重启的电子奥秘：MOS管与驱动电路的精密协作#HKT #合科泰 #车规级MOS管 #车规级贴片电阻",
+      "topic_tags": [
+        "HKT",
+        "合科泰",
+        "车规级MOS管",
+        "车规级贴片电阻"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/1bbbb9b2-a1a4-467f-b650-1c29fb32bc11",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7582143101167357184",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-14T12:08:28+08:00",
+    "last_seen_at": "2026-07-14T12:08:28+08:00",
+    "fetch_runs": [
+      "2026-07-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7393274000299887922": {
+    "video_id": "7393274000299887922",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7393274000299887922",
+      "title": "在抖音记录美好生活20260714",
+      "publish_time": "2026-07-14T12:09:54+08:00",
+      "video_url": "https://www.douyin.com/video/7393274000299887922",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260714",
+      "text_hint": "在抖音记录美好生活20260714",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/f4e542a4-d1f3-4c21-aa4d-49cb2a647652",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7393274000299887922",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-14T12:08:28+08:00",
+    "last_seen_at": "2026-07-14T12:08:28+08:00",
+    "fetch_runs": [
+      "2026-07-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7561733686912240905": {
+    "video_id": "7561733686912240905",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "湖库钓鱼老孙",
+      "video_id": "7561733686912240905",
+      "title": "螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧",
+      "publish_time": "2025-10-16T19:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7561733686912240905",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1cb51100393d549a8bfbb2ea593f48c4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099361600&x-signature=Ti4ng%2BOeM53ohjlNA1B2s80s85Q%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260714120947CAFB4739765B4565CF0D",
+      "like_count": 1265,
+      "comment_count": 125,
+      "share_count": 92,
+      "collect_count": 211,
+      "description": "螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧",
+      "text_hint": "螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧",
+      "topic_tags": [
+        "千谷川云雕",
+        "滑漂远投",
+        "钓大青",
+        "钓鱼技巧"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/997cbf10531edb7c94e25cc9796bd23f/6a55e1e0/video/tos/cn/tos-cn-ve-15/ogURVEhhwjRAZGG3BXIkCL4B7BLGeAPaZIeXIe/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2714&bt=2714&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wlKcDHhd.eRkbC73-ApQX&mime_type=video_mp4&qs=0&rc=NjlnN2RnaTs1ZmU3ZGZmOEBpanhsanI5cnZkNjMzNGkzM0AtMi9eXl8tNmMxNjZjXzQvYSNgNTJzMmQ0Z2xhLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1784002187&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260714120947CAFB4739765B4565CF0D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-14/7561733686912240905.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-14/7561733686912240905.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 293.64,
+      "raw_payload": {
+        "aweme_id": "7561733686912240905",
+        "author_uid": "92625755620",
+        "sec_uid": "MS4wLjABAAAA4XiDXlTVUsiAEz5I-pIxMURLvdeIeU24-jBMYBDq4sk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4XiDXlTVUsiAEz5I-pIxMURLvdeIeU24-jBMYBDq4sk"
+      }
+    },
+    "first_seen_at": "2026-07-14T12:08:28+08:00",
+    "last_seen_at": "2026-07-14T12:08:28+08:00",
+    "fetch_runs": [
+      "2026-07-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-14/7561733686912240905.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-14/7561733686912240905.mp3",
+      "source": "download",
+      "processed_at": "2026-07-14T12:10:51+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7561733686912240905",
+      "transcript_raw": "螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧补充信息：螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧关键词：千谷川云雕、滑漂远投、钓大青、钓鱼技巧",
+      "transcript_clean": "螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧补充信息：螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧关键词：千谷川云雕、滑漂远投、钓大青、钓鱼技巧",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-14/7561733686912240905.json",
+      "processed_at": "2026-07-14T12:11:03+08:00"
+    },
+    "analysis": {
+      "video_id": "7561733686912240905",
+      "summary": "湖库钓鱼老孙围绕“千谷川云雕”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧。螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧补充信息：螺丝新挂法 甩不掉，不跑鱼#千谷川云雕 #滑漂远投 #钓大青 #钓鱼技巧关键词：千谷川云雕、滑漂远投、钓大青、钓鱼技巧 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "千谷川云雕为什么总是做不出来结果？",
+        "先把滑漂远投想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕千谷川云雕组织标题与开头。",
+        "用滑漂远投和钓大青补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "千谷川云雕",
+        "滑漂远投",
+        "钓大青"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-14/7561733686912240905.json",
+      "processed_at": "2026-07-14T12:11:03+08:00"
+    },
+    "last_error": null
+  },
+  "7154697013282606348": {
+    "video_id": "7154697013282606348",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7154697013282606348",
+      "title": "在抖音记录美好生活20260714",
+      "publish_time": "2026-07-14T12:09:54+08:00",
+      "video_url": "https://www.douyin.com/video/7154697013282606348",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260714",
+      "text_hint": "在抖音记录美好生活20260714",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/cdf315f7-9409-424f-adaf-dbbed3d36265",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7154697013282606348",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-14T12:08:28+08:00",
+    "last_seen_at": "2026-07-14T12:08:28+08:00",
+    "fetch_runs": [
+      "2026-07-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
