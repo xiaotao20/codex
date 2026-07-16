@@ -11498,5 +11498,532 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7662900634328337705": {
+    "video_id": "7662900634328337705",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "缘来暴富",
+      "video_id": "7662900634328337705",
+      "title": "一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷",
+      "publish_time": "2026-07-16T07:28:14+08:00",
+      "video_url": "https://www.douyin.com/video/7662900634328337705",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-958309/oUH1AAY6sAo9T19ERQjIIqeYWtBy4ACUNqRIkh~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099534400&x-signature=43Q3lqGTwOCcp6Drs6I%2FpTZ6lj0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071612135803E46BC8A7A780F7BB29",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷",
+      "text_hint": "一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/e796d0e571e7467a9343a8158eddbf90/6a5884d1/video/tos/cn/tos-cn-v-958309/oMmBAyq4hIUJWT1NeGiqxIkHBAHEqstz9QHAEQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=2315&bt=2315&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9wSTbIHhd.jVzU_03-ApQX&mime_type=video_mp4&qs=0&rc=aWdmO2hoOWlkMzVnNjZlZUBpM3F2dHA5cjY0PDMzNDYzM0BhMTNjYi8tXzUxMV40NGItYSNiXmszMmRjY2BhLS1kMDBzcw%3D%3D&btag=80000e00010000&cquery=100B_102v_102u_100o_100w&dy_q=1784175238&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=2026071612135803E46BC8A7A780F7BB29",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7662900634328337705.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7662900634328337705.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 27.634,
+      "raw_payload": {
+        "aweme_id": "7662900634328337705",
+        "author_uid": "1216478333648395",
+        "sec_uid": "MS4wLjABAAAAQDCjeS24jxj85441WCB2VyePqZQMAjWeFs6OaIBQAOSxrFVm11AU1WZvnYiDB80k",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQDCjeS24jxj85441WCB2VyePqZQMAjWeFs6OaIBQAOSxrFVm11AU1WZvnYiDB80k"
+      }
+    },
+    "first_seen_at": "2026-07-16T12:13:46+08:00",
+    "last_seen_at": "2026-07-16T12:13:46+08:00",
+    "fetch_runs": [
+      "2026-07-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7662900634328337705.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7662900634328337705.mp3",
+      "source": "download",
+      "processed_at": "2026-07-16T12:15:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7662900634328337705",
+      "transcript_raw": "一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷补充信息：一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷",
+      "transcript_clean": "一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷补充信息：一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-16/7662900634328337705.json",
+      "processed_at": "2026-07-16T12:17:21+08:00"
+    },
+    "analysis": {
+      "video_id": "7662900634328337705",
+      "summary": "缘来暴富围绕“一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷补充信息：一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷。一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷补充信息：一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷补充信息：一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷补充信息：一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷补充信息：一林书苑2026年秋季新版上册状元大考卷小学1-6年级语数英语试卷",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-16/7662900634328337705.json",
+      "processed_at": "2026-07-16T12:17:21+08:00"
+    },
+    "last_error": null
+  },
+  "7610797689866249330": {
+    "video_id": "7610797689866249330",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7610797689866249330",
+      "title": "在抖音记录美好生活20260716",
+      "publish_time": "2026-07-16T12:14:38+08:00",
+      "video_url": "https://www.douyin.com/video/7610797689866249330",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260716",
+      "text_hint": "在抖音记录美好生活20260716",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/1078bd17-7c87-4743-bff9-6c823e0b389b",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7610797689866249330",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-16T12:13:46+08:00",
+    "last_seen_at": "2026-07-16T12:13:46+08:00",
+    "fetch_runs": [
+      "2026-07-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7204241665098337573": {
+    "video_id": "7204241665098337573",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7204241665098337573",
+      "title": "在抖音记录美好生活20260716",
+      "publish_time": "2026-07-16T12:14:38+08:00",
+      "video_url": "https://www.douyin.com/video/7204241665098337573",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260716",
+      "text_hint": "在抖音记录美好生活20260716",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/cf61aaf2-3bb9-476d-8686-c69450241b06",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7204241665098337573",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-16T12:13:46+08:00",
+    "last_seen_at": "2026-07-16T12:13:46+08:00",
+    "fetch_runs": [
+      "2026-07-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7197740082864950565": {
+    "video_id": "7197740082864950565",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "画空调的民工",
+      "video_id": "7197740082864950565",
+      "title": "天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计",
+      "publish_time": "2023-02-08T19:08:02+08:00",
+      "video_url": "https://www.douyin.com/video/7197740082864950565",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6a8e8e378bb86a1acf7539ae5a0ff035~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099534400&x-signature=NsrDGJRlsqX%2BtjDoEHvuK9dLea0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260716121416310F4C7970FBA6C4F2EC",
+      "like_count": 532,
+      "comment_count": 29,
+      "share_count": 108,
+      "collect_count": 269,
+      "description": "天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计",
+      "text_hint": "天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计",
+      "topic_tags": [
+        "风盘的布置",
+        "天正暖通",
+        "暖通空调毕业设计",
+        "暖通空调设计",
+        "空调设计"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/5c935863db8f2caf1f7d6b367d226352/6a5887e4/video/tos/cn/tos-cn-ve-15c001-alinc2/oICeAD7xf4ea0BwDCHHPbu2xiiSIAUrABEOgT7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=280&bt=280&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9wuTbIHhd.jVzU_03-ApQX&mime_type=video_mp4&qs=0&rc=ZDc3Nzs1aThkOWZlZDtkZUBpM3lvOzY6ZjdyaTMzNGkzM0AyNV8tXmMtNTIxYl5hMTEzYSNjaC1jcjQwMmVgLS1kLS9zcw%3D%3D&btag=80000e00038000&cquery=100w_100B_100H_100K_100o&dy_q=1784175256&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260716121416310F4C7970FBA6C4F2EC",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7197740082864950565.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7197740082864950565.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 796.468,
+      "raw_payload": {
+        "aweme_id": "7197740082864950565",
+        "author_uid": "2859185366901184",
+        "sec_uid": "MS4wLjABAAAA1yCs3mKXTvqodz29Fjtj_SfdV0sUunTp57o3njKj86opSR8gdNGz4jfj_RPsJoU7",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA1yCs3mKXTvqodz29Fjtj_SfdV0sUunTp57o3njKj86opSR8gdNGz4jfj_RPsJoU7"
+      }
+    },
+    "first_seen_at": "2026-07-16T12:13:46+08:00",
+    "last_seen_at": "2026-07-16T12:13:46+08:00",
+    "fetch_runs": [
+      "2026-07-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7197740082864950565.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7197740082864950565.mp3",
+      "source": "download",
+      "processed_at": "2026-07-16T12:17:21+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7197740082864950565",
+      "transcript_raw": "天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计补充信息：天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计关键词：风盘的布置、天正暖通、暖通空调毕业设计、暖通空调设计、空调设计",
+      "transcript_clean": "天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计补充信息：天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计关键词：风盘的布置、天正暖通、暖通空调毕业设计、暖通空调设计、空调设计",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-16/7197740082864950565.json",
+      "processed_at": "2026-07-16T12:17:21+08:00"
+    },
+    "analysis": {
+      "video_id": "7197740082864950565",
+      "summary": "画空调的民工围绕“风盘的布置”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计。天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计补充信息：天正暖通做暖通空调毕业设计之布置设备----风盘的布置\n#风盘的布置  #天正暖通 #暖通空调毕业设计  #暖通空调设计  #空调设计关键词：风盘的布置、天正暖通、暖通空调毕业设计、暖通空调设计、空调设计 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "风盘的布置为什么总是做不出来结果？",
+        "先把天正暖通想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕风盘的布置组织标题与开头。",
+        "用天正暖通和暖通空调毕业设计补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "风盘的布置",
+        "天正暖通",
+        "暖通空调毕业设计"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-16/7197740082864950565.json",
+      "processed_at": "2026-07-16T12:17:21+08:00"
+    },
+    "last_error": null
+  },
+  "7197733336532405556": {
+    "video_id": "7197733336532405556",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7197733336532405556",
+      "title": "在抖音记录美好生活20260716",
+      "publish_time": "2026-07-16T12:14:38+08:00",
+      "video_url": "https://www.douyin.com/video/7197733336532405556",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260716",
+      "text_hint": "在抖音记录美好生活20260716",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c14bd310-b865-4c7c-8cf5-6ee4c734b5a2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7197733336532405556",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-16T12:13:46+08:00",
+    "last_seen_at": "2026-07-16T12:13:46+08:00",
+    "fetch_runs": [
+      "2026-07-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7475175219917802793": {
+    "video_id": "7475175219917802793",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "袁磊☸袁荣伟",
+      "video_id": "7475175219917802793",
+      "title": "一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集",
+      "publish_time": "2025-02-25T10:17:50+08:00",
+      "video_url": "https://www.douyin.com/video/7475175219917802793",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/d2c2408e300809fd9afbd6f703124e3f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099534400&x-signature=GP0SgK3PSbsBXJHb2ZNV38vaC4E%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607161214278C7F73666BF472055914",
+      "like_count": 861,
+      "comment_count": 162,
+      "share_count": 129,
+      "collect_count": 309,
+      "description": "一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集",
+      "text_hint": "一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集",
+      "topic_tags": [
+        "下陈州",
+        "打銮驾",
+        "十保官",
+        "李斯忠",
+        "豫剧全场戏合集"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2834a1f7ffc454520b4cedf3d39c2ff7/6a5886e3/video/tos/cn/tos-cn-ve-15/oIgAIAIwQ7LiZRMBnIKmu7h9EvXP9STw5Pw0i/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2351&bt=2351&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9wmTbIHhd.jVzU_03-ApQX&mime_type=video_mp4&qs=0&rc=Njk8ODg1PGZmOWkzNjM2ZUBpanNzbXU5cmZseDMzNGkzM0AwYjJjYTBgXjAxX2NeNF9hYSNkNHEyMmRrYnJgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1784175267&feature_id=aa7df520beeae8e397df15f38df0454c&l=202607161214278C7F73666BF472055914",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7475175219917802793.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7475175219917802793.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 528.696,
+      "raw_payload": {
+        "aweme_id": "7475175219917802793",
+        "author_uid": "3513657865548115",
+        "sec_uid": "MS4wLjABAAAABVynWXUzAV-8EcbOPLzYthgMXBRX6Q2rS9TDtZJbHB7nE_QiX4bRLvZcSUbvTrgW",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABVynWXUzAV-8EcbOPLzYthgMXBRX6Q2rS9TDtZJbHB7nE_QiX4bRLvZcSUbvTrgW"
+      }
+    },
+    "first_seen_at": "2026-07-16T12:13:46+08:00",
+    "last_seen_at": "2026-07-16T12:13:46+08:00",
+    "fetch_runs": [
+      "2026-07-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7475175219917802793.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7475175219917802793.mp3",
+      "source": "download",
+      "processed_at": "2026-07-16T12:16:56+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7475175219917802793",
+      "transcript_raw": "一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集补充信息：一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集关键词：下陈州、打銮驾、十保官、李斯忠、豫剧全场戏合集",
+      "transcript_clean": "一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集补充信息：一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集关键词：下陈州、打銮驾、十保官、李斯忠、豫剧全场戏合集",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-16/7475175219917802793.json",
+      "processed_at": "2026-07-16T12:17:21+08:00"
+    },
+    "analysis": {
+      "video_id": "7475175219917802793",
+      "summary": "袁磊☸袁荣伟围绕“下陈州”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集。一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集补充信息：一保管王恩师延龄丞相#下陈州#打銮驾#十保官#李斯忠#豫剧全场戏合集关键词：下陈州、打銮驾、十保官、李斯忠、豫剧全场戏合集 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "下陈州为什么总是做不出来结果？",
+        "先把打銮驾想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕下陈州组织标题与开头。",
+        "用打銮驾和十保官补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "下陈州",
+        "打銮驾",
+        "十保官"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-16/7475175219917802793.json",
+      "processed_at": "2026-07-16T12:17:21+08:00"
+    },
+    "last_error": null
+  },
+  "7475606579354586427": {
+    "video_id": "7475606579354586427",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "胖虎小吃配方分享",
+      "video_id": "7475606579354586427",
+      "title": "比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方",
+      "publish_time": "2025-02-26T14:11:44+08:00",
+      "video_url": "https://www.douyin.com/video/7475606579354586427",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/fc5da5569cb714af026aa8455e13cea9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099534400&x-signature=D7VlKmDTeTVOpYn%2BkjkfiCN6l08%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607161214316973E31B8087A4231E53",
+      "like_count": 8616,
+      "comment_count": 756,
+      "share_count": 3139,
+      "collect_count": 10038,
+      "description": "比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方",
+      "text_hint": "比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方",
+      "topic_tags": [
+        "里脊肉饼",
+        "里脊肉饼配方"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/71c92788663aaf837a66b4c0d14c44fb/6a5885cb/video/tos/cn/tos-cn-ve-15c000-ce/oAiAYE8DwQoCZAhFf2n9EhAmQSAKbvIfrzhWze/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1754&bt=1754&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wFTbIHhd.jVzU_03-ApQX&mime_type=video_mp4&qs=0&rc=OTRnM2g5PDM6PGRkZjxnOUBpMztta205cmZleDMzbGkzNEAyYjA2YC02Xl4xMy81Ni42YSNjLjYxMmRzLXNgLS1kLWJzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1784175271&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607161214316973E31B8087A4231E53",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7475606579354586427.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7475606579354586427.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 244.716,
+      "raw_payload": {
+        "aweme_id": "7475606579354586427",
+        "author_uid": "4154396392824179",
+        "sec_uid": "MS4wLjABAAAAWc_Y0CNb1k12RacEJBRhXM7F7Q4dGfs9uvveLkL9m9dQNul0tZoR-v7xhsdWxYk-",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWc_Y0CNb1k12RacEJBRhXM7F7Q4dGfs9uvveLkL9m9dQNul0tZoR-v7xhsdWxYk-"
+      }
+    },
+    "first_seen_at": "2026-07-16T12:13:46+08:00",
+    "last_seen_at": "2026-07-16T12:13:46+08:00",
+    "fetch_runs": [
+      "2026-07-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7475606579354586427.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-16/7475606579354586427.mp3",
+      "source": "download",
+      "processed_at": "2026-07-16T12:15:41+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7475606579354586427",
+      "transcript_raw": "比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方补充信息：比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方关键词：里脊肉饼、里脊肉饼配方",
+      "transcript_clean": "比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方补充信息：比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方关键词：里脊肉饼、里脊肉饼配方",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-16/7475606579354586427.json",
+      "processed_at": "2026-07-16T12:17:21+08:00"
+    },
+    "analysis": {
+      "video_id": "7475606579354586427",
+      "summary": "胖虎小吃配方分享围绕“里脊肉饼”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方。比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方补充信息：比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼 #里脊肉饼配方关键词：里脊肉饼、里脊肉饼配方 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "里脊肉饼为什么总是做不出来结果？",
+        "先把里脊肉饼配方想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕里脊肉饼组织标题与开头。",
+        "用里脊肉饼配方和比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "里脊肉饼",
+        "里脊肉饼配方",
+        "比肉夹馍更香的里脊肉饼太香了!58秒学会，超级简单，比夜市卖的还好吃!快安排起来~#里脊肉饼"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-16/7475606579354586427.json",
+      "processed_at": "2026-07-16T12:17:21+08:00"
+    },
+    "last_error": null
+  },
+  "7459216754208673033": {
+    "video_id": "7459216754208673033",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7459216754208673033",
+      "title": "在抖音记录美好生活20260716",
+      "publish_time": "2026-07-16T12:14:38+08:00",
+      "video_url": "https://www.douyin.com/video/7459216754208673033",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260716",
+      "text_hint": "在抖音记录美好生活20260716",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/21b61669-940a-408d-973d-3a77f5f4524d",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7459216754208673033",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-16T12:13:46+08:00",
+    "last_seen_at": "2026-07-16T12:13:46+08:00",
+    "fetch_runs": [
+      "2026-07-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
