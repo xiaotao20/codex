@@ -12025,5 +12025,737 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7662829629517925675": {
+    "video_id": "7662829629517925675",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "学米袁老师知识分享",
+      "video_id": "7662829629517925675",
+      "title": "#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场",
+      "publish_time": "2026-07-16T02:52:39+08:00",
+      "video_url": "https://www.douyin.com/video/7662829629517925675",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-29cc83/oUGqVDtqIABdxdoh0SOgI9GWseXeHP4hPYj9C0~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099620800&x-signature=yMR2DVffUp16524BJo45fijWZio%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071712125878B35160337D4161D0A0",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 1,
+      "collect_count": 3,
+      "description": "#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场",
+      "text_hint": "#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场",
+      "topic_tags": [
+        "七升八"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6f42b01bcd413d4a49d7902546a2fd8e/6a59d647/video/tos/cn/tos-cn-ve-51/oYwqKQPjqJAoYitYB1iigtB7DVAN87xEIofRDe/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1673&bt=1673&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wAmJIHhd.h2PCM73-ApQX&mime_type=video_mp4&qs=1&rc=ZTk5OWdnNGc4NDg1aGQ1NkBpajVvZm85cnd3PDMzNDYzM0BfNWMxYTI0NS8xMjViYjU0YSNlMDJoMmRzYV9hLS1kMDBzcw%3D%3D&btag=80000e00028000&cquery=100w_100B_102v_102u_100o&dy_q=1784261578&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026071712125878B35160337D4161D0A0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7662829629517925675.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7662829629517925675.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 77.167,
+      "raw_payload": {
+        "aweme_id": "7662829629517925675",
+        "author_uid": "1646433794540377",
+        "sec_uid": "MS4wLjABAAAAfPeYiunSkqi_DAU42JPS5l3zpxI-Hr3Ise41j7BNk9Taxx1KxAjfIXvu6_E-Wx8u",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAfPeYiunSkqi_DAU42JPS5l3zpxI-Hr3Ise41j7BNk9Taxx1KxAjfIXvu6_E-Wx8u"
+      }
+    },
+    "first_seen_at": "2026-07-17T12:12:46+08:00",
+    "last_seen_at": "2026-07-17T12:12:46+08:00",
+    "fetch_runs": [
+      "2026-07-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7662829629517925675.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7662829629517925675.mp3",
+      "source": "download",
+      "processed_at": "2026-07-17T12:14:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7662829629517925675",
+      "transcript_raw": "#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场补充信息：#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场关键词：七升八",
+      "transcript_clean": "#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场补充信息：#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场关键词：七升八",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-17/7662829629517925675.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7662829629517925675",
+      "summary": "学米袁老师知识分享围绕“七升八”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场。#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场补充信息：#七升八 不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场关键词：七升八 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "七升八为什么总是做不出来结果？",
+        "先把#七升八想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕七升八组织标题与开头。",
+        "用#七升八和不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场#七升八补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "七升八",
+        "#七升八",
+        "不要心软，一定要狠抓生物地理，现在开始让孩子每天看一页备战生地，把这208知识点吃透了，考试笑着走出考场#七升八"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-17/7662829629517925675.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "last_error": null
+  },
+  "7616198747500801462": {
+    "video_id": "7616198747500801462",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "孔祥宇",
+      "video_id": "7616198747500801462",
+      "title": "库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤",
+      "publish_time": "2026-03-12T11:00:59+08:00",
+      "video_url": "https://www.douyin.com/video/7616198747500801462",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1b3d2d996fc718eabd49de60d96ce90b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099620800&x-signature=FXxMbyXvChgmZCNgbR0ESkAwM2s%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071712130153089372F0F2AD64EB3D",
+      "like_count": 3994,
+      "comment_count": 176,
+      "share_count": 296,
+      "collect_count": 53,
+      "description": "库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤",
+      "text_hint": "库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤",
+      "topic_tags": [
+        "库里",
+        "库里受伤"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/339e8972c02b6318d4f509c87e5921d5/6a59d65d/video/tos/cn/tos-cn-ve-15/o48OiAAiNIA6meQgpZA20RERIrMpBfQBDAP0Ky/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1191&bt=1191&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9w8mJIHhd.h2PCM73-ApQX&mime_type=video_mp4&qs=0&rc=PDk0NDc7aDwzODc3NDU0ZEBpam5qbHQ5cm41OTMzNGkzM0BhLl9fMl41NjIxMzVeYDEtYSNpb2toMmRzZW1hLS1kLTBzcw%3D%3D&btag=80000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1784261581&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026071712130153089372F0F2AD64EB3D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7616198747500801462.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7616198747500801462.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 96.315,
+      "raw_payload": {
+        "aweme_id": "7616198747500801462",
+        "author_uid": "105409944789",
+        "sec_uid": "MS4wLjABAAAAJJRSdmxRk2JhsBUIK-qGW5U2pZNEebyw6uzwDb5wYXY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAJJRSdmxRk2JhsBUIK-qGW5U2pZNEebyw6uzwDb5wYXY"
+      }
+    },
+    "first_seen_at": "2026-07-17T12:12:46+08:00",
+    "last_seen_at": "2026-07-17T12:12:46+08:00",
+    "fetch_runs": [
+      "2026-07-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7616198747500801462.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7616198747500801462.mp3",
+      "source": "download",
+      "processed_at": "2026-07-17T12:14:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7616198747500801462",
+      "transcript_raw": "库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤补充信息：库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤关键词：库里、库里受伤",
+      "transcript_clean": "库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤补充信息：库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤关键词：库里、库里受伤",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-17/7616198747500801462.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7616198747500801462",
+      "summary": "孔祥宇围绕“库里”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤。库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤补充信息：库里膝伤仍未痊愈，至少再缺席十天！ #库里 #库里受伤关键词：库里、库里受伤 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "库里为什么总是做不出来结果？",
+        "先把库里受伤想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕库里组织标题与开头。",
+        "用库里受伤和#库里补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "库里",
+        "库里受伤",
+        "#库里"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-17/7616198747500801462.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "last_error": null
+  },
+  "7167930735310032136": {
+    "video_id": "7167930735310032136",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "奈斯",
+      "video_id": "7167930735310032136",
+      "title": "消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新",
+      "publish_time": "2022-11-20T13:10:00+08:00",
+      "video_url": "https://www.douyin.com/video/7167930735310032136",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1e5b57db62a8b57c8b5d3ce01536664e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099620800&x-signature=yuka%2F0UebY7YyNga3fAlpmqBbck%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607171213041A5DCB6C599B15BAFD5A",
+      "like_count": 2631,
+      "comment_count": 142,
+      "share_count": 132,
+      "collect_count": 791,
+      "description": "消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新",
+      "text_hint": "消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新",
+      "topic_tags": [
+        "挖掘机",
+        "消防车",
+        "宝宝车辆认知",
+        "儿童动画片0-3岁益智",
+        "宝宝启蒙",
+        "育儿",
+        "亲子教育",
+        "动画片",
+        "小朋友都爱看",
+        "儿童动画片推荐",
+        "动漫推荐",
+        "早教启蒙",
+        "儿童游戏",
+        "动画片儿童视频3-6岁",
+        "儿童动画片",
+        "工程车动画片大全",
+        "动画片每天更新"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1a3c077aa1621d6f17f32f56a58326b8/6a59d6cf/video/tos/cn/tos-cn-ve-15/oksBf6eexInslPQAmAYAb3DQGwUW7cEBE8QZ8C/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2379&bt=2379&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9w0mJIHhd.h2PCM73-ApQX&mime_type=video_mp4&qs=0&rc=OTo7ODU0ODhlOjlnO2g2ZEBpM2s8OTo6ZjxzZzMzNGkzM0AtLV4vYS9hNS4xMjRiMi8uYSMtc3BocjRfZ3BgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100K_100o_100w_100B_100H&dy_q=1784261584&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202607171213041A5DCB6C599B15BAFD5A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7167930735310032136.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7167930735310032136.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 207.912,
+      "raw_payload": {
+        "aweme_id": "7167930735310032136",
+        "author_uid": "1275024459443629",
+        "sec_uid": "MS4wLjABAAAAqiZyCkR_2qK-hEqZAoTFvzXji6eHAQjTvFPlGsQWERiNofpzN2TmdbZd0rpDZIeP",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAqiZyCkR_2qK-hEqZAoTFvzXji6eHAQjTvFPlGsQWERiNofpzN2TmdbZd0rpDZIeP"
+      }
+    },
+    "first_seen_at": "2026-07-17T12:12:46+08:00",
+    "last_seen_at": "2026-07-17T12:12:46+08:00",
+    "fetch_runs": [
+      "2026-07-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7167930735310032136.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7167930735310032136.mp3",
+      "source": "download",
+      "processed_at": "2026-07-17T12:17:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7167930735310032136",
+      "transcript_raw": "消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新补充信息：消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新关键词：挖掘机、消防车、宝宝车辆认知、儿童动画片0-3岁益智、宝宝启蒙、育儿、亲子教育、动画片、小朋友都爱看、儿童动画片推荐、动漫推荐、早教启蒙、儿童游戏、动画片儿童视频3-6岁、儿童动画片、工程车动画片大全、动画片每天更新",
+      "transcript_clean": "消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新补充信息：消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新关键词：挖掘机、消防车、宝宝车辆认知、儿童动画片0-3岁益智、宝宝启蒙、育儿、亲子教育、动画片、小朋友都爱看、儿童动画片推荐、动漫推荐、早教启蒙、儿童游戏、动画片儿童视频3-6岁、儿童动画片、工程车动画片大全、动画片每天更新",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-17/7167930735310032136.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7167930735310032136",
+      "summary": "奈斯围绕“挖掘机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新。消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新补充信息：消防车教颜色，#挖掘机 #消防车 #宝宝车辆认知  #儿童动画片0-3岁益智 #宝宝启蒙 #育儿 #亲子教育 #动画片  #小朋友都爱看  #儿童动画片推荐  #动漫推荐 #早教启蒙 #儿童游戏 #动画片儿童视频3-6岁 #儿童动画片 #工程车动画片大全 #动画片每天更新关键词：挖掘机、消防车、宝宝车辆认知、儿童动画片0-3岁益智、宝宝启蒙、育儿、亲子教育、动画片、小朋友都爱看、儿童动画片推荐、动漫推荐、早教启蒙、儿童游戏、动画片儿童视频3-6岁、儿童动画片、工程车动画片大全、动画片每天更新 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "挖掘机为什么总是做不出来结果？",
+        "先把消防车想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕挖掘机组织标题与开头。",
+        "用消防车和宝宝车辆认知补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "挖掘机",
+        "消防车",
+        "宝宝车辆认知"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-17/7167930735310032136.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "last_error": null
+  },
+  "7274115797729938751": {
+    "video_id": "7274115797729938751",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "中考升学吴主任",
+      "video_id": "7274115797729938751",
+      "title": "中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读",
+      "publish_time": "2023-09-02T14:44:32+08:00",
+      "video_url": "https://www.douyin.com/video/7274115797729938751",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f98f8613650b044d6520b2e5485c419a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099620800&x-signature=fERz8SDCXcvKaF8xwMETF82bFTo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260717121307309B316F26A637D552C0",
+      "like_count": 237,
+      "comment_count": 28,
+      "share_count": 153,
+      "collect_count": 228,
+      "description": "中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读",
+      "text_hint": "中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读",
+      "topic_tags": [
+        "中职生",
+        "职高",
+        "中专",
+        "职教高考",
+        "家长必读"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b1bcbe44b5e38f97682f4f499a541d43/6a59d6c5/video/tos/cn/tos-cn-ve-0015c800/osS8lDob7JDIjEBkCcn3efeaYPM5AANINMIJEB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=5788&bt=5788&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wkmJIHhd.h2PCM73-ApQX&mime_type=video_mp4&qs=0&rc=OTxmZzplZzZkNDNkZ2Y5PEBpM3ZzZjk6ZmpnbTMzNGkzM0A0LTBjMmEuNTIxYWMyLS8zYSNocWlncjRvY21gLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1784261587&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260717121307309B316F26A637D552C0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7274115797729938751.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7274115797729938751.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 194.42,
+      "raw_payload": {
+        "aweme_id": "7274115797729938751",
+        "author_uid": "879211207732831",
+        "sec_uid": "MS4wLjABAAAA4cOxWs4tksdNG0lJdqztP_qob90g6MLJJklHv5Tfwcw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4cOxWs4tksdNG0lJdqztP_qob90g6MLJJklHv5Tfwcw"
+      }
+    },
+    "first_seen_at": "2026-07-17T12:12:46+08:00",
+    "last_seen_at": "2026-07-17T12:12:46+08:00",
+    "fetch_runs": [
+      "2026-07-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7274115797729938751.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7274115797729938751.mp3",
+      "source": "download",
+      "processed_at": "2026-07-17T12:17:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7274115797729938751",
+      "transcript_raw": "中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读补充信息：中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读关键词：中职生、职高、中专、职教高考、家长必读",
+      "transcript_clean": "中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读补充信息：中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读关键词：中职生、职高、中专、职教高考、家长必读",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-17/7274115797729938751.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7274115797729938751",
+      "summary": "中考升学吴主任围绕“中职生”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读。中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读补充信息：中专、技校、职高等中职学校，最容易误导家长的10个班型，请一定要收藏保存转发！\n1、中专技校普通三年制；2职教高考班；3企业订单班；4普职融通班；5综合高中班；6五年一贯制；7三二连读班；8高职单招班；9五年制高级技工班；10六年制预备技师班；#中职生 #职高 #中专 #职教高考 #家长必读关键词：中职生、职高、中专、职教高考、家长必读 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "中职生为什么总是做不出来结果？",
+        "先把职高想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕中职生组织标题与开头。",
+        "用职高和中专补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "中职生",
+        "职高",
+        "中专"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-17/7274115797729938751.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "last_error": null
+  },
+  "7491995925502528820": {
+    "video_id": "7491995925502528820",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7491995925502528820",
+      "title": "#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程",
+      "publish_time": "2025-04-11T10:10:00+08:00",
+      "video_url": "https://www.douyin.com/video/7491995925502528820",
+      "cover_url": "",
+      "like_count": 87,
+      "comment_count": 33,
+      "share_count": 7,
+      "collect_count": 8,
+      "description": "#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程",
+      "text_hint": "#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程",
+      "topic_tags": [
+        "南通发布海区大风橙色预警",
+        "南通",
+        "通州湾",
+        "船舶",
+        "引航员",
+        "靠泊全过程"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/09d48f5be2280e76a8771cdc8b89e537/6a59d737/video/tos/cn/tos-cn-ve-0015c800/oYBjzAExpQBBgyA4IDXABJu5oNihefCis30yPm/?a=6383&br=1563&bt=1563&btag=80000e00030000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100z_100o_100w_100B_100x&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1784261604&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wLmJIHhd.h2PCM73-ApQX&is_ssr=1&l=202607171213235CBB7F189116BF50C530&lr=all&mime_type=video_mp4&qs=1&rc=Njc8OWc6OGk3ZTY5NDg1aUBpMzU7ZWs5cnJoeTMzNGkzM0AzXzQyL19hNmIxX2NfXzJjYSNoL2ptMmQ0Z3BgLS1kLWFzcw%3D%3D&req_cdn_type=&__vid=7491995925502528820",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7491995925502528820.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7491995925502528820.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7491995925502528820",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-17T12:12:46+08:00",
+    "last_seen_at": "2026-07-17T12:12:46+08:00",
+    "fetch_runs": [
+      "2026-07-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7491995925502528820.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7491995925502528820.mp3",
+      "source": "download",
+      "processed_at": "2026-07-17T12:14:47+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7491995925502528820",
+      "transcript_raw": "#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程补充信息：#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程关键词：南通发布海区大风橙色预警、南通、通州湾、船舶、引航员、靠泊全过程",
+      "transcript_clean": "#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程补充信息：#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程关键词：南通发布海区大风橙色预警、南通、通州湾、船舶、引航员、靠泊全过程",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-17/7491995925502528820.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7491995925502528820",
+      "summary": "目标博主 1围绕“南通发布海区大风橙色预警”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程。#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程补充信息：#南通发布海区大风橙色预警 #南通#通州湾#船舶#引航员 #靠泊全过程关键词：南通发布海区大风橙色预警、南通、通州湾、船舶、引航员、靠泊全过程 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "南通发布海区大风橙色预警为什么总是做不出来结果？",
+        "先把南通想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕南通发布海区大风橙色预警组织标题与开头。",
+        "用南通和通州湾补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "南通发布海区大风橙色预警",
+        "南通",
+        "通州湾"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-17/7491995925502528820.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "last_error": null
+  },
+  "7437289259834395914": {
+    "video_id": "7437289259834395914",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "北欧战斧",
+      "video_id": "7437289259834395914",
+      "title": "#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团",
+      "publish_time": "2024-11-15T08:01:18+08:00",
+      "video_url": "https://www.douyin.com/video/7437289259834395914",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/483d1c3a752ba9b81f279254903d7906~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099620800&x-signature=q8TyqVH6tCP3Nz5PrLrHMD3Q4Ww%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607171213309EF92DC316B5DE522341",
+      "like_count": 92,
+      "comment_count": 19,
+      "share_count": 23,
+      "collect_count": 8,
+      "description": "#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团",
+      "text_hint": "#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团",
+      "topic_tags": [
+        "游戏日常分享",
+        "tnt弹道轨迹",
+        "游戏中的瞬间",
+        "魔方工作室"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/1cb42444e584f644074f4ee019be956d/6a59d717/video/cn/mps/realtime/v1/r/p/v0200fg10000csr8s5vog65olrq75060/4fedc09f54be4aa4820d876b788783fe/2a20e050bdcb3a1a88340d26acafee92/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=841&bt=841&cs=0&ds=3&ft=InFJ3Y-5DyjNbRVQ9w7mJIHhd.h2PCM73-ApQX&mime_type=video_mp4&qs=0&rc=aDY6O2U6ZzU3ZGg3aTNnaUBpMzM6dXI5cjg7djMzNGkzM0BjNTU0MzUtNV4xXzI2YGIxYSMzMm5pMmRzcG9gLS1kLS9zcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1784261610&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7437289259834395914&l=202607171213309EF92DC316B5DE522341&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7437289259834395914.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7437289259834395914.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 253.762,
+      "raw_payload": {
+        "aweme_id": "7437289259834395914",
+        "author_uid": "2814389264595303",
+        "sec_uid": "MS4wLjABAAAA15ctJI4uiGqdDQArbZKeob4jOzUBxdRcmK4RYENokNFvNJq4ETPFHtpfDHWOJi5j",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA15ctJI4uiGqdDQArbZKeob4jOzUBxdRcmK4RYENokNFvNJq4ETPFHtpfDHWOJi5j"
+      }
+    },
+    "first_seen_at": "2026-07-17T12:12:46+08:00",
+    "last_seen_at": "2026-07-17T12:12:46+08:00",
+    "fetch_runs": [
+      "2026-07-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7437289259834395914.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7437289259834395914.mp3",
+      "source": "download",
+      "processed_at": "2026-07-17T12:15:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7437289259834395914",
+      "transcript_raw": "#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团补充信息：#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团关键词：游戏日常分享、tnt弹道轨迹、游戏中的瞬间、魔方工作室",
+      "transcript_clean": "#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团补充信息：#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团关键词：游戏日常分享、tnt弹道轨迹、游戏中的瞬间、魔方工作室",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-17/7437289259834395914.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7437289259834395914",
+      "summary": "北欧战斧围绕“游戏日常分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团。#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团补充信息：#游戏日常分享 \n#tnt弹道轨迹 \n#游戏中的瞬间 \n#魔方工作室 难度系数最高的副本-马戏团关键词：游戏日常分享、tnt弹道轨迹、游戏中的瞬间、魔方工作室 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "游戏日常分享为什么总是做不出来结果？",
+        "先把tnt弹道轨迹想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕游戏日常分享组织标题与开头。",
+        "用tnt弹道轨迹和游戏中的瞬间补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "游戏日常分享",
+        "tnt弹道轨迹",
+        "游戏中的瞬间"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-17/7437289259834395914.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "last_error": null
+  },
+  "7417037525618822450": {
+    "video_id": "7417037525618822450",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "进击的李同学（重庆小班8月8-9日）",
+      "video_id": "7417037525618822450",
+      "title": "抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学",
+      "publish_time": "2024-09-21T18:29:01+08:00",
+      "video_url": "https://www.douyin.com/video/7417037525618822450",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6f8f76752cfb7533f34588eb4d0e6593~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099620800&x-signature=L7R5SlGB76eRgULu7jOjvW1d6aI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260717121333BAEC769EF97557DEECD0",
+      "like_count": 381,
+      "comment_count": 21,
+      "share_count": 167,
+      "collect_count": 289,
+      "description": "抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学",
+      "text_hint": "抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学",
+      "topic_tags": [
+        "新媒体运营",
+        "短视频运营",
+        "重庆",
+        "一分钟干货教学"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f20e23ca5c142a61dac3dbf05a6b45cc/6a59d70a/video/tos/cn/tos-cn-ve-0015c800/owpdnoA3eAQOfan0jG7NLHCI8IBELBhETTQImf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3594&bt=3594&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9w5mJIHhd.h2PCM73-ApQX&mime_type=video_mp4&qs=0&rc=OTtnZ2g3NzxoOzw7ZDs1Z0BpM25sc3k5cm48dTMzNGkzM0AwMl5eXl8vXmAxLi5fYmJgYSMvMWJoMmRzamtgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1784261613&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260717121333BAEC769EF97557DEECD0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7417037525618822450.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7417037525618822450.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 237.611,
+      "raw_payload": {
+        "aweme_id": "7417037525618822450",
+        "author_uid": "2686861114358302",
+        "sec_uid": "MS4wLjABAAAAQ_bgnEh8ss-9U62jQeE3Na8vi5ls0du0JR4lTgogp_kPIzJMOaVyDDuiY8TlcLCH",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQ_bgnEh8ss-9U62jQeE3Na8vi5ls0du0JR4lTgogp_kPIzJMOaVyDDuiY8TlcLCH"
+      }
+    },
+    "first_seen_at": "2026-07-17T12:12:46+08:00",
+    "last_seen_at": "2026-07-17T12:12:46+08:00",
+    "fetch_runs": [
+      "2026-07-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7417037525618822450.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7417037525618822450.mp3",
+      "source": "download",
+      "processed_at": "2026-07-17T12:16:11+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7417037525618822450",
+      "transcript_raw": "抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学补充信息：抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学关键词：新媒体运营、短视频运营、重庆、一分钟干货教学",
+      "transcript_clean": "抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学补充信息：抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学关键词：新媒体运营、短视频运营、重庆、一分钟干货教学",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-17/7417037525618822450.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7417037525618822450",
+      "summary": "进击的李同学（重庆小班8月8-9日）围绕“新媒体运营”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学。抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学补充信息：抖音流量规则又升级了，抖音创作者大会提出交易力的三个核心！#新媒体运营 #短视频运营 #重庆 #一分钟干货教学关键词：新媒体运营、短视频运营、重庆、一分钟干货教学 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新媒体运营为什么总是做不出来结果？",
+        "先把短视频运营想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新媒体运营组织标题与开头。",
+        "用短视频运营和重庆补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新媒体运营",
+        "短视频运营",
+        "重庆"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-17/7417037525618822450.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "last_error": null
+  },
+  "7152147262225861923": {
+    "video_id": "7152147262225861923",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7152147262225861923",
+      "title": "歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课",
+      "publish_time": "2022-10-08T14:24:00+08:00",
+      "video_url": "https://www.douyin.com/video/7152147262225861923",
+      "cover_url": "",
+      "like_count": 161,
+      "comment_count": 19,
+      "share_count": 93,
+      "collect_count": 21,
+      "description": "歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课",
+      "text_hint": "歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课",
+      "topic_tags": [
+        "音乐教师",
+        "教师考编",
+        "音乐",
+        "教育",
+        "公开课"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/fc1b5a029c6a04654a8b7aa052090526/6a59d6f6/video/cn/mps/realtime/v1/r/p/v0d00fg10000cd0oeljc77u8k7ci10e0/d4edf85f71c7400c9529b238531439a0/386bc15bd712904bee477491e634e66e/mp4/main.mp4?a=6383&br=451&bt=451&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&codec=h264&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&definition=720p&dr=0&ds=3&dy_q=1784261630&eid=64256&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&ft=InFJ3Y-5DyjNbRVQ9wEmJIHhd.h2PCM73-ApQX&is_ssr=1&item_id=7152147262225861923&l=2026071712134919FB83877D73EE42EA4F&logo_type=&lr=all&mime_type=video_mp4&qs=0&rc=Mzw3Njs1PDhmMzo0aTtnN0BpMzNsOjs6Zm9yZzMzNGkzM0BeMC4yMF8vNi0xYDQyY2JhYSNiLmBocjRnYi1gLS1kLWFzcw%3D%3D&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type&__vid=7152147262225861923",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7152147262225861923.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7152147262225861923.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7152147262225861923",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-17T12:12:46+08:00",
+    "last_seen_at": "2026-07-17T12:12:46+08:00",
+    "fetch_runs": [
+      "2026-07-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7152147262225861923.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-17/7152147262225861923.mp3",
+      "source": "download",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7152147262225861923",
+      "transcript_raw": "歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课补充信息：歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课关键词：音乐教师、教师考编、音乐、教育、公开课",
+      "transcript_clean": "歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课补充信息：歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课关键词：音乐教师、教师考编、音乐、教育、公开课",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-17/7152147262225861923.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7152147262225861923",
+      "summary": "目标博主 1围绕“音乐教师”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课。歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课补充信息：歌曲教学如何进行模唱#音乐教师 #教师考编 #音乐 #教育 #公开课关键词：音乐教师、教师考编、音乐、教育、公开课 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "音乐教师为什么总是做不出来结果？",
+        "先把教师考编想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕音乐教师组织标题与开头。",
+        "用教师考编和音乐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "音乐教师",
+        "教师考编",
+        "音乐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-17/7152147262225861923.json",
+      "processed_at": "2026-07-17T12:17:59+08:00"
+    },
+    "last_error": null
   }
 }
