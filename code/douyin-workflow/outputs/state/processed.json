@@ -12757,5 +12757,587 @@
       "processed_at": "2026-07-17T12:17:59+08:00"
     },
     "last_error": null
+  },
+  "7663670418683583601": {
+    "video_id": "7663670418683583601",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "六月英语",
+      "video_id": "7663670418683583601",
+      "title": "21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货",
+      "publish_time": "2026-07-18T09:15:17+08:00",
+      "video_url": "https://www.douyin.com/video/7663670418683583601",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c000-ce/ooEAaqlAKCtAnw9P06IABFEEP0DleWAGsfdB8n~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099707200&x-signature=vPEgJqPmhLz%2B%2FUsdAO7B%2FKU%2Fxqs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071812061207F12EE513089FE738B3",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货",
+      "text_hint": "21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货",
+      "topic_tags": [
+        "英语启蒙正确的开口方式",
+        "英语启蒙干货"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/379f9ed3de141b172028bec152a459f9/6a5b2605/video/tos/cn/tos-cn-ve-15c000-ce/ooVlHPBPIHiyx2aA7HT062iZBFQM1r9AFEao4/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=272&bt=272&cs=0&ds=3&ft=CZdgCYlIDyjNxIVQ9w6VoIHhd.aS30l03-ApQX&mime_type=video_mp4&qs=0&rc=OzM2NjlmZjU6ZDtkZzYzN0BpM29mNHA5cjhnPDMzbGkzNUAxNmEtYjM1NjAxLzVhMjEwYSNwY3NtMmQ0M2FhLS1kLTRzcw%3D%3D&btag=80000e00018000&cquery=100w_100B_100x_100z_100o&dy_q=1784347572&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=2026071812061207F12EE513089FE738B3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7663670418683583601.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7663670418683583601.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 33.437,
+      "raw_payload": {
+        "aweme_id": "7663670418683583601",
+        "author_uid": "7558850904683463740",
+        "sec_uid": "MS4wLjABAAAAhFjMGumI2yRJsb__6Yry82ptAERcEL2-tEu2tBrgjZ5opEegGh_SNWtyIF9R2gGc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhFjMGumI2yRJsb__6Yry82ptAERcEL2-tEu2tBrgjZ5opEegGh_SNWtyIF9R2gGc"
+      }
+    },
+    "first_seen_at": "2026-07-18T12:05:57+08:00",
+    "last_seen_at": "2026-07-18T12:05:57+08:00",
+    "fetch_runs": [
+      "2026-07-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7663670418683583601.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7663670418683583601.mp3",
+      "source": "download",
+      "processed_at": "2026-07-18T12:07:18+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7663670418683583601",
+      "transcript_raw": "21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货补充信息：21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货关键词：英语启蒙正确的开口方式、英语启蒙干货",
+      "transcript_clean": "21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货补充信息：21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货关键词：英语启蒙正确的开口方式、英语启蒙干货",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-18/7663670418683583601.json",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7663670418683583601",
+      "summary": "六月英语围绕“英语启蒙正确的开口方式”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货。21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货补充信息：21 天英语陪跑营 今日主题：Fruit Colors \nFruits can be red.\n认识草莓、苹果、石榴、树莓等红色鲜果，\n把色彩、水果、英文短句一次性吃透～\n每天10分钟沉浸式英文输入，\n坚持21天，宝贝轻松开口说颜色英语✨#英语启蒙正确的开口方式 #英语启蒙干货关键词：英语启蒙正确的开口方式、英语启蒙干货 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "英语启蒙正确的开口方式为什么总是做不出来结果？",
+        "先把英语启蒙干货想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕英语启蒙正确的开口方式组织标题与开头。",
+        "用英语启蒙干货和天英语陪跑营补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "英语启蒙正确的开口方式",
+        "英语启蒙干货",
+        "天英语陪跑营"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-18/7663670418683583601.json",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "last_error": null
+  },
+  "7608215994661808275": {
+    "video_id": "7608215994661808275",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7608215994661808275",
+      "title": "在抖音记录美好生活20260718",
+      "publish_time": "2026-07-18T12:07:15+08:00",
+      "video_url": "https://www.douyin.com/video/7608215994661808275",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260718",
+      "text_hint": "在抖音记录美好生活20260718",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ac970e79-10a1-4965-b474-888a1674f834",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7608215994661808275",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-18T12:05:57+08:00",
+    "last_seen_at": "2026-07-18T12:05:57+08:00",
+    "fetch_runs": [
+      "2026-07-18"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7364389697243581747": {
+    "video_id": "7364389697243581747",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "觉醒～内在工程",
+      "video_id": "7364389697243581747",
+      "title": "怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥",
+      "publish_time": "2024-05-02T21:13:19+08:00",
+      "video_url": "https://www.douyin.com/video/7364389697243581747",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/16da4167e81b88f3fabffd42e87bf686~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099707200&x-signature=L7YqcPQSIuhRL7W8Q%2BAsXc5trz0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026071812062158FB6CAA3FA78C2874C4",
+      "like_count": 453,
+      "comment_count": 21,
+      "share_count": 58,
+      "collect_count": 202,
+      "description": "怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥",
+      "text_hint": "怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥",
+      "topic_tags": [
+        "认知",
+        "智慧",
+        "修行",
+        "生命成长",
+        "上热门🔥"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b81ae6ba461ce82dc1787c9056561b2f/6a5b26fc/video/tos/cn/tos-cn-ve-0015c800/oUmMagZeRP5oBQOAgooQeAASG98EDCbaPgsnBD/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3204&bt=3204&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wPVoIHhd.aS30l03-ApQX&mime_type=video_mp4&qs=0&rc=NTc7ZWloZjtoNDQ4ZjxpNEBpMzlmczs6ZnRzcjMzNGkzM0AtNTM1Ml4yXmExYDZgLTA2YSNhNWkucjQwLW1gLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1784347581&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=2026071812062158FB6CAA3FA78C2874C4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7364389697243581747.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7364389697243581747.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 271.138,
+      "raw_payload": {
+        "aweme_id": "7364389697243581747",
+        "author_uid": "2738234647119370",
+        "sec_uid": "MS4wLjABAAAAymTldaUL_b97x5CUeELeyJ1TZ1QWSGA4oSyIJnmY_rJTQDQoGy1GwBEIDv3T2pSs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAymTldaUL_b97x5CUeELeyJ1TZ1QWSGA4oSyIJnmY_rJTQDQoGy1GwBEIDv3T2pSs"
+      }
+    },
+    "first_seen_at": "2026-07-18T12:05:57+08:00",
+    "last_seen_at": "2026-07-18T12:05:57+08:00",
+    "fetch_runs": [
+      "2026-07-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7364389697243581747.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7364389697243581747.mp3",
+      "source": "download",
+      "processed_at": "2026-07-18T12:09:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7364389697243581747",
+      "transcript_raw": "怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥补充信息：怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥关键词：认知、智慧、修行、生命成长、上热门🔥",
+      "transcript_clean": "怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥补充信息：怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥关键词：认知、智慧、修行、生命成长、上热门🔥",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-18/7364389697243581747.json",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7364389697243581747",
+      "summary": "觉醒～内在工程围绕“认知”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥。怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥补充信息：怎样正确地使用吸引力法则，吸引财富？ #认知 #智慧 #修行 #生命成长#上热门🔥关键词：认知、智慧、修行、生命成长、上热门🔥 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "认知为什么总是做不出来结果？",
+        "先把智慧想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕认知组织标题与开头。",
+        "用智慧和修行补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "认知",
+        "智慧",
+        "修行"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-18/7364389697243581747.json",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "last_error": null
+  },
+  "7365808682052980031": {
+    "video_id": "7365808682052980031",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "龙门飞甲-阴、阳天星文化",
+      "video_id": "7365808682052980031",
+      "title": "入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化",
+      "publish_time": "2024-05-06T16:59:49+08:00",
+      "video_url": "https://www.douyin.com/video/7365808682052980031",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/42d206caae4cec8109b5d2fed41d14da~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099707200&x-signature=eqX4qlOmK8580p40M7VCEb50r1g%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607181206241E1C7A43796F2F4E99BE",
+      "like_count": 21,
+      "comment_count": 4,
+      "share_count": 2,
+      "collect_count": 12,
+      "description": "入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化",
+      "text_hint": "入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化",
+      "topic_tags": [
+        "风水玄学",
+        "易学智慧",
+        "数字心理学",
+        "弘扬国学经典文化",
+        "数字能量",
+        "风水",
+        "易学",
+        "国学文化",
+        "八字",
+        "中华文化"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/828a229ef1b8f840a0bb2cf7e7dffeab/6a5b26d0/video/tos/cn/tos-cn-ve-0015c800/oUeMfu7pBFGcrxDIhOLgNQUTBYoOIAC0TigGeA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=739&bt=739&cs=0&ds=6&ft=CZdgCYlIDyjNxIVQ9wImoIHhd.aS30l03-ApQX&mime_type=video_mp4&qs=0&rc=OTdlOjs2OTY5ZjQ2NGRkaUBpM2txa3c5cjQ8cjMzNGkzM0AyYTViLi81X14xX2FfMGM0YSMzYm40MmRrbHBgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100J_100o_100w_100B_100D&dy_q=1784347585&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202607181206241E1C7A43796F2F4E99BE",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7365808682052980031.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7365808682052980031.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 223.434,
+      "raw_payload": {
+        "aweme_id": "7365808682052980031",
+        "author_uid": "427031106428600",
+        "sec_uid": "MS4wLjABAAAAk5xjb9SgXzgiWX96MDkFGztLswMry7e--HI17Q-6gd4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAk5xjb9SgXzgiWX96MDkFGztLswMry7e--HI17Q-6gd4"
+      }
+    },
+    "first_seen_at": "2026-07-18T12:05:57+08:00",
+    "last_seen_at": "2026-07-18T12:05:57+08:00",
+    "fetch_runs": [
+      "2026-07-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7365808682052980031.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7365808682052980031.mp3",
+      "source": "download",
+      "processed_at": "2026-07-18T12:08:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7365808682052980031",
+      "transcript_raw": "入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化补充信息：入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化关键词：风水玄学、易学智慧、数字心理学、弘扬国学经典文化、数字能量、风水、易学、国学文化、八字、中华文化",
+      "transcript_clean": "入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化补充信息：入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化关键词：风水玄学、易学智慧、数字心理学、弘扬国学经典文化、数字能量、风水、易学、国学文化、八字、中华文化",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-18/7365808682052980031.json",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7365808682052980031",
+      "summary": "龙门飞甲-阴、阳天星文化围绕“风水玄学”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化。入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化补充信息：入地眼-天星派书籍- 本人心得补论-能量场《第3节》 #风水玄学 #易学智慧 #数字心理学 #弘扬国学经典文化 #数字能量 #风水 #易学 #国学文化 #八字 #中华文化关键词：风水玄学、易学智慧、数字心理学、弘扬国学经典文化、数字能量、风水、易学、国学文化、八字、中华文化 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "风水玄学为什么总是做不出来结果？",
+        "先把易学智慧想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕风水玄学组织标题与开头。",
+        "用易学智慧和数字心理学补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "风水玄学",
+        "易学智慧",
+        "数字心理学"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-18/7365808682052980031.json",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "last_error": null
+  },
+  "7363602706935729458": {
+    "video_id": "7363602706935729458",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7363602706935729458",
+      "title": "#创作灵感 #凯迪拉克#CT6 凯迪拉克CT6 40T发动机拆解重组强化，进行中……",
+      "publish_time": "2024-04-30T10:19:00+08:00",
+      "video_url": "https://www.douyin.com/video/7363602706935729458",
+      "cover_url": "",
+      "like_count": 59,
+      "comment_count": 10,
+      "share_count": 6,
+      "collect_count": 14,
+      "description": "#创作灵感 #凯迪拉克#CT6 凯迪拉克CT6 40T发动机拆解重组强化，进行中……",
+      "text_hint": "#创作灵感 #凯迪拉克#CT6 凯迪拉克CT6 40T发动机拆解重组强化，进行中……",
+      "topic_tags": [
+        "创作灵感",
+        "凯迪拉克",
+        "CT6"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/79828de1-a4d4-423a-934d-1b818f96d7f0",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7363602706935729458",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-18T12:05:57+08:00",
+    "last_seen_at": "2026-07-18T12:05:57+08:00",
+    "fetch_runs": [
+      "2026-07-18"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7294183652424994063": {
+    "video_id": "7294183652424994063",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "偷懒的椰子",
+      "video_id": "7294183652424994063",
+      "title": "有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场",
+      "publish_time": "2023-10-26T16:38:07+08:00",
+      "video_url": "https://www.douyin.com/video/7294183652424994063",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/13f48d95364d7e4978dfe139471aee70~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099707200&x-signature=APSqSEeUD63elk6GY0awvjO%2BmjY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607181206487228591708D6C6DFF1FD",
+      "like_count": 168,
+      "comment_count": 14,
+      "share_count": 29,
+      "collect_count": 33,
+      "description": "有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场",
+      "text_hint": "有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场",
+      "topic_tags": [
+        "萧亚轩",
+        "萧亚轩封神歌曲盘点",
+        "神级现场"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e998b4fd1dab59eda0d5de2c2bd6846e/6a5b2703/video/tos/cn/tos-cn-ve-0015c800/oIgZEDiklA6FOiVGAnBpDenOehEQCIb9MAPsDy/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1464&bt=1464&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wumoIHhd.aS30l03-ApQX&mime_type=video_mp4&qs=0&rc=O2Q8ZDg4N2k8NTQ7Zjk1M0Bpams7NDY6Zjg1bjMzNGkzM0A2M2E2NDU1NTAxM2FfLzYzYSNgMXJfcjRfL3FgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1784347608&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607181206487228591708D6C6DFF1FD",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7294183652424994063.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7294183652424994063.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 251.467,
+      "raw_payload": {
+        "aweme_id": "7294183652424994063",
+        "author_uid": "3632415552845886",
+        "sec_uid": "MS4wLjABAAAApZYl9dhDf5ifYiP_Y2dpylgYe-N0XpqKb06c-tdPpa4qZ-LPIWUBE-DReNiCiiZ4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAApZYl9dhDf5ifYiP_Y2dpylgYe-N0XpqKb06c-tdPpa4qZ-LPIWUBE-DReNiCiiZ4"
+      }
+    },
+    "first_seen_at": "2026-07-18T12:05:57+08:00",
+    "last_seen_at": "2026-07-18T12:05:57+08:00",
+    "fetch_runs": [
+      "2026-07-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7294183652424994063.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7294183652424994063.mp3",
+      "source": "download",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7294183652424994063",
+      "transcript_raw": "有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场补充信息：有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场关键词：萧亚轩、萧亚轩封神歌曲盘点、神级现场",
+      "transcript_clean": "有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场补充信息：有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场关键词：萧亚轩、萧亚轩封神歌曲盘点、神级现场",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-18/7294183652424994063.json",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7294183652424994063",
+      "summary": "偷懒的椰子围绕“萧亚轩”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场。有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场补充信息：有幸经历了那个好歌频出的年代，来听这首萧亚轩的《雨季中》#萧亚轩 #萧亚轩封神歌曲盘点 #神级现场关键词：萧亚轩、萧亚轩封神歌曲盘点、神级现场 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "萧亚轩为什么总是做不出来结果？",
+        "先把萧亚轩封神歌曲盘点想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕萧亚轩组织标题与开头。",
+        "用萧亚轩封神歌曲盘点和神级现场补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "萧亚轩",
+        "萧亚轩封神歌曲盘点",
+        "神级现场"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-18/7294183652424994063.json",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "last_error": null
+  },
+  "7492384300634066214": {
+    "video_id": "7492384300634066214",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7492384300634066214",
+      "title": "在抖音记录美好生活20260718",
+      "publish_time": "2026-07-18T12:07:15+08:00",
+      "video_url": "https://www.douyin.com/video/7492384300634066214",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260718",
+      "text_hint": "在抖音记录美好生活20260718",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/193a8320-7478-4443-8bb3-336a46915879",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7492384300634066214",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-18T12:05:57+08:00",
+    "last_seen_at": "2026-07-18T12:05:57+08:00",
+    "fetch_runs": [
+      "2026-07-18"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7485955993537416486": {
+    "video_id": "7485955993537416486",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7485955993537416486",
+      "title": "贵州规模最大的10个火车站排行，看看你都坐过几个？",
+      "publish_time": "2025-03-26T09:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7485955993537416486",
+      "cover_url": "",
+      "like_count": 1986,
+      "comment_count": 153,
+      "share_count": 433,
+      "collect_count": 126,
+      "description": "贵州规模最大的10个火车站排行，看看你都坐过几个？",
+      "text_hint": "贵州规模最大的10个火车站排行，看看你都坐过几个？",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/95a53c1faf4637da9d4ebb35e0d707b1/6a5b273e/video/tos/cn/tos-cn-ve-15/oQB2ATH8GiTOyAbRIziByFfgEFj0gptjANkFEe/?a=6383&br=2225&bt=2225&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100K_100o_100w_100B_100H&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1784347631&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNxIVQ9wZmoIHhd.aS30l03-ApQX&is_ssr=1&l=2026071812071038DDAB3F8627A15A5C4D&lr=all&mime_type=video_mp4&qs=12&rc=ZTs8O2hmPGRlZmU0Nmk8NUBpMzpuO2w5cjVxeTMzNGkzM0AtNDRiM2I1Xy0xMV8vNC9jYSNkNXFtMmRzNmVgLS1kLWFzcw%3D%3D&__vid=7485955993537416486",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7485955993537416486.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7485955993537416486.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7485955993537416486",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-18T12:05:57+08:00",
+    "last_seen_at": "2026-07-18T12:05:57+08:00",
+    "fetch_runs": [
+      "2026-07-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7485955993537416486.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-18/7485955993537416486.mp3",
+      "source": "download",
+      "processed_at": "2026-07-18T12:07:51+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7485955993537416486",
+      "transcript_raw": "贵州规模最大的10个火车站排行，看看你都坐过几个？贵州规模最大的10个火车站排行，看看你都坐过几个？补充信息：贵州规模最大的10个火车站排行，看看你都坐过几个？",
+      "transcript_clean": "贵州规模最大的10个火车站排行，看看你都坐过几个？贵州规模最大的10个火车站排行，看看你都坐过几个？补充信息：贵州规模最大的10个火车站排行，看看你都坐过几个？",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-18/7485955993537416486.json",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7485955993537416486",
+      "summary": "目标博主 1围绕“贵州规模最大的10个火车站排行，看看你都坐过几个？贵州规模最大的10个火车站排行，看看你都坐过几个？补充信息：贵州规模最大的10个火车站排行，看看你都坐过几个”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "贵州规模最大的10个火车站排行，看看你都坐过几个？。贵州规模最大的10个火车站排行，看看你都坐过几个？贵州规模最大的10个火车站排行，看看你都坐过几个？补充信息：贵州规模最大的10个火车站排行，看看你都坐过几个？ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "贵州规模最大的10个火车站排行，看看你都坐过几个？贵州规模最大的10个火车站排行，看看你都坐过几个？补充信息：贵州规模最大的10个火车站排行，看看你都坐过几个为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕贵州规模最大的10个火车站排行，看看你都坐过几个？贵州规模最大的10个火车站排行，看看你都坐过几个？补充信息：贵州规模最大的10个火车站排行，看看你都坐过几个组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "贵州规模最大的10个火车站排行，看看你都坐过几个？贵州规模最大的10个火车站排行，看看你都坐过几个？补充信息：贵州规模最大的10个火车站排行，看看你都坐过几个",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-18/7485955993537416486.json",
+      "processed_at": "2026-07-18T12:09:31+08:00"
+    },
+    "last_error": null
   }
 }
