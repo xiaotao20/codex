@@ -13339,5 +13339,593 @@
       "processed_at": "2026-07-18T12:09:31+08:00"
     },
     "last_error": null
+  },
+  "7660119094251675113": {
+    "video_id": "7660119094251675113",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "伊春融媒",
+      "video_id": "7660119094251675113",
+      "title": "消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进",
+      "publish_time": "2026-07-08T19:34:19+08:00",
+      "video_url": "https://www.douyin.com/video/7660119094251675113",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3a6f27196e03775ece56ae93160178b9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099793600&x-signature=e%2B8V9hYezYx3yeXdV%2Brl5X2o8ow%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607191226455514D1981F522BD4F109",
+      "like_count": 8,
+      "comment_count": 1,
+      "share_count": 3,
+      "collect_count": 1,
+      "description": "消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进",
+      "text_hint": "消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进",
+      "topic_tags": [
+        "哪凉快去哪儿",
+        "伊春避暑夯爆了",
+        "来伊春清凉伊夏",
+        "东北超好看",
+        "牢记嘱托感恩奋进"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fdc60ae0475ec73cede5db8625b07c46/6a5c7c6d/video/tos/cn/tos-cn-v-694b40/o8S19mrXFHd8QkqGQIiXJNhBRfhstcxiA6ApOE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=797&bt=797&cs=0&ds=3&ft=CZdgCYlIDyjNxIVQ9wtFbYHhd.UdRZf03-ApQX&mime_type=video_mp4&qs=0&rc=NTM5aWk5ZGQ3ZDY5ZWc2aEBpamZ4O3Y5cjs2PDYzNDVpM0A2YV4tYGJiXy0xXzFiMS5iYSNfb142MmRzXzRhLS1kMi9zcw%3D%3D&btag=80000e00020000&cquery=101v_100._101z_100o_100w&dy_q=1784435205&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202607191226455514D1981F522BD4F109",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7660119094251675113.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7660119094251675113.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 56.123,
+      "raw_payload": {
+        "aweme_id": "7660119094251675113",
+        "author_uid": "2141496951712295",
+        "sec_uid": "MS4wLjABAAAA2F8r34zHQoCUczQn5s98d3lrHULXmB9GEqmCdkrA4m4A59cgmUjzKAbVDSZ2AmZD",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA2F8r34zHQoCUczQn5s98d3lrHULXmB9GEqmCdkrA4m4A59cgmUjzKAbVDSZ2AmZD"
+      }
+    },
+    "first_seen_at": "2026-07-19T12:26:34+08:00",
+    "last_seen_at": "2026-07-19T12:26:34+08:00",
+    "fetch_runs": [
+      "2026-07-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7660119094251675113.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7660119094251675113.mp3",
+      "source": "download",
+      "processed_at": "2026-07-19T12:27:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7660119094251675113",
+      "transcript_raw": "消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进补充信息：消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进关键词：哪凉快去哪儿、伊春避暑夯爆了、来伊春清凉伊夏、东北超好看、牢记嘱托感恩奋进",
+      "transcript_clean": "消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进补充信息：消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进关键词：哪凉快去哪儿、伊春避暑夯爆了、来伊春清凉伊夏、东北超好看、牢记嘱托感恩奋进",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-19/7660119094251675113.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7660119094251675113",
+      "summary": "伊春融媒围绕“哪凉快去哪儿”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进。消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进补充信息：消防员讲科普 如何识别山洪预警信号 #哪凉快去哪儿#伊春避暑夯爆了#来伊春清凉伊夏#东北超好看#牢记嘱托感恩奋进关键词：哪凉快去哪儿、伊春避暑夯爆了、来伊春清凉伊夏、东北超好看、牢记嘱托感恩奋进 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "哪凉快去哪儿为什么总是做不出来结果？",
+        "先把伊春避暑夯爆了想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕哪凉快去哪儿组织标题与开头。",
+        "用伊春避暑夯爆了和来伊春清凉伊夏补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "哪凉快去哪儿",
+        "伊春避暑夯爆了",
+        "来伊春清凉伊夏"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-19/7660119094251675113.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "last_error": null
+  },
+  "7286798522375015740": {
+    "video_id": "7286798522375015740",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "4K修复清晰回忆",
+      "video_id": "7286798522375015740",
+      "title": "【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复",
+      "publish_time": "2023-10-06T19:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7286798522375015740",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/fb002e5d84f09d91cc01ca12fb20e27b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099793600&x-signature=ImWJfv6Hc4yeju3EHG2BFSscQXk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260719122647479814359A120FC82232",
+      "like_count": 25,
+      "comment_count": 0,
+      "share_count": 5,
+      "collect_count": 9,
+      "description": "【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复",
+      "text_hint": "【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复",
+      "topic_tags": [
+        "亚运会",
+        "点火仪式",
+        "4K修复"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ab61cf8b48b98ad22bd43a1723491e11/6a5c7d14/video/tos/cn/tos-cn-ve-0015c800/o0JheI16fiKA8WS6NSEPCFPB7BkD0AiEqQf4R2/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2180&bt=2180&cs=0&ds=3&ft=CZdgCYlIDyjNxIVQ9weFbYHhd.UdRZf03-ApQX&mime_type=video_mp4&qs=0&rc=ZmdkMzpnOjw4OTc0Zzc6NkBpM3VuNGs5cmh4bjMzNGkzM0BfXzVjYDMwNTUxLi8vYTVjYSNjZWphMmRrZWNgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100D_100J_100o_100w_100B&dy_q=1784435208&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260719122647479814359A120FC82232",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7286798522375015740.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7286798522375015740.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 220.034,
+      "raw_payload": {
+        "aweme_id": "7286798522375015740",
+        "author_uid": "104948825101",
+        "sec_uid": "MS4wLjABAAAAwH92mKFOWNpWIGjTVhABBoSengDVPNBPc_GVYmH_x9U",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAwH92mKFOWNpWIGjTVhABBoSengDVPNBPc_GVYmH_x9U"
+      }
+    },
+    "first_seen_at": "2026-07-19T12:26:34+08:00",
+    "last_seen_at": "2026-07-19T12:26:34+08:00",
+    "fetch_runs": [
+      "2026-07-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7286798522375015740.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7286798522375015740.mp3",
+      "source": "download",
+      "processed_at": "2026-07-19T12:29:20+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7286798522375015740",
+      "transcript_raw": "【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复补充信息：【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复关键词：亚运会、点火仪式、4K修复",
+      "transcript_clean": "【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复补充信息：【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复关键词：亚运会、点火仪式、4K修复",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-19/7286798522375015740.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7286798522375015740",
+      "summary": "4K修复清晰回忆围绕“亚运会”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复。【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复补充信息：【4K修复】中国三办亚运点火仪式进化史！“轻舟已过万重山” #亚运会 #点火仪式 #4K修复关键词：亚运会、点火仪式、4K修复 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "亚运会为什么总是做不出来结果？",
+        "先把点火仪式想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕亚运会组织标题与开头。",
+        "用点火仪式和4K修复补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "亚运会",
+        "点火仪式",
+        "4K修复"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-19/7286798522375015740.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "last_error": null
+  },
+  "7293553514893118755": {
+    "video_id": "7293553514893118755",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "江西财经大学",
+      "video_id": "7293553514893118755",
+      "title": "信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒",
+      "publish_time": "2023-10-24T23:52:59+08:00",
+      "video_url": "https://www.douyin.com/video/7293553514893118755",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0c375b3fb958dfff4444a007d34a7efd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099793600&x-signature=k1axKd6TDtsmzhdrVGO%2BLD9Lxzw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607191226506E7C2CC9B1965E7C7C40",
+      "like_count": 1042,
+      "comment_count": 51,
+      "share_count": 97,
+      "collect_count": 29,
+      "description": "信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒",
+      "text_hint": "信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒",
+      "topic_tags": [
+        "江西财经大学",
+        "江西财经大学百年校庆",
+        "方言祝福",
+        "青年星火计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7746a1df79a6509a85213daa6ea48290/6a5c7d21/video/tos/cn/tos-cn-ve-0015c800/owUeB5bnaIVV7YKBuTGmwboe4C9AaDaxeQW1EA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=807&bt=807&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wAFbYHhd.UdRZf03-ApQX&mime_type=video_mp4&qs=0&rc=NDk2OGg0aTg3Njc0ZmhoaEBpMzs4cWQ6Zmd4bjMzNGkzM0BeYmM2MDMtNTYxYmAxY2NiYSNnZWtvcjRfYW9gLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100H_100K_100o&dy_q=1784435210&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607191226506E7C2CC9B1965E7C7C40",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7293553514893118755.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7293553514893118755.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 231.134,
+      "raw_payload": {
+        "aweme_id": "7293553514893118755",
+        "author_uid": "102668365808",
+        "sec_uid": "MS4wLjABAAAAInMjsm9UTCLEa4qr3xZRWYy-p_AAiyUb3D4EWuYUGr8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAInMjsm9UTCLEa4qr3xZRWYy-p_AAiyUb3D4EWuYUGr8"
+      }
+    },
+    "first_seen_at": "2026-07-19T12:26:34+08:00",
+    "last_seen_at": "2026-07-19T12:26:34+08:00",
+    "fetch_runs": [
+      "2026-07-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7293553514893118755.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7293553514893118755.mp3",
+      "source": "download",
+      "processed_at": "2026-07-19T12:28:49+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7293553514893118755",
+      "transcript_raw": "信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒补充信息：信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒关键词：江西财经大学、江西财经大学百年校庆、方言祝福、青年星火计划",
+      "transcript_clean": "信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒补充信息：信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒关键词：江西财经大学、江西财经大学百年校庆、方言祝福、青年星火计划",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-19/7293553514893118755.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7293553514893118755",
+      "summary": "江西财经大学围绕“江西财经大学”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒。信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒补充信息：信敏廉毅 敬业乐群丨我为百年江财送祝福——江财学子方言篇#江西财经大学 #江西财经大学百年校庆 #方言祝福 #青年星火计划 @中青校媒关键词：江西财经大学、江西财经大学百年校庆、方言祝福、青年星火计划 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "江西财经大学为什么总是做不出来结果？",
+        "先把江西财经大学百年校庆想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕江西财经大学组织标题与开头。",
+        "用江西财经大学百年校庆和方言祝福补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "江西财经大学",
+        "江西财经大学百年校庆",
+        "方言祝福"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-19/7293553514893118755.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "last_error": null
+  },
+  "7566948419114208527": {
+    "video_id": "7566948419114208527",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7566948419114208527",
+      "title": "#扎心语录情感语录 #车贴 #有些情绪只能留在深夜 #伤感文案 酒喝的再多，也不会忘记回家的路，心情再差，第二天也会准时爬起来，如果你问我是什么样的人，我回答不了你，半生已过，经历了太多改变了性格，学会了沉默。",
+      "publish_time": "2025-10-30T09:44:00+08:00",
+      "video_url": "https://www.douyin.com/video/7566948419114208527",
+      "cover_url": "",
+      "like_count": 10,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 30,
+      "description": "#扎心语录情感语录 #车贴 #有些情绪只能留在深夜 #伤感文案 酒喝的再多，也不会忘记回家的路，心情再差，第二天也会准时爬起来，如果你问我是什么样的人，我回答不了你，半生已过，经历了太多改变了性格，学会了沉默。",
+      "text_hint": "#扎心语录情感语录 #车贴 #有些情绪只能留在深夜 #伤感文案 酒喝的再多，也不会忘记回家的路，心情再差，第二天也会准时爬起来，如果你问我是什么样的人，我回答不了你，半生已过，经历了太多改变了性格，学会了沉默。",
+      "topic_tags": [
+        "扎心语录情感语录",
+        "车贴",
+        "有些情绪只能留在深夜",
+        "伤感文案"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/35e8b251-cfc4-4d84-a8ee-a3576d715e95",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7566948419114208527",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-19T12:26:34+08:00",
+    "last_seen_at": "2026-07-19T12:26:34+08:00",
+    "fetch_runs": [
+      "2026-07-19"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7302328810123365668": {
+    "video_id": "7302328810123365668",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "钢琴圈",
+      "video_id": "7302328810123365668",
+      "title": "Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗",
+      "publish_time": "2023-11-17T15:25:29+08:00",
+      "video_url": "https://www.douyin.com/video/7302328810123365668",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0ca498679881feb93d4f86bd250fd914~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099793600&x-signature=PMfmbFHEBJDhODYALoz38wOWtPs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260719122714F9B8A5B48DF2F4C8FB90",
+      "like_count": 2089,
+      "comment_count": 31,
+      "share_count": 659,
+      "collect_count": 705,
+      "description": "Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗",
+      "text_hint": "Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗",
+      "topic_tags": [
+        "优美的旋律动感的节奏",
+        "舒缓放松轻音乐推荐",
+        "随心时刻一曲入魂",
+        "带给你不一样的感觉",
+        "今天你练琴了吗"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2a80cc46a642f1b458accdb973fed492/6a5c7d7e/video/tos/cn/tos-cn-ve-15/oUjB3nUQoXexABybAgIuOClfKS9LVAYwDIRBgD/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=324&bt=324&cs=0&ds=3&ft=CZdgCYlIDyjNxIVQ9w~FbYHhd.UdRZf03-ApQX&mime_type=video_mp4&qs=0&rc=MzY1NjlkO2Q3ZTw3Ojg2NUBpM2s1PDc6ZmZrbzMzNGkzM0BiNjY0Ni5hNjAxMF8tYTE2YSNuX20tcjRnXl9gLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1784435234&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260719122714F9B8A5B48DF2F4C8FB90",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7302328810123365668.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7302328810123365668.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 300.837,
+      "raw_payload": {
+        "aweme_id": "7302328810123365668",
+        "author_uid": "4494422400045677",
+        "sec_uid": "MS4wLjABAAAAQLui9TKmG-6pgYdGowLmsAe53jtg9nS6O4qWLZslFMjR3DCl5oXbAAsk_hxTtD9v",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQLui9TKmG-6pgYdGowLmsAe53jtg9nS6O4qWLZslFMjR3DCl5oXbAAsk_hxTtD9v"
+      }
+    },
+    "first_seen_at": "2026-07-19T12:26:34+08:00",
+    "last_seen_at": "2026-07-19T12:26:34+08:00",
+    "fetch_runs": [
+      "2026-07-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7302328810123365668.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7302328810123365668.mp3",
+      "source": "download",
+      "processed_at": "2026-07-19T12:28:32+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7302328810123365668",
+      "transcript_raw": "Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗补充信息：Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗关键词：优美的旋律动感的节奏、舒缓放松轻音乐推荐、随心时刻一曲入魂、带给你不一样的感觉、今天你练琴了吗",
+      "transcript_clean": "Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗补充信息：Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗关键词：优美的旋律动感的节奏、舒缓放松轻音乐推荐、随心时刻一曲入魂、带给你不一样的感觉、今天你练琴了吗",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-19/7302328810123365668.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7302328810123365668",
+      "summary": "钢琴圈围绕“优美的旋律动感的节奏”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗。Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗补充信息：Valentin Novak古典吉他演奏肖邦《夜曲》Nocturne Op. 9 No. 2 #优美的旋律动感的节奏 #舒缓放松轻音乐推荐 #随心时刻一曲入魂 #带给你不一样的感觉 #今天你练琴了吗关键词：优美的旋律动感的节奏、舒缓放松轻音乐推荐、随心时刻一曲入魂、带给你不一样的感觉、今天你练琴了吗 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "优美的旋律动感的节奏为什么总是做不出来结果？",
+        "先把舒缓放松轻音乐推荐想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕优美的旋律动感的节奏组织标题与开头。",
+        "用舒缓放松轻音乐推荐和随心时刻一曲入魂补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "优美的旋律动感的节奏",
+        "舒缓放松轻音乐推荐",
+        "随心时刻一曲入魂"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-19/7302328810123365668.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "last_error": null
+  },
+  "7383307293720349986": {
+    "video_id": "7383307293720349986",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "董洁影迷后援会",
+      "video_id": "7383307293720349986",
+      "title": "如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭",
+      "publish_time": "2024-06-22T20:43:21+08:00",
+      "video_url": "https://www.douyin.com/video/7383307293720349986",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/86cba156471efd717df3b4ec8bf92f0c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099793600&x-signature=XnGSe%2B1KjyFed38M5oJclbt4pqc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607191227170E4D7F1F7D3BC5C46354",
+      "like_count": 4040,
+      "comment_count": 232,
+      "share_count": 341,
+      "collect_count": 714,
+      "description": "如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭",
+      "text_hint": "如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭",
+      "topic_tags": [
+        "董洁",
+        "茶愫新中式",
+        "户外运动穿搭",
+        "聚会穿搭",
+        "好穿又好搭",
+        "茶愫新中式[话题]",
+        "户外运动穿搭[话题]",
+        "聚会穿搭[话题]"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1b6dbda35096e9e6cdf67f9c6e490e25/6a5c7dec/video/tos/cn/tos-cn-ve-15/oodqjmpTfAB6igDIAfGtbdIgsF97sd6VgDEQA8/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1509&bt=1509&cs=0&ds=3&ft=CZdgCYlIDyjNxIVQ9wWFbYHhd.UdRZf03-ApQX&mime_type=video_mp4&qs=0&rc=ZDlmOjpnaWc7ZTQ4ZGZpZ0BpM2hzZm85cmxmczMzNGkzM0AyMl5eYS5iX2AxLmNgM142YSNzLS80MmQ0YW9gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1784435238&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202607191227170E4D7F1F7D3BC5C46354",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7383307293720349986.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7383307293720349986.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 406.049,
+      "raw_payload": {
+        "aweme_id": "7383307293720349986",
+        "author_uid": "81348519837",
+        "sec_uid": "MS4wLjABAAAAnCPN7sqa3dZ5E2phTEXBtITV2s1icEzaq3do0kDWQI4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAnCPN7sqa3dZ5E2phTEXBtITV2s1icEzaq3do0kDWQI4"
+      }
+    },
+    "first_seen_at": "2026-07-19T12:26:34+08:00",
+    "last_seen_at": "2026-07-19T12:26:34+08:00",
+    "fetch_runs": [
+      "2026-07-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7383307293720349986.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7383307293720349986.mp3",
+      "source": "download",
+      "processed_at": "2026-07-19T12:28:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7383307293720349986",
+      "transcript_raw": "如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭补充信息：如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭关键词：董洁、茶愫新中式、户外运动穿搭、聚会穿搭、好穿又好搭、茶愫新中式[话题]、户外运动穿搭[话题]、聚会穿搭[话题]",
+      "transcript_clean": "如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭补充信息：如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭关键词：董洁、茶愫新中式、户外运动穿搭、聚会穿搭、好穿又好搭、茶愫新中式[话题]、户外运动穿搭[话题]、聚会穿搭[话题]",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-19/7383307293720349986.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7383307293720349986",
+      "summary": "董洁影迷后援会围绕“董洁”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭。如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭补充信息：如约而至的夏天，要美美出门才行\n茶愫也是我经常给大家推荐的品牌了，这两条他们的新款裙子，我看到之后觉得非常适合在这个季节做日常出行或是姐妹聚会的选择[偷笑R]，上身很加分且做工和设计非常精致。另外本月底的直播呢也很想给你们多一些户外运动穿搭的选择，实用功能性和颜值必须兼备[赞R]#董洁   #茶愫新中式[话题]# #户外运动穿搭[话题]# #聚会穿搭[话题]# #好穿又好搭关键词：董洁、茶愫新中式、户外运动穿搭、聚会穿搭、好穿又好搭、茶愫新中式[话题]、户外运动穿搭[话题]、聚会穿搭[话题] 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "董洁为什么总是做不出来结果？",
+        "先把茶愫新中式想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕董洁组织标题与开头。",
+        "用茶愫新中式和户外运动穿搭补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "董洁",
+        "茶愫新中式",
+        "户外运动穿搭"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-19/7383307293720349986.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "last_error": null
+  },
+  "7085670410695609631": {
+    "video_id": "7085670410695609631",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7085670410695609631",
+      "title": "石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗",
+      "publish_time": "2022-04-12T11:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7085670410695609631",
+      "cover_url": "",
+      "like_count": 368,
+      "comment_count": 76,
+      "share_count": 22,
+      "collect_count": 34,
+      "description": "石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗",
+      "text_hint": "石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/96c60277afe65d22ea1b39aff58e65fd/6a5c7d58/video/tos/cn/tos-cn-ve-0015c800/eda7691fa5544aabb1d71a35b9e9b67f/?a=6383&br=2567&bt=2567&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100D_102u&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1784435254&ft=CZdgCYlIDyjNxIVQ9wqFbYHhd.UdRZf03-ApQX&is_ssr=1&l=2026071912273344A39B4DEB3EC5C56437&lr=all&mime_type=video_mp4&qs=0&rc=ZjlmODZlaGhmODY6ZGQ4M0BpM3dubzY6ZmpvPDMzNGkzM0BjNTY0Ly1fXmExMzNeNC9hYSNnYjVecjRfa15gLS1kLS9zcw%3D%3D&__vid=7085670410695609631",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7085670410695609631.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7085670410695609631.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7085670410695609631",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-19T12:26:34+08:00",
+    "last_seen_at": "2026-07-19T12:26:34+08:00",
+    "fetch_runs": [
+      "2026-07-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7085670410695609631.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-19/7085670410695609631.mp3",
+      "source": "download",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7085670410695609631",
+      "transcript_raw": "石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗补充信息：石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗",
+      "transcript_clean": "石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗补充信息：石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-19/7085670410695609631.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7085670410695609631",
+      "summary": "知雪围绕“石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗补充信息：石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗。石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗补充信息：石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗补充信息：石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗补充信息：石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗补充信息：石家庄一座古村，几百年前就有成熟小区，起名狼窝是有狼群出没吗",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-19/7085670410695609631.json",
+      "processed_at": "2026-07-19T12:29:59+08:00"
+    },
+    "last_error": null
   }
 }
