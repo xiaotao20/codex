@@ -13927,5 +13927,669 @@
       "processed_at": "2026-07-19T12:29:59+08:00"
     },
     "last_error": null
+  },
+  "7663962813404040486": {
+    "video_id": "7663962813404040486",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "智者书苑。",
+      "video_id": "7663962813404040486",
+      "title": "2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文",
+      "publish_time": "2026-07-19T04:10:09+08:00",
+      "video_url": "https://www.douyin.com/video/7663962813404040486",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/eeb424b2e4fda203d07eb1c2134b8035~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099880000&x-signature=DWKp780Jax1Qp44CcDJ3UKyyIDU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607201240494400B9FB546932386AA3",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文",
+      "text_hint": "2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文",
+      "topic_tags": [
+        "高中文言文",
+        "文言文",
+        "高考文言文"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/903e6551f0da340ad2928c01949ce399/6a5dd147/video/tos/cn/tos-cn-ve-51-ce/o06wioQLYfymAI3N1bEhtTiQBQCb0bPjAXQhBQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=3145&bt=3145&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wNlJYHhd.6VJNC73-ApQX&mime_type=video_mp4&qs=0&rc=aTczOmdnOGg8ZjY6ZDZnN0Bpajpmcm05cjt3PDMzNDYzM0AzNTQxYmEuNjAxLS5hYC4zYSMtcmM0MmQ0b2FhLS1kMC9zcw%3D%3D&btag=80000e00028000&cquery=100w_100B_102v_102u_100o&dy_q=1784522449&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=202607201240494400B9FB546932386AA3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7663962813404040486.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7663962813404040486.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 70.984,
+      "raw_payload": {
+        "aweme_id": "7663962813404040486",
+        "author_uid": "2909769934334459",
+        "sec_uid": "MS4wLjABAAAAyiUykApWgL46lEbFZX7i04ZGIDzC-NA0Yef8G_MwwsQ13GHhhcp2L6DXDyX5Avyg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAyiUykApWgL46lEbFZX7i04ZGIDzC-NA0Yef8G_MwwsQ13GHhhcp2L6DXDyX5Avyg"
+      }
+    },
+    "first_seen_at": "2026-07-20T12:40:35+08:00",
+    "last_seen_at": "2026-07-20T12:40:35+08:00",
+    "fetch_runs": [
+      "2026-07-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7663962813404040486.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7663962813404040486.mp3",
+      "source": "download",
+      "processed_at": "2026-07-20T12:41:51+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7663962813404040486",
+      "transcript_raw": "2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文补充信息：2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文关键词：高中文言文、文言文、高考文言文",
+      "transcript_clean": "2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文补充信息：2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文关键词：高中文言文、文言文、高考文言文",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-20/7663962813404040486.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7663962813404040486",
+      "summary": "智者书苑。围绕“高中文言文”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文。2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文补充信息：2026新版，高中必背的古诗文言文都在这里了，利用假期时间充足，提前背一背#高中文言文#文言文#高考文言文关键词：高中文言文、文言文、高考文言文 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "高中文言文为什么总是做不出来结果？",
+        "先把文言文想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕高中文言文组织标题与开头。",
+        "用文言文和高考文言文补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "高中文言文",
+        "文言文",
+        "高考文言文"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-20/7663962813404040486.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "last_error": null
+  },
+  "7655900070001226225": {
+    "video_id": "7655900070001226225",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "盛长棟",
+      "video_id": "7655900070001226225",
+      "title": "金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日",
+      "publish_time": "2026-06-27T10:42:22+08:00",
+      "video_url": "https://www.douyin.com/video/7655900070001226225",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2ae816164ef47d54e1df71384ec47287~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099880000&x-signature=7T5rn3IwKprMgiB0n9S7GrP80jo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607201240521C4744D51250D135C8CD",
+      "like_count": 2045,
+      "comment_count": 148,
+      "share_count": 59,
+      "collect_count": 58,
+      "description": "金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日",
+      "text_hint": "金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4bf79bd52e64f7a10795fa0a99c8d347/6a5dd115/video/tos/cn/tos-cn-ve-15c000-ce/ocBqPgDKQEBEHxzMfAAwIwSFlzfC44GhDYn9oS/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1840&bt=1840&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wolJYHhd.6VJNC73-ApQX&mime_type=video_mp4&qs=0&rc=Mzo3OjQ2Zjg0NWY0NDpoPEBpMzZkcnM5cmptOzMzbGkzNUBhNS0yNF5hXzIxMS1iNDAvYSNiXjNtMmRrZHNhLS1kLTVzcw%3D%3D&btag=c0000e00010000&cquery=100x_100z_100o_100w_100B&dy_q=1784522453&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=202607201240521C4744D51250D135C8CD",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7655900070001226225.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7655900070001226225.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 16.234,
+      "raw_payload": {
+        "aweme_id": "7655900070001226225",
+        "author_uid": "63771055088",
+        "sec_uid": "MS4wLjABAAAA-S4GeDxfgD510AZEe2YuqLYDiGa_PUIXvFr_nOdqi5s",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA-S4GeDxfgD510AZEe2YuqLYDiGa_PUIXvFr_nOdqi5s"
+      }
+    },
+    "first_seen_at": "2026-07-20T12:40:35+08:00",
+    "last_seen_at": "2026-07-20T12:40:35+08:00",
+    "fetch_runs": [
+      "2026-07-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7655900070001226225.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7655900070001226225.mp3",
+      "source": "download",
+      "processed_at": "2026-07-20T12:41:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7655900070001226225",
+      "transcript_raw": "金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日补充信息：金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日",
+      "transcript_clean": "金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日补充信息：金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-20/7655900070001226225.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7655900070001226225",
+      "summary": "盛长棟围绕“金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日补充信息：金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日。金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日补充信息：金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日补充信息：金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日补充信息：金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日补充信息：金鹰奖二轮投票正式开启，为女主角赵丽颖（小城大事饰李秋萍）和小城大事投票，截至7月6日",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-20/7655900070001226225.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "last_error": null
+  },
+  "7175080663412985143": {
+    "video_id": "7175080663412985143",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "符号家族~Car",
+      "video_id": "7175080663412985143",
+      "title": "我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划",
+      "publish_time": "2022-12-09T17:37:40+08:00",
+      "video_url": "https://www.douyin.com/video/7175080663412985143",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/941962b95db5baca878ac517db934143~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099880000&x-signature=bR5Xbz76WTNbGNtD%2BED0I3bWCQE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607201240571664DC8544FB22D0A095",
+      "like_count": 250,
+      "comment_count": 49,
+      "share_count": 108,
+      "collect_count": 47,
+      "description": "我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划",
+      "text_hint": "我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划",
+      "topic_tags": [
+        "新能源领航计划",
+        "车知识分享计划",
+        "汽车人共创计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a613c5f471df4dbb2e5a778d730e905a/6a5dd3b5/video/tos/cn/tos-cn-ve-0015c800/o4g8ghXWxAaRB0MKAzB4G6nyfQ8ICUNeGALmTl/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=723&bt=723&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9whlJYHhd.6VJNC73-ApQX&mime_type=video_mp4&qs=0&rc=ODo7aDhpZDkzPGY7aDY1ZEBpam50NWQ6ZjlpaDMzNGkzM0BhYl4zLjMwNWMxLjI1NTVeYSNmLm5ncjQwcDZgLS1kLS9zcw%3D%3D&btag=c0000e00038000&cquery=100w_100B_100H_100K_100o&dy_q=1784522457&l=202607201240571664DC8544FB22D0A095",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7175080663412985143.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7175080663412985143.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 684.416,
+      "raw_payload": {
+        "aweme_id": "7175080663412985143",
+        "author_uid": "967990955483223",
+        "sec_uid": "MS4wLjABAAAAL_FeI9_a58zRJ1mjr71WJaJfrgbIiZj2N3ePOcjuU1A",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAL_FeI9_a58zRJ1mjr71WJaJfrgbIiZj2N3ePOcjuU1A"
+      }
+    },
+    "first_seen_at": "2026-07-20T12:40:35+08:00",
+    "last_seen_at": "2026-07-20T12:40:35+08:00",
+    "fetch_runs": [
+      "2026-07-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7175080663412985143.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7175080663412985143.mp3",
+      "source": "download",
+      "processed_at": "2026-07-20T12:45:19+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7175080663412985143",
+      "transcript_raw": "我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划补充信息：我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划关键词：新能源领航计划、车知识分享计划、汽车人共创计划",
+      "transcript_clean": "我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划补充信息：我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划关键词：新能源领航计划、车知识分享计划、汽车人共创计划",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-20/7175080663412985143.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7175080663412985143",
+      "summary": "符号家族~Car围绕“新能源领航计划”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划。我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划补充信息：我的原则就是要“大”，三年就换代的皓影 更棒了！#新能源领航计划 #车知识分享计划 #汽车人共创计划关键词：新能源领航计划、车知识分享计划、汽车人共创计划 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新能源领航计划为什么总是做不出来结果？",
+        "先把车知识分享计划想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新能源领航计划组织标题与开头。",
+        "用车知识分享计划和汽车人共创计划补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新能源领航计划",
+        "车知识分享计划",
+        "汽车人共创计划"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-20/7175080663412985143.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "last_error": null
+  },
+  "7174053294103465256": {
+    "video_id": "7174053294103465256",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "Shirley",
+      "video_id": "7174053294103465256",
+      "title": "#设计改变生活 锤子科技 罗子雄",
+      "publish_time": "2022-12-06T23:10:55+08:00",
+      "video_url": "https://www.douyin.com/video/7174053294103465256",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/04720eefaadd1c6b9066f713ee564d65~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099880000&x-signature=gvNjoi27hwFjeQJS2IhpPVKlDUA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260720124100ED36F16C34BDABD56538",
+      "like_count": 2,
+      "comment_count": 0,
+      "share_count": 3,
+      "collect_count": 3,
+      "description": "#设计改变生活 锤子科技 罗子雄",
+      "text_hint": "#设计改变生活 锤子科技 罗子雄",
+      "topic_tags": [
+        "设计改变生活"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c42d3434c8e6ab64a229143395b514f7/6a5dd22a/video/tos/cn/tos-cn-ve-0015c800/oI9GIOfhjnN0sdaPAQzAU1xLejxgWBKAK6hhN5/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=302&bt=302&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wQlJYHhd.6VJNC73-ApQX&mime_type=video_mp4&qs=0&rc=OmU6ZzU6aDU4PGdlaTVoNUBpM3c3c2U6ZnRvaDMzNGkzM0BeYS9hNi1gXjExMzJiYjQuYSM0YHBlcjQwaTRgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1784522461&l=20260720124100ED36F16C34BDABD56538",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7174053294103465256.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7174053294103465256.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 285.768,
+      "raw_payload": {
+        "aweme_id": "7174053294103465256",
+        "author_uid": "68101137323",
+        "sec_uid": "MS4wLjABAAAAvDABQtToiQzK1tL9S8MW3b-U158G1HnInGSBZ-esC48",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAvDABQtToiQzK1tL9S8MW3b-U158G1HnInGSBZ-esC48"
+      }
+    },
+    "first_seen_at": "2026-07-20T12:40:35+08:00",
+    "last_seen_at": "2026-07-20T12:40:35+08:00",
+    "fetch_runs": [
+      "2026-07-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7174053294103465256.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7174053294103465256.mp3",
+      "source": "download",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7174053294103465256",
+      "transcript_raw": "#设计改变生活 锤子科技 罗子雄#设计改变生活 锤子科技 罗子雄补充信息：#设计改变生活 锤子科技 罗子雄关键词：设计改变生活",
+      "transcript_clean": "#设计改变生活 锤子科技 罗子雄#设计改变生活 锤子科技 罗子雄补充信息：#设计改变生活 锤子科技 罗子雄关键词：设计改变生活",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-20/7174053294103465256.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7174053294103465256",
+      "summary": "Shirley围绕“设计改变生活”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#设计改变生活 锤子科技 罗子雄。#设计改变生活 锤子科技 罗子雄#设计改变生活 锤子科技 罗子雄补充信息：#设计改变生活 锤子科技 罗子雄关键词：设计改变生活 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "设计改变生活为什么总是做不出来结果？",
+        "先把锤子科技想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕设计改变生活组织标题与开头。",
+        "用锤子科技和#设计改变生活补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "设计改变生活",
+        "锤子科技",
+        "#设计改变生活"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-20/7174053294103465256.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "last_error": null
+  },
+  "7545890239714725178": {
+    "video_id": "7545890239714725178",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7545890239714725178",
+      "title": "在抖音记录美好生活20260720",
+      "publish_time": "2026-07-20T12:41:35+08:00",
+      "video_url": "https://www.douyin.com/video/7545890239714725178",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260720",
+      "text_hint": "在抖音记录美好生活20260720",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/f6890dac-7aa4-4adf-ba0e-72695e3d2d43",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7545890239714725178",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-20T12:40:35+08:00",
+    "last_seen_at": "2026-07-20T12:40:35+08:00",
+    "fetch_runs": [
+      "2026-07-20"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7395493983188831515": {
+    "video_id": "7395493983188831515",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "大鑫车分享",
+      "video_id": "7395493983188831515",
+      "title": "暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水",
+      "publish_time": "2024-07-25T16:53:56+08:00",
+      "video_url": "https://www.douyin.com/video/7395493983188831515",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0f736229699f5d12f9bbede30ab46c67~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099880000&x-signature=VpwhABzN%2BtBOMdDvvpzq9pdAoXM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260720124111BF307FE165FB02A23D80",
+      "like_count": 1243,
+      "comment_count": 56,
+      "share_count": 237,
+      "collect_count": 762,
+      "description": "暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水",
+      "text_hint": "暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水",
+      "topic_tags": [
+        "暴雨过后",
+        "雨天行车注意安全",
+        "涉水"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e7bfd7f2e6a2018a90df624414bf4afe/6a5dd237/video/tos/cn/tos-cn-ve-15/o07zNmHWfABhSfD9A9XiIqEg3F9vho9WgCEIAZ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4265&bt=4265&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wFlJYHhd.6VJNC73-ApQX&mime_type=video_mp4&qs=0&rc=NGU6ZzU5PDQ6ZDc2ZjtkZUBpanV4cXM5cmk0dDMzNGkzM0A2XjQyLWAzNjYxYy8zYS1iYSNgLnJuMmRjMWVgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1784522471&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260720124111BF307FE165FB02A23D80",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7395493983188831515.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7395493983188831515.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 288.323,
+      "raw_payload": {
+        "aweme_id": "7395493983188831515",
+        "author_uid": "2236829271598168",
+        "sec_uid": "MS4wLjABAAAA1OwbgWDsbTnL1jnvvVk_Jb5EKmI0hIM28aPlOslKu0hsVSz0eGSbYIp9UXut8Cu5",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA1OwbgWDsbTnL1jnvvVk_Jb5EKmI0hIM28aPlOslKu0hsVSz0eGSbYIp9UXut8Cu5"
+      }
+    },
+    "first_seen_at": "2026-07-20T12:40:35+08:00",
+    "last_seen_at": "2026-07-20T12:40:35+08:00",
+    "fetch_runs": [
+      "2026-07-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7395493983188831515.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7395493983188831515.mp3",
+      "source": "download",
+      "processed_at": "2026-07-20T12:44:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7395493983188831515",
+      "transcript_raw": "暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水补充信息：暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水关键词：暴雨过后、雨天行车注意安全、涉水",
+      "transcript_clean": "暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水补充信息：暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水关键词：暴雨过后、雨天行车注意安全、涉水",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-20/7395493983188831515.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7395493983188831515",
+      "summary": "大鑫车分享围绕“暴雨过后”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水。暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水补充信息：暴雨过后大型涉水现场，雨天出行注意安全，不明水域请勿靠近！ #暴雨过后 #雨天行车注意安全 #涉水关键词：暴雨过后、雨天行车注意安全、涉水 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "暴雨过后为什么总是做不出来结果？",
+        "先把雨天行车注意安全想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕暴雨过后组织标题与开头。",
+        "用雨天行车注意安全和涉水补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "暴雨过后",
+        "雨天行车注意安全",
+        "涉水"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-20/7395493983188831515.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "last_error": null
+  },
+  "7535378662960205114": {
+    "video_id": "7535378662960205114",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "乡村强子",
+      "video_id": "7535378662960205114",
+      "title": "带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子",
+      "publish_time": "2025-08-06T17:57:00+08:00",
+      "video_url": "https://www.douyin.com/video/7535378662960205114",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/baf632deeb98987ed93802abb4bea10d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099880000&x-signature=kpaJo5olCd9jzEl12cderHV%2Fcbc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260720124114CC90521027AA3B900CD6",
+      "like_count": 3503,
+      "comment_count": 264,
+      "share_count": 267,
+      "collect_count": 176,
+      "description": "带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子",
+      "text_hint": "带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子",
+      "topic_tags": [
+        "农村美食记录生活",
+        "地方特色美食",
+        "乡村味道",
+        "分享家乡美食",
+        "和县斩鸭子"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f636ab217ebb73ed24c3d074b96d0fa7/6a5dd1d7/video/tos/cn/tos-cn-ve-15c000-ce/oAREKqoqjM9pEaFAFwAenQIDTwoekuYCsufFMh/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4533&bt=4533&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9w7lJYHhd.6VJNC73-ApQX&mime_type=video_mp4&qs=0&rc=ZmRlZDZkaTk2ZDpmOTc5NkBpM25uZ2o5cjlqNTMzbGkzNEBiXjZfYWItNV4xYS5gYWIwYSNvbDVlMmRraTZhLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100x_100z&dy_q=1784522474&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260720124114CC90521027AA3B900CD6",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7535378662960205114.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7535378662960205114.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 189.474,
+      "raw_payload": {
+        "aweme_id": "7535378662960205114",
+        "author_uid": "149179495357400",
+        "sec_uid": "MS4wLjABAAAADNhKPshjr2DMrh1VMk2g8ZYVolgUQXVLOb1S-GZ9X98",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAADNhKPshjr2DMrh1VMk2g8ZYVolgUQXVLOb1S-GZ9X98"
+      }
+    },
+    "first_seen_at": "2026-07-20T12:40:35+08:00",
+    "last_seen_at": "2026-07-20T12:40:35+08:00",
+    "fetch_runs": [
+      "2026-07-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7535378662960205114.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7535378662960205114.mp3",
+      "source": "download",
+      "processed_at": "2026-07-20T12:42:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7535378662960205114",
+      "transcript_raw": "带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子补充信息：带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子关键词：农村美食记录生活、地方特色美食、乡村味道、分享家乡美食、和县斩鸭子",
+      "transcript_clean": "带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子补充信息：带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子关键词：农村美食记录生活、地方特色美食、乡村味道、分享家乡美食、和县斩鸭子",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-20/7535378662960205114.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7535378662960205114",
+      "summary": "乡村强子围绕“农村美食记录生活”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子。带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子补充信息：带湖北兄弟来和县南门斩一个猪耳朵和一个舌条！他带回去给老丈人 #农村美食记录生活  #地方特色美食 #乡村味道 #分享家乡美食 #和县斩鸭子关键词：农村美食记录生活、地方特色美食、乡村味道、分享家乡美食、和县斩鸭子 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "农村美食记录生活为什么总是做不出来结果？",
+        "先把地方特色美食想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕农村美食记录生活组织标题与开头。",
+        "用地方特色美食和乡村味道补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "农村美食记录生活",
+        "地方特色美食",
+        "乡村味道"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-20/7535378662960205114.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "last_error": null
+  },
+  "7495106528995724559": {
+    "video_id": "7495106528995724559",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7495106528995724559",
+      "title": "今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手",
+      "publish_time": "2025-04-19T23:20:00+08:00",
+      "video_url": "https://www.douyin.com/video/7495106528995724559",
+      "cover_url": "",
+      "like_count": 532,
+      "comment_count": 109,
+      "share_count": 117,
+      "collect_count": 32,
+      "description": "今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手",
+      "text_hint": "今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手",
+      "topic_tags": [
+        "记录我的农村生活",
+        "家乡的味道",
+        "抖音美食推荐官",
+        "2025新农人计划",
+        "抖音小助手"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/589bf1a24eeda8cd669149ae7b88aa8b/6a5dd1f7/video/tos/cn/tos-cn-ve-15c001-alinc2/ow2fFBAkEACrHXQAwA1iXrubAIU9gzi4oEB4jf/?a=6383&br=1110&bt=1110&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1784522490&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9w-lJYHhd.6VJNC73-ApQX&is_ssr=1&l=20260720124130336766A55C8A92857FE1&lr=all&mime_type=video_mp4&qs=12&rc=Ozc8aTg0NzlpOWQ7PDZnaUBpanE1eGo5cm95MzMzNGkzM0BhXzRjLmIyNS0xMDJhLS82YSNlajQwMmRzYi5hLS1kLS9zcw%3D%3D&__vid=7495106528995724559",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7495106528995724559.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7495106528995724559.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7495106528995724559",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-20T12:40:35+08:00",
+    "last_seen_at": "2026-07-20T12:40:35+08:00",
+    "fetch_runs": [
+      "2026-07-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7495106528995724559.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-20/7495106528995724559.mp3",
+      "source": "download",
+      "processed_at": "2026-07-20T12:43:01+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7495106528995724559",
+      "transcript_raw": "今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手补充信息：今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手关键词：记录我的农村生活、家乡的味道、抖音美食推荐官、2025新农人计划、抖音小助手",
+      "transcript_clean": "今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手补充信息：今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手关键词：记录我的农村生活、家乡的味道、抖音美食推荐官、2025新农人计划、抖音小助手",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-20/7495106528995724559.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "analysis": {
+      "video_id": "7495106528995724559",
+      "summary": "目标博主 1围绕“记录我的农村生活”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手。今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手补充信息：今天纯手工制作手擀玉米面 面条的过程，包和面、擀面、切条、煮面和搭配麻椒料汁。玉米面条口感劲道爽滑，营养丰富，你们吃过吗？#记录我的农村生活#家乡的味道 #抖音美食推荐官 #2025新农人计划 #抖音小助手关键词：记录我的农村生活、家乡的味道、抖音美食推荐官、2025新农人计划、抖音小助手 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "记录我的农村生活为什么总是做不出来结果？",
+        "先把家乡的味道想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕记录我的农村生活组织标题与开头。",
+        "用家乡的味道和抖音美食推荐官补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "记录我的农村生活",
+        "家乡的味道",
+        "抖音美食推荐官"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-20/7495106528995724559.json",
+      "processed_at": "2026-07-20T12:45:29+08:00"
+    },
+    "last_error": null
   }
 }
