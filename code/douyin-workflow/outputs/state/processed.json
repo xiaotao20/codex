@@ -14591,5 +14591,587 @@
       "processed_at": "2026-07-20T12:45:29+08:00"
     },
     "last_error": null
+  },
+  "7659383775075346623": {
+    "video_id": "7659383775075346623",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "国家预警发布",
+      "video_id": "7659383775075346623",
+      "title": "珠海市气象台发布暴雨黄色预警[III级/较重]",
+      "publish_time": "2026-07-06T20:00:55+08:00",
+      "video_url": "https://www.douyin.com/video/7659383775075346623",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/9659332771163060c82134c54cf38c78~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099966400&x-signature=7boxNHCXksLrVB9Op0XZ304vUzA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260721121933921A494E747ADC9C0295",
+      "like_count": 2,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "珠海市气象台发布暴雨黄色预警[III级/较重]",
+      "text_hint": "珠海市气象台发布暴雨黄色预警[III级/较重]",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d99221273a5e3398d0fda03b7d424624/6a5f1d94/video/tos/cn/tos-cn-ve-15/oEcAUJQlSeiLABDNw1v6eCgDxsIZqAl4ELmQCF/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1754&bt=1754&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9woZoYHhd.P0EJC73-ApQX&mime_type=video_mp4&qs=0&rc=Mzw5aWlnOjtoNDk8Ozg6N0Bpajg1OGlrb3dzPDMzNGkzM0AxYTQuMi4vXjQxLTU0NWItYSMyMjM2cWdeZTJhLS1kLTBzcw%3D%3D&btag=80000e00010000&cquery=100J_100o_100w_100B_100Y&dy_q=1784607573&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260721121933921A494E747ADC9C0295",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7659383775075346623.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7659383775075346623.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 15.001,
+      "raw_payload": {
+        "aweme_id": "7659383775075346623",
+        "author_uid": "89923475432",
+        "sec_uid": "MS4wLjABAAAA8P_jnqEiVvLPkJF0-XqvMOiY_62I1B5spwwFOk9a9ig",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA8P_jnqEiVvLPkJF0-XqvMOiY_62I1B5spwwFOk9a9ig"
+      }
+    },
+    "first_seen_at": "2026-07-21T12:19:19+08:00",
+    "last_seen_at": "2026-07-21T12:19:19+08:00",
+    "fetch_runs": [
+      "2026-07-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7659383775075346623.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7659383775075346623.mp3",
+      "source": "download",
+      "processed_at": "2026-07-21T12:20:19+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7659383775075346623",
+      "transcript_raw": "珠海市气象台发布暴雨黄色预警[III级/较重]珠海市气象台发布暴雨黄色预警[III级/较重]补充信息：珠海市气象台发布暴雨黄色预警[III级/较重]",
+      "transcript_clean": "珠海市气象台发布暴雨黄色预警[III级/较重]珠海市气象台发布暴雨黄色预警[III级/较重]补充信息：珠海市气象台发布暴雨黄色预警[III级/较重]",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-21/7659383775075346623.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "analysis": {
+      "video_id": "7659383775075346623",
+      "summary": "国家预警发布围绕“珠海市气象台发布暴雨黄色预警[III级/较重]珠海市气象台发布暴雨黄色预警[III级/较重]补充信息：珠海市气象台发布暴雨黄色预警[III级/较重]”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "珠海市气象台发布暴雨黄色预警[III级/较重]。珠海市气象台发布暴雨黄色预警[III级/较重]珠海市气象台发布暴雨黄色预警[III级/较重]补充信息：珠海市气象台发布暴雨黄色预警[III级/较重] 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "珠海市气象台发布暴雨黄色预警[III级/较重]珠海市气象台发布暴雨黄色预警[III级/较重]补充信息：珠海市气象台发布暴雨黄色预警[III级/较重]为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕珠海市气象台发布暴雨黄色预警[III级/较重]珠海市气象台发布暴雨黄色预警[III级/较重]补充信息：珠海市气象台发布暴雨黄色预警[III级/较重]组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "珠海市气象台发布暴雨黄色预警[III级/较重]珠海市气象台发布暴雨黄色预警[III级/较重]补充信息：珠海市气象台发布暴雨黄色预警[III级/较重]",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-21/7659383775075346623.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "last_error": null
+  },
+  "7233377994633399607": {
+    "video_id": "7233377994633399607",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "泉州市迪盈机械",
+      "video_id": "7233377994633399607",
+      "title": "#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床",
+      "publish_time": "2023-05-15T20:01:00+08:00",
+      "video_url": "https://www.douyin.com/video/7233377994633399607",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0b725ed340192584dcd91afca98d7b27~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099966400&x-signature=MMOMROBDHXUA8UcNU5EZrPRPiyg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260721121936AADE9F4079C6E9F0ADEE",
+      "like_count": 23,
+      "comment_count": 2,
+      "share_count": 9,
+      "collect_count": 8,
+      "description": "#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床",
+      "text_hint": "#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床",
+      "topic_tags": [
+        "u钻暴力钻",
+        "圆棒钻孔",
+        "数控",
+        "汽配",
+        "双头数控车床",
+        "U钻暴力钻"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/08ae0e087cf1bb50ea32c0e3210e2e5d/6a5f1e93/video/cn/mps/realtime/v1/r/p/v0200fg10000chh1rajc77uckfsisd2g/b6b6758e5eb7424282f8f6c392b21e18/733d1b503bcf3fdfce716320e5da0a91/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1535&bt=1535&cs=0&ds=3&ft=InFJ3Y-5DyjNMRVQ9wuZoYHhd.P0EJC73-ApQX&mime_type=video_mp4&qs=0&rc=O2g1NTY5OzU1NTpoaDg5OUBpamdsaWY6ZmQ0azMzNGkzM0AuLl82YGNjNTExXzI1NF9fYSMvcHBocjRnb2VgLS1kLS9zcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100z_100o_100w_100B_100x&definition=720p&dy_q=1784607576&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7233377994633399607&l=20260721121936AADE9F4079C6E9F0ADEE&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7233377994633399607.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7233377994633399607.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 268.217,
+      "raw_payload": {
+        "aweme_id": "7233377994633399607",
+        "author_uid": "1187083786132887",
+        "sec_uid": "MS4wLjABAAAA6dneyY20yLttzXySOIvalIuy_v7bE43L7jqt5prJoFkeuAz_cjl47hqbpdnaK0tK",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA6dneyY20yLttzXySOIvalIuy_v7bE43L7jqt5prJoFkeuAz_cjl47hqbpdnaK0tK"
+      }
+    },
+    "first_seen_at": "2026-07-21T12:19:19+08:00",
+    "last_seen_at": "2026-07-21T12:19:19+08:00",
+    "fetch_runs": [
+      "2026-07-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7233377994633399607.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7233377994633399607.mp3",
+      "source": "download",
+      "processed_at": "2026-07-21T12:22:16+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7233377994633399607",
+      "transcript_raw": "#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床补充信息：#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床关键词：u钻暴力钻、圆棒钻孔、数控、汽配、双头数控车床、U钻暴力钻",
+      "transcript_clean": "#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床补充信息：#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床关键词：u钻暴力钻、圆棒钻孔、数控、汽配、双头数控车床、U钻暴力钻",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-21/7233377994633399607.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "analysis": {
+      "video_id": "7233377994633399607",
+      "summary": "泉州市迪盈机械围绕“u钻暴力钻”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床。#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床补充信息：#U钻暴力钻 #圆棒钻孔#数控 #汽配#双头数控车床关键词：u钻暴力钻、圆棒钻孔、数控、汽配、双头数控车床、U钻暴力钻 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "u钻暴力钻为什么总是做不出来结果？",
+        "先把圆棒钻孔想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕u钻暴力钻组织标题与开头。",
+        "用圆棒钻孔和数控补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "u钻暴力钻",
+        "圆棒钻孔",
+        "数控"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-21/7233377994633399607.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "last_error": null
+  },
+  "7421513325130927372": {
+    "video_id": "7421513325130927372",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "J1®captain",
+      "video_id": "7421513325130927372",
+      "title": "摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R",
+      "publish_time": "2024-10-03T19:42:20+08:00",
+      "video_url": "https://www.douyin.com/video/7421513325130927372",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/66746ae1cbfc35651ebe63c9fc7c03a1~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099966400&x-signature=mPRWIN1e7LogO9RnDCxCehZVlnQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607211219405F5DB740AC73F710256D",
+      "like_count": 175,
+      "comment_count": 6,
+      "share_count": 32,
+      "collect_count": 85,
+      "description": "摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R",
+      "text_hint": "摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R",
+      "topic_tags": [
+        "越野摩托车",
+        "翘头",
+        "越野技巧",
+        "ktm790adv",
+        "ktm"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/05f2f6cf5912eb8bc4a3e4c2ffaad93f/6a5f1e47/video/tos/cn/tos-cn-ve-0015c800/okofGe13DIZIEkwIeQbALEeGIv2PAu0GoCCwIF/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2131&bt=2131&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wdZoYHhd.P0EJC73-ApQX&mime_type=video_mp4&qs=0&rc=ZGRpMztlaWRlNmVpZjMzNEBpMzs2cXc5cjk6dTMzNGkzM0BfLzJfYF9hNTYxNGI0YjE1YSMwNWVjMmRzbnNgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1784607580&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607211219405F5DB740AC73F710256D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7421513325130927372.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7421513325130927372.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 187.268,
+      "raw_payload": {
+        "aweme_id": "7421513325130927372",
+        "author_uid": "64392858862",
+        "sec_uid": "MS4wLjABAAAAhEx3mq6aOk2ZC-VZAeVTestYLs2h79eNYSsRzw3loSI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhEx3mq6aOk2ZC-VZAeVTestYLs2h79eNYSsRzw3loSI"
+      }
+    },
+    "first_seen_at": "2026-07-21T12:19:19+08:00",
+    "last_seen_at": "2026-07-21T12:19:19+08:00",
+    "fetch_runs": [
+      "2026-07-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7421513325130927372.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7421513325130927372.mp3",
+      "source": "download",
+      "processed_at": "2026-07-21T12:21:23+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7421513325130927372",
+      "transcript_raw": "摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R补充信息：摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R关键词：越野摩托车、翘头、越野技巧、ktm790adv、ktm",
+      "transcript_clean": "摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R补充信息：摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R关键词：越野摩托车、翘头、越野技巧、ktm790adv、ktm",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-21/7421513325130927372.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "analysis": {
+      "video_id": "7421513325130927372",
+      "summary": "J1®captain围绕“越野摩托车”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R。摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R补充信息：摩托车翘头翘头技巧 #越野摩托车 #翘头 #越野技巧 翘头技巧第五课分享，Chris老师讲了用身体重量往下压缩减震这个动作的小窍门，利用一点点的后刹；同时讲了离合的保险作用。视频最后有高清慢镜。欢迎交流#ktm790adv #ktm @KTMR2R关键词：越野摩托车、翘头、越野技巧、ktm790adv、ktm 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "越野摩托车为什么总是做不出来结果？",
+        "先把翘头想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕越野摩托车组织标题与开头。",
+        "用翘头和越野技巧补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "越野摩托车",
+        "翘头",
+        "越野技巧"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-21/7421513325130927372.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "last_error": null
+  },
+  "7576671633373581651": {
+    "video_id": "7576671633373581651",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7576671633373581651",
+      "title": "在抖音记录美好生活20260721",
+      "publish_time": "2026-07-21T12:20:15+08:00",
+      "video_url": "https://www.douyin.com/video/7576671633373581651",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260721",
+      "text_hint": "在抖音记录美好生活20260721",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/7cb1ab7f-7bcf-4226-b956-97233ebf00bc",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7576671633373581651",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-21T12:19:19+08:00",
+    "last_seen_at": "2026-07-21T12:19:19+08:00",
+    "fetch_runs": [
+      "2026-07-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7439859267043118351": {
+    "video_id": "7439859267043118351",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "袁宝健身操",
+      "video_id": "7439859267043118351",
+      "title": "风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝",
+      "publish_time": "2024-11-22T06:14:29+08:00",
+      "video_url": "https://www.douyin.com/video/7439859267043118351",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/aab5a570396d4762fbee289965baed57~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099966400&x-signature=2o3fe30h7rgVfkyR8ObDH60Ei2Q%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607211219508210AA38DA66BC3B8131",
+      "like_count": 809,
+      "comment_count": 141,
+      "share_count": 1398,
+      "collect_count": 443,
+      "description": "风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝",
+      "text_hint": "风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝",
+      "topic_tags": [
+        "瘦全身完整版健身操",
+        "暴汗燃脂瘦全身",
+        "舞台无处不在",
+        "简单易学健身操完整版",
+        "热门音乐🔥"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/ed16bcede1878044411a169709ecd06e/6a5f1e6d/video/cn/mps/realtime/v1/r/p/v0200fg10000csvr0ovog65m2jvocmdg/e6a364d8d02d4039bacd438ea41c30d3/dd5a8ba1aa4e6f154dafbe1499c29c1d/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=933&bt=933&cs=0&ds=3&ft=InFJ3Y-5DyjNMRVQ9wWZoYHhd.P0EJC73-ApQX&mime_type=video_mp4&qs=0&rc=NjNmN2g2Z2Q8M2czOzc2OUBpanBybXA5cnJ1djMzNGkzM0BhMC5eNTFgXzAxL2FhM15iYSNhYHMvMmRzLXNgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100B_100x_100z_100o_100w&definition=720p&dy_q=1784607590&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7439859267043118351&l=202607211219508210AA38DA66BC3B8131&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7439859267043118351.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7439859267043118351.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 216.161,
+      "raw_payload": {
+        "aweme_id": "7439859267043118351",
+        "author_uid": "102716864783",
+        "sec_uid": "MS4wLjABAAAAE4toec3H-gEUZFVFg2FjLRgh5m-ofelAMr1ArF0t4fc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAE4toec3H-gEUZFVFg2FjLRgh5m-ofelAMr1ArF0t4fc"
+      }
+    },
+    "first_seen_at": "2026-07-21T12:19:19+08:00",
+    "last_seen_at": "2026-07-21T12:19:19+08:00",
+    "fetch_runs": [
+      "2026-07-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7439859267043118351.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7439859267043118351.mp3",
+      "source": "download",
+      "processed_at": "2026-07-21T12:20:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7439859267043118351",
+      "transcript_raw": "风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝补充信息：风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝关键词：瘦全身完整版健身操、暴汗燃脂瘦全身、舞台无处不在、简单易学健身操完整版、热门音乐🔥",
+      "transcript_clean": "风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝补充信息：风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝关键词：瘦全身完整版健身操、暴汗燃脂瘦全身、舞台无处不在、简单易学健身操完整版、热门音乐🔥",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-21/7439859267043118351.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "analysis": {
+      "video_id": "7439859267043118351",
+      "summary": "袁宝健身操围绕“瘦全身完整版健身操”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝。风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝补充信息：风与沙健身操完整版，最新火爆歌曲，简单易学，适合大众。 #瘦全身完整版健身操 #暴汗燃脂瘦全身 #舞台无处不在 #简单易学健身操完整版 #热门音乐🔥 @DOU+小助手 @抖音热点宝关键词：瘦全身完整版健身操、暴汗燃脂瘦全身、舞台无处不在、简单易学健身操完整版、热门音乐🔥 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "瘦全身完整版健身操为什么总是做不出来结果？",
+        "先把暴汗燃脂瘦全身想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕瘦全身完整版健身操组织标题与开头。",
+        "用暴汗燃脂瘦全身和舞台无处不在补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "瘦全身完整版健身操",
+        "暴汗燃脂瘦全身",
+        "舞台无处不在"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-21/7439859267043118351.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "last_error": null
+  },
+  "7459786307515026722": {
+    "video_id": "7459786307515026722",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "投研小余",
+      "video_id": "7459786307515026722",
+      "title": "浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识",
+      "publish_time": "2025-01-14T23:12:25+08:00",
+      "video_url": "https://www.douyin.com/video/7459786307515026722",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8c829ade216e7804cf60f2ebea2ab918~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2099966400&x-signature=IS%2BPV79xYI0MUjCfxUN3UyyVmEs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260721121954E57FCF128B3080011821",
+      "like_count": 634,
+      "comment_count": 46,
+      "share_count": 182,
+      "collect_count": 428,
+      "description": "浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识",
+      "text_hint": "浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识",
+      "topic_tags": [
+        "A股",
+        "科技股",
+        "寒武纪",
+        "股民交流",
+        "股市知识"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/31accf661acca77b44f4fd4d37c64456/6a5f1f42/video/tos/cn/tos-cn-ve-0015c800/oAE8IDFfnATQ7AA9l4hnygFz2euDgmgAA7gUGB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=588&bt=588&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w7ZoYHhd.P0EJC73-ApQX&mime_type=video_mp4&qs=0&rc=ZjU2ZzU1NDU7ZDs1NWllZEBpajxxbmo5cnM6eDMzNGkzM0BjMTUzLTA0NjQxXl8xLy0zYSNxbzBgMmRjbTBgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1784607594&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260721121954E57FCF128B3080011821",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7459786307515026722.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7459786307515026722.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 424.601,
+      "raw_payload": {
+        "aweme_id": "7459786307515026722",
+        "author_uid": "81346696497",
+        "sec_uid": "MS4wLjABAAAAcaWkRpRlyVXZtqHPfyOq_-4UyngAzAvHLuuKp05mnb4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAcaWkRpRlyVXZtqHPfyOq_-4UyngAzAvHLuuKp05mnb4"
+      }
+    },
+    "first_seen_at": "2026-07-21T12:19:19+08:00",
+    "last_seen_at": "2026-07-21T12:19:19+08:00",
+    "fetch_runs": [
+      "2026-07-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7459786307515026722.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7459786307515026722.mp3",
+      "source": "download",
+      "processed_at": "2026-07-21T12:20:41+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7459786307515026722",
+      "transcript_raw": "浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识补充信息：浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识关键词：A股、科技股、寒武纪、股民交流、股市知识",
+      "transcript_clean": "浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识补充信息：浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识关键词：A股、科技股、寒武纪、股民交流、股市知识",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-21/7459786307515026722.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "analysis": {
+      "video_id": "7459786307515026722",
+      "summary": "投研小余围绕“A股”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识。浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识补充信息：浅谈PE为何会部分失效 浅谈为何市盈率（PE）在当下会部分失效。为何涨的都是亏损的垃圾公司，业绩好的，PE低的不涨。深究其原因让你豁然开朗。#A股#科技股#寒武纪#股民交流#股市知识关键词：A股、科技股、寒武纪、股民交流、股市知识 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "A股为什么总是做不出来结果？",
+        "先把科技股想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕A股组织标题与开头。",
+        "用科技股和寒武纪补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "A股",
+        "科技股",
+        "寒武纪"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-21/7459786307515026722.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "last_error": null
+  },
+  "7164651339157376286": {
+    "video_id": "7164651339157376286",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7164651339157376286",
+      "title": "有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经",
+      "publish_time": "2022-11-11T16:02:00+08:00",
+      "video_url": "https://www.douyin.com/video/7164651339157376286",
+      "cover_url": "",
+      "like_count": 2327,
+      "comment_count": 183,
+      "share_count": 387,
+      "collect_count": 588,
+      "description": "有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经",
+      "text_hint": "有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经",
+      "topic_tags": [
+        "干货分享",
+        "知识分享",
+        "财经"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ce5fcbdfbde0446e3ec3591cdd393351/6a5f1efd/video/tos/cn/tos-cn-ve-2883c800/og5IEU9nAAPABXEh7ebefGnCgj2GpDBwUVW5Qt/?a=6383&br=852&bt=852&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100H_100K_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1784607610&ft=CZdgCYlIDyjNMRVQ9w-ZoYHhd.P0EJC73-ApQX&is_ssr=1&l=2026072112201083AAA25EFD8F96E8D8DD&lr=all&mime_type=video_mp4&qs=0&rc=NDM2aDNlMzwzZDRnNzNmaEBpajR1eTU6Znh5ZzMzNGkzM0A2NS42Ml42NTQxLzMwMV4uYSNoLmYycjRfNGpgLS1kLS9zcw%3D%3D&__vid=7164651339157376286",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7164651339157376286.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7164651339157376286.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7164651339157376286",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-21T12:19:19+08:00",
+    "last_seen_at": "2026-07-21T12:19:19+08:00",
+    "fetch_runs": [
+      "2026-07-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7164651339157376286.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-21/7164651339157376286.mp3",
+      "source": "download",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7164651339157376286",
+      "transcript_raw": "有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经补充信息：有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经关键词：干货分享、知识分享、财经",
+      "transcript_clean": "有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经补充信息：有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经关键词：干货分享、知识分享、财经",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-21/7164651339157376286.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "analysis": {
+      "video_id": "7164651339157376286",
+      "summary": "目标博主 1围绕“干货分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经。有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经补充信息：有了一个亿、该做什么？还继续创业吗？#干货分享 #知识分享 #财经关键词：干货分享、知识分享、财经 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "干货分享为什么总是做不出来结果？",
+        "先把知识分享想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕干货分享组织标题与开头。",
+        "用知识分享和财经补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "干货分享",
+        "知识分享",
+        "财经"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-21/7164651339157376286.json",
+      "processed_at": "2026-07-21T12:22:27+08:00"
+    },
+    "last_error": null
   }
 }
