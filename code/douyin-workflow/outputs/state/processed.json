@@ -15173,5 +15173,677 @@
       "processed_at": "2026-07-21T12:22:27+08:00"
     },
     "last_error": null
+  },
+  "7664799250974281001": {
+    "video_id": "7664799250974281001",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "沐一❤️",
+      "video_id": "7664799250974281001",
+      "title": "把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书",
+      "publish_time": "2026-07-21T10:15:47+08:00",
+      "video_url": "https://www.douyin.com/video/7664799250974281001",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0000/owwMAEsDgbmBWATFfoqBADA8IN14PWQxubcCfD~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100052800&x-signature=wQhVYLz58bHF%2Fek2Jxgad6C8Rng%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260722122159E3D53B39989D436BDAE4",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书",
+      "text_hint": "把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书",
+      "topic_tags": [
+        "小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用",
+        "漫画的形式给你总结好了",
+        "小学",
+        "启蒙书"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fbdab84947c6380992a66caadb56d145/6a606fc1/video/tos/cn/tos-cn-ve-192/oclM2fudJglBDGTEQLeEAbBDAAWFIQ88qtAGyt/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=3784&bt=3784&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wF0t.Hhd.gY2jf03-ApQX&mime_type=video_mp4&qs=0&rc=Zjs0Zzk4ZTY0OTY3aWU4OEBpajkzcHY5cm5nPDMzNDYzM0BfNDY1MTViXmAxNV4wYC9fYSNjZ2plMmRrYGNhLS1kMDBzcw%3D%3D&btag=80000e00018000&cquery=100w_100B_102v_102u_100o&dy_q=1784694119&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=20260722122159E3D53B39989D436BDAE4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7664799250974281001.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7664799250974281001.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 42.841,
+      "raw_payload": {
+        "aweme_id": "7664799250974281001",
+        "author_uid": "328105680180603",
+        "sec_uid": "MS4wLjABAAAAgMi2dDM9gjMsQEHAQ4JFoChw5xurXtOVnDmxHv1Wmkk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAgMi2dDM9gjMsQEHAQ4JFoChw5xurXtOVnDmxHv1Wmkk"
+      }
+    },
+    "first_seen_at": "2026-07-22T12:21:44+08:00",
+    "last_seen_at": "2026-07-22T12:21:44+08:00",
+    "fetch_runs": [
+      "2026-07-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7664799250974281001.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7664799250974281001.mp3",
+      "source": "download",
+      "processed_at": "2026-07-22T12:23:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7664799250974281001",
+      "transcript_raw": "把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书补充信息：把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书关键词：小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用、漫画的形式给你总结好了、小学、启蒙书",
+      "transcript_clean": "把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书补充信息：把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书关键词：小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用、漫画的形式给你总结好了、小学、启蒙书",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-22/7664799250974281001.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7664799250974281001",
+      "summary": "沐一❤️围绕“小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书。把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书补充信息：把这个#小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用#漫画的形式给你总结好了#小学#启蒙书关键词：小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用、漫画的形式给你总结好了、小学、启蒙书 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用为什么总是做不出来结果？",
+        "先把漫画的形式给你总结好了想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用组织标题与开头。",
+        "用漫画的形式给你总结好了和小学补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "小四门搞懂了，就是抓住了知识大门的金钥匙，这套书都用",
+        "漫画的形式给你总结好了",
+        "小学"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-22/7664799250974281001.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "last_error": null
+  },
+  "7612535185346776372": {
+    "video_id": "7612535185346776372",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "天视第六频道",
+      "video_id": "7612535185346776372",
+      "title": "小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走",
+      "publish_time": "2026-03-02T14:04:55+08:00",
+      "video_url": "https://www.douyin.com/video/7612535185346776372",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a37f962b3bd6d1092be2f53fb91b4c0e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100052800&x-signature=QjigRxyTZ8RU9pz9CzssPDaHPQU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260722122203F961E412A9A25F68C7F0",
+      "like_count": 30,
+      "comment_count": 0,
+      "share_count": 5,
+      "collect_count": 3,
+      "description": "小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走",
+      "text_hint": "小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走",
+      "topic_tags": [
+        "离家出走"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/6394d5142c3e6600f12ef5f9445398b7/6a606fae/video/tos/cn/tos-cn-ve-15/oUoBISLSkQG5ZfgADieAevIqTlIs7cvBEF8lmC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1279&bt=1279&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wc0t.Hhd.gY2jf03-ApQX&mime_type=video_mp4&qs=0&rc=OjwzNDxlaTc6NDw5N2hmNkBpamx4b3k5cnVsOTMzNGkzM0BiMGAtNl80X2ExYWMzYDE2YSM1NXJuMmQ0ZGZhLS1kLS9zcw%3D%3D&btag=c0000e00010000&cquery=100w_100B_100H_100K_100o&dy_q=1784694123&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260722122203F961E412A9A25F68C7F0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7612535185346776372.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7612535185346776372.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 19.034,
+      "raw_payload": {
+        "aweme_id": "7612535185346776372",
+        "author_uid": "2348171806641020",
+        "sec_uid": "MS4wLjABAAAAbUGug-h1efxAFtYEzoZNn7uMm2ATZsk2XfYhfxu1xOqy243zVOfKyr6Cs91Lw_VG",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAbUGug-h1efxAFtYEzoZNn7uMm2ATZsk2XfYhfxu1xOqy243zVOfKyr6Cs91Lw_VG"
+      }
+    },
+    "first_seen_at": "2026-07-22T12:21:44+08:00",
+    "last_seen_at": "2026-07-22T12:21:44+08:00",
+    "fetch_runs": [
+      "2026-07-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7612535185346776372.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7612535185346776372.mp3",
+      "source": "download",
+      "processed_at": "2026-07-22T12:23:25+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7612535185346776372",
+      "transcript_raw": "小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走补充信息：小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走关键词：离家出走",
+      "transcript_clean": "小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走补充信息：小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走关键词：离家出走",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-22/7612535185346776372.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7612535185346776372",
+      "summary": "天视第六频道围绕“离家出走”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走。小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走补充信息：小学生寒假作业未完成离家出走\n30余名民警携警犬 无人机搜索14小时\n被找到时已冻得脸色发青 嘴唇发白\n警方提醒：作业焦虑需家长耐心疏导#离家出走关键词：离家出走 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "离家出走为什么总是做不出来结果？",
+        "先把30余名民警携警犬想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕离家出走组织标题与开头。",
+        "用30余名民警携警犬和无人机搜索14小时补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "离家出走",
+        "30余名民警携警犬",
+        "无人机搜索14小时"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-22/7612535185346776372.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "last_error": null
+  },
+  "7176216068501884195": {
+    "video_id": "7176216068501884195",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "磊哥修车",
+      "video_id": "7176216068501884195",
+      "title": "检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热",
+      "publish_time": "2022-12-12T19:03:32+08:00",
+      "video_url": "https://www.douyin.com/video/7176216068501884195",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5d0793201dc00ec8e52c63ac278f784e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100052800&x-signature=fegL1R1W9m5bjP1rUjrFS3ghz6Q%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260722122207AF15989206CF4D82D2F7",
+      "like_count": 208,
+      "comment_count": 58,
+      "share_count": 74,
+      "collect_count": 97,
+      "description": "检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热",
+      "text_hint": "检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热",
+      "topic_tags": [
+        "汽车保养与维修",
+        "传祺gs4",
+        "座椅加热"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/2550c75f192f4064612df12b26e04388/6a607063/video/cn/mps/realtime/v1/r/p/v0d00fg10000cebgiijc77ubdlqdofb0/eac12dfdbf9f4079bdd5876f9018a9b1/69b74acb2df5952ff33a31b6bab45b5e/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1107&bt=1107&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9wZ0t.Hhd.gY2jf03-ApQX&mime_type=video_mp4&qs=0&rc=NDw7M2k6OGc8M2lpZ2c0ZEBpM2lnb2U6ZmxqaDMzNGkzM0BfXi42MzVhXzQxNl9jL2BiYSNfbG5hcjRnZl9gLS1kLWFzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100z_100o_100w_100B_100x&definition=720p&dy_q=1784694127&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7176216068501884195&l=20260722122207AF15989206CF4D82D2F7&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7176216068501884195.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7176216068501884195.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 196.033,
+      "raw_payload": {
+        "aweme_id": "7176216068501884195",
+        "author_uid": "4366913617537271",
+        "sec_uid": "MS4wLjABAAAAdkDz1aKkFfj8YNAjbat1e6hvbozJG9lwEDtu2oh09BJw9Em2PrfUQbmAY3sa2Z5n",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdkDz1aKkFfj8YNAjbat1e6hvbozJG9lwEDtu2oh09BJw9Em2PrfUQbmAY3sa2Z5n"
+      }
+    },
+    "first_seen_at": "2026-07-22T12:21:44+08:00",
+    "last_seen_at": "2026-07-22T12:21:44+08:00",
+    "fetch_runs": [
+      "2026-07-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7176216068501884195.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7176216068501884195.mp3",
+      "source": "download",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7176216068501884195",
+      "transcript_raw": "检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热补充信息：检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热关键词：汽车保养与维修、传祺gs4、座椅加热",
+      "transcript_clean": "检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热补充信息：检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热关键词：汽车保养与维修、传祺gs4、座椅加热",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-22/7176216068501884195.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7176216068501884195",
+      "summary": "磊哥修车围绕“汽车保养与维修”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热。检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热补充信息：检修传祺GS4座椅加热故障#汽车保养与维修 #传祺gs4 #座椅加热关键词：汽车保养与维修、传祺gs4、座椅加热 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "汽车保养与维修为什么总是做不出来结果？",
+        "先把传祺gs4想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕汽车保养与维修组织标题与开头。",
+        "用传祺gs4和座椅加热补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "汽车保养与维修",
+        "传祺gs4",
+        "座椅加热"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-22/7176216068501884195.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "last_error": null
+  },
+  "7195329610219867396": {
+    "video_id": "7195329610219867396",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "猴ba数学课堂",
+      "video_id": "7195329610219867396",
+      "title": "9下同步讲解105 锐角三角函数专题——实际应用",
+      "publish_time": "2023-02-02T07:14:55+08:00",
+      "video_url": "https://www.douyin.com/video/7195329610219867396",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/248f0f92cb5d08b74e78f7c6e11ff21c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100052800&x-signature=Lcfo7bFUTCFSTYFzPuNmfEGg4KU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607221222101287CB11801DDF8956F3",
+      "like_count": 26,
+      "comment_count": 0,
+      "share_count": 5,
+      "collect_count": 17,
+      "description": "9下同步讲解105 锐角三角函数专题——实际应用",
+      "text_hint": "9下同步讲解105 锐角三角函数专题——实际应用",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/c7f3f040d256599cb7164e685c87582c/6a607098/video/tos/cn/tos-cn-ve-0015c800/o4p19vcjjhDXApAQ5B28NeJDRGnATeAcvgbbR1/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=196&bt=196&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wz0t.Hhd.gY2jf03-ApQX&mime_type=video_mp4&qs=0&rc=aGZkZTw7PDo2Ozs7NGdlaUBpamQ5aTc6ZnVpaTMzNGkzM0AuMDYwNjZhNjQxNDI2LS0xYSNfYl4vcjRvMWFgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100D_100J_100o&dy_q=1784694130&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202607221222101287CB11801DDF8956F3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7195329610219867396.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7195329610219867396.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 246.039,
+      "raw_payload": {
+        "aweme_id": "7195329610219867396",
+        "author_uid": "2708791691586222",
+        "sec_uid": "MS4wLjABAAAAP0VjY89gF7zMtmSGJESzQQ6xbVdzoKHaxBn9zj5FzWLj_iA3r3TXQfNEXJraWUaA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAP0VjY89gF7zMtmSGJESzQQ6xbVdzoKHaxBn9zj5FzWLj_iA3r3TXQfNEXJraWUaA"
+      }
+    },
+    "first_seen_at": "2026-07-22T12:21:44+08:00",
+    "last_seen_at": "2026-07-22T12:21:44+08:00",
+    "fetch_runs": [
+      "2026-07-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7195329610219867396.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7195329610219867396.mp3",
+      "source": "download",
+      "processed_at": "2026-07-22T12:26:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7195329610219867396",
+      "transcript_raw": "9下同步讲解105 锐角三角函数专题——实际应用9下同步讲解105 锐角三角函数专题——实际应用补充信息：9下同步讲解105 锐角三角函数专题——实际应用",
+      "transcript_clean": "9下同步讲解105 锐角三角函数专题——实际应用9下同步讲解105 锐角三角函数专题——实际应用补充信息：9下同步讲解105 锐角三角函数专题——实际应用",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-22/7195329610219867396.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7195329610219867396",
+      "summary": "猴ba数学课堂围绕“9下同步讲解105”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "9下同步讲解105 锐角三角函数专题——实际应用。9下同步讲解105 锐角三角函数专题——实际应用9下同步讲解105 锐角三角函数专题——实际应用补充信息：9下同步讲解105 锐角三角函数专题——实际应用 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "9下同步讲解105为什么总是做不出来结果？",
+        "先把锐角三角函数专题——实际应用9下同步讲解105想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕9下同步讲解105组织标题与开头。",
+        "用锐角三角函数专题——实际应用9下同步讲解105和锐角三角函数专题——实际应用补充信息：9下同步讲解105补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "9下同步讲解105",
+        "锐角三角函数专题——实际应用9下同步讲解105",
+        "锐角三角函数专题——实际应用补充信息：9下同步讲解105"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-22/7195329610219867396.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "last_error": null
+  },
+  "7586242624026823993": {
+    "video_id": "7586242624026823993",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7586242624026823993",
+      "title": "学会看懂财务报表｜了解报表勾稽关系 #会计 #财务报表 #会计实操 #老板财税 #税务",
+      "publish_time": "2025-12-21T09:36:00+08:00",
+      "video_url": "https://www.douyin.com/video/7586242624026823993",
+      "cover_url": "",
+      "like_count": 390,
+      "comment_count": 12,
+      "share_count": 431,
+      "collect_count": 40,
+      "description": "学会看懂财务报表｜了解报表勾稽关系 #会计 #财务报表 #会计实操 #老板财税 #税务",
+      "text_hint": "学会看懂财务报表｜了解报表勾稽关系 #会计 #财务报表 #会计实操 #老板财税 #税务",
+      "topic_tags": [
+        "会计",
+        "财务报表",
+        "会计实操",
+        "老板财税",
+        "税务"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/80636e9a-3315-4366-834e-dff33b4779a5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7586242624026823993",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-22T12:21:44+08:00",
+    "last_seen_at": "2026-07-22T12:21:44+08:00",
+    "fetch_runs": [
+      "2026-07-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7537577041064725786": {
+    "video_id": "7537577041064725786",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "糖霜星辰",
+      "video_id": "7537577041064725786",
+      "title": "谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机",
+      "publish_time": "2025-08-12T14:08:37+08:00",
+      "video_url": "https://www.douyin.com/video/7537577041064725786",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e13fd61ca7e1a956bcd9095d765dbb00~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100052800&x-signature=lwK4Jj0e1tAVToaqLNwOiXv9K5U%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026072212223376FE7CC9B801AA83708D",
+      "like_count": 492,
+      "comment_count": 251,
+      "share_count": 34,
+      "collect_count": 37,
+      "description": "谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机",
+      "text_hint": "谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机",
+      "topic_tags": [
+        "大山深处自然美山清水秀好风光",
+        "无人机拍摄",
+        "天然氧吧",
+        "宁静的小山村",
+        "大疆无人机"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/718026c8ff76f5038c4dd4c5454b5d50/6a607083/video/tos/cn/tos-cn-ve-15/okyAJBASR2iAcExGPiQGVBhUaoIPaIZvrPiTZ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=5196&bt=5196&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wA3t.Hhd.gY2jf03-ApQX&mime_type=video_mp4&qs=0&rc=OGRoZDZpaTVkZTszNGkzZEBpam5za2s5cm9nNTMzNGkzM0AzNTViYF40NV4xMDFfLjBgYSM1aGpgMmQ0ZmFhLS1kLWFzcw%3D%3D&btag=80000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1784694154&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026072212223376FE7CC9B801AA83708D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7537577041064725786.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7537577041064725786.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 201.834,
+      "raw_payload": {
+        "aweme_id": "7537577041064725786",
+        "author_uid": "78126653823",
+        "sec_uid": "MS4wLjABAAAA32mlJjeaHjJozdepgsSYmmgaIZlt69l8Qhtpk9GuhTw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA32mlJjeaHjJozdepgsSYmmgaIZlt69l8Qhtpk9GuhTw"
+      }
+    },
+    "first_seen_at": "2026-07-22T12:21:44+08:00",
+    "last_seen_at": "2026-07-22T12:21:44+08:00",
+    "fetch_runs": [
+      "2026-07-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7537577041064725786.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7537577041064725786.mp3",
+      "source": "download",
+      "processed_at": "2026-07-22T12:25:01+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7537577041064725786",
+      "transcript_raw": "谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机补充信息：谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机关键词：大山深处自然美山清水秀好风光、无人机拍摄、天然氧吧、宁静的小山村、大疆无人机",
+      "transcript_clean": "谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机补充信息：谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机关键词：大山深处自然美山清水秀好风光、无人机拍摄、天然氧吧、宁静的小山村、大疆无人机",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-22/7537577041064725786.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7537577041064725786",
+      "summary": "糖霜星辰围绕“大山深处自然美山清水秀好风光”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机。谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机补充信息：谁要的香花树村来了#大山深处自然美山清水秀好风光 #无人机拍摄 #天然氧吧 #宁静的小山村 #大疆无人机关键词：大山深处自然美山清水秀好风光、无人机拍摄、天然氧吧、宁静的小山村、大疆无人机 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "大山深处自然美山清水秀好风光为什么总是做不出来结果？",
+        "先把无人机拍摄想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕大山深处自然美山清水秀好风光组织标题与开头。",
+        "用无人机拍摄和天然氧吧补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "大山深处自然美山清水秀好风光",
+        "无人机拍摄",
+        "天然氧吧"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-22/7537577041064725786.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "last_error": null
+  },
+  "7276029692304542991": {
+    "video_id": "7276029692304542991",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "音乐珍藏🎶🔥",
+      "video_id": "7276029692304542991",
+      "title": "刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里",
+      "publish_time": "2023-09-07T18:31:26+08:00",
+      "video_url": "https://www.douyin.com/video/7276029692304542991",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2625ecba53b92aed31adabe6b8ef243b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100052800&x-signature=HxcgJPvK8IZOgLyeVjZA2BOBgfA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607221222370F4AAFD0D7C42F83344A",
+      "like_count": 171,
+      "comment_count": 26,
+      "share_count": 31,
+      "collect_count": 6,
+      "description": "刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里",
+      "text_hint": "刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里",
+      "topic_tags": [
+        "奇台三十里解析",
+        "刀郎新歌",
+        "刀郎",
+        "音乐分享",
+        "奇台三十里"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/1fc7df6d213f4dac2a8cd0b0b29ceef6/6a6070aa/video/cn/mps/realtime/v1/r/p/v0300fg10000cjsqavjc77u1qana4pj0/9b95a034093546b88f3f974c05186199/9f9122cf6c2ec51e373c42f7bf2a95f4/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=814&bt=814&cs=0&ds=3&ft=InFJ3Y-5DyjNMRVQ9w83t.Hhd.gY2jf03-ApQX&mime_type=video_mp4&qs=0&rc=PDQ7OGY6aWk7OTg8NzM4ZUBpM3NkZDQ6Znl0bTMzNGkzM0A2My4tMTYwNV8xMC0wXjY2YSNnMWtucjRnXnBgLS1kLTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100B_100x_100z_100o_100w&definition=720p&dy_q=1784694157&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7276029692304542991&l=202607221222370F4AAFD0D7C42F83344A&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7276029692304542991.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7276029692304542991.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 237.721,
+      "raw_payload": {
+        "aweme_id": "7276029692304542991",
+        "author_uid": "3452889378086328",
+        "sec_uid": "MS4wLjABAAAAQGCR4JWyralMEeOKdbATbOYhm3czAmk3aAao_b0lEhM-HVDPXpk3keBym0AZgDEW",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQGCR4JWyralMEeOKdbATbOYhm3czAmk3aAao_b0lEhM-HVDPXpk3keBym0AZgDEW"
+      }
+    },
+    "first_seen_at": "2026-07-22T12:21:44+08:00",
+    "last_seen_at": "2026-07-22T12:21:44+08:00",
+    "fetch_runs": [
+      "2026-07-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7276029692304542991.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7276029692304542991.mp3",
+      "source": "download",
+      "processed_at": "2026-07-22T12:25:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7276029692304542991",
+      "transcript_raw": "刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里补充信息：刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里关键词：奇台三十里解析、刀郎新歌、刀郎、音乐分享、奇台三十里",
+      "transcript_clean": "刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里补充信息：刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里关键词：奇台三十里解析、刀郎新歌、刀郎、音乐分享、奇台三十里",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-22/7276029692304542991.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7276029692304542991",
+      "summary": "音乐珍藏🎶🔥围绕“奇台三十里解析”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里。刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里补充信息：刀郎《奇台十三里》歌曲背后的故事和旨意#奇台三十里解析 #刀郎新歌 #刀郎 #音乐分享 #奇台三十里关键词：奇台三十里解析、刀郎新歌、刀郎、音乐分享、奇台三十里 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "奇台三十里解析为什么总是做不出来结果？",
+        "先把刀郎新歌想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕奇台三十里解析组织标题与开头。",
+        "用刀郎新歌和刀郎补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "奇台三十里解析",
+        "刀郎新歌",
+        "刀郎"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-22/7276029692304542991.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "last_error": null
+  },
+  "7312702201242127626": {
+    "video_id": "7312702201242127626",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7312702201242127626",
+      "title": "学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳",
+      "publish_time": "2023-12-15T06:19:00+08:00",
+      "video_url": "https://www.douyin.com/video/7312702201242127626",
+      "cover_url": "",
+      "like_count": 133,
+      "comment_count": 22,
+      "share_count": 47,
+      "collect_count": 62,
+      "description": "学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳",
+      "text_hint": "学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳",
+      "topic_tags": [
+        "学生",
+        "学生在交偷",
+        "学生偷",
+        "麦当劳"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/37641320237e606544c16876c38be135/6a607097/video/tos/cn/tos-cn-ve-15/oAKKEDMUKCWQfAF7uBOIafygQ9BJA1fwpAkDEi/?a=6383&br=326&bt=326&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100D_100J_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1784694173&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wQ3t.Hhd.gY2jf03-ApQX&is_ssr=1&l=20260722122252EBE205DEB1A66966CA47&lr=all&mime_type=video_mp4&qs=12&rc=OWY8OTo4ZjQ8Zjw3NGloO0BpamVsNnE5cjV5bzMzNGkzM0AyYGBeLi8wNi8xMTFiMDQ0YSM1YjUyMmRrLXFgLS1kLS9zcw%3D%3D&__vid=7312702201242127626",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7312702201242127626.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7312702201242127626.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7312702201242127626",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-22T12:21:44+08:00",
+    "last_seen_at": "2026-07-22T12:21:44+08:00",
+    "fetch_runs": [
+      "2026-07-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7312702201242127626.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-22/7312702201242127626.mp3",
+      "source": "download",
+      "processed_at": "2026-07-22T12:25:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7312702201242127626",
+      "transcript_raw": "学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳补充信息：学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳关键词：学生、学生在交偷、学生偷、麦当劳",
+      "transcript_clean": "学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳补充信息：学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳关键词：学生、学生在交偷、学生偷、麦当劳",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-22/7312702201242127626.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "analysis": {
+      "video_id": "7312702201242127626",
+      "summary": "目标博主 1围绕“学生”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳。学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳补充信息：学生在校吃了一颗糖，竟被老师要求请全班48人吃一顿汉堡 #学生 #学生在交偷 #学生偷 #麦当劳关键词：学生、学生在交偷、学生偷、麦当劳 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "学生为什么总是做不出来结果？",
+        "先把学生在交偷想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕学生组织标题与开头。",
+        "用学生在交偷和学生偷补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "学生",
+        "学生在交偷",
+        "学生偷"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-22/7312702201242127626.json",
+      "processed_at": "2026-07-22T12:27:06+08:00"
+    },
+    "last_error": null
   }
 }
