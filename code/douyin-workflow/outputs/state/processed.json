@@ -15845,5 +15845,677 @@
       "processed_at": "2026-07-22T12:27:06+08:00"
     },
     "last_error": null
+  },
+  "7665174908045427882": {
+    "video_id": "7665174908045427882",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "升学指导梁老师",
+      "video_id": "7665174908045427882",
+      "title": "低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科",
+      "publish_time": "2026-07-22T10:33:28+08:00",
+      "video_url": "https://www.douyin.com/video/7665174908045427882",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oguWsDIYQA2MGfApf8fDAgKspeArUMgGgAQAAC~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100139200&x-signature=hLSK1JcJVh1cucxfYqFvrfx1p%2Fs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260723122043F9EF0506F6CF2917CBF4",
+      "like_count": 6,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科",
+      "text_hint": "低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科",
+      "topic_tags": [
+        "低分考生升学指南",
+        "学习中医",
+        "中医学",
+        "低分逆袭上大学",
+        "本科"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6b1e447a066d7a0a5de1a3707a8eac1c/6a61c0ed/video/tos/cn/tos-cn-ve-15/o0jDEAAFCIhvV9QgJ1AYfuECVkLWDf7BDAVqUg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=832&bt=832&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wYKH.Hhd.i2hwD03-ApQX&mime_type=video_mp4&qs=0&rc=NDlpOjVpNzxmNWZkM2Y3OEBpM3k5ZHE5cjg1PDMzNGkzM0BjYTQyYi9iX2AxMzI0MDQwYSNmL2ZmMmRra2RhLS1kLTBzcw%3D%3D&btag=80000e00018000&cquery=100o_100w_100B_100x_100z&dy_q=1784780443&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260723122043F9EF0506F6CF2917CBF4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7665174908045427882.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7665174908045427882.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 34.668,
+      "raw_payload": {
+        "aweme_id": "7665174908045427882",
+        "author_uid": "7659711627236131897",
+        "sec_uid": "MS4wLjABAAAAC2zUGbEaPRTbWOoW-ol47m4H3DF_tbFh8_Xk-mI_hXTLnnq8eHBRC-4a5zVru7tJ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAC2zUGbEaPRTbWOoW-ol47m4H3DF_tbFh8_Xk-mI_hXTLnnq8eHBRC-4a5zVru7tJ"
+      }
+    },
+    "first_seen_at": "2026-07-23T12:20:24+08:00",
+    "last_seen_at": "2026-07-23T12:20:24+08:00",
+    "fetch_runs": [
+      "2026-07-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7665174908045427882.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7665174908045427882.mp3",
+      "source": "download",
+      "processed_at": "2026-07-23T12:21:52+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7665174908045427882",
+      "transcript_raw": "低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科补充信息：低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科关键词：低分考生升学指南、学习中医、中医学、低分逆袭上大学、本科",
+      "transcript_clean": "低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科补充信息：低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科关键词：低分考生升学指南、学习中医、中医学、低分逆袭上大学、本科",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-23/7665174908045427882.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7665174908045427882",
+      "summary": "升学指导梁老师围绕“低分考生升学指南”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科。低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科补充信息：低分报考本科\n#低分考生升学指南 #学习中医 #中医学 #低分逆袭上大学 #本科关键词：低分考生升学指南、学习中医、中医学、低分逆袭上大学、本科 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "低分考生升学指南为什么总是做不出来结果？",
+        "先把学习中医想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕低分考生升学指南组织标题与开头。",
+        "用学习中医和中医学补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "低分考生升学指南",
+        "学习中医",
+        "中医学"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-23/7665174908045427882.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "last_error": null
+  },
+  "7616885144757996806": {
+    "video_id": "7616885144757996806",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小央视频",
+      "video_id": "7616885144757996806",
+      "title": "【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划",
+      "publish_time": "2026-03-14T07:25:20+08:00",
+      "video_url": "https://www.douyin.com/video/7616885144757996806",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3e3452509ad002d14968abb948ea0d27~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100139200&x-signature=zB7XLZxNP%2F8tLczFBPoMY8FlTps%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260723122050081F7275F62C5B16532F",
+      "like_count": 15031,
+      "comment_count": 1335,
+      "share_count": 327,
+      "collect_count": 638,
+      "description": "【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划",
+      "text_hint": "【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划",
+      "topic_tags": [
+        "总台记者在前线",
+        "媒体精选计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/12f08ebbfcc786e35797abc90625bd66/6a61c0ed/video/tos/cn/tos-cn-ve-15/9f7de70eb6114ffdad6aa2dd2d4b177f/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=692&bt=692&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w~KH.Hhd.i2hwD03-ApQX&mime_type=video_mp4&qs=0&rc=OWVpMzVmMzg6OzY1PDQ7N0BpMzs8ZXk5cjo8OTMzNGkzM0A0LS8vXjMvXmAxYDA2LTQxYSNvcmZsMmRzbW5hLS1kLTBzcw%3D%3D&btag=80000e00010000&cquery=100H_100K_100o_100w_100B&dy_q=1784780450&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260723122050081F7275F62C5B16532F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7616885144757996806.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7616885144757996806.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 27.447,
+      "raw_payload": {
+        "aweme_id": "7616885144757996806",
+        "author_uid": "98870923112",
+        "sec_uid": "MS4wLjABAAAADxxSM17aDo5GBB7mt6bHbOS2jzQpBxevn8Lh2rMkY8g",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAADxxSM17aDo5GBB7mt6bHbOS2jzQpBxevn8Lh2rMkY8g"
+      }
+    },
+    "first_seen_at": "2026-07-23T12:20:24+08:00",
+    "last_seen_at": "2026-07-23T12:20:24+08:00",
+    "fetch_runs": [
+      "2026-07-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7616885144757996806.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7616885144757996806.mp3",
+      "source": "download",
+      "processed_at": "2026-07-23T12:21:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7616885144757996806",
+      "transcript_raw": "【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划补充信息：【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划关键词：总台记者在前线、媒体精选计划",
+      "transcript_clean": "【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划补充信息：【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划关键词：总台记者在前线、媒体精选计划",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-23/7616885144757996806.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7616885144757996806",
+      "summary": "小央视频围绕“总台记者在前线”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划。【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划补充信息：【总台独家】以军夜袭伊朗 爆炸距总台记者仅几百米 #总台记者在前线 #媒体精选计划关键词：总台记者在前线、媒体精选计划 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "总台记者在前线为什么总是做不出来结果？",
+        "先把媒体精选计划想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕总台记者在前线组织标题与开头。",
+        "用媒体精选计划和爆炸距总台记者仅几百米补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "总台记者在前线",
+        "媒体精选计划",
+        "爆炸距总台记者仅几百米"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-23/7616885144757996806.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "last_error": null
+  },
+  "7401788624959737125": {
+    "video_id": "7401788624959737125",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "螺大大",
+      "video_id": "7401788624959737125",
+      "title": "自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享",
+      "publish_time": "2024-08-11T16:00:25+08:00",
+      "video_url": "https://www.douyin.com/video/7401788624959737125",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4a237ee8fd4911c3090fd49ee9ed504f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100139200&x-signature=6qsmyIWDeEJaLcHGLhQfoSaUKCk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026072312205711167A0B503392150DAC",
+      "like_count": 1126,
+      "comment_count": 165,
+      "share_count": 133,
+      "collect_count": 56,
+      "description": "自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享",
+      "text_hint": "自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享",
+      "topic_tags": [
+        "柳州美食",
+        "夜宵烧烤",
+        "附近美食",
+        "抖音美食",
+        "美食分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/9a056e2e1a50d4ac4523d692f136558b/6a61c25e/video/tos/cn/tos-cn-ve-15/oMhO52S8IEeaVKkAGgmA4DwBuEFVNd4fgA7FC9/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3466&bt=3466&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wCKH.Hhd.i2hwD03-ApQX&mime_type=video_mp4&qs=0&rc=Nzc0PGc5PDZnZGczNDc7aUBpM3hudHU5cm05dDMzNGkzM0BfLjUyYTEtXi0xLjIwMTYuYSNycWliMmRrcHBgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1784780457&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026072312205711167A0B503392150DAC",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7401788624959737125.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7401788624959737125.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 389.6,
+      "raw_payload": {
+        "aweme_id": "7401788624959737125",
+        "author_uid": "62824229058",
+        "sec_uid": "MS4wLjABAAAAMezk1SbK5rwwTCZOVGKf-r5SCUOpFGUAZZE0VMU2Xu0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAMezk1SbK5rwwTCZOVGKf-r5SCUOpFGUAZZE0VMU2Xu0"
+      }
+    },
+    "first_seen_at": "2026-07-23T12:20:24+08:00",
+    "last_seen_at": "2026-07-23T12:20:24+08:00",
+    "fetch_runs": [
+      "2026-07-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7401788624959737125.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7401788624959737125.mp3",
+      "source": "download",
+      "processed_at": "2026-07-23T12:24:47+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7401788624959737125",
+      "transcript_raw": "自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享补充信息：自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享关键词：柳州美食、夜宵烧烤、附近美食、抖音美食、美食分享",
+      "transcript_clean": "自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享补充信息：自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享关键词：柳州美食、夜宵烧烤、附近美食、抖音美食、美食分享",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-23/7401788624959737125.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7401788624959737125",
+      "summary": "螺大大围绕“柳州美食”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享。自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享补充信息：自己找的小螃蟹就是香～嘎嘣脆！#柳州美食 #夜宵烧烤 #附近美食 #抖音美食 #美食分享关键词：柳州美食、夜宵烧烤、附近美食、抖音美食、美食分享 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "柳州美食为什么总是做不出来结果？",
+        "先把夜宵烧烤想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕柳州美食组织标题与开头。",
+        "用夜宵烧烤和附近美食补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "柳州美食",
+        "夜宵烧烤",
+        "附近美食"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-23/7401788624959737125.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "last_error": null
+  },
+  "7404480838081023271": {
+    "video_id": "7404480838081023271",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "🌍大•事",
+      "video_id": "7404480838081023271",
+      "title": "陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事",
+      "publish_time": "2024-08-19T08:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7404480838081023271",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e259455ac35ce12349e4bd693b076789~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100139200&x-signature=BzlzFGSaMDsSJkE9%2Fo7DNGx8VeY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260723122104090DD7844271EA166ABB",
+      "like_count": 26,
+      "comment_count": 2,
+      "share_count": 7,
+      "collect_count": 10,
+      "description": "陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事",
+      "text_hint": "陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事",
+      "topic_tags": [
+        "人文星闪耀计划",
+        "艺术在抖音",
+        "历史",
+        "历史人物",
+        "历史故事"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/91f510628044346c9052919417774332/6a61c196/video/cn/mps/realtime/v1/r/p/v0300fg10000cr0vutvog65n4et55s40/995ab4eacef44af5a682f520737c882f/b31527559f83d04e7a18882b57eba984/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=589&bt=589&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNNRVQ9wDKH.Hhd.i2hwD03-ApQX&mime_type=video_mp4&qs=0&rc=aTtmNjM4NTk4ZDdoZDdkPEBpM3Y4aHE5cnd5dTMzNGkzM0AvNTQ0L2M1XmMxY2BiXzI2YSMxMnExMmRzci1gLS1kLTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100w_100B_100H_100K_100o&definition=720p&dy_q=1784780464&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7404480838081023271&l=20260723122104090DD7844271EA166ABB&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7404480838081023271.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7404480838081023271.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 183.045,
+      "raw_payload": {
+        "aweme_id": "7404480838081023271",
+        "author_uid": "3314344160929036",
+        "sec_uid": "MS4wLjABAAAALo-yAUGBTCujYC8XwO14aWiK1AyvOB4909nxKAQI-0xD9pY2dZkdL2tJjCe0LNvK",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAALo-yAUGBTCujYC8XwO14aWiK1AyvOB4909nxKAQI-0xD9pY2dZkdL2tJjCe0LNvK"
+      }
+    },
+    "first_seen_at": "2026-07-23T12:20:24+08:00",
+    "last_seen_at": "2026-07-23T12:20:24+08:00",
+    "fetch_runs": [
+      "2026-07-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7404480838081023271.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7404480838081023271.mp3",
+      "source": "download",
+      "processed_at": "2026-07-23T12:23:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7404480838081023271",
+      "transcript_raw": "陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事补充信息：陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事关键词：人文星闪耀计划、艺术在抖音、历史、历史人物、历史故事",
+      "transcript_clean": "陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事补充信息：陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事关键词：人文星闪耀计划、艺术在抖音、历史、历史人物、历史故事",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-23/7404480838081023271.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7404480838081023271",
+      "summary": "🌍大•事围绕“人文星闪耀计划”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事。陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事补充信息：陆章：意大利和日本的要求 #人文星闪耀计划 #艺术在抖音 #历史 #历史人物 #历史故事关键词：人文星闪耀计划、艺术在抖音、历史、历史人物、历史故事 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "人文星闪耀计划为什么总是做不出来结果？",
+        "先把艺术在抖音想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕人文星闪耀计划组织标题与开头。",
+        "用艺术在抖音和历史补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "人文星闪耀计划",
+        "艺术在抖音",
+        "历史"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-23/7404480838081023271.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "last_error": null
+  },
+  "7550870637138218294": {
+    "video_id": "7550870637138218294",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7550870637138218294",
+      "title": "在抖音记录美好生活20260723",
+      "publish_time": "2026-07-23T12:21:49+08:00",
+      "video_url": "https://www.douyin.com/video/7550870637138218294",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260723",
+      "text_hint": "在抖音记录美好生活20260723",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/1800b2e1-d5f0-4d00-b77a-3df635e6bf79",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7550870637138218294",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-23T12:20:24+08:00",
+    "last_seen_at": "2026-07-23T12:20:24+08:00",
+    "fetch_runs": [
+      "2026-07-23"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7441946046541974784": {
+    "video_id": "7441946046541974784",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "铲铲鼬",
+      "video_id": "7441946046541974784",
+      "title": "三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2",
+      "publish_time": "2024-11-27T21:11:44+08:00",
+      "video_url": "https://www.douyin.com/video/7441946046541974784",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0d68caede21ecb50f750789a42a43002~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100139200&x-signature=PaPtiTTyVk5QGib3EWuZLxOfkc0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260723122121610076E050EF911562B9",
+      "like_count": 20469,
+      "comment_count": 91,
+      "share_count": 774,
+      "collect_count": 662,
+      "description": "三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2",
+      "text_hint": "三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2",
+      "topic_tags": [
+        "金铲铲之战",
+        "云顶之弈",
+        "金铲铲之战双城传说2"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8dce49d7be66c3269e08ddec4f7d1bd5/6a61c204/video/tos/cn/tos-cn-ve-15/oUSKhxA2DICSmO0kAtFiCX9FSBfQnxAQEfgIAR/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2636&bt=2636&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wIlH.Hhd.i2hwD03-ApQX&mime_type=video_mp4&qs=0&rc=N2RpODc1Z2ZpZDpoNmY7aUBpajxva3Q5cjRrdzMzNGkzM0BeMC1fNDQxNmExYi82NmAtYSM2YS1hMmRjZjBgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1784780481&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260723122121610076E050EF911562B9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7441946046541974784.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7441946046541974784.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 275.434,
+      "raw_payload": {
+        "aweme_id": "7441946046541974784",
+        "author_uid": "3623639531414055",
+        "sec_uid": "MS4wLjABAAAA1MeBfg_4XeDTr-kparc_h2NINf5vEtQk5PbqmwIM5mSbtVmHtUiJ8uD2YtiTVmhC",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA1MeBfg_4XeDTr-kparc_h2NINf5vEtQk5PbqmwIM5mSbtVmHtUiJ8uD2YtiTVmhC"
+      }
+    },
+    "first_seen_at": "2026-07-23T12:20:24+08:00",
+    "last_seen_at": "2026-07-23T12:20:24+08:00",
+    "fetch_runs": [
+      "2026-07-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7441946046541974784.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7441946046541974784.mp3",
+      "source": "download",
+      "processed_at": "2026-07-23T12:22:44+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7441946046541974784",
+      "transcript_raw": "三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2补充信息：三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2关键词：金铲铲之战、云顶之弈、金铲铲之战双城传说2",
+      "transcript_clean": "三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2补充信息：三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2关键词：金铲铲之战、云顶之弈、金铲铲之战双城传说2",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-23/7441946046541974784.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7441946046541974784",
+      "summary": "铲铲鼬围绕“金铲铲之战”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2。三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2补充信息：三星大头和狙击手的专注简直绝配！#金铲铲之战 #云顶之弈 #金铲铲之战双城传说2关键词：金铲铲之战、云顶之弈、金铲铲之战双城传说2 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "金铲铲之战为什么总是做不出来结果？",
+        "先把云顶之弈想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕金铲铲之战组织标题与开头。",
+        "用云顶之弈和金铲铲之战双城传说2补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "金铲铲之战",
+        "云顶之弈",
+        "金铲铲之战双城传说2"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-23/7441946046541974784.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "last_error": null
+  },
+  "7215969867348938044": {
+    "video_id": "7215969867348938044",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "朵朵编绳",
+      "video_id": "7215969867348938044",
+      "title": "文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳",
+      "publish_time": "2023-03-29T22:08:35+08:00",
+      "video_url": "https://www.douyin.com/video/7215969867348938044",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1bb0686fa4ccff93ab2f2cf5d2ba7a11~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100139200&x-signature=F9l6IGuo0Vp0LBT1gURxuyBQiG0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607231221288DBBB1DC1BFE0CDB8BAE",
+      "like_count": 538,
+      "comment_count": 11,
+      "share_count": 135,
+      "collect_count": 775,
+      "description": "文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳",
+      "text_hint": "文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳",
+      "topic_tags": [
+        "编绳教程",
+        "编织教程",
+        "编绳"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/03d618eaea759f140afd83b30a92f2cb/6a61c1de/video/tos/cn/tos-cn-ve-0015c800/o0ISE4PK7BBfKiewIRHCBwCAGGlAfTzrSI2hZC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1937&bt=1937&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9welH.Hhd.i2hwD03-ApQX&mime_type=video_mp4&qs=0&rc=OWQ0OTw4OjM0NjtpNDY0M0BpM2VvNzU6Zjk3ajMzNGkzM0BfXjUuMDYvNi8xYzRiM2M1YSMzbS5hcjQwYGZgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1784780488&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202607231221288DBBB1DC1BFE0CDB8BAE",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7215969867348938044.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7215969867348938044.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 230.434,
+      "raw_payload": {
+        "aweme_id": "7215969867348938044",
+        "author_uid": "3056255316538156",
+        "sec_uid": "MS4wLjABAAAAYKpFISBGN3oSb6yilERq8kFdCqf-Lfza74QESbMc5qj45_-lx_tPKg6fHFYBqRZ9",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAYKpFISBGN3oSb6yilERq8kFdCqf-Lfza74QESbMc5qj45_-lx_tPKg6fHFYBqRZ9"
+      }
+    },
+    "first_seen_at": "2026-07-23T12:20:24+08:00",
+    "last_seen_at": "2026-07-23T12:20:24+08:00",
+    "fetch_runs": [
+      "2026-07-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7215969867348938044.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7215969867348938044.mp3",
+      "source": "download",
+      "processed_at": "2026-07-23T12:25:18+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7215969867348938044",
+      "transcript_raw": "文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳补充信息：文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳关键词：编绳教程、编织教程、编绳",
+      "transcript_clean": "文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳补充信息：文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳关键词：编绳教程、编织教程、编绳",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-23/7215969867348938044.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7215969867348938044",
+      "summary": "朵朵编绳围绕“编绳教程”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳。文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳补充信息：文玩人必会的6种绳结大集合，快快收藏，干货满满#编绳教程 #编织教程 #编绳关键词：编绳教程、编织教程、编绳 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "编绳教程为什么总是做不出来结果？",
+        "先把编织教程想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕编绳教程组织标题与开头。",
+        "用编织教程和编绳补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "编绳教程",
+        "编织教程",
+        "编绳"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-23/7215969867348938044.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "last_error": null
+  },
+  "7198084459084795191": {
+    "video_id": "7198084459084795191",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7198084459084795191",
+      "title": "满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依",
+      "publish_time": "2023-02-09T09:24:00+08:00",
+      "video_url": "https://www.douyin.com/video/7198084459084795191",
+      "cover_url": "",
+      "like_count": 2243,
+      "comment_count": 124,
+      "share_count": 214,
+      "collect_count": 426,
+      "description": "满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依",
+      "text_hint": "满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依",
+      "topic_tags": [
+        "歌曲爱的蠢动",
+        "抖音网红推荐",
+        "沙雅县",
+        "辣子巴依"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2004ccdb4d24f4523e8b0933327cf89e/6a61c2d5/video/tos/cn/tos-cn-ve-0015c800/okbAk6n0efYR5vknI9FmABQAvWqQoChbgjLVRD/?a=6383&br=1119&bt=1119&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100z_100o_100w_100B_100x&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1784780504&feature_id=f0150a16a324336cda5d6dd0b69ed299&ft=CZdgCYlIDyjNNRVQ9wulH.Hhd.i2hwD03-ApQX&is_ssr=1&l=2026072312214491896DAD9D4E21DC6D7A&lr=all&mime_type=video_mp4&qs=0&rc=ZDRoNmVmOGlkOjZpOGc4ZkBpamZudGU6ZjdlaTMzNGkzM0AtNWAxMjBjXzUxYjEtXy9iYSM2ZGpfcjRfZmZgLS1kLS9zcw%3D%3D&__vid=7198084459084795191",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7198084459084795191.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7198084459084795191.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7198084459084795191",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-23T12:20:24+08:00",
+    "last_seen_at": "2026-07-23T12:20:24+08:00",
+    "fetch_runs": [
+      "2026-07-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7198084459084795191.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-23/7198084459084795191.mp3",
+      "source": "download",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7198084459084795191",
+      "transcript_raw": "满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依补充信息：满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依关键词：歌曲爱的蠢动、抖音网红推荐、沙雅县、辣子巴依",
+      "transcript_clean": "满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依补充信息：满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依关键词：歌曲爱的蠢动、抖音网红推荐、沙雅县、辣子巴依",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-23/7198084459084795191.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7198084459084795191",
+      "summary": "目标博主 1围绕“歌曲爱的蠢动”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依。满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依补充信息：满足粉丝要求的弟26天，今天采访开托育中心的美女#歌曲爱的蠢动 #抖音网红推荐 #沙雅县 #辣子巴依关键词：歌曲爱的蠢动、抖音网红推荐、沙雅县、辣子巴依 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "歌曲爱的蠢动为什么总是做不出来结果？",
+        "先把抖音网红推荐想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕歌曲爱的蠢动组织标题与开头。",
+        "用抖音网红推荐和沙雅县补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "歌曲爱的蠢动",
+        "抖音网红推荐",
+        "沙雅县"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-23/7198084459084795191.json",
+      "processed_at": "2026-07-23T12:25:54+08:00"
+    },
+    "last_error": null
   }
 }
