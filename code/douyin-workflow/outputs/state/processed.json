@@ -16517,5 +16517,536 @@
       "processed_at": "2026-07-23T12:25:54+08:00"
     },
     "last_error": null
+  },
+  "7665434194532633898": {
+    "video_id": "7665434194532633898",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "淼淼妈妈👩陪娃",
+      "video_id": "7665434194532633898",
+      "title": "初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语",
+      "publish_time": "2026-07-23T03:19:42+08:00",
+      "video_url": "https://www.douyin.com/video/7665434194532633898",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0051-ce/ocTIBSMUJGFveQIfyILSggQIbAYyCvzeGmDURi~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100225600&x-signature=OOMwowKTXyVq6p2AvIZoraXHBvo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260724122028F430132AC6A6F7A41C9D",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语",
+      "text_hint": "初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语",
+      "topic_tags": [
+        "初中英语"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/bc9b3d1b788ef0097cdc76b81318e77b/6a63125c/video/tos/cn/tos-cn-ve-51-ce/o8gENmGfNqE1yoEUBTDfJcFz098XwAnQ3hacID/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=3593&bt=3593&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wnJQ.Hhd..7ICM73-ApQX&mime_type=video_mp4&qs=0&rc=NDw7OGc3NTY0ODY2PDs5O0BpMzppdnI5cm1rPDMzNDYzM0BiYGIwMTUzXzYxYDBjMWBfYSNsaTRuMmRrY2RhLS1kMDBzcw%3D%3D&btag=c0000e00018000&cquery=100o_100w_100B_102v_102u&dy_q=1784866828&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=20260724122028F430132AC6A6F7A41C9D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7665434194532633898.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7665434194532633898.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 32.857,
+      "raw_payload": {
+        "aweme_id": "7665434194532633898",
+        "author_uid": "4435890802004200",
+        "sec_uid": "MS4wLjABAAAApKiN3rbUTiQTKwRhotBULTJ1TAWaVVFprdLoe34zVqWv2k_noL6XHcimIBT5XrgN",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAApKiN3rbUTiQTKwRhotBULTJ1TAWaVVFprdLoe34zVqWv2k_noL6XHcimIBT5XrgN"
+      }
+    },
+    "first_seen_at": "2026-07-24T12:20:14+08:00",
+    "last_seen_at": "2026-07-24T12:20:14+08:00",
+    "fetch_runs": [
+      "2026-07-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7665434194532633898.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7665434194532633898.mp3",
+      "source": "download",
+      "processed_at": "2026-07-24T12:22:34+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7665434194532633898",
+      "transcript_raw": "初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语补充信息：初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语关键词：初中英语",
+      "transcript_clean": "初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语补充信息：初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语关键词：初中英语",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-24/7665434194532633898.json",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7665434194532633898",
+      "summary": "淼淼妈妈👩陪娃围绕“初中英语”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语。初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语补充信息：初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语关键词：初中英语 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "初中英语为什么总是做不出来结果？",
+        "先把初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语补充信息：初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语关键词：初中英语想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕初中英语组织标题与开头。",
+        "用初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语补充信息：初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语关键词：初中英语和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "初中英语",
+        "初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语补充信息：初中英文衡水体人教版，扫码跟读，既能练字还能巩固课本必考单词和重点句子，一举两得#初中英语关键词：初中英语",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-24/7665434194532633898.json",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "last_error": null
+  },
+  "7599971069956885221": {
+    "video_id": "7599971069956885221",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "静静地",
+      "video_id": "7599971069956885221",
+      "title": "静静地 视频 7599971069956885221",
+      "publish_time": "2026-01-27T17:29:19+08:00",
+      "video_url": "https://www.douyin.com/video/7599971069956885221",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEAFJBWSOEoBE7SIVA4fDFheBDC4xIEfy9N2Vg~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100225600&x-signature=nk6oomCwLRRGV1AZT2YYdgbOT5c%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607241220303A24C83BEAC1D8A694C3",
+      "like_count": 4,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/28dd3c66c6c6eafea37ca26e9da3b4ec/6a631266/video/tos/cn/tos-cn-ve-15c000-ce/o4qgrkCRAirBQfOS7mADJbsfvIItQgLxFLJ8eG/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=950&bt=950&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wBJQ.Hhd..7ICM73-ApQX&mime_type=video_mp4&qs=0&rc=PGYzaGczNzw8MzY7ODs6aUBpM2xyb3k5cnQ7ODMzbGkzNUBiYTVjLjFiNS8xLV8yLTAuYSMtb2JsMmQ0XnBhLS1kLTRzcw%3D%3D&btag=80000e00018000&cquery=100z_100o_100w_100B_100x&dy_q=1784866831&feature_id=fea919893f650a8c49286568590446ef&l=202607241220303A24C83BEAC1D8A694C3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7599971069956885221.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7599971069956885221.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 39.149,
+      "raw_payload": {
+        "aweme_id": "7599971069956885221",
+        "author_uid": "1072724586541831",
+        "sec_uid": "MS4wLjABAAAAxVpyfrJAhij2roIuDcHazJjzOLmY0xUNAF9JAd5OYYOkF9yPo9ZmJilhh-jasOsL",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAxVpyfrJAhij2roIuDcHazJjzOLmY0xUNAF9JAd5OYYOkF9yPo9ZmJilhh-jasOsL"
+      }
+    },
+    "first_seen_at": "2026-07-24T12:20:14+08:00",
+    "last_seen_at": "2026-07-24T12:20:14+08:00",
+    "fetch_runs": [
+      "2026-07-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7599971069956885221.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7599971069956885221.mp3",
+      "source": "download",
+      "processed_at": "2026-07-24T12:22:38+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7599971069956885221",
+      "transcript_raw": "静静地 视频 7599971069956885221",
+      "transcript_clean": "静静地 视频 7599971069956885221",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-24/7599971069956885221.json",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7599971069956885221",
+      "summary": "静静地围绕“静静地”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "静静地 视频 7599971069956885221。静静地 视频 7599971069956885221 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "静静地为什么总是做不出来结果？",
+        "先把视频想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕静静地组织标题与开头。",
+        "用视频和7599971069956885221补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "静静地",
+        "视频",
+        "7599971069956885221"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-24/7599971069956885221.json",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "last_error": null
+  },
+  "7265267911474859301": {
+    "video_id": "7265267911474859301",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "阿柚不错哦",
+      "video_id": "7265267911474859301",
+      "title": "韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光",
+      "publish_time": "2023-08-09T18:30:02+08:00",
+      "video_url": "https://www.douyin.com/video/7265267911474859301",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/de4044f55a76858e9c61ea412adb0c44~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100225600&x-signature=dn7kEqeOcX7kiDq3UjzWcbqJkCU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026072412203473FB2E0E10C5304D3ADB",
+      "like_count": 4422,
+      "comment_count": 236,
+      "share_count": 66,
+      "collect_count": 196,
+      "description": "韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光",
+      "text_hint": "韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光",
+      "topic_tags": [
+        "韩国",
+        "韩国经济",
+        "韩国造船",
+        "俄罗斯",
+        "国货发光"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/87f048d8c794d013cd3f70003b5d419e/6a63134f/video/tos/cn/tos-cn-ve-15c001-alinc2/o8ET4eqEpT9EQEsIzBFkAdPDgBCScAxlf20ACh/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=874&bt=874&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wkJQ.Hhd..7ICM73-ApQX&mime_type=video_mp4&qs=0&rc=ZTVpaWhpaGlkNTY6ZjM5aEBpajdqN2o5cmhwbTMzNGkzM0AxMjQwMC0xXjMxYmBhYGI0YSMtMWxzMmQ0aTZgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100D_100J&dy_q=1784866835&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026072412203473FB2E0E10C5304D3ADB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7265267911474859301.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7265267911474859301.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 268.415,
+      "raw_payload": {
+        "aweme_id": "7265267911474859301",
+        "author_uid": "104756790288",
+        "sec_uid": "MS4wLjABAAAAoErADm9sM--goZeoO3rC5An1vOy0Y891Nvc0B0Qf1vE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAoErADm9sM--goZeoO3rC5An1vOy0Y891Nvc0B0Qf1vE"
+      }
+    },
+    "first_seen_at": "2026-07-24T12:20:14+08:00",
+    "last_seen_at": "2026-07-24T12:20:14+08:00",
+    "fetch_runs": [
+      "2026-07-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7265267911474859301.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7265267911474859301.mp3",
+      "source": "download",
+      "processed_at": "2026-07-24T12:25:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7265267911474859301",
+      "transcript_raw": "韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光补充信息：韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光关键词：韩国、韩国经济、韩国造船、俄罗斯、国货发光",
+      "transcript_clean": "韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光补充信息：韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光关键词：韩国、韩国经济、韩国造船、俄罗斯、国货发光",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-24/7265267911474859301.json",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7265267911474859301",
+      "summary": "阿柚不错哦围绕“韩国”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光。韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光补充信息：韩国经济跌出全球前十，造船业三连输，国货躺赢俄罗斯市场#韩国 #韩国经济 #韩国造船  #俄罗斯 #国货发光关键词：韩国、韩国经济、韩国造船、俄罗斯、国货发光 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "韩国为什么总是做不出来结果？",
+        "先把韩国经济想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕韩国组织标题与开头。",
+        "用韩国经济和韩国造船补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "韩国",
+        "韩国经济",
+        "韩国造船"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-24/7265267911474859301.json",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "last_error": null
+  },
+  "7266042344179289405": {
+    "video_id": "7266042344179289405",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "ENZO1204",
+      "video_id": "7266042344179289405",
+      "title": "好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋",
+      "publish_time": "2023-08-11T20:35:55+08:00",
+      "video_url": "https://www.douyin.com/video/7266042344179289405",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a61d6fc06bdaeb0e08de58e5cd24721f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100225600&x-signature=6WohzGn40vzH41iyIdHGjezvMvo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607241220386643B12CDB62A3B65A61",
+      "like_count": 21788,
+      "comment_count": 1402,
+      "share_count": 1010,
+      "collect_count": 1154,
+      "description": "好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋",
+      "text_hint": "好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋",
+      "topic_tags": [
+        "实战测评",
+        "球鞋测评",
+        "抖音篮球季",
+        "篮球",
+        "篮球鞋"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/3d03fbd50cd1f1c8d61fc3662766538c/6a6316db/video/tos/cn/tos-cn-ve-15c001-alinc2/oE6n8PNi9rBLIS43gZThgXg4OKAWiEQYtPIPA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1616&bt=1616&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wgJQ.Hhd..7ICM73-ApQX&mime_type=video_mp4&qs=0&rc=OzQ2NmlpOzRoZTllaTNmO0BpanY1N3I5cmU1bTMzNGkzM0AvXjUyMjQxNi0xYGA1YV5eYSM0LmtkMmQ0al9gLS1kLS9zcw%3D%3D&btag=c0000e00038000&cquery=100o_100w_100B_100D_100J&dy_q=1784866838&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202607241220386643B12CDB62A3B65A61",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7266042344179289405.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7266042344179289405.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 1173.5,
+      "raw_payload": {
+        "aweme_id": "7266042344179289405",
+        "author_uid": "68450822178",
+        "sec_uid": "MS4wLjABAAAABX9kn36xMVbYU_R8y1fAQgSpdep_wV4rX-_j6GvJvxg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABX9kn36xMVbYU_R8y1fAQgSpdep_wV4rX-_j6GvJvxg"
+      }
+    },
+    "first_seen_at": "2026-07-24T12:20:14+08:00",
+    "last_seen_at": "2026-07-24T12:20:14+08:00",
+    "fetch_runs": [
+      "2026-07-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7266042344179289405.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/7266042344179289405.mp3",
+      "source": "download",
+      "processed_at": "2026-07-24T12:24:51+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7266042344179289405",
+      "transcript_raw": "好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋补充信息：好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋关键词：实战测评、球鞋测评、抖音篮球季、篮球、篮球鞋",
+      "transcript_clean": "好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋补充信息：好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋关键词：实战测评、球鞋测评、抖音篮球季、篮球、篮球鞋",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-24/7266042344179289405.json",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7266042344179289405",
+      "summary": "ENZO1204围绕“实战测评”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋。好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋补充信息：好喷不好测！字母哥5代 (Freak5) 超详尽 #实战测评  #球鞋测评  #抖音篮球季 #篮球 #篮球鞋关键词：实战测评、球鞋测评、抖音篮球季、篮球、篮球鞋 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "实战测评为什么总是做不出来结果？",
+        "先把球鞋测评想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕实战测评组织标题与开头。",
+        "用球鞋测评和抖音篮球季补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "实战测评",
+        "球鞋测评",
+        "抖音篮球季"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-24/7266042344179289405.json",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "last_error": null
+  },
+  "7569781873413573926": {
+    "video_id": "7569781873413573926",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7569781873413573926",
+      "title": "自动变光透明电焊面罩#自动变光 #电焊面罩 #焊工神器 #黑科技 #眼睛保护",
+      "publish_time": "2025-11-07T00:59:00+08:00",
+      "video_url": "https://www.douyin.com/video/7569781873413573926",
+      "cover_url": "",
+      "like_count": 11,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 20,
+      "description": "自动变光透明电焊面罩#自动变光 #电焊面罩 #焊工神器 #黑科技 #眼睛保护",
+      "text_hint": "自动变光透明电焊面罩#自动变光 #电焊面罩 #焊工神器 #黑科技 #眼睛保护",
+      "topic_tags": [
+        "自动变光",
+        "电焊面罩",
+        "焊工神器",
+        "黑科技",
+        "眼睛保护"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c028b829-6f6f-4dee-879a-1936011c811f",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7569781873413573926",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-24T12:20:14+08:00",
+    "last_seen_at": "2026-07-24T12:20:14+08:00",
+    "fetch_runs": [
+      "2026-07-24"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "6905332682918595854": {
+    "video_id": "6905332682918595854",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "西安德茂行进口机车",
+      "video_id": "6905332682918595854",
+      "title": "哈雷最帅车型之一哈雷突破者。",
+      "publish_time": "2020-12-12T19:37:59+08:00",
+      "video_url": "https://www.douyin.com/video/6905332682918595854",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/527867d2568140d5a1b0304fc804e4fd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100225600&x-signature=VIJkDaQORyc2rYz2DeqBoP2Rfdw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026072412221980370B91B42954B40336",
+      "like_count": 1620,
+      "comment_count": 286,
+      "share_count": 210,
+      "collect_count": 39,
+      "description": "哈雷最帅车型之一哈雷突破者。",
+      "text_hint": "哈雷最帅车型之一哈雷突破者。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6d1a1efa440ee555d953b8c3592b09a1/6a6313a4/video/tos/cn/tos-cn-ve-0015c800/033daa57f88f4a9b8e11b3442e6d241d/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1269&bt=1269&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9w4gQ.Hhd..7ICM73-ApQX&mime_type=video_mp4&qs=0&rc=Z2Q7NTM8OmZpNGQ6ZzdlZEBpM2Z5Zm9scjtkeTMzOWkzM0AyNC8vNWIzNi8xLS9iXzBhYSNsbW9vb2ZxaV5fLS0uLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_102u_100o&dy_q=1784866939&l=2026072412221980370B91B42954B40336",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/6905332682918595854.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/6905332682918595854.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 249.08,
+      "raw_payload": {
+        "aweme_id": "6905332682918595854",
+        "author_uid": "78037221769",
+        "sec_uid": "MS4wLjABAAAAwggeEa57T07wO-igYQhkApXM1swDtxJwMdaaE04v5_Q",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAwggeEa57T07wO-igYQhkApXM1swDtxJwMdaaE04v5_Q"
+      }
+    },
+    "first_seen_at": "2026-07-24T12:20:14+08:00",
+    "last_seen_at": "2026-07-24T12:20:14+08:00",
+    "fetch_runs": [
+      "2026-07-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/6905332682918595854.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-24/6905332682918595854.mp3",
+      "source": "download",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6905332682918595854",
+      "transcript_raw": "哈雷最帅车型之一哈雷突破者。哈雷最帅车型之一哈雷突破者。补充信息：哈雷最帅车型之一哈雷突破者。",
+      "transcript_clean": "哈雷最帅车型之一哈雷突破者。哈雷最帅车型之一哈雷突破者。补充信息：哈雷最帅车型之一哈雷突破者。",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-24/6905332682918595854.json",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "analysis": {
+      "video_id": "6905332682918595854",
+      "summary": "西安德茂行进口机车围绕“哈雷最帅车型之一哈雷突破者。哈雷最帅车型之一哈雷突破者。补充信息：哈雷最帅车型之一哈雷突破者”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "哈雷最帅车型之一哈雷突破者。。哈雷最帅车型之一哈雷突破者。哈雷最帅车型之一哈雷突破者。补充信息：哈雷最帅车型之一哈雷突破者。 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "哈雷最帅车型之一哈雷突破者。哈雷最帅车型之一哈雷突破者。补充信息：哈雷最帅车型之一哈雷突破者为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕哈雷最帅车型之一哈雷突破者。哈雷最帅车型之一哈雷突破者。补充信息：哈雷最帅车型之一哈雷突破者组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "哈雷最帅车型之一哈雷突破者。哈雷最帅车型之一哈雷突破者。补充信息：哈雷最帅车型之一哈雷突破者",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-24/6905332682918595854.json",
+      "processed_at": "2026-07-24T12:25:33+08:00"
+    },
+    "last_error": null
+  },
+  "7495358311290719542": {
+    "video_id": "7495358311290719542",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7495358311290719542",
+      "title": "在抖音记录美好生活20260724",
+      "publish_time": "2026-07-24T12:22:26+08:00",
+      "video_url": "https://www.douyin.com/video/7495358311290719542",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260724",
+      "text_hint": "在抖音记录美好生活20260724",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/495ab4b5-5ead-470f-b7a0-21c09ac7abfa",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7495358311290719542",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-24T12:20:14+08:00",
+    "last_seen_at": "2026-07-24T12:20:14+08:00",
+    "fetch_runs": [
+      "2026-07-24"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
