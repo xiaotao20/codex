@@ -17048,5 +17048,593 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7648670798023082484": {
+    "video_id": "7648670798023082484",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "老狼（三角洲行动）",
+      "video_id": "7648670798023082484",
+      "title": "『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手",
+      "publish_time": "2026-06-07T23:09:05+08:00",
+      "video_url": "https://www.douyin.com/video/7648670798023082484",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2ebd2614539b2748324ac1108ad40a99~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100312000&x-signature=bIFJBlNvj%2Bc5UC68qfWtJsJSvD0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607251216301FC0688C03B4244538DF",
+      "like_count": 4692,
+      "comment_count": 413,
+      "share_count": 2446,
+      "collect_count": 1367,
+      "description": "『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手",
+      "text_hint": "『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手",
+      "topic_tags": [
+        "三角洲行动",
+        "碎星行动",
+        "三角洲行动爆料",
+        "三角洲s9回声新赛季",
+        "三角洲新干员",
+        "三角洲S9回声新赛季"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/0037fb4448edf71aec342d5d022751fd/6a64630b/video/tos/cn/tos-cn-ve-15/oEzs1AE3OQBBgtA1IaEABErlcDiqeEOimKNPf9/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1448&bt=1448&cs=0&ds=4&ft=nbaXzWHQyYUZzfuPtecLrzbNlc3Jwjv2bLS4nvGDZmkaY3&mime_type=video_mp4&qs=0&rc=OTRoPDM0NWZpN2lkOGY2OUBpM2hudHE5cnRyOzMzNGkzM0AyNl8xMS8zNV4xXi8tNmEvYSNiL3E0MmRzYmZhLS1kLTBzcw%3D%3D&btag=c0000e00028000&cc=1f&cquery=100w_100B_100x_100z_100o&dy_q=1784952990&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=202607251216301FC0688C03B4244538DF&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7648670798023082484.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7648670798023082484.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 61.934,
+      "raw_payload": {
+        "aweme_id": "7648670798023082484",
+        "author_uid": "2447971261879527",
+        "sec_uid": "MS4wLjABAAAA7SCv2guRUvBmrSnbQbdGvEE2_QLUUhoeCY39ZMFGpxHvIBcV6pz__RDPVnNvLQ6G",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7SCv2guRUvBmrSnbQbdGvEE2_QLUUhoeCY39ZMFGpxHvIBcV6pz__RDPVnNvLQ6G"
+      }
+    },
+    "first_seen_at": "2026-07-25T12:16:10+08:00",
+    "last_seen_at": "2026-07-25T12:16:10+08:00",
+    "fetch_runs": [
+      "2026-07-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7648670798023082484.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7648670798023082484.mp3",
+      "source": "download",
+      "processed_at": "2026-07-25T12:17:37+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7648670798023082484",
+      "transcript_raw": "『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手补充信息：『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手关键词：三角洲行动、碎星行动、三角洲行动爆料、三角洲s9回声新赛季、三角洲新干员、三角洲S9回声新赛季",
+      "transcript_clean": "『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手补充信息：『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手关键词：三角洲行动、碎星行动、三角洲行动爆料、三角洲s9回声新赛季、三角洲新干员、三角洲S9回声新赛季",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-25/7648670798023082484.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7648670798023082484",
+      "summary": "老狼（三角洲行动）围绕“三角洲行动”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手。『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手补充信息：『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼 『三角洲行动爆料』S10新干员，工程干员！强控、减速、震撼、持续掉血！乌鲁鲁的弟弟冰露露来了！#三角洲行动 #碎星行动 #三角洲行动爆料 #三角洲S9回声新赛季 #三角洲新干员 @三角洲行动 @DOU+小助手关键词：三角洲行动、碎星行动、三角洲行动爆料、三角洲s9回声新赛季、三角洲新干员、三角洲S9回声新赛季 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "三角洲行动为什么总是做不出来结果？",
+        "先把碎星行动想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕三角洲行动组织标题与开头。",
+        "用碎星行动和三角洲行动爆料补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "三角洲行动",
+        "碎星行动",
+        "三角洲行动爆料"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-25/7648670798023082484.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "last_error": null
+  },
+  "7419288854668102922": {
+    "video_id": "7419288854668102922",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "梦想成曾生了个女儿",
+      "video_id": "7419288854668102922",
+      "title": "我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市",
+      "publish_time": "2024-09-27T19:50:13+08:00",
+      "video_url": "https://www.douyin.com/video/7419288854668102922",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0688836e46c1d485d169db95a91df316~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100312000&x-signature=1fgADVUIxbg4PzL2M4Wr2su%2Foxc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607251216364C25DFBA9A7F81342331",
+      "like_count": 54,
+      "comment_count": 17,
+      "share_count": 4,
+      "collect_count": 3,
+      "description": "我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市",
+      "text_hint": "我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市",
+      "topic_tags": [
+        "房车旅行",
+        "自驾",
+        "黑河",
+        "跟团游",
+        "布市"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/3c3f0143c0868a5b8dfb45472180c8e8/6a6463cf/video/cn/mps/realtime/v1/r/p/v0d00fg10000crr9elnog65usi1sinhg/5ddaf4a8a96245349b195a0a842ab979/ac2aa2043fa9b4e489e361c871024f78/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1453&bt=1453&cs=0&ds=3&ft=nbaXzWHQyYUZzfuPtecLrzbNlczJwjv2bLS4nvGDZmkaY3&mime_type=video_mp4&qs=0&rc=PDxkN2RkPGU3ODU8OzdkZ0BpanF2bHg5cm88dTMzNGkzM0A0Xy81LTIuNjAxM15eY2EyYSNlZi5wMmRrYm9gLS1kLWFzcw%3D%3D&btag=80000e00030000&cc=1f&codec=h264&cquery=100w_100B_100H_100K_100o&definition=720p&dy_q=1784952996&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7419288854668102922&l=202607251216364C25DFBA9A7F81342331&logo_type=&req_cdn_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7419288854668102922.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7419288854668102922.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 251.563,
+      "raw_payload": {
+        "aweme_id": "7419288854668102922",
+        "author_uid": "96481936256",
+        "sec_uid": "MS4wLjABAAAAzQMlQRZCELMaGC1lza8L5myTb-WyQQyeAFaSao1qrZQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAzQMlQRZCELMaGC1lza8L5myTb-WyQQyeAFaSao1qrZQ"
+      }
+    },
+    "first_seen_at": "2026-07-25T12:16:10+08:00",
+    "last_seen_at": "2026-07-25T12:16:10+08:00",
+    "fetch_runs": [
+      "2026-07-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7419288854668102922.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7419288854668102922.mp3",
+      "source": "download",
+      "processed_at": "2026-07-25T12:18:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7419288854668102922",
+      "transcript_raw": "我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市补充信息：我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市关键词：房车旅行、自驾、黑河、跟团游、布市",
+      "transcript_clean": "我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市补充信息：我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市关键词：房车旅行、自驾、黑河、跟团游、布市",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-25/7419288854668102922.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7419288854668102922",
+      "summary": "梦想成曾生了个女儿围绕“房车旅行”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市。我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市补充信息：我们的房车自驾又又中断了 #房车旅行 #自驾 #黑河 2天1夜 #跟团游 #布市关键词：房车旅行、自驾、黑河、跟团游、布市 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "房车旅行为什么总是做不出来结果？",
+        "先把自驾想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕房车旅行组织标题与开头。",
+        "用自驾和黑河补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "房车旅行",
+        "自驾",
+        "黑河"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-25/7419288854668102922.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "last_error": null
+  },
+  "7414091204641475875": {
+    "video_id": "7414091204641475875",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "卡游戏人生的Bug",
+      "video_id": "7414091204641475875",
+      "title": "对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划",
+      "publish_time": "2024-09-13T19:40:37+08:00",
+      "video_url": "https://www.douyin.com/video/7414091204641475875",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/62634e9090c67731fce2b915f8249482~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100312000&x-signature=SdT1svsbRb95IiKHaTOPAqKcOc8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026072512164270FDD6C6F17FBF322FE9",
+      "like_count": 708,
+      "comment_count": 44,
+      "share_count": 222,
+      "collect_count": 406,
+      "description": "对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划",
+      "text_hint": "对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划",
+      "topic_tags": [
+        "身心灵",
+        "王阳明",
+        "吸引力法则",
+        "信念",
+        "抖音精选计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/a14cf4ad8fb951977033b23ba78618d1/6a646505/video/tos/cn/tos-cn-ve-15/oYvKjMOIc97vkIYQfCLNAyXGAWaoBBPQeEyBgf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1903&bt=1903&cs=0&ds=4&ft=nbaXzWHQyYUZzfuPtecLrzbNlc4Jwjv2bLS4nvGDZmkaY3&mime_type=video_mp4&qs=0&rc=ZzdpPDRpZWk0O2Y7Ozo7aUBpanF5Onk5cm41dTMzNGkzM0BhNGA2M2FeNmAxYTIwMTI0YSNpLWpnMmRjMGZgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100w_100B_100H_100K_100o&dy_q=1784953003&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026072512164270FDD6C6F17FBF322FE9&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7414091204641475875.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7414091204641475875.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 554.004,
+      "raw_payload": {
+        "aweme_id": "7414091204641475875",
+        "author_uid": "3437528926389930",
+        "sec_uid": "MS4wLjABAAAA3fR0haWt4jySGMH9sgjWqK9D9zxhpBqrsZJgRkLSnt7FoOqunD5f2-qjakGnks4p",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA3fR0haWt4jySGMH9sgjWqK9D9zxhpBqrsZJgRkLSnt7FoOqunD5f2-qjakGnks4p"
+      }
+    },
+    "first_seen_at": "2026-07-25T12:16:10+08:00",
+    "last_seen_at": "2026-07-25T12:16:10+08:00",
+    "fetch_runs": [
+      "2026-07-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7414091204641475875.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7414091204641475875.mp3",
+      "source": "download",
+      "processed_at": "2026-07-25T12:19:40+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7414091204641475875",
+      "transcript_raw": "对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划补充信息：对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划关键词：身心灵、王阳明、吸引力法则、信念、抖音精选计划",
+      "transcript_clean": "对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划补充信息：对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划关键词：身心灵、王阳明、吸引力法则、信念、抖音精选计划",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-25/7414091204641475875.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7414091204641475875",
+      "summary": "卡游戏人生的Bug围绕“身心灵”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划。对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划补充信息：对💰不感兴趣反而能赚到💰的心法 #身心灵 #王阳明 #吸引力法则 #信念 #抖音精选计划关键词：身心灵、王阳明、吸引力法则、信念、抖音精选计划 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "身心灵为什么总是做不出来结果？",
+        "先把王阳明想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕身心灵组织标题与开头。",
+        "用王阳明和吸引力法则补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "身心灵",
+        "王阳明",
+        "吸引力法则"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-25/7414091204641475875.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "last_error": null
+  },
+  "7556560003530247443": {
+    "video_id": "7556560003530247443",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7556560003530247443",
+      "title": "在抖音记录美好生活20260725",
+      "publish_time": "2026-07-25T12:17:27+08:00",
+      "video_url": "https://www.douyin.com/video/7556560003530247443",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260725",
+      "text_hint": "在抖音记录美好生活20260725",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/04ab8e95-8ddb-4f25-96df-9570061e1cdd",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7556560003530247443",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-25T12:16:10+08:00",
+    "last_seen_at": "2026-07-25T12:16:10+08:00",
+    "fetch_runs": [
+      "2026-07-25"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7507233589135346953": {
+    "video_id": "7507233589135346953",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "幸惠运",
+      "video_id": "7507233589135346953",
+      "title": "入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量",
+      "publish_time": "2025-05-22T19:40:38+08:00",
+      "video_url": "https://www.douyin.com/video/7507233589135346953",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/cdf76cf2e10654f7be7e71b748211f29~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100312000&x-signature=QKdI62kRExLhLbDQI%2FSKRswKUAM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260725121700406AA84BA84FEBC5B9BA",
+      "like_count": 496,
+      "comment_count": 29,
+      "share_count": 53,
+      "collect_count": 189,
+      "description": "入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量",
+      "text_hint": "入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量",
+      "topic_tags": [
+        "换季整理",
+        "换季收纳",
+        "收纳好物",
+        "被子收纳袋大容量"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/99c22a3b6cf054eb8fe279ed0c7fba9a/6a6463a7/video/tos/cn/tos-cn-ve-15/ocLAfsFLCID6iyQAzDpgf6E7ovEC9OSADlNwPB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1646&bt=1646&cs=0&ds=4&ft=nbaXzWHQyYUZzfuPtecLrzbNlc1Jwjv2bLS4nvGDZmkaY3&mime_type=video_mp4&qs=0&rc=aWY6ZzQ8ODo2Njw5NWRlaEBpajU4eXM5cnJqMzMzNGkzM0AyLWMuYy4yXjQxLjBeMDBfYSMucjZiMmRrbWthLS1kLTBzcw%3D%3D&btag=80000e00028000&cc=1f&cquery=100w_100B_100x_100z_100o&dy_q=1784953020&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260725121700406AA84BA84FEBC5B9BA&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7507233589135346953.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7507233589135346953.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 187.334,
+      "raw_payload": {
+        "aweme_id": "7507233589135346953",
+        "author_uid": "82998150844",
+        "sec_uid": "MS4wLjABAAAAgBsuCq67BtUUoFr89IQUkgiIF3NZAFf-ClJqYLYHrXU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAgBsuCq67BtUUoFr89IQUkgiIF3NZAFf-ClJqYLYHrXU"
+      }
+    },
+    "first_seen_at": "2026-07-25T12:16:10+08:00",
+    "last_seen_at": "2026-07-25T12:16:10+08:00",
+    "fetch_runs": [
+      "2026-07-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7507233589135346953.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7507233589135346953.mp3",
+      "source": "download",
+      "processed_at": "2026-07-25T12:18:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7507233589135346953",
+      "transcript_raw": "入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量补充信息：入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量关键词：换季整理、换季收纳、收纳好物、被子收纳袋大容量",
+      "transcript_clean": "入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量补充信息：入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量关键词：换季整理、换季收纳、收纳好物、被子收纳袋大容量",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-25/7507233589135346953.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7507233589135346953",
+      "summary": "幸惠运围绕“换季整理”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量。入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量补充信息：入夏换季准备｜小户型高效实用换季整理技巧 家里空间小，一到换季就脑壳疼？！ \n今天做一些入夏准备工作的同时给大家分享一些高效实用的整理小技巧： \n1️⃣合理分配衣柜空间 \n2️⃣选择好打理的床上用品 \n3️⃣好用的收纳和悬挂工具 \n4️⃣好拿取的衣物折叠方法 \n5️⃣利用床底空间 \n让小家清爽舒适，一起舒适的迎接高温天气！ \n#换季整理#换季收纳#收纳好物#被子收纳袋大容量关键词：换季整理、换季收纳、收纳好物、被子收纳袋大容量 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "换季整理为什么总是做不出来结果？",
+        "先把换季收纳想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕换季整理组织标题与开头。",
+        "用换季收纳和收纳好物补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "换季整理",
+        "换季收纳",
+        "收纳好物"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-25/7507233589135346953.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "last_error": null
+  },
+  "7234085303806446860": {
+    "video_id": "7234085303806446860",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "诗酒趁～航拍中国",
+      "video_id": "7234085303806446860",
+      "title": "仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村",
+      "publish_time": "2023-05-17T17:45:48+08:00",
+      "video_url": "https://www.douyin.com/video/7234085303806446860",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/fa15742ae81e9d3d574e5fa508b74a8d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100312000&x-signature=shZLHbyK0EPIr1IMm6T9kUGa2rY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260725121706AFA58E5AC5AA88363DE3",
+      "like_count": 837,
+      "comment_count": 87,
+      "share_count": 100,
+      "collect_count": 114,
+      "description": "仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村",
+      "text_hint": "仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村",
+      "topic_tags": [
+        "大悟非物质文化遗产",
+        "大悟民俗文化",
+        "大悟高腔皮影剧",
+        "高店乡",
+        "石河村"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/2ca0d892b6669d28f9df333bc2ba17cd/6a646532/video/tos/cn/tos-cn-ve-0015c800/oYIkESAmevSMAWzyYfp4tidvC7NAahYgD3kiB1/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2168&bt=2168&cs=0&ds=4&ft=nbaXzWHQyYUZzfuPtecLrzbNlccfwjv2bLS4nvGDZmkaY3&mime_type=video_mp4&qs=0&rc=N2k6aDNlOzM3ZTQ1NDY2ZEBpMzVlZWc6Zmc8azMzNGkzM0BiLzIvNGEyNi0xYGIyYWFeYSMuY25gcjRfb2ZgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100w_100B_100x_100z_100o&dy_q=1784953026&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260725121706AFA58E5AC5AA88363DE3&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7234085303806446860.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7234085303806446860.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 576.388,
+      "raw_payload": {
+        "aweme_id": "7234085303806446860",
+        "author_uid": "61362135954",
+        "sec_uid": "MS4wLjABAAAAJj_lYA9LJRigfOct0pHoPqD4KwpnUw8iQ8Sw0poBnRQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAJj_lYA9LJRigfOct0pHoPqD4KwpnUw8iQ8Sw0poBnRQ"
+      }
+    },
+    "first_seen_at": "2026-07-25T12:16:10+08:00",
+    "last_seen_at": "2026-07-25T12:16:10+08:00",
+    "fetch_runs": [
+      "2026-07-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7234085303806446860.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/7234085303806446860.mp3",
+      "source": "download",
+      "processed_at": "2026-07-25T12:21:21+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7234085303806446860",
+      "transcript_raw": "仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村补充信息：仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村关键词：大悟非物质文化遗产、大悟民俗文化、大悟高腔皮影剧、高店乡、石河村",
+      "transcript_clean": "仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村补充信息：仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村关键词：大悟非物质文化遗产、大悟民俗文化、大悟高腔皮影剧、高店乡、石河村",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-25/7234085303806446860.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7234085303806446860",
+      "summary": "诗酒趁～航拍中国围绕“大悟非物质文化遗产”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村。仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村补充信息：仙徒使出兔腿功，轻而易举进了洞。救得小姐赴公馆，见得包相禀奇冤。欲知后事如何，慢等下回分解。 #大悟非物质文化遗产 #大悟民俗文化 #大悟高腔皮影剧 #高店乡 #石河村关键词：大悟非物质文化遗产、大悟民俗文化、大悟高腔皮影剧、高店乡、石河村 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "大悟非物质文化遗产为什么总是做不出来结果？",
+        "先把大悟民俗文化想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕大悟非物质文化遗产组织标题与开头。",
+        "用大悟民俗文化和大悟高腔皮影剧补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "大悟非物质文化遗产",
+        "大悟民俗文化",
+        "大悟高腔皮影剧"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-25/7234085303806446860.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "last_error": null
+  },
+  "6997229874280746254": {
+    "video_id": "6997229874280746254",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "6997229874280746254",
+      "title": "已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体",
+      "publish_time": "2021-08-20T03:50:00+08:00",
+      "video_url": "https://www.douyin.com/video/6997229874280746254",
+      "cover_url": "",
+      "like_count": 14000,
+      "comment_count": 522,
+      "share_count": 1284,
+      "collect_count": 5465,
+      "description": "已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体",
+      "text_hint": "已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体",
+      "topic_tags": [
+        "医学科普",
+        "健康科普",
+        "心梗",
+        "要注意身体"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/0ccdcc6dd11437b51b5fec26ea506ad2/6a6463d1/video/tos/cn/tos-cn-ve-15/2135507bfeb1450ea54189baf2431eef/?a=6383&br=362&bt=362&btag=c0000e00028000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100H_102u&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1784953042&ft=nbaXzWHQyYUZzfuPtecLrzbNlcXfwjv2bLS4nvGDZmkaY3&is_ssr=1&l=20260725121722E202554200922543109B&lr=all&mime_type=video_mp4&qs=0&rc=ZjY3OTVkNGc7ZTU8ZWQ6PEBpM2pxaWY6ZnNsNzMzNGkzM0BeMTI1NWAyXi8xNmE2NTBeYSM1bGVxcjRvYGFgLS1kLS9zcw%3D%3D&req_cdn_type=&__vid=6997229874280746254",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/6997229874280746254.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/6997229874280746254.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "6997229874280746254",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-25T12:16:10+08:00",
+    "last_seen_at": "2026-07-25T12:16:10+08:00",
+    "fetch_runs": [
+      "2026-07-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/6997229874280746254.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-25/6997229874280746254.mp3",
+      "source": "download",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6997229874280746254",
+      "transcript_raw": "已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体补充信息：已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体关键词：医学科普、健康科普、心梗、要注意身体",
+      "transcript_clean": "已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体补充信息：已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体关键词：医学科普、健康科普、心梗、要注意身体",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-25/6997229874280746254.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "analysis": {
+      "video_id": "6997229874280746254",
+      "summary": "目标博主 1围绕“医学科普”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体。已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体补充信息：已经患有心梗，会有哪些严重症状？#医学科普 #健康科普 #心梗 #要注意身体关键词：医学科普、健康科普、心梗、要注意身体 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "医学科普为什么总是做不出来结果？",
+        "先把健康科普想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕医学科普组织标题与开头。",
+        "用健康科普和心梗补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "医学科普",
+        "健康科普",
+        "心梗"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-25/6997229874280746254.json",
+      "processed_at": "2026-07-25T12:21:26+08:00"
+    },
+    "last_error": null
   }
 }
