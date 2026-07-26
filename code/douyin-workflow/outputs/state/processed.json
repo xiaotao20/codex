@@ -17636,5 +17636,586 @@
       "processed_at": "2026-07-25T12:21:26+08:00"
     },
     "last_error": null
+  },
+  "7666477485609070298": {
+    "video_id": "7666477485609070298",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "郝郝",
+      "video_id": "7666477485609070298",
+      "title": "我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台",
+      "publish_time": "2026-07-25T22:48:08+08:00",
+      "video_url": "https://www.douyin.com/video/7666477485609070298",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oUfkNNqEkn9sBI3IaBFqAzBDg7DF8A9KfMZAwv~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100398400&x-signature=tlu9xG%2FkUkbPim%2BemcBlgEewCdE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026072612321774A200DAE2B6D0D7DE93",
+      "like_count": 14,
+      "comment_count": 1,
+      "share_count": 1,
+      "collect_count": 2,
+      "description": "我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台",
+      "text_hint": "我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台",
+      "topic_tags": [
+        "幼儿成长见证",
+        "儿童舞台表演",
+        "幼儿园是我成长的舞台"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/75825d6dcb461e5ea2be7ac6a9ccfcd3/6a65b839/video/tos/cn/tos-cn-ve-15/o8ghQ2WfDPGbbfjJBgMAIUye7bUAmCLBPZQZ8t/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1085&bt=1085&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wNEd6Hhd.TbASf03-ApQX&mime_type=video_mp4&qs=0&rc=OmZpOTMzZDU6Nzk7Nzg6ZEBpanlzZnE5cjZmPDMzNGkzM0A2NV9iNDJhNjIxMS4yYWFfYSNxZHJnMmRjaWZhLS1kLTBzcw%3D%3D&btag=c0000e00020000&cquery=100x_100z_100o_100w_100B&dy_q=1785040337&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=2026072612321774A200DAE2B6D0D7DE93",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7666477485609070298.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7666477485609070298.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 56.767,
+      "raw_payload": {
+        "aweme_id": "7666477485609070298",
+        "author_uid": "101158188346",
+        "sec_uid": "MS4wLjABAAAAmikwdNJn1cSFJAyA2JKM6LjPeeihgrZm3ucfb8Ct14Y",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAmikwdNJn1cSFJAyA2JKM6LjPeeihgrZm3ucfb8Ct14Y"
+      }
+    },
+    "first_seen_at": "2026-07-26T12:32:07+08:00",
+    "last_seen_at": "2026-07-26T12:32:07+08:00",
+    "fetch_runs": [
+      "2026-07-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7666477485609070298.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7666477485609070298.mp3",
+      "source": "download",
+      "processed_at": "2026-07-26T12:34:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7666477485609070298",
+      "transcript_raw": "我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台补充信息：我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台关键词：幼儿成长见证、儿童舞台表演、幼儿园是我成长的舞台",
+      "transcript_clean": "我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台补充信息：我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台关键词：幼儿成长见证、儿童舞台表演、幼儿园是我成长的舞台",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-26/7666477485609070298.json",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "analysis": {
+      "video_id": "7666477485609070298",
+      "summary": "郝郝围绕“幼儿成长见证”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台。我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台补充信息：我们毕业啦！ #幼儿成长见证 #儿童舞台表演 #幼儿园是我成长的舞台关键词：幼儿成长见证、儿童舞台表演、幼儿园是我成长的舞台 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "幼儿成长见证为什么总是做不出来结果？",
+        "先把儿童舞台表演想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕幼儿成长见证组织标题与开头。",
+        "用儿童舞台表演和幼儿园是我成长的舞台补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "幼儿成长见证",
+        "儿童舞台表演",
+        "幼儿园是我成长的舞台"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-26/7666477485609070298.json",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "last_error": null
+  },
+  "7624372199184551214": {
+    "video_id": "7624372199184551214",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7624372199184551214",
+      "title": "在抖音记录美好生活20260726",
+      "publish_time": "2026-07-26T12:33:21+08:00",
+      "video_url": "https://www.douyin.com/video/7624372199184551214",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260726",
+      "text_hint": "在抖音记录美好生活20260726",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a78e38c3-827b-47f5-a4c1-c0f58208c9e6",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7624372199184551214",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-26T12:32:07+08:00",
+    "last_seen_at": "2026-07-26T12:32:07+08:00",
+    "fetch_runs": [
+      "2026-07-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7342040780946656547": {
+    "video_id": "7342040780946656547",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "冠君英格力士(Stone Lee)",
+      "video_id": "7342040780946656547",
+      "title": "新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课",
+      "publish_time": "2024-03-03T15:48:09+08:00",
+      "video_url": "https://www.douyin.com/video/7342040780946656547",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/baaf3d218533280b80ee9aa51a9c8c47~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100398400&x-signature=AnZh%2F9BTXKKNhQG%2F%2B6KUsCAuorg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260726123227E42A80202D1AF733186F",
+      "like_count": 35,
+      "comment_count": 22,
+      "share_count": 4,
+      "collect_count": 18,
+      "description": "新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课",
+      "text_hint": "新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课",
+      "topic_tags": [
+        "新概念英语",
+        "散装英语",
+        "练口语",
+        "小学英语优质公开课"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1d6c6f601f6f099313c00d7225eba62d/6a65b9d3/video/tos/cn/tos-cn-ve-0015c800/oIeBTfAPQh7N3E8FXyMFAENkzSIAEqgAzhLXhg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=759&bt=759&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wYEd6Hhd.TbASf03-ApQX&mime_type=video_mp4&qs=0&rc=Ozs2ODU1OmVlZDU0aDNmZkBpM3E1cjc6Znc1cTMzNGkzM0AxYDY2NF41XzUxNGBgXjYzYSMvLTUvcjRnZ2ZgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1785040347&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260726123227E42A80202D1AF733186F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7342040780946656547.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7342040780946656547.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 456.267,
+      "raw_payload": {
+        "aweme_id": "7342040780946656547",
+        "author_uid": "3027878210",
+        "sec_uid": "MS4wLjABAAAA_NjwwaNBQ3WyHZp_Zv2TsdcTScLMW9CzuZRB8BNfSNk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA_NjwwaNBQ3WyHZp_Zv2TsdcTScLMW9CzuZRB8BNfSNk"
+      }
+    },
+    "first_seen_at": "2026-07-26T12:32:07+08:00",
+    "last_seen_at": "2026-07-26T12:32:07+08:00",
+    "fetch_runs": [
+      "2026-07-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7342040780946656547.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7342040780946656547.mp3",
+      "source": "download",
+      "processed_at": "2026-07-26T12:35:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7342040780946656547",
+      "transcript_raw": "新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课补充信息：新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课关键词：新概念英语、散装英语、练口语、小学英语优质公开课",
+      "transcript_clean": "新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课补充信息：新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课关键词：新概念英语、散装英语、练口语、小学英语优质公开课",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-26/7342040780946656547.json",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "analysis": {
+      "video_id": "7342040780946656547",
+      "summary": "冠君英格力士(Stone Lee)围绕“新概念英语”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课。新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课补充信息：新概念第一册51课单词较难，同学们慢慢看#新概念英语 #散装英语 #练口语 #小学英语优质公开课关键词：新概念英语、散装英语、练口语、小学英语优质公开课 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新概念英语为什么总是做不出来结果？",
+        "先把散装英语想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新概念英语组织标题与开头。",
+        "用散装英语和练口语补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新概念英语",
+        "散装英语",
+        "练口语"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-26/7342040780946656547.json",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "last_error": null
+  },
+  "7365366152698039552": {
+    "video_id": "7365366152698039552",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "江叔收车（全程实录）",
+      "video_id": "7365366152698039552",
+      "title": "#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？",
+      "publish_time": "2024-05-05T12:22:35+08:00",
+      "video_url": "https://www.douyin.com/video/7365366152698039552",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o8DpFq9AEAAbYIc3Bmyg5fAdNBedRCNnwpLRMR~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100398400&x-signature=SZh1u6xAE7rWFwe9HTtfTEavL94%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260726123230D0477F979DBAE731C32C",
+      "like_count": 168,
+      "comment_count": 19,
+      "share_count": 0,
+      "collect_count": 4,
+      "description": "#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？",
+      "text_hint": "#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？",
+      "topic_tags": [
+        "练手代步车",
+        "抖音汽车",
+        "dou是好车",
+        "家用车"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/180a8f6118131e22878f6555105eae90/6a65b8de/video/tos/cn/tos-cn-ve-0015c800/oA9BdeABQ5RbpRNApmGFAfNs9cIAEhdFnwFRDg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1313&bt=1313&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wXEd6Hhd.TbASf03-ApQX&mime_type=video_mp4&qs=0&rc=OzM4PGU3OTY2ZTU7aDM8OEBpajtkOjs6Zm5qcjMzNGkzM0AwY19hLjRhXy8xLi0uXzE2YSNzcTFkcjRfYm9gLS1kLWFzcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1785040350&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260726123230D0477F979DBAE731C32C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7365366152698039552.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7365366152698039552.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 208.667,
+      "raw_payload": {
+        "aweme_id": "7365366152698039552",
+        "author_uid": "62962528015",
+        "sec_uid": "MS4wLjABAAAAKnvzfpXe6PSU9TxmOLv0h3ZA8Sd23Retp49uPTKDyGA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAKnvzfpXe6PSU9TxmOLv0h3ZA8Sd23Retp49uPTKDyGA"
+      }
+    },
+    "first_seen_at": "2026-07-26T12:32:07+08:00",
+    "last_seen_at": "2026-07-26T12:32:07+08:00",
+    "fetch_runs": [
+      "2026-07-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7365366152698039552.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7365366152698039552.mp3",
+      "source": "download",
+      "processed_at": "2026-07-26T12:34:41+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7365366152698039552",
+      "transcript_raw": "#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？补充信息：#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？关键词：练手代步车、抖音汽车、dou是好车、家用车",
+      "transcript_clean": "#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？补充信息：#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？关键词：练手代步车、抖音汽车、dou是好车、家用车",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-26/7365366152698039552.json",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "analysis": {
+      "video_id": "7365366152698039552",
+      "summary": "江叔收车（全程实录）围绕“练手代步车”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？。#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？补充信息：#练手代步车 #抖音汽车 #dou是好车 #家用车 客户从云南过来看车然后又定了、过了一天突然不要了、这种情况应该如何处理才对呢、应不应该扣他500？关键词：练手代步车、抖音汽车、dou是好车、家用车 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "练手代步车为什么总是做不出来结果？",
+        "先把抖音汽车想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕练手代步车组织标题与开头。",
+        "用抖音汽车和dou是好车补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "练手代步车",
+        "抖音汽车",
+        "dou是好车"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-26/7365366152698039552.json",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "last_error": null
+  },
+  "7509447677516778810": {
+    "video_id": "7509447677516778810",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7509447677516778810",
+      "title": "来来来，补一个不太专业的#华为nova14ultra 开箱吧#手机壳推荐 #这个手机壳真的长在我心巴上了",
+      "publish_time": "2025-05-28T10:52:00+08:00",
+      "video_url": "https://www.douyin.com/video/7509447677516778810",
+      "cover_url": "",
+      "like_count": 77,
+      "comment_count": 11,
+      "share_count": 22,
+      "collect_count": 8,
+      "description": "来来来，补一个不太专业的#华为nova14ultra 开箱吧#手机壳推荐 #这个手机壳真的长在我心巴上了",
+      "text_hint": "来来来，补一个不太专业的#华为nova14ultra 开箱吧#手机壳推荐 #这个手机壳真的长在我心巴上了",
+      "topic_tags": [
+        "华为nova14ultra",
+        "手机壳推荐",
+        "这个手机壳真的长在我心巴上了"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a2262da0-767a-46d4-af08-c8520ad8820f",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7509447677516778810",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-26T12:32:07+08:00",
+    "last_seen_at": "2026-07-26T12:32:07+08:00",
+    "fetch_runs": [
+      "2026-07-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7240348242884562235": {
+    "video_id": "7240348242884562235",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "淮北王五",
+      "video_id": "7240348242884562235",
+      "title": "精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段",
+      "publish_time": "2023-06-03T14:49:16+08:00",
+      "video_url": "https://www.douyin.com/video/7240348242884562235",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0d67a9f131dae7dfc7a5d2ba4e10cb19~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100398400&x-signature=cvCuZ0JjWkzr0iSLlYRuRM2t2no%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260726123253D3B9381C9989CBC8891D",
+      "like_count": 504,
+      "comment_count": 17,
+      "share_count": 129,
+      "collect_count": 152,
+      "description": "精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段",
+      "text_hint": "精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段",
+      "topic_tags": [
+        "这段戏太好听了",
+        "传递戏曲文化",
+        "曲剧名段"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d0bc4e43c699c245d36b065ccafbe635/6a65b8eb/video/tos/cn/tos-cn-ve-15c001-alinc2/o4ErRtuCzAhyfPOAq6h4XPI6PBCENUygMbeGDA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2821&bt=2821&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wyEd6Hhd.TbASf03-ApQX&mime_type=video_mp4&qs=0&rc=PGc7aTk4Nzs2aDMzM2lkPEBpM2h1amY6Zm9oazMzNGkzM0AtNjVeMGMyXl8xLzUxL2NeYSNeMmUzcjRfMHFgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1785040373&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260726123253D3B9381C9989CBC8891D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7240348242884562235.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7240348242884562235.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 198.135,
+      "raw_payload": {
+        "aweme_id": "7240348242884562235",
+        "author_uid": "73550122377",
+        "sec_uid": "MS4wLjABAAAAEvZ0VASDcUIMJVhxAmOSPF6eYxCVjCWGAAYcVAz1fzc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAEvZ0VASDcUIMJVhxAmOSPF6eYxCVjCWGAAYcVAz1fzc"
+      }
+    },
+    "first_seen_at": "2026-07-26T12:32:07+08:00",
+    "last_seen_at": "2026-07-26T12:32:07+08:00",
+    "fetch_runs": [
+      "2026-07-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7240348242884562235.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7240348242884562235.mp3",
+      "source": "download",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7240348242884562235",
+      "transcript_raw": "精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段补充信息：精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段关键词：这段戏太好听了、传递戏曲文化、曲剧名段",
+      "transcript_clean": "精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段补充信息：精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段关键词：这段戏太好听了、传递戏曲文化、曲剧名段",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-26/7240348242884562235.json",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "analysis": {
+      "video_id": "7240348242884562235",
+      "summary": "淮北王五围绕“这段戏太好听了”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段。精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段补充信息：精彩戏曲分享#这段戏太好听了 #传递戏曲文化 #曲剧名段关键词：这段戏太好听了、传递戏曲文化、曲剧名段 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "这段戏太好听了为什么总是做不出来结果？",
+        "先把传递戏曲文化想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕这段戏太好听了组织标题与开头。",
+        "用传递戏曲文化和曲剧名段补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "这段戏太好听了",
+        "传递戏曲文化",
+        "曲剧名段"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-26/7240348242884562235.json",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "last_error": null
+  },
+  "7385496770031127860": {
+    "video_id": "7385496770031127860",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7385496770031127860",
+      "title": "在抖音记录美好生活20260726",
+      "publish_time": "2026-07-26T12:33:21+08:00",
+      "video_url": "https://www.douyin.com/video/7385496770031127860",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260726",
+      "text_hint": "在抖音记录美好生活20260726",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/9d326158-3e6a-4bb2-9768-94c9cb39ac13",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7385496770031127860",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-26T12:32:07+08:00",
+    "last_seen_at": "2026-07-26T12:32:07+08:00",
+    "fetch_runs": [
+      "2026-07-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7425864301182717224": {
+    "video_id": "7425864301182717224",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7425864301182717224",
+      "title": "翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种",
+      "publish_time": "2024-10-15T05:08:00+08:00",
+      "video_url": "https://www.douyin.com/video/7425864301182717224",
+      "cover_url": "",
+      "like_count": 452,
+      "comment_count": 20,
+      "share_count": 116,
+      "collect_count": 16,
+      "description": "翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种",
+      "text_hint": "翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种",
+      "topic_tags": [
+        "翡翠原石",
+        "以翠会友",
+        "大自然的搬运工",
+        "高冰玻璃种"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/949e8fbcf2eb814990ce1904d11a8829/6a65b966/video/tos/cn/tos-cn-ve-0015c800/oU4bvGfEFF24hIBQCEFcAfIDAwIKWCy1feNDRh/?a=6383&br=1179&bt=1179&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100K_100o_100w_100B_100H&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1785040396&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wnLd6Hhd.TbASf03-ApQX&is_ssr=1&l=202607261233156A1ED7C1E6B4AC370E06&lr=all&mime_type=video_mp4&qs=12&rc=ODg5aDRnOzo7O2VnNmk2OEBpM3Zqamo5cnV5djMzNGkzM0A0Li42MTI1Xl4xNF8uMGA2YSNgZWtlMmRzYzNgLS1kLS9zcw%3D%3D&__vid=7425864301182717224",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7425864301182717224.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7425864301182717224.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7425864301182717224",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-26T12:32:07+08:00",
+    "last_seen_at": "2026-07-26T12:32:07+08:00",
+    "fetch_runs": [
+      "2026-07-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7425864301182717224.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-26/7425864301182717224.mp3",
+      "source": "download",
+      "processed_at": "2026-07-26T12:34:20+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7425864301182717224",
+      "transcript_raw": "翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种补充信息：翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种关键词：翡翠原石、以翠会友、大自然的搬运工、高冰玻璃种",
+      "transcript_clean": "翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种补充信息：翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种关键词：翡翠原石、以翠会友、大自然的搬运工、高冰玻璃种",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-26/7425864301182717224.json",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "analysis": {
+      "video_id": "7425864301182717224",
+      "summary": "目标博主 1围绕“翡翠原石”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种。翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种补充信息：翡翠源头收货现场，黑石头大冰料开价180万多少能拿下？#翡翠原石 #以翠会友 #大自然的搬运工 #高冰玻璃种关键词：翡翠原石、以翠会友、大自然的搬运工、高冰玻璃种 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "翡翠原石为什么总是做不出来结果？",
+        "先把以翠会友想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕翡翠原石组织标题与开头。",
+        "用以翠会友和大自然的搬运工补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "翡翠原石",
+        "以翠会友",
+        "大自然的搬运工"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-26/7425864301182717224.json",
+      "processed_at": "2026-07-26T12:35:45+08:00"
+    },
+    "last_error": null
   }
 }
