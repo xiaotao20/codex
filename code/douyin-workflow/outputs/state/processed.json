@@ -18217,5 +18217,671 @@
       "processed_at": "2026-07-26T12:35:45+08:00"
     },
     "last_error": null
+  },
+  "7666845750035328070": {
+    "video_id": "7666845750035328070",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "李老板欧货-大号",
+      "video_id": "7666845750035328070",
+      "title": "#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦",
+      "publish_time": "2026-07-26T22:37:12+08:00",
+      "video_url": "https://www.douyin.com/video/7666845750035328070",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o8QE5JftADGZGNJmAdFFgkIE9AvYB9HfAgBqbh~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100484800&x-signature=KLz2SPp%2BQVgUa2fpdoy24WOj%2BYI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607271242134C2370ED776FB8D422C4",
+      "like_count": 256,
+      "comment_count": 36,
+      "share_count": 8,
+      "collect_count": 9,
+      "description": "#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦",
+      "text_hint": "#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦",
+      "topic_tags": [
+        "准大学生",
+        "录取通知书",
+        "收到录取通知书的喜悦"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/3e2c9df82b7a250bc5c15e0296acb246/6a670be6/video/tos/cn/tos-cn-ve-15/oAqtImfAADEyJg5FdizBfFHvkAN3HEtQ9hZGAQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2844&bt=2844&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wWYQ6Hhd.4_Ujf03-ApQX&mime_type=video_mp4&qs=0&rc=MzRnPDYzNzUzaWdlO2k4aUBpanlmOHE5cjQ0PDMzNGkzM0A1YWMzMWMyXmExNS5iYmFjYSNiNmhoMmRzZmdhLS1kLWFzcw%3D%3D&btag=80000e00010000&cquery=100z_100o_100w_100B_100x&dy_q=1785127334&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=202607271242134C2370ED776FB8D422C4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7666845750035328070.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7666845750035328070.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 16.996,
+      "raw_payload": {
+        "aweme_id": "7666845750035328070",
+        "author_uid": "62274277241",
+        "sec_uid": "MS4wLjABAAAAu3HKUFO54qX-56OYp5n7LCtJos4Ta5a-hWeq6TKwg8A",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAu3HKUFO54qX-56OYp5n7LCtJos4Ta5a-hWeq6TKwg8A"
+      }
+    },
+    "first_seen_at": "2026-07-27T12:42:00+08:00",
+    "last_seen_at": "2026-07-27T12:42:00+08:00",
+    "fetch_runs": [
+      "2026-07-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7666845750035328070.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7666845750035328070.mp3",
+      "source": "download",
+      "processed_at": "2026-07-27T12:43:02+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7666845750035328070",
+      "transcript_raw": "#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦补充信息：#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦关键词：准大学生、录取通知书、收到录取通知书的喜悦",
+      "transcript_clean": "#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦补充信息：#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦关键词：准大学生、录取通知书、收到录取通知书的喜悦",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-27/7666845750035328070.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "analysis": {
+      "video_id": "7666845750035328070",
+      "summary": "李老板欧货-大号围绕“准大学生”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦。#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦补充信息：#准大学生 十二年的晨光与星夜，终于凝成了这一纸滚烫的欢喜。#录取通知书 丫头真心为你感到骄傲👏#收到录取通知书的喜悦关键词：准大学生、录取通知书、收到录取通知书的喜悦 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "准大学生为什么总是做不出来结果？",
+        "先把录取通知书想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕准大学生组织标题与开头。",
+        "用录取通知书和收到录取通知书的喜悦补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "准大学生",
+        "录取通知书",
+        "收到录取通知书的喜悦"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-27/7666845750035328070.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "last_error": null
+  },
+  "7649718247536758043": {
+    "video_id": "7649718247536758043",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "宁夏广电新闻中心",
+      "video_id": "7649718247536758043",
+      "title": "一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限",
+      "publish_time": "2026-06-10T18:53:51+08:00",
+      "video_url": "https://www.douyin.com/video/7649718247536758043",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/cc8fd1ae4a0aebbee1ed8d5ea2fab607~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100484800&x-signature=o5FbpJbS94xCRAI%2BtaxOnF8kndk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026072712421773857AF569F8EB4A1638",
+      "like_count": 7442,
+      "comment_count": 652,
+      "share_count": 13513,
+      "collect_count": 5132,
+      "description": "一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限",
+      "text_hint": "一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限",
+      "topic_tags": [
+        "手机无障碍权限",
+        "诈骗"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2c092e9220e677ae53cf389ff516ef55/6a670bfb/video/tos/cn/tos-cn-ve-15/ooA5PpaBi8AckKATD8IQlXwISdCvgiiiQIEzG/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=945&bt=945&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wCYQ6Hhd.4_Ujf03-ApQX&mime_type=video_mp4&qs=0&rc=MzVlM2VmOWRoNTpnZjszZUBpMztrN3Y5cmRuOzMzNGkzM0A0MDEwMzAvNWIxYWMvMl41YSNlYnAtMmRrMWhhLS1kLTBzcw%3D%3D&btag=80000e00018000&cquery=100w_100B_100H_100K_100o&dy_q=1785127337&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026072712421773857AF569F8EB4A1638",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7649718247536758043.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7649718247536758043.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 34.18,
+      "raw_payload": {
+        "aweme_id": "7649718247536758043",
+        "author_uid": "100747292195",
+        "sec_uid": "MS4wLjABAAAAAKRfei6WXUMRzpiXTNCWA8zsyMOZDHT8TlXXkJeCkSA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAKRfei6WXUMRzpiXTNCWA8zsyMOZDHT8TlXXkJeCkSA"
+      }
+    },
+    "first_seen_at": "2026-07-27T12:42:00+08:00",
+    "last_seen_at": "2026-07-27T12:42:00+08:00",
+    "fetch_runs": [
+      "2026-07-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7649718247536758043.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7649718247536758043.mp3",
+      "source": "download",
+      "processed_at": "2026-07-27T12:43:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7649718247536758043",
+      "transcript_raw": "一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限补充信息：一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限关键词：手机无障碍权限、诈骗",
+      "transcript_clean": "一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限补充信息：一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限关键词：手机无障碍权限、诈骗",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-27/7649718247536758043.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "analysis": {
+      "video_id": "7649718247536758043",
+      "summary": "宁夏广电新闻中心围绕“手机无障碍权限”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限。一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限补充信息：一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限关键词：手机无障碍权限、诈骗 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "手机无障碍权限为什么总是做不出来结果？",
+        "先把诈骗想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕手机无障碍权限组织标题与开头。",
+        "用诈骗和一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限补充信息：一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限关键词：手机无障碍权限、诈骗补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "手机无障碍权限",
+        "诈骗",
+        "一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限补充信息：一觉醒来20万没了，只因手机打开了这个权限！民警紧急提醒#诈骗#手机无障碍权限关键词：手机无障碍权限、诈骗"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-27/7649718247536758043.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "last_error": null
+  },
+  "7359743618443119908": {
+    "video_id": "7359743618443119908",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "包乐yue",
+      "video_id": "7359743618443119908",
+      "title": "ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机",
+      "publish_time": "2024-04-20T08:44:23+08:00",
+      "video_url": "https://www.douyin.com/video/7359743618443119908",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6f7a160b1562e76fd404e57d6f80d7f3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100484800&x-signature=E7kxgjYTSiCbeH3JV5NlGnTZ4OI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260727124220C37496D62BBEDDB236E8",
+      "like_count": 80,
+      "comment_count": 18,
+      "share_count": 10,
+      "collect_count": 50,
+      "description": "ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机",
+      "text_hint": "ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机",
+      "topic_tags": [
+        "ipodshuffle",
+        "mp3的年代",
+        "无线耳机"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/2d1e7fb290fd183cba81cc77d1a2a898/6a670d0c/video/tos/cn/tos-cn-ve-0015c800/o4xfhFfAAUI7CDfcEjEBn4rzoEEBRMQGAQCjIX/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1341&bt=1341&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9w5YQ6Hhd.4_Ujf03-ApQX&mime_type=video_mp4&qs=0&rc=ODhkM2U5ZTk3NWQ8ODgzOkBpanZmOHk5cnNqcjMzNGkzM0AvMF9jLS9eX18xLjBjNmFeYSNlZHJwMmRzc2VgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100D_100J_100o_100w_100B&dy_q=1785127341&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260727124220C37496D62BBEDDB236E8&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7359743618443119908.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7359743618443119908.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 303.334,
+      "raw_payload": {
+        "aweme_id": "7359743618443119908",
+        "author_uid": "1691512928738012",
+        "sec_uid": "MS4wLjABAAAAAzUcI0cxqCtolZJp5Q0KeKob0noNZjeNOcoCXo4MPLu65QH3dFti66LDNCNH96zE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAzUcI0cxqCtolZJp5Q0KeKob0noNZjeNOcoCXo4MPLu65QH3dFti66LDNCNH96zE"
+      }
+    },
+    "first_seen_at": "2026-07-27T12:42:00+08:00",
+    "last_seen_at": "2026-07-27T12:42:00+08:00",
+    "fetch_runs": [
+      "2026-07-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7359743618443119908.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7359743618443119908.mp3",
+      "source": "download",
+      "processed_at": "2026-07-27T12:44:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7359743618443119908",
+      "transcript_raw": "ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机补充信息：ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机关键词：ipodshuffle、mp3的年代、无线耳机",
+      "transcript_clean": "ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机补充信息：ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机关键词：ipodshuffle、mp3的年代、无线耳机",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-27/7359743618443119908.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "analysis": {
+      "video_id": "7359743618443119908",
+      "summary": "包乐yue围绕“ipodshuffle”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机。ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机补充信息：ipod如何连接蓝牙耳机 #ipodshuffle #mp3的年代 #无线耳机关键词：ipodshuffle、mp3的年代、无线耳机 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "ipodshuffle为什么总是做不出来结果？",
+        "先把mp3的年代想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕ipodshuffle组织标题与开头。",
+        "用mp3的年代和无线耳机补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "ipodshuffle",
+        "mp3的年代",
+        "无线耳机"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-27/7359743618443119908.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "last_error": null
+  },
+  "7359908879674707219": {
+    "video_id": "7359908879674707219",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "行至智能装备",
+      "video_id": "7359908879674707219",
+      "title": "大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机",
+      "publish_time": "2024-04-20T19:25:35+08:00",
+      "video_url": "https://www.douyin.com/video/7359908879674707219",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ba89fb6369ec7b78e19b922fbd7f2e7d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100484800&x-signature=t7TISFoSLChpvfvjZlBVjyXyFSc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260727124224E770EA77AA2C43AA38A1",
+      "like_count": 121,
+      "comment_count": 8,
+      "share_count": 51,
+      "collect_count": 124,
+      "description": "大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机",
+      "text_hint": "大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机",
+      "topic_tags": [
+        "多光谱无人机",
+        "大疆3M",
+        "大疆御3M",
+        "大疆多光谱测绘无人机"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/89a762cdb4556b8a824b8389306120bc/6a670cac/video/cn/mps/realtime/v1/r/p/v0300fg10000cohqa2rc77u8gv1nphdg/75fe5fc08f614954b5d270c69e8921e6/12b3e8eda761222dc2e63cb420d2a300/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=166&bt=166&cs=0&ds=3&ft=InFJ3Y-5DyjNMRVQ9wDYQ6Hhd.4_Ujf03-ApQX&mime_type=video_mp4&qs=0&rc=OTQ8aDkzNTg3PDRpM2loOEBpamtxeTs6ZjV0cjMzNGkzM0BiLzU2YDRhXzIxMzVgMmM0YSNhbS5kcjRvXmVgLS1kLTBzcw%3D%3D&btag=80000e00028000&codec=h264&cquery=100B_100H_100K_100o_100w&definition=720p&dy_q=1785127344&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7359908879674707219&l=20260727124224E770EA77AA2C43AA38A1&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7359908879674707219.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7359908879674707219.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 204.813,
+      "raw_payload": {
+        "aweme_id": "7359908879674707219",
+        "author_uid": "76316156520",
+        "sec_uid": "MS4wLjABAAAAV5M1cWWWaoLxyCCekkUJubYy2jfEPBNdRelAPBvVqfY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAV5M1cWWWaoLxyCCekkUJubYy2jfEPBNdRelAPBvVqfY"
+      }
+    },
+    "first_seen_at": "2026-07-27T12:42:00+08:00",
+    "last_seen_at": "2026-07-27T12:42:00+08:00",
+    "fetch_runs": [
+      "2026-07-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7359908879674707219.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7359908879674707219.mp3",
+      "source": "download",
+      "processed_at": "2026-07-27T12:44:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7359908879674707219",
+      "transcript_raw": "大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机补充信息：大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机关键词：多光谱无人机、大疆3M、大疆御3M、大疆多光谱测绘无人机",
+      "transcript_clean": "大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机补充信息：大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机关键词：多光谱无人机、大疆3M、大疆御3M、大疆多光谱测绘无人机",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-27/7359908879674707219.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "analysis": {
+      "video_id": "7359908879674707219",
+      "summary": "行至智能装备围绕“多光谱无人机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机。大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机补充信息：大疆M3M无人机 多光谱数据处理教程 大疆智图多光谱数据重建教程。#多光谱无人机 #大疆3M #大疆御3M #大疆多光谱测绘无人机关键词：多光谱无人机、大疆3M、大疆御3M、大疆多光谱测绘无人机 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "多光谱无人机为什么总是做不出来结果？",
+        "先把大疆3M想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕多光谱无人机组织标题与开头。",
+        "用大疆3M和大疆御3M补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "多光谱无人机",
+        "大疆3M",
+        "大疆御3M"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-27/7359908879674707219.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "last_error": null
+  },
+  "7502253850569919798": {
+    "video_id": "7502253850569919798",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7502253850569919798",
+      "title": "Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环",
+      "publish_time": "2025-05-09T01:36:00+08:00",
+      "video_url": "https://www.douyin.com/video/7502253850569919798",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环",
+      "text_hint": "Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环",
+      "topic_tags": [
+        "智能手表",
+        "智能穿戴",
+        "运动手环"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e35f9e1a0012d5d4475df66785c74037/6a670ca4/video/tos/cn/tos-cn-ve-0015c800/okQS8oTA7BVbGg9GoQIAIFEAwNDzCHgeEfablC/?a=6383&br=620&bt=620&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1785127360&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9w.-Q6Hhd.4_Ujf03-ApQX&is_ssr=1&l=202607271242397CF56D91C95797A4C914&lr=all&mime_type=video_mp4&qs=12&rc=PDs5OGY7aTk6ZDc8NTw0NkBpajQzM245cjlvMzMzNGkzM0AyLzIyMS42Xl8xL2BiXmBfYSMzZ20uMmRzbGJhLS1kLS9zcw%3D%3D&__vid=7502253850569919798",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7502253850569919798.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7502253850569919798.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7502253850569919798",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-27T12:42:00+08:00",
+    "last_seen_at": "2026-07-27T12:42:00+08:00",
+    "fetch_runs": [
+      "2026-07-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7502253850569919798.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7502253850569919798.mp3",
+      "source": "download",
+      "processed_at": "2026-07-27T12:43:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7502253850569919798",
+      "transcript_raw": "Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环补充信息：Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环关键词：智能手表、智能穿戴、运动手环",
+      "transcript_clean": "Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环补充信息：Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环关键词：智能手表、智能穿戴、运动手环",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-27/7502253850569919798.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "analysis": {
+      "video_id": "7502253850569919798",
+      "summary": "目标博主 1围绕“智能手表”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环。Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环补充信息：Valdus VS14 Fashion Smart Bluetooth Call Watch, Message Push Reminder, Multiple Sports Mode Bracelet#智能手表#智能穿戴#运动手环关键词：智能手表、智能穿戴、运动手环 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "智能手表为什么总是做不出来结果？",
+        "先把智能穿戴想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕智能手表组织标题与开头。",
+        "用智能穿戴和运动手环补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "智能手表",
+        "智能穿戴",
+        "运动手环"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-27/7502253850569919798.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "last_error": null
+  },
+  "7314301660027768064": {
+    "video_id": "7314301660027768064",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "三国杀白衣",
+      "video_id": "7314301660027768064",
+      "title": "孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场",
+      "publish_time": "2023-12-19T21:46:19+08:00",
+      "video_url": "https://www.douyin.com/video/7314301660027768064",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b2873ef3a46ed58a26456f1ac0940b73~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100484800&x-signature=moaZcuE5EsEZ9qCkhY5VSdgiLqk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260727124247AD66CFE1B5C442A4E32D",
+      "like_count": 235,
+      "comment_count": 52,
+      "share_count": 68,
+      "collect_count": 18,
+      "description": "孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场",
+      "text_hint": "孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场",
+      "topic_tags": [
+        "三国杀十周年",
+        "福利畅玩版",
+        "周年庆谋周瑜登场"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ee8a59c2b2651826fd9a8f67cd67dff9/6a670ce7/video/tos/cn/tos-cn-ve-0015c800/oIuMDHRgg3Q9AQ2dlsIeZYePAIACNZbyBlgmnC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=752&bt=752&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9we-Q6Hhd.4_Ujf03-ApQX&mime_type=video_mp4&qs=0&rc=ZzZlPDU5ZTczaTtlaDU8OEBpamxmdTs6ZnVzcDMzNGkzM0AvLjE1MjU1XjYxXjReMDUzYSNtNTQucjRnby1gLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1785127368&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260727124247AD66CFE1B5C442A4E32D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7314301660027768064.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7314301660027768064.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 239.77,
+      "raw_payload": {
+        "aweme_id": "7314301660027768064",
+        "author_uid": "71165753833",
+        "sec_uid": "MS4wLjABAAAA9cF42prJTPW6mKbao8esjdjvqJsy3HGJUpit_CLsyaw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9cF42prJTPW6mKbao8esjdjvqJsy3HGJUpit_CLsyaw"
+      }
+    },
+    "first_seen_at": "2026-07-27T12:42:00+08:00",
+    "last_seen_at": "2026-07-27T12:42:00+08:00",
+    "fetch_runs": [
+      "2026-07-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7314301660027768064.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7314301660027768064.mp3",
+      "source": "download",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7314301660027768064",
+      "transcript_raw": "孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场补充信息：孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场关键词：三国杀十周年、福利畅玩版、周年庆谋周瑜登场",
+      "transcript_clean": "孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场补充信息：孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场关键词：三国杀十周年、福利畅玩版、周年庆谋周瑜登场",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-27/7314301660027768064.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "analysis": {
+      "video_id": "7314301660027768064",
+      "summary": "三国杀白衣围绕“三国杀十周年”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场。孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场补充信息：孙綝为什么这么好用啊！卡宝血亏#三国杀十周年 #福利畅玩版 #周年庆谋周瑜登场关键词：三国杀十周年、福利畅玩版、周年庆谋周瑜登场 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "三国杀十周年为什么总是做不出来结果？",
+        "先把福利畅玩版想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕三国杀十周年组织标题与开头。",
+        "用福利畅玩版和周年庆谋周瑜登场补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "三国杀十周年",
+        "福利畅玩版",
+        "周年庆谋周瑜登场"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-27/7314301660027768064.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "last_error": null
+  },
+  "7416546862221495578": {
+    "video_id": "7416546862221495578",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "南山芳小妹",
+      "video_id": "7416546862221495578",
+      "title": "烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了",
+      "publish_time": "2024-09-20T10:29:47+08:00",
+      "video_url": "https://www.douyin.com/video/7416546862221495578",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f77ed04abf78580f5dbd09aa8aa0e17e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100484800&x-signature=ThE9FnbCfEI%2FaPXyzzEVIcd9gbE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260727124251B6694532D9E2505619A0",
+      "like_count": 6639,
+      "comment_count": 346,
+      "share_count": 712,
+      "collect_count": 1838,
+      "description": "烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了",
+      "text_hint": "烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了",
+      "topic_tags": [
+        "来农村也可以精致生活",
+        "烧鸡的正宗做法",
+        "就问你们馋不馋就完了"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d22fc80ac8b809a2c74196fcbbdf16f4/6a670cbc/video/tos/cn/tos-cn-ve-15/o8MhBeeGaQmR7ZNBx5h8f2TbsCkAkIkQLjInIA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4235&bt=4235&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wl-Q6Hhd.4_Ujf03-ApQX&mime_type=video_mp4&qs=0&rc=ZjM6NDo2ZzhmODppNjZlOUBpMzx2OXM5cjdndTMzNGkzM0AyLy0xMmAxNV4xYGE0YS0wYSNzbTBqMmRzbWpgLS1kLWFzcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1785127371&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260727124251B6694532D9E2505619A0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7416546862221495578.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7416546862221495578.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 193.677,
+      "raw_payload": {
+        "aweme_id": "7416546862221495578",
+        "author_uid": "1478209075415980",
+        "sec_uid": "MS4wLjABAAAAy9fb22IeIh5ElSJgEbfhdJigw5S1uGkCmvriEAWJu5XmiNar1SxPeQFtfPmD1hfF",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAy9fb22IeIh5ElSJgEbfhdJigw5S1uGkCmvriEAWJu5XmiNar1SxPeQFtfPmD1hfF"
+      }
+    },
+    "first_seen_at": "2026-07-27T12:42:00+08:00",
+    "last_seen_at": "2026-07-27T12:42:00+08:00",
+    "fetch_runs": [
+      "2026-07-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7416546862221495578.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-27/7416546862221495578.mp3",
+      "source": "download",
+      "processed_at": "2026-07-27T12:43:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7416546862221495578",
+      "transcript_raw": "烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了补充信息：烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了关键词：来农村也可以精致生活、烧鸡的正宗做法、就问你们馋不馋就完了",
+      "transcript_clean": "烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了补充信息：烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了关键词：来农村也可以精致生活、烧鸡的正宗做法、就问你们馋不馋就完了",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-27/7416546862221495578.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "analysis": {
+      "video_id": "7416546862221495578",
+      "summary": "南山芳小妹围绕“来农村也可以精致生活”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了。烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了补充信息：烧鸡和扒鸡，你们喜欢哪种？\n小孩子才做选择题，今天就做来尝尝#来农村也可以精致生活 #烧鸡的正宗做法  #就问你们馋不馋就完了关键词：来农村也可以精致生活、烧鸡的正宗做法、就问你们馋不馋就完了 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "来农村也可以精致生活为什么总是做不出来结果？",
+        "先把烧鸡的正宗做法想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕来农村也可以精致生活组织标题与开头。",
+        "用烧鸡的正宗做法和就问你们馋不馋就完了补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "来农村也可以精致生活",
+        "烧鸡的正宗做法",
+        "就问你们馋不馋就完了"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-27/7416546862221495578.json",
+      "processed_at": "2026-07-27T12:45:05+08:00"
+    },
+    "last_error": null
+  },
+  "6983457832016366885": {
+    "video_id": "6983457832016366885",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "6983457832016366885",
+      "title": "在抖音记录美好生活20260727",
+      "publish_time": "2026-07-27T12:42:59+08:00",
+      "video_url": "https://www.douyin.com/video/6983457832016366885",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260727",
+      "text_hint": "在抖音记录美好生活20260727",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/7492afe2-9eb4-48f4-b48e-3a700ad5d939",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "6983457832016366885",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-27T12:42:00+08:00",
+    "last_seen_at": "2026-07-27T12:42:00+08:00",
+    "fetch_runs": [
+      "2026-07-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
