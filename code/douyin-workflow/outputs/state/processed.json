@@ -18883,5 +18883,669 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7667358771253618566": {
+    "video_id": "7667358771253618566",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "福建升学规划指南",
+      "video_id": "7667358771253618566",
+      "title": "最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线",
+      "publish_time": "2026-07-28T07:47:58+08:00",
+      "video_url": "https://www.douyin.com/video/7667358771253618566",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oEIsPqbAeBfW8g9qJTQA7t7Ab3aprZEkTIA4FC~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100571200&x-signature=Xb0vnPRPKaoxbsPtWASMygyAkAI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260728121608031FC4F859A5194156C9",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线",
+      "text_hint": "最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线",
+      "topic_tags": [
+        "华北水利水电大学",
+        "大学录取分数线",
+        "2026年福建高考",
+        "华北水利水电大学录取分数线"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/91b8614ca34c8410eab11814a5563536/6a685740/video/tos/cn/tos-cn-ve-15/oo1nefg81ICXAZAk7BMW3htdEJtMpLAt8gEkj1/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=765&bt=765&cs=0&ds=3&ft=FYrO_g30BN1tUvjVQJHwKh7usiqcxenaglcjp&mime_type=video_mp4&qs=0&rc=ZDY7aTo8aWc0MzRmOTVpNUBpM285dzdvOnZ4PDMzNGkzM0AxXmEtLTUxXjMxYmMyYV9fYSNkbzZoYWEvb2dhLS1kLS9zcw%3D%3D&btag=80000e00008000&cc=1f&cquery=100B_100x_100z_100o_100w&dy_q=1785212168&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260728121608031FC4F859A5194156C9&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7667358771253618566.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7667358771253618566.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 8.267,
+      "raw_payload": {
+        "aweme_id": "7667358771253618566",
+        "author_uid": "98230726170",
+        "sec_uid": "MS4wLjABAAAA32FXyonuUxnjA6l8hjmkLhq0QdLEWX6rA9i1o-wSvpU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA32FXyonuUxnjA6l8hjmkLhq0QdLEWX6rA9i1o-wSvpU"
+      }
+    },
+    "first_seen_at": "2026-07-28T12:15:48+08:00",
+    "last_seen_at": "2026-07-28T12:15:48+08:00",
+    "fetch_runs": [
+      "2026-07-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7667358771253618566.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7667358771253618566.mp3",
+      "source": "download",
+      "processed_at": "2026-07-28T12:16:52+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7667358771253618566",
+      "transcript_raw": "最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线补充信息：最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线关键词：华北水利水电大学、大学录取分数线、2026年福建高考、华北水利水电大学录取分数线",
+      "transcript_clean": "最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线补充信息：最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线关键词：华北水利水电大学、大学录取分数线、2026年福建高考、华北水利水电大学录取分数线",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-28/7667358771253618566.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7667358771253618566",
+      "summary": "福建升学规划指南围绕“华北水利水电大学”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线。最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线补充信息：最高588分！华北水利水电大学2026年福建各专业分数线。#华北水利水电大学 #大学录取分数线 #2026年福建高考 #华北水利水电大学录取分数线关键词：华北水利水电大学、大学录取分数线、2026年福建高考、华北水利水电大学录取分数线 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "华北水利水电大学为什么总是做不出来结果？",
+        "先把大学录取分数线想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕华北水利水电大学组织标题与开头。",
+        "用大学录取分数线和2026年福建高考补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "华北水利水电大学",
+        "大学录取分数线",
+        "2026年福建高考"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-28/7667358771253618566.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "last_error": null
+  },
+  "7608112655680671010": {
+    "video_id": "7608112655680671010",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "观澜新闻",
+      "video_id": "7608112655680671010",
+      "title": "藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑",
+      "publish_time": "2026-02-18T16:05:33+08:00",
+      "video_url": "https://www.douyin.com/video/7608112655680671010",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7465aaafd380759444b884961889d1b5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100571200&x-signature=x5gUbnUVrqbjOlSmo%2BmH33K3a7M%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607281216111D7B3E47902AAD1B2C64",
+      "like_count": 359,
+      "comment_count": 16,
+      "share_count": 258,
+      "collect_count": 55,
+      "description": "藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑",
+      "text_hint": "藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/b62bd1ed74214c393c5e8be0d48626c8/6a68574b/video/tos/cn/tos-cn-ve-15/oIaVvAC4jIIZtBQhmAiFyiaQEPgIAPOgVU20V/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1174&bt=1174&cs=0&ds=4&ft=FYrO_g30BN1tUvjVQSHwKh7usiqcxenaglcjp&mime_type=video_mp4&qs=0&rc=Z2VmOGU0ZTtpNTc1ZjM6N0BpM3I3bHA5cmlxOTMzNGkzM0AvMzQuYi41XzUxYV9jNWIvYSNuXzFqMmRrMV5hLS1kLS9zcw%3D%3D&btag=c0000e00010000&cc=1f&cquery=100H_100K_100o_100w_100B&dy_q=1785212171&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202607281216111D7B3E47902AAD1B2C64&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7608112655680671010.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7608112655680671010.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 16.277,
+      "raw_payload": {
+        "aweme_id": "7608112655680671010",
+        "author_uid": "39206794047275",
+        "sec_uid": "MS4wLjABAAAABCByXafls1UfilfYvX5abiAWxNO1V5qMbaux0osEPf0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABCByXafls1UfilfYvX5abiAWxNO1V5qMbaux0osEPf0"
+      }
+    },
+    "first_seen_at": "2026-07-28T12:15:48+08:00",
+    "last_seen_at": "2026-07-28T12:15:48+08:00",
+    "fetch_runs": [
+      "2026-07-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7608112655680671010.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7608112655680671010.mp3",
+      "source": "download",
+      "processed_at": "2026-07-28T12:16:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7608112655680671010",
+      "transcript_raw": "藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑补充信息：藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑",
+      "transcript_clean": "藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑补充信息：藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-28/7608112655680671010.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7608112655680671010",
+      "summary": "观澜新闻围绕“藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑补充信息：藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑。藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑补充信息：藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑补充信息：藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑补充信息：藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑补充信息：藏马熊大年初一狂捶饭店门，店主：已回家过年，店内食材估计被“打包”了！直到巡逻警车出现熊才逃跑",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-28/7608112655680671010.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "last_error": null
+  },
+  "7348778865424223528": {
+    "video_id": "7348778865424223528",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "悦妈家",
+      "video_id": "7348778865424223528",
+      "title": "自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记",
+      "publish_time": "2024-03-21T19:35:24+08:00",
+      "video_url": "https://www.douyin.com/video/7348778865424223528",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/323249adaa56dad52a26bd5ec3e45880~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100571200&x-signature=Pr5%2F0%2BjwsoW3H4Wcx3eQGuvl34Q%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607281216136D1DC2D94F6CD5038C3D",
+      "like_count": 396,
+      "comment_count": 27,
+      "share_count": 84,
+      "collect_count": 283,
+      "description": "自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记",
+      "text_hint": "自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记",
+      "topic_tags": [
+        "酱香饼",
+        "酱香饼的做法",
+        "我的厨房日记"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/6c43df35ef508c4e04c8cc9bd04ee22c/6a68580f/video/tos/cn/tos-cn-ve-0015c800/ooDzfwAA0KA45HDefM21Le2W3YPiCECizIPXEw/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2521&bt=2521&cs=0&ds=4&ft=FYrO_g30BN1tUvjVQwHwKh7usiqcxenaglcjp&mime_type=video_mp4&qs=0&rc=ZGc4Njs7OTNmOGVlODc0ZEBpanhzOzQ6Zjk0cTMzNGkzM0AuYy0wM2I0NWIxMWNjMS8vYSNrcGpgcjQwanJgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cc=1f&cquery=100o_100w_100B_100x_100z&dy_q=1785212174&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607281216136D1DC2D94F6CD5038C3D&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7348778865424223528.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7348778865424223528.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 209.1,
+      "raw_payload": {
+        "aweme_id": "7348778865424223528",
+        "author_uid": "3315741004138504",
+        "sec_uid": "MS4wLjABAAAAm8NYFYzbfLRcEXS4wgYZz7WJ7MU_0k02leAf21Fy4hIFYVIZYbTrFL0GPlS914H4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAm8NYFYzbfLRcEXS4wgYZz7WJ7MU_0k02leAf21Fy4hIFYVIZYbTrFL0GPlS914H4"
+      }
+    },
+    "first_seen_at": "2026-07-28T12:15:48+08:00",
+    "last_seen_at": "2026-07-28T12:15:48+08:00",
+    "fetch_runs": [
+      "2026-07-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7348778865424223528.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7348778865424223528.mp3",
+      "source": "download",
+      "processed_at": "2026-07-28T12:19:20+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7348778865424223528",
+      "transcript_raw": "自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记补充信息：自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记关键词：酱香饼、酱香饼的做法、我的厨房日记",
+      "transcript_clean": "自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记补充信息：自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记关键词：酱香饼、酱香饼的做法、我的厨房日记",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-28/7348778865424223528.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7348778865424223528",
+      "summary": "悦妈家围绕“酱香饼”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记。自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记补充信息：自制酱香饼，可以出摊了#酱香饼 #酱香饼的做法 #我的厨房日记关键词：酱香饼、酱香饼的做法、我的厨房日记 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "酱香饼为什么总是做不出来结果？",
+        "先把酱香饼的做法想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕酱香饼组织标题与开头。",
+        "用酱香饼的做法和我的厨房日记补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "酱香饼",
+        "酱香饼的做法",
+        "我的厨房日记"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-28/7348778865424223528.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "last_error": null
+  },
+  "7345315888960113946": {
+    "video_id": "7345315888960113946",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "蜜獾奢品",
+      "video_id": "7345315888960113946",
+      "title": "（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气",
+      "publish_time": "2024-03-12T19:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7345315888960113946",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6e7c1173e16064c891201b650b8fd4c7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100571200&x-signature=G%2B07QKOT6NyjdEamdPQN%2BxLZFa4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260728121616061D190C4EA0F0171585",
+      "like_count": 975,
+      "comment_count": 73,
+      "share_count": 38,
+      "collect_count": 118,
+      "description": "（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气",
+      "text_hint": "（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气",
+      "topic_tags": [
+        "二奢老萧",
+        "反转",
+        "奢侈品",
+        "上门女婿",
+        "解气"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/cce7957479b4baab464647eaec1f9343/6a685804/video/tos/cn/tos-cn-ve-15/oM7Rgw7gg2CjAfl8x88TAyDmgnm3btAl9EBpfC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3067&bt=3067&cs=0&ds=4&ft=FYrO_g30BN1tUvjVQmHwKh7usiqcxenaglcjp&mime_type=video_mp4&qs=0&rc=aTU8M2lkODU8N2ZmZmg4ZkBpanNwNjw6Zm52cTMzNGkzM0A2YDNiNjBiXzExNjE0NTMyYSNjcTBocjRvaGtgLS1kLS9zcw%3D%3D&btag=80000e00028000&cc=1f&cquery=100o_100w_100B_100H_100K&dy_q=1785212176&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260728121616061D190C4EA0F0171585&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7345315888960113946.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7345315888960113946.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 196.349,
+      "raw_payload": {
+        "aweme_id": "7345315888960113946",
+        "author_uid": "1128518771553848",
+        "sec_uid": "MS4wLjABAAAAEkxi5C0VBJ2W4sOj5u_9UHYSVucyIsudDq5mu2WC9OE3DHHxglDGzHnGECEyvyrh",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAEkxi5C0VBJ2W4sOj5u_9UHYSVucyIsudDq5mu2WC9OE3DHHxglDGzHnGECEyvyrh"
+      }
+    },
+    "first_seen_at": "2026-07-28T12:15:48+08:00",
+    "last_seen_at": "2026-07-28T12:15:48+08:00",
+    "fetch_runs": [
+      "2026-07-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7345315888960113946.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7345315888960113946.mp3",
+      "source": "download",
+      "processed_at": "2026-07-28T12:20:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7345315888960113946",
+      "transcript_raw": "（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气补充信息：（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气关键词：二奢老萧、反转、奢侈品、上门女婿、解气",
+      "transcript_clean": "（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气补充信息：（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气关键词：二奢老萧、反转、奢侈品、上门女婿、解气",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-28/7345315888960113946.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7345315888960113946",
+      "summary": "蜜獾奢品围绕“二奢老萧”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气。（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气补充信息：（1/2集）逼上门女婿顶包，老实人绝地反击…… #二奢老萧 #反转 #奢侈品 #上门女婿 #解气关键词：二奢老萧、反转、奢侈品、上门女婿、解气 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "二奢老萧为什么总是做不出来结果？",
+        "先把反转想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕二奢老萧组织标题与开头。",
+        "用反转和奢侈品补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "二奢老萧",
+        "反转",
+        "奢侈品"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-28/7345315888960113946.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "last_error": null
+  },
+  "7588147563417704177": {
+    "video_id": "7588147563417704177",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7588147563417704177",
+      "title": "在抖音记录美好生活20260728",
+      "publish_time": "2026-07-28T12:16:50+08:00",
+      "video_url": "https://www.douyin.com/video/7588147563417704177",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260728",
+      "text_hint": "在抖音记录美好生活20260728",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/72b20168-e45d-4dea-af12-b92466d96f7d",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7588147563417704177",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-28T12:15:48+08:00",
+    "last_seen_at": "2026-07-28T12:15:48+08:00",
+    "fetch_runs": [
+      "2026-07-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "6777665309110242567": {
+    "video_id": "6777665309110242567",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "吴森丰",
+      "video_id": "6777665309110242567",
+      "title": "这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲",
+      "publish_time": "2020-01-03T18:44:12+08:00",
+      "video_url": "https://www.douyin.com/video/6777665309110242567",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/56e1bdd5fae025cf0b3713674cbb59fd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100571200&x-signature=hCMOmfTigk2K6IY3f%2BEtrhE74KQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260728121626BF29C504EE0EC0D3DBFA",
+      "like_count": 383,
+      "comment_count": 17,
+      "share_count": 86,
+      "collect_count": 45,
+      "description": "这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲",
+      "text_hint": "这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲",
+      "topic_tags": [
+        "原创歌曲"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/033e1f8641b680521cc27f8c32424cfe/6a685835/video/tos/cn/tos-cn-ve-0015c800/f5f0a57f3f2f45c8b4bc12f335c70ca3/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1909&bt=1909&cs=0&ds=3&ft=FYrO_g30BN1tUvjVQbHwKh7usiqcxenaglcjp&mime_type=video_mp4&qs=0&rc=ZDkzODo2NTNnaDxkZ2doNEBpM3dtbm9vanNrcjMzZWkzM0AxNDFiMi40XjUxMGIxYjZgYSNfZXBsLWU1aDRfLS0yLS9zcw%3D%3D&btag=80000e00028000&cc=1f&cquery=100o_100w_100B_102v_102u&dy_q=1785212186&l=20260728121626BF29C504EE0EC0D3DBFA&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/6777665309110242567.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/6777665309110242567.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 235.937,
+      "raw_payload": {
+        "aweme_id": "6777665309110242567",
+        "author_uid": "97767586442",
+        "sec_uid": "MS4wLjABAAAAwrRt8OVR1xBwH4n2kT-HNxul5u2sZrKiOweu87ihTqo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAwrRt8OVR1xBwH4n2kT-HNxul5u2sZrKiOweu87ihTqo"
+      }
+    },
+    "first_seen_at": "2026-07-28T12:15:48+08:00",
+    "last_seen_at": "2026-07-28T12:15:48+08:00",
+    "fetch_runs": [
+      "2026-07-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/6777665309110242567.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/6777665309110242567.mp3",
+      "source": "download",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6777665309110242567",
+      "transcript_raw": "这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲补充信息：这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲关键词：原创歌曲",
+      "transcript_clean": "这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲补充信息：这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲关键词：原创歌曲",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-28/6777665309110242567.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "analysis": {
+      "video_id": "6777665309110242567",
+      "summary": "吴森丰围绕“原创歌曲”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲。这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲补充信息：这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲关键词：原创歌曲 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "原创歌曲为什么总是做不出来结果？",
+        "先把这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲补充信息：这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲关键词：原创歌曲想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕原创歌曲组织标题与开头。",
+        "用这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲补充信息：这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲关键词：原创歌曲和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "原创歌曲",
+        "这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲补充信息：这是我目前认为是潮汕最合适的婚庆歌曲《缘订今生》陈武峰&蔡习娜#原创歌曲关键词：原创歌曲",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-28/6777665309110242567.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "last_error": null
+  },
+  "7548790006593424666": {
+    "video_id": "7548790006593424666",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "姚哥测评",
+      "video_id": "7548790006593424666",
+      "title": "智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用",
+      "publish_time": "2025-09-11T19:20:40+08:00",
+      "video_url": "https://www.douyin.com/video/7548790006593424666",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/463f2a6b7a6b5deaa3f795f8bd802fda~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100571200&x-signature=2N8hJQ11f%2BigWSebRXQ66dOUEbA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260728121629E6C242B89E8439E120DE",
+      "like_count": 1959,
+      "comment_count": 305,
+      "share_count": 175,
+      "collect_count": 640,
+      "description": "智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用",
+      "text_hint": "智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用",
+      "topic_tags": [
+        "测评",
+        "etc",
+        "智能无卡etc",
+        "智能无卡etc全国通用",
+        "ETC"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/c2d9332f2d3d76222ed68da5886ff094/6a68585a/video/tos/cn/tos-cn-ve-15/oUMBiBwcVA3EIzgCIRH2if4JNvY20EAGvA8egg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2160&bt=2160&cs=0&ds=4&ft=FYrO_g30BN1tUvjVQjHwKh7usiqcxenaglcjp&mime_type=video_mp4&qs=0&rc=O2hlO2U6aWczOGk2aTNpM0BpMzs2NHE5cjdlNjMzNGkzM0BfLzQyL2NeNmAxNTZiMDZiYSNwbGpiMmRzLS5hLS1kLWFzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100o_100w_100B_100x_100z&dy_q=1785212189&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260728121629E6C242B89E8439E120DE&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7548790006593424666.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7548790006593424666.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 269.534,
+      "raw_payload": {
+        "aweme_id": "7548790006593424666",
+        "author_uid": "1403394269644350",
+        "sec_uid": "MS4wLjABAAAAaPioKHxCT1a9loHiod4iHazemnTgUPsmPJJ0oPgnYPGWuzh4PluCTUXbEVTfp-XH",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAaPioKHxCT1a9loHiod4iHazemnTgUPsmPJJ0oPgnYPGWuzh4PluCTUXbEVTfp-XH"
+      }
+    },
+    "first_seen_at": "2026-07-28T12:15:48+08:00",
+    "last_seen_at": "2026-07-28T12:15:48+08:00",
+    "fetch_runs": [
+      "2026-07-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7548790006593424666.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7548790006593424666.mp3",
+      "source": "download",
+      "processed_at": "2026-07-28T12:18:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7548790006593424666",
+      "transcript_raw": "智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用补充信息：智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用关键词：测评、etc、智能无卡etc、智能无卡etc全国通用、ETC",
+      "transcript_clean": "智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用补充信息：智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用关键词：测评、etc、智能无卡etc、智能无卡etc全国通用、ETC",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-28/7548790006593424666.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7548790006593424666",
+      "summary": "姚哥测评围绕“测评”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用。智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用补充信息：智能无卡ETC到底是不是智商税？到底有没有坑？测它！#测评 #ETC #智能无卡etc #智能无卡etc全国通用关键词：测评、etc、智能无卡etc、智能无卡etc全国通用、ETC 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "测评为什么总是做不出来结果？",
+        "先把etc想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕测评组织标题与开头。",
+        "用etc和智能无卡etc补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "测评",
+        "etc",
+        "智能无卡etc"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-28/7548790006593424666.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "last_error": null
+  },
+  "7370340310972468495": {
+    "video_id": "7370340310972468495",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7370340310972468495",
+      "title": "一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯",
+      "publish_time": "2024-05-18T14:04:00+08:00",
+      "video_url": "https://www.douyin.com/video/7370340310972468495",
+      "cover_url": "",
+      "like_count": 1028,
+      "comment_count": 442,
+      "share_count": 540,
+      "collect_count": 114,
+      "description": "一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯",
+      "text_hint": "一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯",
+      "topic_tags": [
+        "经验分享",
+        "出差"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/1ea9713d4877f894f824c53c3615b005/6a685896/video/tos/cn/tos-cn-ve-15/o0gsU2LDLbgLSkDmA1BR9gu8fbinecADAnIBgZ/?a=6383&br=654&bt=654&btag=80000e00030000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1785212205&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=FYrO_g30BN1tUvjVQ~HwKh7usiqcxenaglcjp&is_ssr=1&l=202607281216452E4D4F92F6AC94D4D078&lr=all&mime_type=video_mp4&qs=1&rc=PDw2ODVnNDVkaTQ3Z2g8NkBpM2xmcDs6ZnBlczMzNGkzM0AxXmA2Mi1jX2ExLWIuMWEyYSNtYHEzcjRvMjFgLS1kLTBzcw%3D%3D&req_cdn_type=&__vid=7370340310972468495",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7370340310972468495.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7370340310972468495.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7370340310972468495",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-28T12:15:48+08:00",
+    "last_seen_at": "2026-07-28T12:15:48+08:00",
+    "fetch_runs": [
+      "2026-07-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7370340310972468495.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-28/7370340310972468495.mp3",
+      "source": "download",
+      "processed_at": "2026-07-28T12:18:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7370340310972468495",
+      "transcript_raw": "一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯补充信息：一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯关键词：经验分享、出差",
+      "transcript_clean": "一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯补充信息：一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯关键词：经验分享、出差",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-28/7370340310972468495.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7370340310972468495",
+      "summary": "目标博主 1围绕“经验分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯。一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯补充信息：一级建造师可以靠运气通过吗？三个月时间备考一建够不够？#经验分享 #出差 随便扯扯关键词：经验分享、出差 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "经验分享为什么总是做不出来结果？",
+        "先把出差想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕经验分享组织标题与开头。",
+        "用出差和#出差补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "经验分享",
+        "出差",
+        "#出差"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-28/7370340310972468495.json",
+      "processed_at": "2026-07-28T12:20:48+08:00"
+    },
+    "last_error": null
   }
 }
