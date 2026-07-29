@@ -19547,5 +19547,684 @@
       "processed_at": "2026-07-28T12:20:48+08:00"
     },
     "last_error": null
+  },
+  "7667405282751091859": {
+    "video_id": "7667405282751091859",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "吴哥",
+      "video_id": "7667405282751091859",
+      "title": "#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦",
+      "publish_time": "2026-07-28T10:48:28+08:00",
+      "video_url": "https://www.douyin.com/video/7667405282751091859",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/ooEAo14AkCAAAgetyFIABiiAwGB4aNAXZfv6HC~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100657600&x-signature=NyduFB8lfNVYwoLC5sZSjAZIKLI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260729121823A42CB9A83BFED688A61E",
+      "like_count": 16,
+      "comment_count": 3,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦",
+      "text_hint": "#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦",
+      "topic_tags": [
+        "浙江理工大学本科生录取通知书开箱",
+        "华迈圆梦本科",
+        "录取通知书来啦"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/86576405ff26b9dbd892d0afc3238d4a/6a69a968/video/tos/cn/tos-cn-ve-15/ocJQvgmkEIPqpU3T0IadAotQJUWxgHmT9IGAX/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1405&bt=1405&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wBhSEHhd.Tl0P103-ApQX&mime_type=video_mp4&qs=0&rc=ODU5OWQ4Njg3O2k6aDQ3N0Bpajx4ZjdvOnc0PDMzNGkzM0AuYy5iMDBjNl8xMmNgYl5hYSM2c2JuYWFeY2hhLS1kLS9zcw%3D%3D&btag=c0000e00018000&cc=1f&cquery=100x_100z_100o_100w_100E&dy_q=1785298703&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260729121823A42CB9A83BFED688A61E&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7667405282751091859.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7667405282751091859.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 41.534,
+      "raw_payload": {
+        "aweme_id": "7667405282751091859",
+        "author_uid": "110889356625",
+        "sec_uid": "MS4wLjABAAAAIn9bsMtnjs2WCmr9ZNspfZ5lE_65GTbh1OfedLuhkPE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAIn9bsMtnjs2WCmr9ZNspfZ5lE_65GTbh1OfedLuhkPE"
+      }
+    },
+    "first_seen_at": "2026-07-29T12:17:59+08:00",
+    "last_seen_at": "2026-07-29T12:17:59+08:00",
+    "fetch_runs": [
+      "2026-07-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7667405282751091859.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7667405282751091859.mp3",
+      "source": "download",
+      "processed_at": "2026-07-29T12:19:37+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7667405282751091859",
+      "transcript_raw": "#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦补充信息：#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦关键词：浙江理工大学本科生录取通知书开箱、华迈圆梦本科、录取通知书来啦",
+      "transcript_clean": "#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦补充信息：#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦关键词：浙江理工大学本科生录取通知书开箱、华迈圆梦本科、录取通知书来啦",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-29/7667405282751091859.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7667405282751091859",
+      "summary": "吴哥围绕“浙江理工大学本科生录取通知书开箱”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦。#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦补充信息：#浙江理工大学本科生录取通知书开箱#华迈圆梦本科#录取通知书来啦关键词：浙江理工大学本科生录取通知书开箱、华迈圆梦本科、录取通知书来啦 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "浙江理工大学本科生录取通知书开箱为什么总是做不出来结果？",
+        "先把华迈圆梦本科想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕浙江理工大学本科生录取通知书开箱组织标题与开头。",
+        "用华迈圆梦本科和录取通知书来啦补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "浙江理工大学本科生录取通知书开箱",
+        "华迈圆梦本科",
+        "录取通知书来啦"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-29/7667405282751091859.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "last_error": null
+  },
+  "7579892857708776719": {
+    "video_id": "7579892857708776719",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小遥说商业",
+      "video_id": "7579892857708776719",
+      "title": "中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子",
+      "publish_time": "2025-12-04T19:27:05+08:00",
+      "video_url": "https://www.douyin.com/video/7579892857708776719",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/cdf6bedf84ffb20275c57b520b4382df~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100657600&x-signature=yIKXfLA1aR9xmdvK822pL%2FSoxBI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607291218405A6513A3BD3D5E712934",
+      "like_count": 3990,
+      "comment_count": 296,
+      "share_count": 219,
+      "collect_count": 680,
+      "description": "中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子",
+      "text_hint": "中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子",
+      "topic_tags": [
+        "你AI了吗",
+        "AI涨乐",
+        "AI交易",
+        "资金涨停猎手",
+        "人人都该有的炒股搭子"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a8b9bc131265eaed0b34e2c4ff34ac08/6a69aabb/video/tos/cn/tos-cn-ve-15/63f666be901a458ca85bddba8bb4b4b5/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1497&bt=1497&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wKhSEHhd.Tl0P103-ApQX&mime_type=video_mp4&qs=0&rc=PDZkM2c8NjpoZmc3Z2U1M0Bpam1mOW45cjhtNzMzNGkzM0BgLzAtNF42XjExNjEyLzBeYSNxbHNyMmQ0LWxhLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100K_100o_100w_100B_100H&dy_q=1785298720&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202607291218405A6513A3BD3D5E712934",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7579892857708776719.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7579892857708776719.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 363.329,
+      "raw_payload": {
+        "aweme_id": "7579892857708776719",
+        "author_uid": "1292663334116567",
+        "sec_uid": "MS4wLjABAAAAwnSyCWsKIMnSnY1sd4wyo1-PoourM7-Uc_NSIEyP7ASa6FLHl2TZxcUYNDlxNOsD",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAwnSyCWsKIMnSnY1sd4wyo1-PoourM7-Uc_NSIEyP7ASa6FLHl2TZxcUYNDlxNOsD"
+      }
+    },
+    "first_seen_at": "2026-07-29T12:17:59+08:00",
+    "last_seen_at": "2026-07-29T12:17:59+08:00",
+    "fetch_runs": [
+      "2026-07-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7579892857708776719.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7579892857708776719.mp3",
+      "source": "download",
+      "processed_at": "2026-07-29T12:20:17+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7579892857708776719",
+      "transcript_raw": "中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子补充信息：中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子关键词：你AI了吗、AI涨乐、AI交易、资金涨停猎手、人人都该有的炒股搭子",
+      "transcript_clean": "中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子补充信息：中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子关键词：你AI了吗、AI涨乐、AI交易、资金涨停猎手、人人都该有的炒股搭子",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-29/7579892857708776719.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7579892857708776719",
+      "summary": "小遥说商业围绕“你AI了吗”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子。中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子补充信息：中美6大AI投资比赛，普通人机会在哪？ #你AI了吗#AI涨乐#资金涨停猎手#AI交易#人人都该有的炒股搭子关键词：你AI了吗、AI涨乐、AI交易、资金涨停猎手、人人都该有的炒股搭子 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "你AI了吗为什么总是做不出来结果？",
+        "先把AI涨乐想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕你AI了吗组织标题与开头。",
+        "用AI涨乐和AI交易补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "你AI了吗",
+        "AI涨乐",
+        "AI交易"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-29/7579892857708776719.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "last_error": null
+  },
+  "7124335641906695427": {
+    "video_id": "7124335641906695427",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "中国气象爱好者",
+      "video_id": "7124335641906695427",
+      "title": "风暴出现！极限高温南压广东等省，台风胚胎出现能缓解酷暑吗 #台风 #地球 #地理知识 #极端天气 #高温",
+      "publish_time": "2022-07-25T23:41:08+08:00",
+      "video_url": "https://www.douyin.com/video/7124335641906695427",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e33dcb084d594cf50c13d31b6f346314~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100657600&x-signature=yckzE7itPnXcaR2hSG0BA%2FMrabU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260729121843C709068D438B769E7719",
+      "like_count": 1151,
+      "comment_count": 150,
+      "share_count": 109,
+      "collect_count": 61,
+      "description": "风暴出现！极限高温南压广东等省，台风胚胎出现能缓解酷暑吗 #台风 #地球 #地理知识 #极端天气 #高温",
+      "text_hint": "风暴出现！极限高温南压广东等省，台风胚胎出现能缓解酷暑吗 #台风 #地球 #地理知识 #极端天气 #高温",
+      "topic_tags": [
+        "台风",
+        "地球",
+        "地理知识",
+        "极端天气",
+        "高温"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/e30e8bac1449163c8e6d91a0f8d419d1/6a69aa35/video/tos/cn/tos-cn-ve-0015c800/72f4a5db4de74dfda566887408f74515/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1967&bt=1967&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wmhSEHhd.Tl0P103-ApQX&mime_type=video_mp4&qs=0&rc=NThnNGhoZGU7NTQ4OGg2NkBpM3BwZTg6ZjhlZTMzNGkzM0BeYl5eLmJfNTUxYy4zMi0uYSNebGNucjQwZ2NgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100D_102u_100o&dy_q=1785298723&l=20260729121843C709068D438B769E7719",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 226.347,
+      "raw_payload": {
+        "aweme_id": "7124335641906695427",
+        "author_uid": "12655979158",
+        "sec_uid": "MS4wLjABAAAA7vfibih-Yt8TM0ynKG6pMp2h-f_zuozPnOFywR8O9IU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7vfibih-Yt8TM0ynKG6pMp2h-f_zuozPnOFywR8O9IU"
+      }
+    },
+    "first_seen_at": "2026-07-29T12:17:59+08:00",
+    "last_seen_at": "2026-07-29T12:17:59+08:00",
+    "fetch_runs": [
+      "2026-07-29"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "The read operation timed out"
+  },
+  "7096490923395124488": {
+    "video_id": "7096490923395124488",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "🐲龍🐲哥🐲",
+      "video_id": "7096490923395124488",
+      "title": "#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍",
+      "publish_time": "2022-05-11T22:49:12+08:00",
+      "video_url": "https://www.douyin.com/video/7096490923395124488",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/aeaf5700e55d5f1451de76508cfa1d68~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100657600&x-signature=ftogiB9IwG2IV%2FSFFbry%2B9kRbhU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026072912184621E279B01B507C74C553",
+      "like_count": 59,
+      "comment_count": 6,
+      "share_count": 18,
+      "collect_count": 7,
+      "description": "#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍",
+      "text_hint": "#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍",
+      "topic_tags": [
+        "诸城市贾悦镇",
+        "诸城村名由来"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d8d9ae5e5dd8dd217996a4730fc26f72/6a69aab1/video/tos/cn/tos-cn-ve-0015c800/ca0b8a59e8964a3bbd58b43154dec88f/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1545&bt=1545&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wWhSEHhd.Tl0P103-ApQX&mime_type=video_mp4&qs=0&rc=ZGg7ZWU6ODlnNzVmNjo2N0BpamRxOmc6Zjx2PDMzNGkzM0AyYi9fLmIyXzYxMWMyY19eYSNeam5rcjRfYXFgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_102u_100o_100w&dy_q=1785298726&l=2026072912184621E279B01B507C74C553",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7096490923395124488.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7096490923395124488.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 347.859,
+      "raw_payload": {
+        "aweme_id": "7096490923395124488",
+        "author_uid": "108260953439",
+        "sec_uid": "MS4wLjABAAAAb5oFiIIEpptW1EmhZnGcn9Zu5tMvfmUboVab45QKwBY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAb5oFiIIEpptW1EmhZnGcn9Zu5tMvfmUboVab45QKwBY"
+      }
+    },
+    "first_seen_at": "2026-07-29T12:17:59+08:00",
+    "last_seen_at": "2026-07-29T12:17:59+08:00",
+    "fetch_runs": [
+      "2026-07-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7096490923395124488.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7096490923395124488.mp3",
+      "source": "download",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7096490923395124488",
+      "transcript_raw": "#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍补充信息：#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍关键词：诸城市贾悦镇、诸城村名由来",
+      "transcript_clean": "#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍补充信息：#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍关键词：诸城市贾悦镇、诸城村名由来",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-29/7096490923395124488.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7096490923395124488",
+      "summary": "🐲龍🐲哥🐲围绕“诸城市贾悦镇”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍。#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍补充信息：#诸城市贾悦镇 #诸城村名由来 @传说诸城—超哥航拍关键词：诸城市贾悦镇、诸城村名由来 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "诸城市贾悦镇为什么总是做不出来结果？",
+        "先把诸城村名由来想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕诸城市贾悦镇组织标题与开头。",
+        "用诸城村名由来和#诸城村名由来补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "诸城市贾悦镇",
+        "诸城村名由来",
+        "#诸城村名由来"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-29/7096490923395124488.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "last_error": null
+  },
+  "7142323116482563365": {
+    "video_id": "7142323116482563365",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7142323116482563365",
+      "title": "#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过",
+      "publish_time": "2022-09-12T03:01:00+08:00",
+      "video_url": "https://www.douyin.com/video/7142323116482563365",
+      "cover_url": "",
+      "like_count": 3121,
+      "comment_count": 240,
+      "share_count": 116,
+      "collect_count": 43,
+      "description": "#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过",
+      "text_hint": "#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过",
+      "topic_tags": [
+        "徒步旅行",
+        "河南二龙徒步西藏",
+        "穷游",
+        "记录真实生活",
+        "一直在路上从未停止过"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/b48abae760bcf0b54242872f7f8a2afb/6a69aa41/video/tos/cn/tos-cn-ve-0015c800/1ee267816afe47b38dbe6919ce0ef32e/?a=6383&br=2003&bt=2003&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1785298743&ft=CZdgCYlIDyjNb~VQ9wJhSEHhd.Tl0P103-ApQX&is_ssr=1&l=20260729121903F910EFC70E3EE966FD6F&lr=all&mime_type=video_mp4&qs=0&rc=ODg4NGU3ODs7Njs5aTU7N0BpMzU7d2c6Zjg8ZjMzNGkzM0A1NTAvLWMuNWIxYS8wXzAzYSNgczZxcjRnbWNgLS1kLS9zcw%3D%3D&__vid=7142323116482563365",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7142323116482563365.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7142323116482563365.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7142323116482563365",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-29T12:17:59+08:00",
+    "last_seen_at": "2026-07-29T12:17:59+08:00",
+    "fetch_runs": [
+      "2026-07-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7142323116482563365.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7142323116482563365.mp3",
+      "source": "download",
+      "processed_at": "2026-07-29T12:25:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7142323116482563365",
+      "transcript_raw": "#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过补充信息：#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过关键词：徒步旅行、河南二龙徒步西藏、穷游、记录真实生活、一直在路上从未停止过",
+      "transcript_clean": "#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过补充信息：#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过关键词：徒步旅行、河南二龙徒步西藏、穷游、记录真实生活、一直在路上从未停止过",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-29/7142323116482563365.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7142323116482563365",
+      "summary": "知雪围绕“徒步旅行”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过。#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过补充信息：#徒步旅行 #河南二龙徒步西藏 #穷游 #记录真实生活 #一直在路上从未停止过关键词：徒步旅行、河南二龙徒步西藏、穷游、记录真实生活、一直在路上从未停止过 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "徒步旅行为什么总是做不出来结果？",
+        "先把河南二龙徒步西藏想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕徒步旅行组织标题与开头。",
+        "用河南二龙徒步西藏和穷游补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "徒步旅行",
+        "河南二龙徒步西藏",
+        "穷游"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-29/7142323116482563365.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "last_error": null
+  },
+  "7487842839351659786": {
+    "video_id": "7487842839351659786",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "DOLLA & MOM",
+      "video_id": "7487842839351659786",
+      "title": "舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院",
+      "publish_time": "2025-03-31T13:35:04+08:00",
+      "video_url": "https://www.douyin.com/video/7487842839351659786",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oYIUQAAA9UV6AXDnVFHffbhAEk3ACEAgCUigC9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100657600&x-signature=D%2F9qiKumYMeKw9UCs1dab0lJO%2BE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260729121911F0647F74CDA3CE9354C0",
+      "like_count": 73,
+      "comment_count": 23,
+      "share_count": 15,
+      "collect_count": 1,
+      "description": "舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院",
+      "text_hint": "舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院",
+      "topic_tags": [
+        "达人秀",
+        "竹溪中学",
+        "美国伯克利音乐学院"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/485edaf7aadd96ce56b72b372ebc51de/6a69aa5b/video/tos/cn/tos-cn-ve-0015c800/o4ARqFeZh6hxDKRE9fMBipA1gCELA7QEin1hIV/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2360&bt=2360&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wGhSEHhd.Tl0P103-ApQX&mime_type=video_mp4&qs=0&rc=ZjU3M2RpNzY8Zjo7ZWU8NkBpajU2PHQ5cnA1eTMzNGkzM0BgYTUyLzIzXjQxL2FhMjZjYSNecWZsMmRjZGlgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1785298751&feature_id=fea919893f650a8c49286568590446ef&l=20260729121911F0647F74CDA3CE9354C0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7487842839351659786.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7487842839351659786.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 236.89,
+      "raw_payload": {
+        "aweme_id": "7487842839351659786",
+        "author_uid": "97852025262",
+        "sec_uid": "MS4wLjABAAAAcqci0Ch-7Fz_8Lsp2BR2L4NPdCugDmCQKgCRsIQRsm0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAcqci0Ch-7Fz_8Lsp2BR2L4NPdCugDmCQKgCRsIQRsm0"
+      }
+    },
+    "first_seen_at": "2026-07-29T12:17:59+08:00",
+    "last_seen_at": "2026-07-29T12:17:59+08:00",
+    "fetch_runs": [
+      "2026-07-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7487842839351659786.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7487842839351659786.mp3",
+      "source": "download",
+      "processed_at": "2026-07-29T12:21:16+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7487842839351659786",
+      "transcript_raw": "舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院补充信息：舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院关键词：达人秀、竹溪中学、美国伯克利音乐学院",
+      "transcript_clean": "舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院补充信息：舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院关键词：达人秀、竹溪中学、美国伯克利音乐学院",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-29/7487842839351659786.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7487842839351659786",
+      "summary": "DOLLA & MOM围绕“达人秀”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院。舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院补充信息：舵儿小朋友的第三首原创歌曲，也是为竹溪中学达人秀写的主题曲《达人之光》，感恩竹溪中学的鼎力相助，感恩李校长，感恩紫玲老师林老师……#达人秀#竹溪中学#美国伯克利音乐学院关键词：达人秀、竹溪中学、美国伯克利音乐学院 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "达人秀为什么总是做不出来结果？",
+        "先把竹溪中学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕达人秀组织标题与开头。",
+        "用竹溪中学和美国伯克利音乐学院补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "达人秀",
+        "竹溪中学",
+        "美国伯克利音乐学院"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-29/7487842839351659786.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "last_error": null
+  },
+  "7562014497922846004": {
+    "video_id": "7562014497922846004",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "静姐祛班（养肤中）",
+      "video_id": "7562014497922846004",
+      "title": "5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑",
+      "publish_time": "2025-10-17T10:38:29+08:00",
+      "video_url": "https://www.douyin.com/video/7562014497922846004",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/efbcda6e74b74273a20a1bd27de972fd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100657600&x-signature=bC7suqXdtsyW3moc%2BYYFDk%2BN248%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607291219140EAA4EF2D2BD4074E729",
+      "like_count": 191,
+      "comment_count": 95,
+      "share_count": 40,
+      "collect_count": 39,
+      "description": "5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑",
+      "text_hint": "5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑",
+      "topic_tags": [
+        "内容太过真实",
+        "淡斑护肤",
+        "养肤",
+        "美白淡斑",
+        "祛斑"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fd26da5732ee567f5f6381b982b7c3a0/6a69aa48/video/tos/cn/tos-cn-ve-15/o0UfCeomGBfRL9RBF8Ig1xgo4CaRwEbAt77DVA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1421&bt=1421&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wwDSEHhd.Tl0P103-ApQX&mime_type=video_mp4&qs=0&rc=N2Q1O2c5ZTM5OTU6Zjg5OkBpanRrNXU5cjt0NjMzNGkzM0BhYDYyYGEvNWExMjAwMmE0YSMtYWBiMmRraWxhLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100x_100z&dy_q=1785298754&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202607291219140EAA4EF2D2BD4074E729",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7562014497922846004.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7562014497922846004.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 214.634,
+      "raw_payload": {
+        "aweme_id": "7562014497922846004",
+        "author_uid": "1168134272726009",
+        "sec_uid": "MS4wLjABAAAAWZhsEC2Q99w8doiWY-lRJlmga0lR_Bo9lRN15idtuE8qFMTH1HGhGMDiEGV6gjp0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWZhsEC2Q99w8doiWY-lRJlmga0lR_Bo9lRN15idtuE8qFMTH1HGhGMDiEGV6gjp0"
+      }
+    },
+    "first_seen_at": "2026-07-29T12:17:59+08:00",
+    "last_seen_at": "2026-07-29T12:17:59+08:00",
+    "fetch_runs": [
+      "2026-07-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7562014497922846004.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7562014497922846004.mp3",
+      "source": "download",
+      "processed_at": "2026-07-29T12:20:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7562014497922846004",
+      "transcript_raw": "5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑补充信息：5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑关键词：内容太过真实、淡斑护肤、养肤、美白淡斑、祛斑",
+      "transcript_clean": "5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑补充信息：5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑关键词：内容太过真实、淡斑护肤、养肤、美白淡斑、祛斑",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-29/7562014497922846004.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7562014497922846004",
+      "summary": "静姐祛班（养肤中）围绕“内容太过真实”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑。5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑补充信息：5毛钱开塞露，给你解决皮肤上所有问题，你信不信？#内容太过真实 #淡斑护肤 #养肤#祛斑#美白淡斑关键词：内容太过真实、淡斑护肤、养肤、美白淡斑、祛斑 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "内容太过真实为什么总是做不出来结果？",
+        "先把淡斑护肤想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕内容太过真实组织标题与开头。",
+        "用淡斑护肤和养肤补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "内容太过真实",
+        "淡斑护肤",
+        "养肤"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-29/7562014497922846004.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "last_error": null
+  },
+  "7454526275307212047": {
+    "video_id": "7454526275307212047",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7454526275307212047",
+      "title": "2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界",
+      "publish_time": "2024-12-31T10:52:00+08:00",
+      "video_url": "https://www.douyin.com/video/7454526275307212047",
+      "cover_url": "",
+      "like_count": 2919,
+      "comment_count": 40,
+      "share_count": 1006,
+      "collect_count": 35,
+      "description": "2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界",
+      "text_hint": "2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界",
+      "topic_tags": [
+        "天刀赛季版重生归来",
+        "天刀重生",
+        "天涯明月刀手游",
+        "手机游戏",
+        "诛仙世界"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/711c2dfef36f1cb2f4e2353f16fa9f65/6a69aa6c/video/tos/cn/tos-cn-ve-15/oAAeLTIgD0AFhE8z9y9BocfGIqDwABwE7Q6nCz/?a=6383&br=1679&bt=1679&btag=c0000e00028000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100H_100K&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1785298770&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNb~VQ9wfDSEHhd.Tl0P103-ApQX&is_ssr=1&l=202607291219299A1A6ACB457E9F88413B&lr=all&mime_type=video_mp4&qs=1&rc=Ojo5aDU0OTw5OmQ7Z2g7aUBpajR1am45cjd2dzMzNGkzM0BiLWEuYzUzXi0xNWFiY182YSNkam8tMmRzaW1gLS1kLTBzcw%3D%3D&req_cdn_type=&__vid=7454526275307212047",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7454526275307212047.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7454526275307212047.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7454526275307212047",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-07-29T12:17:59+08:00",
+    "last_seen_at": "2026-07-29T12:17:59+08:00",
+    "fetch_runs": [
+      "2026-07-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7454526275307212047.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-29/7454526275307212047.mp3",
+      "source": "download",
+      "processed_at": "2026-07-29T12:21:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7454526275307212047",
+      "transcript_raw": "2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界补充信息：2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界关键词：天刀赛季版重生归来、天刀重生、天涯明月刀手游、手机游戏、诛仙世界",
+      "transcript_clean": "2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界补充信息：2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界关键词：天刀赛季版重生归来、天刀重生、天涯明月刀手游、手机游戏、诛仙世界",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-29/7454526275307212047.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7454526275307212047",
+      "summary": "知雪围绕“天刀赛季版重生归来”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界。2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界补充信息：2024年12月游戏圈都有哪些离谱事件？ #天刀赛季版重生归来 #天刀重生 #天涯明月刀手游 #手机游戏 #诛仙世界关键词：天刀赛季版重生归来、天刀重生、天涯明月刀手游、手机游戏、诛仙世界 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "天刀赛季版重生归来为什么总是做不出来结果？",
+        "先把天刀重生想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕天刀赛季版重生归来组织标题与开头。",
+        "用天刀重生和天涯明月刀手游补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "天刀赛季版重生归来",
+        "天刀重生",
+        "天涯明月刀手游"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-29/7454526275307212047.json",
+      "processed_at": "2026-07-29T12:30:41+08:00"
+    },
+    "last_error": null
   }
 }
