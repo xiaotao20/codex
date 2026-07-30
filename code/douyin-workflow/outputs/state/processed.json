@@ -20226,5 +20226,336 @@
       "processed_at": "2026-07-29T12:30:41+08:00"
     },
     "last_error": null
+  },
+  "7648607953578218981": {
+    "video_id": "7648607953578218981",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "Ayrus Designer🪡",
+      "video_id": "7648607953578218981",
+      "title": "我们一直在催的系列来啦～今天做的是蓝色艾德莱斯礼服💙#抖音时尚设计师大赛 #艾德莱斯 #服装设计师的日常 #穿搭界最严厉的老师来了#AyrusDesigner",
+      "publish_time": "2026-06-07T19:05:13+08:00",
+      "video_url": "https://www.douyin.com/video/7648607953578218981",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/013c79c150f3007b007cd6ab5dfd63dd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100744000&x-signature=sT1dAO0B5xiAMaVgpHOGyq8Z7Oo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260730121109EC0054710B13C536A14A",
+      "like_count": 5399,
+      "comment_count": 88,
+      "share_count": 992,
+      "collect_count": 820,
+      "description": "我们一直在催的系列来啦～今天做的是蓝色艾德莱斯礼服💙#抖音时尚设计师大赛 #艾德莱斯 #服装设计师的日常 #穿搭界最严厉的老师来了#AyrusDesigner",
+      "text_hint": "我们一直在催的系列来啦～今天做的是蓝色艾德莱斯礼服💙#抖音时尚设计师大赛 #艾德莱斯 #服装设计师的日常 #穿搭界最严厉的老师来了#AyrusDesigner",
+      "topic_tags": [
+        "抖音时尚设计师大赛",
+        "艾德莱斯",
+        "服装设计师的日常",
+        "穿搭界最严厉的老师来了",
+        "ayrusdesigner",
+        "AyrusDesigner"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/0e1bfdc0a74a3435f8fd517137c04058/6a6af963/video/tos/cn/tos-cn-ve-15c000-ce/oYnBGUDhic1QEliw1jdA4uqfWgweBqAEmIEUKd/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1936&bt=1936&cs=0&ds=4&ft=zMj_86mow8cRoTsd1b_pKJTrjApc8A6VvrKhI7VL2o0g3cI&mime_type=video_mp4&qs=0&rc=Ojg5aGg3NTtmO2Y1aGRnOEBpM3c0NWo5cm9vOzMzbGkzNUBgNV9gMTFhNjIxLzNgLl5iYSMwbmtfMmRjLWZhLS1kLTRzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1785384669&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260730121109EC0054710B13C536A14A",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 86.8,
+      "raw_payload": {
+        "aweme_id": "7648607953578218981",
+        "author_uid": "3002111983093984",
+        "sec_uid": "MS4wLjABAAAAZ-AjX71m6kwVhFV0HvikjaidNMQ3Mu4MNYTAYD1FD8JYRiG9W7VfcxyI-N23iPTo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAZ-AjX71m6kwVhFV0HvikjaidNMQ3Mu4MNYTAYD1FD8JYRiG9W7VfcxyI-N23iPTo"
+      }
+    },
+    "first_seen_at": "2026-07-30T12:10:50+08:00",
+    "last_seen_at": "2026-07-30T12:10:50+08:00",
+    "fetch_runs": [
+      "2026-07-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7380005001470463268": {
+    "video_id": "7380005001470463268",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "卫国者",
+      "video_id": "7380005001470463268",
+      "title": "探访新疆沙漠公路守井人真实生活，陕西大叔守井6年，月薪才4000",
+      "publish_time": "2024-06-13T23:09:04+08:00",
+      "video_url": "https://www.douyin.com/video/7380005001470463268",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5334c7776538938f92f4a0aa92c9fbff~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100744000&x-signature=1E9ni%2FySz6Oiaj1AO48WGupOYwc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607301211123B8115DC4AD22F2A60B3",
+      "like_count": 5213,
+      "comment_count": 201,
+      "share_count": 185,
+      "collect_count": 303,
+      "description": "探访新疆沙漠公路守井人真实生活，陕西大叔守井6年，月薪才4000",
+      "text_hint": "探访新疆沙漠公路守井人真实生活，陕西大叔守井6年，月薪才4000",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/2e9b1f7fe3c97dd853bcc67afaee60dc/6a6af9f0/video/tos/cn/tos-cn-ve-15/oAsAaRiNHIBoI2QAXWagfOi9zrEqe2FADSbYDB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=673&bt=673&cs=0&ds=4&ft=zMj_86mow8cRoTsd1b_pKJTrjApW8A6VvrKhI7VL2o0g3cI&mime_type=video_mp4&qs=0&rc=ZjNnNTllNTU3aTVlZGQzM0BpMzpvbXA5cjdqczMzNGkzM0BeXl8vM2BhXjMxYzVeNC8uYSNfaGRyMmRja2lgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100D_100J_100o_100w_100B&dy_q=1785384672&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607301211123B8115DC4AD22F2A60B3",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 224.096,
+      "raw_payload": {
+        "aweme_id": "7380005001470463268",
+        "author_uid": "932001917445704",
+        "sec_uid": "MS4wLjABAAAA932ty7cK5JNX9awnn1n4Lz4hB7NWqvuJXrfMDYEYQo8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA932ty7cK5JNX9awnn1n4Lz4hB7NWqvuJXrfMDYEYQo8"
+      }
+    },
+    "first_seen_at": "2026-07-30T12:10:50+08:00",
+    "last_seen_at": "2026-07-30T12:10:50+08:00",
+    "fetch_runs": [
+      "2026-07-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7373243627633478951": {
+    "video_id": "7373243627633478951",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "东海看风景",
+      "video_id": "7373243627633478951",
+      "title": "从没遇到过的情况，回程路上突遇险情 #防御性驾驶 #交通事故 #夜间行车 #汽车安全",
+      "publish_time": "2024-05-26T17:51:27+08:00",
+      "video_url": "https://www.douyin.com/video/7373243627633478951",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3cbb0b2c74a904e0c4651b8c6392abc9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100744000&x-signature=jLGUI9%2B3IZXtGdkQeI8VlBPrTNI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607301211150C3CC1D36447152AD00A",
+      "like_count": 221,
+      "comment_count": 71,
+      "share_count": 28,
+      "collect_count": 8,
+      "description": "从没遇到过的情况，回程路上突遇险情 #防御性驾驶 #交通事故 #夜间行车 #汽车安全",
+      "text_hint": "从没遇到过的情况，回程路上突遇险情 #防御性驾驶 #交通事故 #夜间行车 #汽车安全",
+      "topic_tags": [
+        "防御性驾驶",
+        "交通事故",
+        "夜间行车",
+        "汽车安全"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/602dc77cd6223f4d720f8be832d7f15f/6a6afa55/video/tos/cn/tos-cn-ve-0015c800/ocMKBf6PAiADEiJvkRzgiByUIMeYAV21pAuyxE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2900&bt=2900&cs=0&ds=4&ft=zMj_86mow8cRoTsd1b_pKJTrjApu8A6VvrKhI7VL2o0g3cI&mime_type=video_mp4&qs=0&rc=ZzQ1ZDQ1aTs8Njo2OjdkZ0Bpamk6ZnQ5cjpqczMzNGkzM0AyNl4wYDI2X2ExXjRhM2FhYSNuYWpmMmRzYDZgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100D_100J_100o&dy_q=1785384675&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607301211150C3CC1D36447152AD00A",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 322.934,
+      "raw_payload": {
+        "aweme_id": "7373243627633478951",
+        "author_uid": "97034627125",
+        "sec_uid": "MS4wLjABAAAA0-5LGjJNb631B9vdYgjkXMsps5EuFvjL7AqZX52YXUs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA0-5LGjJNb631B9vdYgjkXMsps5EuFvjL7AqZX52YXUs"
+      }
+    },
+    "first_seen_at": "2026-07-30T12:10:50+08:00",
+    "last_seen_at": "2026-07-30T12:10:50+08:00",
+    "fetch_runs": [
+      "2026-07-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7535088959694458122": {
+    "video_id": "7535088959694458122",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7535088959694458122",
+      "title": "东风风神L60专车专用激光LED大灯灯泡，超亮LED大灯灯泡，5分钟一镜到底升级激光Led大灯过程，无损安装，立竿见影，效果明显。#风神L60 #汽车led大灯 #led车灯 #车灯升级 #激光大灯",
+      "publish_time": "2025-08-05T13:13:00+08:00",
+      "video_url": "https://www.douyin.com/video/7535088959694458122",
+      "cover_url": "",
+      "like_count": 8,
+      "comment_count": 6,
+      "share_count": 5,
+      "collect_count": 1,
+      "description": "东风风神L60专车专用激光LED大灯灯泡，超亮LED大灯灯泡，5分钟一镜到底升级激光Led大灯过程，无损安装，立竿见影，效果明显。#风神L60 #汽车led大灯 #led车灯 #车灯升级 #激光大灯",
+      "text_hint": "东风风神L60专车专用激光LED大灯灯泡，超亮LED大灯灯泡，5分钟一镜到底升级激光Led大灯过程，无损安装，立竿见影，效果明显。#风神L60 #汽车led大灯 #led车灯 #车灯升级 #激光大灯",
+      "topic_tags": [
+        "风神L60",
+        "汽车led大灯",
+        "led车灯",
+        "车灯升级",
+        "激光大灯"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/402c0c56-fa60-4905-8068-030ebbe4e683",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7535088959694458122",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-30T12:10:50+08:00",
+    "last_seen_at": "2026-07-30T12:10:50+08:00",
+    "fetch_runs": [
+      "2026-07-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7383995647973723411": {
+    "video_id": "7383995647973723411",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "篮球科学",
+      "video_id": "7383995647973723411",
+      "title": "中投一直不稳定？几个训练解决！ #投篮教学 #中投 #投篮发力",
+      "publish_time": "2024-06-24T17:14:28+08:00",
+      "video_url": "https://www.douyin.com/video/7383995647973723411",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e27f1da087405bbf9431fa1dd19eae4b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100744000&x-signature=rn6A4auy7Cwb5nIpq40nWea33xw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260730121139945452DD3E2A00083DA6",
+      "like_count": 1451,
+      "comment_count": 16,
+      "share_count": 165,
+      "collect_count": 931,
+      "description": "中投一直不稳定？几个训练解决！ #投篮教学 #中投 #投篮发力",
+      "text_hint": "中投一直不稳定？几个训练解决！ #投篮教学 #中投 #投篮发力",
+      "topic_tags": [
+        "投篮教学",
+        "中投",
+        "投篮发力"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/4e90b2bed8aab0d85521be2d8f2d1a3b/6a6afa3e/video/tos/cn/tos-cn-ve-15/og8l2NkKZgI0DGCsQE5LeXeIR4GDoXAbbAefsI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1814&bt=1814&cs=0&ds=4&ft=zMj_86mow8cRoTsd1b_pKJTrjApq8A6VvrKhI7VL2o0g3cI&mime_type=video_mp4&qs=0&rc=Zzw7Ozg6aDk4OWRmaTo0PEBpanlyM3U5cm1tczMzNGkzM0A0NWM2YTYyNV8xMTIvMC1eYSMxYWUyMmRjY3BgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1785384699&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260730121139945452DD3E2A00083DA6",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 275.573,
+      "raw_payload": {
+        "aweme_id": "7383995647973723411",
+        "author_uid": "1447432828225149",
+        "sec_uid": "MS4wLjABAAAAEz1umzekx90Nyor03N4tgR6SmL87LhmVCEVu20KiH7WYj0LgXeveBJ3QuFeCGebp",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAEz1umzekx90Nyor03N4tgR6SmL87LhmVCEVu20KiH7WYj0LgXeveBJ3QuFeCGebp"
+      }
+    },
+    "first_seen_at": "2026-07-30T12:10:50+08:00",
+    "last_seen_at": "2026-07-30T12:10:50+08:00",
+    "fetch_runs": [
+      "2026-07-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7569450761580913273": {
+    "video_id": "7569450761580913273",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "奇姐·妙学成长规划",
+      "video_id": "7569450761580913273",
+      "title": "初中想早睡，小学应该做什么？ #学习方法 #学霸秘籍 #学习规划 #学习",
+      "publish_time": "2025-11-06T11:34:57+08:00",
+      "video_url": "https://www.douyin.com/video/7569450761580913273",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/13e6e91347c53298e83a4284c16074d8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100744000&x-signature=kU0Fsu0B35fZAgWoLPaWEOZFvBA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026073012114234A23E411113E8FA0D0A",
+      "like_count": 1163,
+      "comment_count": 47,
+      "share_count": 253,
+      "collect_count": 1133,
+      "description": "初中想早睡，小学应该做什么？ #学习方法 #学霸秘籍 #学习规划 #学习",
+      "text_hint": "初中想早睡，小学应该做什么？ #学习方法 #学霸秘籍 #学习规划 #学习",
+      "topic_tags": [
+        "学习方法",
+        "学霸秘籍",
+        "学习规划",
+        "学习"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/858cb1382fa8bd91be191aa13dd03e45/6a6afac3/video/tos/cn/tos-cn-ve-15c000-ce/oMa5VRPDYIHP31EwQMOiZx5wBvLpINiMAYaAV/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1568&bt=1568&cs=0&ds=4&ft=zMj_86mow8cRoTsd1b_pKJTrjAp68A6VvrKhI7VL2o0g3cI&mime_type=video_mp4&qs=0&rc=OzZkOjw7ZmVnZmg5PDs0O0BpanE5am85cnM0NzMzbGkzNUAuNS4wNi1fX14xNTVjYzMzYSMyZ3MwMmRrXzNhLS1kLTRzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1785384702&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026073012114234A23E411113E8FA0D0A",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 405.977,
+      "raw_payload": {
+        "aweme_id": "7569450761580913273",
+        "author_uid": "3104660906318211",
+        "sec_uid": "MS4wLjABAAAAK8f_3bIpq4jvg2Ii0xDExCYWQXqb2_X-UP9dDPAIK7P2A3UZ-QZ3ZXJrGNnLB-c5",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAK8f_3bIpq4jvg2Ii0xDExCYWQXqb2_X-UP9dDPAIK7P2A3UZ-QZ3ZXJrGNnLB-c5"
+      }
+    },
+    "first_seen_at": "2026-07-30T12:10:50+08:00",
+    "last_seen_at": "2026-07-30T12:10:50+08:00",
+    "fetch_runs": [
+      "2026-07-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7496785178922798351": {
+    "video_id": "7496785178922798351",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7496785178922798351",
+      "title": "叫同事来家里吃水洛馍，还是老婆想的周到又做了一锅小鸡贴饼招待#出租屋的生活 #外卖小哥",
+      "publish_time": "2025-04-24T07:55:00+08:00",
+      "video_url": "https://www.douyin.com/video/7496785178922798351",
+      "cover_url": "",
+      "like_count": 52000,
+      "comment_count": 2926,
+      "share_count": 12000,
+      "collect_count": 16000,
+      "description": "叫同事来家里吃水洛馍，还是老婆想的周到又做了一锅小鸡贴饼招待#出租屋的生活 #外卖小哥",
+      "text_hint": "叫同事来家里吃水洛馍，还是老婆想的周到又做了一锅小鸡贴饼招待#出租屋的生活 #外卖小哥",
+      "topic_tags": [
+        "出租屋的生活",
+        "外卖小哥"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/1f202f6097c18f36f07547b823d5ffa3/6a6afa1b/video/tos/cn/tos-cn-ve-15c001-alinc2/ocfvVjUABgCEkkAKp3D6EQI0EQ22fN74eFwBIv/?a=6383&br=1008&bt=1008&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1785384718&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=zMj_86mow8cRoTsd1b_pKJTrjApXvA6VvrKhI7VL2o0g3cI&is_ssr=1&l=202607301211583E0038A2610E33ED60AF&lr=all&mime_type=video_mp4&qs=12&rc=PGdnOzU0O2dpNTlkOTc0ZUBpM3d5b245cjh4MzMzNGkzM0AvMzQuNF8vXzQxNWEwMF4zYSNgMXJmMmQ0bzFhLS1kLS9zcw%3D%3D&__vid=7496785178922798351",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7496785178922798351",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-30T12:10:50+08:00",
+    "last_seen_at": "2026-07-30T12:10:50+08:00",
+    "fetch_runs": [
+      "2026-07-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
   }
 }
