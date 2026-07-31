@@ -20557,5 +20557,633 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7668472483103836582": {
+    "video_id": "7668472483103836582",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "平平要努力",
+      "video_id": "7668472483103836582",
+      "title": "小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语",
+      "publish_time": "2026-07-31T07:49:44+08:00",
+      "video_url": "https://www.douyin.com/video/7668472483103836582",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oYfi4fKNaCAiEcwEAI2AyAAVOcGgxqHOBA9riB~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100830400&x-signature=zLkR4xS%2BJClpcSRJV8xW89Tt%2BCE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260731122837A3D8D314C2B3A2BDEB6A",
+      "like_count": 2,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语",
+      "text_hint": "小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语",
+      "topic_tags": [
+        "自然拼读",
+        "巧记单词",
+        "英语启蒙",
+        "零基础英语"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/77125f047f6faa4d6bf3cd01fd6b2edc/6a6c4ecc/video/tos/cn/tos-cn-ve-15/oYCcAxL1eLLSfB8gQUIG5neoIrC9AKraBaXxJ7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1934&bt=1934&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wyvxAHhd.aUNYf03-ApQX&mime_type=video_mp4&qs=0&rc=NTk3NDdnPDNoPDc0Z2ZkNEBpMzhwdXg5cnB4PDMzNGkzM0BiX2NgNGBfXmMxNi4zYTYxYSNuNl5jMmQ0L2lhLS1kLWFzcw%3D%3D&btag=c0000e00018000&cquery=100o_100w_100B_100x_100z&dy_q=1785472117&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260731122837A3D8D314C2B3A2BDEB6A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7668472483103836582.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7668472483103836582.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 39.534,
+      "raw_payload": {
+        "aweme_id": "7668472483103836582",
+        "author_uid": "2550502167425736",
+        "sec_uid": "MS4wLjABAAAAXZeXXQhFvZFI1Mzam-P5YiC3vVuqxgjmT-HyRZ_9L1xGesRQUqV8xAfQlvbGWpKg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAXZeXXQhFvZFI1Mzam-P5YiC3vVuqxgjmT-HyRZ_9L1xGesRQUqV8xAfQlvbGWpKg"
+      }
+    },
+    "first_seen_at": "2026-07-31T12:28:15+08:00",
+    "last_seen_at": "2026-07-31T12:28:15+08:00",
+    "fetch_runs": [
+      "2026-07-31"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7668472483103836582.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7668472483103836582.mp3",
+      "source": "download",
+      "processed_at": "2026-07-31T12:29:41+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7668472483103836582",
+      "transcript_raw": "小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语补充信息：小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语关键词：自然拼读、巧记单词、英语启蒙、零基础英语",
+      "transcript_clean": "小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语补充信息：小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语关键词：自然拼读、巧记单词、英语启蒙、零基础英语",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-31/7668472483103836582.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7668472483103836582",
+      "summary": "平平要努力围绕“自然拼读”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语。小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语补充信息：小学生学会自然拼读  记忆英语单词轻松不费力 小孩子英语启蒙推荐学习自然拼读 从字母发音组合巧记单词 学会字母组合就学会了一长串英语单词#自然拼读 #巧记单词#英语启蒙#零基础英语关键词：自然拼读、巧记单词、英语启蒙、零基础英语 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "自然拼读为什么总是做不出来结果？",
+        "先把巧记单词想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕自然拼读组织标题与开头。",
+        "用巧记单词和英语启蒙补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "自然拼读",
+        "巧记单词",
+        "英语启蒙"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-31/7668472483103836582.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "last_error": null
+  },
+  "7575896193553829139": {
+    "video_id": "7575896193553829139",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "彼岸电竞（无畏契约）",
+      "video_id": "7575896193553829139",
+      "title": "恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ",
+      "publish_time": "2025-11-23T20:26:46+08:00",
+      "video_url": "https://www.douyin.com/video/7575896193553829139",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b41dddefe8be2b1b622326c6efa99375~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100830400&x-signature=W9vU898PYBXX%2BMW42TYgG9gg1yM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607311228401070D379C521C07C516C",
+      "like_count": 174,
+      "comment_count": 4,
+      "share_count": 11,
+      "collect_count": 5,
+      "description": "恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ",
+      "text_hint": "恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ",
+      "topic_tags": [
+        "无畏契约",
+        "无畏契约赛事",
+        "无畏契约全国大赛",
+        "AQ"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a7a2e5556eb0101b26feebf7cdf45a6c/6a6c4eee/video/tos/cn/tos-cn-ve-15/ooMGsithICpARfLAkkyA7efeSkr2EXDiLgCc6M/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1005&bt=1005&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wbvxAHhd.aUNYf03-ApQX&mime_type=video_mp4&qs=0&rc=OTNmZ2ZnZzgzOmhkNDhoaUBpamZ1ZXQ5cjVpNzMzNGkzM0BjNjI0Ll4xNmMxYGMtNS1gYSNpM2luMmRzbWVhLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100H_100K&dy_q=1785472120&feature_id=fea919893f650a8c49286568590446ef&l=202607311228401070D379C521C07C516C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7575896193553829139.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7575896193553829139.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 70.287,
+      "raw_payload": {
+        "aweme_id": "7575896193553829139",
+        "author_uid": "1489197699709332",
+        "sec_uid": "MS4wLjABAAAAcXdIYnwDvIEqaCyh-kY9C1w0R7I6ZlPXlLn7dKN1VczsIkhZZxXvb8lFmYiWZUrq",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAcXdIYnwDvIEqaCyh-kY9C1w0R7I6ZlPXlLn7dKN1VczsIkhZZxXvb8lFmYiWZUrq"
+      }
+    },
+    "first_seen_at": "2026-07-31T12:28:15+08:00",
+    "last_seen_at": "2026-07-31T12:28:15+08:00",
+    "fetch_runs": [
+      "2026-07-31"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7575896193553829139.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7575896193553829139.mp3",
+      "source": "download",
+      "processed_at": "2026-07-31T12:29:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7575896193553829139",
+      "transcript_raw": "恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ补充信息：恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ关键词：无畏契约、无畏契约赛事、无畏契约全国大赛、AQ",
+      "transcript_clean": "恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ补充信息：恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ关键词：无畏契约、无畏契约赛事、无畏契约全国大赛、AQ",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-31/7575896193553829139.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7575896193553829139",
+      "summary": "彼岸电竞（无畏契约）围绕“无畏契约”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ。恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ补充信息：恭喜AQ拿下全国大赛专业赛道冠军，danny的夜露真有那味了 #无畏契约 #无畏契约赛事 #无畏契约全国大赛 #AQ关键词：无畏契约、无畏契约赛事、无畏契约全国大赛、AQ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "无畏契约为什么总是做不出来结果？",
+        "先把无畏契约赛事想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕无畏契约组织标题与开头。",
+        "用无畏契约赛事和无畏契约全国大赛补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "无畏契约",
+        "无畏契约赛事",
+        "无畏契约全国大赛"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-31/7575896193553829139.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "last_error": null
+  },
+  "7413758685933096244": {
+    "video_id": "7413758685933096244",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "尖椒榆木",
+      "video_id": "7413758685933096244",
+      "title": "获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友",
+      "publish_time": "2024-09-12T22:10:17+08:00",
+      "video_url": "https://www.douyin.com/video/7413758685933096244",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/10628e8d8d863d7655b70bfd31e41897~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100830400&x-signature=xopiOUcg8g3WRGXUf8IZyrjBB0k%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607311228430F5C9C5E8B5CDF955DE3",
+      "like_count": 96,
+      "comment_count": 44,
+      "share_count": 35,
+      "collect_count": 80,
+      "description": "获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友",
+      "text_hint": "获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友",
+      "topic_tags": [
+        "程序代码",
+        "python爬虫",
+        "男女朋友"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/ddf224ef0d4b8c2dfc5c397a697bee35/6a6c4f7c/video/cn/mps/realtime/v1/r/p/v0d00fg10000crhf8ivog65vcps2tk00/059c51e8bcd84cf7bf12cd3f9b904799/7e8b60b1ed23517f6833b023e9b59378/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=194&bt=194&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9w4vxAHhd.aUNYf03-ApQX&mime_type=video_mp4&qs=0&rc=PDozZWlnNWk6ZjtmOzRmOEBpM241c3k5cmxpdTMzNGkzM0A2MTY2MGAuX2MxYV9iMjYtYSMtcXBgMmRzNWVgLS1kLWFzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100w_100B_100x_100z_100o&definition=720p&dy_q=1785472123&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7413758685933096244&l=202607311228430F5C9C5E8B5CDF955DE3&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7413758685933096244.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7413758685933096244.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 210.063,
+      "raw_payload": {
+        "aweme_id": "7413758685933096244",
+        "author_uid": "61051482120",
+        "sec_uid": "MS4wLjABAAAA20_-sKe27K5zQHqyxzRYUvpBBwawenJxHETbSBzyh5E",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA20_-sKe27K5zQHqyxzRYUvpBBwawenJxHETbSBzyh5E"
+      }
+    },
+    "first_seen_at": "2026-07-31T12:28:15+08:00",
+    "last_seen_at": "2026-07-31T12:28:15+08:00",
+    "fetch_runs": [
+      "2026-07-31"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7413758685933096244.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7413758685933096244.mp3",
+      "source": "download",
+      "processed_at": "2026-07-31T12:30:57+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7413758685933096244",
+      "transcript_raw": "获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友补充信息：获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友关键词：程序代码、python爬虫、男女朋友",
+      "transcript_clean": "获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友补充信息：获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友关键词：程序代码、python爬虫、男女朋友",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-31/7413758685933096244.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7413758685933096244",
+      "summary": "尖椒榆木围绕“程序代码”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友。获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友补充信息：获取删除QQ空间说说和留言\n#程序代码 #python爬虫 #男女朋友关键词：程序代码、python爬虫、男女朋友 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "程序代码为什么总是做不出来结果？",
+        "先把python爬虫想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕程序代码组织标题与开头。",
+        "用python爬虫和男女朋友补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "程序代码",
+        "python爬虫",
+        "男女朋友"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-31/7413758685933096244.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "last_error": null
+  },
+  "7418505252749593867": {
+    "video_id": "7418505252749593867",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "税乎网税务知识分享",
+      "video_id": "7418505252749593867",
+      "title": "数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦",
+      "publish_time": "2024-09-25T17:09:21+08:00",
+      "video_url": "https://www.douyin.com/video/7418505252749593867",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/eeec9cbfce4a171535656f9f9e3da28d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100830400&x-signature=Y6%2F1YqnPIURI5zifkj802AvDxtk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026073112284653F8A7142208CCC37F1E",
+      "like_count": 65,
+      "comment_count": 0,
+      "share_count": 4,
+      "collect_count": 75,
+      "description": "数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦",
+      "text_hint": "数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/02d81091601d0ed3852a6ef5ec3ea26f/6a6c4fa2/video/cn/mps/realtime/v1/r/p/v0300fg10000crpt4lnog65pri14jl4g/0f6bc17e2a3a4183bea2be090c493644/2be3fe6171a043706bc673b05d5f1e89/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=306&bt=306&cs=0&ds=3&ft=InFJ3Y-5DyjNMRVQ9wEvxAHhd.aUNYf03-ApQX&mime_type=video_mp4&qs=0&rc=Nzk8ZjxoNWg2NGRkaDRlaUBpam83bHM5cm93dTMzNGkzM0AxMDEtLV9eXzUxMC80YDMtYSMxZy5vMmRrMW1gLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100H_100K_100o_100w_100B&definition=720p&dy_q=1785472126&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7418505252749593867&l=2026073112284653F8A7142208CCC37F1E&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7418505252749593867.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7418505252749593867.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 244.632,
+      "raw_payload": {
+        "aweme_id": "7418505252749593867",
+        "author_uid": "104595496774",
+        "sec_uid": "MS4wLjABAAAAu4f_1iuuy0mHVYkjBBALx1hYNfXt7YyqWFcODXR6I_w",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAu4f_1iuuy0mHVYkjBBALx1hYNfXt7YyqWFcODXR6I_w"
+      }
+    },
+    "first_seen_at": "2026-07-31T12:28:15+08:00",
+    "last_seen_at": "2026-07-31T12:28:15+08:00",
+    "fetch_runs": [
+      "2026-07-31"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7418505252749593867.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7418505252749593867.mp3",
+      "source": "download",
+      "processed_at": "2026-07-31T12:30:47+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7418505252749593867",
+      "transcript_raw": "数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦补充信息：数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦",
+      "transcript_clean": "数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦补充信息：数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-31/7418505252749593867.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7418505252749593867",
+      "summary": "税乎网税务知识分享围绕“数电票报销入账归档操作指南来啦”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦。数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦补充信息：数电票报销入账归档操作指南来啦 数电票报销入账归档操作指南来啦 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "数电票报销入账归档操作指南来啦为什么总是做不出来结果？",
+        "先把数电票报销入账归档操作指南来啦数电票报销入账归档操作指南来啦想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕数电票报销入账归档操作指南来啦组织标题与开头。",
+        "用数电票报销入账归档操作指南来啦数电票报销入账归档操作指南来啦和数电票报销入账归档操作指南来啦补充信息：数电票报销入账归档操作指南来啦补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "数电票报销入账归档操作指南来啦",
+        "数电票报销入账归档操作指南来啦数电票报销入账归档操作指南来啦",
+        "数电票报销入账归档操作指南来啦补充信息：数电票报销入账归档操作指南来啦"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-31/7418505252749593867.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "last_error": null
+  },
+  "7578871219064163634": {
+    "video_id": "7578871219064163634",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7578871219064163634",
+      "title": "立秋后一定要吃的十二道经典家常菜 #家常菜教程 #家常菜分享 #秋冬必吃",
+      "publish_time": "2025-12-01T12:51:00+08:00",
+      "video_url": "https://www.douyin.com/video/7578871219064163634",
+      "cover_url": "",
+      "like_count": 174,
+      "comment_count": 4,
+      "share_count": 139,
+      "collect_count": 34,
+      "description": "立秋后一定要吃的十二道经典家常菜 #家常菜教程 #家常菜分享 #秋冬必吃",
+      "text_hint": "立秋后一定要吃的十二道经典家常菜 #家常菜教程 #家常菜分享 #秋冬必吃",
+      "topic_tags": [
+        "家常菜教程",
+        "家常菜分享",
+        "秋冬必吃"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c97da877-73be-45e7-b641-cbc92ef66fd4",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7578871219064163634",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-31T12:28:15+08:00",
+    "last_seen_at": "2026-07-31T12:28:15+08:00",
+    "fetch_runs": [
+      "2026-07-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7212557537269288195": {
+    "video_id": "7212557537269288195",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "海鑫",
+      "video_id": "7212557537269288195",
+      "title": "堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看",
+      "publish_time": "2023-03-20T17:27:04+08:00",
+      "video_url": "https://www.douyin.com/video/7212557537269288195",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0026ddd6d02a16456f18ecebbf47c1b0~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100830400&x-signature=kwdhxvx5t9TtTpbpiviOLfoIP2I%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026073112291017AFE80F992BA4793A2C",
+      "like_count": 1710,
+      "comment_count": 103,
+      "share_count": 278,
+      "collect_count": 1387,
+      "description": "堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看",
+      "text_hint": "堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看",
+      "topic_tags": [
+        "瘦肚子",
+        "大肚腩变小蛮腰",
+        "马甲线",
+        "居家锻炼",
+        "变美变瘦变好看"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/cfe406071e79ac5207f0d6fced3ed73e/6a6c507c/video/tos/cn/tos-cn-ve-15c001-alinc2/ooPYiQ7VyUAbPxSYBAfhgKzLADAe8jTUIKNCDB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1108&bt=1108&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wguxAHhd.aUNYf03-ApQX&mime_type=video_mp4&qs=0&rc=ZWQ7Nmg8M2c0OTg0PDloZkBpams7NjM6Zjg1ajMzNGkzM0AwX2NjLmIxX2AxY2MyYTBgYSNeMm4ycjRnXmBgLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1785472150&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026073112291017AFE80F992BA4793A2C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7212557537269288195.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7212557537269288195.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 438.334,
+      "raw_payload": {
+        "aweme_id": "7212557537269288195",
+        "author_uid": "67200895082",
+        "sec_uid": "MS4wLjABAAAAd5rHr1FAk48Zx3b2SPtB40uYR1LdSt6bzGbMlxhjoqk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAd5rHr1FAk48Zx3b2SPtB40uYR1LdSt6bzGbMlxhjoqk"
+      }
+    },
+    "first_seen_at": "2026-07-31T12:28:15+08:00",
+    "last_seen_at": "2026-07-31T12:28:15+08:00",
+    "fetch_runs": [
+      "2026-07-31"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7212557537269288195.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7212557537269288195.mp3",
+      "source": "download",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7212557537269288195",
+      "transcript_raw": "堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看补充信息：堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看关键词：瘦肚子、大肚腩变小蛮腰、马甲线、居家锻炼、变美变瘦变好看",
+      "transcript_clean": "堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看补充信息：堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看关键词：瘦肚子、大肚腩变小蛮腰、马甲线、居家锻炼、变美变瘦变好看",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-31/7212557537269288195.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7212557537269288195",
+      "summary": "海鑫围绕“瘦肚子”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看。堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看补充信息：堪称教科书般的居家虐腹！两周减掉大肚腩，瘦出马甲线腹肌#瘦肚子 #大肚腩变小蛮腰 #马甲线 #居家锻炼 #变美变瘦变好看关键词：瘦肚子、大肚腩变小蛮腰、马甲线、居家锻炼、变美变瘦变好看 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "瘦肚子为什么总是做不出来结果？",
+        "先把大肚腩变小蛮腰想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕瘦肚子组织标题与开头。",
+        "用大肚腩变小蛮腰和马甲线补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "瘦肚子",
+        "大肚腩变小蛮腰",
+        "马甲线"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-31/7212557537269288195.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "last_error": null
+  },
+  "7511683903602691367": {
+    "video_id": "7511683903602691367",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "后海没有海",
+      "video_id": "7511683903602691367",
+      "title": "胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段",
+      "publish_time": "2025-06-03T19:30:20+08:00",
+      "video_url": "https://www.douyin.com/video/7511683903602691367",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3c496dbbb9c8c558a721da9ca0e3bf76~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100830400&x-signature=ajJxaq5tgW7YnK5kX1JNp5PjjFc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202607311229139E0625612F3BFA8FF15D",
+      "like_count": 7180,
+      "comment_count": 996,
+      "share_count": 2039,
+      "collect_count": 382,
+      "description": "胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段",
+      "text_hint": "胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段",
+      "topic_tags": [
+        "胖东来",
+        "内裤过敏",
+        "两个小段"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/2b5898137339810c36eb1e598e00f7a6/6a6c5068/video/tos/cn/tos-cn-ve-15/okIDoPhvq2wtABkr0XqAGj7AERNEfsqQFgfF9D/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1054&bt=1054&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9whuxAHhd.aUNYf03-ApQX&mime_type=video_mp4&qs=0&rc=Zzk7OTVkZmY0Ozo0N2UzNkBpM3BncnE5cmZnMzMzNGkzM0AvNTM0Li5iNWExNS41YTAwYSM2MGtuMmQ0aXNhLS1kLWFzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100B_100H_100K_100o_100w&dy_q=1785472153&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202607311229139E0625612F3BFA8FF15D&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7511683903602691367.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7511683903602691367.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 415.339,
+      "raw_payload": {
+        "aweme_id": "7511683903602691367",
+        "author_uid": "24235526870",
+        "sec_uid": "MS4wLjABAAAA4RTHKXhO7HlVPAvEZ9ybP6lATA_OTDaSZMtYwGEFbXA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4RTHKXhO7HlVPAvEZ9ybP6lATA_OTDaSZMtYwGEFbXA"
+      }
+    },
+    "first_seen_at": "2026-07-31T12:28:15+08:00",
+    "last_seen_at": "2026-07-31T12:28:15+08:00",
+    "fetch_runs": [
+      "2026-07-31"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7511683903602691367.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-07-31/7511683903602691367.mp3",
+      "source": "download",
+      "processed_at": "2026-07-31T12:30:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7511683903602691367",
+      "transcript_raw": "胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段补充信息：胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段关键词：胖东来、内裤过敏、两个小段",
+      "transcript_clean": "胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段补充信息：胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段关键词：胖东来、内裤过敏、两个小段",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-07-31/7511683903602691367.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7511683903602691367",
+      "summary": "后海没有海围绕“胖东来”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段。胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段补充信息：胖东来内裤过敏事件分析 为什么这次终于不再忍了#胖东来 #内裤过敏 #两个小段关键词：胖东来、内裤过敏、两个小段 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "胖东来为什么总是做不出来结果？",
+        "先把内裤过敏想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕胖东来组织标题与开头。",
+        "用内裤过敏和两个小段补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "胖东来",
+        "内裤过敏",
+        "两个小段"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-07-31/7511683903602691367.json",
+      "processed_at": "2026-07-31T12:35:26+08:00"
+    },
+    "last_error": null
+  },
+  "7438177679045561615": {
+    "video_id": "7438177679045561615",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7438177679045561615",
+      "title": "这鱼情给郭大爷钩的心慌慌的！ #入冬钓鱼指南 #原来钓鱼才是抖音运动顶流 #冬天钓鲫鱼有多过瘾",
+      "publish_time": "2024-11-17T09:28:00+08:00",
+      "video_url": "https://www.douyin.com/video/7438177679045561615",
+      "cover_url": "",
+      "like_count": 3028,
+      "comment_count": 172,
+      "share_count": 207,
+      "collect_count": 171,
+      "description": "这鱼情给郭大爷钩的心慌慌的！ #入冬钓鱼指南 #原来钓鱼才是抖音运动顶流 #冬天钓鲫鱼有多过瘾",
+      "text_hint": "这鱼情给郭大爷钩的心慌慌的！ #入冬钓鱼指南 #原来钓鱼才是抖音运动顶流 #冬天钓鲫鱼有多过瘾",
+      "topic_tags": [
+        "入冬钓鱼指南",
+        "原来钓鱼才是抖音运动顶流",
+        "冬天钓鲫鱼有多过瘾"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/09e4b1c4-badc-40a9-a168-0d72cc5889a3",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7438177679045561615",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-07-31T12:28:15+08:00",
+    "last_seen_at": "2026-07-31T12:28:15+08:00",
+    "fetch_runs": [
+      "2026-07-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
