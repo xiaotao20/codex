@@ -21185,5 +21185,332 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7582096924447165696": {
+    "video_id": "7582096924447165696",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "每日经济新闻",
+      "video_id": "7582096924447165696",
+      "title": "#我国成功发射一箭九星  #我国成功发射阿联酋813卫星等9颗卫星",
+      "publish_time": "2025-12-10T13:28:41+08:00",
+      "video_url": "https://www.douyin.com/video/7582096924447165696",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f55849e45940c3ae83da474597b39ba1~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100916800&x-signature=s9BcKSpILf9vnNUW0k%2BxqP%2BE36c%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260801122455C6328F6E344C001A3397",
+      "like_count": 218,
+      "comment_count": 9,
+      "share_count": 26,
+      "collect_count": 12,
+      "description": "#我国成功发射一箭九星  #我国成功发射阿联酋813卫星等9颗卫星",
+      "text_hint": "#我国成功发射一箭九星  #我国成功发射阿联酋813卫星等9颗卫星",
+      "topic_tags": [
+        "我国成功发射一箭九星",
+        "我国成功发射阿联酋813卫星等9颗卫星"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/00f6b210f6ee40f5717c9a6084880a77/6a6d9f50/video/tos/cn/tos-cn-ve-0015c800/ec06090cbf6d40ff8be83364b64647bc/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=782&bt=782&cs=0&ds=4&ft=4rzAgkIKDyjNMRVQ9wu2SAHhd.v9GJC73-ApQX&mime_type=video_mp4&qs=0&rc=ZmZoNzc5OzhnNmloOmc0NEBpM3E5Nnk5cnhqNzMzNGkzM0AyYV4uXy8uNV4xXjUtLjEvYSNvMm9tMmRjNnBhLS1kLWFzcw%3D%3D&btag=80000e00008000&cquery=100B_100H_100K_100o_100w&dy_q=1785558296&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260801122455C6328F6E344C001A3397",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 8.32,
+      "raw_payload": {
+        "aweme_id": "7582096924447165696",
+        "author_uid": "100083413401",
+        "sec_uid": "MS4wLjABAAAAnD5MpfX2vLLjZyJ-zMkvYqFqqLUSl9VgDOTexclwXiA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAnD5MpfX2vLLjZyJ-zMkvYqFqqLUSl9VgDOTexclwXiA"
+      }
+    },
+    "first_seen_at": "2026-08-01T12:24:37+08:00",
+    "last_seen_at": "2026-08-01T12:24:37+08:00",
+    "fetch_runs": [
+      "2026-08-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7194788075665395002": {
+    "video_id": "7194788075665395002",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "蒋讲PLC",
+      "video_id": "7194788075665395002",
+      "title": "S71200PLC定时器常见问题，多次使用同一背景DB的Q点，可能会造成定时器不能正常使用#电工#plc #工业自动化 #西门子plc #plc编程",
+      "publish_time": "2023-01-31T20:13:38+08:00",
+      "video_url": "https://www.douyin.com/video/7194788075665395002",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8709605368edad3a4dbcc3484792112a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100916800&x-signature=xzO1mQ8%2Fj4Z4K8DUNQqXauuoUDA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608011224595E6ABC71FC10241DC43D",
+      "like_count": 429,
+      "comment_count": 48,
+      "share_count": 34,
+      "collect_count": 204,
+      "description": "S71200PLC定时器常见问题，多次使用同一背景DB的Q点，可能会造成定时器不能正常使用#电工#plc #工业自动化 #西门子plc #plc编程",
+      "text_hint": "S71200PLC定时器常见问题，多次使用同一背景DB的Q点，可能会造成定时器不能正常使用#电工#plc #工业自动化 #西门子plc #plc编程",
+      "topic_tags": [
+        "电工",
+        "plc",
+        "工业自动化",
+        "西门子plc",
+        "plc编程"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/56762c3e3bcf8832024ca85b0694d70b/6a6da00f/video/tos/cn/tos-cn-ve-0015c800/osIA17Qb6fz9ABCvWxEMe4gIGhI8tApzU3oKuy/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=363&bt=363&cs=0&ds=4&ft=4rzAgkIKDyjNMRVQ9wY2SAHhd.v9GJC73-ApQX&mime_type=video_mp4&qs=0&rc=Zzg2Z2U1NDdpMzppOWY3OEBpajx1Zzc6ZjlqaTMzNGkzM0AuNF82Mi8yXmExNS4tMmM1YSNyNF5xcjRfM2BgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100H_100K_100o&dy_q=1785558299&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202608011224595E6ABC71FC10241DC43D",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 196.834,
+      "raw_payload": {
+        "aweme_id": "7194788075665395002",
+        "author_uid": "536181440003117",
+        "sec_uid": "MS4wLjABAAAANM0YgpWIGvPwlwekBQI5zuU2pl_OwZcugMgbFzJfbFw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAANM0YgpWIGvPwlwekBQI5zuU2pl_OwZcugMgbFzJfbFw"
+      }
+    },
+    "first_seen_at": "2026-08-01T12:24:37+08:00",
+    "last_seen_at": "2026-08-01T12:24:37+08:00",
+    "fetch_runs": [
+      "2026-08-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7204458956134108451": {
+    "video_id": "7204458956134108451",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "yuri酱在东京",
+      "video_id": "7204458956134108451",
+      "title": "日本人气的油美容（以油养肤）7个用法\n有没有做过\"以油养肤\"吗？\n真的很简单又方便又补水效果好\n多大岁数的女生都很适合的护肤法方 \n【7种全身护肤方法】\n1.作按摩油\n2.混在身体乳里\n3.当做面部精华油使用\n4.与粉底液混合\n5.美甲护理\n6.脱毛后护理\n7.晒后舒缓\n.\n使用的油是 #百洛油 BioOil\n在日本非常人气脸部身体都能用\n我孕期还用它做妊娠线护理\n也很推荐孕妈妈🥰成分非常温和\n可以放心使用✨ \n#以油养肤 #抗衰老 #保养秘诀 #日本女生",
+      "publish_time": "2023-02-26T21:40:22+08:00",
+      "video_url": "https://www.douyin.com/video/7204458956134108451",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/dd93bb21e86489826f52dc317c2b36e1~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100916800&x-signature=HoAVl%2BdAAApAfIfM8k84ko37yBs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260801122502685AAA8E8A39765E330E",
+      "like_count": 329,
+      "comment_count": 22,
+      "share_count": 42,
+      "collect_count": 140,
+      "description": "日本人气的油美容（以油养肤）7个用法\n有没有做过\"以油养肤\"吗？\n真的很简单又方便又补水效果好\n多大岁数的女生都很适合的护肤法方 \n【7种全身护肤方法】\n1.作按摩油\n2.混在身体乳里\n3.当做面部精华油使用\n4.与粉底液混合\n5.美甲护理\n6.脱毛后护理\n7.晒后舒缓\n.\n使用的油是 #百洛油 BioOil\n在日本非常人气脸部身体都能用\n我孕期还用它做妊娠线护理\n也很推荐孕妈妈🥰成分非常温和\n可以放心使用✨ \n#以油养肤 #抗衰老 #保养秘诀 #日本女生",
+      "text_hint": "日本人气的油美容（以油养肤）7个用法\n有没有做过\"以油养肤\"吗？\n真的很简单又方便又补水效果好\n多大岁数的女生都很适合的护肤法方 \n【7种全身护肤方法】\n1.作按摩油\n2.混在身体乳里\n3.当做面部精华油使用\n4.与粉底液混合\n5.美甲护理\n6.脱毛后护理\n7.晒后舒缓\n.\n使用的油是 #百洛油 BioOil\n在日本非常人气脸部身体都能用\n我孕期还用它做妊娠线护理\n也很推荐孕妈妈🥰成分非常温和\n可以放心使用✨ \n#以油养肤 #抗衰老 #保养秘诀 #日本女生",
+      "topic_tags": [
+        "百洛油",
+        "以油养肤",
+        "抗衰老",
+        "保养秘诀",
+        "日本女生"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/c063559038d6dbca72b5868bfa830ebc/6a6da01a/video/tos/cn/tos-cn-ve-15c001-alinc2/oUn4zDEQBUYeieCB5aLbb6QhTooEC7Af7HI2AB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1632&bt=1632&cs=0&ds=3&ft=4rzAgkIKDyjNMRVQ9wX2SAHhd.v9GJC73-ApQX&mime_type=video_mp4&qs=0&rc=OmZnZzRlNGgzNDY4ZDUzOUBpM3NkeDU6ZnJwaTMzNGkzM0AwLmJfX142XzExMDVhNmMyYSMvZTRjcjRnLXFgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100x_100z&dy_q=1785558302&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260801122502685AAA8E8A39765E330E",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 204.734,
+      "raw_payload": {
+        "aweme_id": "7204458956134108451",
+        "author_uid": "1055946992547271",
+        "sec_uid": "MS4wLjABAAAA4bPbHdP0hgHKAMmm_HfVXr5HsAVZ54BYgMxRGoe-rPuDIE2pf3hJmB3R_FjFfeAw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4bPbHdP0hgHKAMmm_HfVXr5HsAVZ54BYgMxRGoe-rPuDIE2pf3hJmB3R_FjFfeAw"
+      }
+    },
+    "first_seen_at": "2026-08-01T12:24:37+08:00",
+    "last_seen_at": "2026-08-01T12:24:37+08:00",
+    "fetch_runs": [
+      "2026-08-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7578271018704874472": {
+    "video_id": "7578271018704874472",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7578271018704874472",
+      "title": "1锦绣梨园艺术中心在抖音记录美好生活20251129",
+      "publish_time": "2025-11-29T22:02:00+08:00",
+      "video_url": "https://www.douyin.com/video/7578271018704874472",
+      "cover_url": "",
+      "like_count": 15,
+      "comment_count": 4,
+      "share_count": 2,
+      "collect_count": 2,
+      "description": "1锦绣梨园艺术中心在抖音记录美好生活20251129",
+      "text_hint": "1锦绣梨园艺术中心在抖音记录美好生活20251129",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0c19f018-e2ce-4319-bad1-36ab260a8d3a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7578271018704874472",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-01T12:24:37+08:00",
+    "last_seen_at": "2026-08-01T12:24:37+08:00",
+    "fetch_runs": [
+      "2026-08-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7102370441997651239": {
+    "video_id": "7102370441997651239",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "棉花堂主",
+      "video_id": "7102370441997651239",
+      "title": "玫瑰无原则 心动至上。🌹\n泰国玫瑰钩织简易版教程 ...\n大花瓣#钩针编织 #教程 #手工diy #礼物 #热门",
+      "publish_time": "2022-05-27T19:04:45+08:00",
+      "video_url": "https://www.douyin.com/video/7102370441997651239",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7a0ec09774cbb09888f64f24afba4169~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2100916800&x-signature=OnhIKjraXwl9toSuWsXmoA6Fyio%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260801122525F877450B345C35635245",
+      "like_count": 5241,
+      "comment_count": 256,
+      "share_count": 723,
+      "collect_count": 4258,
+      "description": "玫瑰无原则 心动至上。🌹\n泰国玫瑰钩织简易版教程 ...\n大花瓣#钩针编织 #教程 #手工diy #礼物 #热门",
+      "text_hint": "玫瑰无原则 心动至上。🌹\n泰国玫瑰钩织简易版教程 ...\n大花瓣#钩针编织 #教程 #手工diy #礼物 #热门",
+      "topic_tags": [
+        "钩针编织",
+        "教程",
+        "手工diy",
+        "礼物",
+        "热门"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/4c13bc0bfe47eebe62f0c7f02d56fb56/6a6da1b8/video/tos/cn/tos-cn-ve-0015c800/ff7da975ddab42c08791857675df095d/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2106&bt=2106&cs=0&ds=4&ft=4rzAgkIKDyjNMRVQ9wq2SAHhd.v9GJC73-ApQX&mime_type=video_mp4&qs=0&rc=ODhkZjlpZmhpNjQ1Njw2NkBpajVucmQ6ZmdkZDMzNGkzM0BiLzEwM2IvNS8xNGNeMF8xYSNhazFqcjRvcTVgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_102u&dy_q=1785558326&l=20260801122525F877450B345C35635245",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 594.455,
+      "raw_payload": {
+        "aweme_id": "7102370441997651239",
+        "author_uid": "1085916725391835",
+        "sec_uid": "MS4wLjABAAAAShIJWMKfMPmtcV4lm_WGliEvF4ruezmwNP2-IfBbkI0V1-oImjysSrNzHrz2S5tm",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAShIJWMKfMPmtcV4lm_WGliEvF4ruezmwNP2-IfBbkI0V1-oImjysSrNzHrz2S5tm"
+      }
+    },
+    "first_seen_at": "2026-08-01T12:24:37+08:00",
+    "last_seen_at": "2026-08-01T12:24:37+08:00",
+    "fetch_runs": [
+      "2026-08-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7469444997872454971": {
+    "video_id": "7469444997872454971",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7469444997872454971",
+      "title": "在抖音记录美好生活20260801",
+      "publish_time": "2026-08-01T12:25:53+08:00",
+      "video_url": "https://www.douyin.com/video/7469444997872454971",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260801",
+      "text_hint": "在抖音记录美好生活20260801",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ebe88286-b1a3-4c85-bf54-de6ca0381cfe",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7469444997872454971",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-01T12:24:37+08:00",
+    "last_seen_at": "2026-08-01T12:24:37+08:00",
+    "fetch_runs": [
+      "2026-08-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7330579534875544882": {
+    "video_id": "7330579534875544882",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7330579534875544882",
+      "title": "2024 怎么选公路车 就看这三点 不带广的 看我这个视频 就行啦 #公路自行车 #爱骑行#公路骑行 #骑车党必看的公路车推荐",
+      "publish_time": "2024-02-01T10:33:00+08:00",
+      "video_url": "https://www.douyin.com/video/7330579534875544882",
+      "cover_url": "",
+      "like_count": 130,
+      "comment_count": 44,
+      "share_count": 48,
+      "collect_count": 44,
+      "description": "2024 怎么选公路车 就看这三点 不带广的 看我这个视频 就行啦 #公路自行车 #爱骑行#公路骑行 #骑车党必看的公路车推荐",
+      "text_hint": "2024 怎么选公路车 就看这三点 不带广的 看我这个视频 就行啦 #公路自行车 #爱骑行#公路骑行 #骑车党必看的公路车推荐",
+      "topic_tags": [
+        "公路自行车",
+        "爱骑行",
+        "公路骑行",
+        "骑车党必看的公路车推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/8478cec4-7ff1-4754-b67e-638f9ae15cb2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7330579534875544882",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-01T12:24:37+08:00",
+    "last_seen_at": "2026-08-01T12:24:37+08:00",
+    "fetch_runs": [
+      "2026-08-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
