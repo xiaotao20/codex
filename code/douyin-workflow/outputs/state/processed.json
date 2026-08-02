@@ -21512,5 +21512,439 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7668723082458938738": {
+    "video_id": "7668723082458938738",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7668723082458938738",
+      "title": "目标博主 1 视频 7668723082458938738",
+      "publish_time": "2026-08-02T12:31:02+08:00",
+      "video_url": "https://www.douyin.com/video/7668723082458938738",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/e6cf4c4a-44a8-4a0a-bc43-7e2ec7f7b770",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7668723082458938738",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-02T12:28:12+08:00",
+    "last_seen_at": "2026-08-02T12:28:12+08:00",
+    "fetch_runs": [
+      "2026-08-02"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7626207462399511823": {
+    "video_id": "7626207462399511823",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7626207462399511823",
+      "title": "目标博主 1 视频 7626207462399511823",
+      "publish_time": "2026-08-02T12:31:02+08:00",
+      "video_url": "https://www.douyin.com/video/7626207462399511823",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/71f08810-0a58-47b4-aab6-42b27e5d6bbe",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7626207462399511823",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-02T12:28:12+08:00",
+    "last_seen_at": "2026-08-02T12:28:12+08:00",
+    "fetch_runs": [
+      "2026-08-02"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7232504938474048772": {
+    "video_id": "7232504938474048772",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7232504938474048772",
+      "title": "目标博主 1 视频 7232504938474048772",
+      "publish_time": "2026-08-02T12:31:02+08:00",
+      "video_url": "https://www.douyin.com/video/7232504938474048772",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d989c660-69e1-4cb8-8daf-933f719938db",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7232504938474048772",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-02T12:28:12+08:00",
+    "last_seen_at": "2026-08-02T12:28:12+08:00",
+    "fetch_runs": [
+      "2026-08-02"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7137545465607834883": {
+    "video_id": "7137545465607834883",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7137545465607834883",
+      "title": "目标博主 1 视频 7137545465607834883",
+      "publish_time": "2026-08-02T12:31:02+08:00",
+      "video_url": "https://www.douyin.com/video/7137545465607834883",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/de4722df-6bd6-4931-830f-3f56abc4bc6b",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7137545465607834883",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-02T12:28:12+08:00",
+    "last_seen_at": "2026-08-02T12:28:12+08:00",
+    "fetch_runs": [
+      "2026-08-02"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7545387622384274747": {
+    "video_id": "7545387622384274747",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7545387622384274747",
+      "title": "土豆粉🍔在抖音记录美好生活20250902",
+      "publish_time": "2025-09-02T07:17:00+08:00",
+      "video_url": "https://www.douyin.com/video/7545387622384274747",
+      "cover_url": "",
+      "like_count": 6,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "土豆粉🍔在抖音记录美好生活20250902",
+      "text_hint": "土豆粉🍔在抖音记录美好生活20250902",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4ac1ec33e5c32b13de4a1fe144fa057c/6a6ef373/video/tos/cn/tos-cn-ve-15c800-ce/ogmoPFbrYBkhmAv0XPW2vGIQiALiaEmgXMaKX/?a=6383&br=1047&bt=1047&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100z_100o_100w_100B_100x&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1785645009&feature_id=fea919893f650a8c49286568590446ef&ft=CZdgCYlIDyjNNRVQ9wNj9AHhd.8yvdC73-ApQX&is_ssr=1&l=202608021230091A57B5C057D8C2566012&lr=all&mime_type=video_mp4&qs=0&rc=OjRkPGg0Zjo7NGdnMzVoM0BpM2V2OG45cjM8NTMzbGkzNEBiNWM1LWIuXzQxLmIzNC5fYSNmX21oMmRrZW9hLS1kLWJzcw%3D%3D&__vid=7545387622384274747",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-02/7545387622384274747.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-02/7545387622384274747.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7545387622384274747",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-02T12:28:12+08:00",
+    "last_seen_at": "2026-08-02T12:28:12+08:00",
+    "fetch_runs": [
+      "2026-08-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-02/7545387622384274747.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-02/7545387622384274747.mp3",
+      "source": "download",
+      "processed_at": "2026-08-02T12:31:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7545387622384274747",
+      "transcript_raw": "土豆粉🍔在抖音记录美好生活20250902土豆粉🍔在抖音记录美好生活20250902补充信息：土豆粉🍔在抖音记录美好生活20250902",
+      "transcript_clean": "土豆粉🍔在抖音记录美好生活20250902土豆粉🍔在抖音记录美好生活20250902补充信息：土豆粉🍔在抖音记录美好生活20250902",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-02/7545387622384274747.json",
+      "processed_at": "2026-08-02T12:31:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7545387622384274747",
+      "summary": "目标博主 1围绕“土豆粉🍔在抖音记录美好生活20250902土豆粉🍔在抖音记录美好生活20250902补充信息：土豆粉🍔在抖音记录美好生活20250902”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "土豆粉🍔在抖音记录美好生活20250902。土豆粉🍔在抖音记录美好生活20250902土豆粉🍔在抖音记录美好生活20250902补充信息：土豆粉🍔在抖音记录美好生活20250902 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "土豆粉🍔在抖音记录美好生活20250902土豆粉🍔在抖音记录美好生活20250902补充信息：土豆粉🍔在抖音记录美好生活20250902为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕土豆粉🍔在抖音记录美好生活20250902土豆粉🍔在抖音记录美好生活20250902补充信息：土豆粉🍔在抖音记录美好生活20250902组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "土豆粉🍔在抖音记录美好生活20250902土豆粉🍔在抖音记录美好生活20250902补充信息：土豆粉🍔在抖音记录美好生活20250902",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-02/7545387622384274747.json",
+      "processed_at": "2026-08-02T12:31:55+08:00"
+    },
+    "last_error": null
+  },
+  "7483304529618816314": {
+    "video_id": "7483304529618816314",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7483304529618816314",
+      "title": "目标博主 1 视频 7483304529618816314",
+      "publish_time": "2026-08-02T12:31:02+08:00",
+      "video_url": "https://www.douyin.com/video/7483304529618816314",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ab0637a0-b4c2-48a9-bbcc-e1a238924b64",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7483304529618816314",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-02T12:28:12+08:00",
+    "last_seen_at": "2026-08-02T12:28:12+08:00",
+    "fetch_runs": [
+      "2026-08-02"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7414834334999301376": {
+    "video_id": "7414834334999301376",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "云顶T老板",
+      "video_id": "7414834334999301376",
+      "title": "大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播",
+      "publish_time": "2024-09-15T19:44:47+08:00",
+      "video_url": "https://www.douyin.com/video/7414834334999301376",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1911fb0e6da29126e78c11734412446f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101003200&x-signature=%2Bueyf8wIPPcqig%2F%2BX2VH1TKbTTI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608021230410A6AE4291BECC8509F6B",
+      "like_count": 2906,
+      "comment_count": 79,
+      "share_count": 81,
+      "collect_count": 73,
+      "description": "大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播",
+      "text_hint": "大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播",
+      "topic_tags": [
+        "云顶之奕",
+        "云顶红莲",
+        "云顶魔术师红莲",
+        "抖音电脑版",
+        "用电脑抖音看我直播"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/43cee6aa024174b7f6fa5e2fc8500294/6a6ef2ed/video/tos/cn/tos-cn-ve-0015c800/o05JQX1zA1f7AQU0NfI7f3XtBRBmaY84C2hCMQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2536&bt=2536&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w2j9AHhd.8yvdC73-ApQX&mime_type=video_mp4&qs=0&rc=NjY3NjczZmZkZ2Y2aDs0NkBpanU7eXk5cmlmdTMzNGkzM0BgLy9iYDRiXmIxNC0xNTUzYSMtZXFuMmQ0YWdgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100H_100K_100o&dy_q=1785645041&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202608021230410A6AE4291BECC8509F6B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-02/7414834334999301376.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-02/7414834334999301376.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 204.359,
+      "raw_payload": {
+        "aweme_id": "7414834334999301376",
+        "author_uid": "1025213730141683",
+        "sec_uid": "MS4wLjABAAAA1qbIjF-Ciz6EsjCq0xDeaTym6DC46hV13nBLpOEWwy2MlCdjm_p7lRHhYku6AFmB",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA1qbIjF-Ciz6EsjCq0xDeaTym6DC46hV13nBLpOEWwy2MlCdjm_p7lRHhYku6AFmB"
+      }
+    },
+    "first_seen_at": "2026-08-02T12:28:12+08:00",
+    "last_seen_at": "2026-08-02T12:28:12+08:00",
+    "fetch_runs": [
+      "2026-08-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-02/7414834334999301376.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-02/7414834334999301376.mp3",
+      "source": "download",
+      "processed_at": "2026-08-02T12:31:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7414834334999301376",
+      "transcript_raw": "大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播补充信息：大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播关键词：云顶之奕、云顶红莲、云顶魔术师红莲、抖音电脑版、用电脑抖音看我直播",
+      "transcript_clean": "大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播补充信息：大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播关键词：云顶之奕、云顶红莲、云顶魔术师红莲、抖音电脑版、用电脑抖音看我直播",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-02/7414834334999301376.json",
+      "processed_at": "2026-08-02T12:31:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7414834334999301376",
+      "summary": "云顶T老板围绕“云顶之奕”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播。大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播补充信息：大亨金丝猴 红莲飓风三战力金丝猴 不可撼动搭配大亨猴子能扛一个师#云顶之奕 #云顶红莲 #云顶魔术师红莲 #抖音电脑版 #用电脑抖音看我直播关键词：云顶之奕、云顶红莲、云顶魔术师红莲、抖音电脑版、用电脑抖音看我直播 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "云顶之奕为什么总是做不出来结果？",
+        "先把云顶红莲想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕云顶之奕组织标题与开头。",
+        "用云顶红莲和云顶魔术师红莲补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "云顶之奕",
+        "云顶红莲",
+        "云顶魔术师红莲"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-02/7414834334999301376.json",
+      "processed_at": "2026-08-02T12:31:55+08:00"
+    },
+    "last_error": null
+  },
+  "7562762661097409802": {
+    "video_id": "7562762661097409802",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7562762661097409802",
+      "title": "目标博主 1 视频 7562762661097409802",
+      "publish_time": "2026-08-02T12:31:02+08:00",
+      "video_url": "https://www.douyin.com/video/7562762661097409802",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/6f2f0e58-6964-4382-8b28-a5d9c9a9109c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7562762661097409802",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-02T12:28:12+08:00",
+    "last_seen_at": "2026-08-02T12:28:12+08:00",
+    "fetch_runs": [
+      "2026-08-02"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
