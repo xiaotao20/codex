@@ -21946,5 +21946,552 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7606983808482610467": {
+    "video_id": "7606983808482610467",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "电影频道融媒体中心",
+      "video_id": "7606983808482610467",
+      "title": "#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声",
+      "publish_time": "2026-02-15T15:03:02+08:00",
+      "video_url": "https://www.douyin.com/video/7606983808482610467",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/988a5c6610f329a5b0195d116066c095~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101089600&x-signature=FFM1KFq%2Fpx1Mjqh6F1Oia7sxO9U%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608031235422142BC33F1A71BB5DA97",
+      "like_count": 86,
+      "comment_count": 3,
+      "share_count": 7,
+      "collect_count": 23,
+      "description": "#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声",
+      "text_hint": "#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声",
+      "topic_tags": [
+        "院线上新",
+        "六公主带你看懂春节档",
+        "2026春节档电影进行时",
+        "惊蛰无声"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d5ee63037c8cf089bc447d25c12b94b7/6a7045ff/video/tos/cn/tos-cn-ve-15/oQGCIPwACtsG2i4jhDf7DRe1BYBLRcITAQeI2T/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=912&bt=912&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wXTz~Hhd.oWvdC73-ApQX&mime_type=video_mp4&qs=0&rc=ODc6ZGg5NTNkN2lkOTQ6ZkBpajlmZXg5cmRwOTMzNGkzM0AxX2E0Xy4yXmAxXzA0NGFfYSM0by4xMmQ0cTVhLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1785731742&feature_id=fea919893f650a8c49286568590446ef&l=202608031235422142BC33F1A71BB5DA97",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7606983808482610467.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7606983808482610467.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 305.003,
+      "raw_payload": {
+        "aweme_id": "7606983808482610467",
+        "author_uid": "101793384921",
+        "sec_uid": "MS4wLjABAAAAvgucioTVjx4_vK_vStIefAeNgMpKfCwFQsZWQIrI_nY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAvgucioTVjx4_vK_vStIefAeNgMpKfCwFQsZWQIrI_nY"
+      }
+    },
+    "first_seen_at": "2026-08-03T12:35:30+08:00",
+    "last_seen_at": "2026-08-03T12:35:30+08:00",
+    "fetch_runs": [
+      "2026-08-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7606983808482610467.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7606983808482610467.mp3",
+      "source": "download",
+      "processed_at": "2026-08-03T12:37:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7606983808482610467",
+      "transcript_raw": "#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声补充信息：#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声关键词：院线上新、六公主带你看懂春节档、2026春节档电影进行时、惊蛰无声",
+      "transcript_clean": "#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声补充信息：#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声关键词：院线上新、六公主带你看懂春节档、2026春节档电影进行时、惊蛰无声",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-03/7606983808482610467.json",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7606983808482610467",
+      "summary": "电影频道融媒体中心围绕“院线上新”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声。#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声补充信息：#院线上新  #六公主带你看懂春节档  电影频道《院线上新》2026春节档特别节目重磅推出！本期聚焦《惊蛰无声》看点——春节档中最具现实锋芒的一部作品。作为首部聚焦当代国安题材的银幕呈现，《惊蛰无声》在类型上实现突破。暗线潜行、危机四伏，国家安全守护者与境外势力的无声博弈，被首次以电影语言完整展开。近40年导演生涯中，张艺谋始终在创新题材与作者表达之间寻找平衡。题材在变，对人性与信仰的凝视不变；类型在升级，镜头美学与情绪张力始终在线。这一次，它既是“从未见过”的新鲜尝试，也是“直抵人心”的经典叙事——在沉默之下，是信仰的较量；在暗流之中，是人性的抉择。 #2026春节档电影进行时 #惊蛰无声关键词：院线上新、六公主带你看懂春节档、2026春节档电影进行时、惊蛰无声 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "院线上新为什么总是做不出来结果？",
+        "先把六公主带你看懂春节档想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕院线上新组织标题与开头。",
+        "用六公主带你看懂春节档和2026春节档电影进行时补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "院线上新",
+        "六公主带你看懂春节档",
+        "2026春节档电影进行时"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-03/7606983808482610467.json",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "last_error": null
+  },
+  "7235133623236562191": {
+    "video_id": "7235133623236562191",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "随缘妙用",
+      "video_id": "7235133623236562191",
+      "title": "体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师",
+      "publish_time": "2023-05-20T13:33:45+08:00",
+      "video_url": "https://www.douyin.com/video/7235133623236562191",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/9d267f47b0f6a0e0919cb057342ea7d3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101089600&x-signature=5ha100hefWERbVipkMwQG6CchDI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608031235465E57A7C000E948869D18",
+      "like_count": 3509,
+      "comment_count": 339,
+      "share_count": 596,
+      "collect_count": 1106,
+      "description": "体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师",
+      "text_hint": "体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师",
+      "topic_tags": [
+        "佛学正能量",
+        "佛教文化",
+        "修心修行",
+        "体佛法师"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8cb55bee5b1c7f08373eab5f6cca2bd2/6a704660/video/tos/cn/tos-cn-ve-15c001-alinc2/ognQ2NjHIBEaFQDJIb9uAfHAztdKFgdrg3A0ek/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=543&bt=543&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9w~Tz~Hhd.oWvdC73-ApQX&mime_type=video_mp4&qs=0&rc=ZTw2NDs6aWVpNTc1aGc2NUBpamhkdzY6Zms4azMzNGkzM0BjNjUuLzMxXjAxMTUwMDReYSNmMWBxcjRvamhgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1785731746&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202608031235465E57A7C000E948869D18",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7235133623236562191.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7235133623236562191.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 398.525,
+      "raw_payload": {
+        "aweme_id": "7235133623236562191",
+        "author_uid": "2985868268944731",
+        "sec_uid": "MS4wLjABAAAAw2VmWSMhH3pYV7bVEBVMQceIVjmKSpwAOdM7GRX_ksxnSBgrHk2fUwo3ZaLrVD-r",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAw2VmWSMhH3pYV7bVEBVMQceIVjmKSpwAOdM7GRX_ksxnSBgrHk2fUwo3ZaLrVD-r"
+      }
+    },
+    "first_seen_at": "2026-08-03T12:35:30+08:00",
+    "last_seen_at": "2026-08-03T12:35:30+08:00",
+    "fetch_runs": [
+      "2026-08-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7235133623236562191.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7235133623236562191.mp3",
+      "source": "download",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7235133623236562191",
+      "transcript_raw": "体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师补充信息：体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师关键词：佛学正能量、佛教文化、修心修行、体佛法师",
+      "transcript_clean": "体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师补充信息：体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师关键词：佛学正能量、佛教文化、修心修行、体佛法师",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-03/7235133623236562191.json",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7235133623236562191",
+      "summary": "随缘妙用围绕“佛学正能量”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师。体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师补充信息：体佛法师的师父，水果和尚:广钦老和尚纪录片#佛学正能量 #佛教文化 #修心修行 #体佛法师关键词：佛学正能量、佛教文化、修心修行、体佛法师 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "佛学正能量为什么总是做不出来结果？",
+        "先把佛教文化想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕佛学正能量组织标题与开头。",
+        "用佛教文化和修心修行补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "佛学正能量",
+        "佛教文化",
+        "修心修行"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-03/7235133623236562191.json",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "last_error": null
+  },
+  "7239542690604518716": {
+    "video_id": "7239542690604518716",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "波波来了",
+      "video_id": "7239542690604518716",
+      "title": "农产品最快速的出货方式！#山顶会 #农产品",
+      "publish_time": "2023-06-01T10:43:14+08:00",
+      "video_url": "https://www.douyin.com/video/7239542690604518716",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1e4783a2ea17e4a64978720c33bad543~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101089600&x-signature=0KdVk78lQmI%2B4SJAhcXMc%2BBZo%2Bg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260803123549C5DDE657A9D557316736",
+      "like_count": 1578,
+      "comment_count": 22,
+      "share_count": 291,
+      "collect_count": 367,
+      "description": "农产品最快速的出货方式！#山顶会 #农产品",
+      "text_hint": "农产品最快速的出货方式！#山顶会 #农产品",
+      "topic_tags": [
+        "山顶会",
+        "农产品"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0dafa7e5ada7c9baf19afc2cb7a2b3b9/6a704589/video/tos/cn/tos-cn-ve-0015c800/oYAyB4c4hSgfn9QAtgrIP8DkeKmJzAQHANvEGD/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2570&bt=2570&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wsTz~Hhd.oWvdC73-ApQX&mime_type=video_mp4&qs=0&rc=Zjc1NThlOThkMzU7aDhpNEBpMzk5czo6ZjwzazMzNGkzM0BiNDRjYDExX18xYy1fNWE2YSNyYmUucjQwXnBgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1785731749&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260803123549C5DDE657A9D557316736",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7239542690604518716.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7239542690604518716.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.303,
+      "raw_payload": {
+        "aweme_id": "7239542690604518716",
+        "author_uid": "4446019383994445",
+        "sec_uid": "MS4wLjABAAAAoCLV29Iq_Cx0Kv-5LsO73odQnbLSpw8et2hnNLRvb1disFL-mv7XtVhVoBT9xxh7",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAoCLV29Iq_Cx0Kv-5LsO73odQnbLSpw8et2hnNLRvb1disFL-mv7XtVhVoBT9xxh7"
+      }
+    },
+    "first_seen_at": "2026-08-03T12:35:30+08:00",
+    "last_seen_at": "2026-08-03T12:35:30+08:00",
+    "fetch_runs": [
+      "2026-08-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7239542690604518716.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7239542690604518716.mp3",
+      "source": "download",
+      "processed_at": "2026-08-03T12:38:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7239542690604518716",
+      "transcript_raw": "农产品最快速的出货方式！#山顶会 #农产品农产品最快速的出货方式！#山顶会 #农产品补充信息：农产品最快速的出货方式！#山顶会 #农产品关键词：山顶会、农产品",
+      "transcript_clean": "农产品最快速的出货方式！#山顶会 #农产品农产品最快速的出货方式！#山顶会 #农产品补充信息：农产品最快速的出货方式！#山顶会 #农产品关键词：山顶会、农产品",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-03/7239542690604518716.json",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7239542690604518716",
+      "summary": "波波来了围绕“山顶会”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "农产品最快速的出货方式！#山顶会 #农产品。农产品最快速的出货方式！#山顶会 #农产品农产品最快速的出货方式！#山顶会 #农产品补充信息：农产品最快速的出货方式！#山顶会 #农产品关键词：山顶会、农产品 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "山顶会为什么总是做不出来结果？",
+        "先把农产品想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕山顶会组织标题与开头。",
+        "用农产品和农产品最快速的出货方式！#山顶会补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "山顶会",
+        "农产品",
+        "农产品最快速的出货方式！#山顶会"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-03/7239542690604518716.json",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "last_error": null
+  },
+  "7418215528835091747": {
+    "video_id": "7418215528835091747",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7418215528835091747",
+      "title": "🍅免费小说《恐怖末世，炮灰女配神级道具开局》#被名字劝退但是真上头的小说 #看完不后悔系列小说 #网文能有多离谱 #小说 #关注我每天更新精彩故事",
+      "publish_time": "2024-09-24T14:25:00+08:00",
+      "video_url": "https://www.douyin.com/video/7418215528835091747",
+      "cover_url": "",
+      "like_count": 6,
+      "comment_count": 2,
+      "share_count": 3,
+      "collect_count": 0,
+      "description": "🍅免费小说《恐怖末世，炮灰女配神级道具开局》#被名字劝退但是真上头的小说 #看完不后悔系列小说 #网文能有多离谱 #小说 #关注我每天更新精彩故事",
+      "text_hint": "🍅免费小说《恐怖末世，炮灰女配神级道具开局》#被名字劝退但是真上头的小说 #看完不后悔系列小说 #网文能有多离谱 #小说 #关注我每天更新精彩故事",
+      "topic_tags": [
+        "被名字劝退但是真上头的小说",
+        "看完不后悔系列小说",
+        "网文能有多离谱",
+        "小说",
+        "关注我每天更新精彩故事"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ddc4904e-0518-4404-923b-0bb9387ca5ef",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7418215528835091747",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-03T12:35:30+08:00",
+    "last_seen_at": "2026-08-03T12:35:30+08:00",
+    "fetch_runs": [
+      "2026-08-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7541986956986780979": {
+    "video_id": "7541986956986780979",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "一织猫咪",
+      "video_id": "7541986956986780979",
+      "title": "比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者",
+      "publish_time": "2025-08-24T11:21:21+08:00",
+      "video_url": "https://www.douyin.com/video/7541986956986780979",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bbda6229be6796d291b39bca32219e5a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101089600&x-signature=rYBRI5l3xajFASAxiFaSlK1qh88%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608031236137416F6FD0EA6377A51DE",
+      "like_count": 259,
+      "comment_count": 9,
+      "share_count": 42,
+      "collect_count": 338,
+      "description": "比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者",
+      "text_hint": "比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者",
+      "topic_tags": [
+        "比七夕先到的是diy礼物",
+        "爱心发圈",
+        "手工教程分享",
+        "网红发饰",
+        "手工爱好者",
+        "比七夕先到的是DIY礼物"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a875e67e6166e36133e1f1a9ac3b806b/6a7045df/video/tos/cn/tos-cn-ve-15/oEfgJGqWRA0HzHCD5CMI0AfmugK2AiLWieE9ke/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1404&bt=1404&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wPTz~Hhd.oWvdC73-ApQX&mime_type=video_mp4&qs=0&rc=ZTxnaTdkZjg7OmdmNDdmOUBpajRwaXg5cnI7NTMzNGkzM0AvMS01MF9eNmMxXjQxLjRiYSNwLW5iMmRzNGlhLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1785731773&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202608031236137416F6FD0EA6377A51DE",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7541986956986780979.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7541986956986780979.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 242.767,
+      "raw_payload": {
+        "aweme_id": "7541986956986780979",
+        "author_uid": "2733799862961162",
+        "sec_uid": "MS4wLjABAAAAtngyWj--Te3Ts5aytOI41z2rQD7max1K7rDz3wGw-ktK-Ewd6O9Uy5icZtrdgrPf",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAtngyWj--Te3Ts5aytOI41z2rQD7max1K7rDz3wGw-ktK-Ewd6O9Uy5icZtrdgrPf"
+      }
+    },
+    "first_seen_at": "2026-08-03T12:35:30+08:00",
+    "last_seen_at": "2026-08-03T12:35:30+08:00",
+    "fetch_runs": [
+      "2026-08-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7541986956986780979.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7541986956986780979.mp3",
+      "source": "download",
+      "processed_at": "2026-08-03T12:37:25+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7541986956986780979",
+      "transcript_raw": "比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者补充信息：比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者关键词：比七夕先到的是diy礼物、爱心发圈、手工教程分享、网红发饰、手工爱好者、比七夕先到的是DIY礼物",
+      "transcript_clean": "比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者补充信息：比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者关键词：比七夕先到的是diy礼物、爱心发圈、手工教程分享、网红发饰、手工爱好者、比七夕先到的是DIY礼物",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-03/7541986956986780979.json",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7541986956986780979",
+      "summary": "一织猫咪围绕“比七夕先到的是diy礼物”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者。比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者补充信息：比七夕先到的是DIY礼物\n爱心发圈手工钩织视频教程\n用线： @威莉丝 （童棉）\n色号：01、14\n钩针：2.0mm\n#比七夕先到的是DIY礼物 #爱心发圈 #手工教程分享 #网红发饰 #手工爱好者关键词：比七夕先到的是diy礼物、爱心发圈、手工教程分享、网红发饰、手工爱好者、比七夕先到的是DIY礼物 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "比七夕先到的是diy礼物为什么总是做不出来结果？",
+        "先把爱心发圈想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕比七夕先到的是diy礼物组织标题与开头。",
+        "用爱心发圈和手工教程分享补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "比七夕先到的是diy礼物",
+        "爱心发圈",
+        "手工教程分享"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-03/7541986956986780979.json",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "last_error": null
+  },
+  "7327121843792497960": {
+    "video_id": "7327121843792497960",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "光遇阿呆",
+      "video_id": "7327121843792497960",
+      "title": "墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门",
+      "publish_time": "2024-01-23T10:55:10+08:00",
+      "video_url": "https://www.douyin.com/video/7327121843792497960",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/d17e5e9fef59a8ae66cfcc518e1df147~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101089600&x-signature=is8vRd1xK1ejgc7SH%2B%2FDeaDy%2FYw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608031236167CBEBC51AC2B4D739082",
+      "like_count": 16341,
+      "comment_count": 5364,
+      "share_count": 3958,
+      "collect_count": 5778,
+      "description": "墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门",
+      "text_hint": "墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门",
+      "topic_tags": [
+        "sky光",
+        "光遇骑士跪",
+        "sky光·遇",
+        "光遇骑士跪@DOU+上热门"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/8baa28c78efd797f8f95ed4672e0af0d/6a7045c8/video/cn/mps/realtime/v1/r/p/v0d00fg10000cmniktrc77u3ebv4vu9g/e44747bb151f4a6b90d9335ea41530ff/fd311ae355edba0b27d5a3402b291f34/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=384&bt=384&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNNRVQ9w.Az~Hhd.oWvdC73-ApQX&mime_type=video_mp4&qs=0&rc=aTM4N2g2PDNlZGk4ZTo6N0Bpang3ZTY6ZndscDMzNGkzM0BjMC5eMjBhNjMxLi5fMTFiYSM2c3NicjRvaGtgLS1kLWFzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100B_100x_100z_100o_100w&definition=720p&dy_q=1785731776&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7327121843792497960&l=202608031236167CBEBC51AC2B4D739082&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7327121843792497960.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7327121843792497960.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 216.696,
+      "raw_payload": {
+        "aweme_id": "7327121843792497960",
+        "author_uid": "2228054031605280",
+        "sec_uid": "MS4wLjABAAAABuaLAGohqo9NGesBwHzqZrwFR2LhiIYA77C79DE80xJc44sfLXQAPC-VjBhXYzin",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABuaLAGohqo9NGesBwHzqZrwFR2LhiIYA77C79DE80xJc44sfLXQAPC-VjBhXYzin"
+      }
+    },
+    "first_seen_at": "2026-08-03T12:35:30+08:00",
+    "last_seen_at": "2026-08-03T12:35:30+08:00",
+    "fetch_runs": [
+      "2026-08-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7327121843792497960.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-03/7327121843792497960.mp3",
+      "source": "download",
+      "processed_at": "2026-08-03T12:37:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7327121843792497960",
+      "transcript_raw": "墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门补充信息：墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门关键词：sky光、光遇骑士跪、sky光·遇、光遇骑士跪@DOU+上热门",
+      "transcript_clean": "墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门补充信息：墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门关键词：sky光、光遇骑士跪、sky光·遇、光遇骑士跪@DOU+上热门",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-03/7327121843792497960.json",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7327121843792497960",
+      "summary": "光遇阿呆围绕“sky光”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门。墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门补充信息：墓土骑士跪先祖攻略 #sky光·遇 #光遇骑士跪@DOU+上热门关键词：sky光、光遇骑士跪、sky光·遇、光遇骑士跪@DOU+上热门 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "sky光为什么总是做不出来结果？",
+        "先把光遇骑士跪想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕sky光组织标题与开头。",
+        "用光遇骑士跪和sky光·遇补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "sky光",
+        "光遇骑士跪",
+        "sky光·遇"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-03/7327121843792497960.json",
+      "processed_at": "2026-08-03T12:38:30+08:00"
+    },
+    "last_error": null
+  },
+  "7514476906440346907": {
+    "video_id": "7514476906440346907",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7514476906440346907",
+      "title": "朵朵今天做的酸汤水饺，简单好做又好吃，百吃不厌 #乡村守护人 #我的乡村生活 #新农人计划2025 #农村美食",
+      "publish_time": "2025-06-11T07:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7514476906440346907",
+      "cover_url": "",
+      "like_count": 54000,
+      "comment_count": 1837,
+      "share_count": 11000,
+      "collect_count": 2535,
+      "description": "朵朵今天做的酸汤水饺，简单好做又好吃，百吃不厌 #乡村守护人 #我的乡村生活 #新农人计划2025 #农村美食",
+      "text_hint": "朵朵今天做的酸汤水饺，简单好做又好吃，百吃不厌 #乡村守护人 #我的乡村生活 #新农人计划2025 #农村美食",
+      "topic_tags": [
+        "乡村守护人",
+        "我的乡村生活",
+        "新农人计划2025",
+        "农村美食"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d82cbed9-ef47-4ed8-9691-fa7a86dfd0fb",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7514476906440346907",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-03T12:35:30+08:00",
+    "last_seen_at": "2026-08-03T12:35:30+08:00",
+    "fetch_runs": [
+      "2026-08-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
