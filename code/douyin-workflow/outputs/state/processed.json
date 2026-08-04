@@ -22493,5 +22493,717 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7669605135710910184": {
+    "video_id": "7669605135710910184",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "启航航空科技普洱有限责任公司",
+      "video_id": "7669605135710910184",
+      "title": "花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术",
+      "publish_time": "2026-08-03T09:05:01+08:00",
+      "video_url": "https://www.douyin.com/video/7669605135710910184",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oIkD3BfEGA3TUEVEHICk7hAkTeEsFyBwDvZe6v~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101176000&x-signature=1WTbq1n7yz5r51QrDJsxfZpbYVI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260804121833B37A5246881556050AE8",
+      "like_count": 3,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术",
+      "text_hint": "花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术",
+      "topic_tags": [
+        "无人机装调检修工",
+        "无人机培训",
+        "飞手考证",
+        "职业技能培训",
+        "学一门实用技术"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/45f29abbf4e61707d2440d846547eabb/6a719267/video/tos/cn/tos-cn-ve-15/oweB1IURf7dMLCK0AJEo98QiWBA7WA3e8UHPXg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1587&bt=1587&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9whJ-~Hhd.o3XNC73-ApQX&mime_type=video_mp4&qs=0&rc=ZGk8OjppaTlmOTY0MzNnaUBpanFkeXE5cjR4PDMzNGkzM0AzYWA1YzY1Ni4xYzEyMV5eYSNeMGplMmQ0ZmthLS1kLS9zcw%3D%3D&btag=c0000e00018000&cquery=100z_100o_100w_100B_100x&dy_q=1785817113&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260804121833B37A5246881556050AE8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7669605135710910184.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7669605135710910184.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 30.744,
+      "raw_payload": {
+        "aweme_id": "7669605135710910184",
+        "author_uid": "3010881273206319",
+        "sec_uid": "MS4wLjABAAAAZdvF3laiX9_lpTDOeqMTS-N77U1_zjdDyEoEYiSQ7mYG-wNurANY1hXD6RIG3Q63",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAZdvF3laiX9_lpTDOeqMTS-N77U1_zjdDyEoEYiSQ7mYG-wNurANY1hXD6RIG3Q63"
+      }
+    },
+    "first_seen_at": "2026-08-04T12:18:11+08:00",
+    "last_seen_at": "2026-08-04T12:18:11+08:00",
+    "fetch_runs": [
+      "2026-08-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7669605135710910184.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7669605135710910184.mp3",
+      "source": "download",
+      "processed_at": "2026-08-04T12:19:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7669605135710910184",
+      "transcript_raw": "花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术补充信息：花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术关键词：无人机装调检修工、无人机培训、飞手考证、职业技能培训、学一门实用技术",
+      "transcript_clean": "花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术补充信息：花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术关键词：无人机装调检修工、无人机培训、飞手考证、职业技能培训、学一门实用技术",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-04/7669605135710910184.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7669605135710910184",
+      "summary": "启航航空科技普洱有限责任公司围绕“无人机装调检修工”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术。花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术补充信息：花钱考证千万别踩坑❗只拿证书不会操作纯属浪费钱\n我们真机实操实训教学，实打实学到飞行、维修硬核本事\n📌CAAC 无人机执照班：25 天集训｜包食宿 + 考试费 + 植保证 + 1 年免费复训\n📌无人机装调检修工：15 天拿国家职业等级证，限 20 人封班\n年满 16 岁就能报名，普洱本地实训基地，想要稳定就业、入行无人机行业速私信 无人机执照 #无人机装调检修工 #无人机培训  #飞手考证 #职业技能培训 #学一门实用技术关键词：无人机装调检修工、无人机培训、飞手考证、职业技能培训、学一门实用技术 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "无人机装调检修工为什么总是做不出来结果？",
+        "先把无人机培训想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕无人机装调检修工组织标题与开头。",
+        "用无人机培训和飞手考证补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "无人机装调检修工",
+        "无人机培训",
+        "飞手考证"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-04/7669605135710910184.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "last_error": null
+  },
+  "7637420885393050930": {
+    "video_id": "7637420885393050930",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "财消息",
+      "video_id": "7637420885393050930",
+      "title": "A股收盘 连续3日 超百股涨停#A股#百股涨停",
+      "publish_time": "2026-05-08T15:33:44+08:00",
+      "video_url": "https://www.douyin.com/video/7637420885393050930",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/38be6c88b90f48459b75716a26011041~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101176000&x-signature=80%2FSKta8DN%2FkIlxAI6ooxjrkAmw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260804121836DD06D23D83B64CBACC35",
+      "like_count": 10,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "A股收盘 连续3日 超百股涨停#A股#百股涨停",
+      "text_hint": "A股收盘 连续3日 超百股涨停#A股#百股涨停",
+      "topic_tags": [
+        "A股",
+        "百股涨停"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/30214d94a08e8a6ac17700c6bf698d55/6a719253/video/tos/cn/tos-cn-ve-15/owFIAIeQcwgICHncfLyPDqIC7GkeePAU2gEOPI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1354&bt=1354&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wdJ-~Hhd.o3XNC73-ApQX&mime_type=video_mp4&qs=0&rc=aWdpZzo3OmY0Ozs0aDM6NEBpM2QzbXM5cmtzOjMzNGkzM0BeNGJiNjYzX2MxNTVgM19eYSM0MnMwMmRzMHJhLS1kLS9zcw%3D%3D&btag=c0000e00008000&cquery=100o_100w_100B_100H_100K&dy_q=1785817116&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260804121836DD06D23D83B64CBACC35",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7637420885393050930.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7637420885393050930.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 7.57,
+      "raw_payload": {
+        "aweme_id": "7637420885393050930",
+        "author_uid": "2924328144866231",
+        "sec_uid": "MS4wLjABAAAAynDoQT9iI9rvYQkeL6B98wTE9nX3aFCLvebApUdrvWSXrovQHbmS3x2hakd9eX85",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAynDoQT9iI9rvYQkeL6B98wTE9nX3aFCLvebApUdrvWSXrovQHbmS3x2hakd9eX85"
+      }
+    },
+    "first_seen_at": "2026-08-04T12:18:11+08:00",
+    "last_seen_at": "2026-08-04T12:18:11+08:00",
+    "fetch_runs": [
+      "2026-08-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7637420885393050930.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7637420885393050930.mp3",
+      "source": "download",
+      "processed_at": "2026-08-04T12:19:34+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7637420885393050930",
+      "transcript_raw": "A股收盘 连续3日 超百股涨停#A股#百股涨停A股收盘 连续3日 超百股涨停#A股#百股涨停补充信息：A股收盘 连续3日 超百股涨停#A股#百股涨停关键词：A股、百股涨停",
+      "transcript_clean": "A股收盘 连续3日 超百股涨停#A股#百股涨停A股收盘 连续3日 超百股涨停#A股#百股涨停补充信息：A股收盘 连续3日 超百股涨停#A股#百股涨停关键词：A股、百股涨停",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-04/7637420885393050930.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7637420885393050930",
+      "summary": "财消息围绕“A股”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "A股收盘 连续3日 超百股涨停#A股#百股涨停。A股收盘 连续3日 超百股涨停#A股#百股涨停A股收盘 连续3日 超百股涨停#A股#百股涨停补充信息：A股收盘 连续3日 超百股涨停#A股#百股涨停关键词：A股、百股涨停 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "A股为什么总是做不出来结果？",
+        "先把百股涨停想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕A股组织标题与开头。",
+        "用百股涨停和连续3日补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "A股",
+        "百股涨停",
+        "连续3日"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-04/7637420885393050930.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "last_error": null
+  },
+  "7364044189027355942": {
+    "video_id": "7364044189027355942",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "万献初解字讲国学",
+      "video_id": "7364044189027355942",
+      "title": "“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典",
+      "publish_time": "2024-05-03T00:55:00+08:00",
+      "video_url": "https://www.douyin.com/video/7364044189027355942",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/25c0ebd0b1c67320ef43feeea9dd756c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101176000&x-signature=nCTEZI44WpcgtnoGXZMEYK4My4Y%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260804121839D0CF4409AAEFAF4204C2",
+      "like_count": 3501,
+      "comment_count": 614,
+      "share_count": 625,
+      "collect_count": 1120,
+      "description": "“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典",
+      "text_hint": "“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典",
+      "topic_tags": [
+        "文字",
+        "古诗词",
+        "经典"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/bb3ed0bde69ebe39ba464b8f48f63aeb/6a719492/video/tos/cn/tos-cn-ve-15/oEs09lqzmICmANAPFBMfm8ThEOzQ3lA7fgNalO/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=540&bt=540&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wvJ-~Hhd.o3XNC73-ApQX&mime_type=video_mp4&qs=0&rc=Ojc2Ozo8OmQzNjk3NjczPEBpM2Z1bWk6Znk4cjMzNGkzM0AzYGMuX2ItXy8xXjQzXmMxYSNpa2VvcjRnNm1gLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100H_100K&dy_q=1785817119&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260804121839D0CF4409AAEFAF4204C2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7364044189027355942.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7364044189027355942.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 579.223,
+      "raw_payload": {
+        "aweme_id": "7364044189027355942",
+        "author_uid": "61273400285",
+        "sec_uid": "MS4wLjABAAAAAYkB5ALLudspNSrDtmUAjManZYwNIkaK44dARTOHNIQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAYkB5ALLudspNSrDtmUAjManZYwNIkaK44dARTOHNIQ"
+      }
+    },
+    "first_seen_at": "2026-08-04T12:18:11+08:00",
+    "last_seen_at": "2026-08-04T12:18:11+08:00",
+    "fetch_runs": [
+      "2026-08-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7364044189027355942.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7364044189027355942.mp3",
+      "source": "download",
+      "processed_at": "2026-08-04T12:29:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7364044189027355942",
+      "transcript_raw": "“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典补充信息：“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典关键词：文字、古诗词、经典",
+      "transcript_clean": "“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典补充信息：“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典关键词：文字、古诗词、经典",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-04/7364044189027355942.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7364044189027355942",
+      "summary": "万献初解字讲国学围绕“文字”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典。“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典补充信息：“床前明月光”的床不是井栏！ 也不是床！ #文字 #古诗词 #经典关键词：文字、古诗词、经典 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "文字为什么总是做不出来结果？",
+        "先把古诗词想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕文字组织标题与开头。",
+        "用古诗词和经典补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "文字",
+        "古诗词",
+        "经典"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-04/7364044189027355942.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "last_error": null
+  },
+  "7364954238834740516": {
+    "video_id": "7364954238834740516",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "无忧的荷叶n4",
+      "video_id": "7364954238834740516",
+      "title": "读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山",
+      "publish_time": "2024-05-04T09:44:22+08:00",
+      "video_url": "https://www.douyin.com/video/7364954238834740516",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0026/o8C6AkwNG8AAeBZAEmDnMYbUIABxgGuMAC1Aep~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101176000&x-signature=I3ChqrqK5nV0bWSiDD%2BDosGHzqk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260804121842E5E6A618662E22BB741B",
+      "like_count": 102,
+      "comment_count": 44,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山",
+      "text_hint": "读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山",
+      "topic_tags": [
+        "七彩丹霞",
+        "大好河山"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f2ed876a8a80b48f2c2539d6c9e564c9/6a71932e/video/tos/cn/tos-cn-ve-0015c800/o4QBrLM8yCCXBuGfIexgmGhAIiJcea0xJRXA73/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=1236&bt=1236&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9w~J-~Hhd.o3XNC73-ApQX&mime_type=video_mp4&qs=0&rc=ZzVpNjw6ZzhlNmZpM2g8O0Bpam9oa3c5cnhzcjMzNGkzM0AyXy9iNDA2Xi8xNDBjMmI2YSNzMW00MmQ0Mm5gLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100D_100J_100o&dy_q=1785817122&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260804121842E5E6A618662E22BB741B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7364954238834740516.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7364954238834740516.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 220.683,
+      "raw_payload": {
+        "aweme_id": "7364954238834740516",
+        "author_uid": "660171673313840",
+        "sec_uid": "MS4wLjABAAAAiAURCyFmWXoDjFxdSGBS1EnLoLPYuJTrWHROJFllwdQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAiAURCyFmWXoDjFxdSGBS1EnLoLPYuJTrWHROJFllwdQ"
+      }
+    },
+    "first_seen_at": "2026-08-04T12:18:11+08:00",
+    "last_seen_at": "2026-08-04T12:18:11+08:00",
+    "fetch_runs": [
+      "2026-08-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7364954238834740516.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7364954238834740516.mp3",
+      "source": "download",
+      "processed_at": "2026-08-04T12:28:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7364954238834740516",
+      "transcript_raw": "读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山补充信息：读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山关键词：七彩丹霞、大好河山",
+      "transcript_clean": "读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山补充信息：读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山关键词：七彩丹霞、大好河山",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-04/7364954238834740516.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7364954238834740516",
+      "summary": "无忧的荷叶n4围绕“七彩丹霞”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山。读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山补充信息：读史书，看人生，名人传第三节《天下共主》——黄帝 #七彩丹霞 #大好河山关键词：七彩丹霞、大好河山 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "七彩丹霞为什么总是做不出来结果？",
+        "先把大好河山想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕七彩丹霞组织标题与开头。",
+        "用大好河山和#七彩丹霞补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "七彩丹霞",
+        "大好河山",
+        "#七彩丹霞"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-04/7364954238834740516.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "last_error": null
+  },
+  "7582450485907442985": {
+    "video_id": "7582450485907442985",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7582450485907442985",
+      "title": "嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流",
+      "publish_time": "2025-12-11T04:20:00+08:00",
+      "video_url": "https://www.douyin.com/video/7582450485907442985",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流",
+      "text_hint": "嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流",
+      "topic_tags": [
+        "高情商",
+        "说话技巧",
+        "人际交往",
+        "对答如流"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/ae99036c61056cecd51fecb3a9484ae4/6a71938c/video/tos/cn/tos-cn-v-c9e10a/ogA3IiO09TI2yRBg3Qwa6yORqbSoArAG2Eiva/?a=6383&br=3256&bt=3256&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_102v_102u_100o&cr=3&cs=0&dr=0&ds=4&dy_q=1785817138&feature_id=b1cb202f98cf51d95e455ae01e100ce9&ft=CZdgCYlIDyjNMRVQ9wzJ-~Hhd.o3XNC73-ApQX&is_ssr=1&l=202608041218573A0C208513CF742B76BE&lr=all&mime_type=video_mp4&qs=0&rc=NTw5Mzk0Zzw0Z2lkOWdpZkBpM215eXM5cjY3NzMzNDYzM0A0YF9jNC42XmExM18xNWIyYSMzLTEvMmRjYXFhLS1kMDBzcw%3D%3D&__vid=7582450485907442985",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7582450485907442985.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7582450485907442985.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7582450485907442985",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-04T12:18:11+08:00",
+    "last_seen_at": "2026-08-04T12:18:11+08:00",
+    "fetch_runs": [
+      "2026-08-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7582450485907442985.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7582450485907442985.mp3",
+      "source": "download",
+      "processed_at": "2026-08-04T12:25:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7582450485907442985",
+      "transcript_raw": "嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流补充信息：嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流关键词：高情商、说话技巧、人际交往、对答如流",
+      "transcript_clean": "嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流补充信息：嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流关键词：高情商、说话技巧、人际交往、对答如流",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-04/7582450485907442985.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7582450485907442985",
+      "summary": "知雪围绕“高情商”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流。嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流补充信息：嘴笨、反应慢、不善表达请翻烂这本书，无论是生活还是工作，会接话才是真本事。#高情商#说话技巧 #人际交往#对答如流关键词：高情商、说话技巧、人际交往、对答如流 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "高情商为什么总是做不出来结果？",
+        "先把说话技巧想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕高情商组织标题与开头。",
+        "用说话技巧和人际交往补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "高情商",
+        "说话技巧",
+        "人际交往"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-04/7582450485907442985.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "last_error": null
+  },
+  "7487286957660261692": {
+    "video_id": "7487286957660261692",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "6110542170470",
+      "video_id": "7487286957660261692",
+      "title": "#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错",
+      "publish_time": "2025-03-30T01:38:08+08:00",
+      "video_url": "https://www.douyin.com/video/7487286957660261692",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/cfa5225fb33563282ecd2ab0196bccb3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101176000&x-signature=6OgZX41FNAOWOu6ks6lXxSUyvj4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260804121905563365A287433F0F447F",
+      "like_count": 756,
+      "comment_count": 137,
+      "share_count": 173,
+      "collect_count": 194,
+      "description": "#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错",
+      "text_hint": "#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错",
+      "topic_tags": [
+        "热门音乐🔥",
+        "多扎西",
+        "好听的藏语歌",
+        "聆听天籁之音"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a5672d67d58e3fdcabc11c076f07ddf7/6a719330/video/tos/cn/tos-cn-ve-15c000-ce/oENoijw6fAIKYe3AQB9nWCC5MiEeiAVhCCMEB8/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=506&bt=506&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wRJ-~Hhd.o3XNC73-ApQX&mime_type=video_mp4&qs=0&rc=ZWU0ZzY0Ojo0OWg7OzlnOkBpajZwOHY5cms1eTMzbGkzNEAxMGJeMTFhNl8xLy8uMi4yYSNwMGUuMmRjcmhgLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1785817145&feature_id=fea919893f650a8c49286568590446ef&l=20260804121905563365A287433F0F447F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7487286957660261692.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7487286957660261692.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 199.5,
+      "raw_payload": {
+        "aweme_id": "7487286957660261692",
+        "author_uid": "3843484078050743",
+        "sec_uid": "MS4wLjABAAAA3JQNLjAzpx2tMZlkaiqmBM1kq6H7ozK-CVx3DKBFA1k9hi0R1juD12IE_SijPxBe",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA3JQNLjAzpx2tMZlkaiqmBM1kq6H7ozK-CVx3DKBFA1k9hi0R1juD12IE_SijPxBe"
+      }
+    },
+    "first_seen_at": "2026-08-04T12:18:11+08:00",
+    "last_seen_at": "2026-08-04T12:18:11+08:00",
+    "fetch_runs": [
+      "2026-08-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7487286957660261692.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7487286957660261692.mp3",
+      "source": "download",
+      "processed_at": "2026-08-04T12:25:36+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7487286957660261692",
+      "transcript_raw": "#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错补充信息：#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错关键词：热门音乐🔥、多扎西、好听的藏语歌、聆听天籁之音",
+      "transcript_clean": "#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错补充信息：#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错关键词：热门音乐🔥、多扎西、好听的藏语歌、聆听天籁之音",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-04/7487286957660261692.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7487286957660261692",
+      "summary": "6110542170470围绕“热门音乐🔥”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错。#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错补充信息：#热门音乐🔥 《白云》#多扎西#好听的藏语歌 #聆听天籁之音 @多扎西 爱在纳木错关键词：热门音乐🔥、多扎西、好听的藏语歌、聆听天籁之音 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "热门音乐🔥为什么总是做不出来结果？",
+        "先把多扎西想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕热门音乐🔥组织标题与开头。",
+        "用多扎西和好听的藏语歌补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "热门音乐🔥",
+        "多扎西",
+        "好听的藏语歌"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-04/7487286957660261692.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "last_error": null
+  },
+  "6971064646878989604": {
+    "video_id": "6971064646878989604",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "山泉浓茶",
+      "video_id": "6971064646878989604",
+      "title": "扦插培育成活率低可能是这些细节被忽视了",
+      "publish_time": "2021-06-07T22:51:38+08:00",
+      "video_url": "https://www.douyin.com/video/6971064646878989604",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a01b2003c344590fffbcfd2ec14de280~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101176000&x-signature=sxlyIV%2B5sWQiMF0b1dDhcoTRsv4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260804121908E55AB1CB5FFA190394FE",
+      "like_count": 4319,
+      "comment_count": 319,
+      "share_count": 406,
+      "collect_count": 870,
+      "description": "扦插培育成活率低可能是这些细节被忽视了",
+      "text_hint": "扦插培育成活率低可能是这些细节被忽视了",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/032a4df422d10ab386e540e0bcc733e7/6a719343/video/tos/cn/tos-cn-ve-15/4371d3d96f9b45eab06d48300a859f93/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3301&bt=3301&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wTJ-~Hhd.o3XNC73-ApQX&mime_type=video_mp4&qs=0&rc=NGY2Nzo2OGdoOGhmPDc1aUBpM3Btbzx2M2g2NTMzNGkzM0BgLTY0MzU0NmIxMTVeLTE2YSM0ZG1vZmEzLnNgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100B_100-_102u_100o_100w&dy_q=1785817148&l=20260804121908E55AB1CB5FFA190394FE",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/6971064646878989604.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/6971064646878989604.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 215.621,
+      "raw_payload": {
+        "aweme_id": "6971064646878989604",
+        "author_uid": "106493686349",
+        "sec_uid": "MS4wLjABAAAAXbVA6Ye7k-xjD1lyZFsJmAF8uTawjPpj-I8lzZLz6Bw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAXbVA6Ye7k-xjD1lyZFsJmAF8uTawjPpj-I8lzZLz6Bw"
+      }
+    },
+    "first_seen_at": "2026-08-04T12:18:11+08:00",
+    "last_seen_at": "2026-08-04T12:18:11+08:00",
+    "fetch_runs": [
+      "2026-08-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/6971064646878989604.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/6971064646878989604.mp3",
+      "source": "download",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6971064646878989604",
+      "transcript_raw": "扦插培育成活率低可能是这些细节被忽视了扦插培育成活率低可能是这些细节被忽视了补充信息：扦插培育成活率低可能是这些细节被忽视了",
+      "transcript_clean": "扦插培育成活率低可能是这些细节被忽视了扦插培育成活率低可能是这些细节被忽视了补充信息：扦插培育成活率低可能是这些细节被忽视了",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-04/6971064646878989604.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "analysis": {
+      "video_id": "6971064646878989604",
+      "summary": "山泉浓茶围绕“扦插培育成活率低可能是这些细节被忽视了扦插培育成活率低可能是这些细节被忽视了补充信息：扦插培育成活率低可能是这些细节被忽视了”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "扦插培育成活率低可能是这些细节被忽视了。扦插培育成活率低可能是这些细节被忽视了扦插培育成活率低可能是这些细节被忽视了补充信息：扦插培育成活率低可能是这些细节被忽视了 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "扦插培育成活率低可能是这些细节被忽视了扦插培育成活率低可能是这些细节被忽视了补充信息：扦插培育成活率低可能是这些细节被忽视了为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕扦插培育成活率低可能是这些细节被忽视了扦插培育成活率低可能是这些细节被忽视了补充信息：扦插培育成活率低可能是这些细节被忽视了组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "扦插培育成活率低可能是这些细节被忽视了扦插培育成活率低可能是这些细节被忽视了补充信息：扦插培育成活率低可能是这些细节被忽视了",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-04/6971064646878989604.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "last_error": null
+  },
+  "7429283271051087138": {
+    "video_id": "7429283271051087138",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7429283271051087138",
+      "title": "宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4",
+      "publish_time": "2024-10-24T12:12:00+08:00",
+      "video_url": "https://www.douyin.com/video/7429283271051087138",
+      "cover_url": "",
+      "like_count": 41,
+      "comment_count": 9,
+      "share_count": 19,
+      "collect_count": 15,
+      "description": "宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4",
+      "text_hint": "宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4",
+      "topic_tags": [
+        "宝马4系",
+        "宝马四系",
+        "宝马425",
+        "宝马430",
+        "宝马M4"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/422582d47cd30fd8555894ee821d8255/6a719339/video/tos/cn/tos-cn-ve-15/oonfDNaquB8QhAF91A6IJDAhDGAmgafYEwSDE0/?a=6383&br=1471&bt=1471&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1785817164&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wng-~Hhd.o3XNC73-ApQX&is_ssr=1&l=20260804121923470A1686DF1E7EB9C3A5&lr=all&mime_type=video_mp4&qs=12&rc=Z2g8NDppZDplZmdpNjppaEBpM3hna3Q5cmU0djMzNGkzM0BeMzAwYzMzNi8xL2BiXmFiYSNhbjNuMmRrbGFgLS1kLTBzcw%3D%3D&__vid=7429283271051087138",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7429283271051087138.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7429283271051087138.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7429283271051087138",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-04T12:18:11+08:00",
+    "last_seen_at": "2026-08-04T12:18:11+08:00",
+    "fetch_runs": [
+      "2026-08-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7429283271051087138.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-04/7429283271051087138.mp3",
+      "source": "download",
+      "processed_at": "2026-08-04T12:28:25+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7429283271051087138",
+      "transcript_raw": "宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4补充信息：宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4关键词：宝马4系、宝马四系、宝马425、宝马430、宝马M4",
+      "transcript_clean": "宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4补充信息：宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4关键词：宝马4系、宝马四系、宝马425、宝马430、宝马M4",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-04/7429283271051087138.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7429283271051087138",
+      "summary": "知雪围绕“宝马4系”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4。宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4补充信息：宝马4系升级M47 design品牌干碳套件详细介绍 宝马4系双门：M47 design干碳套件，原创设计品牌！包含前铲，前风刀，灯眉（M4/3可用），侧腮，侧裙，后风刀，后唇。高品质干碳纤维产品，全套无损升级。 #宝马4系 #宝马四系 #宝马425 #宝马430 #宝马M4关键词：宝马4系、宝马四系、宝马425、宝马430、宝马M4 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "宝马4系为什么总是做不出来结果？",
+        "先把宝马四系想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕宝马4系组织标题与开头。",
+        "用宝马四系和宝马425补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "宝马4系",
+        "宝马四系",
+        "宝马425"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-04/7429283271051087138.json",
+      "processed_at": "2026-08-04T12:36:14+08:00"
+    },
+    "last_error": null
   }
 }
