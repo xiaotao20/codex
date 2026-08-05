@@ -23205,5 +23205,582 @@
       "processed_at": "2026-08-04T12:36:14+08:00"
     },
     "last_error": null
+  },
+  "7629019617403565177": {
+    "video_id": "7629019617403565177",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "梁星柒",
+      "video_id": "7629019617403565177",
+      "title": "在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划",
+      "publish_time": "2026-04-16T00:12:29+08:00",
+      "video_url": "https://www.douyin.com/video/7629019617403565177",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/697da4694eef5b6c23aacfa5cfbf3ee8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101262400&x-signature=Vqpg0CDEo4JLfr6yjCJJkRjDgDg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026080512170071F993E6F92DE8D2E0F0",
+      "like_count": 263,
+      "comment_count": 18,
+      "share_count": 46,
+      "collect_count": 80,
+      "description": "在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划",
+      "text_hint": "在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划",
+      "topic_tags": [
+        "云南泼水节有多热闹",
+        "交换世界计划",
+        "超会玩派对",
+        "西双版纳泼水节",
+        "青年创作者成长计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/585bca4856b86143fc1750d7d38c0050/6a72e411/video/tos/cn/tos-cn-ve-15c000-ce/ocegFeSdGJHTLa9BLBIH3lgfvDOR70Cgsk77BA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4707&bt=4707&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wTrp~Hhd.DO47103-ApQX&mime_type=video_mp4&qs=0&rc=OmdnZDo6Ozw7aGc6aWY5M0Bpajd3Z3U5cjx1OjMzbGkzNUBeNl4yNjM0NmMxLjQ1NjMzYSNqLm80MmRjZGNhLS1kLTRzcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1785903420&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026080512170071F993E6F92DE8D2E0F0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7629019617403565177.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7629019617403565177.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 165.667,
+      "raw_payload": {
+        "aweme_id": "7629019617403565177",
+        "author_uid": "3218974729313380",
+        "sec_uid": "MS4wLjABAAAAD9rytRo36poUMSRoeL5R5z6Lqey02jlk3Vk0cQhhBF88O9o1NgN73AYV5bfAb4AF",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAD9rytRo36poUMSRoeL5R5z6Lqey02jlk3Vk0cQhhBF88O9o1NgN73AYV5bfAb4AF"
+      }
+    },
+    "first_seen_at": "2026-08-05T12:16:46+08:00",
+    "last_seen_at": "2026-08-05T12:16:46+08:00",
+    "fetch_runs": [
+      "2026-08-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7629019617403565177.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7629019617403565177.mp3",
+      "source": "download",
+      "processed_at": "2026-08-05T12:18:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7629019617403565177",
+      "transcript_raw": "在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划补充信息：在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划关键词：云南泼水节有多热闹、交换世界计划、超会玩派对、西双版纳泼水节、青年创作者成长计划",
+      "transcript_clean": "在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划补充信息：在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划关键词：云南泼水节有多热闹、交换世界计划、超会玩派对、西双版纳泼水节、青年创作者成长计划",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-05/7629019617403565177.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7629019617403565177",
+      "summary": "梁星柒围绕“云南泼水节有多热闹”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划。在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划补充信息：在西双版纳参加泼水节是一种什么样的体验？ #云南泼水节有多热闹 #交换世界计划 #超会玩派对 #西双版纳泼水节 #青年创作者成长计划关键词：云南泼水节有多热闹、交换世界计划、超会玩派对、西双版纳泼水节、青年创作者成长计划 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "云南泼水节有多热闹为什么总是做不出来结果？",
+        "先把交换世界计划想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕云南泼水节有多热闹组织标题与开头。",
+        "用交换世界计划和超会玩派对补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "云南泼水节有多热闹",
+        "交换世界计划",
+        "超会玩派对"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-05/7629019617403565177.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "last_error": null
+  },
+  "7057451072595578112": {
+    "video_id": "7057451072595578112",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "易缘",
+      "video_id": "7057451072595578112",
+      "title": "猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育",
+      "publish_time": "2022-01-26T17:54:42+08:00",
+      "video_url": "https://www.douyin.com/video/7057451072595578112",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1b05e10ae08b3ae3f98b36974cc53703~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101262400&x-signature=q%2FS4enH58vFlBH%2Fl1fxDe13nfs8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026080512170348A0E38B752E85632FD7",
+      "like_count": 857,
+      "comment_count": 42,
+      "share_count": 69,
+      "collect_count": 368,
+      "description": "猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育",
+      "text_hint": "猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育",
+      "topic_tags": [
+        "动漫",
+        "动画",
+        "育儿",
+        "睡前故事",
+        "童话故事",
+        "亲子教育"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1ce22705d967c5fbff8837abebe183ef/6a72e4a6/video/tos/cn/tos-cn-ve-0015c800/c488d2f2bf2b4c3e91d7be2b80388e69/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=407&bt=407&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wGrp~Hhd.DO47103-ApQX&mime_type=video_mp4&qs=0&rc=OjU1aDkzZWgzaDRpZjg3NEBpM3hrOTk6ZmdrOjMzNGkzM0A1Y2AzLy4uNTAxMTQuNDRiYSNwZy1ocjRvaGxgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_102u_100o_100w&dy_q=1785903423&l=2026080512170348A0E38B752E85632FD7",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7057451072595578112.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7057451072595578112.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 311.148,
+      "raw_payload": {
+        "aweme_id": "7057451072595578112",
+        "author_uid": "93466012006",
+        "sec_uid": "MS4wLjABAAAA7RwIpvK3iptcNlfnCeinJB1Rg4x1QgBfg8fNPNs6Fwo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7RwIpvK3iptcNlfnCeinJB1Rg4x1QgBfg8fNPNs6Fwo"
+      }
+    },
+    "first_seen_at": "2026-08-05T12:16:46+08:00",
+    "last_seen_at": "2026-08-05T12:16:46+08:00",
+    "fetch_runs": [
+      "2026-08-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7057451072595578112.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7057451072595578112.mp3",
+      "source": "download",
+      "processed_at": "2026-08-05T12:31:29+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7057451072595578112",
+      "transcript_raw": "猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育补充信息：猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育关键词：动漫、动画、育儿、睡前故事、童话故事、亲子教育",
+      "transcript_clean": "猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育补充信息：猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育关键词：动漫、动画、育儿、睡前故事、童话故事、亲子教育",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-05/7057451072595578112.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7057451072595578112",
+      "summary": "易缘围绕“动漫”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育。猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育补充信息：猫公主#动漫 #动画 #育儿 #睡前故事 #童话故事 #亲子教育关键词：动漫、动画、育儿、睡前故事、童话故事、亲子教育 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "动漫为什么总是做不出来结果？",
+        "先把动画想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕动漫组织标题与开头。",
+        "用动画和育儿补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "动漫",
+        "动画",
+        "育儿"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-05/7057451072595578112.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "last_error": null
+  },
+  "6854069563638697219": {
+    "video_id": "6854069563638697219",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "莞漂女汉子",
+      "video_id": "6854069563638697219",
+      "title": "女司机说还是开大货车爽，周末跑个小长途开心极了",
+      "publish_time": "2020-07-27T16:11:16+08:00",
+      "video_url": "https://www.douyin.com/video/6854069563638697219",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ef2f250fcdca59d024d78f5943715c49~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101262400&x-signature=X9ojMyrCUK%2FmAnO3FB%2Fa5GtivsM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260805121707C064AABCFFAF50992016",
+      "like_count": 2095,
+      "comment_count": 78,
+      "share_count": 31,
+      "collect_count": 24,
+      "description": "女司机说还是开大货车爽，周末跑个小长途开心极了",
+      "text_hint": "女司机说还是开大货车爽，周末跑个小长途开心极了",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d59b917c6d99636d07c626bcd793f693/6a72e46b/video/tos/cn/tos-cn-ve-15c001-alinc2/f415a92d20ac48e89fcf0851adf66172/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2580&bt=2580&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wMdp~Hhd.DO47103-ApQX&mime_type=video_mp4&qs=0&rc=N2Y1O2RnaDppZjk6aTczZ0BpM2RveW1zODw7djMzZGkzM0BiNi4tNS8yXzMxL15hYWBgYSNrY2xtNmlebGNfLS0xLTBzcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100D_102u&dy_q=1785903427&l=20260805121707C064AABCFFAF50992016",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/6854069563638697219.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/6854069563638697219.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 248.408,
+      "raw_payload": {
+        "aweme_id": "6854069563638697219",
+        "author_uid": "97694456717",
+        "sec_uid": "MS4wLjABAAAA2n2hOBZvQjEXLeMyr12V_FzefT3bX8iNgjK8v9xLsOY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA2n2hOBZvQjEXLeMyr12V_FzefT3bX8iNgjK8v9xLsOY"
+      }
+    },
+    "first_seen_at": "2026-08-05T12:16:46+08:00",
+    "last_seen_at": "2026-08-05T12:16:46+08:00",
+    "fetch_runs": [
+      "2026-08-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/6854069563638697219.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/6854069563638697219.mp3",
+      "source": "download",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6854069563638697219",
+      "transcript_raw": "女司机说还是开大货车爽，周末跑个小长途开心极了女司机说还是开大货车爽，周末跑个小长途开心极了补充信息：女司机说还是开大货车爽，周末跑个小长途开心极了",
+      "transcript_clean": "女司机说还是开大货车爽，周末跑个小长途开心极了女司机说还是开大货车爽，周末跑个小长途开心极了补充信息：女司机说还是开大货车爽，周末跑个小长途开心极了",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-05/6854069563638697219.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "analysis": {
+      "video_id": "6854069563638697219",
+      "summary": "莞漂女汉子围绕“女司机说还是开大货车爽，周末跑个小长途开心极了女司机说还是开大货车爽，周末跑个小长途开心极了补充信息：女司机说还是开大货车爽，周末跑个小长途开心极了”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "女司机说还是开大货车爽，周末跑个小长途开心极了。女司机说还是开大货车爽，周末跑个小长途开心极了女司机说还是开大货车爽，周末跑个小长途开心极了补充信息：女司机说还是开大货车爽，周末跑个小长途开心极了 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "女司机说还是开大货车爽，周末跑个小长途开心极了女司机说还是开大货车爽，周末跑个小长途开心极了补充信息：女司机说还是开大货车爽，周末跑个小长途开心极了为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕女司机说还是开大货车爽，周末跑个小长途开心极了女司机说还是开大货车爽，周末跑个小长途开心极了补充信息：女司机说还是开大货车爽，周末跑个小长途开心极了组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "女司机说还是开大货车爽，周末跑个小长途开心极了女司机说还是开大货车爽，周末跑个小长途开心极了补充信息：女司机说还是开大货车爽，周末跑个小长途开心极了",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-05/6854069563638697219.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "last_error": null
+  },
+  "7552923834048761148": {
+    "video_id": "7552923834048761148",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7552923834048761148",
+      "title": "金龙在抖音记录美好生活20250922",
+      "publish_time": "2025-09-22T14:42:00+08:00",
+      "video_url": "https://www.douyin.com/video/7552923834048761148",
+      "cover_url": "",
+      "like_count": 62,
+      "comment_count": 12,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "金龙在抖音记录美好生活20250922",
+      "text_hint": "金龙在抖音记录美好生活20250922",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b2ed4f1daef9d485d3f3e53b2771ea41/6a72e6d8/video/tos/cn/tos-cn-ve-15c000-ce/ogdbE7PBnI2meS0AiYBuXaXKRBIAUif9iQ8XEw/?a=6383&br=585&bt=585&btag=80000e00038000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&dr=0&ds=1&dy_q=1785903444&feature_id=fea919893f650a8c49286568590446ef&ft=CZdgCYlIDyjNNRVQ9w1dp~Hhd.DO47103-ApQX&is_ssr=1&l=20260805121724E45886C205A409A98AEC&lr=all&mime_type=video_mp4&qs=0&rc=OWU8OGY5MzRkPGRpNGQ5OkBpM3FnOXA5cnFvNjMzbGkzNUA2LjFjX2BgNS8xMWAuXmItYSNrMXNlMmQ0cjVhLS1kLTRzcw%3D%3D&__vid=7552923834048761148",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7552923834048761148.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7552923834048761148.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7552923834048761148",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-05T12:16:46+08:00",
+    "last_seen_at": "2026-08-05T12:16:46+08:00",
+    "fetch_runs": [
+      "2026-08-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7552923834048761148.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7552923834048761148.mp3",
+      "source": "download",
+      "processed_at": "2026-08-05T12:27:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7552923834048761148",
+      "transcript_raw": "金龙在抖音记录美好生活20250922金龙在抖音记录美好生活20250922补充信息：金龙在抖音记录美好生活20250922",
+      "transcript_clean": "金龙在抖音记录美好生活20250922金龙在抖音记录美好生活20250922补充信息：金龙在抖音记录美好生活20250922",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-05/7552923834048761148.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7552923834048761148",
+      "summary": "目标博主 1围绕“金龙在抖音记录美好生活20250922金龙在抖音记录美好生活20250922补充信息：金龙在抖音记录美好生活20250922”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "金龙在抖音记录美好生活20250922。金龙在抖音记录美好生活20250922金龙在抖音记录美好生活20250922补充信息：金龙在抖音记录美好生活20250922 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "金龙在抖音记录美好生活20250922金龙在抖音记录美好生活20250922补充信息：金龙在抖音记录美好生活20250922为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕金龙在抖音记录美好生活20250922金龙在抖音记录美好生活20250922补充信息：金龙在抖音记录美好生活20250922组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "金龙在抖音记录美好生活20250922金龙在抖音记录美好生活20250922补充信息：金龙在抖音记录美好生活20250922",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-05/7552923834048761148.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "last_error": null
+  },
+  "7553566090136161574": {
+    "video_id": "7553566090136161574",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "老陈瑞思拜",
+      "video_id": "7553566090136161574",
+      "title": "包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森",
+      "publish_time": "2025-09-25T19:15:00+08:00",
+      "video_url": "https://www.douyin.com/video/7553566090136161574",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4cd21d00a075ad4b81a771b633f1236a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101262400&x-signature=kb4GLR1EcfVFYYuBEJcq690wVKw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608051217322D90F1B42C1944AAE713",
+      "like_count": 561,
+      "comment_count": 34,
+      "share_count": 45,
+      "collect_count": 170,
+      "description": "包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森",
+      "text_hint": "包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森",
+      "topic_tags": [
+        "包凡",
+        "财经",
+        "平安落地",
+        "陈杰森"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/076a5e8efbcfdb0ff718c15396c7fa67/6a72e497/video/tos/cn/tos-cn-ve-15/oYL4M4xRpADfBhxiIVj0f7vCGaVeIb2oBNEAQG/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2825&bt=2825&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wddp~Hhd.DO47103-ApQX&mime_type=video_mp4&qs=0&rc=OjM0Zzg2OWY3ZTdkOzY4aEBpM2pwcG85cjl0NjMzNGkzM0BgMmEzXzVfX2IxMTEwL2NhYSNlczQ2MmQ0YjZhLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1785903452&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202608051217322D90F1B42C1944AAE713",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7553566090136161574.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7553566090136161574.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 267.702,
+      "raw_payload": {
+        "aweme_id": "7553566090136161574",
+        "author_uid": "96008912368",
+        "sec_uid": "MS4wLjABAAAAzE0iXF_24j6oFsPKfKwEpuN5CFepAnkHzc0Gog3q22A",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAzE0iXF_24j6oFsPKfKwEpuN5CFepAnkHzc0Gog3q22A"
+      }
+    },
+    "first_seen_at": "2026-08-05T12:16:46+08:00",
+    "last_seen_at": "2026-08-05T12:16:46+08:00",
+    "fetch_runs": [
+      "2026-08-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7553566090136161574.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7553566090136161574.mp3",
+      "source": "download",
+      "processed_at": "2026-08-05T12:26:34+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7553566090136161574",
+      "transcript_raw": "包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森补充信息：包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森关键词：包凡、财经、平安落地、陈杰森",
+      "transcript_clean": "包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森补充信息：包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森关键词：包凡、财经、平安落地、陈杰森",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-05/7553566090136161574.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7553566090136161574",
+      "summary": "老陈瑞思拜围绕“包凡”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森。包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森补充信息：包总为什么能平安落地 #包凡 #财经 #平安落地 #陈杰森关键词：包凡、财经、平安落地、陈杰森 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "包凡为什么总是做不出来结果？",
+        "先把财经想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕包凡组织标题与开头。",
+        "用财经和平安落地补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "包凡",
+        "财经",
+        "平安落地"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-05/7553566090136161574.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "last_error": null
+  },
+  "7344235347410160906": {
+    "video_id": "7344235347410160906",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7344235347410160906",
+      "title": "在抖音记录美好生活20260805",
+      "publish_time": "2026-08-05T12:18:00+08:00",
+      "video_url": "https://www.douyin.com/video/7344235347410160906",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260805",
+      "text_hint": "在抖音记录美好生活20260805",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/e601df18-fa56-43ae-a427-a28c8a5751cd",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7344235347410160906",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-05T12:16:46+08:00",
+    "last_seen_at": "2026-08-05T12:16:46+08:00",
+    "fetch_runs": [
+      "2026-08-05"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7325765327881637157": {
+    "video_id": "7325765327881637157",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7325765327881637157",
+      "title": "简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy",
+      "publish_time": "2024-01-19T11:11:00+08:00",
+      "video_url": "https://www.douyin.com/video/7325765327881637157",
+      "cover_url": "",
+      "like_count": 973,
+      "comment_count": 23,
+      "share_count": 1137,
+      "collect_count": 195,
+      "description": "简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy",
+      "text_hint": "简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy",
+      "topic_tags": [
+        "红绳手链",
+        "素圈手绳",
+        "新年手绳",
+        "八股辫",
+        "手工diy"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/5d07738617ef098882d7a4e0a4764ebc/6a72e4d0/video/tos/cn/tos-cn-ve-15/oM9BjFAhhGZfYmqBplTHA2Cep3QAIdOmDlUEEg/?a=6383&br=1273&bt=1273&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100D_100J&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1785903475&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9w_dp~Hhd.DO47103-ApQX&is_ssr=1&l=2026080512175575B101845F44CBA97EF6&lr=all&mime_type=video_mp4&qs=1&rc=M2YzOzs1ZGY0ODs5aWQ6NUBpajVmO205cnA4cDMzNGkzM0BeXzItNmNfNWAxNWMwNTI1YSNhYm4tMmRjZWlgLS1kLS9zcw%3D%3D&__vid=7325765327881637157",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7325765327881637157.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7325765327881637157.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7325765327881637157",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-05T12:16:46+08:00",
+    "last_seen_at": "2026-08-05T12:16:46+08:00",
+    "fetch_runs": [
+      "2026-08-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7325765327881637157.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-05/7325765327881637157.mp3",
+      "source": "download",
+      "processed_at": "2026-08-05T12:31:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7325765327881637157",
+      "transcript_raw": "简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy补充信息：简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy关键词：红绳手链、素圈手绳、新年手绳、八股辫、手工diy",
+      "transcript_clean": "简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy补充信息：简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy关键词：红绳手链、素圈手绳、新年手绳、八股辫、手工diy",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-05/7325765327881637157.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7325765327881637157",
+      "summary": "目标博主 1围绕“红绳手链”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy。简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy补充信息：简单大方的新年素圈红绳，八股辫手绳的慢动作编法教程 #红绳手链 #素圈手绳 #新年手绳 #八股辫 #手工diy关键词：红绳手链、素圈手绳、新年手绳、八股辫、手工diy 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "红绳手链为什么总是做不出来结果？",
+        "先把素圈手绳想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕红绳手链组织标题与开头。",
+        "用素圈手绳和新年手绳补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "红绳手链",
+        "素圈手绳",
+        "新年手绳"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-05/7325765327881637157.json",
+      "processed_at": "2026-08-05T12:32:09+08:00"
+    },
+    "last_error": null
   }
 }
