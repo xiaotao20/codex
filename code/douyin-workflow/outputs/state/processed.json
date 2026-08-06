@@ -23782,5 +23782,502 @@
       "processed_at": "2026-08-05T12:32:09+08:00"
     },
     "last_error": null
+  },
+  "7662323839304600859": {
+    "video_id": "7662323839304600859",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "热度新闻",
+      "video_id": "7662323839304600859",
+      "title": "《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星",
+      "publish_time": "2026-07-14T18:09:58+08:00",
+      "video_url": "https://www.douyin.com/video/7662323839304600859",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/9574a330d6c492a48b1a197afccfed29~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101348800&x-signature=9W41D7gINGQQbFGXJH0o13HjCC4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260806121916E31A8AEB58C0EFEA4DC3",
+      "like_count": 363,
+      "comment_count": 16,
+      "share_count": 9,
+      "collect_count": 20,
+      "description": "《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星",
+      "text_hint": "《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星",
+      "topic_tags": [
+        "成毅",
+        "狩谎",
+        "工作室",
+        "正能量",
+        "明星"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/e27d56e9e98954cc920e64da42afecad/6a74358d/video/tos/cn/tos-cn-ve-15/o0QTsUPBfCALEA7RteIACLIBEKGklrg4Je4V8G/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1819&bt=1819&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wiS~UHhd.696WD03-ApQX&mime_type=video_mp4&qs=0&rc=NGg2aDQ2ODc0Z2c4OTs7ZUBpM2x2OHU5cjUzPDMzNGkzM0BgYzEuMzUxNmMxLl5eNWA2YSNyYzA2MmRrLl9hLS1kLTBzcw%3D%3D&btag=c0000e00010000&cc=1f&cquery=100w_100B_100H_100K_100o&dy_q=1785989956&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260806121916E31A8AEB58C0EFEA4DC3&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7662323839304600859.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7662323839304600859.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 25.434,
+      "raw_payload": {
+        "aweme_id": "7662323839304600859",
+        "author_uid": "99146421629",
+        "sec_uid": "MS4wLjABAAAAhudOqr4jfJeVfF283LrAm73kgX-g2RtGIOV99KhaWsc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhudOqr4jfJeVfF283LrAm73kgX-g2RtGIOV99KhaWsc"
+      }
+    },
+    "first_seen_at": "2026-08-06T12:18:54+08:00",
+    "last_seen_at": "2026-08-06T12:18:54+08:00",
+    "fetch_runs": [
+      "2026-08-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7662323839304600859.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7662323839304600859.mp3",
+      "source": "download",
+      "processed_at": "2026-08-06T12:20:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7662323839304600859",
+      "transcript_raw": "《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星补充信息：《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星关键词：成毅、狩谎、工作室、正能量、明星",
+      "transcript_clean": "《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星补充信息：《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星关键词：成毅、狩谎、工作室、正能量、明星",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-06/7662323839304600859.json",
+      "processed_at": "2026-08-06T12:25:11+08:00"
+    },
+    "analysis": {
+      "video_id": "7662323839304600859",
+      "summary": "热度新闻围绕“成毅”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星。《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星补充信息：《狩谎》片场围观扎堆乱象频发，成毅工作室发文劝导，倡议拒绝跟拍路透守护剧组拍摄安全秩序。#成毅 #狩谎 #工作室 #正能量 #明星关键词：成毅、狩谎、工作室、正能量、明星 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "成毅为什么总是做不出来结果？",
+        "先把狩谎想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕成毅组织标题与开头。",
+        "用狩谎和工作室补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "成毅",
+        "狩谎",
+        "工作室"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-06/7662323839304600859.json",
+      "processed_at": "2026-08-06T12:25:11+08:00"
+    },
+    "last_error": null
+  },
+  "7132453780326599944": {
+    "video_id": "7132453780326599944",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "望里大叔",
+      "video_id": "7132453780326599944",
+      "title": "望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇",
+      "publish_time": "2022-08-16T20:43:29+08:00",
+      "video_url": "https://www.douyin.com/video/7132453780326599944",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/719a6cefc706cc25a54c293174a5baa8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101348800&x-signature=x73%2Fo4nSRIAo%2FHcA4CBs67q82Lo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608061219183F1B1668E2C7D127BDAC",
+      "like_count": 48,
+      "comment_count": 23,
+      "share_count": 4,
+      "collect_count": 17,
+      "description": "望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇",
+      "text_hint": "望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇",
+      "topic_tags": [
+        "合金钢",
+        "罗拉",
+        "机械设备",
+        "望里大叔",
+        "望里镇"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/42935078178c74a83d3cb5efe17ffab0/6a7436d5/video/tos/cn/tos-cn-ve-0015c800/ae65942fa16b4f74b861c6420818f90a/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1688&bt=1688&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9w3S~UHhd.696WD03-ApQX&mime_type=video_mp4&qs=0&rc=NDg7ZGQzNjxkOTg8aTpkZUBpanJvdGQ6Zm5yZTMzNGkzM0A1NDJfLWFiXjUxMDA0MzUvYSMtaC5ocjRnb3FgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1785989959&l=202608061219183F1B1668E2C7D127BDAC",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7132453780326599944.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7132453780326599944.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 350.435,
+      "raw_payload": {
+        "aweme_id": "7132453780326599944",
+        "author_uid": "82871227397",
+        "sec_uid": "MS4wLjABAAAAyNRcPdjGutvubqKlMrTlXdFAJZZqOT1rn6VubFV-1-k",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAyNRcPdjGutvubqKlMrTlXdFAJZZqOT1rn6VubFV-1-k"
+      }
+    },
+    "first_seen_at": "2026-08-06T12:18:54+08:00",
+    "last_seen_at": "2026-08-06T12:18:54+08:00",
+    "fetch_runs": [
+      "2026-08-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7132453780326599944.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7132453780326599944.mp3",
+      "source": "download",
+      "processed_at": "2026-08-06T12:25:11+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7132453780326599944",
+      "transcript_raw": "望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇补充信息：望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇关键词：合金钢、罗拉、机械设备、望里大叔、望里镇",
+      "transcript_clean": "望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇补充信息：望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇关键词：合金钢、罗拉、机械设备、望里大叔、望里镇",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-06/7132453780326599944.json",
+      "processed_at": "2026-08-06T12:25:11+08:00"
+    },
+    "analysis": {
+      "video_id": "7132453780326599944",
+      "summary": "望里大叔围绕“合金钢”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇。望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇补充信息：望里开花机，纺织机械配件，合金钢各种罗拉等，生产厂家直销！#合金钢 #罗拉 #机械设备  #望里大叔 #望里镇关键词：合金钢、罗拉、机械设备、望里大叔、望里镇 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "合金钢为什么总是做不出来结果？",
+        "先把罗拉想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕合金钢组织标题与开头。",
+        "用罗拉和机械设备补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "合金钢",
+        "罗拉",
+        "机械设备"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-06/7132453780326599944.json",
+      "processed_at": "2026-08-06T12:25:11+08:00"
+    },
+    "last_error": null
+  },
+  "7145425399193816323": {
+    "video_id": "7145425399193816323",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "北京苏小月",
+      "video_id": "7145425399193816323",
+      "title": "逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京",
+      "publish_time": "2022-09-20T19:40:06+08:00",
+      "video_url": "https://www.douyin.com/video/7145425399193816323",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/88dc59578de728887dc6ff1518dada26~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101348800&x-signature=XPOtazUCeaO1%2Fh5j3%2BeVMD7v1Lc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608061219226C40CCF008A848EB5BA4",
+      "like_count": 1929,
+      "comment_count": 293,
+      "share_count": 49,
+      "collect_count": 141,
+      "description": "逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京",
+      "text_hint": "逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京",
+      "topic_tags": [
+        "vlog日常",
+        "生活vlog",
+        "北京"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/5cba5c5d4b9162c0f6186e0318586638/6a7436e2/video/tos/cn/tos-cn-ve-0015c800/10015889eca24bbe85e135958c571b7f/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3528&bt=3528&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wAS~UHhd.696WD03-ApQX&mime_type=video_mp4&qs=0&rc=ZjszZDRoZWZkZjlkNTg3aEBpM204aTM6Zjh0ZjMzNGkzM0AvMC0xMzU0NS8xYy8yYzVgYSNfay1gcjRnYWhgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100D_100J_100o&dy_q=1785989962&l=202608061219226C40CCF008A848EB5BA4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7145425399193816323.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7145425399193816323.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 360.419,
+      "raw_payload": {
+        "aweme_id": "7145425399193816323",
+        "author_uid": "105886121732",
+        "sec_uid": "MS4wLjABAAAA_gn_p8t-SCtaHPiT65VGWYTeqZdIgDzPuz27Kpux9NY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA_gn_p8t-SCtaHPiT65VGWYTeqZdIgDzPuz27Kpux9NY"
+      }
+    },
+    "first_seen_at": "2026-08-06T12:18:54+08:00",
+    "last_seen_at": "2026-08-06T12:18:54+08:00",
+    "fetch_runs": [
+      "2026-08-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7145425399193816323.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7145425399193816323.mp3",
+      "source": "download",
+      "processed_at": "2026-08-06T12:24:36+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7145425399193816323",
+      "transcript_raw": "逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京补充信息：逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京关键词：vlog日常、生活vlog、北京",
+      "transcript_clean": "逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京补充信息：逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京关键词：vlog日常、生活vlog、北京",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-06/7145425399193816323.json",
+      "processed_at": "2026-08-06T12:25:11+08:00"
+    },
+    "analysis": {
+      "video_id": "7145425399193816323",
+      "summary": "北京苏小月围绕“vlog日常”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京。逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京补充信息：逛北京的羊绒工厂店，媳妇特意穿上高跟鞋搭配，买几件羊绒衫犒劳自己 #vlog日常 #生活vlog #北京关键词：vlog日常、生活vlog、北京 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "vlog日常为什么总是做不出来结果？",
+        "先把生活vlog想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕vlog日常组织标题与开头。",
+        "用生活vlog和北京补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "vlog日常",
+        "生活vlog",
+        "北京"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-06/7145425399193816323.json",
+      "processed_at": "2026-08-06T12:25:11+08:00"
+    },
+    "last_error": null
+  },
+  "7535354962935549203": {
+    "video_id": "7535354962935549203",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7535354962935549203",
+      "title": "注册环保工程师基础考试90天高效学习策略 90天高效学习策略， 1、摆正心态 2、无需满分 3、学会放弃 4、反复学习 #注册环保工程师 #学习计划 #复习策略 #备考经验 #勘察设计注册工程师",
+      "publish_time": "2025-08-06T06:25:00+08:00",
+      "video_url": "https://www.douyin.com/video/7535354962935549203",
+      "cover_url": "",
+      "like_count": 4,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "注册环保工程师基础考试90天高效学习策略 90天高效学习策略， 1、摆正心态 2、无需满分 3、学会放弃 4、反复学习 #注册环保工程师 #学习计划 #复习策略 #备考经验 #勘察设计注册工程师",
+      "text_hint": "注册环保工程师基础考试90天高效学习策略 90天高效学习策略， 1、摆正心态 2、无需满分 3、学会放弃 4、反复学习 #注册环保工程师 #学习计划 #复习策略 #备考经验 #勘察设计注册工程师",
+      "topic_tags": [
+        "注册环保工程师",
+        "学习计划",
+        "复习策略",
+        "备考经验",
+        "勘察设计注册工程师"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/87a82f85-1b7c-4dd0-827f-5b3e32b8c5e5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7535354962935549203",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-06T12:18:54+08:00",
+    "last_seen_at": "2026-08-06T12:18:54+08:00",
+    "fetch_runs": [
+      "2026-08-06"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7389944503139978505": {
+    "video_id": "7389944503139978505",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7389944503139978505",
+      "title": "在抖音记录美好生活20260806",
+      "publish_time": "2026-08-06T12:20:00+08:00",
+      "video_url": "https://www.douyin.com/video/7389944503139978505",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260806",
+      "text_hint": "在抖音记录美好生活20260806",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/3e2b8d2b-9526-4858-8bce-1de074107b20",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7389944503139978505",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-06T12:18:54+08:00",
+    "last_seen_at": "2026-08-06T12:18:54+08:00",
+    "fetch_runs": [
+      "2026-08-06"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7302418262267055398": {
+    "video_id": "7302418262267055398",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "天府国际赛道",
+      "video_id": "7302418262267055398",
+      "title": "原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行",
+      "publish_time": "2023-11-17T21:12:32+08:00",
+      "video_url": "https://www.douyin.com/video/7302418262267055398",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/49de53e6f1faecd98eefc7686bac0371~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101348800&x-signature=lwIEW96leuiYs869fae%2FWPGdpSk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026080612195218E335DB29C55819301D",
+      "like_count": 565,
+      "comment_count": 242,
+      "share_count": 373,
+      "collect_count": 57,
+      "description": "原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行",
+      "text_hint": "原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行",
+      "topic_tags": [
+        "赛车场",
+        "速度与激情",
+        "赛道",
+        "汽车文化",
+        "骑行"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ce9c9e8010dcabcef496b953a3277f37/6a74377e/video/tos/cn/tos-cn-ve-0015c800/oQJwXAuI2CqDvDIl5V8bABgyThnfVYQe9XnCAD/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=5590&bt=5590&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wHS~UHhd.696WD03-ApQX&mime_type=video_mp4&qs=0&rc=M2RoOGY8Omk1OTM8aDhkaUBpMzx5azM6ZmpwbzMzNGkzM0AtNl81NGIuNjAxLjAtYGBeYSNqYjNrcjRvXl9gLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1785989992&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026080612195218E335DB29C55819301D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7302418262267055398.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7302418262267055398.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 486.506,
+      "raw_payload": {
+        "aweme_id": "7302418262267055398",
+        "author_uid": "1568329769434023",
+        "sec_uid": "MS4wLjABAAAAfRaXHCyJRVZ5NsT_LITofAridZlrarR2wOSM6ihP8pZ7HD7xegbM9DKaICSS_ZRD",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAfRaXHCyJRVZ5NsT_LITofAridZlrarR2wOSM6ihP8pZ7HD7xegbM9DKaICSS_ZRD"
+      }
+    },
+    "first_seen_at": "2026-08-06T12:18:54+08:00",
+    "last_seen_at": "2026-08-06T12:18:54+08:00",
+    "fetch_runs": [
+      "2026-08-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7302418262267055398.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-06/7302418262267055398.mp3",
+      "source": "download",
+      "processed_at": "2026-08-06T12:23:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7302418262267055398",
+      "transcript_raw": "原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行补充信息：原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行关键词：赛车场、速度与激情、赛道、汽车文化、骑行",
+      "transcript_clean": "原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行补充信息：原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行关键词：赛车场、速度与激情、赛道、汽车文化、骑行",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-06/7302418262267055398.json",
+      "processed_at": "2026-08-06T12:25:11+08:00"
+    },
+    "analysis": {
+      "video_id": "7302418262267055398",
+      "summary": "天府国际赛道围绕“赛车场”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行。原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行补充信息：原来在赛道骑行竟然这么爽🤣🤣🤣\n感谢@爱开车的SPIG 大患老师手把手的弯道教学，看来天府国际赛道也很适合公路自行车比赛哦😎#赛车场 #速度与激情 #赛道 #汽车文化 #骑行关键词：赛车场、速度与激情、赛道、汽车文化、骑行 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "赛车场为什么总是做不出来结果？",
+        "先把速度与激情想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕赛车场组织标题与开头。",
+        "用速度与激情和赛道补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "赛车场",
+        "速度与激情",
+        "赛道"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-06/7302418262267055398.json",
+      "processed_at": "2026-08-06T12:25:11+08:00"
+    },
+    "last_error": null
+  },
+  "7447872599868165415": {
+    "video_id": "7447872599868165415",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7447872599868165415",
+      "title": "在抖音记录美好生活20260806",
+      "publish_time": "2026-08-06T12:20:00+08:00",
+      "video_url": "https://www.douyin.com/video/7447872599868165415",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260806",
+      "text_hint": "在抖音记录美好生活20260806",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c43798fe-e758-4e9c-894e-7b9276c3af15",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7447872599868165415",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-06T12:18:54+08:00",
+    "last_seen_at": "2026-08-06T12:18:54+08:00",
+    "fetch_runs": [
+      "2026-08-06"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
