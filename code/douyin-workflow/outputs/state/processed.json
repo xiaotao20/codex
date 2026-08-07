@@ -24279,5 +24279,383 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7670704331754114340": {
+    "video_id": "7670704331754114340",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "易启文化用品专营店",
+      "video_id": "7670704331754114340",
+      "title": "初中物理化学拉开差距的就是公式基础和实验题，每天花15分钟学习核心考点，牢牢打好理科基础",
+      "publish_time": "2026-08-06T08:10:34+08:00",
+      "video_url": "https://www.douyin.com/video/7670704331754114340",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-958309/owI5zkCrIPDIhh3qQg8dQWdOH3taTnCEGNMbz~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101431600&x-signature=6z0KZPnAelCiPjBhtVcNZxns5sA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260807115439088F02F8BBEC4F8A2D72",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "初中物理化学拉开差距的就是公式基础和实验题，每天花15分钟学习核心考点，牢牢打好理科基础",
+      "text_hint": "初中物理化学拉开差距的就是公式基础和实验题，每天花15分钟学习核心考点，牢牢打好理科基础",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/d8d40606b6bb927ba01956f01f2bf32f/6a758164/video/tos/cn/tos-cn-v-958309/ow5XE0qeb1BH9Ry8MntggmCQoAAAaNei5Ujkfb/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=2344&bt=2344&cs=0&ds=3&ft=4rzAgkIKDyjNbRVQ9wGlPUHhd.yoZ-573-ApQX&mime_type=video_mp4&qs=0&rc=ODc6NzU8NWQ7MzhkNDxnPEBpMzo3dnI5cnh3PDMzNDYzM0BhMTIzYTM0XmExY2JjMDY2YSNnZzRuMmRrLm1hLS1kMDBzcw%3D%3D&btag=c0000e00020000&cquery=100w_100B_102v_102u_100o&dy_q=1786074879&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=20260807115439088F02F8BBEC4F8A2D72",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 53.801,
+      "raw_payload": {
+        "aweme_id": "7670704331754114340",
+        "author_uid": "1648886066199443",
+        "sec_uid": "MS4wLjABAAAAhoORWzyroSgmXdMKXlVPX0qZzOzZbeMw7QkqG79ilQBuWrOsyA2RA89NvQ6sUtp0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhoORWzyroSgmXdMKXlVPX0qZzOzZbeMw7QkqG79ilQBuWrOsyA2RA89NvQ6sUtp0"
+      }
+    },
+    "first_seen_at": "2026-08-07T11:54:15+08:00",
+    "last_seen_at": "2026-08-07T11:54:15+08:00",
+    "fetch_runs": [
+      "2026-08-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7585938199819947305": {
+    "video_id": "7585938199819947305",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "欧阳奋强说红楼",
+      "video_id": "7585938199819947305",
+      "title": "你喜欢林黛玉还是薛宝钗？再读红楼梦发现，从前嫌黛玉太作，如今却怕宝钗太假～ #贾宝玉 #林黛玉 #薛宝钗 #欧阳奋强 #红楼梦",
+      "publish_time": "2025-12-20T21:54:52+08:00",
+      "video_url": "https://www.douyin.com/video/7585938199819947305",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ce5dff32eedeff2585710690f09f5ce5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101431600&x-signature=hXVtfKSYaZgIX7BDazHl0W3x9hE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026080711544288C877BBFE77D4787812",
+      "like_count": 63414,
+      "comment_count": 15397,
+      "share_count": 7279,
+      "collect_count": 9839,
+      "description": "你喜欢林黛玉还是薛宝钗？再读红楼梦发现，从前嫌黛玉太作，如今却怕宝钗太假～ #贾宝玉 #林黛玉 #薛宝钗 #欧阳奋强 #红楼梦",
+      "text_hint": "你喜欢林黛玉还是薛宝钗？再读红楼梦发现，从前嫌黛玉太作，如今却怕宝钗太假～ #贾宝玉 #林黛玉 #薛宝钗 #欧阳奋强 #红楼梦",
+      "topic_tags": [
+        "贾宝玉",
+        "林黛玉",
+        "薛宝钗",
+        "欧阳奋强",
+        "红楼梦"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/4842f9e469da1321c9832fcebcd9e66e/6a7581e6/video/tos/cn/tos-cn-ve-15/oUFqNbGpRAcHArDQEvBqF92BDKGfEMf4A9dgID/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1262&bt=1262&cs=0&ds=4&ft=4rzAgkIKDyjNbRVQ9ww.PUHhd.yoZ-573-ApQX&mime_type=video_mp4&qs=0&rc=aDM0NDQ2ZThpaTo7NzczaEBpamV2O3E5cjNkODMzNGkzM0A2LTU1MDIwXmMxMzEyNDVjYSNiYzRzMmRzaTBhLS1kLTBzcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1786074882&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026080711544288C877BBFE77D4787812",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 180.884,
+      "raw_payload": {
+        "aweme_id": "7585938199819947305",
+        "author_uid": "766789738305132",
+        "sec_uid": "MS4wLjABAAAAJQI4HysaoNK-35Uei-tvHUzHmGCWd1p9SlisLy3xxhI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAJQI4HysaoNK-35Uei-tvHUzHmGCWd1p9SlisLy3xxhI"
+      }
+    },
+    "first_seen_at": "2026-08-07T11:54:15+08:00",
+    "last_seen_at": "2026-08-07T11:54:15+08:00",
+    "fetch_runs": [
+      "2026-08-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7421725070025903397": {
+    "video_id": "7421725070025903397",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "宅妹Studio",
+      "video_id": "7421725070025903397",
+      "title": "我有一个跨部门的同事是鉴黄民警《花诗异闻》#小说推荐 #盐选小说推文 #悬疑推理 #推文超好看小说 #推理悬疑小说推荐",
+      "publish_time": "2024-10-04T09:23:58+08:00",
+      "video_url": "https://www.douyin.com/video/7421725070025903397",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a08536eacf73af1908465cac2312bcfa~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101431600&x-signature=UFcOK5xzInGDl89uwQCUXg4hYVY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260807115446A2DE9EBBD2E25A984D48",
+      "like_count": 56,
+      "comment_count": 1,
+      "share_count": 1,
+      "collect_count": 7,
+      "description": "我有一个跨部门的同事是鉴黄民警《花诗异闻》#小说推荐 #盐选小说推文 #悬疑推理 #推文超好看小说 #推理悬疑小说推荐",
+      "text_hint": "我有一个跨部门的同事是鉴黄民警《花诗异闻》#小说推荐 #盐选小说推文 #悬疑推理 #推文超好看小说 #推理悬疑小说推荐",
+      "topic_tags": [
+        "小说推荐",
+        "盐选小说推文",
+        "悬疑推理",
+        "推文超好看小说",
+        "推理悬疑小说推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/3e8da2edaca0b91af5958d896dda04db/6a75832a/video/tos/cn/tos-cn-ve-0015c800/oAficLKD2RgAIIyexfgFpTGbEjILICJoEAUXRf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1355&bt=1355&cs=0&ds=3&ft=4rzAgkIKDyjNbRVQ9wS.PUHhd.yoZ-573-ApQX&mime_type=video_mp4&qs=0&rc=PDU1aGQzOjs8aWZoZzxoOUBpMzptNXY5cnNudTMzNGkzM0AyMV9eMzJgNWMxLWFiMjRfYSMuZWZgMmQ0MnNgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1786074886&feature_id=aa7df520beeae8e397df15f38df0454c&l=20260807115446A2DE9EBBD2E25A984D48",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 500.2,
+      "raw_payload": {
+        "aweme_id": "7421725070025903397",
+        "author_uid": "4176424608207500",
+        "sec_uid": "MS4wLjABAAAAamlHiSfPhBpv5gFtxLkAh-RbvSSQXYNDygiW4SzOMLCdGkIh44CcJ1QATTFzNKCj",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAamlHiSfPhBpv5gFtxLkAh-RbvSSQXYNDygiW4SzOMLCdGkIh44CcJ1QATTFzNKCj"
+      }
+    },
+    "first_seen_at": "2026-08-07T11:54:15+08:00",
+    "last_seen_at": "2026-08-07T11:54:15+08:00",
+    "fetch_runs": [
+      "2026-08-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7422701890036665639": {
+    "video_id": "7422701890036665639",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "宇宙探索者",
+      "video_id": "7422701890036665639",
+      "title": "尼古拉·特斯拉的发明被隐藏了100多年 #尼古拉特斯拉 #未解之谜 #科学家",
+      "publish_time": "2024-10-07T00:34:33+08:00",
+      "video_url": "https://www.douyin.com/video/7422701890036665639",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f695f72e88024dc5f63fd422021837a8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101431600&x-signature=5u%2FVZvEnLKfXjGMZY3erNeziGHU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608071154493A35870EAC38A4C75325",
+      "like_count": 22,
+      "comment_count": 2,
+      "share_count": 3,
+      "collect_count": 12,
+      "description": "尼古拉·特斯拉的发明被隐藏了100多年 #尼古拉特斯拉 #未解之谜 #科学家",
+      "text_hint": "尼古拉·特斯拉的发明被隐藏了100多年 #尼古拉特斯拉 #未解之谜 #科学家",
+      "topic_tags": [
+        "尼古拉特斯拉",
+        "未解之谜",
+        "科学家"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/161f46b398f4f7297ed514860bbbe267/6a7586ec/video/tos/cn/tos-cn-ve-0015c800/okjldRGAIKPAlBwiAb8HzEiwQZiUCIwLIvESv/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=870&bt=870&cs=0&ds=3&ft=4rzAgkIKDyjNbRVQ9wp.PUHhd.yoZ-573-ApQX&mime_type=video_mp4&qs=0&rc=ZmkzN2QzaWY7ZDs1aWY6NUBpajpvbGo5cjlldjMzNGkzM0AxMjRfMzM0XzQxNmAuMTVgYSNmLzFlMmRrbC5gLS1kLTBzcw%3D%3D&btag=80000e00038000&cquery=100B_100D_100J_100o_100w&dy_q=1786074889&feature_id=aa7df520beeae8e397df15f38df0454c&l=202608071154493A35870EAC38A4C75325",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 1459.7,
+      "raw_payload": {
+        "aweme_id": "7422701890036665639",
+        "author_uid": "471003756236702",
+        "sec_uid": "MS4wLjABAAAAIQcXWRUAicVswn7B5o6Gtl_xcNWRbqemPzPYDhH9dbM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAIQcXWRUAicVswn7B5o6Gtl_xcNWRbqemPzPYDhH9dbM"
+      }
+    },
+    "first_seen_at": "2026-08-07T11:54:15+08:00",
+    "last_seen_at": "2026-08-07T11:54:15+08:00",
+    "fetch_runs": [
+      "2026-08-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7581811724568251694": {
+    "video_id": "7581811724568251694",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7581811724568251694",
+      "title": "在抖音记录美好生活20260807",
+      "publish_time": "2026-08-07T11:55:25+08:00",
+      "video_url": "https://www.douyin.com/video/7581811724568251694",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260807",
+      "text_hint": "在抖音记录美好生活20260807",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/b44ae350-bdeb-4a84-a541-d60257e333c3",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7581811724568251694",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-07T11:54:15+08:00",
+    "last_seen_at": "2026-08-07T11:54:15+08:00",
+    "fetch_runs": [
+      "2026-08-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7530666970686819619": {
+    "video_id": "7530666970686819619",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小梁同学Mg",
+      "video_id": "7530666970686819619",
+      "title": "琉璃3代的\"通病\"你遇到了几个？ #哈曼卡顿 #维修 #DIY#音乐#数码科技",
+      "publish_time": "2025-07-24T23:14:01+08:00",
+      "video_url": "https://www.douyin.com/video/7530666970686819619",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/967b74cba0b202272a8e7a03969e95fa~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101431600&x-signature=kxx9LtQcHrDTfqkOBPIxr2uXpio%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026080711550008FBBDC3FD347CCF7473",
+      "like_count": 291,
+      "comment_count": 151,
+      "share_count": 57,
+      "collect_count": 106,
+      "description": "琉璃3代的\"通病\"你遇到了几个？ #哈曼卡顿 #维修 #DIY#音乐#数码科技",
+      "text_hint": "琉璃3代的\"通病\"你遇到了几个？ #哈曼卡顿 #维修 #DIY#音乐#数码科技",
+      "topic_tags": [
+        "哈曼卡顿",
+        "维修",
+        "diy",
+        "音乐",
+        "数码科技",
+        "DIY"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/7be0ec301eec991a6c683684de44a014/6a7582ce/video/tos/cn/tos-cn-ve-15/oAVvQNkGpDAVeSYIvkF4A9ojMAhgoBrgIpfTFE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2251&bt=2251&cs=0&ds=4&ft=4rzAgkIKDyjNbRVQ9w1.PUHhd.yoZ-573-ApQX&mime_type=video_mp4&qs=0&rc=NzNoNWY8ZDpnZDM1NTQ5N0BpM25tbHY5cnQ3NTMzNGkzM0A2NmA2MC4wNV4xLi00NDNhYSM2Ll4uMmRjay5hLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1786074900&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026080711550008FBBDC3FD347CCF7473",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 394.227,
+      "raw_payload": {
+        "aweme_id": "7530666970686819619",
+        "author_uid": "3755552205187771",
+        "sec_uid": "MS4wLjABAAAABOrYdfZhVsj2N8Pt9UdaUVTFBUWUhVdt2XD_fEomGflMymJE6u2b6qZz-EeHaAcp",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABOrYdfZhVsj2N8Pt9UdaUVTFBUWUhVdt2XD_fEomGflMymJE6u2b6qZz-EeHaAcp"
+      }
+    },
+    "first_seen_at": "2026-08-07T11:54:15+08:00",
+    "last_seen_at": "2026-08-07T11:54:15+08:00",
+    "fetch_runs": [
+      "2026-08-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7235093895938329893": {
+    "video_id": "7235093895938329893",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "瓜瓜的美食频道",
+      "video_id": "7235093895938329893",
+      "title": "今天是糯叽叽的一天～\n宝子们今天怎么过啊哈哈哈\n我今天应该出去逛逛街，晚上在外边吃个饭#抖音美食推荐官 #谁不爱这一口糯叽叽呢 #吃货日常 #甜品",
+      "publish_time": "2023-05-20T10:59:35+08:00",
+      "video_url": "https://www.douyin.com/video/7235093895938329893",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6c714cf82a4f886f5238fbc49a122aa3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101431600&x-signature=x967OTypWxYcDFe8URO4I%2FFqp7k%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260807115503E30D38945FCACEC97B88",
+      "like_count": 377,
+      "comment_count": 74,
+      "share_count": 28,
+      "collect_count": 53,
+      "description": "今天是糯叽叽的一天～\n宝子们今天怎么过啊哈哈哈\n我今天应该出去逛逛街，晚上在外边吃个饭#抖音美食推荐官 #谁不爱这一口糯叽叽呢 #吃货日常 #甜品",
+      "text_hint": "今天是糯叽叽的一天～\n宝子们今天怎么过啊哈哈哈\n我今天应该出去逛逛街，晚上在外边吃个饭#抖音美食推荐官 #谁不爱这一口糯叽叽呢 #吃货日常 #甜品",
+      "topic_tags": [
+        "抖音美食推荐官",
+        "谁不爱这一口糯叽叽呢",
+        "吃货日常",
+        "甜品"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/02cf84bd04f1364fec889b8a1cfe6a5d/6a758260/video/tos/cn/tos-cn-ve-0015c800/oMNArBhBGazpeugXtBVJfyoAtLCQ1yEAOMIq6r/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1203&bt=1203&cs=0&ds=3&ft=4rzAgkIKDyjNbRVQ9wO.PUHhd.yoZ-573-ApQX&mime_type=video_mp4&qs=0&rc=Zzc7aGU7Zzo0ZTg3NDNkNkBpanFqeGU6Zm82azMzNGkzM0BjMDAxMS8uXl4xYS40YV5jYSNpZmUtcjRfYWhgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1786074903&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260807115503E30D38945FCACEC97B88",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 281.448,
+      "raw_payload": {
+        "aweme_id": "7235093895938329893",
+        "author_uid": "72043193724",
+        "sec_uid": "MS4wLjABAAAAXcNqQ-LKtX1l3lf-gaWuRA2Ikz56Nn8WHNNaMkXv5Lw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAXcNqQ-LKtX1l3lf-gaWuRA2Ikz56Nn8WHNNaMkXv5Lw"
+      }
+    },
+    "first_seen_at": "2026-08-07T11:54:15+08:00",
+    "last_seen_at": "2026-08-07T11:54:15+08:00",
+    "fetch_runs": [
+      "2026-08-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7569776842950900346": {
+    "video_id": "7569776842950900346",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7569776842950900346",
+      "title": "高校分享——（985）华南理工大学#高考 #志愿填报 #高考志愿 #大学 #华南理工大学",
+      "publish_time": "2025-11-07T00:40:00+08:00",
+      "video_url": "https://www.douyin.com/video/7569776842950900346",
+      "cover_url": "",
+      "like_count": 1562,
+      "comment_count": 357,
+      "share_count": 789,
+      "collect_count": 424,
+      "description": "高校分享——（985）华南理工大学#高考 #志愿填报 #高考志愿 #大学 #华南理工大学",
+      "text_hint": "高校分享——（985）华南理工大学#高考 #志愿填报 #高考志愿 #大学 #华南理工大学",
+      "topic_tags": [
+        "高考",
+        "志愿填报",
+        "高考志愿",
+        "大学",
+        "华南理工大学"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/89378fc1-cdd4-4483-a320-e3040e5fd3eb",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7569776842950900346",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-07T11:54:15+08:00",
+    "last_seen_at": "2026-08-07T11:54:15+08:00",
+    "fetch_runs": [
+      "2026-08-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
