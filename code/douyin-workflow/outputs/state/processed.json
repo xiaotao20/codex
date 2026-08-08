@@ -24657,5 +24657,550 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7671484648458942946": {
+    "video_id": "7671484648458942946",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "兰姐聊升学",
+      "video_id": "7671484648458942946",
+      "title": "深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业",
+      "publish_time": "2026-08-08T10:38:30+08:00",
+      "video_url": "https://www.douyin.com/video/7671484648458942946",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oQ2F9UYB7IwAqERee9EBUeGUvK9LIBHSCAc0l7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101514400&x-signature=uPYnyw4euv8AQ2OEhUPDK50UqXc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260808105755BF51A014BCACFE44D754",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业",
+      "text_hint": "深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业",
+      "topic_tags": [
+        "如何择校和选择专业",
+        "专升本经验分享",
+        "升学规划师",
+        "深圳职业技术大学",
+        "怎么选专业"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/71a954fb31f0e64a98d0bd62a6a0a77e/6a76c573/video/tos/cn/tos-cn-ve-15/ok97e7IFeBw352EqBU0HlLAIGeAgLBQ9FCvUSE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=863&bt=863&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9w_QOUHhd.vIYLf03-ApQX&mime_type=video_mp4&qs=0&rc=NWdpPGU0NDZnOjQ1NWk5M0BpandyNXk5cjM8PDMzNGkzM0BjYV40XmI0XjExYWFhMDMzYSNyX2dgMmRzYW9hLS1kLS9zcw%3D%3D&btag=80000e00010000&cquery=100x_100z_100o_100w_100B&dy_q=1786157875&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260808105755BF51A014BCACFE44D754",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7671484648458942946.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7671484648458942946.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 16.467,
+      "raw_payload": {
+        "aweme_id": "7671484648458942946",
+        "author_uid": "100417427612",
+        "sec_uid": "MS4wLjABAAAAHIUnLa8YR53c0zov_-eRbAKbXIg3ab2lQ41SGtqj0VM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHIUnLa8YR53c0zov_-eRbAKbXIg3ab2lQ41SGtqj0VM"
+      }
+    },
+    "first_seen_at": "2026-08-08T10:57:33+08:00",
+    "last_seen_at": "2026-08-08T10:57:33+08:00",
+    "fetch_runs": [
+      "2026-08-08"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7671484648458942946.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7671484648458942946.mp3",
+      "source": "download",
+      "processed_at": "2026-08-08T10:59:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7671484648458942946",
+      "transcript_raw": "深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业补充信息：深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业关键词：如何择校和选择专业、专升本经验分享、升学规划师、深圳职业技术大学、怎么选专业",
+      "transcript_clean": "深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业补充信息：深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业关键词：如何择校和选择专业、专升本经验分享、升学规划师、深圳职业技术大学、怎么选专业",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-08/7671484648458942946.json",
+      "processed_at": "2026-08-08T10:59:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7671484648458942946",
+      "summary": "兰姐聊升学围绕“如何择校和选择专业”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业。深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业补充信息：深圳职业技术大学2026年本科招生录取亮点公布！ #如何择校和选择专业 #专升本经验分享 #升学规划师 #深圳职业技术大学 #怎么选专业关键词：如何择校和选择专业、专升本经验分享、升学规划师、深圳职业技术大学、怎么选专业 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "如何择校和选择专业为什么总是做不出来结果？",
+        "先把专升本经验分享想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕如何择校和选择专业组织标题与开头。",
+        "用专升本经验分享和升学规划师补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "如何择校和选择专业",
+        "专升本经验分享",
+        "升学规划师"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-08/7671484648458942946.json",
+      "processed_at": "2026-08-08T10:59:54+08:00"
+    },
+    "last_error": null
+  },
+  "7603671553947566193": {
+    "video_id": "7603671553947566193",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "皮皮搞笑哥",
+      "video_id": "7603671553947566193",
+      "title": "林心如50岁生日派对照曝光",
+      "publish_time": "2026-02-06T16:49:03+08:00",
+      "video_url": "https://www.douyin.com/video/7603671553947566193",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/owCjAq3h8FeutAaCIpED5vfOQC58wqagEeF0c9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101514400&x-signature=2YwO9MPL5YEW%2BikZHXE1n2CEAsI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260808105758C2CA9D5C20A70016ECC2",
+      "like_count": 3,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "林心如50岁生日派对照曝光",
+      "text_hint": "林心如50岁生日派对照曝光",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/02aea0b36874470b854c280c26afdbf5/6a76c59f/video/tos/cn/tos-cn-ve-15c000-ce/owFDntAOihq6Ww8YBMYTabqiIQ5Awp2NPXEpP/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=522&bt=522&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wqQOUHhd.vIYLf03-ApQX&mime_type=video_mp4&qs=0&rc=Zjc5Mzo4aDU8N2Q7aTU4NUBpanVuZnY5cmd0OTMzbGkzNEAuNC1fL2A0NTAxX182YS5hYSNncC5vMmQ0aS9hLS1kLWJzcw%3D%3D&btag=c0000e00020000&cquery=100z_100o_100w_100B_100x&dy_q=1786157878&feature_id=fea919893f650a8c49286568590446ef&l=20260808105758C2CA9D5C20A70016ECC2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7603671553947566193.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7603671553947566193.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 57.284,
+      "raw_payload": {
+        "aweme_id": "7603671553947566193",
+        "author_uid": "111158047282",
+        "sec_uid": "MS4wLjABAAAAZy4QLsXSzz-MXFZfaazESGvoLu37q4j-RVd-aL6Qhoo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAZy4QLsXSzz-MXFZfaazESGvoLu37q4j-RVd-aL6Qhoo"
+      }
+    },
+    "first_seen_at": "2026-08-08T10:57:33+08:00",
+    "last_seen_at": "2026-08-08T10:57:33+08:00",
+    "fetch_runs": [
+      "2026-08-08"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7603671553947566193.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7603671553947566193.mp3",
+      "source": "download",
+      "processed_at": "2026-08-08T10:59:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7603671553947566193",
+      "transcript_raw": "林心如50岁生日派对照曝光林心如50岁生日派对照曝光补充信息：林心如50岁生日派对照曝光",
+      "transcript_clean": "林心如50岁生日派对照曝光林心如50岁生日派对照曝光补充信息：林心如50岁生日派对照曝光",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-08/7603671553947566193.json",
+      "processed_at": "2026-08-08T10:59:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7603671553947566193",
+      "summary": "皮皮搞笑哥围绕“林心如50岁生日派对照曝光林心如50岁生日派对照曝光补充信息：林心如50岁生日派对照曝光”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "林心如50岁生日派对照曝光。林心如50岁生日派对照曝光林心如50岁生日派对照曝光补充信息：林心如50岁生日派对照曝光 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "林心如50岁生日派对照曝光林心如50岁生日派对照曝光补充信息：林心如50岁生日派对照曝光为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕林心如50岁生日派对照曝光林心如50岁生日派对照曝光补充信息：林心如50岁生日派对照曝光组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "林心如50岁生日派对照曝光林心如50岁生日派对照曝光补充信息：林心如50岁生日派对照曝光",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-08/7603671553947566193.json",
+      "processed_at": "2026-08-08T10:59:54+08:00"
+    },
+    "last_error": null
+  },
+  "7373140070833868032": {
+    "video_id": "7373140070833868032",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "托尔洛",
+      "video_id": "7373140070833868032",
+      "title": "当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表",
+      "publish_time": "2024-05-26T11:10:13+08:00",
+      "video_url": "https://www.douyin.com/video/7373140070833868032",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2dcef4f240a1007f61e8fe2ac4c083e2~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101514400&x-signature=6CbaHMaYvw6tIi%2BD7UsE58CPF8A%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260808105801179C27F56C79F96826EE",
+      "like_count": 942,
+      "comment_count": 20,
+      "share_count": 114,
+      "collect_count": 335,
+      "description": "当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表",
+      "text_hint": "当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表",
+      "topic_tags": [
+        "气质超模",
+        "奔驰时装周",
+        "MBFW",
+        "美出高级感",
+        "颜值爆表"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2e7912c0d884e9a870316dec175844eb/6a76c6b0/video/tos/cn/tos-cn-ve-0015c800/o0aG6fDkQFAbIUBUOiEDniAEAnqsf9LlmBNqgt/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1660&bt=1660&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wRQOUHhd.vIYLf03-ApQX&mime_type=video_mp4&qs=0&rc=aTNpNWg3aTo1NzU2Zzk2M0BpanBwam05cnNkczMzNGkzM0A1LWAvXjMwXzYxLTUzXi5hYSNnMzFqMmQ0YTZgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1786157881&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260808105801179C27F56C79F96826EE",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7373140070833868032.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7373140070833868032.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 327.147,
+      "raw_payload": {
+        "aweme_id": "7373140070833868032",
+        "author_uid": "4288559538256231",
+        "sec_uid": "MS4wLjABAAAAZYzLS_SmRvSqKpmOIqxxnsy6qPodXhao0yjolEJr-sWuf6URKLyc4_AGE1gkpzms",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAZYzLS_SmRvSqKpmOIqxxnsy6qPodXhao0yjolEJr-sWuf6URKLyc4_AGE1gkpzms"
+      }
+    },
+    "first_seen_at": "2026-08-08T10:57:33+08:00",
+    "last_seen_at": "2026-08-08T10:57:33+08:00",
+    "fetch_runs": [
+      "2026-08-08"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7373140070833868032.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7373140070833868032.mp3",
+      "source": "download",
+      "processed_at": "2026-08-08T10:59:41+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7373140070833868032",
+      "transcript_raw": "当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表补充信息：当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表关键词：气质超模、奔驰时装周、MBFW、美出高级感、颜值爆表",
+      "transcript_clean": "当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表补充信息：当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表关键词：气质超模、奔驰时装周、MBFW、美出高级感、颜值爆表",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-08/7373140070833868032.json",
+      "processed_at": "2026-08-08T10:59:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7373140070833868032",
+      "summary": "托尔洛围绕“气质超模”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表。当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表补充信息：当代气质模特混剪 奔驰时装周 01 #气质超模  #奔驰时装周 #MBFW   #美出高级感  #颜值爆表关键词：气质超模、奔驰时装周、MBFW、美出高级感、颜值爆表 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "气质超模为什么总是做不出来结果？",
+        "先把奔驰时装周想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕气质超模组织标题与开头。",
+        "用奔驰时装周和MBFW补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "气质超模",
+        "奔驰时装周",
+        "MBFW"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-08/7373140070833868032.json",
+      "processed_at": "2026-08-08T10:59:54+08:00"
+    },
+    "last_error": null
+  },
+  "7377491209482161442": {
+    "video_id": "7377491209482161442",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7377491209482161442",
+      "title": "在抖音记录美好生活20260808",
+      "publish_time": "2026-08-08T10:59:01+08:00",
+      "video_url": "https://www.douyin.com/video/7377491209482161442",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260808",
+      "text_hint": "在抖音记录美好生活20260808",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a63a04fc-6296-455e-9a64-5111a204aeea",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7377491209482161442",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-08T10:57:33+08:00",
+    "last_seen_at": "2026-08-08T10:57:33+08:00",
+    "fetch_runs": [
+      "2026-08-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7553874049911344435": {
+    "video_id": "7553874049911344435",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7553874049911344435",
+      "title": "了凡四训第16集 #了凡四训#国学 #传统文化 #袁了凡 #袁了凡改变命运的故事",
+      "publish_time": "2025-09-25T04:09:00+08:00",
+      "video_url": "https://www.douyin.com/video/7553874049911344435",
+      "cover_url": "",
+      "like_count": 10,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "了凡四训第16集 #了凡四训#国学 #传统文化 #袁了凡 #袁了凡改变命运的故事",
+      "text_hint": "了凡四训第16集 #了凡四训#国学 #传统文化 #袁了凡 #袁了凡改变命运的故事",
+      "topic_tags": [
+        "了凡四训",
+        "国学",
+        "传统文化",
+        "袁了凡",
+        "袁了凡改变命运的故事"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a0a5b066-83c3-47b9-85f1-6216f1ee510b",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7553874049911344435",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-08T10:57:33+08:00",
+    "last_seen_at": "2026-08-08T10:57:33+08:00",
+    "fetch_runs": [
+      "2026-08-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7130217123833498888": {
+    "video_id": "7130217123833498888",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "清姐爱健身分享",
+      "video_id": "7130217123833498888",
+      "title": "饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看",
+      "publish_time": "2022-08-10T20:04:12+08:00",
+      "video_url": "https://www.douyin.com/video/7130217123833498888",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a6e4db447811928f58f47ea3a5141df4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101514400&x-signature=QGBhWo9qEq6wpx7KwOrv9kW9ajc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608081058335EFE9E19F7EC72F0FAE7",
+      "like_count": 112,
+      "comment_count": 13,
+      "share_count": 24,
+      "collect_count": 29,
+      "description": "饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看",
+      "text_hint": "饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看",
+      "topic_tags": [
+        "全身燃脂",
+        "好身材练起来",
+        "运动",
+        "自律",
+        "家庭健身",
+        "瘦腰",
+        "消除拜拜肉",
+        "变美变瘦变好看"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/dd8c0f9439b2c64b74b150a8ef1f18ad/6a76c63d/video/tos/cn/tos-cn-ve-15c001-alinc2/94f4aa7cac204acaa4952ecadccf5974/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=958&bt=958&cs=0&ds=6&ft=CZdgCYlIDyjNMRVQ9whSOUHhd.vIYLf03-ApQX&mime_type=video_mp4&qs=0&rc=Zmg3aWVpNWY7Ojw0ZmQ6ZEBpam80OmU6ZmlzZTMzNGkzM0AyMTUzLTY0XmAxXi1jMWJjYSNsNF82cjRfcW1gLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100D_100J_100o&dy_q=1786157913&l=202608081058335EFE9E19F7EC72F0FAE7",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7130217123833498888.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7130217123833498888.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 181.967,
+      "raw_payload": {
+        "aweme_id": "7130217123833498888",
+        "author_uid": "2313006003528727",
+        "sec_uid": "MS4wLjABAAAAAUwuN-mT4dxePrsel-wGHK3LYDRoEMtjQ1N6A5JfVi1sCnJ3UfjX5y8Ga6KfXFyK",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAUwuN-mT4dxePrsel-wGHK3LYDRoEMtjQ1N6A5JfVi1sCnJ3UfjX5y8Ga6KfXFyK"
+      }
+    },
+    "first_seen_at": "2026-08-08T10:57:33+08:00",
+    "last_seen_at": "2026-08-08T10:57:33+08:00",
+    "fetch_runs": [
+      "2026-08-08"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7130217123833498888.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-08/7130217123833498888.mp3",
+      "source": "download",
+      "processed_at": "2026-08-08T10:59:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7130217123833498888",
+      "transcript_raw": "饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看补充信息：饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看关键词：全身燃脂、好身材练起来、运动、自律、家庭健身、瘦腰、消除拜拜肉、变美变瘦变好看",
+      "transcript_clean": "饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看补充信息：饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看关键词：全身燃脂、好身材练起来、运动、自律、家庭健身、瘦腰、消除拜拜肉、变美变瘦变好看",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-08/7130217123833498888.json",
+      "processed_at": "2026-08-08T10:59:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7130217123833498888",
+      "summary": "清姐爱健身分享围绕“全身燃脂”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看。饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看补充信息：饭后来一首不跑不跳不累瘦全身每天坚持十分钟让你变瘦变健康 #全身燃脂 #好身材练起来 #运动 #自律 #家庭健身 #瘦腰 #消除拜拜肉 #变美变瘦变好看关键词：全身燃脂、好身材练起来、运动、自律、家庭健身、瘦腰、消除拜拜肉、变美变瘦变好看 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "全身燃脂为什么总是做不出来结果？",
+        "先把好身材练起来想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕全身燃脂组织标题与开头。",
+        "用好身材练起来和运动补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "全身燃脂",
+        "好身材练起来",
+        "运动"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-08/7130217123833498888.json",
+      "processed_at": "2026-08-08T10:59:54+08:00"
+    },
+    "last_error": null
+  },
+  "7237331717684546874": {
+    "video_id": "7237331717684546874",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7237331717684546874",
+      "title": "在抖音记录美好生活20260808",
+      "publish_time": "2026-08-08T10:59:01+08:00",
+      "video_url": "https://www.douyin.com/video/7237331717684546874",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260808",
+      "text_hint": "在抖音记录美好生活20260808",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0896925b-6a2b-4b95-bc16-7866966c6f11",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7237331717684546874",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-08T10:57:33+08:00",
+    "last_seen_at": "2026-08-08T10:57:33+08:00",
+    "fetch_runs": [
+      "2026-08-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7319043961031527717": {
+    "video_id": "7319043961031527717",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7319043961031527717",
+      "title": "新年快乐姐妹们！！第一个购物分享！！祝各位红红火火！b#开箱视频 #自用好物分享 #购物分享 #原相机 #新年礼物",
+      "publish_time": "2024-01-01T08:29:00+08:00",
+      "video_url": "https://www.douyin.com/video/7319043961031527717",
+      "cover_url": "",
+      "like_count": 16000,
+      "comment_count": 198,
+      "share_count": 755,
+      "collect_count": 56,
+      "description": "新年快乐姐妹们！！第一个购物分享！！祝各位红红火火！b#开箱视频 #自用好物分享 #购物分享 #原相机 #新年礼物",
+      "text_hint": "新年快乐姐妹们！！第一个购物分享！！祝各位红红火火！b#开箱视频 #自用好物分享 #购物分享 #原相机 #新年礼物",
+      "topic_tags": [
+        "开箱视频",
+        "自用好物分享",
+        "购物分享",
+        "原相机",
+        "新年礼物"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/f6837ccb-1d20-4411-9da7-fbf799a211e3",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7319043961031527717",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-08T10:57:33+08:00",
+    "last_seen_at": "2026-08-08T10:57:33+08:00",
+    "fetch_runs": [
+      "2026-08-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
