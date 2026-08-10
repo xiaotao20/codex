@@ -25910,5 +25910,593 @@
       "processed_at": "2026-08-09T11:08:34+08:00"
     },
     "last_error": null
+  },
+  "7669365311518428470": {
+    "video_id": "7669365311518428470",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "木子老师👩‍🏫",
+      "video_id": "7669365311518428470",
+      "title": "说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班",
+      "publish_time": "2026-08-09T08:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7669365311518428470",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/186651d9b0374e1e830aa63c70962ddf~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101690800&x-signature=0pAhwWRz%2FGBoI4WS7FEICWO5fd0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260810111448613BE0718E89B97AC475",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班",
+      "text_hint": "说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班",
+      "topic_tags": [
+        "初三高三冲刺",
+        "聊城初高三封闭班",
+        "聊城初高三补习班",
+        "聊城补习班",
+        "初高三封闭班"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ff15368505f391250599101ca5045396/6a796c85/video/tos/cn/tos-cn-ve-15/oUyfDwiRDEd0pvz7AhFQD49kGBfRqDAIEKghAb/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=679&bt=679&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wHFNbHhd.p8ICM73-ApQX&mime_type=video_mp4&qs=0&rc=Zzg5OTM5aTg2ODs5OzM3NEBpajl4ZnM5cnNqPDMzNGkzM0AtNS4tYTRiNmMxX2FhMjQzYSNoLzRoMmQ0cWthLS1kLTBzcw%3D%3D&btag=c0000e00020000&cquery=100K_100o_100w_100B_100H&dy_q=1786331688&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260810111448613BE0718E89B97AC475",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7669365311518428470.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7669365311518428470.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 45.651,
+      "raw_payload": {
+        "aweme_id": "7669365311518428470",
+        "author_uid": "357761419868028",
+        "sec_uid": "MS4wLjABAAAAaBQIEJkJ12hRjAFiHy42xTCF3LatCCB1Ck8iF4hZq1Q",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAaBQIEJkJ12hRjAFiHy42xTCF3LatCCB1Ck8iF4hZq1Q"
+      }
+    },
+    "first_seen_at": "2026-08-10T11:14:24+08:00",
+    "last_seen_at": "2026-08-10T11:14:24+08:00",
+    "fetch_runs": [
+      "2026-08-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7669365311518428470.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7669365311518428470.mp3",
+      "source": "download",
+      "processed_at": "2026-08-10T11:15:56+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7669365311518428470",
+      "transcript_raw": "说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班补充信息：说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班关键词：初三高三冲刺、聊城初高三封闭班、聊城初高三补习班、聊城补习班、初高三封闭班",
+      "transcript_clean": "说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班补充信息：说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班关键词：初三高三冲刺、聊城初高三封闭班、聊城初高三补习班、聊城补习班、初高三封闭班",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-10/7669365311518428470.json",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "analysis": {
+      "video_id": "7669365311518428470",
+      "summary": "木子老师👩‍🏫围绕“初三高三冲刺”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班。说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班补充信息：说透聊城靠谱初高三封闭班，我认为就这五家 #初三高三冲刺 #聊城初高三封闭班 #聊城初高三补习班 #聊城补习班 #初高三封闭班关键词：初三高三冲刺、聊城初高三封闭班、聊城初高三补习班、聊城补习班、初高三封闭班 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "初三高三冲刺为什么总是做不出来结果？",
+        "先把聊城初高三封闭班想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕初三高三冲刺组织标题与开头。",
+        "用聊城初高三封闭班和聊城初高三补习班补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "初三高三冲刺",
+        "聊城初高三封闭班",
+        "聊城初高三补习班"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-10/7669365311518428470.json",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "last_error": null
+  },
+  "7579899278852771091": {
+    "video_id": "7579899278852771091",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7579899278852771091",
+      "title": "在抖音记录美好生活20260810",
+      "publish_time": "2026-08-10T11:15:52+08:00",
+      "video_url": "https://www.douyin.com/video/7579899278852771091",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260810",
+      "text_hint": "在抖音记录美好生活20260810",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/bef3b06a-0871-4e97-bb34-5ee4c23eb346",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7579899278852771091",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-10T11:14:24+08:00",
+    "last_seen_at": "2026-08-10T11:14:24+08:00",
+    "fetch_runs": [
+      "2026-08-10"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7340518771154521359": {
+    "video_id": "7340518771154521359",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "王玉玉",
+      "video_id": "7340518771154521359",
+      "title": "腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐",
+      "publish_time": "2024-02-28T13:22:05+08:00",
+      "video_url": "https://www.douyin.com/video/7340518771154521359",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/15cede38cfa06dd6a1e3839d2115ba8d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101690800&x-signature=zO72u%2Ft1fC0CLGvz2%2B7%2FqPDfFDU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260810111458FF43A4F5F507FE7E5E27",
+      "like_count": 273,
+      "comment_count": 56,
+      "share_count": 184,
+      "collect_count": 126,
+      "description": "腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐",
+      "text_hint": "腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐",
+      "topic_tags": [
+        "腾势d9",
+        "新能源豪华mpv最优选",
+        "mpv",
+        "新能源汽车",
+        "商务车推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/43e0c1427da3cf9dd8a074d1c171799f/6a796e5c/video/tos/cn/tos-cn-ve-15/owslBfXpDRTejuCA6gLQ3SIY9EOLnAkFAbGI0D/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2408&bt=2408&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9w_FNbHhd.p8ICM73-ApQX&mime_type=video_mp4&qs=0&rc=O2Q0Zjk5ODk0Njg8Zzw5ZEBpanRxNDU6ZjdmcTMzNGkzM0AuL14wYF4yXl8xNl8vYl5hYSMxMGxmcjRfL2NgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1786331699&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260810111458FF43A4F5F507FE7E5E27",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7340518771154521359.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7340518771154521359.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 505.767,
+      "raw_payload": {
+        "aweme_id": "7340518771154521359",
+        "author_uid": "69697465515",
+        "sec_uid": "MS4wLjABAAAA09zvgxyeIcqOpbhQD0de9vULuOSbBmM-dU4qW-FIHFQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA09zvgxyeIcqOpbhQD0de9vULuOSbBmM-dU4qW-FIHFQ"
+      }
+    },
+    "first_seen_at": "2026-08-10T11:14:24+08:00",
+    "last_seen_at": "2026-08-10T11:14:24+08:00",
+    "fetch_runs": [
+      "2026-08-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7340518771154521359.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7340518771154521359.mp3",
+      "source": "download",
+      "processed_at": "2026-08-10T11:18:58+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7340518771154521359",
+      "transcript_raw": "腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐补充信息：腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐关键词：腾势d9、新能源豪华mpv最优选、mpv、新能源汽车、商务车推荐",
+      "transcript_clean": "腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐补充信息：腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐关键词：腾势d9、新能源豪华mpv最优选、mpv、新能源汽车、商务车推荐",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-10/7340518771154521359.json",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "analysis": {
+      "video_id": "7340518771154521359",
+      "summary": "王玉玉围绕“腾势d9”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐。腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐补充信息：腾势d9扶手娱乐屏如何使用分享#腾势d9 #新能源豪华mpv最优选 #mpv #新能源汽车 #商务车推荐关键词：腾势d9、新能源豪华mpv最优选、mpv、新能源汽车、商务车推荐 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "腾势d9为什么总是做不出来结果？",
+        "先把新能源豪华mpv最优选想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕腾势d9组织标题与开头。",
+        "用新能源豪华mpv最优选和mpv补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "腾势d9",
+        "新能源豪华mpv最优选",
+        "mpv"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-10/7340518771154521359.json",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "last_error": null
+  },
+  "7357392560349777192": {
+    "video_id": "7357392560349777192",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "吖宝日用百货",
+      "video_id": "7357392560349777192",
+      "title": "18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草",
+      "publish_time": "2024-04-14T00:41:09+08:00",
+      "video_url": "https://www.douyin.com/video/7357392560349777192",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b8b6e56c202af09a0c63e0f3baba111b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101690800&x-signature=IcjOaFdkGrYsK%2BHlqaTRu%2FgxjII%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026081011150271FD6C78330BF019C7F5",
+      "like_count": 114,
+      "comment_count": 16,
+      "share_count": 30,
+      "collect_count": 74,
+      "description": "18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草",
+      "text_hint": "18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草",
+      "topic_tags": [
+        "出差旅行必备",
+        "旅行必备",
+        "方便携带",
+        "好物推荐",
+        "种草"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a6fcf03b23782ab4e5d79fcf698d74ef/6a796d69/video/tos/cn/tos-cn-ve-0015c800/oAkebAnGSu4AIe9qmQ6wTiCAgQm2BBDIBjHrDc/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2048&bt=2048&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wqFNbHhd.p8ICM73-ApQX&mime_type=video_mp4&qs=0&rc=aDlpaDdnM2g0ZmdkZzRoOkBpanduMzY6ZnZlcjMzNGkzM0BjXzViYzJgXl8xNTIyMjM2YSMxcDNocjQwNmFgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1786331702&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026081011150271FD6C78330BF019C7F5",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7357392560349777192.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7357392560349777192.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 259.017,
+      "raw_payload": {
+        "aweme_id": "7357392560349777192",
+        "author_uid": "902067011984896",
+        "sec_uid": "MS4wLjABAAAAaW1WJpjPQvS65nnxl4sUwbrEZheMuNVi40iDwF2nwe8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAaW1WJpjPQvS65nnxl4sUwbrEZheMuNVi40iDwF2nwe8"
+      }
+    },
+    "first_seen_at": "2026-08-10T11:14:24+08:00",
+    "last_seen_at": "2026-08-10T11:14:24+08:00",
+    "fetch_runs": [
+      "2026-08-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7357392560349777192.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7357392560349777192.mp3",
+      "source": "download",
+      "processed_at": "2026-08-10T11:17:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7357392560349777192",
+      "transcript_raw": "18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草补充信息：18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草关键词：出差旅行必备、旅行必备、方便携带、好物推荐、种草",
+      "transcript_clean": "18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草补充信息：18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草关键词：出差旅行必备、旅行必备、方便携带、好物推荐、种草",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-10/7357392560349777192.json",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "analysis": {
+      "video_id": "7357392560349777192",
+      "summary": "吖宝日用百货围绕“出差旅行必备”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草。18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草补充信息：18件旅游好物#出差旅行必备 #旅行必备 #方便携带 #好物推荐 #种草关键词：出差旅行必备、旅行必备、方便携带、好物推荐、种草 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "出差旅行必备为什么总是做不出来结果？",
+        "先把旅行必备想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕出差旅行必备组织标题与开头。",
+        "用旅行必备和方便携带补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "出差旅行必备",
+        "旅行必备",
+        "方便携带"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-10/7357392560349777192.json",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "last_error": null
+  },
+  "7512480984685841724": {
+    "video_id": "7512480984685841724",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7512480984685841724",
+      "title": "#美食 #美食推荐 #抖音美食推荐官 #美食教程 #家常菜",
+      "publish_time": "2025-06-11T00:23:00+08:00",
+      "video_url": "https://www.douyin.com/video/7512480984685841724",
+      "cover_url": "",
+      "like_count": 105,
+      "comment_count": 6,
+      "share_count": 57,
+      "collect_count": 21,
+      "description": "#美食 #美食推荐 #抖音美食推荐官 #美食教程 #家常菜",
+      "text_hint": "#美食 #美食推荐 #抖音美食推荐官 #美食教程 #家常菜",
+      "topic_tags": [
+        "美食",
+        "美食推荐",
+        "抖音美食推荐官",
+        "美食教程",
+        "家常菜"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/8915c3ea-2c39-4354-a41b-37480303259b",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7512480984685841724",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-10T11:14:24+08:00",
+    "last_seen_at": "2026-08-10T11:14:24+08:00",
+    "fetch_runs": [
+      "2026-08-10"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "6769968393501035789": {
+    "video_id": "6769968393501035789",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "RoziLohman",
+      "video_id": "6769968393501035789",
+      "title": "最新原创歌曲沙雅赛乃姆发布了",
+      "publish_time": "2019-12-14T12:00:13+08:00",
+      "video_url": "https://www.douyin.com/video/6769968393501035789",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/fbc6b71566172d6cdcbfe95a534c53e5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101690800&x-signature=S0X%2FZuLa6RRcSL1paKxkvyf%2FYBo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608101115272E947AD0F5E70F121580",
+      "like_count": 1529,
+      "comment_count": 100,
+      "share_count": 185,
+      "collect_count": 39,
+      "description": "最新原创歌曲沙雅赛乃姆发布了",
+      "text_hint": "最新原创歌曲沙雅赛乃姆发布了",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/baa6fa20d1ad2f00c892496712bb0b01/6a796dda/video/tos/cn/tos-cn-ve-0015c800/ee209dfa02934b888cdbc7e1c9e60795/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2943&bt=2943&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wBiNbHhd.p8ICM73-ApQX&mime_type=video_mp4&qs=0&rc=ZTdoNTc6OjNpaGQ4Zzo7OEBpanF4azpneWd2cTMzaWkzM0A1Y2JeXmIvNV8xXmBiLTJjYSMvMy40NGlqL21fLS0wLS9zcw%3D%3D&btag=c0000e00030000&cquery=102u_100o_100w_100B_102v&dy_q=1786331727&l=202608101115272E947AD0F5E70F121580",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/6769968393501035789.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/6769968393501035789.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 347.93,
+      "raw_payload": {
+        "aweme_id": "6769968393501035789",
+        "author_uid": "60016469079",
+        "sec_uid": "MS4wLjABAAAACzVLEV5X-siKBXclIfF5_1WFfsGOzZin54QEvM3SjwQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACzVLEV5X-siKBXclIfF5_1WFfsGOzZin54QEvM3SjwQ"
+      }
+    },
+    "first_seen_at": "2026-08-10T11:14:24+08:00",
+    "last_seen_at": "2026-08-10T11:14:24+08:00",
+    "fetch_runs": [
+      "2026-08-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/6769968393501035789.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/6769968393501035789.mp3",
+      "source": "download",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6769968393501035789",
+      "transcript_raw": "最新原创歌曲沙雅赛乃姆发布了最新原创歌曲沙雅赛乃姆发布了补充信息：最新原创歌曲沙雅赛乃姆发布了",
+      "transcript_clean": "最新原创歌曲沙雅赛乃姆发布了最新原创歌曲沙雅赛乃姆发布了补充信息：最新原创歌曲沙雅赛乃姆发布了",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-10/6769968393501035789.json",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "analysis": {
+      "video_id": "6769968393501035789",
+      "summary": "RoziLohman围绕“最新原创歌曲沙雅赛乃姆发布了最新原创歌曲沙雅赛乃姆发布了补充信息：最新原创歌曲沙雅赛乃姆发布了”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "最新原创歌曲沙雅赛乃姆发布了。最新原创歌曲沙雅赛乃姆发布了最新原创歌曲沙雅赛乃姆发布了补充信息：最新原创歌曲沙雅赛乃姆发布了 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "最新原创歌曲沙雅赛乃姆发布了最新原创歌曲沙雅赛乃姆发布了补充信息：最新原创歌曲沙雅赛乃姆发布了为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕最新原创歌曲沙雅赛乃姆发布了最新原创歌曲沙雅赛乃姆发布了补充信息：最新原创歌曲沙雅赛乃姆发布了组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "最新原创歌曲沙雅赛乃姆发布了最新原创歌曲沙雅赛乃姆发布了补充信息：最新原创歌曲沙雅赛乃姆发布了",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-10/6769968393501035789.json",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "last_error": null
+  },
+  "7451904315712720185": {
+    "video_id": "7451904315712720185",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "东北阿华在武汉",
+      "video_id": "7451904315712720185",
+      "title": "信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾",
+      "publish_time": "2024-12-24T17:15:01+08:00",
+      "video_url": "https://www.douyin.com/video/7451904315712720185",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2c3656646679c2c66c1617419c110d11~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101690800&x-signature=4C497jEBMODEOTCRghCI5Sxf3Zw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026081011153023B1A664205ABCDF1593",
+      "like_count": 3800,
+      "comment_count": 339,
+      "share_count": 413,
+      "collect_count": 371,
+      "description": "信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾",
+      "text_hint": "信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾",
+      "topic_tags": [
+        "人间烟火",
+        "省饭课代表",
+        "这样吃烤肉才过瘾"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e030fd1a1f0cb3488f0630a07633f670/6a796d76/video/tos/cn/tos-cn-ve-15c000-ce/oM7CZLJdRDLeJx12rOAnAe8qzGIBE0eXGPijIg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3909&bt=3909&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wkiNbHhd.p8ICM73-ApQX&mime_type=video_mp4&qs=0&rc=ZDw1aDk5ZzYzOzhnNGQzNUBpM2txcnY5cjw6dzMzbGkzNEAtLjFjXjExNTQxNWFhNi8wYSNzcjNiMmRjamlgLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1786331731&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026081011153023B1A664205ABCDF1593",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7451904315712720185.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7451904315712720185.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 243.275,
+      "raw_payload": {
+        "aweme_id": "7451904315712720185",
+        "author_uid": "94946773181",
+        "sec_uid": "MS4wLjABAAAAHM2A5OFh6r_vEnsaciZf_xqD-Kr0PVbWkOSZNlTrKEE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHM2A5OFh6r_vEnsaciZf_xqD-Kr0PVbWkOSZNlTrKEE"
+      }
+    },
+    "first_seen_at": "2026-08-10T11:14:24+08:00",
+    "last_seen_at": "2026-08-10T11:14:24+08:00",
+    "fetch_runs": [
+      "2026-08-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7451904315712720185.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-10/7451904315712720185.mp3",
+      "source": "download",
+      "processed_at": "2026-08-10T11:16:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7451904315712720185",
+      "transcript_raw": "信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾补充信息：信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾关键词：人间烟火、省饭课代表、这样吃烤肉才过瘾",
+      "transcript_clean": "信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾补充信息：信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾关键词：人间烟火、省饭课代表、这样吃烤肉才过瘾",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-10/7451904315712720185.json",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "analysis": {
+      "video_id": "7451904315712720185",
+      "summary": "东北阿华在武汉围绕“人间烟火”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾。信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾补充信息：信阳小伙做当地特色美食焖灌肉，一天炒1000多斤猪肉，焖灌肉140左右一斤，小伙豪言整个信阳无人能敌，来者不拒#人间烟火#省饭课代表 #这样吃烤肉才过瘾关键词：人间烟火、省饭课代表、这样吃烤肉才过瘾 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "人间烟火为什么总是做不出来结果？",
+        "先把省饭课代表想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕人间烟火组织标题与开头。",
+        "用省饭课代表和这样吃烤肉才过瘾补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "人间烟火",
+        "省饭课代表",
+        "这样吃烤肉才过瘾"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-10/7451904315712720185.json",
+      "processed_at": "2026-08-10T11:27:38+08:00"
+    },
+    "last_error": null
+  },
+  "7508333763265908028": {
+    "video_id": "7508333763265908028",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7508333763265908028",
+      "title": "你有一种什么吃到就会想哭的味道吗？好像苦日子里吃过的味道，长大后离开家再远也会一直惦记～#我的乡村生活 #平淡治愈的乡村生活 #田园生活 #糖蒜 #新农人计划2025",
+      "publish_time": "2025-05-25T10:49:00+08:00",
+      "video_url": "https://www.douyin.com/video/7508333763265908028",
+      "cover_url": "",
+      "like_count": 949,
+      "comment_count": 85,
+      "share_count": 44,
+      "collect_count": 19,
+      "description": "你有一种什么吃到就会想哭的味道吗？好像苦日子里吃过的味道，长大后离开家再远也会一直惦记～#我的乡村生活 #平淡治愈的乡村生活 #田园生活 #糖蒜 #新农人计划2025",
+      "text_hint": "你有一种什么吃到就会想哭的味道吗？好像苦日子里吃过的味道，长大后离开家再远也会一直惦记～#我的乡村生活 #平淡治愈的乡村生活 #田园生活 #糖蒜 #新农人计划2025",
+      "topic_tags": [
+        "我的乡村生活",
+        "平淡治愈的乡村生活",
+        "田园生活",
+        "糖蒜",
+        "新农人计划2025"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0d3cd525-0e18-4870-be2c-93a7080c6c81",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7508333763265908028",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-10T11:14:24+08:00",
+    "last_seen_at": "2026-08-10T11:14:24+08:00",
+    "fetch_runs": [
+      "2026-08-10"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
