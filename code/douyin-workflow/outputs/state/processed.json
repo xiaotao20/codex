@@ -26498,5 +26498,404 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7672223847471761896": {
+    "video_id": "7672223847471761896",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7672223847471761896",
+      "title": "目标博主 1 视频 7672223847471761896",
+      "publish_time": "2026-08-11T11:09:27+08:00",
+      "video_url": "https://www.douyin.com/video/7672223847471761896",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a97be5fa-e9e1-4aab-9de1-d22c2f130d3d",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7672223847471761896",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-11T11:06:43+08:00",
+    "last_seen_at": "2026-08-11T11:06:43+08:00",
+    "fetch_runs": [
+      "2026-08-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7623302301864988019": {
+    "video_id": "7623302301864988019",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7623302301864988019",
+      "title": "目标博主 1 视频 7623302301864988019",
+      "publish_time": "2026-08-11T11:09:27+08:00",
+      "video_url": "https://www.douyin.com/video/7623302301864988019",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/08a10371-372e-4410-bc19-1e02f7c7f39a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7623302301864988019",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-11T11:06:43+08:00",
+    "last_seen_at": "2026-08-11T11:06:43+08:00",
+    "fetch_runs": [
+      "2026-08-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7412173025518374185": {
+    "video_id": "7412173025518374185",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "英俊的筛迪",
+      "video_id": "7412173025518374185",
+      "title": "#优衣库",
+      "publish_time": "2024-09-08T15:37:07+08:00",
+      "video_url": "https://www.douyin.com/video/7412173025518374185",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e85562f314ebdd569b62d692954e4295~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101777200&x-signature=7fxS8nt6Ff1VEfsZ%2Bjq1i4yyf%2Fw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260811110746527D0A83F5DD9954202E",
+      "like_count": 58,
+      "comment_count": 1,
+      "share_count": 7,
+      "collect_count": 8,
+      "description": "#优衣库",
+      "text_hint": "#优衣库",
+      "topic_tags": [
+        "优衣库"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/da76227fe915670e9a7902879af3ac27/6a7abd03/video/tos/cn/tos-cn-ve-0015c800/o88IOZIQPiZxBviPTiAAcEL1Vw9HQivK7Ad2t/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1101&bt=1101&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wwFObHhd.pc4sf03-ApQX&mime_type=video_mp4&qs=0&rc=Mzo1ZDY5M2lmZ2lmOTs8OkBpM2k3M2s5cndvdTMzNGkzM0BeXl5iMV80NTExNmBiXl8xYSNlczBlMmRrNGJgLS1kLTBzcw%3D%3D&btag=80000e00028000&cquery=100z_100o_100w_100B_100x&dy_q=1786417666&feature_id=aa7df520beeae8e397df15f38df0454c&l=20260811110746527D0A83F5DD9954202E",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-11/7412173025518374185.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-11/7412173025518374185.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 209.072,
+      "raw_payload": {
+        "aweme_id": "7412173025518374185",
+        "author_uid": "71679625965",
+        "sec_uid": "MS4wLjABAAAA4N4iMd19iHnrF_F1J-YT3xD4Z_KgtngysMDu-j_1DTc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4N4iMd19iHnrF_F1J-YT3xD4Z_KgtngysMDu-j_1DTc"
+      }
+    },
+    "first_seen_at": "2026-08-11T11:06:43+08:00",
+    "last_seen_at": "2026-08-11T11:06:43+08:00",
+    "fetch_runs": [
+      "2026-08-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-11/7412173025518374185.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-11/7412173025518374185.mp3",
+      "source": "download",
+      "processed_at": "2026-08-11T11:09:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7412173025518374185",
+      "transcript_raw": "#优衣库#优衣库补充信息：#优衣库关键词：优衣库",
+      "transcript_clean": "#优衣库#优衣库补充信息：#优衣库关键词：优衣库",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-11/7412173025518374185.json",
+      "processed_at": "2026-08-11T11:09:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7412173025518374185",
+      "summary": "英俊的筛迪围绕“优衣库”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#优衣库。#优衣库#优衣库补充信息：#优衣库关键词：优衣库 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "优衣库为什么总是做不出来结果？",
+        "先把#优衣库#优衣库补充信息：#优衣库关键词：优衣库想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕优衣库组织标题与开头。",
+        "用#优衣库#优衣库补充信息：#优衣库关键词：优衣库和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "优衣库",
+        "#优衣库#优衣库补充信息：#优衣库关键词：优衣库",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-11/7412173025518374185.json",
+      "processed_at": "2026-08-11T11:09:42+08:00"
+    },
+    "last_error": null
+  },
+  "7404031919928773942": {
+    "video_id": "7404031919928773942",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7404031919928773942",
+      "title": "目标博主 1 视频 7404031919928773942",
+      "publish_time": "2026-08-11T11:09:27+08:00",
+      "video_url": "https://www.douyin.com/video/7404031919928773942",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a23940cd-e125-457b-93d8-6bbdc0cae063",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7404031919928773942",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-11T11:06:43+08:00",
+    "last_seen_at": "2026-08-11T11:06:43+08:00",
+    "fetch_runs": [
+      "2026-08-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7570972045127781674": {
+    "video_id": "7570972045127781674",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7570972045127781674",
+      "title": "墨筝自动香薰机持久留香清新空气智能香氛机厕所祛味神器室内香薰#香薰机 #清新空气 #智能家电 #室内香氛 #厕所祛味",
+      "publish_time": "2025-11-10T05:58:00+08:00",
+      "video_url": "https://www.douyin.com/video/7570972045127781674",
+      "cover_url": "",
+      "like_count": 25,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "墨筝自动香薰机持久留香清新空气智能香氛机厕所祛味神器室内香薰#香薰机 #清新空气 #智能家电 #室内香氛 #厕所祛味",
+      "text_hint": "墨筝自动香薰机持久留香清新空气智能香氛机厕所祛味神器室内香薰#香薰机 #清新空气 #智能家电 #室内香氛 #厕所祛味",
+      "topic_tags": [
+        "香薰机",
+        "清新空气",
+        "智能家电",
+        "室内香氛",
+        "厕所祛味"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/b167eb76-9534-496e-8d7f-344ef4ebc17c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7570972045127781674",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-11T11:06:43+08:00",
+    "last_seen_at": "2026-08-11T11:06:43+08:00",
+    "fetch_runs": [
+      "2026-08-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7292331618755202338": {
+    "video_id": "7292331618755202338",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7292331618755202338",
+      "title": "目标博主 1 视频 7292331618755202338",
+      "publish_time": "2026-08-11T11:09:27+08:00",
+      "video_url": "https://www.douyin.com/video/7292331618755202338",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/3023f1cb-dfbd-42f6-b5c6-4f14eaeb6e6c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7292331618755202338",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-11T11:06:43+08:00",
+    "last_seen_at": "2026-08-11T11:06:43+08:00",
+    "fetch_runs": [
+      "2026-08-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7573992047381394873": {
+    "video_id": "7573992047381394873",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7573992047381394873",
+      "title": "目标博主 1 视频 7573992047381394873",
+      "publish_time": "2026-08-11T11:09:27+08:00",
+      "video_url": "https://www.douyin.com/video/7573992047381394873",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/afe01748-a8e9-4697-8f6c-fc7e36e9824b",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7573992047381394873",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-11T11:06:43+08:00",
+    "last_seen_at": "2026-08-11T11:06:43+08:00",
+    "fetch_runs": [
+      "2026-08-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7571770218630361001": {
+    "video_id": "7571770218630361001",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7571770218630361001",
+      "title": "#蔬菜 #娃娃菜 #云南蔬菜 #蔬菜价格周期图 娃娃菜需求量大供应量也大，夏季北方种，冬季云南种，因为保质期比一般叶菜较长（半个月左右）所以预计12月份可以看到明显上涨",
+      "publish_time": "2025-11-12T09:35:00+08:00",
+      "video_url": "https://www.douyin.com/video/7571770218630361001",
+      "cover_url": "",
+      "like_count": 143,
+      "comment_count": 17,
+      "share_count": 48,
+      "collect_count": 39,
+      "description": "#蔬菜 #娃娃菜 #云南蔬菜 #蔬菜价格周期图 娃娃菜需求量大供应量也大，夏季北方种，冬季云南种，因为保质期比一般叶菜较长（半个月左右）所以预计12月份可以看到明显上涨",
+      "text_hint": "#蔬菜 #娃娃菜 #云南蔬菜 #蔬菜价格周期图 娃娃菜需求量大供应量也大，夏季北方种，冬季云南种，因为保质期比一般叶菜较长（半个月左右）所以预计12月份可以看到明显上涨",
+      "topic_tags": [
+        "蔬菜",
+        "娃娃菜",
+        "云南蔬菜",
+        "蔬菜价格周期图"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/9ad40c81-e47a-4bfc-9b92-d3b95fab0aa7",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7571770218630361001",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-11T11:06:43+08:00",
+    "last_seen_at": "2026-08-11T11:06:43+08:00",
+    "fetch_runs": [
+      "2026-08-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
