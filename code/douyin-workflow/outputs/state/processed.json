@@ -26897,5 +26897,591 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7672673764061207732": {
+    "video_id": "7672673764061207732",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "菲菲老师超会买",
+      "video_id": "7672673764061207732",
+      "title": "原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教",
+      "publish_time": "2026-08-11T15:32:52+08:00",
+      "video_url": "https://www.douyin.com/video/7672673764061207732",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oIBBACDFFAuhe06SA74OAErBf9WEIEAfAUtA3E~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101863600&x-signature=KFfaoN6kJrQhh5bog7asHbBq0OI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260812112603ED5C9BABC888B3DE7AB1",
+      "like_count": 3,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教",
+      "text_hint": "原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教",
+      "topic_tags": [
+        "少儿英语",
+        "线上英语课",
+        "儿童英语启蒙",
+        "亲子育儿",
+        "polly牛津中教",
+        "Polly牛津中教"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/57e80706a0813cf03a5dfdddaa26a69f/6a7c124f/video/tos/cn/tos-cn-ve-15/oEgEAb9Iosi0B9UqeFZZB9EL6DzFfAAw7QCexE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1120&bt=1120&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wljFbHhd.9PnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=NDdmaTxoNTc3ZGg8NjM5O0BpM2psOnM5cjlmPDMzNGkzM0BgYmNfYWBeNjUxMi8xYWAuYSNpLmluMmRjc3FhLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100x_100z&dy_q=1786505163&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260812112603ED5C9BABC888B3DE7AB1",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7672673764061207732.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7672673764061207732.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 84.405,
+      "raw_payload": {
+        "aweme_id": "7672673764061207732",
+        "author_uid": "64293701776",
+        "sec_uid": "MS4wLjABAAAA3skrz2uYtUw82URkrKZ4XXZoG9u06sDNgxlGrJIUn10",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA3skrz2uYtUw82URkrKZ4XXZoG9u06sDNgxlGrJIUn10"
+      }
+    },
+    "first_seen_at": "2026-08-12T11:25:41+08:00",
+    "last_seen_at": "2026-08-12T11:25:41+08:00",
+    "fetch_runs": [
+      "2026-08-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7672673764061207732.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7672673764061207732.mp3",
+      "source": "download",
+      "processed_at": "2026-08-12T11:27:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7672673764061207732",
+      "transcript_raw": "原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教补充信息：原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教关键词：少儿英语、线上英语课、儿童英语启蒙、亲子育儿、polly牛津中教、Polly牛津中教",
+      "transcript_clean": "原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教补充信息：原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教关键词：少儿英语、线上英语课、儿童英语启蒙、亲子育儿、polly牛津中教、Polly牛津中教",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-12/7672673764061207732.json",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7672673764061207732",
+      "summary": "菲菲老师超会买围绕“少儿英语”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教。原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教补充信息：原来不是孩子不爱学英语，是没找对方式#少儿英语 #线上英语课 #儿童英语启蒙 #亲子育儿 #Polly牛津中教关键词：少儿英语、线上英语课、儿童英语启蒙、亲子育儿、polly牛津中教、Polly牛津中教 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "少儿英语为什么总是做不出来结果？",
+        "先把线上英语课想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕少儿英语组织标题与开头。",
+        "用线上英语课和儿童英语启蒙补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "少儿英语",
+        "线上英语课",
+        "儿童英语启蒙"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-12/7672673764061207732.json",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "last_error": null
+  },
+  "7607086586706136372": {
+    "video_id": "7607086586706136372",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "北斗融媒",
+      "video_id": "7607086586706136372",
+      "title": "李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚",
+      "publish_time": "2026-02-15T21:44:33+08:00",
+      "video_url": "https://www.douyin.com/video/7607086586706136372",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e75cb3fc7db69e3bbb71ecf74b6ae3e8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101863600&x-signature=TWOuv0UGEpCTtffdUDhD8aeG2Vg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260812112606A9E3F0B5CB20D925DE8B",
+      "like_count": 165,
+      "comment_count": 0,
+      "share_count": 70,
+      "collect_count": 29,
+      "description": "李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚",
+      "text_hint": "李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚",
+      "topic_tags": [
+        "2026辽宁春晚",
+        "辽宁春晚"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/233553c7e4541ccb1aff4d2daf0decf8/6a7c1218/video/tos/cn/tos-cn-ve-15/oYZPAilEH5Bg1RoZNatyEQ7IRiFziDAPkWIQ6/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1334&bt=1334&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wxjFbHhd.9PnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=O2UzZjRpOWg6ZGc1NDw6N0BpMzZxb3Q5cjh2OTMzNGkzM0AzMzFhMWM1NS4xLjNgNC4wYSNoamkvMmQ0bzVhLS1kLS9zcw%3D%3D&btag=c0000e00010000&cquery=100o_100w_100B_100H_100K&dy_q=1786505166&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260812112606A9E3F0B5CB20D925DE8B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7607086586706136372.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7607086586706136372.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 26.239,
+      "raw_payload": {
+        "aweme_id": "7607086586706136372",
+        "author_uid": "111571630698",
+        "sec_uid": "MS4wLjABAAAA8WK0jIrrYgq7D_LD9n6ONwMiimgi2nj_-Ap8A70egUs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA8WK0jIrrYgq7D_LD9n6ONwMiimgi2nj_-Ap8A70egUs"
+      }
+    },
+    "first_seen_at": "2026-08-12T11:25:41+08:00",
+    "last_seen_at": "2026-08-12T11:25:41+08:00",
+    "fetch_runs": [
+      "2026-08-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7607086586706136372.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7607086586706136372.mp3",
+      "source": "download",
+      "processed_at": "2026-08-12T11:27:16+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7607086586706136372",
+      "transcript_raw": "李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚补充信息：李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚关键词：2026辽宁春晚、辽宁春晚",
+      "transcript_clean": "李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚补充信息：李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚关键词：2026辽宁春晚、辽宁春晚",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-12/7607086586706136372.json",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7607086586706136372",
+      "summary": "北斗融媒围绕“2026辽宁春晚”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚。李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚补充信息：李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚 #辽宁春晚关键词：2026辽宁春晚、辽宁春晚 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "2026辽宁春晚为什么总是做不出来结果？",
+        "先把辽宁春晚想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕2026辽宁春晚组织标题与开头。",
+        "用辽宁春晚和李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "2026辽宁春晚",
+        "辽宁春晚",
+        "李多：2026辽宁春节联欢晚会通过全视角场景诠释万家灯火共团圆主题#2026辽宁春晚"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-12/7607086586706136372.json",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "last_error": null
+  },
+  "7386303612277771529": {
+    "video_id": "7386303612277771529",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7386303612277771529",
+      "title": "在抖音记录美好生活20260812",
+      "publish_time": "2026-08-12T11:27:05+08:00",
+      "video_url": "https://www.douyin.com/video/7386303612277771529",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260812",
+      "text_hint": "在抖音记录美好生活20260812",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0f9822b2-65c7-40d8-bef5-9d26207d65a2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7386303612277771529",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-12T11:25:41+08:00",
+    "last_seen_at": "2026-08-12T11:25:41+08:00",
+    "fetch_runs": [
+      "2026-08-12"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7371983721244790053": {
+    "video_id": "7371983721244790053",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "杨贵荣手机维修培训05",
+      "video_id": "7371983721244790053",
+      "title": "苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程",
+      "publish_time": "2024-05-23T08:22:10+08:00",
+      "video_url": "https://www.douyin.com/video/7371983721244790053",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/58b66ed15b61a3223be303e4c8b1005a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101863600&x-signature=3x5ZbUbh53sZuaKK0boLUs%2FSVEA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260812112617DD6A305565A8F1BEECCA",
+      "like_count": 33,
+      "comment_count": 1,
+      "share_count": 2,
+      "collect_count": 18,
+      "description": "苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程",
+      "text_hint": "苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程",
+      "topic_tags": [
+        "知视猫"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/7c0af31fe069751babd4ace3472f3237/6a7c1325/video/cn/mps/realtime/v1/r/p/v0300fg10000cp78mpvog65mntocdu20/d4b79198cdac42b6a57fc0588e81b773/298247d2c027f70dfa6bcc56939b9716/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=363&bt=363&cs=0&ds=3&ft=InFJ3Y-5DyjNb~VQ9whjFbHhd.9PnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=Njo0aDszaTg5NWZnOzQ6N0BpM3hmd3A5cnM7czMzNGkzM0A0XzU1MmA0Xl8xXmA2Nl9hYSMvYWxrMmRzajRgLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100B_100x_100z_100o_100w&definition=720p&dy_q=1786505177&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7371983721244790053&l=20260812112617DD6A305565A8F1BEECCA&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7371983721244790053.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7371983721244790053.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 284.101,
+      "raw_payload": {
+        "aweme_id": "7371983721244790053",
+        "author_uid": "2409756914096080",
+        "sec_uid": "MS4wLjABAAAAuSgdLln1Jbx3MuZWyjRVfDiAOOGCph-nLhLuebVLgymApq8eQ1Jqvxjvbsqsectx",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAuSgdLln1Jbx3MuZWyjRVfDiAOOGCph-nLhLuebVLgymApq8eQ1Jqvxjvbsqsectx"
+      }
+    },
+    "first_seen_at": "2026-08-12T11:25:41+08:00",
+    "last_seen_at": "2026-08-12T11:25:41+08:00",
+    "fetch_runs": [
+      "2026-08-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7371983721244790053.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7371983721244790053.mp3",
+      "source": "download",
+      "processed_at": "2026-08-12T11:27:35+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7371983721244790053",
+      "transcript_raw": "苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程补充信息：苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程关键词：知视猫",
+      "transcript_clean": "苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程补充信息：苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程关键词：知视猫",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-12/7371983721244790053.json",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7371983721244790053",
+      "summary": "杨贵荣手机维修培训05围绕“知视猫”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程。苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程补充信息：苹果13感光 #知视猫  原理是一切的前提和根本，尤其对于没有原理图的手机，必须要学《无图维修》等相关课程关键词：知视猫 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "知视猫为什么总是做不出来结果？",
+        "先把#知视猫想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕知视猫组织标题与开头。",
+        "用#知视猫和苹果13感光补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "知视猫",
+        "#知视猫",
+        "苹果13感光"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-12/7371983721244790053.json",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "last_error": null
+  },
+  "7579994021381131555": {
+    "video_id": "7579994021381131555",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7579994021381131555",
+      "title": "或藏工作室全网最真实海黄交付现场 #海南黄花梨 #小叶紫檀 #文玩手串 #或藏",
+      "publish_time": "2025-12-04T13:28:00+08:00",
+      "video_url": "https://www.douyin.com/video/7579994021381131555",
+      "cover_url": "",
+      "like_count": 9,
+      "comment_count": 4,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "或藏工作室全网最真实海黄交付现场 #海南黄花梨 #小叶紫檀 #文玩手串 #或藏",
+      "text_hint": "或藏工作室全网最真实海黄交付现场 #海南黄花梨 #小叶紫檀 #文玩手串 #或藏",
+      "topic_tags": [
+        "海南黄花梨",
+        "小叶紫檀",
+        "文玩手串",
+        "或藏"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/1f6f1e6d-27ce-4802-9d09-81b8c1944868",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7579994021381131555",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-12T11:25:41+08:00",
+    "last_seen_at": "2026-08-12T11:25:41+08:00",
+    "fetch_runs": [
+      "2026-08-12"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7268440034859175231": {
+    "video_id": "7268440034859175231",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "问墨楼",
+      "video_id": "7268440034859175231",
+      "title": "四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持",
+      "publish_time": "2023-08-18T07:39:50+08:00",
+      "video_url": "https://www.douyin.com/video/7268440034859175231",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6473687428f3ac176bccb10548657306~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101863600&x-signature=L5qBz8r1yU4Jb0lVeA%2FiVuuvi%2FQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260812112640B769132CEA6FD1CB2653",
+      "like_count": 683,
+      "comment_count": 50,
+      "share_count": 53,
+      "collect_count": 322,
+      "description": "四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持",
+      "text_hint": "四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持",
+      "topic_tags": [
+        "跟我一起学画画",
+        "国画初级教学",
+        "让喜欢的事成为生活",
+        "因为热爱所以坚持"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/00d0060f5c1c380d1baf75e906992be7/6a7c131f/video/tos/cn/tos-cn-ve-0015c800/os4dNAz3GP3ATf9KkRdoeQDAgIqhBCZEhCIqhp/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1059&bt=1059&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wDjFbHhd.9PnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=N2lmOmhkZjtpNDMzODc5PEBpM3dkajs6Zm5kbTMzNGkzM0A1M18tMDJgNjQxLS1gMmE1YSMwZmU1cjQwcmNgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1786505200&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260812112640B769132CEA6FD1CB2653",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7268440034859175231.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7268440034859175231.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 255.589,
+      "raw_payload": {
+        "aweme_id": "7268440034859175231",
+        "author_uid": "103101859271",
+        "sec_uid": "MS4wLjABAAAAzNtMy15ao4h4FaYlPuA0tlSJ0we3Ap7Lpcyh7ONbzYY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAzNtMy15ao4h4FaYlPuA0tlSJ0we3Ap7Lpcyh7ONbzYY"
+      }
+    },
+    "first_seen_at": "2026-08-12T11:25:41+08:00",
+    "last_seen_at": "2026-08-12T11:25:41+08:00",
+    "fetch_runs": [
+      "2026-08-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7268440034859175231.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7268440034859175231.mp3",
+      "source": "download",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7268440034859175231",
+      "transcript_raw": "四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持补充信息：四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持关键词：跟我一起学画画、国画初级教学、让喜欢的事成为生活、因为热爱所以坚持",
+      "transcript_clean": "四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持补充信息：四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持关键词：跟我一起学画画、国画初级教学、让喜欢的事成为生活、因为热爱所以坚持",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-12/7268440034859175231.json",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7268440034859175231",
+      "summary": "问墨楼围绕“跟我一起学画画”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持。四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持补充信息：四分钟画一张牵牛花\n#跟我一起学画画 #国画初级教学 #让喜欢的事成为生活 #因为热爱所以坚持关键词：跟我一起学画画、国画初级教学、让喜欢的事成为生活、因为热爱所以坚持 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "跟我一起学画画为什么总是做不出来结果？",
+        "先把国画初级教学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕跟我一起学画画组织标题与开头。",
+        "用国画初级教学和让喜欢的事成为生活补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "跟我一起学画画",
+        "国画初级教学",
+        "让喜欢的事成为生活"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-12/7268440034859175231.json",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "last_error": null
+  },
+  "7351313012386532645": {
+    "video_id": "7351313012386532645",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "清风仙长",
+      "video_id": "7351313012386532645",
+      "title": "【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都",
+      "publish_time": "2024-03-28T15:29:11+08:00",
+      "video_url": "https://www.douyin.com/video/7351313012386532645",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/60f09c79508834c93d6a53ec2a92ff8f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101863600&x-signature=RHxGVxjAuW4ilZM%2Fhbx87xqGYH8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026081211264463528054E03A7B6BB231",
+      "like_count": 311,
+      "comment_count": 14,
+      "share_count": 279,
+      "collect_count": 115,
+      "description": "【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都",
+      "text_hint": "【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都",
+      "topic_tags": [
+        "逆水寒手游攻略",
+        "逆水寒手游",
+        "逆水寒手游永夜星都"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/759c3b133b88a9ed5b18abfa777d4177/6a7c134a/video/tos/cn/tos-cn-ve-0015c800/oMQUY9BmDBFQte4jcSkn3gkAN3AbAdTv9IfyDR/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4439&bt=4439&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9w6jFbHhd.9PnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=PDM1aGk3ZDs0aGc8Mzc0NUBpanV1eGg6ZnFrcjMzNGkzM0AyXi1eMTVgNWAxMS9iXjFgYSNobF8xcjRfai9gLS1kLWFzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100K_100o_100w_100B_100H&dy_q=1786505204&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026081211264463528054E03A7B6BB231&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7351313012386532645.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7351313012386532645.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 294.767,
+      "raw_payload": {
+        "aweme_id": "7351313012386532645",
+        "author_uid": "1893809051679162",
+        "sec_uid": "MS4wLjABAAAAAimfCnidP2_NB3o2d1PxgYKmTasgWSjTsQIgI4747g8ywZ_iVipWuuATiQ-2MsLo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAimfCnidP2_NB3o2d1PxgYKmTasgWSjTsQIgI4747g8ywZ_iVipWuuATiQ-2MsLo"
+      }
+    },
+    "first_seen_at": "2026-08-12T11:25:41+08:00",
+    "last_seen_at": "2026-08-12T11:25:41+08:00",
+    "fetch_runs": [
+      "2026-08-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7351313012386532645.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-12/7351313012386532645.mp3",
+      "source": "download",
+      "processed_at": "2026-08-12T11:29:20+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7351313012386532645",
+      "transcript_raw": "【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都补充信息：【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都关键词：逆水寒手游攻略、逆水寒手游、逆水寒手游永夜星都",
+      "transcript_clean": "【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都补充信息：【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都关键词：逆水寒手游攻略、逆水寒手游、逆水寒手游永夜星都",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-12/7351313012386532645.json",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7351313012386532645",
+      "summary": "清风仙长围绕“逆水寒手游攻略”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都。【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都补充信息：【永夜星都-幻域】超详细指挥通关攻略~ 【永夜星都-幻域】超详细指挥通关攻略~#逆水寒手游攻略 #逆水寒手游 #逆水寒手游永夜星都关键词：逆水寒手游攻略、逆水寒手游、逆水寒手游永夜星都 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "逆水寒手游攻略为什么总是做不出来结果？",
+        "先把逆水寒手游想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕逆水寒手游攻略组织标题与开头。",
+        "用逆水寒手游和逆水寒手游永夜星都补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "逆水寒手游攻略",
+        "逆水寒手游",
+        "逆水寒手游永夜星都"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-12/7351313012386532645.json",
+      "processed_at": "2026-08-12T11:29:42+08:00"
+    },
+    "last_error": null
+  },
+  "7165346237745515780": {
+    "video_id": "7165346237745515780",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7165346237745515780",
+      "title": "江西工贸学院结训采访（教官篇）来咯 跟随记者一起听听教官们对学生们想说的话吧 下方评论让作者看看哪个连军训生活中幸福指数最高🤩🤩🤩#军训时光 #英姿飒爽 #军训dou出彩 #军训教官 #记录校园生活",
+      "publish_time": "2022-11-13T04:03:00+08:00",
+      "video_url": "https://www.douyin.com/video/7165346237745515780",
+      "cover_url": "",
+      "like_count": 82,
+      "comment_count": 67,
+      "share_count": 3,
+      "collect_count": 96,
+      "description": "江西工贸学院结训采访（教官篇）来咯 跟随记者一起听听教官们对学生们想说的话吧 下方评论让作者看看哪个连军训生活中幸福指数最高🤩🤩🤩#军训时光 #英姿飒爽 #军训dou出彩 #军训教官 #记录校园生活",
+      "text_hint": "江西工贸学院结训采访（教官篇）来咯 跟随记者一起听听教官们对学生们想说的话吧 下方评论让作者看看哪个连军训生活中幸福指数最高🤩🤩🤩#军训时光 #英姿飒爽 #军训dou出彩 #军训教官 #记录校园生活",
+      "topic_tags": [
+        "军训时光",
+        "英姿飒爽",
+        "军训dou出彩",
+        "军训教官",
+        "记录校园生活"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/83d341bb-d9e7-4dba-9d8d-dbef3aadbf2c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7165346237745515780",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-12T11:25:41+08:00",
+    "last_seen_at": "2026-08-12T11:25:41+08:00",
+    "fetch_runs": [
+      "2026-08-12"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
