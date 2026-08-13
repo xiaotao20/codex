@@ -27483,5 +27483,667 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7672975308223797951": {
+    "video_id": "7672975308223797951",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "栀子花开",
+      "video_id": "7672975308223797951",
+      "title": "#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭",
+      "publish_time": "2026-08-12T11:03:00+08:00",
+      "video_url": "https://www.douyin.com/video/7672975308223797951",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oI7CILBKCMjeJd9wmU31Aea7IeIBQSNwG84sIA~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101950000&x-signature=ysADFG3wKO3vn4dg0SWyG3xPzzU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608131130112D9B1FDB89011E2B0657",
+      "like_count": 8,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭",
+      "text_hint": "#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭",
+      "topic_tags": [
+        "英语学习日常",
+        "每日学习打卡"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/53fd59a44318cfcc16cd82fbd035c794/6a7d6484/video/tos/cn/tos-cn-ve-15/oMP73eipMBcVr7aoBDCI4FAIBfAEiBQbDCVUfE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=629&bt=629&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wM~gQHhd.TaASf03-ApQX&mime_type=video_mp4&qs=0&rc=aGk5Z2Q0PDU3NWk2OGhmZ0BpanVqM3E5cjd4PDMzNGkzM0BfX2BeLy1hNmExNWJeMi0tYSM0M21iMmRjL3FhLS1kLWFzcw%3D%3D&btag=c0000e00010000&cquery=100z_100o_100w_100B_100x&dy_q=1786591811&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202608131130112D9B1FDB89011E2B0657",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7672975308223797951.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7672975308223797951.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 17.4,
+      "raw_payload": {
+        "aweme_id": "7672975308223797951",
+        "author_uid": "1279457692497811",
+        "sec_uid": "MS4wLjABAAAAcKTMf1HlQ3_Bww3yVdPetJDrDe-foJ0Msr4iBzEoc1FnSFr0CLIOSfEutzMU6j7H",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAcKTMf1HlQ3_Bww3yVdPetJDrDe-foJ0Msr4iBzEoc1FnSFr0CLIOSfEutzMU6j7H"
+      }
+    },
+    "first_seen_at": "2026-08-13T11:29:50+08:00",
+    "last_seen_at": "2026-08-13T11:29:50+08:00",
+    "fetch_runs": [
+      "2026-08-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7672975308223797951.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7672975308223797951.mp3",
+      "source": "download",
+      "processed_at": "2026-08-13T11:30:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7672975308223797951",
+      "transcript_raw": "#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭补充信息：#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭关键词：英语学习日常、每日学习打卡",
+      "transcript_clean": "#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭补充信息：#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭关键词：英语学习日常、每日学习打卡",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-13/7672975308223797951.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7672975308223797951",
+      "summary": "栀子花开围绕“英语学习日常”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭。#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭补充信息：#英语学习日常 #每日学习打卡 终于有点儿进步了，坚持✊\n中间有口语失误，谅解😭关键词：英语学习日常、每日学习打卡 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "英语学习日常为什么总是做不出来结果？",
+        "先把每日学习打卡想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕英语学习日常组织标题与开头。",
+        "用每日学习打卡和#每日学习打卡补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "英语学习日常",
+        "每日学习打卡",
+        "#每日学习打卡"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-13/7672975308223797951.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "last_error": null
+  },
+  "7581764215682256155": {
+    "video_id": "7581764215682256155",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "央广网",
+      "video_id": "7581764215682256155",
+      "title": "周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪",
+      "publish_time": "2025-12-09T15:57:26+08:00",
+      "video_url": "https://www.douyin.com/video/7581764215682256155",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8c0a1ccc5453edb888ca3f951a9add34~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101950000&x-signature=TrnVSZrV2kmIp5XJ8X5JwwWBBWU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608131130134EC5922F140CB5AB20ED",
+      "like_count": 2260,
+      "comment_count": 58,
+      "share_count": 1861,
+      "collect_count": 293,
+      "description": "周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪",
+      "text_hint": "周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ec792188143f4b111a57a2a896a7116a/6a7d6485/video/tos/cn/tos-cn-ve-0015c800/oUD12S94fACQQqDfBPO3uXEAMF7P6bvBjEEIBf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=965&bt=965&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wt~gQHhd.TaASf03-ApQX&mime_type=video_mp4&qs=0&rc=NTZoPDxoZjYzOzNoZjNnaUBpajRzd3Q5cnF3NzMzNGkzM0AvXzFeNl5iNWIxYl80Ly80YSNzMDVpMmRzX29hLS1kLS9zcw%3D%3D&btag=c0000e00010000&cquery=100B_100H_100K_100o_100w&dy_q=1786591813&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202608131130134EC5922F140CB5AB20ED",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7581764215682256155.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7581764215682256155.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 16.694,
+      "raw_payload": {
+        "aweme_id": "7581764215682256155",
+        "author_uid": "96621963202",
+        "sec_uid": "MS4wLjABAAAAVeH3wYQCbpvUqsUxUh7ptNo6KdLW-IUD4z77ZL9O6y4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAVeH3wYQCbpvUqsUxUh7ptNo6KdLW-IUD4z77ZL9O6y4"
+      }
+    },
+    "first_seen_at": "2026-08-13T11:29:50+08:00",
+    "last_seen_at": "2026-08-13T11:29:50+08:00",
+    "fetch_runs": [
+      "2026-08-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7581764215682256155.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7581764215682256155.mp3",
+      "source": "download",
+      "processed_at": "2026-08-13T11:30:57+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7581764215682256155",
+      "transcript_raw": "周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪补充信息：周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪",
+      "transcript_clean": "周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪补充信息：周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-13/7581764215682256155.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7581764215682256155",
+      "summary": "央广网围绕“周五迎本轮雨雪最强时段”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪。周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪补充信息：周五迎本轮雨雪最强时段 山西、河北、河南等地有大到暴雪 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "周五迎本轮雨雪最强时段为什么总是做不出来结果？",
+        "先把山西、河北、河南等地有大到暴雪周五迎本轮雨雪最强时段想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕周五迎本轮雨雪最强时段组织标题与开头。",
+        "用山西、河北、河南等地有大到暴雪周五迎本轮雨雪最强时段和山西、河北、河南等地有大到暴雪补充信息：周五迎本轮雨雪最强时段补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "周五迎本轮雨雪最强时段",
+        "山西、河北、河南等地有大到暴雪周五迎本轮雨雪最强时段",
+        "山西、河北、河南等地有大到暴雪补充信息：周五迎本轮雨雪最强时段"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-13/7581764215682256155.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "last_error": null
+  },
+  "7259729573959552267": {
+    "video_id": "7259729573959552267",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "祖国的大好河山🇨🇳",
+      "video_id": "7259729573959552267",
+      "title": "传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘",
+      "publish_time": "2023-07-25T20:18:39+08:00",
+      "video_url": "https://www.douyin.com/video/7259729573959552267",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/90536aec1fcdf8029fa198e54e3b9b24~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101950000&x-signature=gUmC%2B1qGVt9OU9OB1R77n4ii3bQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260813113016BB14C5874D19E83C6FA7",
+      "like_count": 239,
+      "comment_count": 31,
+      "share_count": 12,
+      "collect_count": 34,
+      "description": "传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘",
+      "text_hint": "传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘",
+      "topic_tags": [
+        "自说自话的总裁",
+        "科普一下",
+        "创作者扶持计划",
+        "未解之谜",
+        "探秘"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/3b55110c55e9cb43902aec31798ef308/6a7d664b/video/tos/cn/tos-cn-ve-0015c800/oQ5ktuxVdAe9j9L4gQ8qvsCnTbfOGo7DAAB3AI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1945&bt=1945&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9we~gQHhd.TaASf03-ApQX&mime_type=video_mp4&qs=0&rc=OTpnZDozZ2Q0M2dkPDw4ZEBpajpkOmk6Zm51bDMzNGkzM0AuNF9fLzZgNmAxYGE0YjNfYSNeM3FjcjRvbHNgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1786591816&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260813113016BB14C5874D19E83C6FA7",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7259729573959552267.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7259729573959552267.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 467.3,
+      "raw_payload": {
+        "aweme_id": "7259729573959552267",
+        "author_uid": "66252999310",
+        "sec_uid": "MS4wLjABAAAAPjOUlmeeGT5eVxswYoNH9VVUS391vYyFaxxRZ7IYfJI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAPjOUlmeeGT5eVxswYoNH9VVUS391vYyFaxxRZ7IYfJI"
+      }
+    },
+    "first_seen_at": "2026-08-13T11:29:50+08:00",
+    "last_seen_at": "2026-08-13T11:29:50+08:00",
+    "fetch_runs": [
+      "2026-08-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7259729573959552267.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7259729573959552267.mp3",
+      "source": "download",
+      "processed_at": "2026-08-13T11:33:16+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7259729573959552267",
+      "transcript_raw": "传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘补充信息：传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘关键词：自说自话的总裁、科普一下、创作者扶持计划、未解之谜、探秘",
+      "transcript_clean": "传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘补充信息：传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘关键词：自说自话的总裁、科普一下、创作者扶持计划、未解之谜、探秘",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-13/7259729573959552267.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7259729573959552267",
+      "summary": "祖国的大好河山🇨🇳围绕“自说自话的总裁”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘。传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘补充信息：传奇人物—杀人蜂（下）#自说自话的总裁 #科普一下 #创作者扶持计划 #未解之谜 #探秘关键词：自说自话的总裁、科普一下、创作者扶持计划、未解之谜、探秘 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "自说自话的总裁为什么总是做不出来结果？",
+        "先把科普一下想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕自说自话的总裁组织标题与开头。",
+        "用科普一下和创作者扶持计划补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "自说自话的总裁",
+        "科普一下",
+        "创作者扶持计划"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-13/7259729573959552267.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "last_error": null
+  },
+  "7194796303392574778": {
+    "video_id": "7194796303392574778",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "新手关哥",
+      "video_id": "7194796303392574778",
+      "title": "高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧",
+      "publish_time": "2023-01-31T20:44:43+08:00",
+      "video_url": "https://www.douyin.com/video/7194796303392574778",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1a08e514739e8d2fe2680d6599a92c19~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101950000&x-signature=Ar9zapcNoaYBTP5BPlSWoCI%2B1Lg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260813113019CFFABE201BD5FF2DBD04",
+      "like_count": 1149,
+      "comment_count": 156,
+      "share_count": 72,
+      "collect_count": 201,
+      "description": "高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧",
+      "text_hint": "高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧",
+      "topic_tags": [
+        "开车技巧"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/5878d17f22cd50225d65db75e6116c8c/6a7d65de/video/tos/cn/tos-cn-ve-0015c800/oAQZojAf9E42AVnjX8nYbk1cK06A7D3gCeQBBR/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2860&bt=2860&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wl~gQHhd.TaASf03-ApQX&mime_type=video_mp4&qs=0&rc=aDc1ZTY7ZTQ4M2hpZTY8NEBpamxyd2g6ZmhqaTMzNGkzM0BfXjQ1XjMyNS0xMV4zL2BhYSMvcm1mcjRvbmBgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100D_100J_100o_100w_100B&dy_q=1786591819&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260813113019CFFABE201BD5FF2DBD04",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7194796303392574778.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7194796303392574778.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 355.103,
+      "raw_payload": {
+        "aweme_id": "7194796303392574778",
+        "author_uid": "4503685198314387",
+        "sec_uid": "MS4wLjABAAAAn38m8FAflfQNbn2hulTp2Utb6V3WEF1jtJMUywfj6BFkWH9zsQclMQkcfHk4JB-f",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAn38m8FAflfQNbn2hulTp2Utb6V3WEF1jtJMUywfj6BFkWH9zsQclMQkcfHk4JB-f"
+      }
+    },
+    "first_seen_at": "2026-08-13T11:29:50+08:00",
+    "last_seen_at": "2026-08-13T11:29:50+08:00",
+    "fetch_runs": [
+      "2026-08-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7194796303392574778.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7194796303392574778.mp3",
+      "source": "download",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7194796303392574778",
+      "transcript_raw": "高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧补充信息：高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧关键词：开车技巧",
+      "transcript_clean": "高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧补充信息：高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧关键词：开车技巧",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-13/7194796303392574778.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7194796303392574778",
+      "summary": "新手关哥围绕“开车技巧”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧。高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧补充信息：高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧关键词：开车技巧 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "开车技巧为什么总是做不出来结果？",
+        "先把高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧补充信息：高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧关键词：开车技巧想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕开车技巧组织标题与开头。",
+        "用高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧补充信息：高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧关键词：开车技巧和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "开车技巧",
+        "高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧补充信息：高速堵车堵车十公里，开着手动挡上坡走走停停，后悔没有买自动挡#开车技巧关键词：开车技巧",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-13/7194796303392574778.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "last_error": null
+  },
+  "7555047717283253564": {
+    "video_id": "7555047717283253564",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7555047717283253564",
+      "title": "在抖音记录美好生活20260813",
+      "publish_time": "2026-08-13T11:30:52+08:00",
+      "video_url": "https://www.douyin.com/video/7555047717283253564",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260813",
+      "text_hint": "在抖音记录美好生活20260813",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/48d7f82d-9a21-4113-886d-7d90952e4125",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7555047717283253564",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-13T11:29:50+08:00",
+    "last_seen_at": "2026-08-13T11:29:50+08:00",
+    "fetch_runs": [
+      "2026-08-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7522061689421188404": {
+    "video_id": "7522061689421188404",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "钰安原音",
+      "video_id": "7522061689421188404",
+      "title": "《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手",
+      "publish_time": "2025-07-01T18:41:09+08:00",
+      "video_url": "https://www.douyin.com/video/7522061689421188404",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/d69ec93e27f0350cfa4950038418aaa8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101950000&x-signature=BOgiu3TCfYf9HNCzcfJgnKCDuw0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260813113029E70B41CF2EF6F02DC70D",
+      "like_count": 881,
+      "comment_count": 124,
+      "share_count": 57,
+      "collect_count": 160,
+      "description": "《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手",
+      "text_hint": "《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手",
+      "topic_tags": [
+        "秦腔抖起来",
+        "秦腔秦韵",
+        "秦腔爱好者",
+        "秦腔戏曲大全",
+        "谁说戏曲不抖音"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2183a8553bb8b6b36ee73af01f3f7342/6a7d6539/video/tos/cn/tos-cn-ve-15/o0mbfADxSMdBxF73QJ8eXRGBAI6lCRdEVCj3Ee/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3868&bt=3868&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wo~gQHhd.TaASf03-ApQX&mime_type=video_mp4&qs=0&rc=ZzU6NGk5Omk0ZTw4Mzw8NkBpM3ZpZGs5cnl1NDMzNGkzM0AzNjFfMmIuNTAxLWEuNWAtYSM2cTRmMmRraWVhLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1786591829&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260813113029E70B41CF2EF6F02DC70D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7522061689421188404.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7522061689421188404.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.1,
+      "raw_payload": {
+        "aweme_id": "7522061689421188404",
+        "author_uid": "7511763762161452092",
+        "sec_uid": "MS4wLjABAAAA53yqnz8HieUOA5e_SjMhoOpb9ZFU1IDimmm29bR_D6jK4I3rA6gVzEE_0GmrHt-g",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA53yqnz8HieUOA5e_SjMhoOpb9ZFU1IDimmm29bR_D6jK4I3rA6gVzEE_0GmrHt-g"
+      }
+    },
+    "first_seen_at": "2026-08-13T11:29:50+08:00",
+    "last_seen_at": "2026-08-13T11:29:50+08:00",
+    "fetch_runs": [
+      "2026-08-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7522061689421188404.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7522061689421188404.mp3",
+      "source": "download",
+      "processed_at": "2026-08-13T11:31:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7522061689421188404",
+      "transcript_raw": "《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手补充信息：《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手关键词：秦腔抖起来、秦腔秦韵、秦腔爱好者、秦腔戏曲大全、谁说戏曲不抖音",
+      "transcript_clean": "《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手补充信息：《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手关键词：秦腔抖起来、秦腔秦韵、秦腔爱好者、秦腔戏曲大全、谁说戏曲不抖音",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-13/7522061689421188404.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7522061689421188404",
+      "summary": "钰安原音围绕“秦腔抖起来”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手。《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手补充信息：《探窑》中王宝钏唱段，太喜爱郭派的唱腔，从小到大一直在听在学在模仿…百听不厌的经典唱段，供戏迷朋友秦腔爱好者欣赏#秦腔抖起来 #秦腔秦韵 #秦腔爱好者 #秦腔戏曲大全 #谁说戏曲不抖音 @抖音小助手 @DOU+小助手关键词：秦腔抖起来、秦腔秦韵、秦腔爱好者、秦腔戏曲大全、谁说戏曲不抖音 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "秦腔抖起来为什么总是做不出来结果？",
+        "先把秦腔秦韵想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕秦腔抖起来组织标题与开头。",
+        "用秦腔秦韵和秦腔爱好者补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "秦腔抖起来",
+        "秦腔秦韵",
+        "秦腔爱好者"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-13/7522061689421188404.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "last_error": null
+  },
+  "7353581941611859235": {
+    "video_id": "7353581941611859235",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "一夫奢实体店|奢院",
+      "video_id": "7353581941611859235",
+      "title": "2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv",
+      "publish_time": "2024-04-05T18:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7353581941611859235",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f30673f72ef0d00a3d1b8de6b6f6164b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2101950000&x-signature=d5mknSdF7ZpySJXev%2BwSPer8qm0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026081311303121E6D4CD21737028D686",
+      "like_count": 1450,
+      "comment_count": 125,
+      "share_count": 581,
+      "collect_count": 325,
+      "description": "2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv",
+      "text_hint": "2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv",
+      "topic_tags": [
+        "奢侈品",
+        "lv"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/37afc4f07b454bfa281369a11e648dff/6a7d6550/video/tos/cn/tos-cn-ve-0015c800/o0pzBPWXhuPfbw3AMgSIBUwJeWSOzAQLAtjEaD/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=947&bt=947&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wu~gQHhd.TaASf03-ApQX&mime_type=video_mp4&qs=0&rc=NGg5OTw0Nzk3Zjo3OmY5N0BpM3RzN2U6ZnFscjMzNGkzM0BfYy42YjUuNi4xXjVeLi41YSNeamVscjRfajNgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100H_100K&dy_q=1786591832&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=2026081311303121E6D4CD21737028D686",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7353581941611859235.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7353581941611859235.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 200.085,
+      "raw_payload": {
+        "aweme_id": "7353581941611859235",
+        "author_uid": "70424870715",
+        "sec_uid": "MS4wLjABAAAAk4DHCxuSg-dMx0aGDPzhKNVSvLhaP7atEBcevZQSNpI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAk4DHCxuSg-dMx0aGDPzhKNVSvLhaP7atEBcevZQSNpI"
+      }
+    },
+    "first_seen_at": "2026-08-13T11:29:50+08:00",
+    "last_seen_at": "2026-08-13T11:29:50+08:00",
+    "fetch_runs": [
+      "2026-08-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7353581941611859235.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7353581941611859235.mp3",
+      "source": "download",
+      "processed_at": "2026-08-13T11:32:02+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7353581941611859235",
+      "transcript_raw": "2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv补充信息：2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv关键词：奢侈品、lv",
+      "transcript_clean": "2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv补充信息：2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv关键词：奢侈品、lv",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-13/7353581941611859235.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7353581941611859235",
+      "summary": "一夫奢实体店|奢院围绕“奢侈品”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv。2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv补充信息：2024年路易威登哪些值得买，哪些不推荐。 #奢侈品 #lv关键词：奢侈品、lv 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "奢侈品为什么总是做不出来结果？",
+        "先把lv想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕奢侈品组织标题与开头。",
+        "用lv和#奢侈品补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "奢侈品",
+        "lv",
+        "#奢侈品"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-13/7353581941611859235.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "last_error": null
+  },
+  "7318638336023842087": {
+    "video_id": "7318638336023842087",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7318638336023842087",
+      "title": "SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方",
+      "publish_time": "2023-12-31T06:14:00+08:00",
+      "video_url": "https://www.douyin.com/video/7318638336023842087",
+      "cover_url": "",
+      "like_count": 597,
+      "comment_count": 27,
+      "share_count": 553,
+      "collect_count": 42,
+      "description": "SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方",
+      "text_hint": "SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方",
+      "topic_tags": [
+        "SOLIDWORKS钣金",
+        "钣金工程师培训",
+        "天圆地方"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e77fbc228046e868c9bc77afc4318fe1/6a7d6616/video/tos/cn/tos-cn-ve-15/oogIg9kQCI9pAFlCnFQbAxEgQDhnf0AK9gBbfD/?a=6383&br=352&bt=352&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100J_100o_100w_100B_100D&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1786591848&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wH~gQHhd.TaASf03-ApQX&is_ssr=1&l=202608131130471B3555520869E34B8B34&lr=all&mime_type=video_mp4&qs=1&rc=NTw0ZmRpZWk5aDg5Z2kzZEBpajhrbmo5cnBqcDMzNGkzM0AuNGJiM2MvXzQxLWJhYGFgYSMtLXBkMmRzYTVgLS1kLTBzcw%3D%3D&__vid=7318638336023842087",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7318638336023842087.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7318638336023842087.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7318638336023842087",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-13T11:29:50+08:00",
+    "last_seen_at": "2026-08-13T11:29:50+08:00",
+    "fetch_runs": [
+      "2026-08-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7318638336023842087.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-13/7318638336023842087.mp3",
+      "source": "download",
+      "processed_at": "2026-08-13T11:32:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7318638336023842087",
+      "transcript_raw": "SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方补充信息：SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方关键词：SOLIDWORKS钣金、钣金工程师培训、天圆地方",
+      "transcript_clean": "SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方补充信息：SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方关键词：SOLIDWORKS钣金、钣金工程师培训、天圆地方",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-13/7318638336023842087.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "analysis": {
+      "video_id": "7318638336023842087",
+      "summary": "目标博主 1围绕“SOLIDWORKS钣金”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方。SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方补充信息：SOLIDWORKS钣金绘图：比对客户原图绘制偏心天圆地方（学员问题，视频解决）#SOLIDWORKS钣金 #钣金工程师培训 #天圆地方关键词：SOLIDWORKS钣金、钣金工程师培训、天圆地方 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "SOLIDWORKS钣金为什么总是做不出来结果？",
+        "先把钣金工程师培训想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕SOLIDWORKS钣金组织标题与开头。",
+        "用钣金工程师培训和天圆地方补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "SOLIDWORKS钣金",
+        "钣金工程师培训",
+        "天圆地方"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-13/7318638336023842087.json",
+      "processed_at": "2026-08-13T11:34:14+08:00"
+    },
+    "last_error": null
   }
 }
