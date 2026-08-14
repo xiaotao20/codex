@@ -28145,5 +28145,650 @@
       "processed_at": "2026-08-13T11:34:14+08:00"
     },
     "last_error": null
+  },
+  "7673709000013813219": {
+    "video_id": "7673709000013813219",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "吃货玲姐",
+      "video_id": "7673709000013813219",
+      "title": "盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期",
+      "publish_time": "2026-08-14T10:30:06+08:00",
+      "video_url": "https://www.douyin.com/video/7673709000013813219",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oQgGpfHEw5vPDEYo61nC6xfAIDMa819QMAeL2f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102036400&x-signature=VC%2FXeswicN44hLSSUU1XoHlGRw0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260814112715CAA4CEB705B68AABD93D",
+      "like_count": 4,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期",
+      "text_hint": "盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期",
+      "topic_tags": [
+        "新化",
+        "金榜题名",
+        "盛世嘉园",
+        "清华大学",
+        "莘莘学子未来可期"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f3bcbb6a54fdfe4d4b2484305caf7391/6a7eb558/video/tos/cn/tos-cn-ve-15/ogplMf5ovE1gPAL2ECxRM09AdfD5Aee33n9GIY/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2779&bt=2779&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wkQBQHhd.h1EZf03-ApQX&mime_type=video_mp4&qs=0&rc=OjtnaTxnZTM3NTQ3Ojs7aUBpM3dzM2s5cnc6PDMzNGkzM0BhYzE1YjI0NWAxNmM1LjE2YSNfbG0yMmRzbXNhLS1kLTBzcw%3D%3D&btag=80000e00010000&cquery=100B_100x_100z_100o_100w&dy_q=1786678035&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260814112715CAA4CEB705B68AABD93D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7673709000013813219.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7673709000013813219.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 21.803,
+      "raw_payload": {
+        "aweme_id": "7673709000013813219",
+        "author_uid": "101941388742",
+        "sec_uid": "MS4wLjABAAAAu_VX0CaH1evOmg16eTOulRJaea_eBFl519nMCWgokk4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAu_VX0CaH1evOmg16eTOulRJaea_eBFl519nMCWgokk4"
+      }
+    },
+    "first_seen_at": "2026-08-14T11:26:54+08:00",
+    "last_seen_at": "2026-08-14T11:26:54+08:00",
+    "fetch_runs": [
+      "2026-08-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7673709000013813219.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7673709000013813219.mp3",
+      "source": "download",
+      "processed_at": "2026-08-14T11:28:16+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7673709000013813219",
+      "transcript_raw": "盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期补充信息：盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期关键词：新化、金榜题名、盛世嘉园、清华大学、莘莘学子未来可期",
+      "transcript_clean": "盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期补充信息：盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期关键词：新化、金榜题名、盛世嘉园、清华大学、莘莘学子未来可期",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-14/7673709000013813219.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7673709000013813219",
+      "summary": "吃货玲姐围绕“新化”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期。盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期补充信息：盛世嘉园业主孩子考上清华了 恭喜盛世嘉园业主孩子考上清华#新化#金榜题名#盛世嘉园#清华大学 #莘莘学子未来可期关键词：新化、金榜题名、盛世嘉园、清华大学、莘莘学子未来可期 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新化为什么总是做不出来结果？",
+        "先把金榜题名想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新化组织标题与开头。",
+        "用金榜题名和盛世嘉园补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新化",
+        "金榜题名",
+        "盛世嘉园"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-14/7673709000013813219.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "last_error": null
+  },
+  "7653641472150916367": {
+    "video_id": "7653641472150916367",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "五星体育",
+      "video_id": "7653641472150916367",
+      "title": "希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨",
+      "publish_time": "2026-06-21T08:38:02+08:00",
+      "video_url": "https://www.douyin.com/video/7653641472150916367",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8e270b4079c948c07353bcf30a8fc4b3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102036400&x-signature=0aZHCaUBraMd%2B90g3%2BmLItIrSCs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608141127181C824395609F2DACF66B",
+      "like_count": 26,
+      "comment_count": 1,
+      "share_count": 1,
+      "collect_count": 1,
+      "description": "希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨",
+      "text_hint": "希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨",
+      "topic_tags": [
+        "看赛事来五星",
+        "星耀美加墨",
+        "德国2比1科特迪瓦"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d858962d1be37912646410583e8f66aa/6a7eb564/video/tos/cn/tos-cn-ve-15/oIM5KamLiCObKAQe787kBeCBeNBhmA7JA3ASWU/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=608&bt=608&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wgQBQHhd.h1EZf03-ApQX&mime_type=video_mp4&qs=0&rc=MzplO2Q0ZTo7OTU7ZmQ8OEBpM3E4aGo5cjxtOzMzNGkzM0BhXi4vMS0uNi4xLTM2NTEvYSNiMDZfMmRjMG9hLS1kLWFzcw%3D%3D&btag=c0000e00018000&cquery=100K_100o_100w_100B_100H&dy_q=1786678038&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202608141127181C824395609F2DACF66B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7653641472150916367.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7653641472150916367.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 30.604,
+      "raw_payload": {
+        "aweme_id": "7653641472150916367",
+        "author_uid": "61195101419",
+        "sec_uid": "MS4wLjABAAAAbex2r415NoEbv0-X--OeZUwAIaeUZjC3anOj10MMNQE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAbex2r415NoEbv0-X--OeZUwAIaeUZjC3anOj10MMNQE"
+      }
+    },
+    "first_seen_at": "2026-08-14T11:26:54+08:00",
+    "last_seen_at": "2026-08-14T11:26:54+08:00",
+    "fetch_runs": [
+      "2026-08-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7653641472150916367.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7653641472150916367.mp3",
+      "source": "download",
+      "processed_at": "2026-08-14T11:28:18+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7653641472150916367",
+      "transcript_raw": "希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨补充信息：希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨关键词：看赛事来五星、星耀美加墨、德国2比1科特迪瓦",
+      "transcript_clean": "希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨补充信息：希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨关键词：看赛事来五星、星耀美加墨、德国2比1科特迪瓦",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-14/7653641472150916367.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7653641472150916367",
+      "summary": "五星体育围绕“看赛事来五星”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨。希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨补充信息：希望德国解决后防隐患 恭喜德国时隔12年出线，五星体育解说嘉宾平安点评：希望德国解决后防隐患 #德国2比1科特迪瓦  #看赛事来五星  #星耀美加墨关键词：看赛事来五星、星耀美加墨、德国2比1科特迪瓦 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "看赛事来五星为什么总是做不出来结果？",
+        "先把星耀美加墨想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕看赛事来五星组织标题与开头。",
+        "用星耀美加墨和德国2比1科特迪瓦补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "看赛事来五星",
+        "星耀美加墨",
+        "德国2比1科特迪瓦"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-14/7653641472150916367.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "last_error": null
+  },
+  "7202154031895039292": {
+    "video_id": "7202154031895039292",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "金九九（旺财）",
+      "video_id": "7202154031895039292",
+      "title": "️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食",
+      "publish_time": "2023-02-20T16:36:12+08:00",
+      "video_url": "https://www.douyin.com/video/7202154031895039292",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5158f7e4a01a938c05810bfb904dd7f4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102036400&x-signature=g%2BWkyRgw83Nx9rIXvTHLrV20scc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608141127217DCD4CB149E8E3454637",
+      "like_count": 165,
+      "comment_count": 28,
+      "share_count": 50,
+      "collect_count": 173,
+      "description": "️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食",
+      "text_hint": "️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食",
+      "topic_tags": [
+        "吐司",
+        "吐司面包",
+        "烘焙教程",
+        "花样吐司",
+        "厨师机美食",
+        "烤箱美食"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/67881fc85d9bf5824499bd4fe845a87c/6a7eb61b/video/tos/cn/tos-cn-ve-0015c800/oAbDfYnIIfyACH8B0zJnbAM9D9A8RmzgGCRjUx/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2745&bt=2745&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9whQBQHhd.h1EZf03-ApQX&mime_type=video_mp4&qs=0&rc=Zmc6M2loMzZkNzk2ZjQzOUBpM254eGY6ZnltaTMzNGkzM0BhLTY2XzEtNWAxMTZhMGMxYSMzYzRrcjRfLm1gLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100J_100o_100w_100B_100D&dy_q=1786678041&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202608141127217DCD4CB149E8E3454637",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7202154031895039292.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7202154031895039292.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 210.652,
+      "raw_payload": {
+        "aweme_id": "7202154031895039292",
+        "author_uid": "87976821924",
+        "sec_uid": "MS4wLjABAAAA2xnO0ew5w97df8ZQJtB0WrZZQrX0CbTKgyQ41q290MM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA2xnO0ew5w97df8ZQJtB0WrZZQrX0CbTKgyQ41q290MM"
+      }
+    },
+    "first_seen_at": "2026-08-14T11:26:54+08:00",
+    "last_seen_at": "2026-08-14T11:26:54+08:00",
+    "fetch_runs": [
+      "2026-08-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7202154031895039292.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7202154031895039292.mp3",
+      "source": "download",
+      "processed_at": "2026-08-14T11:30:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7202154031895039292",
+      "transcript_raw": "️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食补充信息：️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食关键词：吐司、吐司面包、烘焙教程、花样吐司、厨师机美食、烤箱美食",
+      "transcript_clean": "️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食补充信息：️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食关键词：吐司、吐司面包、烘焙教程、花样吐司、厨师机美食、烤箱美食",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-14/7202154031895039292.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7202154031895039292",
+      "summary": "金九九（旺财）围绕“吐司”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食。️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食补充信息：️厨师机直接法｜超软拉丝吐司教程 #吐司 #吐司面包 #烘焙教程 #花样吐司 #厨师机美食 #烤箱美食关键词：吐司、吐司面包、烘焙教程、花样吐司、厨师机美食、烤箱美食 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "吐司为什么总是做不出来结果？",
+        "先把吐司面包想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕吐司组织标题与开头。",
+        "用吐司面包和烘焙教程补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "吐司",
+        "吐司面包",
+        "烘焙教程"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-14/7202154031895039292.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "last_error": null
+  },
+  "6958358687924669709": {
+    "video_id": "6958358687924669709",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "名表明说",
+      "video_id": "6958358687924669709",
+      "title": "【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表",
+      "publish_time": "2021-05-04T17:06:03+08:00",
+      "video_url": "https://www.douyin.com/video/6958358687924669709",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/596720b99cbbb7240bbdab64f7673a28~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102036400&x-signature=w0T8XJdKz9fb2er0xd6CoyGRJyY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260814112724C01278A6CA6C5C5D77F9",
+      "like_count": 1998,
+      "comment_count": 285,
+      "share_count": 274,
+      "collect_count": 110,
+      "description": "【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表",
+      "text_hint": "【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表",
+      "topic_tags": [
+        "劳力士迪通拿",
+        "劳力士黑水鬼",
+        "爱彼皇家橡树"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8d27baa87ecccb6f816f5038c0e42832/6a7eb6bd/video/tos/cn/tos-cn-ve-0015c800/dfe01f4728c5415cb9ad9b5f29a7c05b/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=840&bt=840&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wdQBQHhd.h1EZf03-ApQX&mime_type=video_mp4&qs=0&rc=ZmhnZjdkNTg2ZTM2aTo5M0BpMzU6N3BuPDZqNTMzNGkzM0AzYzYtMmExXjIxNTVhNWI2YSNlNmNhZzZtcDVgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_102u_100o&dy_q=1786678044&l=20260814112724C01278A6CA6C5C5D77F9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/6958358687924669709.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/6958358687924669709.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 369.092,
+      "raw_payload": {
+        "aweme_id": "6958358687924669709",
+        "author_uid": "2809952576749108",
+        "sec_uid": "MS4wLjABAAAA4DAsL2ZqCfA6vu7t5PXSuHdhHN8D68uhPvdJwHgLf8BHxbjJFR4I00TFi7p6rTDg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4DAsL2ZqCfA6vu7t5PXSuHdhHN8D68uhPvdJwHgLf8BHxbjJFR4I00TFi7p6rTDg"
+      }
+    },
+    "first_seen_at": "2026-08-14T11:26:54+08:00",
+    "last_seen_at": "2026-08-14T11:26:54+08:00",
+    "fetch_runs": [
+      "2026-08-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/6958358687924669709.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/6958358687924669709.mp3",
+      "source": "download",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6958358687924669709",
+      "transcript_raw": "【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表补充信息：【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表关键词：劳力士迪通拿、劳力士黑水鬼、爱彼皇家橡树",
+      "transcript_clean": "【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表补充信息：【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表关键词：劳力士迪通拿、劳力士黑水鬼、爱彼皇家橡树",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-14/6958358687924669709.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "analysis": {
+      "video_id": "6958358687924669709",
+      "summary": "名表明说围绕“劳力士迪通拿”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表。【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表补充信息：【1V1】黑水鬼与间金鬼的对决 #劳力士迪通拿  #劳力士黑水鬼  #爱彼皇家橡树  @雪晴聊表关键词：劳力士迪通拿、劳力士黑水鬼、爱彼皇家橡树 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "劳力士迪通拿为什么总是做不出来结果？",
+        "先把劳力士黑水鬼想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕劳力士迪通拿组织标题与开头。",
+        "用劳力士黑水鬼和爱彼皇家橡树补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "劳力士迪通拿",
+        "劳力士黑水鬼",
+        "爱彼皇家橡树"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-14/6958358687924669709.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "last_error": null
+  },
+  "7572765718337375539": {
+    "video_id": "7572765718337375539",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7572765718337375539",
+      "title": "英氏坚果霜秋冬面霜婴儿宝宝润肤乳滋润保湿补水湿润擦脸多效 L#婴儿护肤 #秋冬面霜 #英氏坚果霜 #宝宝润肤乳 #保湿补水",
+      "publish_time": "2025-11-15T01:58:00+08:00",
+      "video_url": "https://www.douyin.com/video/7572765718337375539",
+      "cover_url": "",
+      "like_count": 18,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "英氏坚果霜秋冬面霜婴儿宝宝润肤乳滋润保湿补水湿润擦脸多效 L#婴儿护肤 #秋冬面霜 #英氏坚果霜 #宝宝润肤乳 #保湿补水",
+      "text_hint": "英氏坚果霜秋冬面霜婴儿宝宝润肤乳滋润保湿补水湿润擦脸多效 L#婴儿护肤 #秋冬面霜 #英氏坚果霜 #宝宝润肤乳 #保湿补水",
+      "topic_tags": [
+        "婴儿护肤",
+        "秋冬面霜",
+        "英氏坚果霜",
+        "宝宝润肤乳",
+        "保湿补水"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/70c3798f-3162-4fd6-8c8b-46d9c521c26c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7572765718337375539",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-14T11:26:54+08:00",
+    "last_seen_at": "2026-08-14T11:26:54+08:00",
+    "fetch_runs": [
+      "2026-08-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7382538895663140150": {
+    "video_id": "7382538895663140150",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "爱森环保药剂老刘",
+      "video_id": "7382538895663140150",
+      "title": "总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标",
+      "publish_time": "2024-06-20T19:01:31+08:00",
+      "video_url": "https://www.douyin.com/video/7382538895663140150",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b681e1e00f5b6a199a0cbb423a065669~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102036400&x-signature=I60rpxEMXmT3%2F3MIUgWjREow%2B0s%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608141127476DE0E68FEA27EEDEB392",
+      "like_count": 304,
+      "comment_count": 55,
+      "share_count": 41,
+      "collect_count": 187,
+      "description": "总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标",
+      "text_hint": "总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标",
+      "topic_tags": [
+        "聚丙烯酰胺",
+        "絮凝剂",
+        "污水处理",
+        "聚合氯化铝",
+        "总氮超标"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/acd4e651590bc6d14be83a787ede536d/6a7eb62f/video/tos/cn/tos-cn-ve-0015c800/o8QBIgZ1AudXwZ2PwSiABncLIWQ1bQKEPPiXp/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1291&bt=1291&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w_QBQHhd.h1EZf03-ApQX&mime_type=video_mp4&qs=0&rc=Zjk8OjlmNjw5M2RoNWlpZUBpM3Y8cXA5cjwzczMzNGkzM0BjNTAxMzYuXy8xNTJeL19jYSNrYDY0MmQ0a25gLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1786678067&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202608141127476DE0E68FEA27EEDEB392",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7382538895663140150.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7382538895663140150.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 204.777,
+      "raw_payload": {
+        "aweme_id": "7382538895663140150",
+        "author_uid": "695340750873616",
+        "sec_uid": "MS4wLjABAAAAZd9PhbU4Mw6zIEmnRuEw4FaQkzrikIQm-VsuSWSfl98",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAZd9PhbU4Mw6zIEmnRuEw4FaQkzrikIQm-VsuSWSfl98"
+      }
+    },
+    "first_seen_at": "2026-08-14T11:26:54+08:00",
+    "last_seen_at": "2026-08-14T11:26:54+08:00",
+    "fetch_runs": [
+      "2026-08-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7382538895663140150.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7382538895663140150.mp3",
+      "source": "download",
+      "processed_at": "2026-08-14T11:29:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7382538895663140150",
+      "transcript_raw": "总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标补充信息：总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标关键词：聚丙烯酰胺、絮凝剂、污水处理、聚合氯化铝、总氮超标",
+      "transcript_clean": "总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标补充信息：总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标关键词：聚丙烯酰胺、絮凝剂、污水处理、聚合氯化铝、总氮超标",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-14/7382538895663140150.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7382538895663140150",
+      "summary": "爱森环保药剂老刘围绕“聚丙烯酰胺”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标。总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标补充信息：总氮降不下去的原因有哪些？#聚丙烯酰胺 #絮凝剂 #污水处理 #聚合氯化铝 #总氮超标关键词：聚丙烯酰胺、絮凝剂、污水处理、聚合氯化铝、总氮超标 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "聚丙烯酰胺为什么总是做不出来结果？",
+        "先把絮凝剂想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕聚丙烯酰胺组织标题与开头。",
+        "用絮凝剂和污水处理补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "聚丙烯酰胺",
+        "絮凝剂",
+        "污水处理"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-14/7382538895663140150.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "last_error": null
+  },
+  "7408115266216791311": {
+    "video_id": "7408115266216791311",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "茸仔",
+      "video_id": "7408115266216791311",
+      "title": "变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水",
+      "publish_time": "2024-08-29T17:30:42+08:00",
+      "video_url": "https://www.douyin.com/video/7408115266216791311",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c3d87e5c5cf56a36b7ffbc13f0a1ced9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102036400&x-signature=IxsDvkcoDV5sDuxZNpgdctHmXCA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608141127505AF6EA8979E131C480FC",
+      "like_count": 50895,
+      "comment_count": 1664,
+      "share_count": 4578,
+      "collect_count": 11763,
+      "description": "变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水",
+      "text_hint": "变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水",
+      "topic_tags": [
+        "原相机",
+        "季节测试",
+        "风格塑造",
+        "HBN",
+        "HBN发光水"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8229994bbae0a0f44e1a773169faa31f/6a7eb664/video/tos/cn/tos-cn-ve-15/ose1UFu8NdB7fRNsCdWQA9MlBnA71fvRgK8VEc/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2951&bt=2951&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wqQBQHhd.h1EZf03-ApQX&mime_type=video_mp4&qs=0&rc=NzNpNmhkaTxlZmU0ZmRoNkBpam5nb205cmZodTMzNGkzM0AuMWJeMzBgNjYxXi9iNDY0YSNjXnBoMmRrYzRgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100K_100o_100w_100B_100H&dy_q=1786678070&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=202608141127505AF6EA8979E131C480FC",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7408115266216791311.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7408115266216791311.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 254.421,
+      "raw_payload": {
+        "aweme_id": "7408115266216791311",
+        "author_uid": "63841589780",
+        "sec_uid": "MS4wLjABAAAAzgdrJba4D8FIcmQvTPXwMvS5krWfyN27WhhuRmcqRfc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAzgdrJba4D8FIcmQvTPXwMvS5krWfyN27WhhuRmcqRfc"
+      }
+    },
+    "first_seen_at": "2026-08-14T11:26:54+08:00",
+    "last_seen_at": "2026-08-14T11:26:54+08:00",
+    "fetch_runs": [
+      "2026-08-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7408115266216791311.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-14/7408115266216791311.mp3",
+      "source": "download",
+      "processed_at": "2026-08-14T11:29:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7408115266216791311",
+      "transcript_raw": "变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水补充信息：变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水关键词：原相机、季节测试、风格塑造、HBN、HBN发光水",
+      "transcript_clean": "变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水补充信息：变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水关键词：原相机、季节测试、风格塑造、HBN、HBN发光水",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-14/7408115266216791311.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7408115266216791311",
+      "summary": "茸仔围绕“原相机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水。变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水补充信息：变美复盘：如何营造美女光圈？ #原相机#季节测试#风格塑造#HBN#HBN发光水关键词：原相机、季节测试、风格塑造、HBN、HBN发光水 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "原相机为什么总是做不出来结果？",
+        "先把季节测试想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕原相机组织标题与开头。",
+        "用季节测试和风格塑造补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "原相机",
+        "季节测试",
+        "风格塑造"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-14/7408115266216791311.json",
+      "processed_at": "2026-08-14T11:30:33+08:00"
+    },
+    "last_error": null
+  },
+  "7358029401109302591": {
+    "video_id": "7358029401109302591",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7358029401109302591",
+      "title": "小学数学“培优”，学会一道题，解决一类题！快给孩子收藏吧！#数学思维 #小升初数学 #小学奥数 #小学数学 #趣味数学 #数学竞赛 #速算技巧 #易错题 #每日一题",
+      "publish_time": "2024-04-15T09:52:00+08:00",
+      "video_url": "https://www.douyin.com/video/7358029401109302591",
+      "cover_url": "",
+      "like_count": 478,
+      "comment_count": 40,
+      "share_count": 533,
+      "collect_count": 81,
+      "description": "小学数学“培优”，学会一道题，解决一类题！快给孩子收藏吧！#数学思维 #小升初数学 #小学奥数 #小学数学 #趣味数学 #数学竞赛 #速算技巧 #易错题 #每日一题",
+      "text_hint": "小学数学“培优”，学会一道题，解决一类题！快给孩子收藏吧！#数学思维 #小升初数学 #小学奥数 #小学数学 #趣味数学 #数学竞赛 #速算技巧 #易错题 #每日一题",
+      "topic_tags": [
+        "数学思维",
+        "小升初数学",
+        "小学奥数",
+        "小学数学",
+        "趣味数学",
+        "数学竞赛",
+        "速算技巧",
+        "易错题",
+        "每日一题"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/71b848fe-ce43-41a7-a36a-cc7ea35babf2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7358029401109302591",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-14T11:26:54+08:00",
+    "last_seen_at": "2026-08-14T11:26:54+08:00",
+    "fetch_runs": [
+      "2026-08-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
