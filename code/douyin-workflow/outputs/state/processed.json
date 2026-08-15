@@ -28790,5 +28790,640 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7674022226538102696": {
+    "video_id": "7674022226538102696",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "用户6191735540754",
+      "video_id": "7674022226538102696",
+      "title": "#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位",
+      "publish_time": "2026-08-15T06:45:35+08:00",
+      "video_url": "https://www.douyin.com/video/7674022226538102696",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o8bBQCAWfIzjD2DA27DfXRQzwempM8yEIoWp0f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102119200&x-signature=FgVPFFt7nZNSM7c4sDrjMJ4AlMk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608151016120A75FD291CA5A26EB9A0",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位",
+      "text_hint": "#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位",
+      "topic_tags": [
+        "英语趣配音"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/f8b5d8c421fbf19cbd852c59dc4a6440/6a7ff639/video/tos/cn/tos-cn-ve-15/oUFLg8X0MC7pWybDpfQmzOQpfEII2efAjj2uRA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=791&bt=791&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9wVmWQHhd.TcV0_03-ApQX&mime_type=video_mp4&qs=0&rc=Z2hmZmU4NTU5ZTRkZ2Y4NUBpam9nZ245cmdzPDMzNGkzM0AtNGNfMl9jNmAxNmM0My01YSNzc2hjMmQ0aHNhLS1kLS9zcw%3D%3D&btag=c0000e00018000&cquery=100z_100o_100w_100B_100x&dy_q=1786760172&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202608151016120A75FD291CA5A26EB9A0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7674022226538102696.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7674022226538102696.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 29.989,
+      "raw_payload": {
+        "aweme_id": "7674022226538102696",
+        "author_uid": "3694780202095432",
+        "sec_uid": "MS4wLjABAAAAkth5tkPtXSLuMpemwEew6gelLMOM8NdY6bH-gc-CGrZfLO3Lt4oVqTI09UgtQ3kB",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAkth5tkPtXSLuMpemwEew6gelLMOM8NdY6bH-gc-CGrZfLO3Lt4oVqTI09UgtQ3kB"
+      }
+    },
+    "first_seen_at": "2026-08-15T10:16:00+08:00",
+    "last_seen_at": "2026-08-15T10:16:00+08:00",
+    "fetch_runs": [
+      "2026-08-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7674022226538102696.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7674022226538102696.mp3",
+      "source": "download",
+      "processed_at": "2026-08-15T10:17:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7674022226538102696",
+      "transcript_raw": "#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位补充信息：#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位关键词：英语趣配音",
+      "transcript_clean": "#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位补充信息：#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位关键词：英语趣配音",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-15/7674022226538102696.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "analysis": {
+      "video_id": "7674022226538102696",
+      "summary": "用户6191735540754围绕“英语趣配音”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位。#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位补充信息：#英语趣配音  很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位关键词：英语趣配音 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "英语趣配音为什么总是做不出来结果？",
+        "先把#英语趣配音想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕英语趣配音组织标题与开头。",
+        "用#英语趣配音和很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位#英语趣配音补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "英语趣配音",
+        "#英语趣配音",
+        "很好用的软件，可以练习口语。孩子还能用它来预习下学期英语课。词汇、语法、真题，AI对话、示范朗读、配音，一站式到位#英语趣配音"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-15/7674022226538102696.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "last_error": null
+  },
+  "7578090144813632806": {
+    "video_id": "7578090144813632806",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "醒目视频",
+      "video_id": "7578090144813632806",
+      "title": "国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技",
+      "publish_time": "2025-11-29T18:20:13+08:00",
+      "video_url": "https://www.douyin.com/video/7578090144813632806",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/546afa8dbb77341c85cbd2dc7a6c6501~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102119200&x-signature=27wKFvtwn8yT%2B8EjAMbNOiDoFsw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608151016155B94FA4AD63531E13F15",
+      "like_count": 47,
+      "comment_count": 0,
+      "share_count": 1,
+      "collect_count": 10,
+      "description": "国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技",
+      "text_hint": "国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技",
+      "topic_tags": [
+        "航天",
+        "商业航天",
+        "航天科技"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/2e3bf216ceedd51137160f3245b33dd0/6a7ff63f/video/tos/cn/tos-cn-ve-15/oAqPEIASiV5gcIYiD2WalQAsQpIgBri4vEIkj/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1100&bt=1100&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wZmWQHhd.TcV0_03-ApQX&mime_type=video_mp4&qs=0&rc=OWhlM2hlZjQ6ZzdpNjxoZUBpanI4M3I5cjVmNzMzNGkzM0BgXzJjNF42NV8xNDIxYWBiYSNmYHNiMmRrZWlhLS1kLS9zcw%3D%3D&btag=c0000e00018000&cc=1f&cquery=100K_100o_100w_100B_100H&dy_q=1786760175&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202608151016155B94FA4AD63531E13F15&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7578090144813632806.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7578090144813632806.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 32.267,
+      "raw_payload": {
+        "aweme_id": "7578090144813632806",
+        "author_uid": "107730183743",
+        "sec_uid": "MS4wLjABAAAA7kX7hxpEI3XnY-E4ubsfZC9hcApxj9z0AC7qNPadwUM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7kX7hxpEI3XnY-E4ubsfZC9hcApxj9z0AC7qNPadwUM"
+      }
+    },
+    "first_seen_at": "2026-08-15T10:16:00+08:00",
+    "last_seen_at": "2026-08-15T10:16:00+08:00",
+    "fetch_runs": [
+      "2026-08-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7578090144813632806.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7578090144813632806.mp3",
+      "source": "download",
+      "processed_at": "2026-08-15T10:17:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7578090144813632806",
+      "transcript_raw": "国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技补充信息：国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技关键词：航天、商业航天、航天科技",
+      "transcript_clean": "国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技补充信息：国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技关键词：航天、商业航天、航天科技",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-15/7578090144813632806.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "analysis": {
+      "video_id": "7578090144813632806",
+      "summary": "醒目视频围绕“航天”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技。国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技补充信息：国家航天局设商业航天司，逐步释放商业航天发展潜力。（出镜：AI数字人刘畅；编辑：梅雪妍；责编：崔锦玥；素材来源：央视新闻）#航天  #商业航天  #航天科技关键词：航天、商业航天、航天科技 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "航天为什么总是做不出来结果？",
+        "先把商业航天想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕航天组织标题与开头。",
+        "用商业航天和航天科技补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "航天",
+        "商业航天",
+        "航天科技"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-15/7578090144813632806.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "last_error": null
+  },
+  "7408872101802822922": {
+    "video_id": "7408872101802822922",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "豪爵铃木销售店（曹县路店）",
+      "video_id": "7408872101802822922",
+      "title": "升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦",
+      "publish_time": "2024-08-30T18:07:54+08:00",
+      "video_url": "https://www.douyin.com/video/7408872101802822922",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/dd9009acb3f2d9a74852562bbbe745a6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102119200&x-signature=Qk5av8Pv1L7oEI0AKYuEvrjpGjk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260815101619C3E155BC7D9ACA20F621",
+      "like_count": 40,
+      "comment_count": 7,
+      "share_count": 4,
+      "collect_count": 4,
+      "description": "升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦",
+      "text_hint": "升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦",
+      "topic_tags": [
+        "同城",
+        "摩托车",
+        "踏板车",
+        "关注我圆你机车梦",
+        "每个男人都有一个机车梦"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6a01528ed98618714d53f7aa5c61fb70/6a7ff772/video/tos/cn/tos-cn-ve-0015c800/oIDqRyfmhXcZmFdA5y2BAbNmE0IAmQTg9uLfrW/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1145&bt=1145&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9w_mWQHhd.TcV0_03-ApQX&mime_type=video_mp4&qs=0&rc=ZzNmaGQ8OzllMzs6OjloO0BpamhpbHU5cjlzdTMzNGkzM0A1NmFhLjZfNWIxNi4zNjE0YSM2YmFeMmRzZzVgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1786760179&feature_id=2e1813f3872a2105acee44623dff2864&l=20260815101619C3E155BC7D9ACA20F621",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7408872101802822922.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7408872101802822922.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 335.922,
+      "raw_payload": {
+        "aweme_id": "7408872101802822922",
+        "author_uid": "4817388311351",
+        "sec_uid": "MS4wLjABAAAAtlvpJ0yPAtM6tP9kqWBhGHE8_PpZbgtg94XcVZprlNI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAtlvpJ0yPAtM6tP9kqWBhGHE8_PpZbgtg94XcVZprlNI"
+      }
+    },
+    "first_seen_at": "2026-08-15T10:16:00+08:00",
+    "last_seen_at": "2026-08-15T10:16:00+08:00",
+    "fetch_runs": [
+      "2026-08-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7408872101802822922.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7408872101802822922.mp3",
+      "source": "download",
+      "processed_at": "2026-08-15T10:18:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7408872101802822922",
+      "transcript_raw": "升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦补充信息：升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦关键词：同城、摩托车、踏板车、关注我圆你机车梦、每个男人都有一个机车梦",
+      "transcript_clean": "升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦补充信息：升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦关键词：同城、摩托车、踏板车、关注我圆你机车梦、每个男人都有一个机车梦",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-15/7408872101802822922.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "analysis": {
+      "video_id": "7408872101802822922",
+      "summary": "豪爵铃木销售店（曹县路店）围绕“同城”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦。升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦补充信息：升仕踏板车能买嘛[疑问]#同城 #摩托车 #踏板车#关注我圆你机车梦 #每个男人都有一个机车梦关键词：同城、摩托车、踏板车、关注我圆你机车梦、每个男人都有一个机车梦 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "同城为什么总是做不出来结果？",
+        "先把摩托车想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕同城组织标题与开头。",
+        "用摩托车和踏板车补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "同城",
+        "摩托车",
+        "踏板车"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-15/7408872101802822922.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "last_error": null
+  },
+  "7405738459727449371": {
+    "video_id": "7405738459727449371",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "可可爱爱",
+      "video_id": "7405738459727449371",
+      "title": "婉清爱尽#后续 #意想不到的结局 #追剧不能停",
+      "publish_time": "2024-08-22T07:28:00+08:00",
+      "video_url": "https://www.douyin.com/video/7405738459727449371",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b7e74668a867863324ed2264dee53203~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102119200&x-signature=NbuyM8rkllrRWLm1JfytFb45RUU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608151016229285442D346E51CC697D",
+      "like_count": 8,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 5,
+      "description": "婉清爱尽#后续 #意想不到的结局 #追剧不能停",
+      "text_hint": "婉清爱尽#后续 #意想不到的结局 #追剧不能停",
+      "topic_tags": [
+        "后续",
+        "意想不到的结局",
+        "追剧不能停"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e1ed67c0699cc134ab2a180bee4a1d27/6a7ff97f/video/tos/cn/tos-cn-ve-0015c800/oUZ88kC2NGB9VLBMCqLIArGdBjA78flIQ1eeEO/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1235&bt=1235&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9wqmWQHhd.TcV0_03-ApQX&mime_type=video_mp4&qs=0&rc=aDMzOTtoNDY4Ojk3OThmZkBpajg0b3Q5cnU6dTMzNGkzM0BhYF8xXzQzXjExLmNhYC4vYSNxcmZqMmRrXjBgLS1kLS9zcw%3D%3D&btag=c0000e00038000&cquery=100w_100B_100x_100z_100o&dy_q=1786760182&feature_id=2e1813f3872a2105acee44623dff2864&l=202608151016229285442D346E51CC697D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7405738459727449371.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7405738459727449371.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 857.374,
+      "raw_payload": {
+        "aweme_id": "7405738459727449371",
+        "author_uid": "62051435164488",
+        "sec_uid": "MS4wLjABAAAApXeGGCrS8RaXjyV7yh98Gy26eiQ2OsGje75_hDRwXhI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAApXeGGCrS8RaXjyV7yh98Gy26eiQ2OsGje75_hDRwXhI"
+      }
+    },
+    "first_seen_at": "2026-08-15T10:16:00+08:00",
+    "last_seen_at": "2026-08-15T10:16:00+08:00",
+    "fetch_runs": [
+      "2026-08-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7405738459727449371.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7405738459727449371.mp3",
+      "source": "download",
+      "processed_at": "2026-08-15T10:19:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7405738459727449371",
+      "transcript_raw": "婉清爱尽#后续 #意想不到的结局 #追剧不能停婉清爱尽#后续 #意想不到的结局 #追剧不能停补充信息：婉清爱尽#后续 #意想不到的结局 #追剧不能停关键词：后续、意想不到的结局、追剧不能停",
+      "transcript_clean": "婉清爱尽#后续 #意想不到的结局 #追剧不能停婉清爱尽#后续 #意想不到的结局 #追剧不能停补充信息：婉清爱尽#后续 #意想不到的结局 #追剧不能停关键词：后续、意想不到的结局、追剧不能停",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-15/7405738459727449371.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "analysis": {
+      "video_id": "7405738459727449371",
+      "summary": "可可爱爱围绕“后续”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "婉清爱尽#后续 #意想不到的结局 #追剧不能停。婉清爱尽#后续 #意想不到的结局 #追剧不能停婉清爱尽#后续 #意想不到的结局 #追剧不能停补充信息：婉清爱尽#后续 #意想不到的结局 #追剧不能停关键词：后续、意想不到的结局、追剧不能停 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "后续为什么总是做不出来结果？",
+        "先把意想不到的结局想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕后续组织标题与开头。",
+        "用意想不到的结局和追剧不能停补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "后续",
+        "意想不到的结局",
+        "追剧不能停"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-15/7405738459727449371.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "last_error": null
+  },
+  "7533881253927603513": {
+    "video_id": "7533881253927603513",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7533881253927603513",
+      "title": "一个婆婆带火一座开封城#王婆说媒 #王婆说媒现场火爆 #万岁山大宋武侠城 #醉打蒋门神#伊拉克老王去万岁山了",
+      "publish_time": "2025-08-02T07:07:00+08:00",
+      "video_url": "https://www.douyin.com/video/7533881253927603513",
+      "cover_url": "",
+      "like_count": 328,
+      "comment_count": 60,
+      "share_count": 30,
+      "collect_count": 52,
+      "description": "一个婆婆带火一座开封城#王婆说媒 #王婆说媒现场火爆 #万岁山大宋武侠城 #醉打蒋门神#伊拉克老王去万岁山了",
+      "text_hint": "一个婆婆带火一座开封城#王婆说媒 #王婆说媒现场火爆 #万岁山大宋武侠城 #醉打蒋门神#伊拉克老王去万岁山了",
+      "topic_tags": [
+        "王婆说媒",
+        "王婆说媒现场火爆",
+        "万岁山大宋武侠城",
+        "醉打蒋门神",
+        "伊拉克老王去万岁山了"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/2cbd0878-f05e-41e8-84e1-45985fbf3017",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7533881253927603513",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-15T10:16:00+08:00",
+    "last_seen_at": "2026-08-15T10:16:00+08:00",
+    "fetch_runs": [
+      "2026-08-15"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7414186646242856207": {
+    "video_id": "7414186646242856207",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "Sasuke（混/✂️）",
+      "video_id": "7414186646242856207",
+      "title": "天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享",
+      "publish_time": "2024-09-14T01:51:04+08:00",
+      "video_url": "https://www.douyin.com/video/7414186646242856207",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f4bf414704d2bab240cdc4ff8d23feaa~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102119200&x-signature=NSkkQ1tdcDDlJMR96HqTLgcramw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260815101646F316A2D75F9D6413BD05",
+      "like_count": 316,
+      "comment_count": 35,
+      "share_count": 99,
+      "collect_count": 55,
+      "description": "天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享",
+      "text_hint": "天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享",
+      "topic_tags": [
+        "dou上热门",
+        "coke",
+        "天天",
+        "陶喆",
+        "直播录屏分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/ae18ddb848dd7989e3cfb3d2818586d6/6a7ff73d/video/cn/mps/realtime/v1/r/p/v0300fg10000cri7kgnog65joif5rd50/87ab448a07964a93b2034c3d7e683a15/885f3c626dab5271a2b74e620c27f1f3/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=686&bt=686&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNeRVQ9wx1WQHhd.TcV0_03-ApQX&mime_type=video_mp4&qs=0&rc=OGQ7aGdmNjU2ZDk6ZDdlOkBpM2c4bG05cmo6dTMzNGkzM0AuMDM0MDEtXzYxNi01MV41YSMyb2NsMmRraGZgLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1786760206&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7414186646242856207&l=20260815101646F316A2D75F9D6413BD05&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7414186646242856207.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7414186646242856207.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 255.846,
+      "raw_payload": {
+        "aweme_id": "7414186646242856207",
+        "author_uid": "3824574345779290",
+        "sec_uid": "MS4wLjABAAAAvk2q9FXtNOA-a6aQ9ozoO_8nSHfN-QeYFoWwwzF3aj0mJ7JgkRlb7yXI_9wfITLd",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAvk2q9FXtNOA-a6aQ9ozoO_8nSHfN-QeYFoWwwzF3aj0mJ7JgkRlb7yXI_9wfITLd"
+      }
+    },
+    "first_seen_at": "2026-08-15T10:16:00+08:00",
+    "last_seen_at": "2026-08-15T10:16:00+08:00",
+    "fetch_runs": [
+      "2026-08-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7414186646242856207.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7414186646242856207.mp3",
+      "source": "download",
+      "processed_at": "2026-08-15T10:17:46+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7414186646242856207",
+      "transcript_raw": "天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享补充信息：天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享关键词：dou上热门、coke、天天、陶喆、直播录屏分享",
+      "transcript_clean": "天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享补充信息：天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享关键词：dou上热门、coke、天天、陶喆、直播录屏分享",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-15/7414186646242856207.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "analysis": {
+      "video_id": "7414186646242856207",
+      "summary": "Sasuke（混/✂️）围绕“dou上热门”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享。天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享补充信息：天天（coke纯享版）#dou上热门 #coke #天天 #陶喆  #直播录屏分享关键词：dou上热门、coke、天天、陶喆、直播录屏分享 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "dou上热门为什么总是做不出来结果？",
+        "先把coke想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕dou上热门组织标题与开头。",
+        "用coke和天天补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "dou上热门",
+        "coke",
+        "天天"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-15/7414186646242856207.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "last_error": null
+  },
+  "7365727037761277221": {
+    "video_id": "7365727037761277221",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "曾宇精彩F1",
+      "video_id": "7365727037761277221",
+      "title": "玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏",
+      "publish_time": "2024-05-06T11:42:58+08:00",
+      "video_url": "https://www.douyin.com/video/7365727037761277221",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4697d0eaa41e19f3a7e9d30e2ba06fb5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102119200&x-signature=KuK9t0NhJVC7R1iP6Bc4hBFakXk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608151016491D08FEB0DE613DCF2131",
+      "like_count": 288,
+      "comment_count": 13,
+      "share_count": 16,
+      "collect_count": 46,
+      "description": "玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏",
+      "text_hint": "玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏",
+      "topic_tags": [
+        "模拟赛车#赛车模拟器",
+        "赛车游戏",
+        "模拟赛车",
+        "赛车模拟器"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/47b7c1f3aa4e794e6b2f31b9d43bf2f9/6a7ff819/video/tos/cn/tos-cn-ve-15c001-alinc2/owLzMLKBIRxgArcBKzeOkeHA7tItMGEzBEanCe/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1376&bt=1376&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wN1WQHhd.TcV0_03-ApQX&mime_type=video_mp4&qs=0&rc=OTY5O2g4Zjs1NGhlNGZoNUBpam1tO3Y5cmo4cjMzNGkzM0BfLzAyLy8xXy8xYTAyLTM0YSMxLWVtMmRzMHBgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100B_100D_100J_100o_100w&dy_q=1786760209&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202608151016491D08FEB0DE613DCF2131",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7365727037761277221.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7365727037761277221.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 472.294,
+      "raw_payload": {
+        "aweme_id": "7365727037761277221",
+        "author_uid": "562540876925230",
+        "sec_uid": "MS4wLjABAAAAOj3nrnviUbBpDpchhofVuIecM86bztVy8Del76qkREw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAOj3nrnviUbBpDpchhofVuIecM86bztVy8Del76qkREw"
+      }
+    },
+    "first_seen_at": "2026-08-15T10:16:00+08:00",
+    "last_seen_at": "2026-08-15T10:16:00+08:00",
+    "fetch_runs": [
+      "2026-08-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7365727037761277221.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-15/7365727037761277221.mp3",
+      "source": "download",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7365727037761277221",
+      "transcript_raw": "玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏补充信息：玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏关键词：模拟赛车#赛车模拟器、赛车游戏、模拟赛车、赛车模拟器",
+      "transcript_clean": "玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏补充信息：玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏关键词：模拟赛车#赛车模拟器、赛车游戏、模拟赛车、赛车模拟器",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-15/7365727037761277221.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "analysis": {
+      "video_id": "7365727037761277221",
+      "summary": "曾宇精彩F1围绕“模拟赛车#赛车模拟器”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏。玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏补充信息：玩F1游戏，更轻的方向盘，会不会更快？魔爪GS&KS方向盘对比体验 #模拟赛车#赛车模拟器 #赛车游戏关键词：模拟赛车#赛车模拟器、赛车游戏、模拟赛车、赛车模拟器 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "模拟赛车#赛车模拟器为什么总是做不出来结果？",
+        "先把赛车游戏想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕模拟赛车#赛车模拟器组织标题与开头。",
+        "用赛车游戏和模拟赛车补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "模拟赛车#赛车模拟器",
+        "赛车游戏",
+        "模拟赛车"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-15/7365727037761277221.json",
+      "processed_at": "2026-08-15T10:20:13+08:00"
+    },
+    "last_error": null
+  },
+  "7349098087392021794": {
+    "video_id": "7349098087392021794",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7349098087392021794",
+      "title": "盘点主播在抢英雄时的爆笑高能名场面... #韩涵 #德华 #赖神 #听安 #张老三",
+      "publish_time": "2024-03-22T13:01:00+08:00",
+      "video_url": "https://www.douyin.com/video/7349098087392021794",
+      "cover_url": "",
+      "like_count": 366,
+      "comment_count": 6,
+      "share_count": 31,
+      "collect_count": 21,
+      "description": "盘点主播在抢英雄时的爆笑高能名场面... #韩涵 #德华 #赖神 #听安 #张老三",
+      "text_hint": "盘点主播在抢英雄时的爆笑高能名场面... #韩涵 #德华 #赖神 #听安 #张老三",
+      "topic_tags": [
+        "韩涵",
+        "德华",
+        "赖神",
+        "听安",
+        "张老三"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a1c05143-7587-43dd-a119-0eb13ef5422c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7349098087392021794",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-15T10:16:00+08:00",
+    "last_seen_at": "2026-08-15T10:16:00+08:00",
+    "fetch_runs": [
+      "2026-08-15"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
