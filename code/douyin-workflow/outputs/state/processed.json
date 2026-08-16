@@ -29425,5 +29425,494 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7674139380713376467": {
+    "video_id": "7674139380713376467",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7674139380713376467",
+      "title": "目标博主 1 视频 7674139380713376467",
+      "publish_time": "2026-08-16T10:25:36+08:00",
+      "video_url": "https://www.douyin.com/video/7674139380713376467",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/94e9a0ac-635c-4ddf-a4b0-73b87c47cee1",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7674139380713376467",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-16T10:23:17+08:00",
+    "last_seen_at": "2026-08-16T10:23:17+08:00",
+    "fetch_runs": [
+      "2026-08-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7632267652622666469": {
+    "video_id": "7632267652622666469",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7632267652622666469",
+      "title": "目标博主 1 视频 7632267652622666469",
+      "publish_time": "2026-08-16T10:25:36+08:00",
+      "video_url": "https://www.douyin.com/video/7632267652622666469",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/162153dd-32a9-4db2-a8d1-395cb91450eb",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7632267652622666469",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-16T10:23:17+08:00",
+    "last_seen_at": "2026-08-16T10:23:17+08:00",
+    "fetch_runs": [
+      "2026-08-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7045198860850924812": {
+    "video_id": "7045198860850924812",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "米奇妈妈vIog",
+      "video_id": "7045198860850924812",
+      "title": "新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑",
+      "publish_time": "2021-12-24T17:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7045198860850924812",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/82b4a371e8a84d542dd3fe97f7dd7c5f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102205600&x-signature=eTv3O6AVGGcbK5u0AVxqPBB6%2F6c%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260816102420A6BE271B6773EEE204F9",
+      "like_count": 84,
+      "comment_count": 15,
+      "share_count": 5,
+      "collect_count": 29,
+      "description": "新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑",
+      "text_hint": "新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑",
+      "topic_tags": [
+        "经验分享",
+        "剪映",
+        "视频剪辑"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/6745c794b0b67d997964462a2f399f54/6a814a79/video/cn/mps/realtime/v1/r/p/v0300fg10000c72p6djc77uej28b0s7g/aac30a1192c94243b07f9f5bdd74d618/4c8c25ac349f4a474bf86b5c51775bea/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=602&bt=602&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9w1DjeHhd.w_wjf03-ApQX&mime_type=video_mp4&qs=0&rc=Ozk3Z2VpaTM2NTw1NGQ2ZEBpanZlNWg6ZmdzOjMzNGkzM0AuYTRhMjY0XzExYDYuLWBeYSM0LTVncjRnMy9gLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100B_100D_102u_100o_100w&definition=720p&dy_q=1786847060&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7045198860850924812&l=20260816102420A6BE271B6773EEE204F9&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7045198860850924812.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7045198860850924812.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 245.139,
+      "raw_payload": {
+        "aweme_id": "7045198860850924812",
+        "author_uid": "94790506491",
+        "sec_uid": "MS4wLjABAAAAKFdQh1OYOdFELB9wnDJQSUyv_uLqAjndIX8wzzI6stM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAKFdQh1OYOdFELB9wnDJQSUyv_uLqAjndIX8wzzI6stM"
+      }
+    },
+    "first_seen_at": "2026-08-16T10:23:17+08:00",
+    "last_seen_at": "2026-08-16T10:23:17+08:00",
+    "fetch_runs": [
+      "2026-08-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7045198860850924812.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7045198860850924812.mp3",
+      "source": "download",
+      "processed_at": "2026-08-16T10:33:56+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7045198860850924812",
+      "transcript_raw": "新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑补充信息：新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑关键词：经验分享、剪映、视频剪辑",
+      "transcript_clean": "新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑补充信息：新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑关键词：经验分享、剪映、视频剪辑",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-16/7045198860850924812.json",
+      "processed_at": "2026-08-16T10:33:56+08:00"
+    },
+    "analysis": {
+      "video_id": "7045198860850924812",
+      "summary": "米奇妈妈vIog围绕“经验分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑。新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑补充信息：新人自媒体应该用什么剪辑软件？西瓜视频剪辑和剪映有哪些区别？ #经验分享 #剪映 #视频剪辑关键词：经验分享、剪映、视频剪辑 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "经验分享为什么总是做不出来结果？",
+        "先把剪映想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕经验分享组织标题与开头。",
+        "用剪映和视频剪辑补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "经验分享",
+        "剪映",
+        "视频剪辑"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-16/7045198860850924812.json",
+      "processed_at": "2026-08-16T10:33:56+08:00"
+    },
+    "last_error": null
+  },
+  "6827185725834939655": {
+    "video_id": "6827185725834939655",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "6827185725834939655",
+      "title": "目标博主 1 视频 6827185725834939655",
+      "publish_time": "2026-08-16T10:25:36+08:00",
+      "video_url": "https://www.douyin.com/video/6827185725834939655",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/55e94666-c3f0-46c7-8dc6-68194280d13e",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "6827185725834939655",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-16T10:23:17+08:00",
+    "last_seen_at": "2026-08-16T10:23:17+08:00",
+    "fetch_runs": [
+      "2026-08-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7578759785701575977": {
+    "video_id": "7578759785701575977",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7578759785701575977",
+      "title": "【爽文】过瘾又痛心，现言主角爽文反转超精彩。#高质量短篇",
+      "publish_time": "2025-12-01T05:38:00+08:00",
+      "video_url": "https://www.douyin.com/video/7578759785701575977",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "【爽文】过瘾又痛心，现言主角爽文反转超精彩。#高质量短篇",
+      "text_hint": "【爽文】过瘾又痛心，现言主角爽文反转超精彩。#高质量短篇",
+      "topic_tags": [
+        "高质量短篇"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ac0c3943-6deb-422c-9b3c-87c3346c4c07",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7578759785701575977",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-16T10:23:17+08:00",
+    "last_seen_at": "2026-08-16T10:23:17+08:00",
+    "fetch_runs": [
+      "2026-08-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7511177342606331199": {
+    "video_id": "7511177342606331199",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小敏家有 7个女儿",
+      "video_id": "7511177342606331199",
+      "title": "带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的",
+      "publish_time": "2025-06-02T10:44:27+08:00",
+      "video_url": "https://www.douyin.com/video/7511177342606331199",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7f42b84151542022ce82716339ea4104~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102205600&x-signature=%2FTn%2FvzfNuHuSzDIrth27Q4qWQjc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260816102508E0A18CCE813B627D94C0",
+      "like_count": 105,
+      "comment_count": 79,
+      "share_count": 14,
+      "collect_count": 2,
+      "description": "带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的",
+      "text_hint": "带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的",
+      "topic_tags": [
+        "农村小孩",
+        "农村生活",
+        "农村人的生活就是这样的"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/3e4bb12a25b8b0fbe691ed81065b0862/6a814ab6/video/cn/mps/realtime/v1/r/p/v2000fg10000d0ugvgaljhtab0gqosq0/5ff5948cf97c45dc8b6fe02de859893c/6469a55cad177e8bfc9957df379ab86f/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2817&bt=2817&cs=0&ds=3&ft=InFJ3Y-5DyjNMRVQ9wiejeHhd.w_wjf03-ApQX&mime_type=video_mp4&qs=0&rc=Zjw8O2czaWVmOGY8Zjc4aUBpM3Z0M2Rrb2pqMzMzNGkzNUAwNTJiL2IzNWExNGM1NmMyYSNubGRfcWdec3JhLS1kLS1zcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100z_100o_100w_100B_100x&definition=720p&dy_q=1786847108&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7511177342606331199&l=20260816102508E0A18CCE813B627D94C0&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7511177342606331199.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7511177342606331199.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 258.379,
+      "raw_payload": {
+        "aweme_id": "7511177342606331199",
+        "author_uid": "567802001098253",
+        "sec_uid": "MS4wLjABAAAArAEArFg7LsuNVrmdoD1RIT-v73hMLlq6aZ2sNcyB9zk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAArAEArFg7LsuNVrmdoD1RIT-v73hMLlq6aZ2sNcyB9zk"
+      }
+    },
+    "first_seen_at": "2026-08-16T10:23:17+08:00",
+    "last_seen_at": "2026-08-16T10:23:17+08:00",
+    "fetch_runs": [
+      "2026-08-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7511177342606331199.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7511177342606331199.mp3",
+      "source": "download",
+      "processed_at": "2026-08-16T10:27:51+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7511177342606331199",
+      "transcript_raw": "带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的补充信息：带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的关键词：农村小孩、农村生活、农村人的生活就是这样的",
+      "transcript_clean": "带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的补充信息：带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的关键词：农村小孩、农村生活、农村人的生活就是这样的",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-16/7511177342606331199.json",
+      "processed_at": "2026-08-16T10:33:56+08:00"
+    },
+    "analysis": {
+      "video_id": "7511177342606331199",
+      "summary": "小敏家有 7个女儿围绕“农村小孩”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的。带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的补充信息：带孩子来地里呢，主要是我太无聊了，孩子来了也能和我说话。孩子们也没有干多少活的，也没有要求他们要干多少活。你们们看我家孩子这么高兴，像是干了很多活的人吗，前几年孩子还小的时候，我养母经常对我说他不认我了，每一次我养母说这种话的时候，我都会难过的哭好几天，现在大的孩子长大了和我说说话，我养母就算理我，我也没空搭理她了。 #农村小孩 #农村生活 #农村人的生活就是这样的关键词：农村小孩、农村生活、农村人的生活就是这样的 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "农村小孩为什么总是做不出来结果？",
+        "先把农村生活想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕农村小孩组织标题与开头。",
+        "用农村生活和农村人的生活就是这样的补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "农村小孩",
+        "农村生活",
+        "农村人的生活就是这样的"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-16/7511177342606331199.json",
+      "processed_at": "2026-08-16T10:33:56+08:00"
+    },
+    "last_error": null
+  },
+  "7346124360299613477": {
+    "video_id": "7346124360299613477",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "老隐记",
+      "video_id": "7346124360299613477",
+      "title": "雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜",
+      "publish_time": "2024-03-14T15:54:35+08:00",
+      "video_url": "https://www.douyin.com/video/7346124360299613477",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bc2c59c6a3cbad06bf846e6f71ff2c24~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102205600&x-signature=mcNc4ZoctHp4aomh7tCkWEQe1ZU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026081610251579946E137AF2EAA4B0FD",
+      "like_count": 1541,
+      "comment_count": 39,
+      "share_count": 171,
+      "collect_count": 747,
+      "description": "雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜",
+      "text_hint": "雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜",
+      "topic_tags": [
+        "跟抖音学做菜",
+        "真材实料才能做出好味道",
+        "跟着大厨学做菜"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/8259efe91c7b709ae036e3f241f42712/6a814aee/video/tos/cn/tos-cn-ve-15/oYIAyfl7VBRyAUzcEtpJUNRghhshGeL5ovYA9Q/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2164&bt=2164&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wlejeHhd.w_wjf03-ApQX&mime_type=video_mp4&qs=0&rc=OTw6Ozg3NmZpMzVoOTw5aUBpM2xscmU6ZnZkcTMzNGkzM0A2MTIyYmMzNTExX2AtLzAzYSMwZV5xcjRvbG1gLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1786847115&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026081610251579946E137AF2EAA4B0FD",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7346124360299613477.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7346124360299613477.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 307.849,
+      "raw_payload": {
+        "aweme_id": "7346124360299613477",
+        "author_uid": "4212952819050878",
+        "sec_uid": "MS4wLjABAAAAUic9Ae1cfQyWd9ZaYBZ-BJp7LMKrVBIdW_mHymWb1pbCfss00jdigBFK_Gm2z_VV",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAUic9Ae1cfQyWd9ZaYBZ-BJp7LMKrVBIdW_mHymWb1pbCfss00jdigBFK_Gm2z_VV"
+      }
+    },
+    "first_seen_at": "2026-08-16T10:23:17+08:00",
+    "last_seen_at": "2026-08-16T10:23:17+08:00",
+    "fetch_runs": [
+      "2026-08-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7346124360299613477.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-16/7346124360299613477.mp3",
+      "source": "download",
+      "processed_at": "2026-08-16T10:33:38+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7346124360299613477",
+      "transcript_raw": "雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜补充信息：雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜关键词：跟抖音学做菜、真材实料才能做出好味道、跟着大厨学做菜",
+      "transcript_clean": "雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜补充信息：雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜关键词：跟抖音学做菜、真材实料才能做出好味道、跟着大厨学做菜",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-16/7346124360299613477.json",
+      "processed_at": "2026-08-16T10:33:56+08:00"
+    },
+    "analysis": {
+      "video_id": "7346124360299613477",
+      "summary": "老隐记围绕“跟抖音学做菜”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜。雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜补充信息：雪菜的神奇香味占据中国四大咸菜之一，今天来一道接地气雪里红炒鸡蛋#跟抖音学做菜 #真材实料才能做出好味道 #跟着大厨学做菜关键词：跟抖音学做菜、真材实料才能做出好味道、跟着大厨学做菜 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "跟抖音学做菜为什么总是做不出来结果？",
+        "先把真材实料才能做出好味道想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕跟抖音学做菜组织标题与开头。",
+        "用真材实料才能做出好味道和跟着大厨学做菜补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "跟抖音学做菜",
+        "真材实料才能做出好味道",
+        "跟着大厨学做菜"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-16/7346124360299613477.json",
+      "processed_at": "2026-08-16T10:33:56+08:00"
+    },
+    "last_error": null
+  },
+  "7536134664696991011": {
+    "video_id": "7536134664696991011",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7536134664696991011",
+      "title": "山哥说秋老虎比母老虎厉害，你们说哪个厉害 #盐亭英子 #农村生活 #百善孝为先 #原创视频 @盐亭英子 2",
+      "publish_time": "2025-08-08T08:51:00+08:00",
+      "video_url": "https://www.douyin.com/video/7536134664696991011",
+      "cover_url": "",
+      "like_count": 3828,
+      "comment_count": 231,
+      "share_count": 371,
+      "collect_count": 59,
+      "description": "山哥说秋老虎比母老虎厉害，你们说哪个厉害 #盐亭英子 #农村生活 #百善孝为先 #原创视频 @盐亭英子 2",
+      "text_hint": "山哥说秋老虎比母老虎厉害，你们说哪个厉害 #盐亭英子 #农村生活 #百善孝为先 #原创视频 @盐亭英子 2",
+      "topic_tags": [
+        "盐亭英子",
+        "农村生活",
+        "百善孝为先",
+        "原创视频"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/caf6fb3e-b423-4662-82f8-64d948e65082",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7536134664696991011",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-16T10:23:17+08:00",
+    "last_seen_at": "2026-08-16T10:23:17+08:00",
+    "fetch_runs": [
+      "2026-08-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
