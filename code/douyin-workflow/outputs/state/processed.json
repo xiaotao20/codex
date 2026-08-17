@@ -29914,5 +29914,447 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7673891644365655302": {
+    "video_id": "7673891644365655302",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7673891644365655302",
+      "title": "目标博主 1 视频 7673891644365655302",
+      "publish_time": "2026-08-17T10:24:29+08:00",
+      "video_url": "https://www.douyin.com/video/7673891644365655302",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/8ddc3239-3edf-43e7-a41e-f4c7b9ee8045",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7673891644365655302",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-17T10:22:02+08:00",
+    "last_seen_at": "2026-08-17T10:22:02+08:00",
+    "fetch_runs": [
+      "2026-08-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7643995052573756715": {
+    "video_id": "7643995052573756715",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7643995052573756715",
+      "title": "目标博主 1 视频 7643995052573756715",
+      "publish_time": "2026-08-17T10:24:29+08:00",
+      "video_url": "https://www.douyin.com/video/7643995052573756715",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/9af2ecc2-d213-4161-baa3-8836961933e0",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7643995052573756715",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-17T10:22:02+08:00",
+    "last_seen_at": "2026-08-17T10:22:02+08:00",
+    "fetch_runs": [
+      "2026-08-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7335956343724985610": {
+    "video_id": "7335956343724985610",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7335956343724985610",
+      "title": "目标博主 1 视频 7335956343724985610",
+      "publish_time": "2026-08-17T10:24:29+08:00",
+      "video_url": "https://www.douyin.com/video/7335956343724985610",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/46705bfd-d746-41d9-9bf6-356808e27382",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7335956343724985610",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-17T10:22:02+08:00",
+    "last_seen_at": "2026-08-17T10:22:02+08:00",
+    "fetch_runs": [
+      "2026-08-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7331559905167478054": {
+    "video_id": "7331559905167478054",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7331559905167478054",
+      "title": "目标博主 1 视频 7331559905167478054",
+      "publish_time": "2026-08-17T10:24:29+08:00",
+      "video_url": "https://www.douyin.com/video/7331559905167478054",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/94140aee-f518-4569-a947-4db025adf0cf",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7331559905167478054",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-17T10:22:02+08:00",
+    "last_seen_at": "2026-08-17T10:22:02+08:00",
+    "fetch_runs": [
+      "2026-08-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7487188317746842891": {
+    "video_id": "7487188317746842891",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7487188317746842891",
+      "title": "office免费版在哪里下，office下载教程 #office安装教程 #office办公软件 #办公软件免费永久 office免费永久使用，办公软件哪个好用，office免费版在哪里下，office下载安装方法，office下载免费版官网，办公软件推荐，office安装步骤，office免费下载安装方法，office永久免费密钥，office免费，office安装全过程，office办公软件免",
+      "publish_time": "2025-03-29T11:20:00+08:00",
+      "video_url": "https://www.douyin.com/video/7487188317746842891",
+      "cover_url": "",
+      "like_count": 25,
+      "comment_count": 3,
+      "share_count": 22,
+      "collect_count": 5,
+      "description": "office免费版在哪里下，office下载教程 #office安装教程 #office办公软件 #办公软件免费永久 office免费永久使用，办公软件哪个好用，office免费版在哪里下，office下载安装方法，office下载免费版官网，办公软件推荐，office安装步骤，office免费下载安装方法，office永久免费密钥，office免费，office安装全过程，office办公软件免",
+      "text_hint": "office免费版在哪里下，office下载教程 #office安装教程 #office办公软件 #办公软件免费永久 office免费永久使用，办公软件哪个好用，office免费版在哪里下，office下载安装方法，office下载免费版官网，办公软件推荐，office安装步骤，office免费下载安装方法，office永久免费密钥，office免费，office安装全过程，office办公软件免",
+      "topic_tags": [
+        "office安装教程",
+        "office办公软件",
+        "办公软件免费永久"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/abe2a17d-b209-43eb-aa73-9e40356141dc",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7487188317746842891",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-17T10:22:02+08:00",
+    "last_seen_at": "2026-08-17T10:22:02+08:00",
+    "fetch_runs": [
+      "2026-08-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7420215806107127098": {
+    "video_id": "7420215806107127098",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "洪💖💖",
+      "video_id": "7420215806107127098",
+      "title": "生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频",
+      "publish_time": "2024-09-30T07:48:30+08:00",
+      "video_url": "https://www.douyin.com/video/7420215806107127098",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2bb3ab3bd7f7d64949b235c2cf1cd17c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102292000&x-signature=K690ErXZGkuEeAWvBlObIjqM25w%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260817102403DB22605AAD1882010096",
+      "like_count": 266,
+      "comment_count": 10,
+      "share_count": 14,
+      "collect_count": 45,
+      "description": "生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频",
+      "text_hint": "生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频",
+      "topic_tags": [
+        "莆仙戏",
+        "真人真唱现场版",
+        "文化下乡演出",
+        "演出现场视频"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6e11215d03989c58ede4f7a8a2fa2754/6a829ba8/video/tos/cn/tos-cn-ve-0015c800/oof07NUr8H4EB94kJAIEPjaf5cLgMFQDjE8Cie/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4783&bt=4783&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wMy4eHhd.t4EJC73-ApQX&mime_type=video_mp4&qs=0&rc=N2Q7OGY4Nzc2aTk4NzQ7NkBpajpyeWs5cmh4dTMzbGkzNEA2Xy4uYmJgXzAxXzY0Ly8wYSNsMS5uMmRjYXBgLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1786933443&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260817102403DB22605AAD1882010096",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-17/7420215806107127098.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-17/7420215806107127098.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 181.6,
+      "raw_payload": {
+        "aweme_id": "7420215806107127098",
+        "author_uid": "67503446816",
+        "sec_uid": "MS4wLjABAAAANn3b6x2L2YaT7GsLyQrUhh3DsFr2Pkv7DoximqsBYBU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAANn3b6x2L2YaT7GsLyQrUhh3DsFr2Pkv7DoximqsBYBU"
+      }
+    },
+    "first_seen_at": "2026-08-17T10:22:02+08:00",
+    "last_seen_at": "2026-08-17T10:22:02+08:00",
+    "fetch_runs": [
+      "2026-08-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-17/7420215806107127098.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-17/7420215806107127098.mp3",
+      "source": "download",
+      "processed_at": "2026-08-17T10:26:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7420215806107127098",
+      "transcript_raw": "生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频补充信息：生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频关键词：莆仙戏、真人真唱现场版、文化下乡演出、演出现场视频",
+      "transcript_clean": "生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频补充信息：生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频关键词：莆仙戏、真人真唱现场版、文化下乡演出、演出现场视频",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-17/7420215806107127098.json",
+      "processed_at": "2026-08-17T10:26:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7420215806107127098",
+      "summary": "洪💖💖围绕“莆仙戏”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频。生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频补充信息：生旦对唱，实实好听，#莆仙戏 #真人真唱现场版 #文化下乡演出 #演出现场视频关键词：莆仙戏、真人真唱现场版、文化下乡演出、演出现场视频 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "莆仙戏为什么总是做不出来结果？",
+        "先把真人真唱现场版想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕莆仙戏组织标题与开头。",
+        "用真人真唱现场版和文化下乡演出补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "莆仙戏",
+        "真人真唱现场版",
+        "文化下乡演出"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-17/7420215806107127098.json",
+      "processed_at": "2026-08-17T10:26:33+08:00"
+    },
+    "last_error": null
+  },
+  "7472299990849719606": {
+    "video_id": "7472299990849719606",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "布衣小童",
+      "video_id": "7472299990849719606",
+      "title": "200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。",
+      "publish_time": "2025-02-17T16:22:27+08:00",
+      "video_url": "https://www.douyin.com/video/7472299990849719606",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5e892f57bbc284db1205b628744868ef~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102292000&x-signature=DB2NBiaxlByxSGTy9Tb%2F%2FMTnzZM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260817102406F61BAF9EC50CDD799928",
+      "like_count": 19206,
+      "comment_count": 915,
+      "share_count": 109,
+      "collect_count": 853,
+      "description": "200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。",
+      "text_hint": "200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6e0c9487d81386518b351cdee02fff36/6a829c53/video/tos/cn/tos-cn-ve-15/ooeBlePIlZTDOCg6A8EydfEbFBA7lkZ6VirVBQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3024&bt=3024&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w3y4eHhd.t4EJC73-ApQX&mime_type=video_mp4&qs=0&rc=NzM1MzNnPDw5Z2hoO2Q4ZkBpajw0ZXc5cmloeDMzNGkzM0AzLzYxNC0wNl4xYS9iYWEuYSNsXzMyMmQ0c21gLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1786933447&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260817102406F61BAF9EC50CDD799928",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-17/7472299990849719606.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-17/7472299990849719606.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 348.811,
+      "raw_payload": {
+        "aweme_id": "7472299990849719606",
+        "author_uid": "96705355457",
+        "sec_uid": "MS4wLjABAAAAdsbAcpZPwZvCNcTmNnrmvY7XjTxVYkrpMPQnOC3Iq1s",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdsbAcpZPwZvCNcTmNnrmvY7XjTxVYkrpMPQnOC3Iq1s"
+      }
+    },
+    "first_seen_at": "2026-08-17T10:22:02+08:00",
+    "last_seen_at": "2026-08-17T10:22:02+08:00",
+    "fetch_runs": [
+      "2026-08-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-17/7472299990849719606.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-17/7472299990849719606.mp3",
+      "source": "download",
+      "processed_at": "2026-08-17T10:25:35+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7472299990849719606",
+      "transcript_raw": "200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。补充信息：200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。",
+      "transcript_clean": "200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。补充信息：200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-17/7472299990849719606.json",
+      "processed_at": "2026-08-17T10:26:33+08:00"
+    },
+    "analysis": {
+      "video_id": "7472299990849719606",
+      "summary": "布衣小童围绕“200亩山药种植启动准备工作！从今天起购买的粪料陆续到位”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。。200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。补充信息：200亩山药种植启动准备工作！从今天起购买的粪料陆续到位。 踏踏实实用心种好每一根山药，绝不辜负大家的信任。 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "200亩山药种植启动准备工作！从今天起购买的粪料陆续到位为什么总是做不出来结果？",
+        "先把踏踏实实用心种好每一根山药，绝不辜负大家的信任。200亩山药种植启动准备工作！从今天起购买的粪料陆续到位想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕200亩山药种植启动准备工作！从今天起购买的粪料陆续到位组织标题与开头。",
+        "用踏踏实实用心种好每一根山药，绝不辜负大家的信任。200亩山药种植启动准备工作！从今天起购买的粪料陆续到位和踏踏实实用心种好每一根山药，绝不辜负大家的信任。补充信息：200亩山药种植启动准备工作！从今天起购买的粪料陆续到位补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "200亩山药种植启动准备工作！从今天起购买的粪料陆续到位",
+        "踏踏实实用心种好每一根山药，绝不辜负大家的信任。200亩山药种植启动准备工作！从今天起购买的粪料陆续到位",
+        "踏踏实实用心种好每一根山药，绝不辜负大家的信任。补充信息：200亩山药种植启动准备工作！从今天起购买的粪料陆续到位"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-17/7472299990849719606.json",
+      "processed_at": "2026-08-17T10:26:33+08:00"
+    },
+    "last_error": null
+  },
+  "7414110786202684672": {
+    "video_id": "7414110786202684672",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7414110786202684672",
+      "title": "遭遇枪击时，穿上防弹衣是不是就安全了？实验结果让你大吃一惊#武器 #军迷发烧友 #外国人真会玩 #测试",
+      "publish_time": "2024-09-13T12:56:00+08:00",
+      "video_url": "https://www.douyin.com/video/7414110786202684672",
+      "cover_url": "",
+      "like_count": 235,
+      "comment_count": 17,
+      "share_count": 89,
+      "collect_count": 19,
+      "description": "遭遇枪击时，穿上防弹衣是不是就安全了？实验结果让你大吃一惊#武器 #军迷发烧友 #外国人真会玩 #测试",
+      "text_hint": "遭遇枪击时，穿上防弹衣是不是就安全了？实验结果让你大吃一惊#武器 #军迷发烧友 #外国人真会玩 #测试",
+      "topic_tags": [
+        "武器",
+        "军迷发烧友",
+        "外国人真会玩",
+        "测试"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/9d273333-fa1e-40ee-a02f-4732aaab6c3e",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7414110786202684672",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-17T10:22:02+08:00",
+    "last_seen_at": "2026-08-17T10:22:02+08:00",
+    "fetch_runs": [
+      "2026-08-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
