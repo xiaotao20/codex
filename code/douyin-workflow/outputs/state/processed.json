@@ -30356,5 +30356,637 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7675336406016917682": {
+    "video_id": "7675336406016917682",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "DBA智库",
+      "video_id": "7675336406016917682",
+      "title": "高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程",
+      "publish_time": "2026-08-18T19:45:16+08:00",
+      "video_url": "https://www.douyin.com/video/7675336406016917682",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oUvKATfBNE2oeR1AERK56QMiEBcAViL4iA9YIg~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102464800&x-signature=DH54hqti0S9X5dLTNJTGszy6JJk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026081910280486FB4733DBA1239D09F0",
+      "like_count": 2,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程",
+      "text_hint": "高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程",
+      "topic_tags": [
+        "院士",
+        "企业家",
+        "科创",
+        "工程"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fce8cac9cff7cde8d4c00c3d06bb4c39/6a853ef3/video/tos/cn/tos-cn-ve-15/ogDIIefWgmZEqFEAujsBAxNyEhIAiQUg9i8noa/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1252&bt=1252&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9w6uj-Hhd.J0sdf03-ApQX&mime_type=video_mp4&qs=0&rc=NTM3Ojg6Zjs8PDppaGhoaUBpamZnNXA5cmY3ZDMzNGkzM0AuNGFgYTYtNl4xXzRfNTIyYSNwL2YvMmRjXy9hLS1kLWFzcw%3D%3D&btag=c0000e00010000&cquery=100x_100z_100o_100w_100B&dy_q=1787106484&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=2026081910280486FB4733DBA1239D09F0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7675336406016917682.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7675336406016917682.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 15.117,
+      "raw_payload": {
+        "aweme_id": "7675336406016917682",
+        "author_uid": "2667888405912153",
+        "sec_uid": "MS4wLjABAAAAKB0cZlIEuQ0yY-CblPWstJ2YD9u8eU1pz6x8MdUK3r2s-LZb5JUpQblxPZQMusMv",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAKB0cZlIEuQ0yY-CblPWstJ2YD9u8eU1pz6x8MdUK3r2s-LZb5JUpQblxPZQMusMv"
+      }
+    },
+    "first_seen_at": "2026-08-19T10:27:42+08:00",
+    "last_seen_at": "2026-08-19T10:27:42+08:00",
+    "fetch_runs": [
+      "2026-08-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7675336406016917682.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7675336406016917682.mp3",
+      "source": "download",
+      "processed_at": "2026-08-19T10:29:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7675336406016917682",
+      "transcript_raw": "高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程补充信息：高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程关键词：院士、企业家、科创、工程",
+      "transcript_clean": "高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程补充信息：高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程关键词：院士、企业家、科创、工程",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-19/7675336406016917682.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7675336406016917682",
+      "summary": "DBA智库围绕“院士”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程。高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程补充信息：高端技术人才，别再忽略FIET这份重量级身份背书 英国工程技术学会会士IET‑Fellow（FIET），为数不多同时拥有国际影响力与国内政策价值的工程类顶级资质。\n入选北京人社局急需紧缺人才目录，官方对标副高职称，可用于落户、职称晋升、岗位聘任、人才申报。\n面向高校科研骨干、科创企业家、企业总工、研发高管、重大工程专家、高企技术负责人开放申报，无国籍限制。国内工科精英，一份资质，兼顾学术背书、企业品牌、各地人才政策红利。\n#院士 #企业家 #科创 #工程关键词：院士、企业家、科创、工程 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "院士为什么总是做不出来结果？",
+        "先把企业家想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕院士组织标题与开头。",
+        "用企业家和科创补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "院士",
+        "企业家",
+        "科创"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-19/7675336406016917682.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "last_error": null
+  },
+  "7635141666084506889": {
+    "video_id": "7635141666084506889",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7635141666084506889",
+      "title": "在抖音记录美好生活20260819",
+      "publish_time": "2026-08-19T10:29:05+08:00",
+      "video_url": "https://www.douyin.com/video/7635141666084506889",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260819",
+      "text_hint": "在抖音记录美好生活20260819",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/bf2d3fa3-66d5-41d8-8832-d09eab03acba",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7635141666084506889",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-19T10:27:42+08:00",
+    "last_seen_at": "2026-08-19T10:27:42+08:00",
+    "fetch_runs": [
+      "2026-08-19"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7375515257415945508": {
+    "video_id": "7375515257415945508",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "郑州小马科技",
+      "video_id": "7375515257415945508",
+      "title": "手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容",
+      "publish_time": "2024-06-01T20:46:11+08:00",
+      "video_url": "https://www.douyin.com/video/7375515257415945508",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/34d692f80c6339ce5356050cb05cd2b1~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102464800&x-signature=sZkiNocvMkjyd3v6QjyW9hZLAS0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260819102814445997918B9F33170442",
+      "like_count": 468,
+      "comment_count": 31,
+      "share_count": 20,
+      "collect_count": 47,
+      "description": "手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容",
+      "text_hint": "手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容",
+      "topic_tags": [
+        "创作灵感",
+        "苹果13扩容",
+        "苹果手机扩容",
+        "iphone扩容",
+        "iphone13扩容"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c9085fb6a1963caeca45c7a84f30e849/6a85400b/video/tos/cn/tos-cn-ve-15/oQDfBreGGQAI79MB8QPQitki7CfA4IzALh8nIA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1781&bt=1781&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wEuj-Hhd.J0sdf03-ApQX&mime_type=video_mp4&qs=0&rc=OjU2N2llNDQ4Nzs5NTU0NEBpM2xxbWo5cnZrczMzNGkzM0BiMi8wY2FhXjAxNl4tMDJgYSMxcXI0MmRzYGFgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1787106494&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260819102814445997918B9F33170442",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7375515257415945508.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7375515257415945508.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 285.2,
+      "raw_payload": {
+        "aweme_id": "7375515257415945508",
+        "author_uid": "3734370364167118",
+        "sec_uid": "MS4wLjABAAAAaQB_--oXIZxS1lJeVD-aH4OLdRbrlxD-CnP7yvEuXD2QY4h5mrp2GVKBkBUjTNmo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAaQB_--oXIZxS1lJeVD-aH4OLdRbrlxD-CnP7yvEuXD2QY4h5mrp2GVKBkBUjTNmo"
+      }
+    },
+    "first_seen_at": "2026-08-19T10:27:42+08:00",
+    "last_seen_at": "2026-08-19T10:27:42+08:00",
+    "fetch_runs": [
+      "2026-08-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7375515257415945508.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7375515257415945508.mp3",
+      "source": "download",
+      "processed_at": "2026-08-19T10:31:19+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7375515257415945508",
+      "transcript_raw": "手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容补充信息：手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容关键词：创作灵感、苹果13扩容、苹果手机扩容、iphone扩容、iphone13扩容",
+      "transcript_clean": "手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容补充信息：手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容关键词：创作灵感、苹果13扩容、苹果手机扩容、iphone扩容、iphone13扩容",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-19/7375515257415945508.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7375515257415945508",
+      "summary": "郑州小马科技围绕“创作灵感”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容。手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容补充信息：手机内存不够用？如何扩大手机内存！ 苹果手机内存不够用该怎么办？#创作灵感 #苹果13扩容 #苹果手机扩容 #iphone扩容 #iphone13扩容关键词：创作灵感、苹果13扩容、苹果手机扩容、iphone扩容、iphone13扩容 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "创作灵感为什么总是做不出来结果？",
+        "先把苹果13扩容想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕创作灵感组织标题与开头。",
+        "用苹果13扩容和苹果手机扩容补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "创作灵感",
+        "苹果13扩容",
+        "苹果手机扩容"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-19/7375515257415945508.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "last_error": null
+  },
+  "7372480594481089843": {
+    "video_id": "7372480594481089843",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "银河探索队",
+      "video_id": "7372480594481089843",
+      "title": "NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学",
+      "publish_time": "2024-05-24T16:30:06+08:00",
+      "video_url": "https://www.douyin.com/video/7372480594481089843",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-pk90l89vgd/5dc0c6635063408490336aa074d9838e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102464800&x-signature=GFlvBS%2BCgZYEbCr2rbIad3TYEwg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608191028178040C95ECBC90FC65D54",
+      "like_count": 2,
+      "comment_count": 0,
+      "share_count": 1,
+      "collect_count": 0,
+      "description": "NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学",
+      "text_hint": "NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学",
+      "topic_tags": [
+        "科普知识",
+        "探索宇宙",
+        "科学"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/044114290551c650dace2cd67b61547b/6a853fe9/video/tos/cn/tos-cn-ve-0015c800/ocPdrIcZ4AUyxQEB6TPQIQEnQzBl4lgiQEMAi/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=425&bt=425&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wIaj-Hhd.J0sdf03-ApQX&mime_type=video_mp4&qs=0&rc=NDY4NDpnaDo1ODQzZjs4ZkBpam1saGs5cjc4czMzNGkzM0BfNl4vY15fNS4xMDNfNDEvYSNnazA1MmQ0LTVgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100D_100J_100o_100w_100B&dy_q=1787106497&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202608191028178040C95ECBC90FC65D54",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7372480594481089843.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7372480594481089843.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 248.849,
+      "raw_payload": {
+        "aweme_id": "7372480594481089843",
+        "author_uid": "4209375510003828",
+        "sec_uid": "MS4wLjABAAAATJf27pnIoS3Ec1kwE-_eCxELWL4QaH7jDQvdG65KDDejSMXo7Z4Fnw5T6XK3GqeN",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAATJf27pnIoS3Ec1kwE-_eCxELWL4QaH7jDQvdG65KDDejSMXo7Z4Fnw5T6XK3GqeN"
+      }
+    },
+    "first_seen_at": "2026-08-19T10:27:42+08:00",
+    "last_seen_at": "2026-08-19T10:27:42+08:00",
+    "fetch_runs": [
+      "2026-08-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7372480594481089843.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7372480594481089843.mp3",
+      "source": "download",
+      "processed_at": "2026-08-19T10:31:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7372480594481089843",
+      "transcript_raw": "NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学补充信息：NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学关键词：科普知识、探索宇宙、科学",
+      "transcript_clean": "NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学补充信息：NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学关键词：科普知识、探索宇宙、科学",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-19/7372480594481089843.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7372480594481089843",
+      "summary": "银河探索队围绕“科普知识”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学。NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学补充信息：NASA 收到航海家一号发来的奇怪信号，惊呼它还活着！ #科普知识  #探索宇宙  #科学关键词：科普知识、探索宇宙、科学 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "科普知识为什么总是做不出来结果？",
+        "先把探索宇宙想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕科普知识组织标题与开头。",
+        "用探索宇宙和科学补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "科普知识",
+        "探索宇宙",
+        "科学"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-19/7372480594481089843.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "last_error": null
+  },
+  "7562009721554767156": {
+    "video_id": "7562009721554767156",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7562009721554767156",
+      "title": "龙归科目三1号线模拟体验自动挡10-17更新#原创视频 #学车 #一对一教学 #科目三考试",
+      "publish_time": "2025-10-17T04:15:00+08:00",
+      "video_url": "https://www.douyin.com/video/7562009721554767156",
+      "cover_url": "",
+      "like_count": 25,
+      "comment_count": 5,
+      "share_count": 13,
+      "collect_count": 9,
+      "description": "龙归科目三1号线模拟体验自动挡10-17更新#原创视频 #学车 #一对一教学 #科目三考试",
+      "text_hint": "龙归科目三1号线模拟体验自动挡10-17更新#原创视频 #学车 #一对一教学 #科目三考试",
+      "topic_tags": [
+        "原创视频",
+        "学车",
+        "一对一教学",
+        "科目三考试"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c958fce8-ea69-4bc6-bfae-e818d3a69ad2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7562009721554767156",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-19T10:27:42+08:00",
+    "last_seen_at": "2026-08-19T10:27:42+08:00",
+    "fetch_runs": [
+      "2026-08-19"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7201376170041052473": {
+    "video_id": "7201376170041052473",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "🌽语whisper¹",
+      "video_id": "7201376170041052473",
+      "title": "完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18",
+      "publish_time": "2023-02-18T14:17:38+08:00",
+      "video_url": "https://www.douyin.com/video/7201376170041052473",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/2bd382856fca48f2bbd64d4964228eba_1676701064~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102464800&x-signature=zTt4ARtpLhHZX8D2xipWw%2FakzIA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260819102841C0F7AA4D39DD2DCD5776",
+      "like_count": 129,
+      "comment_count": 19,
+      "share_count": 6,
+      "collect_count": 4,
+      "description": "完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18",
+      "text_hint": "完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18",
+      "topic_tags": [
+        "钟志煜飘柔哥",
+        "直播录屏分享",
+        "一首歌一个故事",
+        "适合无限循环听的歌曲"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/5828992e924cfe2b1a128f8804eda6ed/6a853fd7/video/cn/mps/realtime/v1/r/p/v0200fg10000cfo6pujc77u3ragdl7rg/b1f6759ad564439c84dd7ea7b3ee146e/95eb10a709494ee3a404b3f8287d5c7c/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=723&bt=723&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNbRVQ9whaj-Hhd.J0sdf03-ApQX&mime_type=video_mp4&qs=0&rc=aDdoNjpoZzdmNjc4ZDg5NEBpajpnZDY6Zng5aTMzNGkzM0AzLmJfXjRhNTYxM2E2NGNfYSNvaWRvcjRnbWxgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=720p&dy_q=1787106521&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7201376170041052473&l=20260819102841C0F7AA4D39DD2DCD5776&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7201376170041052473.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7201376170041052473.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 206.486,
+      "raw_payload": {
+        "aweme_id": "7201376170041052473",
+        "author_uid": "72803638114",
+        "sec_uid": "MS4wLjABAAAAibj3a7_XpR8WXIVil8rw2S6f9RbOpXUQgg7AvVL0Nd4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAibj3a7_XpR8WXIVil8rw2S6f9RbOpXUQgg7AvVL0Nd4"
+      }
+    },
+    "first_seen_at": "2026-08-19T10:27:42+08:00",
+    "last_seen_at": "2026-08-19T10:27:42+08:00",
+    "fetch_runs": [
+      "2026-08-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7201376170041052473.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7201376170041052473.mp3",
+      "source": "download",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7201376170041052473",
+      "transcript_raw": "完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18补充信息：完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18关键词：钟志煜飘柔哥、直播录屏分享、一首歌一个故事、适合无限循环听的歌曲",
+      "transcript_clean": "完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18补充信息：完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18关键词：钟志煜飘柔哥、直播录屏分享、一首歌一个故事、适合无限循环听的歌曲",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-19/7201376170041052473.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7201376170041052473",
+      "summary": "🌽语whisper¹围绕“钟志煜飘柔哥”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18。完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18补充信息：完整收藏#钟志煜飘柔哥 演唱的纯享版《需要人陪》（王力宏原唱），音准、音色、情绪把控都很到位，安静而治愈🌹🌹 #直播录屏分享 #一首歌一个故事 #适合无限循环听的歌曲 2023.2.18关键词：钟志煜飘柔哥、直播录屏分享、一首歌一个故事、适合无限循环听的歌曲 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "钟志煜飘柔哥为什么总是做不出来结果？",
+        "先把直播录屏分享想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕钟志煜飘柔哥组织标题与开头。",
+        "用直播录屏分享和一首歌一个故事补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "钟志煜飘柔哥",
+        "直播录屏分享",
+        "一首歌一个故事"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-19/7201376170041052473.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "last_error": null
+  },
+  "7431147461537762623": {
+    "video_id": "7431147461537762623",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "赵南希",
+      "video_id": "7431147461537762623",
+      "title": "拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草",
+      "publish_time": "2024-10-29T18:47:49+08:00",
+      "video_url": "https://www.douyin.com/video/7431147461537762623",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f9f34781094f833d9b800f01faeabc2b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102464800&x-signature=uBD7dgJcRoV9Ou7LF4Ku9WIhGBM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260819102844E4CDCF57F7347CB61673",
+      "like_count": 1993,
+      "comment_count": 522,
+      "share_count": 80,
+      "collect_count": 381,
+      "description": "拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草",
+      "text_hint": "拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草",
+      "topic_tags": [
+        "包包推荐",
+        "通勤包包",
+        "包包控",
+        "包包种草"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/09ded7373f5245778e30a24fa0069dbe/6a853fd6/video/tos/cn/tos-cn-ve-15/osf7gSqAAQBiMug68yBXNzERkI35wzewFikAYS/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2229&bt=2229&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wdaj-Hhd.J0sdf03-ApQX&mime_type=video_mp4&qs=0&rc=NTc4Nzk6OWQ6N2llOTQ6aEBpM3FoN3Y5cm9ldjMzNGkzM0A0NDExYzZjXjMxXzAvLWI1YSNmcGtxMmRjbWRgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1787106524&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260819102844E4CDCF57F7347CB61673",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7431147461537762623.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7431147461537762623.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 202.717,
+      "raw_payload": {
+        "aweme_id": "7431147461537762623",
+        "author_uid": "60318294098",
+        "sec_uid": "MS4wLjABAAAAsg17MvG5thC73L0N-wi93uP6LQnRlE693GMzUpCkLTo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAsg17MvG5thC73L0N-wi93uP6LQnRlE693GMzUpCkLTo"
+      }
+    },
+    "first_seen_at": "2026-08-19T10:27:42+08:00",
+    "last_seen_at": "2026-08-19T10:27:42+08:00",
+    "fetch_runs": [
+      "2026-08-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7431147461537762623.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7431147461537762623.mp3",
+      "source": "download",
+      "processed_at": "2026-08-19T10:29:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7431147461537762623",
+      "transcript_raw": "拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草补充信息：拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草关键词：包包推荐、通勤包包、包包控、包包种草",
+      "transcript_clean": "拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草补充信息：拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草关键词：包包推荐、通勤包包、包包控、包包种草",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-19/7431147461537762623.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7431147461537762623",
+      "summary": "赵南希围绕“包包推荐”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草。拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草补充信息：拯救早八打工人的通勤包包合集！能装/好看/百搭 #包包推荐 #通勤包包 #包包控 #包包种草关键词：包包推荐、通勤包包、包包控、包包种草 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "包包推荐为什么总是做不出来结果？",
+        "先把通勤包包想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕包包推荐组织标题与开头。",
+        "用通勤包包和包包控补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "包包推荐",
+        "通勤包包",
+        "包包控"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-19/7431147461537762623.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "last_error": null
+  },
+  "7412183184391081226": {
+    "video_id": "7412183184391081226",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7412183184391081226",
+      "title": "#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。",
+      "publish_time": "2024-09-08T08:16:00+08:00",
+      "video_url": "https://www.douyin.com/video/7412183184391081226",
+      "cover_url": "",
+      "like_count": 106,
+      "comment_count": 63,
+      "share_count": 28,
+      "collect_count": 12,
+      "description": "#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。",
+      "text_hint": "#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。",
+      "topic_tags": [
+        "量子纠缠高温下消失",
+        "量子纠缠",
+        "量子计算机",
+        "量子力学",
+        "中暑"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/994014282ae323615162af0cdda4ad1f/6a85413d/video/tos/cn/tos-cn-ve-15/o0gd7NfeujVIB3KaBAIi6XNevW6AwLQGi2ECcr/?a=6383&br=1434&bt=1434&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1787106540&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wVaj-Hhd.J0sdf03-ApQX&is_ssr=1&l=202608191028595D6A5D180D5E7BA86C26&lr=all&mime_type=video_mp4&qs=1&rc=ZWU4ZDQ1NWg0PDw7NGc3NkBpM3dnbG85cmdvdTMzNGkzM0AvNTMtNi5gXjMxLy1iNTEwYSM0amlzMmRzZ2JgLS1kLS9zcw%3D%3D&__vid=7412183184391081226",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7412183184391081226.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7412183184391081226.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7412183184391081226",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-19T10:27:42+08:00",
+    "last_seen_at": "2026-08-19T10:27:42+08:00",
+    "fetch_runs": [
+      "2026-08-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7412183184391081226.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-19/7412183184391081226.mp3",
+      "source": "download",
+      "processed_at": "2026-08-19T10:30:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7412183184391081226",
+      "transcript_raw": "#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。补充信息：#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。关键词：量子纠缠高温下消失、量子纠缠、量子计算机、量子力学、中暑",
+      "transcript_clean": "#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。补充信息：#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。关键词：量子纠缠高温下消失、量子纠缠、量子计算机、量子力学、中暑",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-19/7412183184391081226.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7412183184391081226",
+      "summary": "知雪围绕“量子纠缠高温下消失”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。。#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。补充信息：#量子纠缠高温下消失 这证明人类在高烧后会智力受损的真实原因，人脑量子纠缠消失了，也反证了大脑的确存在量子纠缠。#量子纠缠 #量子计算机 #量子力学 #中暑 的真实原因。关键词：量子纠缠高温下消失、量子纠缠、量子计算机、量子力学、中暑 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "量子纠缠高温下消失为什么总是做不出来结果？",
+        "先把量子纠缠想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕量子纠缠高温下消失组织标题与开头。",
+        "用量子纠缠和量子计算机补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "量子纠缠高温下消失",
+        "量子纠缠",
+        "量子计算机"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-19/7412183184391081226.json",
+      "processed_at": "2026-08-19T10:31:48+08:00"
+    },
+    "last_error": null
   }
 }
