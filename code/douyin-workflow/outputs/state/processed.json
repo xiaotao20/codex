@@ -30988,5 +30988,636 @@
       "processed_at": "2026-08-19T10:31:48+08:00"
     },
     "last_error": null
+  },
+  "7675851663118175498": {
+    "video_id": "7675851663118175498",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "慧森精选",
+      "video_id": "7675851663118175498",
+      "title": "初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式",
+      "publish_time": "2026-08-20T05:04:51+08:00",
+      "video_url": "https://www.douyin.com/video/7675851663118175498",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-v-c9e10a/o8IIKFqDXBdYA0DVQfeg1DCgEL9hshtPnkrD5j~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102551200&x-signature=oeZwG3c0AaL8AdHZVsTe3fi0Po0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260820102000516B9AFA56CE72750CBB",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式",
+      "text_hint": "初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式",
+      "topic_tags": [
+        "物理",
+        "化学",
+        "化学公式"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/05ab05f146b557001e3efb92b4097111/6a868ea5/video/tos/cn/tos-cn-v-c9e10a/okAgBGsQLiSLhkrQI1iB2kfWExUbQ16wghGnTc/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=2550&bt=2550&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9w0v6-Hhd.wWI2f03-ApQX&mime_type=video_mp4&qs=0&rc=ZmdnPGZnN2c7ZTw3NDk0PEBpanU5aHI5cnY0ZDMzNDYzM0A0Xy01YDBjNTMxM2EuNmA0YSNhY2toMmRzaDBhLS1kMC9zcw%3D%3D&btag=80000e00018000&cquery=100o_100w_100B_102v_102u&dy_q=1787192400&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=20260820102000516B9AFA56CE72750CBB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7675851663118175498.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7675851663118175498.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 37.803,
+      "raw_payload": {
+        "aweme_id": "7675851663118175498",
+        "author_uid": "7664917211618509873",
+        "sec_uid": "MS4wLjABAAAAQm-JJW6V8sTxCb7hjPh7JtIemB4l9xCYpJ5i7eZP4pHJqcb_X1WRadSMaN-p3-Ll",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQm-JJW6V8sTxCb7hjPh7JtIemB4l9xCYpJ5i7eZP4pHJqcb_X1WRadSMaN-p3-Ll"
+      }
+    },
+    "first_seen_at": "2026-08-20T10:19:38+08:00",
+    "last_seen_at": "2026-08-20T10:19:38+08:00",
+    "fetch_runs": [
+      "2026-08-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7675851663118175498.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7675851663118175498.mp3",
+      "source": "download",
+      "processed_at": "2026-08-20T10:20:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7675851663118175498",
+      "transcript_raw": "初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式补充信息：初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式关键词：物理、化学、化学公式",
+      "transcript_clean": "初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式补充信息：初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式关键词：物理、化学、化学公式",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-20/7675851663118175498.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7675851663118175498",
+      "summary": "慧森精选围绕“物理”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式。初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式补充信息：初中新增化学物理两门科目，需要背诵记很多公式，有了这张知识卡片，孩子学习起来轻松很多#物理 #化学 #化学公式关键词：物理、化学、化学公式 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "物理为什么总是做不出来结果？",
+        "先把化学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕物理组织标题与开头。",
+        "用化学和化学公式补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "物理",
+        "化学",
+        "化学公式"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-20/7675851663118175498.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "last_error": null
+  },
+  "7592109926207700714": {
+    "video_id": "7592109926207700714",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7592109926207700714",
+      "title": "在抖音记录美好生活20260820",
+      "publish_time": "2026-08-20T10:20:44+08:00",
+      "video_url": "https://www.douyin.com/video/7592109926207700714",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260820",
+      "text_hint": "在抖音记录美好生活20260820",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/5fb98f45-3716-45fd-b3ba-93f74a24c408",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7592109926207700714",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-20T10:19:38+08:00",
+    "last_seen_at": "2026-08-20T10:19:38+08:00",
+    "fetch_runs": [
+      "2026-08-20"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7420364818827316515": {
+    "video_id": "7420364818827316515",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "夜行刀笔吏",
+      "video_id": "7420364818827316515",
+      "title": "南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝",
+      "publish_time": "2024-09-30T17:25:27+08:00",
+      "video_url": "https://www.douyin.com/video/7420364818827316515",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/49064c9dfcb6752fed7a1379f91cae29~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102551200&x-signature=BL8dohGry6C%2B%2BJTvF%2BuKY9dev0I%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260820102009865281BC4931E93D1396",
+      "like_count": 788,
+      "comment_count": 37,
+      "share_count": 22,
+      "collect_count": 116,
+      "description": "南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝",
+      "text_hint": "南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝",
+      "topic_tags": [
+        "历史",
+        "历史故事",
+        "历史人物",
+        "人物故事",
+        "南北朝"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6addf33e9ba5e6db14906c854c1cd657/6a868f67/video/tos/cn/tos-cn-ve-15/oENCVG98ABBNWBADQgnw7PxMAQUBaCjJee9KIf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3945&bt=3945&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9whv6-Hhd.wWI2f03-ApQX&mime_type=video_mp4&qs=0&rc=NGY5OWk1NTs0OzM3NDw1ZUBpM3J2cmo5cjo5dTMzNGkzM0BjYmIwYV8xXmAxNV41Ml9iYSNwM2djMmRrbHFgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100H_100K_100o_100w_100B&dy_q=1787192409&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=20260820102009865281BC4931E93D1396",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7420364818827316515.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7420364818827316515.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 222.123,
+      "raw_payload": {
+        "aweme_id": "7420364818827316515",
+        "author_uid": "3030694094453363",
+        "sec_uid": "MS4wLjABAAAA07uAEl329uLmWffNJJeGFHAKo5x39WsyfMxkllUrwRy6K-iRc2Zh8SU8w4n_a7RD",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA07uAEl329uLmWffNJJeGFHAKo5x39WsyfMxkllUrwRy6K-iRc2Zh8SU8w4n_a7RD"
+      }
+    },
+    "first_seen_at": "2026-08-20T10:19:38+08:00",
+    "last_seen_at": "2026-08-20T10:19:38+08:00",
+    "fetch_runs": [
+      "2026-08-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7420364818827316515.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7420364818827316515.mp3",
+      "source": "download",
+      "processed_at": "2026-08-20T10:23:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7420364818827316515",
+      "transcript_raw": "南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝补充信息：南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝关键词：历史、历史故事、历史人物、人物故事、南北朝",
+      "transcript_clean": "南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝补充信息：南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝关键词：历史、历史故事、历史人物、人物故事、南北朝",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-20/7420364818827316515.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7420364818827316515",
+      "summary": "夜行刀笔吏围绕“历史”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝。南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝补充信息：南北朝之铲除宗室 刘骏将视为威胁的宗室藩王逐一铲除，手段果敢强硬。\n#历史 #历史故事 #历史人物 #人物故事 #南北朝关键词：历史、历史故事、历史人物、人物故事、南北朝 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "历史为什么总是做不出来结果？",
+        "先把历史故事想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕历史组织标题与开头。",
+        "用历史故事和历史人物补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "历史",
+        "历史故事",
+        "历史人物"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-20/7420364818827316515.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "last_error": null
+  },
+  "7422954440396655884": {
+    "video_id": "7422954440396655884",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "老灯自驾旅行",
+      "video_id": "7422954440396655884",
+      "title": "全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分",
+      "publish_time": "2024-10-07T16:54:37+08:00",
+      "video_url": "https://www.douyin.com/video/7422954440396655884",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/447c4bc5bb7f58eec0cf8ced926beb16~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102551200&x-signature=6YMNzbkclJpxaM02B4hskhgPIQQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260820102011111231B3FA52F5B0E8D4",
+      "like_count": 22109,
+      "comment_count": 5330,
+      "share_count": 3037,
+      "collect_count": 1073,
+      "description": "全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分",
+      "text_hint": "全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分",
+      "topic_tags": [
+        "旅行推荐官",
+        "旅行",
+        "旅行大玩家",
+        "旅行vlog",
+        "为中国小城上分"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/82313fd91b03db110c2e8d2bf27eab65/6a868f78/video/tos/cn/tos-cn-ve-15/ocfCHgKABkCEL3AUqNDoEOIeBQWe5T7EzFKBgM/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4807&bt=4807&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wYv6-Hhd.wWI2f03-ApQX&mime_type=video_mp4&qs=0&rc=NzM4Mzk8ZWU3Njk8O2hmNEBpam44NG85cjVzdjMzNGkzM0AuNmIwLy01Xl8xY140Ni8yYSMva2QyMmRrcy5gLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1787192411&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260820102011111231B3FA52F5B0E8D4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7422954440396655884.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7422954440396655884.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 237.005,
+      "raw_payload": {
+        "aweme_id": "7422954440396655884",
+        "author_uid": "587558532155338",
+        "sec_uid": "MS4wLjABAAAAHD7XYjHKxFA3Ix_NMuHzYId_3etAZTQ76qfo1-rod8s",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHD7XYjHKxFA3Ix_NMuHzYId_3etAZTQ76qfo1-rod8s"
+      }
+    },
+    "first_seen_at": "2026-08-20T10:19:38+08:00",
+    "last_seen_at": "2026-08-20T10:19:38+08:00",
+    "fetch_runs": [
+      "2026-08-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7422954440396655884.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7422954440396655884.mp3",
+      "source": "download",
+      "processed_at": "2026-08-20T10:22:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7422954440396655884",
+      "transcript_raw": "全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分补充信息：全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分关键词：旅行推荐官、旅行、旅行大玩家、旅行vlog、为中国小城上分",
+      "transcript_clean": "全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分补充信息：全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分关键词：旅行推荐官、旅行、旅行大玩家、旅行vlog、为中国小城上分",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-20/7422954440396655884.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7422954440396655884",
+      "summary": "老灯自驾旅行围绕“旅行推荐官”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分。全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分补充信息：全国自驾旅行第二十四城河北邯郸，一座满是热爱家乡青年的朝气之城，他在这等了你三千年#旅行推荐官 #旅行 #旅行大玩家 #旅行vlog #为中国小城上分关键词：旅行推荐官、旅行、旅行大玩家、旅行vlog、为中国小城上分 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "旅行推荐官为什么总是做不出来结果？",
+        "先把旅行想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕旅行推荐官组织标题与开头。",
+        "用旅行和旅行大玩家补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "旅行推荐官",
+        "旅行",
+        "旅行大玩家"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-20/7422954440396655884.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "last_error": null
+  },
+  "7576229189071693907": {
+    "video_id": "7576229189071693907",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7576229189071693907",
+      "title": "在抖音记录美好生活20260820",
+      "publish_time": "2026-08-20T10:20:44+08:00",
+      "video_url": "https://www.douyin.com/video/7576229189071693907",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260820",
+      "text_hint": "在抖音记录美好生活20260820",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/7ee14496-f31a-49d5-bf53-4411bedea47a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7576229189071693907",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-20T10:19:38+08:00",
+    "last_seen_at": "2026-08-20T10:19:38+08:00",
+    "fetch_runs": [
+      "2026-08-20"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7106410561361005864": {
+    "video_id": "7106410561361005864",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "绿油油",
+      "video_id": "7106410561361005864",
+      "title": "《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门",
+      "publish_time": "2022-06-07T16:22:28+08:00",
+      "video_url": "https://www.douyin.com/video/7106410561361005864",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bd77b1b7577123ce0d841cf956fb5ccd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102551200&x-signature=RTh8q%2BbAmXVSCmEQFgQtAuvVunM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260820102020F877450B345C35583ABA",
+      "like_count": 282,
+      "comment_count": 13,
+      "share_count": 8,
+      "collect_count": 29,
+      "description": "《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门",
+      "text_hint": "《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门",
+      "topic_tags": [
+        "小说",
+        "一定要看到最后",
+        "内容过于真实",
+        "情感",
+        "每日推文",
+        "女生必看",
+        "上热门",
+        "小说推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f58266d023e4c199368eb1c5d25bfefe/6a868f4c/video/tos/cn/tos-cn-ve-0015c800/4187d787f15d4489a68d089728a5b4ea/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1573&bt=1573&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wLv6-Hhd.wWI2f03-ApQX&mime_type=video_mp4&qs=0&rc=ZDg2MzVkZjg6OjUzaGdkZkBpanR4aTo6ZnNqZDMzNGkzM0A0LS01NC5gXzExLjNgLjUvYSNka2lzcjRfZGNgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100x_102u&dy_q=1787192420&l=20260820102020F877450B345C35583ABA",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7106410561361005864.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7106410561361005864.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 184.901,
+      "raw_payload": {
+        "aweme_id": "7106410561361005864",
+        "author_uid": "1223105228061711",
+        "sec_uid": "MS4wLjABAAAAtymfpULXU5ha9jLjOFCHLpW33y9-A-j10AQnkhAANTL26UAloAxAskqqG9Z_fu4l",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAtymfpULXU5ha9jLjOFCHLpW33y9-A-j10AQnkhAANTL26UAloAxAskqqG9Z_fu4l"
+      }
+    },
+    "first_seen_at": "2026-08-20T10:19:38+08:00",
+    "last_seen_at": "2026-08-20T10:19:38+08:00",
+    "fetch_runs": [
+      "2026-08-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7106410561361005864.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7106410561361005864.mp3",
+      "source": "download",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7106410561361005864",
+      "transcript_raw": "《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门补充信息：《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门关键词：小说、一定要看到最后、内容过于真实、情感、每日推文、女生必看、上热门、小说推荐",
+      "transcript_clean": "《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门补充信息：《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门关键词：小说、一定要看到最后、内容过于真实、情感、每日推文、女生必看、上热门、小说推荐",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-20/7106410561361005864.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7106410561361005864",
+      "summary": "绿油油围绕“小说”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门。《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门补充信息：《完整给你》#小说 #一定要看到最后 #内容过于真实 #情感 #每日推文 #小说推荐 #女生必看 #上热门关键词：小说、一定要看到最后、内容过于真实、情感、每日推文、女生必看、上热门、小说推荐 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "小说为什么总是做不出来结果？",
+        "先把一定要看到最后想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕小说组织标题与开头。",
+        "用一定要看到最后和内容过于真实补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "小说",
+        "一定要看到最后",
+        "内容过于真实"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-20/7106410561361005864.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "last_error": null
+  },
+  "7561018639785282843": {
+    "video_id": "7561018639785282843",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "大顺儿记录生活",
+      "video_id": "7561018639785282843",
+      "title": "新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手",
+      "publish_time": "2025-10-14T18:14:02+08:00",
+      "video_url": "https://www.douyin.com/video/7561018639785282843",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2c7a69743a0b36d55eeeb234761d7f6d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102551200&x-signature=mB0nW8MBhuISw%2BFD%2FQca%2FvrCtzk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608201020230BDD90A3AEF72D35A117",
+      "like_count": 691,
+      "comment_count": 91,
+      "share_count": 117,
+      "collect_count": 403,
+      "description": "新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手",
+      "text_hint": "新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手",
+      "topic_tags": [
+        "纪录真实生活",
+        "视频拍摄技巧",
+        "教程",
+        "短视频创业",
+        "我要上热门🔥"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/519cd9e81b5adc272f2d0bfda93928f3/6a869035/video/tos/cn/tos-cn-ve-15/oAu1FfuA9IxAZDMfxHQhTxDoyLWFEAViBgLEU7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1259&bt=1259&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wFv6-Hhd.wWI2f03-ApQX&mime_type=video_mp4&qs=0&rc=aWYzNzpmOzMzOmk2PDhkOEBpajU2ZHI5cjg1NjMzNGkzM0A2Ll5eNmAyNWExL182Ll9iYSNpaWNwMmRjL2thLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1787192423&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202608201020230BDD90A3AEF72D35A117",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7561018639785282843.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7561018639785282843.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 414.967,
+      "raw_payload": {
+        "aweme_id": "7561018639785282843",
+        "author_uid": "97895193426",
+        "sec_uid": "MS4wLjABAAAA8nNrboaaeB6CBnhv9v4jZB1L5m4nIxQ1BigVerainKQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA8nNrboaaeB6CBnhv9v4jZB1L5m4nIxQ1BigVerainKQ"
+      }
+    },
+    "first_seen_at": "2026-08-20T10:19:38+08:00",
+    "last_seen_at": "2026-08-20T10:19:38+08:00",
+    "fetch_runs": [
+      "2026-08-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7561018639785282843.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7561018639785282843.mp3",
+      "source": "download",
+      "processed_at": "2026-08-20T10:21:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7561018639785282843",
+      "transcript_raw": "新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手补充信息：新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手关键词：纪录真实生活、视频拍摄技巧、教程、短视频创业、我要上热门🔥",
+      "transcript_clean": "新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手补充信息：新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手关键词：纪录真实生活、视频拍摄技巧、教程、短视频创业、我要上热门🔥",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-20/7561018639785282843.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7561018639785282843",
+      "summary": "大顺儿记录生活围绕“纪录真实生活”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手。新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手补充信息：新手小白看完这个，你就不需要再看别的了，从拍摄到剪辑，配音，文案，音乐，标题，封面，文字设置，看完夕阳对你们有所帮助防#纪录真实生活#视频拍摄技巧#教程#短视频创业#我要上热门🔥 @抖音创作小助手 @抖音小助手关键词：纪录真实生活、视频拍摄技巧、教程、短视频创业、我要上热门🔥 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "纪录真实生活为什么总是做不出来结果？",
+        "先把视频拍摄技巧想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕纪录真实生活组织标题与开头。",
+        "用视频拍摄技巧和教程补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "纪录真实生活",
+        "视频拍摄技巧",
+        "教程"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-20/7561018639785282843.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "last_error": null
+  },
+  "7401072258715749647": {
+    "video_id": "7401072258715749647",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7401072258715749647",
+      "title": "5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓",
+      "publish_time": "2024-08-09T09:40:00+08:00",
+      "video_url": "https://www.douyin.com/video/7401072258715749647",
+      "cover_url": "",
+      "like_count": 215,
+      "comment_count": 71,
+      "share_count": 6,
+      "collect_count": 117,
+      "description": "5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓",
+      "text_hint": "5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓",
+      "topic_tags": [
+        "升钟湖",
+        "野钓大将军钓友汇",
+        "野钓"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/17b293f7d70822ee1687460dab34d925/6a868f9c/video/tos/cn/tos-cn-ve-0015c800/oUZdI3gQTiHICCFmALRCE6I1ffAKkBAN3Bz9ti/?a=6383&br=2207&bt=2207&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1787192439&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wJv6-Hhd.wWI2f03-ApQX&is_ssr=1&l=20260820102038DDC01595A223739E55CA&lr=all&mime_type=video_mp4&qs=12&rc=N2c3NWlnODc6ZGdnZDtmM0BpanFpNG05cmZ3dDMzNGkzM0A0NjNfNGIvXmIxYTUvLzM0YSMyY14uMmRzc25gLS1kLWFzcw%3D%3D&__vid=7401072258715749647",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7401072258715749647.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7401072258715749647.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7401072258715749647",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-20T10:19:38+08:00",
+    "last_seen_at": "2026-08-20T10:19:38+08:00",
+    "fetch_runs": [
+      "2026-08-20"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7401072258715749647.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-20/7401072258715749647.mp3",
+      "source": "download",
+      "processed_at": "2026-08-20T10:24:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7401072258715749647",
+      "transcript_raw": "5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓补充信息：5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓关键词：升钟湖、野钓大将军钓友汇、野钓",
+      "transcript_clean": "5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓补充信息：5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓关键词：升钟湖、野钓大将军钓友汇、野钓",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-20/7401072258715749647.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7401072258715749647",
+      "summary": "知雪围绕“升钟湖”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓。5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓补充信息：5位钓友三角峰爆护，多的有十几斤，少的十几条#升钟湖#野钓大将军钓友汇#野钓关键词：升钟湖、野钓大将军钓友汇、野钓 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "升钟湖为什么总是做不出来结果？",
+        "先把野钓大将军钓友汇想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕升钟湖组织标题与开头。",
+        "用野钓大将军钓友汇和野钓补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "升钟湖",
+        "野钓大将军钓友汇",
+        "野钓"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-20/7401072258715749647.json",
+      "processed_at": "2026-08-20T10:24:25+08:00"
+    },
+    "last_error": null
   }
 }
