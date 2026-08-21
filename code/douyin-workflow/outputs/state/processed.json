@@ -31619,5 +31619,529 @@
       "processed_at": "2026-08-20T10:24:25+08:00"
     },
     "last_error": null
+  },
+  "7675946096123776262": {
+    "video_id": "7675946096123776262",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7675946096123776262",
+      "title": "目标博主 1 视频 7675946096123776262",
+      "publish_time": "2026-08-21T10:27:42+08:00",
+      "video_url": "https://www.douyin.com/video/7675946096123776262",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/11f34ff7-2bf8-47fe-b5ce-9d089d98f4f2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7675946096123776262",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-21T10:25:17+08:00",
+    "last_seen_at": "2026-08-21T10:25:17+08:00",
+    "fetch_runs": [
+      "2026-08-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7625674962535222568": {
+    "video_id": "7625674962535222568",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "央视网快看",
+      "video_id": "7625674962535222568",
+      "title": "伊朗拒绝停火 强调须永久结束战争",
+      "publish_time": "2026-04-06T23:53:58+08:00",
+      "video_url": "https://www.douyin.com/video/7625674962535222568",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3504038f5b8b371462b576e2e0fc313d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102637600&x-signature=uqZoWyjieDqH0X9dNiwZ7YMu%2FKg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608211026056E1BD5B8DC28DCA415C3",
+      "like_count": 35683,
+      "comment_count": 2550,
+      "share_count": 1706,
+      "collect_count": 1848,
+      "description": "伊朗拒绝停火 强调须永久结束战争",
+      "text_hint": "伊朗拒绝停火 强调须永久结束战争",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2aadfdbcf5a361859d1d4417fb28b80a/6a87e172/video/tos/cn/tos-cn-ve-15/oMhAiLF0PIDc9jCAbeWgfpE0pTEo9clANsx91B/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=262&bt=262&cs=0&ds=2&ft=CZdgCYlIDyjNMRVQ9wP.a-Hhd.n4Eh_03-ApQX&mime_type=video_mp4&qs=0&rc=aDhoNTM0Zmk6MzxoZTo7NEBpMzplOGs5cnl3OjMzNGkzM0BjMzMuLWIuNi0xMWEyMDJfYSNzLzNxMmRjYTZhLS1kLWFzcw%3D%3D&btag=c0000e00008000&cquery=100w_100B_100H_100K_100o&dy_q=1787279165&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202608211026056E1BD5B8DC28DCA415C3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7625674962535222568.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7625674962535222568.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 5.248,
+      "raw_payload": {
+        "aweme_id": "7625674962535222568",
+        "author_uid": "94896315211",
+        "sec_uid": "MS4wLjABAAAAC7r8UcpQchuQDP6MDlXoBVK3vrUHPDOy07dtII5uKeI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAC7r8UcpQchuQDP6MDlXoBVK3vrUHPDOy07dtII5uKeI"
+      }
+    },
+    "first_seen_at": "2026-08-21T10:25:17+08:00",
+    "last_seen_at": "2026-08-21T10:25:17+08:00",
+    "fetch_runs": [
+      "2026-08-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7625674962535222568.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7625674962535222568.mp3",
+      "source": "download",
+      "processed_at": "2026-08-21T10:27:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7625674962535222568",
+      "transcript_raw": "伊朗拒绝停火 强调须永久结束战争伊朗拒绝停火 强调须永久结束战争补充信息：伊朗拒绝停火 强调须永久结束战争",
+      "transcript_clean": "伊朗拒绝停火 强调须永久结束战争伊朗拒绝停火 强调须永久结束战争补充信息：伊朗拒绝停火 强调须永久结束战争",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-21/7625674962535222568.json",
+      "processed_at": "2026-08-21T10:28:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7625674962535222568",
+      "summary": "央视网快看围绕“伊朗拒绝停火”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "伊朗拒绝停火 强调须永久结束战争。伊朗拒绝停火 强调须永久结束战争伊朗拒绝停火 强调须永久结束战争补充信息：伊朗拒绝停火 强调须永久结束战争 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "伊朗拒绝停火为什么总是做不出来结果？",
+        "先把强调须永久结束战争伊朗拒绝停火想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕伊朗拒绝停火组织标题与开头。",
+        "用强调须永久结束战争伊朗拒绝停火和强调须永久结束战争补充信息：伊朗拒绝停火补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "伊朗拒绝停火",
+        "强调须永久结束战争伊朗拒绝停火",
+        "强调须永久结束战争补充信息：伊朗拒绝停火"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-21/7625674962535222568.json",
+      "processed_at": "2026-08-21T10:28:26+08:00"
+    },
+    "last_error": null
+  },
+  "7248052734681812257": {
+    "video_id": "7248052734681812257",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7248052734681812257",
+      "title": "目标博主 1 视频 7248052734681812257",
+      "publish_time": "2026-08-21T10:27:42+08:00",
+      "video_url": "https://www.douyin.com/video/7248052734681812257",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/b69926fa-8ee6-48a4-9076-aed9ef73a122",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7248052734681812257",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-21T10:25:17+08:00",
+    "last_seen_at": "2026-08-21T10:25:17+08:00",
+    "fetch_runs": [
+      "2026-08-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7240728130888011046": {
+    "video_id": "7240728130888011046",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7240728130888011046",
+      "title": "目标博主 1 视频 7240728130888011046",
+      "publish_time": "2026-08-21T10:27:42+08:00",
+      "video_url": "https://www.douyin.com/video/7240728130888011046",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/180d1de3-1b67-41f2-846b-c831e7839d80",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7240728130888011046",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-21T10:25:17+08:00",
+    "last_seen_at": "2026-08-21T10:25:17+08:00",
+    "fetch_runs": [
+      "2026-08-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7467041352442858792": {
+    "video_id": "7467041352442858792",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7467041352442858792",
+      "title": "目标博主 1 视频 7467041352442858792",
+      "publish_time": "2026-08-21T10:27:42+08:00",
+      "video_url": "https://www.douyin.com/video/7467041352442858792",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/142cffb4-e160-42e1-a190-d2bba8bf90f8",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7467041352442858792",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-21T10:25:17+08:00",
+    "last_seen_at": "2026-08-21T10:25:17+08:00",
+    "fetch_runs": [
+      "2026-08-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7140693841786490150": {
+    "video_id": "7140693841786490150",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "云音管乐艺苑🎺",
+      "video_id": "7140693841786490150",
+      "title": "小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君",
+      "publish_time": "2022-09-08T01:39:46+08:00",
+      "video_url": "https://www.douyin.com/video/7140693841786490150",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/417b151c1153b54b409a5212f671f7d0~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102637600&x-signature=SnxJ3I83q4%2Bq%2B3YBAkFe2SPku%2Fc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608211027143370F5979824A98FF272",
+      "like_count": 862,
+      "comment_count": 66,
+      "share_count": 411,
+      "collect_count": 411,
+      "description": "小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君",
+      "text_hint": "小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君",
+      "topic_tags": [
+        "小号独奏",
+        "商立君"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6ac4edaf1fccf7d9fbd45dd78452f037/6a87e2a9/video/tos/cn/tos-cn-ve-15c001-alinc2/f19e5edbe05c4900b7598a9df7318f33/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=630&bt=630&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wwta-Hhd.n4Eh_03-ApQX&mime_type=video_mp4&qs=0&rc=PDU8Ozg2ZTYzNDhnOmU4M0Bpam86ZTc6ZmVnZjMzNGkzM0BiMzBiMmM2NTIxNmE2YDAyYSMwcS01cjQwNmBgLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1787279234&l=202608211027143370F5979824A98FF272",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7140693841786490150.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7140693841786490150.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 247.595,
+      "raw_payload": {
+        "aweme_id": "7140693841786490150",
+        "author_uid": "111528422580",
+        "sec_uid": "MS4wLjABAAAA9phE0IH40AINuxQAJKZ0ETVGJXWtEU3UHXEcGHfi_k4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9phE0IH40AINuxQAJKZ0ETVGJXWtEU3UHXEcGHfi_k4"
+      }
+    },
+    "first_seen_at": "2026-08-21T10:25:17+08:00",
+    "last_seen_at": "2026-08-21T10:25:17+08:00",
+    "fetch_runs": [
+      "2026-08-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7140693841786490150.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7140693841786490150.mp3",
+      "source": "download",
+      "processed_at": "2026-08-21T10:28:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7140693841786490150",
+      "transcript_raw": "小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君补充信息：小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君关键词：小号独奏、商立君",
+      "transcript_clean": "小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君补充信息：小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君关键词：小号独奏、商立君",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-21/7140693841786490150.json",
+      "processed_at": "2026-08-21T10:28:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7140693841786490150",
+      "summary": "云音管乐艺苑🎺围绕“小号独奏”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君。小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君补充信息：小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏 #商立君关键词：小号独奏、商立君 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "小号独奏为什么总是做不出来结果？",
+        "先把商立君想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕小号独奏组织标题与开头。",
+        "用商立君和小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "小号独奏",
+        "商立君",
+        "小号独奏《绒花》（电影《芳华）主题曲（演奏者：商立君）#小号独奏"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-21/7140693841786490150.json",
+      "processed_at": "2026-08-21T10:28:26+08:00"
+    },
+    "last_error": null
+  },
+  "7166923746429750535": {
+    "video_id": "7166923746429750535",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小红旗健身",
+      "video_id": "7166923746429750535",
+      "title": "#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来",
+      "publish_time": "2022-11-17T18:04:37+08:00",
+      "video_url": "https://www.douyin.com/video/7166923746429750535",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ab5213a162479f65ead18e36be50b41e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102637600&x-signature=dmc2JLU4AyinF81ta01UWEVvj0A%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608211027219ACD936D4621B6B51F9F",
+      "like_count": 992,
+      "comment_count": 76,
+      "share_count": 233,
+      "collect_count": 962,
+      "description": "#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来",
+      "text_hint": "#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来",
+      "topic_tags": [
+        "创作灵感",
+        "燃脂的一百种方式",
+        "暴汗燃脂瘦全身"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f543119295f1618072e9920667815950/6a87e2ad/video/tos/cn/tos-cn-ve-0015c800/oMkAAdhCeoAgaIDm41Fasbh4kgDOABnbjQP9Qe/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1211&bt=1211&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wpta-Hhd.n4Eh_03-ApQX&mime_type=video_mp4&qs=0&rc=OGdkZWlmOjo2Ojs4aWc7OEBpM2d5Nzo6ZjszZzMzNGkzM0BgYzEwNS5hXzExXzYuYTNhYSM2bGwtcjRfYW9gLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1787279241&l=202608211027219ACD936D4621B6B51F9F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7166923746429750535.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7166923746429750535.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 244.227,
+      "raw_payload": {
+        "aweme_id": "7166923746429750535",
+        "author_uid": "431470748636974",
+        "sec_uid": "MS4wLjABAAAAoiIQvTzgNmER1KcoiBq-5JnXegmOvL36c2Jy9RuHSoM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAoiIQvTzgNmER1KcoiBq-5JnXegmOvL36c2Jy9RuHSoM"
+      }
+    },
+    "first_seen_at": "2026-08-21T10:25:17+08:00",
+    "last_seen_at": "2026-08-21T10:25:17+08:00",
+    "fetch_runs": [
+      "2026-08-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7166923746429750535.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7166923746429750535.mp3",
+      "source": "download",
+      "processed_at": "2026-08-21T10:28:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7166923746429750535",
+      "transcript_raw": "#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来补充信息：#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来关键词：创作灵感、燃脂的一百种方式、暴汗燃脂瘦全身",
+      "transcript_clean": "#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来补充信息：#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来关键词：创作灵感、燃脂的一百种方式、暴汗燃脂瘦全身",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-21/7166923746429750535.json",
+      "processed_at": "2026-08-21T10:28:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7166923746429750535",
+      "summary": "小红旗健身围绕“创作灵感”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来。#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来补充信息：#创作灵感 #燃脂的一百种方式 #暴汗燃脂瘦全身 大腿内侧肉肉多的姐妹看过来关键词：创作灵感、燃脂的一百种方式、暴汗燃脂瘦全身 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "创作灵感为什么总是做不出来结果？",
+        "先把燃脂的一百种方式想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕创作灵感组织标题与开头。",
+        "用燃脂的一百种方式和暴汗燃脂瘦全身补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "创作灵感",
+        "燃脂的一百种方式",
+        "暴汗燃脂瘦全身"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-21/7166923746429750535.json",
+      "processed_at": "2026-08-21T10:28:26+08:00"
+    },
+    "last_error": null
+  },
+  "7429233251790638355": {
+    "video_id": "7429233251790638355",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7429233251790638355",
+      "title": "小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石",
+      "publish_time": "2024-10-24T09:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7429233251790638355",
+      "cover_url": "",
+      "like_count": 904,
+      "comment_count": 103,
+      "share_count": 77,
+      "collect_count": 5,
+      "description": "小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石",
+      "text_hint": "小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石",
+      "topic_tags": [
+        "翡翠原石",
+        "鉴定",
+        "天然翡翠",
+        "珠宝玉石"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0e8f90a6ccf757c07af6ad4e782bc0ab/6a87e29b/video/tos/cn/tos-cn-ve-0015c800/ocAaBBVOEErgm7AI1O0fCFUMoDsfweQt8lwU3A/?a=6383&br=746&bt=746&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100H_100K&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1787279257&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9whta-Hhd.n4Eh_03-ApQX&is_ssr=1&l=20260821102736863D6D61850ED1C9CBF0&lr=all&mime_type=video_mp4&qs=12&rc=OTxpMzk0NjZmPDg4ZTs4aUBpang8OXA5cnR4djMzNGkzM0AuNi41NV9eXzExLy00NGE1YSMwZHFwMmRzbmBgLS1kLS9zcw%3D%3D&__vid=7429233251790638355",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7429233251790638355.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7429233251790638355.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7429233251790638355",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-21T10:25:17+08:00",
+    "last_seen_at": "2026-08-21T10:25:17+08:00",
+    "fetch_runs": [
+      "2026-08-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7429233251790638355.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-21/7429233251790638355.mp3",
+      "source": "download",
+      "processed_at": "2026-08-21T10:27:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7429233251790638355",
+      "transcript_raw": "小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石补充信息：小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石关键词：翡翠原石、鉴定、天然翡翠、珠宝玉石",
+      "transcript_clean": "小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石补充信息：小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石关键词：翡翠原石、鉴定、天然翡翠、珠宝玉石",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-21/7429233251790638355.json",
+      "processed_at": "2026-08-21T10:28:26+08:00"
+    },
+    "analysis": {
+      "video_id": "7429233251790638355",
+      "summary": "目标博主 1围绕“翡翠原石”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石。小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石补充信息：小伙高价拿下帝王紫，飞黄腾达还是一场空？ 小伙高价拿下帝王紫，飞黄腾达还是一场空？#翡翠原石#鉴定 #天然翡翠 #珠宝玉石关键词：翡翠原石、鉴定、天然翡翠、珠宝玉石 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "翡翠原石为什么总是做不出来结果？",
+        "先把鉴定想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕翡翠原石组织标题与开头。",
+        "用鉴定和天然翡翠补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "翡翠原石",
+        "鉴定",
+        "天然翡翠"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-21/7429233251790638355.json",
+      "processed_at": "2026-08-21T10:28:26+08:00"
+    },
+    "last_error": null
   }
 }
