@@ -32143,5 +32143,380 @@
       "processed_at": "2026-08-21T10:28:26+08:00"
     },
     "last_error": null
+  },
+  "7676193330224565540": {
+    "video_id": "7676193330224565540",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "荣恒学习文化专营店",
+      "video_id": "7676193330224565540",
+      "title": "高考作文是有评分标准的，想拿高分，就用这本高考一类文#学霸秘籍 #写作技巧 #高效学习",
+      "publish_time": "2026-08-21T03:10:44+08:00",
+      "video_url": "https://www.douyin.com/video/7676193330224565540",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0051-ce/osB6EKsVB0Gql1BbHATyWmAaisaPcWMbJioIz~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102724000&x-signature=pfX5hbjmXQ9aumVuZ2gtaSbZ1R4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260822101752D511BDE7B037BF7CC4A4",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "高考作文是有评分标准的，想拿高分，就用这本高考一类文#学霸秘籍 #写作技巧 #高效学习",
+      "text_hint": "高考作文是有评分标准的，想拿高分，就用这本高考一类文#学霸秘籍 #写作技巧 #高效学习",
+      "topic_tags": [
+        "学霸秘籍",
+        "写作技巧",
+        "高效学习"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/cef3b5772aafd1ba826ada75ba51626a/6a893130/video/tos/cn/tos-cn-ve-51-ce/ocTbia1yiXnTOBGQMzAB0qasbAE4Pi6WWIMJo/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4029&bt=4029&cs=0&ds=4&ft=MPfn2ovj.cUOjcMlcLCzbrRxs6k7Tq175kabyrBSO7Twcar-bfu8Z4o&mime_type=video_mp4&qs=0&rc=NGU1ZzRpNWhnaTc4M2U4ZkBpajg4bnM5cmZvZDMzNDYzM0AyMV5gXy0yNWAxLjUxXl5fYSNla29xMmRzLzBhLS1kMDBzcw%3D%3D&btag=80000e00020000&cquery=100o_100w_100B_102v_102u&dy_q=1787365072&l=20260822101752D511BDE7B037BF7CC4A4",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 48.019,
+      "raw_payload": {
+        "aweme_id": "7676193330224565540",
+        "author_uid": "737140847156803",
+        "sec_uid": "MS4wLjABAAAAbcHM4c9oBzsw4Nx3ktWLQWbIBd8-pQfy6Kt-7b0o224",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAbcHM4c9oBzsw4Nx3ktWLQWbIBd8-pQfy6Kt-7b0o224"
+      }
+    },
+    "first_seen_at": "2026-08-22T10:17:31+08:00",
+    "last_seen_at": "2026-08-22T10:17:31+08:00",
+    "fetch_runs": [
+      "2026-08-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7560520999830981940": {
+    "video_id": "7560520999830981940",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "安徽交通广播",
+      "video_id": "7560520999830981940",
+      "title": "成都街头一辆轿车燃烧，几名男子多次尝试砸窗救人。@抖音小助手",
+      "publish_time": "2025-10-13T10:02:55+08:00",
+      "video_url": "https://www.douyin.com/video/7560520999830981940",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e5fea33d725d5c80e170e1169b9a3461~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102724000&x-signature=nU%2FFsyGljCwL7IwP4FVfB32jB9g%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260822101756D9430F6D0682784A81F8",
+      "like_count": 453,
+      "comment_count": 86,
+      "share_count": 79,
+      "collect_count": 31,
+      "description": "成都街头一辆轿车燃烧，几名男子多次尝试砸窗救人。@抖音小助手",
+      "text_hint": "成都街头一辆轿车燃烧，几名男子多次尝试砸窗救人。@抖音小助手",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/3c0b42b74f059192f568970c1fb8171f/6a893117/video/tos/cn/tos-cn-ve-0015c800/oUAAQdhssv0EfB9C8jBixIVOCdXei7igA2kAoG/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=851&bt=851&cs=0&ds=3&ft=MPfn2ovj.cUOjcMlcLCzbrRxs6k7Tq175kaKyrBSO7Twcar-bfu8Z4o&mime_type=video_mp4&qs=0&rc=NWRoNDhnaDc2NTtnaWY5OkBpMzRta3Y5cmQ4NjMzNGkzM0AuX2BfYDAxXzExXmIvLi5gYSNoMGhrMmRzb2phLS1kLS9zcw%3D%3D&btag=c0000e00010000&cquery=100z_100o_100w_100B_100x&dy_q=1787365076&feature_id=fea919893f650a8c49286568590446ef&l=20260822101756D9430F6D0682784A81F8",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 19.334,
+      "raw_payload": {
+        "aweme_id": "7560520999830981940",
+        "author_uid": "80104106964",
+        "sec_uid": "MS4wLjABAAAAVf37DypSLQKZVkb2BIPS1eEX21UnTMjMtjoz9WORlyQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAVf37DypSLQKZVkb2BIPS1eEX21UnTMjMtjoz9WORlyQ"
+      }
+    },
+    "first_seen_at": "2026-08-22T10:17:31+08:00",
+    "last_seen_at": "2026-08-22T10:17:31+08:00",
+    "fetch_runs": [
+      "2026-08-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7293493633280527670": {
+    "video_id": "7293493633280527670",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "奥卡姆剃刀",
+      "video_id": "7293493633280527670",
+      "title": "华为FWA遥遥领先，为何专供国外？任正非点赞5G微波终极方案 #华为 #华为5G #华为FWA #任正非",
+      "publish_time": "2023-10-24T20:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7293493633280527670",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/754f7bec65788e3aa255759279a31614~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102724000&x-signature=ViLSDsxMNFzcFR%2FDLdnlp3OKEo4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608221017592607A00D480CD5D1E18E",
+      "like_count": 1075,
+      "comment_count": 46,
+      "share_count": 29,
+      "collect_count": 48,
+      "description": "华为FWA遥遥领先，为何专供国外？任正非点赞5G微波终极方案 #华为 #华为5G #华为FWA #任正非",
+      "text_hint": "华为FWA遥遥领先，为何专供国外？任正非点赞5G微波终极方案 #华为 #华为5G #华为FWA #任正非",
+      "topic_tags": [
+        "华为",
+        "华为5G",
+        "华为FWA",
+        "任正非"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/e029280792c71dfa16982007993694e7/6a893240/video/tos/cn/tos-cn-ve-0015c800/ocfmgeBFGBkKLHIBv3I12cQ2bCGIfWEATM7aOA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=813&bt=813&cs=0&ds=4&ft=MPfn2ovj.cUOjcMlcLCzbrRxs6k7Tq175kaHyrBSO7Twcar-bfu8Z4o&mime_type=video_mp4&qs=0&rc=Z2ZmaDs6aTs2OTQ6NjMzOEBpajNqcm45cm91bjMzNGkzM0BgNC0wYzQtNTUxMzFjMzItYSNpMWhzMmRzMG9gLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100D_100J_100o_100w_100B&dy_q=1787365079&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202608221017592607A00D480CD5D1E18E",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 313.259,
+      "raw_payload": {
+        "aweme_id": "7293493633280527670",
+        "author_uid": "102287330405",
+        "sec_uid": "MS4wLjABAAAAYTFWv4DDq04uxGStsSuSjQWEQW45UILDllS0lg_S0ZI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAYTFWv4DDq04uxGStsSuSjQWEQW45UILDllS0lg_S0ZI"
+      }
+    },
+    "first_seen_at": "2026-08-22T10:17:31+08:00",
+    "last_seen_at": "2026-08-22T10:17:31+08:00",
+    "fetch_runs": [
+      "2026-08-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7295633391104363826": {
+    "video_id": "7295633391104363826",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "奕诚（樂觀齋主）",
+      "video_id": "7295633391104363826",
+      "title": "我的华为手机被鸿蒙强制报废（续）#华为 #鸿蒙 #垃圾#任正非 #遥遥领先",
+      "publish_time": "2023-10-30T14:23:51+08:00",
+      "video_url": "https://www.douyin.com/video/7295633391104363826",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/590a813354dd24641e6bb3879c4114c8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102724000&x-signature=g6KufWkemBArwoZR4ZBDcaWSBiw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608221018025FC4C8A26967546FADC5",
+      "like_count": 1307,
+      "comment_count": 2584,
+      "share_count": 169,
+      "collect_count": 80,
+      "description": "我的华为手机被鸿蒙强制报废（续）#华为 #鸿蒙 #垃圾#任正非 #遥遥领先",
+      "text_hint": "我的华为手机被鸿蒙强制报废（续）#华为 #鸿蒙 #垃圾#任正非 #遥遥领先",
+      "topic_tags": [
+        "华为",
+        "鸿蒙",
+        "垃圾",
+        "遥遥领先",
+        "任正非"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/35d9a7ab26997edb91d186331c4aa6da/6a8934c7/video/tos/cn/tos-cn-ve-0015c800/okOJyl0nUEXbHYleDeUpJAQXDCqAbfiAL2Io9e/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1628&bt=1628&cs=0&ds=4&ft=MPfn2ovj.cUOjcMlcLCzbrRxs6k7Tq175ka2yrBSO7Twcar-bfu8Z4o&mime_type=video_mp4&qs=0&rc=OmU7Omg2NDo4Ojg8NDY5M0BpajZvc2c6ZmlubjMzNGkzM0AwYS5eYzMyXjQxMTYvMS0tYSNnMmJpcjRnZnNgLS1kLWFzcw%3D%3D&btag=c0000e00038000&cquery=100B_100x_100z_100o_100w&dy_q=1787365082&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202608221018025FC4C8A26967546FADC5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 957.708,
+      "raw_payload": {
+        "aweme_id": "7295633391104363826",
+        "author_uid": "2273438494102132",
+        "sec_uid": "MS4wLjABAAAA1E57mEc8Et4nXNGZAkiewI_ScPNRPDv1nWlIrJMJnQ1YF7_e2S1NVHqonWPKHRYx",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA1E57mEc8Et4nXNGZAkiewI_ScPNRPDv1nWlIrJMJnQ1YF7_e2S1NVHqonWPKHRYx"
+      }
+    },
+    "first_seen_at": "2026-08-22T10:17:31+08:00",
+    "last_seen_at": "2026-08-22T10:17:31+08:00",
+    "fetch_runs": [
+      "2026-08-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7576609793088631014": {
+    "video_id": "7576609793088631014",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7576609793088631014",
+      "title": "在抖音记录美好生活20260822",
+      "publish_time": "2026-08-22T10:18:37+08:00",
+      "video_url": "https://www.douyin.com/video/7576609793088631014",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260822",
+      "text_hint": "在抖音记录美好生活20260822",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d4ffe964-82c7-452a-b02a-3944028e09dd",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7576609793088631014",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-22T10:17:31+08:00",
+    "last_seen_at": "2026-08-22T10:17:31+08:00",
+    "fetch_runs": [
+      "2026-08-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7402824718983646499": {
+    "video_id": "7402824718983646499",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "一只小阿胜",
+      "video_id": "7402824718983646499",
+      "title": "笑话超子的一天!团子，我看你能不能赢！#张智超 #姜小团团 #途游斗地主 #张智超姜小团团 #斗地主的百种姿势",
+      "publish_time": "2024-08-14T11:00:58+08:00",
+      "video_url": "https://www.douyin.com/video/7402824718983646499",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4eaa2138cfc3f6c13de7fa39a812cef8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102724000&x-signature=WoZ94oRwV%2BKxbTiqBu7ztfmqO%2F4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260822101812E1412155C7D237EFF224",
+      "like_count": 30430,
+      "comment_count": 514,
+      "share_count": 4995,
+      "collect_count": 1806,
+      "description": "笑话超子的一天!团子，我看你能不能赢！#张智超 #姜小团团 #途游斗地主 #张智超姜小团团 #斗地主的百种姿势",
+      "text_hint": "笑话超子的一天!团子，我看你能不能赢！#张智超 #姜小团团 #途游斗地主 #张智超姜小团团 #斗地主的百种姿势",
+      "topic_tags": [
+        "张智超",
+        "姜小团团",
+        "途游斗地主",
+        "张智超姜小团团",
+        "斗地主的百种姿势"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/27e77637d7028240d3b3e38faefdc939/6a893350/video/tos/cn/tos-cn-ve-0015c800/og4ugvDjWImlFFxzuNfB9VS7kvFSiBA0AEAmeQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1641&bt=1641&cs=0&ds=4&ft=MPfn2ovj.cUOjcMlcLCzbrRxs6k7Tq175ka1yrBSO7Twcar-bfu8Z4o&mime_type=video_mp4&qs=0&rc=ZzY5ZTQ4Zzs5Mzk4OWYzOUBpajU8Z3E5cm40dDMzNGkzM0BjMmE1MWFjXzUxY14tMTA2YSNtZW9pMmRrbXJgLS1kLWFzcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1787365092&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260822101812E1412155C7D237EFF224",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 572.304,
+      "raw_payload": {
+        "aweme_id": "7402824718983646499",
+        "author_uid": "4108209593782020",
+        "sec_uid": "MS4wLjABAAAAsMu1Q5Ncgl9HSH8hZe4TwAxhlCe0zUbddRlbFUhvOu6esCGwDpbR2Hnisa_rcX4w",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAsMu1Q5Ncgl9HSH8hZe4TwAxhlCe0zUbddRlbFUhvOu6esCGwDpbR2Hnisa_rcX4w"
+      }
+    },
+    "first_seen_at": "2026-08-22T10:17:31+08:00",
+    "last_seen_at": "2026-08-22T10:17:31+08:00",
+    "fetch_runs": [
+      "2026-08-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "6932045325758647552": {
+    "video_id": "6932045325758647552",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "我的世界_皮三岁👈",
+      "video_id": "6932045325758647552",
+      "title": "#原版单人生存 20，自动酿蜜机#摸摸鱼 #我的世界 #最好的教学玩家 #创造热爱者计划",
+      "publish_time": "2021-02-22T19:16:31+08:00",
+      "video_url": "https://www.douyin.com/video/6932045325758647552",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5e5d2c9289deb084bb2a7f6101f3a4af~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102724000&x-signature=kb0wl0VM%2FksbNr%2FbH%2FbRaGfzRrw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260822101816A6B11C8FDC7C427DF564",
+      "like_count": 812,
+      "comment_count": 32,
+      "share_count": 29,
+      "collect_count": 49,
+      "description": "#原版单人生存 20，自动酿蜜机#摸摸鱼 #我的世界 #最好的教学玩家 #创造热爱者计划",
+      "text_hint": "#原版单人生存 20，自动酿蜜机#摸摸鱼 #我的世界 #最好的教学玩家 #创造热爱者计划",
+      "topic_tags": [
+        "原版单人生存",
+        "摸摸鱼",
+        "我的世界",
+        "最好的教学玩家",
+        "创造热爱者计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/f75e511481b0724ab47fd0eac6f86407/6a89322e/video/tos/cn/tos-cn-ve-0015c800/8b4ac9a4b0594c85b99fd5fa878abece/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2705&bt=2705&cs=0&ds=4&ft=MPfn2ovj.cUOjcMlcLCzbrRxs6k7Tq175kaSyrBSO7Twcar-bfu8Z4o&mime_type=video_mp4&qs=0&rc=MzVlNTY2M2czaGdmZzU5PEBpanQ0Z21wNG1yMzMzaGkzM0BgXl5gNC4xXjUxMGAvYTAuYSNkLmtlM3Nucm1gLS1iLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_102u_100o&dy_q=1787365096&l=20260822101816A6B11C8FDC7C427DF564",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 278.554,
+      "raw_payload": {
+        "aweme_id": "6932045325758647552",
+        "author_uid": "94465283374",
+        "sec_uid": "MS4wLjABAAAAkyNhIh5-4XfSDKRyecI0hORImqbtMi0e_t3ONq6AOXI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAkyNhIh5-4XfSDKRyecI0hORImqbtMi0e_t3ONq6AOXI"
+      }
+    },
+    "first_seen_at": "2026-08-22T10:17:31+08:00",
+    "last_seen_at": "2026-08-22T10:17:31+08:00",
+    "fetch_runs": [
+      "2026-08-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7343940792366484777": {
+    "video_id": "7343940792366484777",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7343940792366484777",
+      "title": "5月份龙宝宝的第二波拆箱视频来啦，还有一部分在路上，先发出来给大家参考下#生孩子需要准备什么东西 #新生儿待产包 #新手妈妈必备",
+      "publish_time": "2024-03-08T10:41:00+08:00",
+      "video_url": "https://www.douyin.com/video/7343940792366484777",
+      "cover_url": "",
+      "like_count": 11000,
+      "comment_count": 942,
+      "share_count": 5271,
+      "collect_count": 2419,
+      "description": "5月份龙宝宝的第二波拆箱视频来啦，还有一部分在路上，先发出来给大家参考下#生孩子需要准备什么东西 #新生儿待产包 #新手妈妈必备",
+      "text_hint": "5月份龙宝宝的第二波拆箱视频来啦，还有一部分在路上，先发出来给大家参考下#生孩子需要准备什么东西 #新生儿待产包 #新手妈妈必备",
+      "topic_tags": [
+        "生孩子需要准备什么东西",
+        "新生儿待产包",
+        "新手妈妈必备"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/5d9790249d8532f283c79c573b8fa7a4/6a8931fe/video/tos/cn/tos-cn-ve-15/owAypqIgDJAfghX7DmeYL9NPvVz7ABUEdQSyGq/?a=6383&br=792&bt=792&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1787365112&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=MPfn2ovj.cUOjcMlcLCzbrRxs6k7Tq175kaDyrBSO7Twcar-bfu8Z4o&is_ssr=1&l=2026082210183134B257B85B21B08236D1&lr=all&mime_type=video_mp4&qs=12&rc=ODdkaDg1PDQ2NzY3OmY4aEBpM3I8NmU6Zm9ocTMzNGkzM0A1NTVfNmI1NS8xLl9jLi5eYSNkbnIwcjQwaWlgLS1kLTBzcw%3D%3D&__vid=7343940792366484777",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7343940792366484777",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-22T10:17:31+08:00",
+    "last_seen_at": "2026-08-22T10:17:31+08:00",
+    "fetch_runs": [
+      "2026-08-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
   }
 }
