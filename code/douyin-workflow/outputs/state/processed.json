@@ -32518,5 +32518,667 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7676656357416942315": {
+    "video_id": "7676656357416942315",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "信心满满的轩轩",
+      "video_id": "7676656357416942315",
+      "title": "这就是所谓的跨学科题目 #数学几何思路 #英语作文",
+      "publish_time": "2026-08-22T09:07:21+08:00",
+      "video_url": "https://www.douyin.com/video/7676656357416942315",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/ogIMgRBAWI1Ri27qaNfBec2ak8qc9HAvAiAoqE~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102810400&x-signature=GK3VG6hzG4uVObuChfEOWCV5eSg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260823102606EAD197A3F53818B37717",
+      "like_count": 3,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "这就是所谓的跨学科题目 #数学几何思路 #英语作文",
+      "text_hint": "这就是所谓的跨学科题目 #数学几何思路 #英语作文",
+      "topic_tags": [
+        "数学几何思路",
+        "英语作文"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b31aad490d30e27fdfd04ab30e10db37/6a8a8478/video/tos/cn/tos-cn-ve-15/os4Qf2uTghjD02IEqjbM8Cg2rbAXkUeAreeqQl/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=428&bt=428&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wE6.SHhd.vYzJC73-ApQX&mime_type=video_mp4&qs=0&rc=ZzY8aTk0NzU8NGZlZDpoZkBpM2R5NnY5cnVpZDMzNGkzM0BeMzVfNmNeNS0xXy4xNjA1YSNoazJiMmRjXjFhLS1kLWFzcw%3D%3D&btag=c0000e00008000&cquery=100o_100w_100E_100x_100z&dy_q=1787451966&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260823102606EAD197A3F53818B37717",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7676656357416942315.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7676656357416942315.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 10.967,
+      "raw_payload": {
+        "aweme_id": "7676656357416942315",
+        "author_uid": "109429921668",
+        "sec_uid": "MS4wLjABAAAAMGtBoTJnpmhEdMG2-VBJy7NyuG7cCXBR1Q-2evDFh_o",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAMGtBoTJnpmhEdMG2-VBJy7NyuG7cCXBR1Q-2evDFh_o"
+      }
+    },
+    "first_seen_at": "2026-08-23T10:25:43+08:00",
+    "last_seen_at": "2026-08-23T10:25:43+08:00",
+    "fetch_runs": [
+      "2026-08-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7676656357416942315.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7676656357416942315.mp3",
+      "source": "download",
+      "processed_at": "2026-08-23T10:26:52+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7676656357416942315",
+      "transcript_raw": "这就是所谓的跨学科题目 #数学几何思路 #英语作文这就是所谓的跨学科题目 #数学几何思路 #英语作文补充信息：这就是所谓的跨学科题目 #数学几何思路 #英语作文关键词：数学几何思路、英语作文",
+      "transcript_clean": "这就是所谓的跨学科题目 #数学几何思路 #英语作文这就是所谓的跨学科题目 #数学几何思路 #英语作文补充信息：这就是所谓的跨学科题目 #数学几何思路 #英语作文关键词：数学几何思路、英语作文",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-23/7676656357416942315.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7676656357416942315",
+      "summary": "信心满满的轩轩围绕“数学几何思路”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "这就是所谓的跨学科题目 #数学几何思路 #英语作文。这就是所谓的跨学科题目 #数学几何思路 #英语作文这就是所谓的跨学科题目 #数学几何思路 #英语作文补充信息：这就是所谓的跨学科题目 #数学几何思路 #英语作文关键词：数学几何思路、英语作文 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "数学几何思路为什么总是做不出来结果？",
+        "先把英语作文想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕数学几何思路组织标题与开头。",
+        "用英语作文和#数学几何思路补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "数学几何思路",
+        "英语作文",
+        "#数学几何思路"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-23/7676656357416942315.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "last_error": null
+  },
+  "7580664482213449010": {
+    "video_id": "7580664482213449010",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "会火全娱乐",
+      "video_id": "7580664482213449010",
+      "title": "就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动",
+      "publish_time": "2025-12-07T11:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7580664482213449010",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/cb843c1eb51f928de76f09021bc754a4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102810400&x-signature=zrHe2eCOrr3Z1SfgqONm6BM6CVo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260823102609B7A6C6BECF188FC101AB",
+      "like_count": 18179,
+      "comment_count": 213,
+      "share_count": 5694,
+      "collect_count": 806,
+      "description": "就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动",
+      "text_hint": "就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动",
+      "topic_tags": [
+        "疯狂动物城2合养精灵联动",
+        "小火人",
+        "续火花",
+        "朱迪尼克小火人联动"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/17d8be160ab16d421faf98f6de839673/6a8a84a6/video/tos/cn/tos-cn-ve-0015c800/oYNBdaFZBQDNFqgA4YFAf7EaSQIf7zcBaskeSC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3381&bt=3381&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wI~.SHhd.vYzJC73-ApQX&mime_type=video_mp4&qs=0&rc=NmdmaDg8NjczaDkzaGRlNkBpMzNycW85cjR4NzMzNGkzM0BeY180Ni4vX2ExMTVfNC0vYSNqcWEzMmRjcG1hLS1kLWFzcw%3D%3D&btag=c0000e00020000&cquery=100H_100K_100o_100w_100B&dy_q=1787451969&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=20260823102609B7A6C6BECF188FC101AB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7580664482213449010.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7580664482213449010.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 53.407,
+      "raw_payload": {
+        "aweme_id": "7580664482213449010",
+        "author_uid": "1859963412551160",
+        "sec_uid": "MS4wLjABAAAA3ILK1Ymc9_XTvuY-wR-xiTn87rh3IdY2Da09ZInpq9uFPmk3TKsLNLCNXKRNC8BD",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA3ILK1Ymc9_XTvuY-wR-xiTn87rh3IdY2Da09ZInpq9uFPmk3TKsLNLCNXKRNC8BD"
+      }
+    },
+    "first_seen_at": "2026-08-23T10:25:43+08:00",
+    "last_seen_at": "2026-08-23T10:25:43+08:00",
+    "fetch_runs": [
+      "2026-08-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7580664482213449010.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7580664482213449010.mp3",
+      "source": "download",
+      "processed_at": "2026-08-23T10:27:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7580664482213449010",
+      "transcript_raw": "就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动补充信息：就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动关键词：疯狂动物城2合养精灵联动、小火人、续火花、朱迪尼克小火人联动",
+      "transcript_clean": "就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动补充信息：就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动关键词：疯狂动物城2合养精灵联动、小火人、续火花、朱迪尼克小火人联动",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-23/7580664482213449010.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7580664482213449010",
+      "summary": "会火全娱乐围绕“疯狂动物城2合养精灵联动”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动。就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动补充信息：就这样笑纳所有疯动联名#疯狂动物城2合养精灵联动   #小火人  #续火花#朱迪尼克小火人联动关键词：疯狂动物城2合养精灵联动、小火人、续火花、朱迪尼克小火人联动 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "疯狂动物城2合养精灵联动为什么总是做不出来结果？",
+        "先把小火人想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕疯狂动物城2合养精灵联动组织标题与开头。",
+        "用小火人和续火花补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "疯狂动物城2合养精灵联动",
+        "小火人",
+        "续火花"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-23/7580664482213449010.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "last_error": null
+  },
+  "7150205434605964559": {
+    "video_id": "7150205434605964559",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "少年悦",
+      "video_id": "7150205434605964559",
+      "title": "家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手",
+      "publish_time": "2022-10-03T16:49:02+08:00",
+      "video_url": "https://www.douyin.com/video/7150205434605964559",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6ea6584c200f65b28f810fdfe830d9a0~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102810400&x-signature=15dn4Tlz2dWEsvggpR80IZyCQTo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260823102612406AA84BA84FEBD48C1F",
+      "like_count": 2198,
+      "comment_count": 36,
+      "share_count": 329,
+      "collect_count": 587,
+      "description": "家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手",
+      "text_hint": "家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手",
+      "topic_tags": [
+        "作文",
+        "责任与担当"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/e718285b33361fc8cf21273bb08806de/6a8a8529/video/cn/mps/realtime/v1/r/p/v0d00fg10000ccta373c77uepsu3ukig/d0e64640fbe946618a94468dc9051a02/0ffcd31039ba2d4dea58e5ed4ce4eab9/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=650&bt=650&cs=0&ds=3&ft=InFJ3Y-5DyjNMRVQ9wi~.SHhd.vYzJC73-ApQX&mime_type=video_mp4&qs=0&rc=NWQ4PGc5N2Q0OTxlMzk5M0Bpam42dmg6ZjpkZjMzNGkzM0AtLi1gNTE2NTMxYmMxMWJhYSNmcnJtcjQwMHFgLS1kLWFzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1787451972&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7150205434605964559&l=20260823102612406AA84BA84FEBD48C1F&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7150205434605964559.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7150205434605964559.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 181.9,
+      "raw_payload": {
+        "aweme_id": "7150205434605964559",
+        "author_uid": "4385266371921784",
+        "sec_uid": "MS4wLjABAAAAwOKVizrERKfTQtAvXro7OmimJoL8HXuvIc-af5027jH8X7iXfF6ABAhSj3AoJGRM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAwOKVizrERKfTQtAvXro7OmimJoL8HXuvIc-af5027jH8X7iXfF6ABAhSj3AoJGRM"
+      }
+    },
+    "first_seen_at": "2026-08-23T10:25:43+08:00",
+    "last_seen_at": "2026-08-23T10:25:43+08:00",
+    "fetch_runs": [
+      "2026-08-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7150205434605964559.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7150205434605964559.mp3",
+      "source": "download",
+      "processed_at": "2026-08-23T10:29:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7150205434605964559",
+      "transcript_raw": "家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手补充信息：家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手关键词：作文、责任与担当",
+      "transcript_clean": "家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手补充信息：家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手关键词：作文、责任与担当",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-23/7150205434605964559.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7150205434605964559",
+      "summary": "少年悦围绕“作文”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手。家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手补充信息：家长都带着孩子们一起来仔细听听吧！孩子能理解父母对自己的付出，那无论父母付出多少都是值得的。#作文 #责任与担当 @抖音小助手关键词：作文、责任与担当 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "作文为什么总是做不出来结果？",
+        "先把责任与担当想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕作文组织标题与开头。",
+        "用责任与担当和#责任与担当补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "作文",
+        "责任与担当",
+        "#责任与担当"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-23/7150205434605964559.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "last_error": null
+  },
+  "7156117458393369869": {
+    "video_id": "7156117458393369869",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "糯咪诺",
+      "video_id": "7156117458393369869",
+      "title": "恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了",
+      "publish_time": "2022-10-21T19:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7156117458393369869",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c323f14c3a9b2daabfce551a954695c7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102810400&x-signature=dOiNxKo9MHGMVYhK3VZKw%2FMd0Tk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026082310261546680FC6AD239CC0AC55",
+      "like_count": 80,
+      "comment_count": 5,
+      "share_count": 2,
+      "collect_count": 36,
+      "description": "恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了",
+      "text_hint": "恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了",
+      "topic_tags": [
+        "恐龙来了"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b13898aafe9b845bc1c34d7b13b53b12/6a8a87aa/video/tos/cn/tos-cn-ve-15c001-alinc2/b2b9e49dd33b4534ba94c16ad8ecda2b/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=887&bt=887&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9we~.SHhd.vYzJC73-ApQX&mime_type=video_mp4&qs=0&rc=PDdmOmg1OjZpNjhmNzs2N0BpanlyaWc6Znl0ZzMzNGkzM0AtYl4yMzAxXi0xM2E1Nl9fYSNwZmNtcjRvMjRgLS1kLS9zcw%3D%3D&btag=80000e00038000&cquery=100K_100o_100w_100B_100H&dy_q=1787451976&l=2026082310261546680FC6AD239CC0AC55",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7156117458393369869.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7156117458393369869.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 818.156,
+      "raw_payload": {
+        "aweme_id": "7156117458393369869",
+        "author_uid": "44450819084439",
+        "sec_uid": "MS4wLjABAAAA9gSdAY-lM_cRVUwGTVGnXJ5lNd5pqHD6w_T4OWUXOPw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9gSdAY-lM_cRVUwGTVGnXJ5lNd5pqHD6w_T4OWUXOPw"
+      }
+    },
+    "first_seen_at": "2026-08-23T10:25:43+08:00",
+    "last_seen_at": "2026-08-23T10:25:43+08:00",
+    "fetch_runs": [
+      "2026-08-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7156117458393369869.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7156117458393369869.mp3",
+      "source": "download",
+      "processed_at": "2026-08-23T10:29:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7156117458393369869",
+      "transcript_raw": "恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了补充信息：恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了关键词：恐龙来了",
+      "transcript_clean": "恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了补充信息：恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了关键词：恐龙来了",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-23/7156117458393369869.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7156117458393369869",
+      "summary": "糯咪诺围绕“恐龙来了”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了。恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了补充信息：恐龙发烧友系列之 安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了关键词：恐龙来了 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "恐龙来了为什么总是做不出来结果？",
+        "先把恐龙发烧友系列之想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕恐龙来了组织标题与开头。",
+        "用恐龙发烧友系列之和安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了恐龙发烧友系列之补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "恐龙来了",
+        "恐龙发烧友系列之",
+        "安迪的恐龙冒险故事2--跟着安迪和恐龙，燃爆视频，英语学习，有龙无恐！#恐龙来了恐龙发烧友系列之"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-23/7156117458393369869.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "last_error": null
+  },
+  "7584429716616269093": {
+    "video_id": "7584429716616269093",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7584429716616269093",
+      "title": "在抖音记录美好生活20260823",
+      "publish_time": "2026-08-23T10:26:50+08:00",
+      "video_url": "https://www.douyin.com/video/7584429716616269093",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260823",
+      "text_hint": "在抖音记录美好生活20260823",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/7b94b23f-3b95-4ba9-af42-6da6b6e0d805",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7584429716616269093",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-23T10:25:43+08:00",
+    "last_seen_at": "2026-08-23T10:25:43+08:00",
+    "fetch_runs": [
+      "2026-08-23"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7444342239242882304": {
+    "video_id": "7444342239242882304",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "团结玩石",
+      "video_id": "7444342239242882304",
+      "title": "玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享",
+      "publish_time": "2024-12-04T08:10:25+08:00",
+      "video_url": "https://www.douyin.com/video/7444342239242882304",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2184a96b097ff510fb3af7fe07db7fb3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102810400&x-signature=YGtr%2B3KU1FQ7UlRxSOEYKaRONmA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026082310262608076782EFE8755DEA6A",
+      "like_count": 967,
+      "comment_count": 984,
+      "share_count": 53,
+      "collect_count": 60,
+      "description": "玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享",
+      "text_hint": "玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享",
+      "topic_tags": [
+        "奇石文化传播",
+        "美石分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d703f4a924af98e803ca046e977c71ea/6a8a85b2/video/tos/cn/tos-cn-ve-0015c800/ooMrBu8MEAZ373OB9e8R6nCzpCcADQseWJfbiA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2154&bt=2154&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wf~.SHhd.vYzJC73-ApQX&mime_type=video_mp4&qs=0&rc=ZDU8PDQ7NDY7Ozg4Njw0OEBpM3JxdW05cjZzdzMzNGkzM0A1MzU0NWE2XjMxNi82YjA2YSM2YV80MmRjbzRgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1787451986&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026082310262608076782EFE8755DEA6A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7444342239242882304.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7444342239242882304.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 304.182,
+      "raw_payload": {
+        "aweme_id": "7444342239242882304",
+        "author_uid": "3883932057605159",
+        "sec_uid": "MS4wLjABAAAA7DE9P_dOfLMkc36tPZ0awWXllsIoYXiFFLXnHO6-mDog25jNCQ7ghtACPswsjPMG",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7DE9P_dOfLMkc36tPZ0awWXllsIoYXiFFLXnHO6-mDog25jNCQ7ghtACPswsjPMG"
+      }
+    },
+    "first_seen_at": "2026-08-23T10:25:43+08:00",
+    "last_seen_at": "2026-08-23T10:25:43+08:00",
+    "fetch_runs": [
+      "2026-08-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7444342239242882304.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7444342239242882304.mp3",
+      "source": "download",
+      "processed_at": "2026-08-23T10:28:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7444342239242882304",
+      "transcript_raw": "玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享补充信息：玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享关键词：奇石文化传播、美石分享",
+      "transcript_clean": "玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享补充信息：玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享关键词：奇石文化传播、美石分享",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-23/7444342239242882304.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7444342239242882304",
+      "summary": "团结玩石围绕“奇石文化传播”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享。玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享补充信息：玩石一年零一个月，淘了一堆烂石头#奇石文化传播 #美石分享关键词：奇石文化传播、美石分享 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "奇石文化传播为什么总是做不出来结果？",
+        "先把美石分享想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕奇石文化传播组织标题与开头。",
+        "用美石分享和玩石一年零一个月，淘了一堆烂石头#奇石文化传播补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "奇石文化传播",
+        "美石分享",
+        "玩石一年零一个月，淘了一堆烂石头#奇石文化传播"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-23/7444342239242882304.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "last_error": null
+  },
+  "7559434971989331254": {
+    "video_id": "7559434971989331254",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "哈哈。",
+      "video_id": "7559434971989331254",
+      "title": "三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享",
+      "publish_time": "2025-10-10T11:48:38+08:00",
+      "video_url": "https://www.douyin.com/video/7559434971989331254",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f5e346bdfc27e2d52f7d23e822e81868~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102810400&x-signature=%2FsWN5UKaZKt%2F14QUVl5niZ7fuF0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260823102629B3A724F94867447D098E",
+      "like_count": 55,
+      "comment_count": 14,
+      "share_count": 24,
+      "collect_count": 21,
+      "description": "三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享",
+      "text_hint": "三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享",
+      "topic_tags": [
+        "三支一扶",
+        "备考",
+        "经验分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/8601bef796e986e8daef1f0235f40559/6a8a853e/video/cn/mps/realtime/v1/r/p/v0200fg10000d3k83s7og65thuc8fjn0/14ba3fa004e24007bcfd90746ac6558e/0dd5ab6c7985e17c1b94b327c85da2b6/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=821&bt=821&cs=0&ds=6&eid=64256&ft=InFJ3Y-5DyjNMRVQ9wo~.SHhd.vYzJC73-ApQX&mime_type=video_mp4&qs=0&rc=aDg5ZDczZ2Y6MzU3M2lkN0BpM207eHc5cnY7NjMzNGkzM0A1MmAzNDZjXy0xYi1eMF8uYSNrY2BlMmQ0MGhhLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=540p&dy_q=1787451989&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7559434971989331254&l=20260823102629B3A724F94867447D098E&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7559434971989331254.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7559434971989331254.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 185.366,
+      "raw_payload": {
+        "aweme_id": "7559434971989331254",
+        "author_uid": "2166477486565080",
+        "sec_uid": "MS4wLjABAAAA9DVqndcS_qc-1EtWIX9X3i1dlTsV3lqnsA6j3B67jC6RafSdZKTx1QVp2t-S6YHn",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9DVqndcS_qc-1EtWIX9X3i1dlTsV3lqnsA6j3B67jC6RafSdZKTx1QVp2t-S6YHn"
+      }
+    },
+    "first_seen_at": "2026-08-23T10:25:43+08:00",
+    "last_seen_at": "2026-08-23T10:25:43+08:00",
+    "fetch_runs": [
+      "2026-08-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7559434971989331254.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/7559434971989331254.mp3",
+      "source": "download",
+      "processed_at": "2026-08-23T10:27:19+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7559434971989331254",
+      "transcript_raw": "三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享补充信息：三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享关键词：三支一扶、备考、经验分享",
+      "transcript_clean": "三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享补充信息：三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享关键词：三支一扶、备考、经验分享",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-23/7559434971989331254.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "analysis": {
+      "video_id": "7559434971989331254",
+      "summary": "哈哈。围绕“三支一扶”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享。三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享补充信息：三支一扶期满后想进体制内也太轻松了，这个入编捷径还有谁不知道！ #三支一扶#备考#经验分享关键词：三支一扶、备考、经验分享 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "三支一扶为什么总是做不出来结果？",
+        "先把备考想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕三支一扶组织标题与开头。",
+        "用备考和经验分享补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "三支一扶",
+        "备考",
+        "经验分享"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-23/7559434971989331254.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "last_error": null
+  },
+  "6913470068105973003": {
+    "video_id": "6913470068105973003",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "6913470068105973003",
+      "title": "1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜",
+      "publish_time": "2021-01-03T09:55:00+08:00",
+      "video_url": "https://www.douyin.com/video/6913470068105973003",
+      "cover_url": "",
+      "like_count": 1752,
+      "comment_count": 363,
+      "share_count": 96,
+      "collect_count": 213,
+      "description": "1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜",
+      "text_hint": "1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜",
+      "topic_tags": [
+        "投基不投机",
+        "投资",
+        "韭菜"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/ee99246503c9baf6e439212966cbbbae/6a8a85bc/video/cn/mps/realtime/v1/r/p/v0300f390000bvop7ju0gvcmt96k8jdg/26a7101229dc4ed18a3d2f72384cfcd9/5c10a0294c12beb0c72e45b0288a4993/mp4/main.mp4?a=6383&br=295&bt=295&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&codec=h264&cquery=100B_100x_102u_100o_100w&cr=3&cs=0&cv=1&definition=720p&dr=0&ds=3&dy_q=1787452005&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&ft=InFJ3Y-5DyjNMRVQ9ws~.SHhd.vYzJC73-ApQX&is_ssr=1&item_id=6913470068105973003&l=20260823102645A0F4BB69C17A86C7D590&logo_type=&lr=all&mime_type=video_mp4&qs=0&rc=PGZmOzVpZ2Q0aGY8NTM6OUBpam1uPHB5M21zeTMzPGkzM0BhYzEwNC8wNWExYS8uLl4vYSNhNTNxYGRyNGxfLS0wLTBzcw%3D%3D&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type&__vid=6913470068105973003",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/6913470068105973003.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/6913470068105973003.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "6913470068105973003",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-23T10:25:43+08:00",
+    "last_seen_at": "2026-08-23T10:25:43+08:00",
+    "fetch_runs": [
+      "2026-08-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/6913470068105973003.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-23/6913470068105973003.mp3",
+      "source": "download",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6913470068105973003",
+      "transcript_raw": "1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜补充信息：1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜关键词：投基不投机、投资、韭菜",
+      "transcript_clean": "1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜补充信息：1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜关键词：投基不投机、投资、韭菜",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-23/6913470068105973003.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "analysis": {
+      "video_id": "6913470068105973003",
+      "summary": "知雪围绕“投基不投机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜。1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜补充信息：1月份的新基金不少，分享出来，仅供大家参考#投基不投机 #投资 #韭菜关键词：投基不投机、投资、韭菜 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "投基不投机为什么总是做不出来结果？",
+        "先把投资想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕投基不投机组织标题与开头。",
+        "用投资和韭菜补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "投基不投机",
+        "投资",
+        "韭菜"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-23/6913470068105973003.json",
+      "processed_at": "2026-08-23T10:29:31+08:00"
+    },
+    "last_error": null
   }
 }
