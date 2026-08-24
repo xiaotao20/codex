@@ -33180,5 +33180,662 @@
       "processed_at": "2026-08-23T10:29:31+08:00"
     },
     "last_error": null
+  },
+  "7676999712536284426": {
+    "video_id": "7676999712536284426",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "学而思网校剑桥英语精讲",
+      "video_id": "7676999712536284426",
+      "title": "暑假报班参考：299的小学英语课，我们来看看都包含什么",
+      "publish_time": "2026-08-23T07:19:56+08:00",
+      "video_url": "https://www.douyin.com/video/7676999712536284426",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-v-0051/ockiEa1AbGBowI3Y962EN5CATBGAlfxeeURQdp~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102896800&x-signature=Wd8szwFnB99aSGZhFLg7G84aOC0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260824102457C8A5B6EEDABB927FDF75",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "暑假报班参考：299的小学英语课，我们来看看都包含什么",
+      "text_hint": "暑假报班参考：299的小学英语课，我们来看看都包含什么",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/52e2bf6a41d45a44ba1bc82c7a3fc002/6a8bd5d7/video/tos/cn/tos-cn-ve-51/oY76bUVie9N2GcWDBAEwdf5RYeHAVaI1QGECQk/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=3821&bt=3821&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wRSnSHhd.5c80l03-ApQX&mime_type=video_mp4&qs=0&rc=OmVkOGc8OmRoZDg8NDg4NUBpam4zbHc5cjk1ZDMzNDYzM0BiYC82MjNeXzUxMWM0YjEvYSNea2MxMmRzcTJhLS1kMC9zcw%3D%3D&btag=c0000e00020000&cquery=100o_100w_100B_102v_102u&dy_q=1787538297&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=20260824102457C8A5B6EEDABB927FDF75",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7676999712536284426.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7676999712536284426.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 46.657,
+      "raw_payload": {
+        "aweme_id": "7676999712536284426",
+        "author_uid": "1514487801708736",
+        "sec_uid": "MS4wLjABAAAAzPADsG8lceuMp6RnfgFb4kMaw_2UUPoCmIvCVyJ5rOAbQi0vRN2NczBgal5Y52OH",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAzPADsG8lceuMp6RnfgFb4kMaw_2UUPoCmIvCVyJ5rOAbQi0vRN2NczBgal5Y52OH"
+      }
+    },
+    "first_seen_at": "2026-08-24T10:24:36+08:00",
+    "last_seen_at": "2026-08-24T10:24:36+08:00",
+    "fetch_runs": [
+      "2026-08-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7676999712536284426.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7676999712536284426.mp3",
+      "source": "download",
+      "processed_at": "2026-08-24T10:25:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7676999712536284426",
+      "transcript_raw": "暑假报班参考：299的小学英语课，我们来看看都包含什么暑假报班参考：299的小学英语课，我们来看看都包含什么补充信息：暑假报班参考：299的小学英语课，我们来看看都包含什么",
+      "transcript_clean": "暑假报班参考：299的小学英语课，我们来看看都包含什么暑假报班参考：299的小学英语课，我们来看看都包含什么补充信息：暑假报班参考：299的小学英语课，我们来看看都包含什么",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-24/7676999712536284426.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7676999712536284426",
+      "summary": "学而思网校剑桥英语精讲围绕“暑假报班参考：299的小学英语课，我们来看看都包含什么暑假报班参考：299的小学英语课，我们来看看都包含什么补充信息：暑假报班参考：299的小学英语课，我们来看看都包含什么”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "暑假报班参考：299的小学英语课，我们来看看都包含什么。暑假报班参考：299的小学英语课，我们来看看都包含什么暑假报班参考：299的小学英语课，我们来看看都包含什么补充信息：暑假报班参考：299的小学英语课，我们来看看都包含什么 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "暑假报班参考：299的小学英语课，我们来看看都包含什么暑假报班参考：299的小学英语课，我们来看看都包含什么补充信息：暑假报班参考：299的小学英语课，我们来看看都包含什么为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕暑假报班参考：299的小学英语课，我们来看看都包含什么暑假报班参考：299的小学英语课，我们来看看都包含什么补充信息：暑假报班参考：299的小学英语课，我们来看看都包含什么组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "暑假报班参考：299的小学英语课，我们来看看都包含什么暑假报班参考：299的小学英语课，我们来看看都包含什么补充信息：暑假报班参考：299的小学英语课，我们来看看都包含什么",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-24/7676999712536284426.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "last_error": null
+  },
+  "7615141492012682502": {
+    "video_id": "7615141492012682502",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "爱济南新闻客户端",
+      "video_id": "7615141492012682502",
+      "title": "多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉",
+      "publish_time": "2026-03-09T14:38:49+08:00",
+      "video_url": "https://www.douyin.com/video/7615141492012682502",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bc04be25a8c5b0ef2bf23688cf564bf3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102896800&x-signature=gXL1h%2FT%2BxJXXIwtlrp9JA3A%2F%2Bxw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260824102501D3C4D4424317FE8F77DB",
+      "like_count": 23,
+      "comment_count": 0,
+      "share_count": 48,
+      "collect_count": 8,
+      "description": "多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉",
+      "text_hint": "多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉",
+      "topic_tags": [
+        "花粉过敏",
+        "扩散周知",
+        "过敏",
+        "热门",
+        "花粉"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ae506c7f8a42b77500ade34dc84dc4e4/6a8bd5b4/video/tos/cn/tos-cn-ve-15/oQFluDqQsEFmAuzfAgpcJDpo699drA7fEIpBgr/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2737&bt=2737&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wPSnSHhd.5c80l03-ApQX&mime_type=video_mp4&qs=0&rc=OmQ2aDQ2MzZoOTdkZzlnZ0BpMzVsPG45cmY5OTMzNGkzM0AwXzYxM2EuX14xY2EvMzYwYSNvcTNtMmRzaWthLS1kLTBzcw%3D%3D&btag=c0000e00008000&cquery=100w_100B_100H_100K_100o&dy_q=1787538301&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260824102501D3C4D4424317FE8F77DB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7615141492012682502.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7615141492012682502.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 7.083,
+      "raw_payload": {
+        "aweme_id": "7615141492012682502",
+        "author_uid": "99096938240",
+        "sec_uid": "MS4wLjABAAAA2JHSnw8W1MFd7Jz1YHnCfBFzN-TUNY28Dmwli_ltbaA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA2JHSnw8W1MFd7Jz1YHnCfBFzN-TUNY28Dmwli_ltbaA"
+      }
+    },
+    "first_seen_at": "2026-08-24T10:24:36+08:00",
+    "last_seen_at": "2026-08-24T10:24:36+08:00",
+    "fetch_runs": [
+      "2026-08-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7615141492012682502.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7615141492012682502.mp3",
+      "source": "download",
+      "processed_at": "2026-08-24T10:25:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7615141492012682502",
+      "transcript_raw": "多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉补充信息：多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉关键词：花粉过敏、扩散周知、过敏、热门、花粉",
+      "transcript_clean": "多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉补充信息：多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉关键词：花粉过敏、扩散周知、过敏、热门、花粉",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-24/7615141492012682502.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7615141492012682502",
+      "summary": "爱济南新闻客户端围绕“花粉过敏”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉。多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉补充信息：多地花粉季提前来袭，“过敏星人”记得关窗、戴口罩！#花粉过敏 #扩散周知 #过敏 #热门 #花粉关键词：花粉过敏、扩散周知、过敏、热门、花粉 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "花粉过敏为什么总是做不出来结果？",
+        "先把扩散周知想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕花粉过敏组织标题与开头。",
+        "用扩散周知和过敏补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "花粉过敏",
+        "扩散周知",
+        "过敏"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-24/7615141492012682502.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "last_error": null
+  },
+  "7356820768958745875": {
+    "video_id": "7356820768958745875",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "优质公开课",
+      "video_id": "7356820768958745875",
+      "title": "认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt",
+      "publish_time": "2024-04-12T11:42:08+08:00",
+      "video_url": "https://www.douyin.com/video/7356820768958745875",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f4ae024fb0e8641848e79a9c205a16f0~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102896800&x-signature=2sMlxXQc2ZGJFER8WuIOGnkV0tk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608241025046092BD707D24289E2C1A",
+      "like_count": 118,
+      "comment_count": 7,
+      "share_count": 74,
+      "collect_count": 141,
+      "description": "认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt",
+      "text_hint": "认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt",
+      "topic_tags": [
+        "信息技术微课视频",
+        "名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b4e317c45b63ce87187dca9830f8248e/6a8bd759/video/tos/cn/tos-cn-ve-0015c800/oYQTf9BmCGxXzeV6FWQnWgiANNAbAlXoyIB6DK/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1248&bt=1248&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9w.VnSHhd.5c80l03-ApQX&mime_type=video_mp4&qs=0&rc=Nzc8aWVmM2g1NGY0ODtnN0Bpajk3eTU6ZnNkcjMzNGkzM0BeYjYyMC5jXmExXjFeYC9iYSNpaV9pcjRfbWBgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1787538304&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202608241025046092BD707D24289E2C1A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7356820768958745875.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7356820768958745875.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 425.25,
+      "raw_payload": {
+        "aweme_id": "7356820768958745875",
+        "author_uid": "4117018482841933",
+        "sec_uid": "MS4wLjABAAAAyGqg8emQ1CMyS25QfSplbbwr2Tj8RfSZu1Ayw7SCD6s32P9DQFSmkpJvpaRhtWG9",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAyGqg8emQ1CMyS25QfSplbbwr2Tj8RfSZu1Ayw7SCD6s32P9DQFSmkpJvpaRhtWG9"
+      }
+    },
+    "first_seen_at": "2026-08-24T10:24:36+08:00",
+    "last_seen_at": "2026-08-24T10:24:36+08:00",
+    "fetch_runs": [
+      "2026-08-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7356820768958745875.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7356820768958745875.mp3",
+      "source": "download",
+      "processed_at": "2026-08-24T10:27:11+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7356820768958745875",
+      "transcript_raw": "认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt补充信息：认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt关键词：信息技术微课视频、名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt",
+      "transcript_clean": "认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt补充信息：认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt关键词：信息技术微课视频、名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-24/7356820768958745875.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7356820768958745875",
+      "summary": "优质公开课围绕“信息技术微课视频”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt。认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt补充信息：认识人工智能 》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件 PPT教案#信息技术微课视频 #名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt关键词：信息技术微课视频、名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "信息技术微课视频为什么总是做不出来结果？",
+        "先把名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕信息技术微课视频组织标题与开头。",
+        "用名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt和》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "信息技术微课视频",
+        "名师优质课公开课名师新课标优质课公开课示范课（有完整视频+配套课件教案逐字稿）高中信息技术名师课堂mskt",
+        "》21sz高中信息技术微课名师优质课《认识人工智能》微课公开课教学设计微课实录课件"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-24/7356820768958745875.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "last_error": null
+  },
+  "7344165823700847911": {
+    "video_id": "7344165823700847911",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "功不唐捐",
+      "video_id": "7344165823700847911",
+      "title": "夫妻关系怎么看",
+      "publish_time": "2024-03-09T09:14:37+08:00",
+      "video_url": "https://www.douyin.com/video/7344165823700847911",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oQ9noAdCADWQQCfle7N8Dbm6IBdb8gwXmgnbAY~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102896800&x-signature=CCq8ZB5xG04vvRlSLg2e2Rsl5qw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026082410250720F09945AA756D96D8B4",
+      "like_count": 16,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "夫妻关系怎么看",
+      "text_hint": "夫妻关系怎么看",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a28fbc92505fc23d6ad890d535f96729/6a8bd6e3/video/tos/cn/tos-cn-ve-0015c800/oAbhu7dN6BA8CMeQgImvD8ABQYbgPlgdnA9rDf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=817&bt=817&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wMVnSHhd.5c80l03-ApQX&mime_type=video_mp4&qs=0&rc=NmQ5NmY4OmdkNjpmOGhpaEBpajc1NDM6ZnF1cTMzNGkzM0AyMDYxMTE2NjAxNS9jL2JgYSM0Z25vcjRfYWlgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1787538307&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026082410250720F09945AA756D96D8B4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7344165823700847911.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7344165823700847911.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 304.334,
+      "raw_payload": {
+        "aweme_id": "7344165823700847911",
+        "author_uid": "2537291283700909",
+        "sec_uid": "MS4wLjABAAAAcS9VI4jnxG9paR9gBVwAMuwRmdx2B04DVbvbnAf-YkAejjmsiKb_6BwgF3HjbN12",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAcS9VI4jnxG9paR9gBVwAMuwRmdx2B04DVbvbnAf-YkAejjmsiKb_6BwgF3HjbN12"
+      }
+    },
+    "first_seen_at": "2026-08-24T10:24:36+08:00",
+    "last_seen_at": "2026-08-24T10:24:36+08:00",
+    "fetch_runs": [
+      "2026-08-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7344165823700847911.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7344165823700847911.mp3",
+      "source": "download",
+      "processed_at": "2026-08-24T10:27:32+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7344165823700847911",
+      "transcript_raw": "夫妻关系怎么看夫妻关系怎么看补充信息：夫妻关系怎么看",
+      "transcript_clean": "夫妻关系怎么看夫妻关系怎么看补充信息：夫妻关系怎么看",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-24/7344165823700847911.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7344165823700847911",
+      "summary": "功不唐捐围绕“夫妻关系怎么看夫妻关系怎么看补充信息：夫妻关系怎么看”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "夫妻关系怎么看。夫妻关系怎么看夫妻关系怎么看补充信息：夫妻关系怎么看 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "夫妻关系怎么看夫妻关系怎么看补充信息：夫妻关系怎么看为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕夫妻关系怎么看夫妻关系怎么看补充信息：夫妻关系怎么看组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "夫妻关系怎么看夫妻关系怎么看补充信息：夫妻关系怎么看",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-24/7344165823700847911.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "last_error": null
+  },
+  "7467419696359378236": {
+    "video_id": "7467419696359378236",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7467419696359378236",
+      "title": "在抖音记录美好生活20260824",
+      "publish_time": "2026-08-24T10:25:41+08:00",
+      "video_url": "https://www.douyin.com/video/7467419696359378236",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260824",
+      "text_hint": "在抖音记录美好生活20260824",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/e02a5332-fbf0-4b07-ab97-3fd9d127783d",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7467419696359378236",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-24T10:24:36+08:00",
+    "last_seen_at": "2026-08-24T10:24:36+08:00",
+    "fetch_runs": [
+      "2026-08-24"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7095145582611680545": {
+    "video_id": "7095145582611680545",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "蓝调～",
+      "video_id": "7095145582611680545",
+      "title": "经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱",
+      "publish_time": "2022-05-08T07:49:00+08:00",
+      "video_url": "https://www.douyin.com/video/7095145582611680545",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a8e86b9cf5d8825c6e218b9fd1267fac~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102896800&x-signature=OoilBNqqSfxnlhl79NqpIsZq%2FQE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608241025174335AE6C5A4D3CACFDE5",
+      "like_count": 4988,
+      "comment_count": 87,
+      "share_count": 1934,
+      "collect_count": 578,
+      "description": "经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱",
+      "text_hint": "经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱",
+      "topic_tags": [
+        "怀旧经典影视",
+        "精彩片段",
+        "林玉英",
+        "无结局的爱"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/9e8be216d86a98ff6f91e24aabef8724/6a8bd687/video/tos/cn/tos-cn-ve-0015c800/55765bb44d834f78a8a933e16c46e6fd/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1463&bt=1463&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w8VnSHhd.5c80l03-ApQX&mime_type=video_mp4&qs=0&rc=OWVoNTpoZDM0aGk6ZDxmOEBpanc4bDw6ZjZqPDMzNGkzM0AuNTIxXy1jNi4xXmAuLWA2YSNgb24xcjRfX29gLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100B_100D_102u_100o_100w&dy_q=1787538317&l=202608241025174335AE6C5A4D3CACFDE5",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7095145582611680545.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7095145582611680545.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 202.618,
+      "raw_payload": {
+        "aweme_id": "7095145582611680545",
+        "author_uid": "93394613029",
+        "sec_uid": "MS4wLjABAAAA0Nc3lF2Sn4WpnsJW3PSO1UHaqGUBrNJxOQUR1B2sybo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA0Nc3lF2Sn4WpnsJW3PSO1UHaqGUBrNJxOQUR1B2sybo"
+      }
+    },
+    "first_seen_at": "2026-08-24T10:24:36+08:00",
+    "last_seen_at": "2026-08-24T10:24:36+08:00",
+    "fetch_runs": [
+      "2026-08-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7095145582611680545.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7095145582611680545.mp3",
+      "source": "download",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7095145582611680545",
+      "transcript_raw": "经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱补充信息：经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱关键词：怀旧经典影视、精彩片段、林玉英、无结局的爱",
+      "transcript_clean": "经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱补充信息：经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱关键词：怀旧经典影视、精彩片段、林玉英、无结局的爱",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-24/7095145582611680545.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7095145582611680545",
+      "summary": "蓝调～围绕“怀旧经典影视”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱。经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱补充信息：经典老歌！林玉英一首《无结局的爱》旋律动听，老歌百听不厌 #怀旧经典影视 #精彩片段  #林玉英 #无结局的爱关键词：怀旧经典影视、精彩片段、林玉英、无结局的爱 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "怀旧经典影视为什么总是做不出来结果？",
+        "先把精彩片段想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕怀旧经典影视组织标题与开头。",
+        "用精彩片段和林玉英补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "怀旧经典影视",
+        "精彩片段",
+        "林玉英"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-24/7095145582611680545.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "last_error": null
+  },
+  "7426772001085279503": {
+    "video_id": "7426772001085279503",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "格斗",
+      "video_id": "7426772001085279503",
+      "title": "如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？",
+      "publish_time": "2024-10-17T23:48:36+08:00",
+      "video_url": "https://www.douyin.com/video/7426772001085279503",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/ooaeEAAFqIh089Ag5PAEVFQTJmM7Df0BCdSnYR~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102896800&x-signature=M%2F%2FsUFQ1maP%2B5RNp3qfwfwo51Jc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608241025200AD88C5E1A00A6C7C187",
+      "like_count": 287,
+      "comment_count": 27,
+      "share_count": 54,
+      "collect_count": 81,
+      "description": "如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？",
+      "text_hint": "如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/55f19fd553a6e3c55f37074022300955/6a8bd70e/video/tos/cn/tos-cn-ve-0015c800/oYfnQq9QAsDEaRwENMFF7Q6gAmeYIgB0TVgC5A/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=758&bt=758&cs=0&ds=6&ft=CZdgCYlIDyjNNRVQ9w0VnSHhd.5c80l03-ApQX&mime_type=video_mp4&qs=0&rc=ZDU1ZzozZmZnNDU6ZGY2Z0BpamRvZXQ5cnhtdjMzNGkzM0BeLmNhNS5gXjUxNWM0LzMyYSNtXi5iMmRzLzVgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1787538320&feature_id=aa7df520beeae8e397df15f38df0454c&l=202608241025200AD88C5E1A00A6C7C187",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7426772001085279503.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7426772001085279503.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 334.0,
+      "raw_payload": {
+        "aweme_id": "7426772001085279503",
+        "author_uid": "92780395807",
+        "sec_uid": "MS4wLjABAAAA_d9w9Pe1z6SWyIa7cPdN6PdjWTsSBi0EBB96vrjfjNA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA_d9w9Pe1z6SWyIa7cPdN6PdjWTsSBi0EBB96vrjfjNA"
+      }
+    },
+    "first_seen_at": "2026-08-24T10:24:36+08:00",
+    "last_seen_at": "2026-08-24T10:24:36+08:00",
+    "fetch_runs": [
+      "2026-08-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7426772001085279503.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7426772001085279503.mp3",
+      "source": "download",
+      "processed_at": "2026-08-24T10:26:32+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7426772001085279503",
+      "transcript_raw": "如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？补充信息：如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？",
+      "transcript_clean": "如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？补充信息：如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-24/7426772001085279503.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7426772001085279503",
+      "summary": "格斗围绕“如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？补充信息：如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？。如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？补充信息：如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？补充信息：如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？补充信息：如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪？补充信息：如果没有外滩的那一次演讲，会不会就不是现在的局面，每个人的一天都是24小时，所以哪",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-24/7426772001085279503.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "last_error": null
+  },
+  "7441779383200714022": {
+    "video_id": "7441779383200714022",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7441779383200714022",
+      "title": "青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材",
+      "publish_time": "2024-11-27T02:25:00+08:00",
+      "video_url": "https://www.douyin.com/video/7441779383200714022",
+      "cover_url": "",
+      "like_count": 561,
+      "comment_count": 35,
+      "share_count": 68,
+      "collect_count": 11,
+      "description": "青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材",
+      "text_hint": "青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材",
+      "topic_tags": [
+        "张飞",
+        "途游斗地主",
+        "斗地主",
+        "直播素材"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/df6a850580a5a3c0c8766dc4b402bfc2/6a8bd6d1/video/tos/cn/tos-cn-ve-0015c800/ocg2ffRafkZpYeYWEA4QurA0BqgX5z2LCgGdGD/?a=6383&br=918&bt=918&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1787538336&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wKVnSHhd.5c80l03-ApQX&is_ssr=1&l=20260824102536E8C78B481798D42A2164&lr=all&mime_type=video_mp4&qs=12&rc=ZDk0N2hoZGlmMzs4NGU2OUBpMzh5cXU5cjs7dzMzNGkzM0AvMDRfM2BjXzMxLmNhYV8tYSNuXzZyMmRrMjBgLS1kLWFzcw%3D%3D&__vid=7441779383200714022",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7441779383200714022.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7441779383200714022.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7441779383200714022",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-24T10:24:36+08:00",
+    "last_seen_at": "2026-08-24T10:24:36+08:00",
+    "fetch_runs": [
+      "2026-08-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7441779383200714022.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-24/7441779383200714022.mp3",
+      "source": "download",
+      "processed_at": "2026-08-24T10:26:11+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7441779383200714022",
+      "transcript_raw": "青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材补充信息：青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材关键词：张飞、途游斗地主、斗地主、直播素材",
+      "transcript_clean": "青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材补充信息：青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材关键词：张飞、途游斗地主、斗地主、直播素材",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-24/7441779383200714022.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "analysis": {
+      "video_id": "7441779383200714022",
+      "summary": "知雪围绕“张飞”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材。青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材补充信息：青春小步走一走，来手十倍有没有#张飞 #途游斗地主 #斗地主 #直播素材关键词：张飞、途游斗地主、斗地主、直播素材 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "张飞为什么总是做不出来结果？",
+        "先把途游斗地主想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕张飞组织标题与开头。",
+        "用途游斗地主和斗地主补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "张飞",
+        "途游斗地主",
+        "斗地主"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-24/7441779383200714022.json",
+      "processed_at": "2026-08-24T10:27:52+08:00"
+    },
+    "last_error": null
   }
 }
