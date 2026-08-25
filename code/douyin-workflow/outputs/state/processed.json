@@ -33837,5 +33837,371 @@
       "processed_at": "2026-08-24T10:27:52+08:00"
     },
     "last_error": null
+  },
+  "7575346505423260974": {
+    "video_id": "7575346505423260974",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7575346505423260974",
+      "title": "在抖音记录美好生活20260825",
+      "publish_time": "2026-08-25T10:22:37+08:00",
+      "video_url": "https://www.douyin.com/video/7575346505423260974",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260825",
+      "text_hint": "在抖音记录美好生活20260825",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/9ec7404f-6c55-4f34-8ef2-3b40196ae565",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7575346505423260974",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-25T10:21:13+08:00",
+    "last_seen_at": "2026-08-25T10:21:13+08:00",
+    "fetch_runs": [
+      "2026-08-25"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7267396751974223143": {
+    "video_id": "7267396751974223143",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7267396751974223143",
+      "title": "8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场",
+      "publish_time": "2023-08-15T04:11:00+08:00",
+      "video_url": "https://www.douyin.com/video/7267396751974223143",
+      "cover_url": "",
+      "like_count": 528,
+      "comment_count": 280,
+      "share_count": 127,
+      "collect_count": 166,
+      "description": "8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场",
+      "text_hint": "8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场",
+      "topic_tags": [
+        "旧货市场",
+        "二手市场",
+        "好物推荐🔥",
+        "同城发现",
+        "同城热门"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/uuu_265.mp4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-25/7267396751974223143.mp4",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7267396751974223143",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-25T10:21:13+08:00",
+    "last_seen_at": "2026-08-25T10:21:13+08:00",
+    "fetch_runs": [
+      "2026-08-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-25/7267396751974223143.mp4",
+      "audio_path": "",
+      "source": "download",
+      "processed_at": "2026-08-25T10:22:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7267396751974223143",
+      "transcript_raw": "8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场补充信息：8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场关键词：旧货市场、二手市场、好物推荐🔥、同城发现、同城热门",
+      "transcript_clean": "8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场补充信息：8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场关键词：旧货市场、二手市场、好物推荐🔥、同城发现、同城热门",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-25/7267396751974223143.json",
+      "processed_at": "2026-08-25T10:22:43+08:00"
+    },
+    "analysis": {
+      "video_id": "7267396751974223143",
+      "summary": "知雪围绕“旧货市场”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场。8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场补充信息：8月15号#旧货市场 #二手市场 #好物推荐🔥 #同城发现 #同城热门 @梓潼全鑫购二手市场关键词：旧货市场、二手市场、好物推荐🔥、同城发现、同城热门 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "旧货市场为什么总是做不出来结果？",
+        "先把二手市场想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕旧货市场组织标题与开头。",
+        "用二手市场和好物推荐🔥补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "旧货市场",
+        "二手市场",
+        "好物推荐🔥"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-25/7267396751974223143.json",
+      "processed_at": "2026-08-25T10:22:43+08:00"
+    },
+    "last_error": null
+  },
+  "7273365005863505152": {
+    "video_id": "7273365005863505152",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小刘讲视频编码器",
+      "video_id": "7273365005863505152",
+      "title": "迷你解码器解码网络摄像机HDMI输出USB播放器#网络摄像机解码 #直播解码 #播放器",
+      "publish_time": "2023-08-31T14:11:35+08:00",
+      "video_url": "https://www.douyin.com/video/7273365005863505152",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8dfa4a482552d57e77c061c9118bc6b7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102983200&x-signature=EmVy1OHPnBaTl%2FdGkn5DIVED4w8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608251021595C485AC7E21B1E87FB07",
+      "like_count": 44,
+      "comment_count": 5,
+      "share_count": 7,
+      "collect_count": 27,
+      "description": "迷你解码器解码网络摄像机HDMI输出USB播放器#网络摄像机解码 #直播解码 #播放器",
+      "text_hint": "迷你解码器解码网络摄像机HDMI输出USB播放器#网络摄像机解码 #直播解码 #播放器",
+      "topic_tags": [
+        "网络摄像机解码",
+        "直播解码",
+        "播放器"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/62dbf39e9abe6c4c9639fee5c746acf6/6a8d2811/video/tos/cn/tos-cn-ve-15c001-alinc2/ogVwQcgRDxnA8D78CgBQfkL6a79A9AAfgY5tbL/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=299&bt=299&cs=0&ds=3&ft=4rzAgkIKDDdNoaVQ9w3NyPHhd.xISD_R3-ApQX&mime_type=video_mp4&qs=0&rc=PGk1aDM7PGdmNjY5OGhpM0BpM3V2bzk6ZmY1bTMzNGkzM0BfXjBgXy9eNjUxL2IwMGE1YSNeMi1rcjRfcWxgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100H_100K_100o_100w_100B&dy_q=1787624519&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202608251021595C485AC7E21B1E87FB07",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 410.767,
+      "raw_payload": {
+        "aweme_id": "7273365005863505152",
+        "author_uid": "3993905431583933",
+        "sec_uid": "MS4wLjABAAAA8JSkEKn4O9bjlD5vNzCQ4d5ySoh7Pl_BgTplaaLVyqgfgaxOBfTHc3Mgr8gLRem0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA8JSkEKn4O9bjlD5vNzCQ4d5ySoh7Pl_BgTplaaLVyqgfgaxOBfTHc3Mgr8gLRem0"
+      }
+    },
+    "first_seen_at": "2026-08-25T10:21:13+08:00",
+    "last_seen_at": "2026-08-25T10:21:13+08:00",
+    "fetch_runs": [
+      "2026-08-25"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7556460802555825460": {
+    "video_id": "7556460802555825460",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7556460802555825460",
+      "title": "在抖音记录美好生活20260825",
+      "publish_time": "2026-08-25T10:22:37+08:00",
+      "video_url": "https://www.douyin.com/video/7556460802555825460",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260825",
+      "text_hint": "在抖音记录美好生活20260825",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/83784418-30e2-4bb9-8dce-16e9aa19aea8",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7556460802555825460",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-25T10:21:13+08:00",
+    "last_seen_at": "2026-08-25T10:21:13+08:00",
+    "fetch_runs": [
+      "2026-08-25"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7531792237912247602": {
+    "video_id": "7531792237912247602",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "Route 12 Express",
+      "video_id": "7531792237912247602",
+      "title": "辉煌不再！最终截止在纯电车！作为最后末班车，必须录上11pov\n作为一条陪伴着不少肇庆人成长，不少端中学生每天通勤线路，自从疫情过后，11路车平峰期客流一度减少，成为运凳专线，跑一趟也没能坐满，最终还是因亏本浪费资源等原因撤销了！#肇庆巴士#肇庆",
+      "publish_time": "2025-07-28T08:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7531792237912247602",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ce25de32b719b01287b3580ed4467973~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102983200&x-signature=A7ULLqxGIt%2B1SJiZN1csRcvtwyA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608251022128B5E8654CDC0D4863323",
+      "like_count": 452,
+      "comment_count": 84,
+      "share_count": 223,
+      "collect_count": 83,
+      "description": "辉煌不再！最终截止在纯电车！作为最后末班车，必须录上11pov\n作为一条陪伴着不少肇庆人成长，不少端中学生每天通勤线路，自从疫情过后，11路车平峰期客流一度减少，成为运凳专线，跑一趟也没能坐满，最终还是因亏本浪费资源等原因撤销了！#肇庆巴士#肇庆",
+      "text_hint": "辉煌不再！最终截止在纯电车！作为最后末班车，必须录上11pov\n作为一条陪伴着不少肇庆人成长，不少端中学生每天通勤线路，自从疫情过后，11路车平峰期客流一度减少，成为运凳专线，跑一趟也没能坐满，最终还是因亏本浪费资源等原因撤销了！#肇庆巴士#肇庆",
+      "topic_tags": [
+        "肇庆巴士",
+        "肇庆"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/f4574bdb17aa5ec24dee20d535d1c07c/6a8d2790/video/tos/cn/tos-cn-ve-15/o8yAAQSC2EAyWWxDeGTVHKSxIgsC8B4S0IKeS9/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4588&bt=4588&cs=0&ds=4&ft=4rzAgkIKDDdNoaVQ9w1NyPHhd.xISD_R3-ApQX&mime_type=video_mp4&qs=0&rc=ZjNpOjNmOzU1OzU7O2Q0N0BpM3BvMzRrbzw3NTMzNGkzM0BiXzJfXjBjXy8xYzYtYDAxYSMxcGBjcWcvaTBhLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1787624532&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202608251022128B5E8654CDC0D4863323",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 268.284,
+      "raw_payload": {
+        "aweme_id": "7531792237912247602",
+        "author_uid": "111409928595",
+        "sec_uid": "MS4wLjABAAAAhHY2Muw0FQt78MxhffsTkCfx2nwGldJWjNQCmW8pIy8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhHY2Muw0FQt78MxhffsTkCfx2nwGldJWjNQCmW8pIy8"
+      }
+    },
+    "first_seen_at": "2026-08-25T10:21:13+08:00",
+    "last_seen_at": "2026-08-25T10:21:13+08:00",
+    "fetch_runs": [
+      "2026-08-25"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7274474472181140747": {
+    "video_id": "7274474472181140747",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "子游在叙利亚",
+      "video_id": "7274474472181140747",
+      "title": "来莫斯科钱花不了了...........#你在抖音搜什么  #出游季 #出游季节",
+      "publish_time": "2023-09-03T13:56:25+08:00",
+      "video_url": "https://www.douyin.com/video/7274474472181140747",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c17b9e2b447bd73804cdcc7a0f2a8dfd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2102983200&x-signature=KsnEjHisPg2pZSxDtY%2FoJ96Txys%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260825102215108950DB5D2DA83AC4E6",
+      "like_count": 114,
+      "comment_count": 75,
+      "share_count": 42,
+      "collect_count": 19,
+      "description": "来莫斯科钱花不了了...........#你在抖音搜什么  #出游季 #出游季节",
+      "text_hint": "来莫斯科钱花不了了...........#你在抖音搜什么  #出游季 #出游季节",
+      "topic_tags": [
+        "你在抖音搜什么",
+        "出游季",
+        "出游季节"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/311bc8a8d4b7d72bda03a3ec3face5c4/6a8d27ea/video/tos/cn/tos-cn-ve-0015c800/o0Yo9BcfkgNUAVAcQB98PfIDRlnBPKASPgbvWo/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=485&bt=485&cs=0&ds=3&ft=4rzAgkIKDDdNoaVQ9wONyPHhd.xISD_R3-ApQX&mime_type=video_mp4&qs=0&rc=NWY2PGhkZWc6PDY8N2Q0OEBpajk4eDo6ZjY0bTMzNGkzM0A0Yl5jXjUuXzYxYDBeNF5jYSMwNmUucjRvMW5gLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100H_100K&dy_q=1787624535&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260825102215108950DB5D2DA83AC4E6",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 355.452,
+      "raw_payload": {
+        "aweme_id": "7274474472181140747",
+        "author_uid": "72768267610",
+        "sec_uid": "MS4wLjABAAAA6Ju-4W2HrtC_deT6jZTkRJwBd0VsSAEAaaxvYNPLiRQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA6Ju-4W2HrtC_deT6jZTkRJwBd0VsSAEAaaxvYNPLiRQ"
+      }
+    },
+    "first_seen_at": "2026-08-25T10:21:13+08:00",
+    "last_seen_at": "2026-08-25T10:21:13+08:00",
+    "fetch_runs": [
+      "2026-08-25"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7374205530585189683": {
+    "video_id": "7374205530585189683",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7374205530585189683",
+      "title": "#凤凰传奇版海底雨中封神 #曾毅 拽住你，一起重生！拉着你，必须向前！曾毅的力与量暴击灵魂 冲刷过往！一切都来得及！#凤凰传奇演唱会郑州站 #海底 #凤凰传奇就是适合我这种唱",
+      "publish_time": "2024-05-29T00:03:00+08:00",
+      "video_url": "https://www.douyin.com/video/7374205530585189683",
+      "cover_url": "",
+      "like_count": 6616,
+      "comment_count": 630,
+      "share_count": 547,
+      "collect_count": 381,
+      "description": "#凤凰传奇版海底雨中封神 #曾毅 拽住你，一起重生！拉着你，必须向前！曾毅的力与量暴击灵魂 冲刷过往！一切都来得及！#凤凰传奇演唱会郑州站 #海底 #凤凰传奇就是适合我这种唱",
+      "text_hint": "#凤凰传奇版海底雨中封神 #曾毅 拽住你，一起重生！拉着你，必须向前！曾毅的力与量暴击灵魂 冲刷过往！一切都来得及！#凤凰传奇演唱会郑州站 #海底 #凤凰传奇就是适合我这种唱",
+      "topic_tags": [
+        "凤凰传奇版海底雨中封神",
+        "曾毅",
+        "凤凰传奇演唱会郑州站",
+        "海底",
+        "凤凰传奇就是适合我这种唱"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/aa48b01f-7bc1-49fc-a283-8d5b34c8e301",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7374205530585189683",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-25T10:21:13+08:00",
+    "last_seen_at": "2026-08-25T10:21:13+08:00",
+    "fetch_runs": [
+      "2026-08-25"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
