@@ -34203,5 +34203,633 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7677950565725654242": {
+    "video_id": "7677950565725654242",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "梦在树仁",
+      "video_id": "7677950565725654242",
+      "title": "军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校",
+      "publish_time": "2026-08-25T20:49:33+08:00",
+      "video_url": "https://www.douyin.com/video/7677950565725654242",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/o4iHnnBsEiAeI6CjlAiCAjAAA9Ygf9jNqz1CgV~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103069600&x-signature=cVAYdL3GKsy5QK9IwJqbc4pSrUw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260826102731D2FA473D27D723171B2F",
+      "like_count": 10,
+      "comment_count": 0,
+      "share_count": 3,
+      "collect_count": 2,
+      "description": "军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校",
+      "text_hint": "军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校",
+      "topic_tags": [
+        "军训里的温暖瞬间",
+        "蜜雪冰城",
+        "亳州树仁技工学校"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4d65475616016decec3944a7c124ec9e/6a8e795d/video/tos/cn/tos-cn-ve-15/oc2kQyLyfiEZpWkNBgGAIyG577VAjCaBHxIfeF/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1222&bt=1222&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wkhKPHhd.7_4-573-ApQX&mime_type=video_mp4&qs=0&rc=OzNpOzNoOmQ1ZmllZGg3ZkBpamV5aHg5cm1yZDMzNGkzM0AvMl8vYV5fXy8xMl80MDNhYSNgMTJjMmQ0cDNhLS1kLS9zcw%3D%3D&btag=c0000e00010000&cquery=100w_100E_100x_100z_100o&dy_q=1787711251&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260826102731D2FA473D27D723171B2F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7677950565725654242.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7677950565725654242.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 26.734,
+      "raw_payload": {
+        "aweme_id": "7677950565725654242",
+        "author_uid": "793172840809497",
+        "sec_uid": "MS4wLjABAAAA2ubfijDTdH3lW0cVg2j3LdW2pV49MhtH8r1yPeWVHsk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA2ubfijDTdH3lW0cVg2j3LdW2pV49MhtH8r1yPeWVHsk"
+      }
+    },
+    "first_seen_at": "2026-08-26T10:27:08+08:00",
+    "last_seen_at": "2026-08-26T10:27:08+08:00",
+    "fetch_runs": [
+      "2026-08-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7677950565725654242.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7677950565725654242.mp3",
+      "source": "download",
+      "processed_at": "2026-08-26T10:28:35+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7677950565725654242",
+      "transcript_raw": "军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校补充信息：军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校关键词：军训里的温暖瞬间、蜜雪冰城、亳州树仁技工学校",
+      "transcript_clean": "军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校补充信息：军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校关键词：军训里的温暖瞬间、蜜雪冰城、亳州树仁技工学校",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-26/7677950565725654242.json",
+      "processed_at": "2026-08-26T10:31:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7677950565725654242",
+      "summary": "梦在树仁围绕“军训里的温暖瞬间”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校。军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校补充信息：军训期间还发蜜雪冰城，而且还是董事长和校长亲自发，这是哪个学校？#军训里的温暖瞬间 #蜜雪冰城 #亳州树仁技工学校关键词：军训里的温暖瞬间、蜜雪冰城、亳州树仁技工学校 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "军训里的温暖瞬间为什么总是做不出来结果？",
+        "先把蜜雪冰城想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕军训里的温暖瞬间组织标题与开头。",
+        "用蜜雪冰城和亳州树仁技工学校补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "军训里的温暖瞬间",
+        "蜜雪冰城",
+        "亳州树仁技工学校"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-26/7677950565725654242.json",
+      "processed_at": "2026-08-26T10:31:11+08:00"
+    },
+    "last_error": null
+  },
+  "7622643191112402806": {
+    "video_id": "7622643191112402806",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7622643191112402806",
+      "title": "在抖音记录美好生活20260826",
+      "publish_time": "2026-08-26T10:28:32+08:00",
+      "video_url": "https://www.douyin.com/video/7622643191112402806",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260826",
+      "text_hint": "在抖音记录美好生活20260826",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c4a59c91-ceb5-4303-9856-bece47a88d07",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7622643191112402806",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-26T10:27:08+08:00",
+    "last_seen_at": "2026-08-26T10:27:08+08:00",
+    "fetch_runs": [
+      "2026-08-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7174020181683899688": {
+    "video_id": "7174020181683899688",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "赞哥EXCEL教学",
+      "video_id": "7174020181683899688",
+      "title": "第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧",
+      "publish_time": "2022-12-06T21:02:23+08:00",
+      "video_url": "https://www.douyin.com/video/7174020181683899688",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/010e80e7184b700d6db58d09ecffc237~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103069600&x-signature=NS831zcN7eRPjlDhT57D48lPHbk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260826102741C36C01E1F954CAF760D8",
+      "like_count": 6990,
+      "comment_count": 185,
+      "share_count": 833,
+      "collect_count": 5441,
+      "description": "第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧",
+      "text_hint": "第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧",
+      "topic_tags": [
+        "excel",
+        "index",
+        "match函数",
+        "vlookup",
+        "办公软件技巧",
+        "INDEX",
+        "VLOOKUP"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c5c2c4be23d11a935f394d0d37dc5af8/6a8e7a91/video/tos/cn/tos-cn-ve-15/oo5jNfzDeAAKRUvmAEhIK5BApQGgnLVXxxtNCP/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=549&bt=549&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wQhKPHhd.7_4-573-ApQX&mime_type=video_mp4&qs=0&rc=Ojk0Ojw2NDY0NjRoOGU3NUBpajV2bGU6Zm1taDMzNGkzM0BeMjRhY2MyXl8xLjAuYjMtYSMzYGZlcjRfbTRgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1787711261&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=20260826102741C36C01E1F954CAF760D8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7174020181683899688.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7174020181683899688.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 324.035,
+      "raw_payload": {
+        "aweme_id": "7174020181683899688",
+        "author_uid": "2608474208076507",
+        "sec_uid": "MS4wLjABAAAAgSh-EDubKEJcCf69qKx0ilY24WfnIC2Q8ZrLS-_J4M-ixggUb2ZIdeD6bJhXwpru",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAgSh-EDubKEJcCf69qKx0ilY24WfnIC2Q8ZrLS-_J4M-ixggUb2ZIdeD6bJhXwpru"
+      }
+    },
+    "first_seen_at": "2026-08-26T10:27:08+08:00",
+    "last_seen_at": "2026-08-26T10:27:08+08:00",
+    "fetch_runs": [
+      "2026-08-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7174020181683899688.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7174020181683899688.mp3",
+      "source": "download",
+      "processed_at": "2026-08-26T10:29:56+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7174020181683899688",
+      "transcript_raw": "第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧补充信息：第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧关键词：excel、index、match函数、vlookup、办公软件技巧、INDEX、VLOOKUP",
+      "transcript_clean": "第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧补充信息：第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧关键词：excel、index、match函数、vlookup、办公软件技巧、INDEX、VLOOKUP",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-26/7174020181683899688.json",
+      "processed_at": "2026-08-26T10:31:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7174020181683899688",
+      "summary": "赞哥EXCEL教学围绕“excel”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧。第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧补充信息：第70集 | INDEX+MATCH最佳查找组合，多条件反向错列查找数据，不再怕没有XLOOKUP函数。#excel #INDEX #match函数 #VLOOKUP #办公软件技巧关键词：excel、index、match函数、vlookup、办公软件技巧、INDEX、VLOOKUP 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "excel为什么总是做不出来结果？",
+        "先把index想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕excel组织标题与开头。",
+        "用index和match函数补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "excel",
+        "index",
+        "match函数"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-26/7174020181683899688.json",
+      "processed_at": "2026-08-26T10:31:11+08:00"
+    },
+    "last_error": null
+  },
+  "7137861985106005255": {
+    "video_id": "7137861985106005255",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "西安仟悦数码装机",
+      "video_id": "7137861985106005255",
+      "title": "低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机",
+      "publish_time": "2022-08-31T10:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7137861985106005255",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2175230bdbfdabd4d875f78f1c975299~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103069600&x-signature=RMItg3KVTNb8pUZCYiVDRR7BnAs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260826102744C8A5B6EEDABB9267EE13",
+      "like_count": 37,
+      "comment_count": 4,
+      "share_count": 3,
+      "collect_count": 8,
+      "description": "低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机",
+      "text_hint": "低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机",
+      "topic_tags": [
+        "diy电脑",
+        "电脑主机"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c80a39b6b747d45c6a9dcb66487f36d1/6a8e7b73/video/tos/cn/tos-cn-ve-0015c800/ed7c4f5f252b4269b57e2d354dfdfe0f/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1455&bt=1455&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wKhKPHhd.7_4-573-ApQX&mime_type=video_mp4&qs=0&rc=Z2U1ZzhkNTVnODs7NDk2ZUBpM3N2aTs6ZmhmZjMzNGkzM0BgNi5jYWJiXmMxYGJhNGBiYSMxYzUxcjRvYzRgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100D_100J_100o&dy_q=1787711264&l=20260826102744C8A5B6EEDABB9267EE13",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7137861985106005255.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7137861985106005255.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 547.62,
+      "raw_payload": {
+        "aweme_id": "7137861985106005255",
+        "author_uid": "51864437267",
+        "sec_uid": "MS4wLjABAAAAC3jXNMBFHnLDWzg3_052hbWKrmNs65w-C9t0EsFFmNI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAC3jXNMBFHnLDWzg3_052hbWKrmNs65w-C9t0EsFFmNI"
+      }
+    },
+    "first_seen_at": "2026-08-26T10:27:08+08:00",
+    "last_seen_at": "2026-08-26T10:27:08+08:00",
+    "fetch_runs": [
+      "2026-08-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7137861985106005255.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7137861985106005255.mp3",
+      "source": "download",
+      "processed_at": "2026-08-26T10:31:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7137861985106005255",
+      "transcript_raw": "低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机补充信息：低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机关键词：diy电脑、电脑主机",
+      "transcript_clean": "低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机补充信息：低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机关键词：diy电脑、电脑主机",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-26/7137861985106005255.json",
+      "processed_at": "2026-08-26T10:31:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7137861985106005255",
+      "summary": "西安仟悦数码装机围绕“diy电脑”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机。低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机补充信息：低调的机箱装上不低调的配置！2.1W 12700K+3080火神 P600S！ #diy电脑 #电脑主机关键词：diy电脑、电脑主机 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "diy电脑为什么总是做不出来结果？",
+        "先把电脑主机想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕diy电脑组织标题与开头。",
+        "用电脑主机和12700K+3080火神补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "diy电脑",
+        "电脑主机",
+        "12700K+3080火神"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-26/7137861985106005255.json",
+      "processed_at": "2026-08-26T10:31:11+08:00"
+    },
+    "last_error": null
+  },
+  "7575899639170676453": {
+    "video_id": "7575899639170676453",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7575899639170676453",
+      "title": "悔没早知道！公务员最好岗位排名，税务局/财政局上榜#家长必读 #分享 #家长必读 #每天跟我涨知识 #高考",
+      "publish_time": "2025-11-23T12:39:00+08:00",
+      "video_url": "https://www.douyin.com/video/7575899639170676453",
+      "cover_url": "",
+      "like_count": 5,
+      "comment_count": 0,
+      "share_count": 2,
+      "collect_count": 0,
+      "description": "悔没早知道！公务员最好岗位排名，税务局/财政局上榜#家长必读 #分享 #家长必读 #每天跟我涨知识 #高考",
+      "text_hint": "悔没早知道！公务员最好岗位排名，税务局/财政局上榜#家长必读 #分享 #家长必读 #每天跟我涨知识 #高考",
+      "topic_tags": [
+        "家长必读",
+        "分享",
+        "每天跟我涨知识",
+        "高考"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a2ea57fa-ed4b-4497-8be2-c6d70d55e2a0",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7575899639170676453",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-26T10:27:08+08:00",
+    "last_seen_at": "2026-08-26T10:27:08+08:00",
+    "fetch_runs": [
+      "2026-08-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7168053283607547174": {
+    "video_id": "7168053283607547174",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "CR7小球童",
+      "video_id": "7168053283607547174",
+      "title": "很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校",
+      "publish_time": "2022-11-20T19:07:47+08:00",
+      "video_url": "https://www.douyin.com/video/7168053283607547174",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/72f0800c06c6c1b824ad65d94df5bf96~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103069600&x-signature=wimNV%2FNDoYO9uwLLBeA45xf7yc4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608261028087EEFB03E6622E41C4701",
+      "like_count": 28,
+      "comment_count": 13,
+      "share_count": 17,
+      "collect_count": 3,
+      "description": "很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校",
+      "text_hint": "很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校",
+      "topic_tags": [
+        "校园足球",
+        "大众工业学校",
+        "上海市现代流通学校",
+        "上海市浦东外事服务学校"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/d7c6c83b4688907c07477b5cfde900a4/6a8e7a2e/video/cn/mps/realtime/v1/r/p/v0300fg10000cdt0hm3c77u0o3g12jr0/82c575aca5ea43d595d92dd01f018dc5/b08facd475ee16ac743eda77f1f1ef96/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=655&bt=655&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNbRVQ9wbhKPHhd.7_4-573-ApQX&mime_type=video_mp4&qs=0&rc=OGc0aTNnPDg4NmQ4Zjg4NUBpM200NjM6ZnAzZzMzNGkzM0BgNS0uYS9hNmExYl5eNGA1YSNvL2RscjQwZXFgLS1kLTBzcw%3D%3D&btag=80000e00028000&codec=h264&cquery=100w_100B_100x_100z_100o&definition=720p&dy_q=1787711288&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7168053283607547174&l=202608261028087EEFB03E6622E41C4701&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7168053283607547174.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7168053283607547174.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 198.392,
+      "raw_payload": {
+        "aweme_id": "7168053283607547174",
+        "author_uid": "101501809828",
+        "sec_uid": "MS4wLjABAAAAbrAGh8XbWTEMZyE3kF2GgcP8YZFZKj74F1MjGu_doW4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAbrAGh8XbWTEMZyE3kF2GgcP8YZFZKj74F1MjGu_doW4"
+      }
+    },
+    "first_seen_at": "2026-08-26T10:27:08+08:00",
+    "last_seen_at": "2026-08-26T10:27:08+08:00",
+    "fetch_runs": [
+      "2026-08-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7168053283607547174.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7168053283607547174.mp3",
+      "source": "download",
+      "processed_at": "2026-08-26T10:30:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7168053283607547174",
+      "transcript_raw": "很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校补充信息：很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校关键词：校园足球、大众工业学校、上海市现代流通学校、上海市浦东外事服务学校",
+      "transcript_clean": "很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校补充信息：很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校关键词：校园足球、大众工业学校、上海市现代流通学校、上海市浦东外事服务学校",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-26/7168053283607547174.json",
+      "processed_at": "2026-08-26T10:31:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7168053283607547174",
+      "summary": "CR7小球童围绕“校园足球”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校。很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校补充信息：很遗憾，今年还是输给浦东外事，就差那么一点点#校园足球 #大众工业学校 #上海市现代流通学校 #上海市浦东外事服务学校关键词：校园足球、大众工业学校、上海市现代流通学校、上海市浦东外事服务学校 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "校园足球为什么总是做不出来结果？",
+        "先把大众工业学校想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕校园足球组织标题与开头。",
+        "用大众工业学校和上海市现代流通学校补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "校园足球",
+        "大众工业学校",
+        "上海市现代流通学校"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-26/7168053283607547174.json",
+      "processed_at": "2026-08-26T10:31:11+08:00"
+    },
+    "last_error": null
+  },
+  "7415936782178536723": {
+    "video_id": "7415936782178536723",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "海南麦玲",
+      "video_id": "7415936782178536723",
+      "title": "台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活",
+      "publish_time": "2024-09-18T19:02:30+08:00",
+      "video_url": "https://www.douyin.com/video/7415936782178536723",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/21970aafa243df5c7506805f20c85b13~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103069600&x-signature=OasJSiAtD9hzGprVTr5HVRsyRg4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608261028115F6EE05E04B1A2CA7905",
+      "like_count": 827,
+      "comment_count": 94,
+      "share_count": 69,
+      "collect_count": 57,
+      "description": "台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活",
+      "text_hint": "台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活",
+      "topic_tags": [
+        "记录乡村真实生活"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d15572cc7e15c7d91d676da4614c8d36/6a8e7a58/video/tos/cn/tos-cn-ve-0015c800/o83e2divlv4hDqDyAnkwwggIBfAniARD9BZzVE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3850&bt=3850&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9w4hKPHhd.7_4-573-ApQX&mime_type=video_mp4&qs=0&rc=aGU3M2c6NjQzOmU1ODc8O0BpajZxPHA5cnJldTMzNGkzM0BiMy00MF5iXjExMDFgLV42YSNvbnBwMmRjMWlgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1787711291&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202608261028115F6EE05E04B1A2CA7905",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7415936782178536723.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7415936782178536723.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 237.028,
+      "raw_payload": {
+        "aweme_id": "7415936782178536723",
+        "author_uid": "108093474529",
+        "sec_uid": "MS4wLjABAAAAmjhWwNtOKbd2T9lSTetDGI9F8ZWMwsTJ-ekNvwmCHVs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAmjhWwNtOKbd2T9lSTetDGI9F8ZWMwsTJ-ekNvwmCHVs"
+      }
+    },
+    "first_seen_at": "2026-08-26T10:27:08+08:00",
+    "last_seen_at": "2026-08-26T10:27:08+08:00",
+    "fetch_runs": [
+      "2026-08-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7415936782178536723.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7415936782178536723.mp3",
+      "source": "download",
+      "processed_at": "2026-08-26T10:29:40+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7415936782178536723",
+      "transcript_raw": "台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活补充信息：台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活关键词：记录乡村真实生活",
+      "transcript_clean": "台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活补充信息：台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活关键词：记录乡村真实生活",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-26/7415936782178536723.json",
+      "processed_at": "2026-08-26T10:31:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7415936782178536723",
+      "summary": "海南麦玲围绕“记录乡村真实生活”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活。台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活补充信息：台风过去已经好些天了 每天回家帮老妈收拾她的战场 真正的体会到了当农民的不容易 如果不是这场台风 她们的辛苦钱可以丰厚一些 也是她们辛苦了一年的期盼#记录乡村真实生活关键词：记录乡村真实生活 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "记录乡村真实生活为什么总是做不出来结果？",
+        "先把每天回家帮老妈收拾她的战场想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕记录乡村真实生活组织标题与开头。",
+        "用每天回家帮老妈收拾她的战场和真正的体会到了当农民的不容易补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "记录乡村真实生活",
+        "每天回家帮老妈收拾她的战场",
+        "真正的体会到了当农民的不容易"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-26/7415936782178536723.json",
+      "processed_at": "2026-08-26T10:31:11+08:00"
+    },
+    "last_error": null
+  },
+  "7481255043560230204": {
+    "video_id": "7481255043560230204",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7481255043560230204",
+      "title": "鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记",
+      "publish_time": "2025-03-13T11:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7481255043560230204",
+      "cover_url": "",
+      "like_count": 229,
+      "comment_count": 14,
+      "share_count": 193,
+      "collect_count": 53,
+      "description": "鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记",
+      "text_hint": "鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记",
+      "topic_tags": [
+        "儿童营养早餐",
+        "早餐吃什么",
+        "美味早餐",
+        "我的厨房日记"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f1c31ee318bf0508859e8a4b4c450770/6a8e7a69/video/tos/cn/tos-cn-ve-15c000-ce/oYgTb9hAQm8ISAPisMAZirpPvAWzMslL1BEFX/?a=6383&br=927&bt=927&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1787711307&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wlDKPHhd.7_4-573-ApQX&is_ssr=1&l=202608261028278FD5288244FA52CD859C&lr=all&mime_type=video_mp4&qs=12&rc=ZmU4MzY1Njo3Ojs4OTg2ZkBpMzhra3Y5cmlmeTMzbGkzNEBjYy8tLWJjNWIxMjFgM2AxYSNkYWFoMmQ0LjZgLS1kLWJzcw%3D%3D&__vid=7481255043560230204",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7481255043560230204.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7481255043560230204.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7481255043560230204",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-26T10:27:08+08:00",
+    "last_seen_at": "2026-08-26T10:27:08+08:00",
+    "fetch_runs": [
+      "2026-08-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7481255043560230204.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-26/7481255043560230204.mp3",
+      "source": "download",
+      "processed_at": "2026-08-26T10:28:45+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7481255043560230204",
+      "transcript_raw": "鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记补充信息：鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记关键词：儿童营养早餐、早餐吃什么、美味早餐、我的厨房日记",
+      "transcript_clean": "鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记补充信息：鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记关键词：儿童营养早餐、早餐吃什么、美味早餐、我的厨房日记",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-26/7481255043560230204.json",
+      "processed_at": "2026-08-26T10:31:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7481255043560230204",
+      "summary": "知雪围绕“儿童营养早餐”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记。鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记补充信息：鸡蛋汉堡这样做简单又好吃，搭配一碗南瓜小米粥，又是营养满满的一餐！#儿童营养早餐 #早餐吃什么 #美味早餐 #我的厨房日记关键词：儿童营养早餐、早餐吃什么、美味早餐、我的厨房日记 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "儿童营养早餐为什么总是做不出来结果？",
+        "先把早餐吃什么想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕儿童营养早餐组织标题与开头。",
+        "用早餐吃什么和美味早餐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "儿童营养早餐",
+        "早餐吃什么",
+        "美味早餐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-26/7481255043560230204.json",
+      "processed_at": "2026-08-26T10:31:11+08:00"
+    },
+    "last_error": null
   }
 }
