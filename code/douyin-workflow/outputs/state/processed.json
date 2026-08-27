@@ -34831,5 +34831,580 @@
       "processed_at": "2026-08-26T10:31:11+08:00"
     },
     "last_error": null
+  },
+  "7597698544325615857": {
+    "video_id": "7597698544325615857",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7597698544325615857",
+      "title": "在抖音记录美好生活20260827",
+      "publish_time": "2026-08-27T19:07:05+08:00",
+      "video_url": "https://www.douyin.com/video/7597698544325615857",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260827",
+      "text_hint": "在抖音记录美好生活20260827",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/fa996e41-73cf-4c34-a1c5-256362ef400c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7597698544325615857",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-27T19:05:38+08:00",
+    "last_seen_at": "2026-08-27T19:05:38+08:00",
+    "fetch_runs": [
+      "2026-08-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7375437315319139595": {
+    "video_id": "7375437315319139595",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "胡望春",
+      "video_id": "7375437315319139595",
+      "title": "科学调味剂，你看看，是不是有一点味道 ，",
+      "publish_time": "2024-06-01T15:43:49+08:00",
+      "video_url": "https://www.douyin.com/video/7375437315319139595",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b22c4928904f6e630f896e6fffb7181d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103188400&x-signature=9ooidcLuXxRYrOHFko1QE6pDW20%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260827190612BF1201BA174B34AD4F37",
+      "like_count": 2465,
+      "comment_count": 180,
+      "share_count": 0,
+      "collect_count": 913,
+      "description": "科学调味剂，你看看，是不是有一点味道 ，",
+      "text_hint": "科学调味剂，你看看，是不是有一点味道 ，",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6062274bee022594e71292d558cbc6e0/6a904592/video/tos/cn/tos-cn-ve-0015c800/oMwQ8XTOB4HiZiwPr5IAZcIUGEiAuqiQltQ2v/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1550&bt=1550&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wL6zJHhd.7ULJ103-ApQX&mime_type=video_mp4&qs=0&rc=OGk6NzU6ZTo8OjY6aTdmNEBpajVtcWo5cnNnczMzNGkzM0BjMTMvMS82NmAxYTUwNDIxYSMwLi9fMmRrLmFgLS1kLWFzcw%3D%3D&btag=80000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1787828772&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260827190612BF1201BA174B34AD4F37",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7375437315319139595.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7375437315319139595.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 318.234,
+      "raw_payload": {
+        "aweme_id": "7375437315319139595",
+        "author_uid": "2919950436825822",
+        "sec_uid": "MS4wLjABAAAAJdfJBKJIoK8WT6wPpiiKe30phqi-YdhnjlAjOv5LwfOP1S7L2NpgtZe9SI3sAoLK",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAJdfJBKJIoK8WT6wPpiiKe30phqi-YdhnjlAjOv5LwfOP1S7L2NpgtZe9SI3sAoLK"
+      }
+    },
+    "first_seen_at": "2026-08-27T19:05:38+08:00",
+    "last_seen_at": "2026-08-27T19:05:38+08:00",
+    "fetch_runs": [
+      "2026-08-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7375437315319139595.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7375437315319139595.mp3",
+      "source": "download",
+      "processed_at": "2026-08-27T19:08:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7375437315319139595",
+      "transcript_raw": "科学调味剂，你看看，是不是有一点味道 ，科学调味剂，你看看，是不是有一点味道 ，补充信息：科学调味剂，你看看，是不是有一点味道 ，",
+      "transcript_clean": "科学调味剂，你看看，是不是有一点味道 ，科学调味剂，你看看，是不是有一点味道 ，补充信息：科学调味剂，你看看，是不是有一点味道 ，",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-27/7375437315319139595.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7375437315319139595",
+      "summary": "胡望春围绕“科学调味剂，你看看，是不是有一点味道”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "科学调味剂，你看看，是不是有一点味道 ，。科学调味剂，你看看，是不是有一点味道 ，科学调味剂，你看看，是不是有一点味道 ，补充信息：科学调味剂，你看看，是不是有一点味道 ， 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "科学调味剂，你看看，是不是有一点味道为什么总是做不出来结果？",
+        "先把补充信息：科学调味剂，你看看，是不是有一点味道想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕科学调味剂，你看看，是不是有一点味道组织标题与开头。",
+        "用补充信息：科学调味剂，你看看，是不是有一点味道和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "科学调味剂，你看看，是不是有一点味道",
+        "补充信息：科学调味剂，你看看，是不是有一点味道",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-27/7375437315319139595.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "last_error": null
+  },
+  "7375721690585779456": {
+    "video_id": "7375721690585779456",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "电子技术大叔",
+      "video_id": "7375721690585779456",
+      "title": "组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路",
+      "publish_time": "2024-06-02T10:07:20+08:00",
+      "video_url": "https://www.douyin.com/video/7375721690585779456",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a6176b98b78a2e146c4a345196a71ce3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103188400&x-signature=fJ6PITHhN%2FLqXw7ISI17PlY4V%2FY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260827190615AE9BC5FF6567A4A87F9F",
+      "like_count": 29,
+      "comment_count": 1,
+      "share_count": 1,
+      "collect_count": 5,
+      "description": "组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路",
+      "text_hint": "组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路",
+      "topic_tags": [
+        "电子爱好者",
+        "电子技术",
+        "每天学习一点点",
+        "技术分享",
+        "电路"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/32f987c1407f0c1fd2343a0ea9db0446/6a904518/video/cn/mps/realtime/v1/r/p/v0200fg10000cpdt6pfog65tjieka7kg/92d50310192c466da9163641bcc898c6/9a8e3f42f9bc12909f1bb88b0323cda4/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=218&bt=218&cs=0&ds=3&ft=InFJ3Y-5DyjNbRVQ9wF6zJHhd.7ULJ103-ApQX&mime_type=video_mp4&qs=0&rc=OTs7ZjQ5OTxnOWY8MzY4NUBpajpubHc5cnN3czMzNGkzM0BgNmBfMTAuXjMxLy4uLWE2YSNoXmJnMmRjM2FgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=720p&dy_q=1787828775&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7375721690585779456&l=20260827190615AE9BC5FF6567A4A87F9F&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7375721690585779456.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7375721690585779456.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 193.475,
+      "raw_payload": {
+        "aweme_id": "7375721690585779456",
+        "author_uid": "1629902301313907",
+        "sec_uid": "MS4wLjABAAAAfMMUH3uSPrbzZNy7eGjnp1cugr52BkRbwXrGDuq2lefkmsxR6y-b6USV5XoZEWS4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAfMMUH3uSPrbzZNy7eGjnp1cugr52BkRbwXrGDuq2lefkmsxR6y-b6USV5XoZEWS4"
+      }
+    },
+    "first_seen_at": "2026-08-27T19:05:38+08:00",
+    "last_seen_at": "2026-08-27T19:05:38+08:00",
+    "fetch_runs": [
+      "2026-08-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7375721690585779456.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7375721690585779456.mp3",
+      "source": "download",
+      "processed_at": "2026-08-27T19:07:44+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7375721690585779456",
+      "transcript_raw": "组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路补充信息：组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路关键词：电子爱好者、电子技术、每天学习一点点、技术分享、电路",
+      "transcript_clean": "组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路补充信息：组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路关键词：电子爱好者、电子技术、每天学习一点点、技术分享、电路",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-27/7375721690585779456.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7375721690585779456",
+      "summary": "电子技术大叔围绕“电子爱好者”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路。组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路补充信息：组合放大电路原理#电子爱好者 #电子技术 #每天学习一点点 #技术分享 #电路关键词：电子爱好者、电子技术、每天学习一点点、技术分享、电路 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "电子爱好者为什么总是做不出来结果？",
+        "先把电子技术想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕电子爱好者组织标题与开头。",
+        "用电子技术和每天学习一点点补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "电子爱好者",
+        "电子技术",
+        "每天学习一点点"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-27/7375721690585779456.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "last_error": null
+  },
+  "7403310440534510875": {
+    "video_id": "7403310440534510875",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7403310440534510875",
+      "title": "【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文",
+      "publish_time": "2024-08-15T10:25:00+08:00",
+      "video_url": "https://www.douyin.com/video/7403310440534510875",
+      "cover_url": "",
+      "like_count": 30,
+      "comment_count": 1,
+      "share_count": 12,
+      "collect_count": 6,
+      "description": "【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文",
+      "text_hint": "【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文",
+      "topic_tags": [
+        "星座",
+        "奇门遁甲",
+        "天象",
+        "天文"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4bc4697fdadf4f8825d7fe4077fb4624/6a904618/video/tos/cn/tos-cn-ve-0015c800/ogzfCeisGCbaLZODZ4IG6XgXeEMRHs9Ayp2fxA/?a=6383&br=847&bt=847&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1787828791&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wJ6zJHhd.7ULJ103-ApQX&is_ssr=1&l=202608271906317A0C6C907534269D5F25&lr=all&mime_type=video_mp4&qs=1&rc=OWQ7aTk6M2hlPDc6NGhlZEBpanJoeHY5cmV3dDMzNGkzM0BeLy5jNC00Nl8xNV5hNTRgYSNpcmxkMmQ0YHJgLS1kLTBzcw%3D%3D&__vid=7403310440534510875",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7403310440534510875.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7403310440534510875.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7403310440534510875",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-27T19:05:38+08:00",
+    "last_seen_at": "2026-08-27T19:05:38+08:00",
+    "fetch_runs": [
+      "2026-08-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7403310440534510875.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7403310440534510875.mp3",
+      "source": "download",
+      "processed_at": "2026-08-27T19:07:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7403310440534510875",
+      "transcript_raw": "【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文补充信息：【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文关键词：星座、奇门遁甲、天象、天文",
+      "transcript_clean": "【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文补充信息：【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文关键词：星座、奇门遁甲、天象、天文",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-27/7403310440534510875.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7403310440534510875",
+      "summary": "知雪围绕“星座”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文。【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文补充信息：【王凤麟教授研讨会精选】哲学就是爱智慧，远古中国人仰望星空#星座#奇门遁甲#天象#天文关键词：星座、奇门遁甲、天象、天文 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "星座为什么总是做不出来结果？",
+        "先把奇门遁甲想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕星座组织标题与开头。",
+        "用奇门遁甲和天象补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "星座",
+        "奇门遁甲",
+        "天象"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-27/7403310440534510875.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "last_error": null
+  },
+  "7038799270308367620": {
+    "video_id": "7038799270308367620",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "华姐🔥⁵²⁸",
+      "video_id": "7038799270308367620",
+      "title": "@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门",
+      "publish_time": "2021-12-07T11:36:11+08:00",
+      "video_url": "https://www.douyin.com/video/7038799270308367620",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6eb80cce5d1ae5f17a16c9740f7e8561~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103188400&x-signature=cup4TYt7FWMo7Rmjj58srWHPg6g%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608271906409872617568DC8DB27D7C",
+      "like_count": 4270,
+      "comment_count": 359,
+      "share_count": 1581,
+      "collect_count": 370,
+      "description": "@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门",
+      "text_hint": "@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门",
+      "topic_tags": [
+        "抖音热门"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/45287de09148388cb1a99a08127ea570/6a904593/video/cn/mps/realtime/v1/r/p/v0300fg10000c6ndbvjc77ufrpc6qncg/e20cf449c60f4a02acdb695f9e71ba02/12dea348cbd5a618dba4078ceed71ecc/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=906&bt=906&cs=0&ds=3&ft=InFJ3Y-5DyjNbRVQ9wI~zJHhd.7ULJ103-ApQX&mime_type=video_mp4&qs=0&rc=NWQ0aGk8ZWY1ZGk5PDdmNUBpanE5c2k6ZnlnOTMzNGkzM0AtXzQ2MjNhXi0xLWAxYy1iYSNgbmBvcjRnX2tgLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100B_100x_102u_100o_100w&definition=720p&dy_q=1787828801&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7038799270308367620&l=202608271906409872617568DC8DB27D7C&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7038799270308367620.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7038799270308367620.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 291.843,
+      "raw_payload": {
+        "aweme_id": "7038799270308367620",
+        "author_uid": "98836535939",
+        "sec_uid": "MS4wLjABAAAAHq2bIV6j9cHd519E4ZsyDasumXV72rQBw_7ET44Tbjs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHq2bIV6j9cHd519E4ZsyDasumXV72rQBw_7ET44Tbjs"
+      }
+    },
+    "first_seen_at": "2026-08-27T19:05:38+08:00",
+    "last_seen_at": "2026-08-27T19:05:38+08:00",
+    "fetch_runs": [
+      "2026-08-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7038799270308367620.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7038799270308367620.mp3",
+      "source": "download",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7038799270308367620",
+      "transcript_raw": "@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门补充信息：@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门关键词：抖音热门",
+      "transcript_clean": "@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门补充信息：@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门关键词：抖音热门",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-27/7038799270308367620.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7038799270308367620",
+      "summary": "华姐🔥⁵²⁸围绕“抖音热门”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门。@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门补充信息：@柳春华 完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门关键词：抖音热门 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "抖音热门为什么总是做不出来结果？",
+        "先把@柳春华想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕抖音热门组织标题与开头。",
+        "用@柳春华和完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门@柳春华补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "抖音热门",
+        "@柳春华",
+        "完整版《游牧时光》让你直接上瘾💓💓💓#抖音热门@柳春华"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-27/7038799270308367620.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "last_error": null
+  },
+  "7353057214426254644": {
+    "video_id": "7353057214426254644",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "林木木丶（原生鱼、溪流钓爱好者）",
+      "video_id": "7353057214426254644",
+      "title": "野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流",
+      "publish_time": "2024-04-02T08:17:37+08:00",
+      "video_url": "https://www.douyin.com/video/7353057214426254644",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/d8168c6fb838b0e2031c4ca125b9d8c7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103188400&x-signature=yMv6WyI2b%2BPoNP9KpewhwFVI5GU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026082719064386FC61D30526C8C5C320",
+      "like_count": 77,
+      "comment_count": 89,
+      "share_count": 27,
+      "collect_count": 6,
+      "description": "野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流",
+      "text_hint": "野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流",
+      "topic_tags": [
+        "原生鱼",
+        "溪流钓",
+        "钓鱼的乐趣只有钓鱼人懂",
+        "原来钓鱼才是抖音运动顶流"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/05f6f2954155f35f17329be68a05bcce/6a904577/video/cn/mps/realtime/v1/r/p/v0d00fg10000co5kp6rc77ucf550si30/9a0f3f1c672a44dbbad73e1c38b0554d/5dd91b3f51003427faa489d06f00b65c/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3077&bt=3077&cs=0&ds=3&ft=InFJ3Y-5DyjNbRVQ9wi~zJHhd.7ULJ103-ApQX&mime_type=video_mp4&qs=0&rc=ZzgzO2ZoOmRlN2Q6ZmlpZEBpM2wzOGY6ZjlucjMzNGkzM0AxMl8wLjBhX2ExLzMuMC02YSMwcDJjcjRvbTJgLS1kLWFzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100w_100B_100x_100z_100o&definition=720p&dy_q=1787828804&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7353057214426254644&l=2026082719064386FC61D30526C8C5C320&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7353057214426254644.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7353057214426254644.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 259.216,
+      "raw_payload": {
+        "aweme_id": "7353057214426254644",
+        "author_uid": "67450033045",
+        "sec_uid": "MS4wLjABAAAAmtcU70kLvjmZ1dEz_Tyxz6nfN_9M7WkCXfyEGamh6vI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAmtcU70kLvjmZ1dEz_Tyxz6nfN_9M7WkCXfyEGamh6vI"
+      }
+    },
+    "first_seen_at": "2026-08-27T19:05:38+08:00",
+    "last_seen_at": "2026-08-27T19:05:38+08:00",
+    "fetch_runs": [
+      "2026-08-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7353057214426254644.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7353057214426254644.mp3",
+      "source": "download",
+      "processed_at": "2026-08-27T19:10:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7353057214426254644",
+      "transcript_raw": "野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流补充信息：野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流关键词：原生鱼、溪流钓、钓鱼的乐趣只有钓鱼人懂、原来钓鱼才是抖音运动顶流",
+      "transcript_clean": "野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流补充信息：野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流关键词：原生鱼、溪流钓、钓鱼的乐趣只有钓鱼人懂、原来钓鱼才是抖音运动顶流",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-27/7353057214426254644.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7353057214426254644",
+      "summary": "林木木丶（原生鱼、溪流钓爱好者）围绕“原生鱼”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流。野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流补充信息：野采广东类高屏鱲以及方氏吸鳅！\n好久没出勤了，鱼不鱼的不重要，能甩几杆还是挺过瘾啊！！！#原生鱼 #溪流钓 #钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流关键词：原生鱼、溪流钓、钓鱼的乐趣只有钓鱼人懂、原来钓鱼才是抖音运动顶流 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "原生鱼为什么总是做不出来结果？",
+        "先把溪流钓想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕原生鱼组织标题与开头。",
+        "用溪流钓和钓鱼的乐趣只有钓鱼人懂补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "原生鱼",
+        "溪流钓",
+        "钓鱼的乐趣只有钓鱼人懂"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-27/7353057214426254644.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "last_error": null
+  },
+  "7327130655047879962": {
+    "video_id": "7327130655047879962",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7327130655047879962",
+      "title": "#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓",
+      "publish_time": "2024-01-23T03:29:00+08:00",
+      "video_url": "https://www.douyin.com/video/7327130655047879962",
+      "cover_url": "",
+      "like_count": 36,
+      "comment_count": 17,
+      "share_count": 5,
+      "collect_count": 20,
+      "description": "#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓",
+      "text_hint": "#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓",
+      "topic_tags": [
+        "实现音乐教育",
+        "现代非洲鼓教学",
+        "点开左侧小程序报名课程学起来"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/10096443abf1a82b5723d42dae56fa65/6a90454a/video/tos/cn/tos-cn-ve-0015c800/o4ArkXQgN3AeEDzGO29EUrbjaInqABeIxgGl45/?a=6383&br=1253&bt=1253&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1787828820&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9w1~zJHhd.7ULJ103-ApQX&is_ssr=1&l=2026082719065949FD66F66F1A3A95A2F9&lr=all&mime_type=video_mp4&qs=12&rc=ZDlmZWk4NTk8OTc1ZDY8NkBpMzVxN2Q6ZjhtcDMzNGkzM0AuMS8wYDJeNmMxLzBeY2E1YSMuZWJicjRvMWtgLS1kLWFzcw%3D%3D&__vid=7327130655047879962",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7327130655047879962.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7327130655047879962.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7327130655047879962",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-27T19:05:38+08:00",
+    "last_seen_at": "2026-08-27T19:05:38+08:00",
+    "fetch_runs": [
+      "2026-08-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7327130655047879962.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-27/7327130655047879962.mp3",
+      "source": "download",
+      "processed_at": "2026-08-27T19:10:17+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7327130655047879962",
+      "transcript_raw": "#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓补充信息：#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓关键词：实现音乐教育、现代非洲鼓教学、点开左侧小程序报名课程学起来",
+      "transcript_clean": "#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓补充信息：#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓关键词：实现音乐教育、现代非洲鼓教学、点开左侧小程序报名课程学起来",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-27/7327130655047879962.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7327130655047879962",
+      "summary": "知雪围绕“实现音乐教育”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓。#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓补充信息：#实现音乐教育#现代非洲鼓教学#点开左侧小程序报名课程学起来 三阶综五扒谱练习-48《有一种幸福叫曾经拥有》@轻松学打非洲鼓关键词：实现音乐教育、现代非洲鼓教学、点开左侧小程序报名课程学起来 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "实现音乐教育为什么总是做不出来结果？",
+        "先把现代非洲鼓教学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕实现音乐教育组织标题与开头。",
+        "用现代非洲鼓教学和点开左侧小程序报名课程学起来补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "实现音乐教育",
+        "现代非洲鼓教学",
+        "点开左侧小程序报名课程学起来"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-27/7327130655047879962.json",
+      "processed_at": "2026-08-27T19:11:04+08:00"
+    },
+    "last_error": null
   }
 }
