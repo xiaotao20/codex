@@ -35406,5 +35406,663 @@
       "processed_at": "2026-08-27T19:11:04+08:00"
     },
     "last_error": null
+  },
+  "7679014942804118822": {
+    "video_id": "7679014942804118822",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "湖南学历函授站报考中心|文理卓学教育",
+      "video_id": "7679014942804118822",
+      "title": "上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！",
+      "publish_time": "2026-08-28T17:39:57+08:00",
+      "video_url": "https://www.douyin.com/video/7679014942804118822",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-v-275423/ogPRsEaHGBg3PIQB6FmqjLRluiSBpBBiIE20N~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103278400&x-signature=3UjMnf8BgoWf0wYnvvPmTPlt0X0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026082820383442424232BDF6D9D73D26",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！",
+      "text_hint": "上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/87ed0ccbbc1ef5da0638edcd983e536f/6a91ab88/video/tos/cn/tos-cn-v-275423/ooIaRpRBiPtiFQBEB3N2gPlyEIHqQBmjT1spQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=916&bt=916&cs=0&ds=6&ft=CZdgCYlIDyjNeRVQ9wAGdJHhd.H1w0_03-ApQX&mime_type=video_mp4&qs=0&rc=Zjg3NjQ8ZjllNDNoaTY1O0Bpam5oc3I5cnVvZDMzNDYzM0AxLWAxNF5fNmExMl9jMF4wYSMwamIxMmRjYjVhLS1kMC9zcw%3D%3D&btag=c0000e00010000&cc=1f&cquery=100B_102v_102u_100o_100w&dy_q=1787920714&feature_id=e260ce660b55c740019a357948f03c3e&l=2026082820383442424232BDF6D9D73D26&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7679014942804118822.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7679014942804118822.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 14.768,
+      "raw_payload": {
+        "aweme_id": "7679014942804118822",
+        "author_uid": "854788539434956",
+        "sec_uid": "MS4wLjABAAAAbB6Ibh5vmD06KcjJJOQy0s-UcqCpbDuAl65_Qh_Vruw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAbB6Ibh5vmD06KcjJJOQy0s-UcqCpbDuAl65_Qh_Vruw"
+      }
+    },
+    "first_seen_at": "2026-08-28T20:38:12+08:00",
+    "last_seen_at": "2026-08-28T20:38:12+08:00",
+    "fetch_runs": [
+      "2026-08-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7679014942804118822.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7679014942804118822.mp3",
+      "source": "download",
+      "processed_at": "2026-08-28T20:39:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7679014942804118822",
+      "transcript_raw": "上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！补充信息：上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！",
+      "transcript_clean": "上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！补充信息：上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-28/7679014942804118822.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "analysis": {
+      "video_id": "7679014942804118822",
+      "summary": "湖南学历函授站报考中心|文理卓学教育围绕“上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！补充信息：上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！。上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！补充信息：上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！补充信息：上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！补充信息：上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查！补充信息：上班族注意：业余时间考个成人本科，国家承认，学制短，学信网可查",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-28/7679014942804118822.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "last_error": null
+  },
+  "7613969684752338219": {
+    "video_id": "7613969684752338219",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "新传体育",
+      "video_id": "7613969684752338219",
+      "title": "保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育",
+      "publish_time": "2026-03-06T10:51:41+08:00",
+      "video_url": "https://www.douyin.com/video/7613969684752338219",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7df849b051800621e61df8ee256bf799~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103278400&x-signature=GGWrSSdGHtR6rSLBSJPhy6TMacI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260828203838A2117C2685A6F05FF0F8",
+      "like_count": 15,
+      "comment_count": 8,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育",
+      "text_hint": "保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育",
+      "topic_tags": [
+        "中国排球超级联赛",
+        "排球",
+        "保定沃隶男排",
+        "保定体育"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/98c81494ef4bd0357d7ac9ddb8c9fc0c/6a91ab9c/video/tos/cn/tos-cn-ve-15/oIICGeveFUvTLBAAQI587eFGAIqBEUgJdPVtI0/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=928&bt=928&cs=0&ds=6&ft=CZdgCYlIDyjNeRVQ9wxGdJHhd.H1w0_03-ApQX&mime_type=video_mp4&qs=1&rc=ZjZoZWRmaDc7ZzRoODpoPEBpMzVpbmo5cjg3OTMzNGkzM0AvXjQuXzAxX2ExYGNeLmI0YSNzcmYwMmRzL2lhLS1kLS9zcw%3D%3D&btag=c0000e00018000&cquery=100K_100o_100w_100B_100H&dy_q=1787920718&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260828203838A2117C2685A6F05FF0F8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7613969684752338219.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7613969684752338219.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 30.07,
+      "raw_payload": {
+        "aweme_id": "7613969684752338219",
+        "author_uid": "107767767837",
+        "sec_uid": "MS4wLjABAAAAyJrn1sm9lrZdPE646rfXMzl9nCjUZ-FMo1TLBwvCmb4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAyJrn1sm9lrZdPE646rfXMzl9nCjUZ-FMo1TLBwvCmb4"
+      }
+    },
+    "first_seen_at": "2026-08-28T20:38:12+08:00",
+    "last_seen_at": "2026-08-28T20:38:12+08:00",
+    "fetch_runs": [
+      "2026-08-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7613969684752338219.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7613969684752338219.mp3",
+      "source": "download",
+      "processed_at": "2026-08-28T20:40:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7613969684752338219",
+      "transcript_raw": "保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育补充信息：保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育关键词：中国排球超级联赛、排球、保定沃隶男排、保定体育",
+      "transcript_clean": "保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育补充信息：保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育关键词：中国排球超级联赛、排球、保定沃隶男排、保定体育",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-28/7613969684752338219.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "analysis": {
+      "video_id": "7613969684752338219",
+      "summary": "新传体育围绕“中国排球超级联赛”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育。保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育补充信息：保定沃隶客场负于北京北汽  每分必拼小分憾负  调整心态再战客场#中国排球超级联赛 #排球 #保定沃隶男排 #保定体育关键词：中国排球超级联赛、排球、保定沃隶男排、保定体育 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "中国排球超级联赛为什么总是做不出来结果？",
+        "先把排球想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕中国排球超级联赛组织标题与开头。",
+        "用排球和保定沃隶男排补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "中国排球超级联赛",
+        "排球",
+        "保定沃隶男排"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-28/7613969684752338219.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "last_error": null
+  },
+  "7369082910307093799": {
+    "video_id": "7369082910307093799",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "芒果很忙",
+      "video_id": "7369082910307093799",
+      "title": "遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物",
+      "publish_time": "2024-05-15T12:45:37+08:00",
+      "video_url": "https://www.douyin.com/video/7369082910307093799",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e3b98e6af54cb76a86520bb22aeb9d44~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103278400&x-signature=RiQ5EwgJCZrGNz28qIHiimr6DUc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026082820384194BF8F84C59699726CC2",
+      "like_count": 12,
+      "comment_count": 1,
+      "share_count": 4,
+      "collect_count": 6,
+      "description": "遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物",
+      "text_hint": "遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物",
+      "topic_tags": [
+        "高中生物",
+        "遗传计算",
+        "高效学生物"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0c2d8202b4e706edf5dbea4d6dce18d8/6a91ad28/video/tos/cn/tos-cn-ve-0015c800/ok9Azjn38NaiRPEqg9OeABCAqLIIENQbgmDfaD/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=261&bt=261&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9wNGdJHhd.H1w0_03-ApQX&mime_type=video_mp4&qs=0&rc=aGg6ODUzOTxkZztmOjs3OkBpM2dqZTU6ZnI2czMzNGkzM0BjMzFjNDZeNmIxXy8wYTRjYSNjL3BxcjRnbS9gLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100H_100K_100o_100w&dy_q=1787920721&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026082820384194BF8F84C59699726CC2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7369082910307093799.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7369082910307093799.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 423.905,
+      "raw_payload": {
+        "aweme_id": "7369082910307093799",
+        "author_uid": "369864554065095",
+        "sec_uid": "MS4wLjABAAAA9pgmWeMNs_VLi75LaOsIydkOqzBOOpR5NiwZtI1sKxw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9pgmWeMNs_VLi75LaOsIydkOqzBOOpR5NiwZtI1sKxw"
+      }
+    },
+    "first_seen_at": "2026-08-28T20:38:12+08:00",
+    "last_seen_at": "2026-08-28T20:38:12+08:00",
+    "fetch_runs": [
+      "2026-08-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7369082910307093799.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7369082910307093799.mp3",
+      "source": "download",
+      "processed_at": "2026-08-28T20:41:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7369082910307093799",
+      "transcript_raw": "遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物补充信息：遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物关键词：高中生物、遗传计算、高效学生物",
+      "transcript_clean": "遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物补充信息：遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物关键词：高中生物、遗传计算、高效学生物",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-28/7369082910307093799.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "analysis": {
+      "video_id": "7369082910307093799",
+      "summary": "芒果很忙围绕“高中生物”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物。遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物补充信息：遗传图谱计算题 高中必修二遗传典型例题计算#高中生物 #遗传计算 #高效学生物关键词：高中生物、遗传计算、高效学生物 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "高中生物为什么总是做不出来结果？",
+        "先把遗传计算想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕高中生物组织标题与开头。",
+        "用遗传计算和高效学生物补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "高中生物",
+        "遗传计算",
+        "高效学生物"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-28/7369082910307093799.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "last_error": null
+  },
+  "7356864333898386726": {
+    "video_id": "7356864333898386726",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "江西文旅",
+      "video_id": "7356864333898386726",
+      "title": "春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子",
+      "publish_time": "2024-04-13T09:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7356864333898386726",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5391ba8595f2b5937c86f6ffc28430ee~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103278400&x-signature=X2k25i9aLmu3aF0FDwDfNkG8zQA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260828203844651133169698712F34E1",
+      "like_count": 1888,
+      "comment_count": 1290,
+      "share_count": 97,
+      "collect_count": 69,
+      "description": "春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子",
+      "text_hint": "春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子",
+      "topic_tags": [
+        "跟着诗词游江西",
+        "春水",
+        "江西的春天",
+        "江西的样子"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/168ade57de2c1ea623d2354ba0dc3668/6a91acab/video/tos/cn/tos-cn-ve-0015c800/oM2zHxja6AFHQeEJgIfuD5DzDtcCR5GhAABwZE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1611&bt=1611&cs=0&ds=6&ft=CZdgCYlIDyjNeRVQ9w1GdJHhd.H1w0_03-ApQX&mime_type=video_mp4&qs=0&rc=N2hmZWRmZmYzaTtkOzQ1aUBpMzU8Ojo6ZjRncjMzNGkzM0AyMGA0LV4wNmAxYDM1Ll4uYSNrLzBvcjRvMGBgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1787920724&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260828203844651133169698712F34E1",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7356864333898386726.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7356864333898386726.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 295.231,
+      "raw_payload": {
+        "aweme_id": "7356864333898386726",
+        "author_uid": "105978919088",
+        "sec_uid": "MS4wLjABAAAAupuPxI6WfQKWK-9jlr8uMhEJ6y7YZ9HdDaOQ3wFxEzY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAupuPxI6WfQKWK-9jlr8uMhEJ6y7YZ9HdDaOQ3wFxEzY"
+      }
+    },
+    "first_seen_at": "2026-08-28T20:38:12+08:00",
+    "last_seen_at": "2026-08-28T20:38:12+08:00",
+    "fetch_runs": [
+      "2026-08-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7356864333898386726.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7356864333898386726.mp3",
+      "source": "download",
+      "processed_at": "2026-08-28T20:48:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7356864333898386726",
+      "transcript_raw": "春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子补充信息：春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子关键词：跟着诗词游江西、春水、江西的春天、江西的样子",
+      "transcript_clean": "春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子补充信息：春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子关键词：跟着诗词游江西、春水、江西的春天、江西的样子",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-28/7356864333898386726.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "analysis": {
+      "video_id": "7356864333898386726",
+      "summary": "江西文旅围绕“跟着诗词游江西”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子。春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子补充信息：春天，总要来趟江西吧~ 在春水怡人的画卷中，细品梦里水乡的水韵悠长！#跟着诗词游江西 #春水 #江西的春天 #江西的样子关键词：跟着诗词游江西、春水、江西的春天、江西的样子 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "跟着诗词游江西为什么总是做不出来结果？",
+        "先把春水想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕跟着诗词游江西组织标题与开头。",
+        "用春水和江西的春天补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "跟着诗词游江西",
+        "春水",
+        "江西的春天"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-28/7356864333898386726.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "last_error": null
+  },
+  "7578068679041238757": {
+    "video_id": "7578068679041238757",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7578068679041238757",
+      "title": "仙在抖音记录美好生活20251129",
+      "publish_time": "2025-11-29T08:56:00+08:00",
+      "video_url": "https://www.douyin.com/video/7578068679041238757",
+      "cover_url": "",
+      "like_count": 14,
+      "comment_count": 1,
+      "share_count": 1,
+      "collect_count": 0,
+      "description": "仙在抖音记录美好生活20251129",
+      "text_hint": "仙在抖音记录美好生活20251129",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/745be159041855c1f9aab7e88161790e/6a91acf6/video/tos/cn/tos-cn-ve-15c000-ce/ooieVYEq8wj6VGBwBwf3iTAnQqI7ZNEVEVl0tA/?a=6383&br=308&bt=308&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1787920740&feature_id=fea919893f650a8c49286568590446ef&ft=CZdgCYlIDyjNeRVQ9wLGdJHhd.H1w0_03-ApQX&is_ssr=1&l=2026082820390083E3045A3543B65D6711&lr=all&mime_type=video_mp4&qs=0&rc=ZGdmO2c2NTg1OTc1OTloM0BpanVxeHY5cmRlNzMzbGkzNUA1MTUyLjVhNi0xX2IyLmMxYSNvLmY2MmRzXmlhLS1kLTRzcw%3D%3D&__vid=7578068679041238757",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7578068679041238757.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7578068679041238757.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7578068679041238757",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-28T20:38:12+08:00",
+    "last_seen_at": "2026-08-28T20:38:12+08:00",
+    "fetch_runs": [
+      "2026-08-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7578068679041238757.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7578068679041238757.mp3",
+      "source": "download",
+      "processed_at": "2026-08-28T20:40:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7578068679041238757",
+      "transcript_raw": "仙在抖音记录美好生活20251129仙在抖音记录美好生活20251129补充信息：仙在抖音记录美好生活20251129",
+      "transcript_clean": "仙在抖音记录美好生活20251129仙在抖音记录美好生活20251129补充信息：仙在抖音记录美好生活20251129",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-28/7578068679041238757.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "analysis": {
+      "video_id": "7578068679041238757",
+      "summary": "知雪围绕“仙在抖音记录美好生活20251129仙在抖音记录美好生活20251129补充信息：仙在抖音记录美好生活20251129”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "仙在抖音记录美好生活20251129。仙在抖音记录美好生活20251129仙在抖音记录美好生活20251129补充信息：仙在抖音记录美好生活20251129 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "仙在抖音记录美好生活20251129仙在抖音记录美好生活20251129补充信息：仙在抖音记录美好生活20251129为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕仙在抖音记录美好生活20251129仙在抖音记录美好生活20251129补充信息：仙在抖音记录美好生活20251129组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "仙在抖音记录美好生活20251129仙在抖音记录美好生活20251129补充信息：仙在抖音记录美好生活20251129",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-28/7578068679041238757.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "last_error": null
+  },
+  "7398342204076412195": {
+    "video_id": "7398342204076412195",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7398342204076412195",
+      "title": "在抖音记录美好生活20260828",
+      "publish_time": "2026-08-28T20:39:36+08:00",
+      "video_url": "https://www.douyin.com/video/7398342204076412195",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260828",
+      "text_hint": "在抖音记录美好生活20260828",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/6d3b06b4-582f-4ab7-8caa-ce6fc4104642",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7398342204076412195",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-28T20:38:12+08:00",
+    "last_seen_at": "2026-08-28T20:38:12+08:00",
+    "fetch_runs": [
+      "2026-08-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7522079076581575945": {
+    "video_id": "7522079076581575945",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "塘门小胖",
+      "video_id": "7522079076581575945",
+      "title": "纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享",
+      "publish_time": "2025-07-01T19:48:36+08:00",
+      "video_url": "https://www.douyin.com/video/7522079076581575945",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a9ad083f4072f0ed0108860385b03b62~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103278400&x-signature=yZP12%2BBTJ4SowpJ1xR2eFJ191g0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260828203915DCAEEE3F7D966F6D0054",
+      "like_count": 357,
+      "comment_count": 52,
+      "share_count": 71,
+      "collect_count": 104,
+      "description": "纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享",
+      "text_hint": "纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享",
+      "topic_tags": [
+        "轻松get夏日淡人穿搭",
+        "夏季穿搭",
+        "度假穿搭",
+        "度假连衣裙",
+        "微胖穿搭分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a31362455d41f22932805035bd789b84/6a91ac6e/video/tos/cn/tos-cn-ve-0015c800/ocIbZ77BQBAeFI7HgQiAOeAOaCLT5mxG5fA9TV/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1197&bt=1197&cs=0&ds=6&ft=CZdgCYlIDyjNeRVQ9w_GdJHhd.H1w0_03-ApQX&mime_type=video_mp4&qs=1&rc=Zjo7ZzQ0O2ZkZGRlOzw0PEBpamhzM285cnl2NDMzNGkzM0BjLzRiMi9fNmAxYjViYWMvYSNjNHA1MmRraGVhLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100x_100z&dy_q=1787920755&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260828203915DCAEEE3F7D966F6D0054",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7522079076581575945.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7522079076581575945.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 203.667,
+      "raw_payload": {
+        "aweme_id": "7522079076581575945",
+        "author_uid": "3477127127378884",
+        "sec_uid": "MS4wLjABAAAACPPbUwoySbVqO9m6xq2fnVYQTkOxmTYmr9JY7BmAQq7klYkvoGNrm11o-NTwiLX7",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACPPbUwoySbVqO9m6xq2fnVYQTkOxmTYmr9JY7BmAQq7klYkvoGNrm11o-NTwiLX7"
+      }
+    },
+    "first_seen_at": "2026-08-28T20:38:12+08:00",
+    "last_seen_at": "2026-08-28T20:38:12+08:00",
+    "fetch_runs": [
+      "2026-08-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7522079076581575945.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7522079076581575945.mp3",
+      "source": "download",
+      "processed_at": "2026-08-28T20:40:34+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7522079076581575945",
+      "transcript_raw": "纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享补充信息：纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享关键词：轻松get夏日淡人穿搭、夏季穿搭、度假穿搭、度假连衣裙、微胖穿搭分享",
+      "transcript_clean": "纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享补充信息：纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享关键词：轻松get夏日淡人穿搭、夏季穿搭、度假穿搭、度假连衣裙、微胖穿搭分享",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-28/7522079076581575945.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "analysis": {
+      "video_id": "7522079076581575945",
+      "summary": "塘门小胖围绕“轻松get夏日淡人穿搭”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享。纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享补充信息：纤莉秀夏季新品大测评上身效果来啦！！！ #轻松get夏日淡人穿搭 #夏季穿搭 #度假穿搭 #度假连衣裙 #微胖穿搭分享关键词：轻松get夏日淡人穿搭、夏季穿搭、度假穿搭、度假连衣裙、微胖穿搭分享 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "轻松get夏日淡人穿搭为什么总是做不出来结果？",
+        "先把夏季穿搭想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕轻松get夏日淡人穿搭组织标题与开头。",
+        "用夏季穿搭和度假穿搭补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "轻松get夏日淡人穿搭",
+        "夏季穿搭",
+        "度假穿搭"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-28/7522079076581575945.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "last_error": null
+  },
+  "7471092909350096165": {
+    "video_id": "7471092909350096165",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7471092909350096165",
+      "title": "兔子不爱吃干草怎么办？",
+      "publish_time": "2025-02-14T23:15:00+08:00",
+      "video_url": "https://www.douyin.com/video/7471092909350096165",
+      "cover_url": "",
+      "like_count": 65,
+      "comment_count": 36,
+      "share_count": 24,
+      "collect_count": 20,
+      "description": "兔子不爱吃干草怎么办？",
+      "text_hint": "兔子不爱吃干草怎么办？",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/60ccd7006ab13d635b262130a4fbd764/6a91ad2b/video/tos/cn/tos-cn-ve-0015c800/ooPAGEI1z2Bm6jEQLdQiAIZM1pvCcwRi5Gi6P/?a=6383&br=643&bt=643&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100H_100K_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1787920771&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNeRVQ9wMYdJHhd.H1w0_03-ApQX&is_ssr=1&l=2026082820393175E1459E0DBD7C27D52B&lr=all&mime_type=video_mp4&qs=12&rc=O2c2OGU0ZTM8Zjs8ZjZoM0BpMzk3Z285cm1keDMzNGkzM0A2YzE1NC8tXzQxYGEwNjQyYSMzMWYvMmQ0YWtgLS1kLTBzcw%3D%3D&__vid=7471092909350096165",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7471092909350096165.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7471092909350096165.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7471092909350096165",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-28T20:38:12+08:00",
+    "last_seen_at": "2026-08-28T20:38:12+08:00",
+    "fetch_runs": [
+      "2026-08-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7471092909350096165.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-28/7471092909350096165.mp3",
+      "source": "download",
+      "processed_at": "2026-08-28T20:40:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7471092909350096165",
+      "transcript_raw": "兔子不爱吃干草怎么办？兔子不爱吃干草怎么办？补充信息：兔子不爱吃干草怎么办？",
+      "transcript_clean": "兔子不爱吃干草怎么办？兔子不爱吃干草怎么办？补充信息：兔子不爱吃干草怎么办？",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-28/7471092909350096165.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "analysis": {
+      "video_id": "7471092909350096165",
+      "summary": "知雪围绕“兔子不爱吃干草怎么办？兔子不爱吃干草怎么办？补充信息：兔子不爱吃干草怎么办”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "兔子不爱吃干草怎么办？。兔子不爱吃干草怎么办？兔子不爱吃干草怎么办？补充信息：兔子不爱吃干草怎么办？ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "兔子不爱吃干草怎么办？兔子不爱吃干草怎么办？补充信息：兔子不爱吃干草怎么办为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕兔子不爱吃干草怎么办？兔子不爱吃干草怎么办？补充信息：兔子不爱吃干草怎么办组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "兔子不爱吃干草怎么办？兔子不爱吃干草怎么办？补充信息：兔子不爱吃干草怎么办",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-28/7471092909350096165.json",
+      "processed_at": "2026-08-28T20:48:34+08:00"
+    },
+    "last_error": null
   }
 }
