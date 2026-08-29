@@ -36064,5 +36064,587 @@
       "processed_at": "2026-08-28T20:48:34+08:00"
     },
     "last_error": null
+  },
+  "7654485761516948777": {
+    "video_id": "7654485761516948777",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "群众新闻网",
+      "video_id": "7654485761516948777",
+      "title": "四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘",
+      "publish_time": "2026-06-23T15:14:11+08:00",
+      "video_url": "https://www.douyin.com/video/7654485761516948777",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/62b662877ef239c531fed7d043390617~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103346800&x-signature=OI7v%2BCVo%2BASFKMEveedzj2%2FXagE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608291547041D0909C650069DA4FB81",
+      "like_count": 2419,
+      "comment_count": 555,
+      "share_count": 8901,
+      "collect_count": 66,
+      "description": "四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘",
+      "text_hint": "四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘",
+      "topic_tags": [
+        "四川",
+        "泸州",
+        "景区招聘"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2106eca52a151ceeb1caeeab620ac6bb/6a92b8c8/video/tos/cn/tos-cn-ve-15/ow407UXHdBpIBg6vBAIZzIQe54eASLQGgBGCeG/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2934&bt=2934&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wbfBJHhd.52hwD03-ApQX&mime_type=video_mp4&qs=0&rc=MzU7NjwzNTNlZzU0OTtoZkBpanZyeGw5cjo2OzMzNGkzM0A1MDYtMjM2XmExMTNgXl5gYSNzLWctMmQ0MXFhLS1kLTBzcw%3D%3D&btag=c0000e00018000&cquery=100w_100B_100H_100K_100o&dy_q=1787989624&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=202608291547041D0909C650069DA4FB81",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7654485761516948777.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7654485761516948777.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 32.646,
+      "raw_payload": {
+        "aweme_id": "7654485761516948777",
+        "author_uid": "4314115821011031",
+        "sec_uid": "MS4wLjABAAAAigKxdNNF4bcD88T7jQ13L0VhXcVZRRBXSGqKUT-vpUo1opmuDB6uqjwYKbF4my76",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAigKxdNNF4bcD88T7jQ13L0VhXcVZRRBXSGqKUT-vpUo1opmuDB6uqjwYKbF4my76"
+      }
+    },
+    "first_seen_at": "2026-08-29T15:46:44+08:00",
+    "last_seen_at": "2026-08-29T15:46:44+08:00",
+    "fetch_runs": [
+      "2026-08-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7654485761516948777.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7654485761516948777.mp3",
+      "source": "download",
+      "processed_at": "2026-08-29T15:47:52+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7654485761516948777",
+      "transcript_raw": "四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘补充信息：四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘关键词：四川、泸州、景区招聘",
+      "transcript_clean": "四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘补充信息：四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘关键词：四川、泸州、景区招聘",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-29/7654485761516948777.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "analysis": {
+      "video_id": "7654485761516948777",
+      "summary": "群众新闻网围绕“四川”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘。四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘补充信息：四川一景区日薪300元招“野人”，要求性格抽象 ，偏爱生食者优先，景区：包吃包住 每天工作约7小时，该岗位已经全部招满。#四川 #泸州 #景区招聘关键词：四川、泸州、景区招聘 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "四川为什么总是做不出来结果？",
+        "先把泸州想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕四川组织标题与开头。",
+        "用泸州和景区招聘补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "四川",
+        "泸州",
+        "景区招聘"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-29/7654485761516948777.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "last_error": null
+  },
+  "7411467962760187187": {
+    "video_id": "7411467962760187187",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "蒋故事@",
+      "video_id": "7411467962760187187",
+      "title": "#关注我每天分享不同的故事 #抖音平台分享民间故事",
+      "publish_time": "2024-09-06T18:01:03+08:00",
+      "video_url": "https://www.douyin.com/video/7411467962760187187",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/04a3d0fc4daa16fce6edd8d2fd4af634~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103346800&x-signature=yCtGnGnfg9MkQ0BTWttn7GnqAX4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260829154707AB3A830DCCB597964FCF",
+      "like_count": 34,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "#关注我每天分享不同的故事 #抖音平台分享民间故事",
+      "text_hint": "#关注我每天分享不同的故事 #抖音平台分享民间故事",
+      "topic_tags": [
+        "关注我每天分享不同的故事",
+        "抖音平台分享民间故事"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2cdbf6b098f8e38cc5fbba8cc4dd1e7c/6a92ba38/video/tos/cn/tos-cn-ve-0015c800/ogLa0WBWBE30aa0lA3iQNtej2BfWzvAIiMgTAb/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=972&bt=972&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9w4fBJHhd.52hwD03-ApQX&mime_type=video_mp4&qs=0&rc=OmlkNTg8ZjY7aDU6PDlmN0BpM3BlN245cmtndTMzNGkzM0BhXy41YGE1XjMxLl9eYy8xYSNhY29fMmRzMmFgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1787989627&feature_id=aa7df520beeae8e397df15f38df0454c&l=20260829154707AB3A830DCCB597964FCF",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7411467962760187187.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7411467962760187187.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 397.34,
+      "raw_payload": {
+        "aweme_id": "7411467962760187187",
+        "author_uid": "4418251883287293",
+        "sec_uid": "MS4wLjABAAAAmd3QfBKqgNd6TPZVUYGRb0Lnu_SMjlGrycv3LkKo465RAeRl19KpmBK7B4gWuRRU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAmd3QfBKqgNd6TPZVUYGRb0Lnu_SMjlGrycv3LkKo465RAeRl19KpmBK7B4gWuRRU"
+      }
+    },
+    "first_seen_at": "2026-08-29T15:46:44+08:00",
+    "last_seen_at": "2026-08-29T15:46:44+08:00",
+    "fetch_runs": [
+      "2026-08-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7411467962760187187.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7411467962760187187.mp3",
+      "source": "download",
+      "processed_at": "2026-08-29T15:48:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7411467962760187187",
+      "transcript_raw": "#关注我每天分享不同的故事 #抖音平台分享民间故事#关注我每天分享不同的故事 #抖音平台分享民间故事补充信息：#关注我每天分享不同的故事 #抖音平台分享民间故事关键词：关注我每天分享不同的故事、抖音平台分享民间故事",
+      "transcript_clean": "#关注我每天分享不同的故事 #抖音平台分享民间故事#关注我每天分享不同的故事 #抖音平台分享民间故事补充信息：#关注我每天分享不同的故事 #抖音平台分享民间故事关键词：关注我每天分享不同的故事、抖音平台分享民间故事",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-29/7411467962760187187.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "analysis": {
+      "video_id": "7411467962760187187",
+      "summary": "蒋故事@围绕“关注我每天分享不同的故事”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#关注我每天分享不同的故事 #抖音平台分享民间故事。#关注我每天分享不同的故事 #抖音平台分享民间故事#关注我每天分享不同的故事 #抖音平台分享民间故事补充信息：#关注我每天分享不同的故事 #抖音平台分享民间故事关键词：关注我每天分享不同的故事、抖音平台分享民间故事 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "关注我每天分享不同的故事为什么总是做不出来结果？",
+        "先把抖音平台分享民间故事想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕关注我每天分享不同的故事组织标题与开头。",
+        "用抖音平台分享民间故事和#关注我每天分享不同的故事补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "关注我每天分享不同的故事",
+        "抖音平台分享民间故事",
+        "#关注我每天分享不同的故事"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-29/7411467962760187187.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "last_error": null
+  },
+  "7410059497844100379": {
+    "video_id": "7410059497844100379",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "豪田机械张晓ZhangXiao",
+      "video_id": "7410059497844100379",
+      "title": "欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机",
+      "publish_time": "2024-09-02T22:55:35+08:00",
+      "video_url": "https://www.douyin.com/video/7410059497844100379",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/af7d550307dda22192408e4a3e9d6bb7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103346800&x-signature=97W69XrnjSKVcZtceOEN9Pej0rU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260829154710C0F2199255B7066B5AA7",
+      "like_count": 21,
+      "comment_count": 6,
+      "share_count": 4,
+      "collect_count": 3,
+      "description": "欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机",
+      "text_hint": "欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机",
+      "topic_tags": [
+        "豪田封边机",
+        "豪田超级大h",
+        "豪田pur封边机",
+        "豪田智能封边机",
+        "豪田超级大H",
+        "豪田PUR封边机"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/fdcb8ccc99a0e37ff81ba4650f549a60/6a92b983/video/cn/mps/realtime/v1/r/p/v0d00fg10000crat2evog65qufdarn4g/33e436b1bf7549e982560512ddc7dffa/d25330a63ac1be754334058c4480557d/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1256&bt=1256&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNNRVQ9wGfBJHhd.52hwD03-ApQX&mime_type=video_mp4&qs=0&rc=ZGk6ZzU4OTU8PDhpNDk3NkBpanFkaXQ5cmh3dTMzNGkzM0BjYWBhLi0yNWIxNF9fMGIwYSMxb2FyMmRzL15gLS1kLWFzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=720p&dy_q=1787989631&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7410059497844100379&l=20260829154710C0F2199255B7066B5AA7&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7410059497844100379.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7410059497844100379.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 213.213,
+      "raw_payload": {
+        "aweme_id": "7410059497844100379",
+        "author_uid": "105651661430",
+        "sec_uid": "MS4wLjABAAAAP0SsUuzNhu-HR-9d_yqvxTC3u5eCLMgWo4mUWocW20M",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAP0SsUuzNhu-HR-9d_yqvxTC3u5eCLMgWo4mUWocW20M"
+      }
+    },
+    "first_seen_at": "2026-08-29T15:46:44+08:00",
+    "last_seen_at": "2026-08-29T15:46:44+08:00",
+    "fetch_runs": [
+      "2026-08-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7410059497844100379.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7410059497844100379.mp3",
+      "source": "download",
+      "processed_at": "2026-08-29T15:49:25+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7410059497844100379",
+      "transcript_raw": "欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机补充信息：欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机关键词：豪田封边机、豪田超级大h、豪田pur封边机、豪田智能封边机、豪田超级大H、豪田PUR封边机",
+      "transcript_clean": "欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机补充信息：欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机关键词：豪田封边机、豪田超级大h、豪田pur封边机、豪田智能封边机、豪田超级大H、豪田PUR封边机",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-29/7410059497844100379.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "analysis": {
+      "video_id": "7410059497844100379",
+      "summary": "豪田机械张晓ZhangXiao围绕“豪田封边机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机。欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机补充信息：欢迎大家了解咱们豪田258H系列13号智能封边机 做高定奢定的小伙伴们看过来，欢迎大家了解咱们258H系列13号大小厚薄通杀智能封边机(੭‾᷄㉨‾᷅)੭ \n#豪田封边机#豪田超级大H#豪田PUR封边机#豪田智能封边机 #豪田pur封边机关键词：豪田封边机、豪田超级大h、豪田pur封边机、豪田智能封边机、豪田超级大H、豪田PUR封边机 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "豪田封边机为什么总是做不出来结果？",
+        "先把豪田超级大h想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕豪田封边机组织标题与开头。",
+        "用豪田超级大h和豪田pur封边机补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "豪田封边机",
+        "豪田超级大h",
+        "豪田pur封边机"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-29/7410059497844100379.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "last_error": null
+  },
+  "7589177545094958388": {
+    "video_id": "7589177545094958388",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7589177545094958388",
+      "title": "在抖音记录美好生活20260829",
+      "publish_time": "2026-08-29T15:47:45+08:00",
+      "video_url": "https://www.douyin.com/video/7589177545094958388",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260829",
+      "text_hint": "在抖音记录美好生活20260829",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0dd2d434-f79c-403d-b18c-630e8c674eab",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7589177545094958388",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-29T15:46:44+08:00",
+    "last_seen_at": "2026-08-29T15:46:44+08:00",
+    "fetch_runs": [
+      "2026-08-29"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7575745731097871302": {
+    "video_id": "7575745731097871302",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "阿少滑漂🎣",
+      "video_id": "7575745731097871302",
+      "title": "钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手",
+      "publish_time": "2025-11-23T10:42:42+08:00",
+      "video_url": "https://www.douyin.com/video/7575745731097871302",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/32e8e2f215e8094a839214f2b8c23a50~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103346800&x-signature=qiLzGdQmspJIcVD4urj%2BC9KxKKs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260829154721D564F830A42D13B512E3",
+      "like_count": 74,
+      "comment_count": 118,
+      "share_count": 28,
+      "collect_count": 14,
+      "description": "钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手",
+      "text_hint": "钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手",
+      "topic_tags": [
+        "荒野钓鱼过程分享",
+        "创作者中心",
+        "创作灵感",
+        "原来钓鱼才是抖音运动顶流",
+        "钓鱼"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/21bd945a260bba359716740e271cb6dc/6a92b9ce/video/tos/cn/tos-cn-ve-15/ooXviidkiACXCffhQPjcR2eE02G8ItEXD9eAQM/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1453&bt=1453&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wpIBJHhd.52hwD03-ApQX&mime_type=video_mp4&qs=0&rc=OWY2NTVlZGc7aGdpZjg7NkBpank1dXM5cnk6NzMzNGkzM0AvMTEuL19hNWIxLmFgNS0tYSNzMjBzMmRzMmVhLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1787989641&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260829154721D564F830A42D13B512E3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7575745731097871302.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7575745731097871302.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 277.107,
+      "raw_payload": {
+        "aweme_id": "7575745731097871302",
+        "author_uid": "98102814973",
+        "sec_uid": "MS4wLjABAAAAJaiHbPq2s0xIx6QbfIGs9FoDbct0Re6s_Y1fvZ-HleE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAJaiHbPq2s0xIx6QbfIGs9FoDbct0Re6s_Y1fvZ-HleE"
+      }
+    },
+    "first_seen_at": "2026-08-29T15:46:44+08:00",
+    "last_seen_at": "2026-08-29T15:46:44+08:00",
+    "fetch_runs": [
+      "2026-08-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7575745731097871302.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7575745731097871302.mp3",
+      "source": "download",
+      "processed_at": "2026-08-29T15:48:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7575745731097871302",
+      "transcript_raw": "钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手补充信息：钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手关键词：荒野钓鱼过程分享、创作者中心、创作灵感、原来钓鱼才是抖音运动顶流、钓鱼",
+      "transcript_clean": "钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手补充信息：钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手关键词：荒野钓鱼过程分享、创作者中心、创作灵感、原来钓鱼才是抖音运动顶流、钓鱼",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-29/7575745731097871302.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "analysis": {
+      "video_id": "7575745731097871302",
+      "summary": "阿少滑漂🎣围绕“荒野钓鱼过程分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手。钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手补充信息：钟山狂拉鲫鱼的一天#荒野钓鱼过程分享 #创作者中心 #创作灵感 #原来钓鱼才是抖音运动顶流 #钓鱼 @DOU+小助手关键词：荒野钓鱼过程分享、创作者中心、创作灵感、原来钓鱼才是抖音运动顶流、钓鱼 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "荒野钓鱼过程分享为什么总是做不出来结果？",
+        "先把创作者中心想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕荒野钓鱼过程分享组织标题与开头。",
+        "用创作者中心和创作灵感补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "荒野钓鱼过程分享",
+        "创作者中心",
+        "创作灵感"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-29/7575745731097871302.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "last_error": null
+  },
+  "7121211672659905805": {
+    "video_id": "7121211672659905805",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "大黄蜂",
+      "video_id": "7121211672659905805",
+      "title": "鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏",
+      "publish_time": "2022-07-17T13:38:56+08:00",
+      "video_url": "https://www.douyin.com/video/7121211672659905805",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ff696638a29a8bdd041f685e04ac2073~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103346800&x-signature=oIFW1cqPVDAl3Ey%2FPMernmu%2BRAQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260829154724EB75AB553CAC72EAD570",
+      "like_count": 344,
+      "comment_count": 25,
+      "share_count": 16,
+      "collect_count": 24,
+      "description": "鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏",
+      "text_hint": "鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏",
+      "topic_tags": [
+        "原神盛夏海岛大冒险",
+        "原神",
+        "大黄蜂出品",
+        "鹿野院平藏"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/493d4a92a44881e364ff9eeb35d60183/6a92ba58/video/tos/cn/tos-cn-ve-0015c800/7534de3da97d49fabf66b07453d28197/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2173&bt=2173&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wnIBJHhd.52hwD03-ApQX&mime_type=video_mp4&qs=0&rc=Nzs7O2Q1aThpOzNlO2ZpNUBpam1tbWY6ZnZzZTMzNGkzM0BeLy5eNjVhNjQxLjRiXjYzYSNzcDVucjRvcTZgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=102u_100o_100w_100B_100H&dy_q=1787989644&l=20260829154724EB75AB553CAC72EAD570",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7121211672659905805.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7121211672659905805.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 412.757,
+      "raw_payload": {
+        "aweme_id": "7121211672659905805",
+        "author_uid": "82119787708",
+        "sec_uid": "MS4wLjABAAAAVUohEA7sPHtng24qde9V2DKSF5xeOxv6Zz2-jBb14Tk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAVUohEA7sPHtng24qde9V2DKSF5xeOxv6Zz2-jBb14Tk"
+      }
+    },
+    "first_seen_at": "2026-08-29T15:46:44+08:00",
+    "last_seen_at": "2026-08-29T15:46:44+08:00",
+    "fetch_runs": [
+      "2026-08-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7121211672659905805.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7121211672659905805.mp3",
+      "source": "download",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7121211672659905805",
+      "transcript_raw": "鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏补充信息：鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏关键词：原神盛夏海岛大冒险、原神、大黄蜂出品、鹿野院平藏",
+      "transcript_clean": "鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏补充信息：鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏关键词：原神盛夏海岛大冒险、原神、大黄蜂出品、鹿野院平藏",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-29/7121211672659905805.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "analysis": {
+      "video_id": "7121211672659905805",
+      "summary": "大黄蜂围绕“原神盛夏海岛大冒险”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏。鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏补充信息：鹿野院平藏攻略之天赋#原神盛夏海岛大冒险 #原神 #大黄蜂出品#鹿野院平藏关键词：原神盛夏海岛大冒险、原神、大黄蜂出品、鹿野院平藏 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "原神盛夏海岛大冒险为什么总是做不出来结果？",
+        "先把原神想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕原神盛夏海岛大冒险组织标题与开头。",
+        "用原神和大黄蜂出品补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "原神盛夏海岛大冒险",
+        "原神",
+        "大黄蜂出品"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-29/7121211672659905805.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "last_error": null
+  },
+  "7349024432649702694": {
+    "video_id": "7349024432649702694",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7349024432649702694",
+      "title": "#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩",
+      "publish_time": "2024-03-22T03:28:00+08:00",
+      "video_url": "https://www.douyin.com/video/7349024432649702694",
+      "cover_url": "",
+      "like_count": 338,
+      "comment_count": 255,
+      "share_count": 21,
+      "collect_count": 190,
+      "description": "#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩",
+      "text_hint": "#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩",
+      "topic_tags": [
+        "海钓",
+        "抖音垂钓季",
+        "船矶"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/07ca1fd50f55b0f462fcea243f70cf90/6a92b9a2/video/tos/cn/tos-cn-ve-0015c800/owK7DfDjbqfxYkEfBDp6c7AQnbAW8BgRUCtLPI/?a=6383&br=814&bt=814&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1787989660&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wdIBJHhd.52hwD03-ApQX&is_ssr=1&l=20260829154740FC7C6A8E530689DB1CD5&lr=all&mime_type=video_mp4&qs=12&rc=NDw6OWU5ZDlkOmQ4Ojg7ZUBpajtwcjM6ZnhpcTMzNGkzM0AwYy41NS4zNWAxYi8uMTRjYSNmaGFzcjRnaHJgLS1kLS9zcw%3D%3D&__vid=7349024432649702694",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7349024432649702694.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7349024432649702694.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7349024432649702694",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-29T15:46:44+08:00",
+    "last_seen_at": "2026-08-29T15:46:44+08:00",
+    "fetch_runs": [
+      "2026-08-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7349024432649702694.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-29/7349024432649702694.mp3",
+      "source": "download",
+      "processed_at": "2026-08-29T15:49:37+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7349024432649702694",
+      "transcript_raw": "#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩补充信息：#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩关键词：海钓、抖音垂钓季、船矶",
+      "transcript_clean": "#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩补充信息：#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩关键词：海钓、抖音垂钓季、船矶",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-29/7349024432649702694.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "analysis": {
+      "video_id": "7349024432649702694",
+      "summary": "知雪围绕“海钓”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩。#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩补充信息：#海钓 #抖音垂钓季 #船矶 钓友们，看这个鱼泛滥，多久没遇到这样的鱼口，太爽了。最后的更精彩关键词：海钓、抖音垂钓季、船矶 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "海钓为什么总是做不出来结果？",
+        "先把抖音垂钓季想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕海钓组织标题与开头。",
+        "用抖音垂钓季和船矶补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "海钓",
+        "抖音垂钓季",
+        "船矶"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-29/7349024432649702694.json",
+      "processed_at": "2026-08-29T15:50:43+08:00"
+    },
+    "last_error": null
   }
 }
