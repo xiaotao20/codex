@@ -36646,5 +36646,458 @@
       "processed_at": "2026-08-29T15:50:43+08:00"
     },
     "last_error": null
+  },
+  "7602980756813548863": {
+    "video_id": "7602980756813548863",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7602980756813548863",
+      "title": "在抖音记录美好生活20260830",
+      "publish_time": "2026-08-30T14:25:38+08:00",
+      "video_url": "https://www.douyin.com/video/7602980756813548863",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260830",
+      "text_hint": "在抖音记录美好生活20260830",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0148c8be-29e3-4446-9fcc-2cc86b5abad4",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7602980756813548863",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-30T14:24:20+08:00",
+    "last_seen_at": "2026-08-30T14:24:20+08:00",
+    "fetch_runs": [
+      "2026-08-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7366164518881348875": {
+    "video_id": "7366164518881348875",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "新新电子铺",
+      "video_id": "7366164518881348875",
+      "title": "7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机",
+      "publish_time": "2024-05-07T16:01:02+08:00",
+      "video_url": "https://www.douyin.com/video/7366164518881348875",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/31c50c2edfc63be418395ea9346554f9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103429600&x-signature=6xxYuATs1VJtW5oK%2BhHizofAb0o%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026083014244681874ECB0841B0D67680",
+      "like_count": 209,
+      "comment_count": 30,
+      "share_count": 35,
+      "collect_count": 171,
+      "description": "7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机",
+      "text_hint": "7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机",
+      "topic_tags": [
+        "零基础学电工",
+        "电子爱好者",
+        "锂电池组装",
+        "锂电池定制",
+        "航模飞机"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/31c68181d7e6a80881504e359699246f/6a93f89f/video/tos/cn/tos-cn-ve-15/oQoUBffDGIrD7sMBgWiqAcW7VCPAdE9LFQ7fEA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1079&bt=1079&cs=0&ds=6&ft=CZdgCYlIDyjNbRVQ9wj7WJHhd.7XRCM73-ApQX&mime_type=video_mp4&qs=1&rc=aTRlZ2Y1ZTwzN2VlPDdlZEBpM3B4NW85cml3cjMzNGkzM0BgMDYtMWMzNTUxY2AxYF9gYSNpbGdsMmRzc3BgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100D_100J_100o_100w_100B&dy_q=1788071086&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026083014244681874ECB0841B0D67680",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7366164518881348875.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7366164518881348875.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 449.075,
+      "raw_payload": {
+        "aweme_id": "7366164518881348875",
+        "author_uid": "220382126941629",
+        "sec_uid": "MS4wLjABAAAAV6zZLLHMzIvWJgbJIMyiMYHgJqANXvCMQ4fFSLnO5dY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAV6zZLLHMzIvWJgbJIMyiMYHgJqANXvCMQ4fFSLnO5dY"
+      }
+    },
+    "first_seen_at": "2026-08-30T14:24:20+08:00",
+    "last_seen_at": "2026-08-30T14:24:20+08:00",
+    "fetch_runs": [
+      "2026-08-30"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7366164518881348875.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7366164518881348875.mp3",
+      "source": "download",
+      "processed_at": "2026-08-30T14:29:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7366164518881348875",
+      "transcript_raw": "7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机补充信息：7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机关键词：零基础学电工、电子爱好者、锂电池组装、锂电池定制、航模飞机",
+      "transcript_clean": "7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机补充信息：7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机关键词：零基础学电工、电子爱好者、锂电池组装、锂电池定制、航模飞机",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-30/7366164518881348875.json",
+      "processed_at": "2026-08-30T14:29:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7366164518881348875",
+      "summary": "新新电子铺围绕“零基础学电工”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机。7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机补充信息：7分钟学会用圆柱电池制作航模电池组 #零基础学电工 #电子爱好者 #锂电池组装 #锂电池定制 #航模飞机关键词：零基础学电工、电子爱好者、锂电池组装、锂电池定制、航模飞机 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "零基础学电工为什么总是做不出来结果？",
+        "先把电子爱好者想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕零基础学电工组织标题与开头。",
+        "用电子爱好者和锂电池组装补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "零基础学电工",
+        "电子爱好者",
+        "锂电池组装"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-30/7366164518881348875.json",
+      "processed_at": "2026-08-30T14:29:08+08:00"
+    },
+    "last_error": null
+  },
+  "7361649415758564660": {
+    "video_id": "7361649415758564660",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7361649415758564660",
+      "title": "在抖音记录美好生活20260830",
+      "publish_time": "2026-08-30T14:25:38+08:00",
+      "video_url": "https://www.douyin.com/video/7361649415758564660",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260830",
+      "text_hint": "在抖音记录美好生活20260830",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/49991315-c59e-42d7-8018-33197a08e65b",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7361649415758564660",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-30T14:24:20+08:00",
+    "last_seen_at": "2026-08-30T14:24:20+08:00",
+    "fetch_runs": [
+      "2026-08-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7575519728916097401": {
+    "video_id": "7575519728916097401",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7575519728916097401",
+      "title": "#玉子豆腐 #解馋 #健康饮食 #厨房里的欢乐时光",
+      "publish_time": "2025-11-22T12:05:00+08:00",
+      "video_url": "https://www.douyin.com/video/7575519728916097401",
+      "cover_url": "",
+      "like_count": 30,
+      "comment_count": 2,
+      "share_count": 4,
+      "collect_count": 0,
+      "description": "#玉子豆腐 #解馋 #健康饮食 #厨房里的欢乐时光",
+      "text_hint": "#玉子豆腐 #解馋 #健康饮食 #厨房里的欢乐时光",
+      "topic_tags": [
+        "玉子豆腐",
+        "解馋",
+        "健康饮食",
+        "厨房里的欢乐时光"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/e3cbb0f5-6d5a-4012-a93b-6918053b5e82",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7575519728916097401",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-30T14:24:20+08:00",
+    "last_seen_at": "2026-08-30T14:24:20+08:00",
+    "fetch_runs": [
+      "2026-08-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7513890698513468726": {
+    "video_id": "7513890698513468726",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "何必躺的瓜",
+      "video_id": "7513890698513468726",
+      "title": "凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友",
+      "publish_time": "2025-06-09T18:15:15+08:00",
+      "video_url": "https://www.douyin.com/video/7513890698513468726",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/14d9d95638f5a03549ddd749e4fa1892~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103429600&x-signature=POgZz78MZi3K3RlcRFqu0JBUYJM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260830142515926BF8CC838C06ED2929",
+      "like_count": 1268,
+      "comment_count": 157,
+      "share_count": 226,
+      "collect_count": 37,
+      "description": "凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友",
+      "text_hint": "凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友",
+      "topic_tags": [
+        "逆水寒手游",
+        "逆水寒树洞故事",
+        "逆水寒全民制作人"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a1fa91edd616fe92729b8edd7ce95646/6a93f827/video/tos/cn/tos-cn-ve-0015c800/oMfcsGPIW7IdjXBQAfRE7y4LcelO86BEBGXCAI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2393&bt=2393&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wl4WJHhd.7XRCM73-ApQX&mime_type=video_mp4&qs=0&rc=Z2k5aDs0PDhpOmk7ODY4NUBpandqeHk5cnllNDMzNGkzM0A2NTFhYzVhXmExMC9gYTAyYSNfZDBzMmRjMDBhLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100H_100K&dy_q=1788071115&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260830142515926BF8CC838C06ED2929",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7513890698513468726.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7513890698513468726.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 300.142,
+      "raw_payload": {
+        "aweme_id": "7513890698513468726",
+        "author_uid": "3751959773841869",
+        "sec_uid": "MS4wLjABAAAAEkRsJfSLVOmRjqAcnR3SowR8uTyIYUa4ot8U29bVdWA2ItcC8UUsZSN5Zzg-RgKa",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAEkRsJfSLVOmRjqAcnR3SowR8uTyIYUa4ot8U29bVdWA2ItcC8UUsZSN5Zzg-RgKa"
+      }
+    },
+    "first_seen_at": "2026-08-30T14:24:20+08:00",
+    "last_seen_at": "2026-08-30T14:24:20+08:00",
+    "fetch_runs": [
+      "2026-08-30"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7513890698513468726.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7513890698513468726.mp3",
+      "source": "download",
+      "processed_at": "2026-08-30T14:28:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7513890698513468726",
+      "transcript_raw": "凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友补充信息：凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友关键词：逆水寒手游、逆水寒树洞故事、逆水寒全民制作人",
+      "transcript_clean": "凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友补充信息：凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友关键词：逆水寒手游、逆水寒树洞故事、逆水寒全民制作人",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-30/7513890698513468726.json",
+      "processed_at": "2026-08-30T14:29:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7513890698513468726",
+      "summary": "何必躺的瓜围绕“逆水寒手游”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友。凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友补充信息：凭本事赚的钱，为什么要给你？？ #逆水寒手游  #逆水寒树洞故事 #逆水寒全民制作人 逆水寒手游还是太权威，以前真听过租男友，逆水寒直接先一步，合作男友关键词：逆水寒手游、逆水寒树洞故事、逆水寒全民制作人 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "逆水寒手游为什么总是做不出来结果？",
+        "先把逆水寒树洞故事想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕逆水寒手游组织标题与开头。",
+        "用逆水寒树洞故事和逆水寒全民制作人补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "逆水寒手游",
+        "逆水寒树洞故事",
+        "逆水寒全民制作人"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-30/7513890698513468726.json",
+      "processed_at": "2026-08-30T14:29:08+08:00"
+    },
+    "last_error": null
+  },
+  "7566831230621699380": {
+    "video_id": "7566831230621699380",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小小伍",
+      "video_id": "7566831230621699380",
+      "title": "宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山",
+      "publish_time": "2025-10-30T10:09:51+08:00",
+      "video_url": "https://www.douyin.com/video/7566831230621699380",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/okfpVU9AALDADCdEPyFjjEAOAMAyIgCespACqA~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103429600&x-signature=d1S2N7BNfbUGNhLdu%2BJngIeDm8M%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260830142517E526B690B0EE7BECC4DF",
+      "like_count": 211,
+      "comment_count": 67,
+      "share_count": 330,
+      "collect_count": 175,
+      "description": "宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山",
+      "text_hint": "宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山",
+      "topic_tags": [
+        "户外爬山",
+        "爬山",
+        "户外登山",
+        "野外户外",
+        "宝鸡三凤山"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0302b1f81337c2f0a1c2888befe8c9e3/6a93f86b/video/tos/cn/tos-cn-ve-15/o0EDA5YCes5JnDxNgkgYg14ERf27AyebCIwje2/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4709&bt=4709&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9w84WJHhd.7XRCM73-ApQX&mime_type=video_mp4&qs=0&rc=NjRlNjs0OTUzNDVnMzg7ZUBpajl5Omw5cmRmNzMzNGkzM0BiXy02Y15gNi0xNTA2MDRiYSMtY2EuMmQ0Yi5hLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1788071117&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260830142517E526B690B0EE7BECC4DF",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7566831230621699380.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7566831230621699380.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 366.134,
+      "raw_payload": {
+        "aweme_id": "7566831230621699380",
+        "author_uid": "1192295363777853",
+        "sec_uid": "MS4wLjABAAAAEyrhCD-F2oRBlKmGrJVdYZqp3CcjWrPPiN5nX0nhLZOFvtJ0Ze74VLe_IHAJN1vz",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAEyrhCD-F2oRBlKmGrJVdYZqp3CcjWrPPiN5nX0nhLZOFvtJ0Ze74VLe_IHAJN1vz"
+      }
+    },
+    "first_seen_at": "2026-08-30T14:24:20+08:00",
+    "last_seen_at": "2026-08-30T14:24:20+08:00",
+    "fetch_runs": [
+      "2026-08-30"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7566831230621699380.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-30/7566831230621699380.mp3",
+      "source": "download",
+      "processed_at": "2026-08-30T14:27:32+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7566831230621699380",
+      "transcript_raw": "宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山补充信息：宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山关键词：户外爬山、爬山、户外登山、野外户外、宝鸡三凤山",
+      "transcript_clean": "宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山补充信息：宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山关键词：户外爬山、爬山、户外登山、野外户外、宝鸡三凤山",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-30/7566831230621699380.json",
+      "processed_at": "2026-08-30T14:29:08+08:00"
+    },
+    "analysis": {
+      "video_id": "7566831230621699380",
+      "summary": "小小伍围绕“户外爬山”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山。宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山补充信息：宝鸡三凤山遛娃休闲好去处，记得收藏哦。#户外爬山 #爬山 #户外登山 #野外户外 #宝鸡三凤山关键词：户外爬山、爬山、户外登山、野外户外、宝鸡三凤山 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "户外爬山为什么总是做不出来结果？",
+        "先把爬山想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕户外爬山组织标题与开头。",
+        "用爬山和户外登山补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "户外爬山",
+        "爬山",
+        "户外登山"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-30/7566831230621699380.json",
+      "processed_at": "2026-08-30T14:29:08+08:00"
+    },
+    "last_error": null
+  },
+  "7449865275421314331": {
+    "video_id": "7449865275421314331",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7449865275421314331",
+      "title": "剑灵怀旧服 「可疑的黑龙仪式」 - 浊魔灵的袭击（简单讲解和BOSS地点分享）#剑灵 #游戏 #游戏日常 #剑灵怀旧 @《剑灵》官方账号 @阿伟游戏机",
+      "publish_time": "2024-12-18T21:22:00+08:00",
+      "video_url": "https://www.douyin.com/video/7449865275421314331",
+      "cover_url": "",
+      "like_count": 160,
+      "comment_count": 35,
+      "share_count": 58,
+      "collect_count": 49,
+      "description": "剑灵怀旧服 「可疑的黑龙仪式」 - 浊魔灵的袭击（简单讲解和BOSS地点分享）#剑灵 #游戏 #游戏日常 #剑灵怀旧 @《剑灵》官方账号 @阿伟游戏机",
+      "text_hint": "剑灵怀旧服 「可疑的黑龙仪式」 - 浊魔灵的袭击（简单讲解和BOSS地点分享）#剑灵 #游戏 #游戏日常 #剑灵怀旧 @《剑灵》官方账号 @阿伟游戏机",
+      "topic_tags": [
+        "剑灵",
+        "游戏",
+        "游戏日常",
+        "剑灵怀旧"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/b6b45b40-b703-4ea1-877b-0f50b0d5b9ca",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7449865275421314331",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-08-30T14:24:20+08:00",
+    "last_seen_at": "2026-08-30T14:24:20+08:00",
+    "fetch_runs": [
+      "2026-08-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
