@@ -37099,5 +37099,488 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7624369589337541888": {
+    "video_id": "7624369589337541888",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7624369589337541888",
+      "title": "在抖音记录美好生活20260831",
+      "publish_time": "2026-08-31T14:53:21+08:00",
+      "video_url": "https://www.douyin.com/video/7624369589337541888",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260831",
+      "text_hint": "在抖音记录美好生活20260831",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/5b557809-7f01-415c-bffb-13fe03ae07b0",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7624369589337541888",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-31T14:52:11+08:00",
+    "last_seen_at": "2026-08-31T14:52:11+08:00",
+    "fetch_runs": [
+      "2026-08-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7253746051687992631": {
+    "video_id": "7253746051687992631",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "流星～",
+      "video_id": "7253746051687992631",
+      "title": "气动卡盘没有行程，拆开里面全是铁粉",
+      "publish_time": "2023-07-09T17:19:32+08:00",
+      "video_url": "https://www.douyin.com/video/7253746051687992631",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bf649911cd9259b943d18dced0212c6a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103516000&x-signature=K4yBr4WNr%2B3BzUtYKrDBZXw%2FS2Q%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202608311452409A0B1428BA0031FD4919",
+      "like_count": 38,
+      "comment_count": 0,
+      "share_count": 17,
+      "collect_count": 20,
+      "description": "气动卡盘没有行程，拆开里面全是铁粉",
+      "text_hint": "气动卡盘没有行程，拆开里面全是铁粉",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/12922434f6856a61a904fd67b3ee8f9c/6a95509e/video/tos/cn/tos-cn-ve-0015c800/oAjkEylpPAe7C98Bgg8QqfNn2bFN0HnDAABNUR/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=672&bt=672&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wbusCHhd.DLI7103-ApQX&mime_type=video_mp4&qs=0&rc=PGc4ZWhkNmkzPGk3OGlmaEBpMzY8Zmg6Znc6bDMzNGkzM0AvNmAwLy41XjQxNWA0Yy5jYSNebl9wcjRnZmlgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1788159160&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202608311452409A0B1428BA0031FD4919",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7253746051687992631.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7253746051687992631.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 438.034,
+      "raw_payload": {
+        "aweme_id": "7253746051687992631",
+        "author_uid": "53045538243",
+        "sec_uid": "MS4wLjABAAAA7Xob3Hur7ixIEQpx4HSMNZ9Go55g1Qo67lUEUJNBcmk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7Xob3Hur7ixIEQpx4HSMNZ9Go55g1Qo67lUEUJNBcmk"
+      }
+    },
+    "first_seen_at": "2026-08-31T14:52:11+08:00",
+    "last_seen_at": "2026-08-31T14:52:11+08:00",
+    "fetch_runs": [
+      "2026-08-31"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7253746051687992631.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7253746051687992631.mp3",
+      "source": "download",
+      "processed_at": "2026-08-31T14:54:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7253746051687992631",
+      "transcript_raw": "气动卡盘没有行程，拆开里面全是铁粉气动卡盘没有行程，拆开里面全是铁粉补充信息：气动卡盘没有行程，拆开里面全是铁粉",
+      "transcript_clean": "气动卡盘没有行程，拆开里面全是铁粉气动卡盘没有行程，拆开里面全是铁粉补充信息：气动卡盘没有行程，拆开里面全是铁粉",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-31/7253746051687992631.json",
+      "processed_at": "2026-08-31T14:54:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7253746051687992631",
+      "summary": "流星～围绕“气动卡盘没有行程，拆开里面全是铁粉气动卡盘没有行程，拆开里面全是铁粉补充信息：气动卡盘没有行程，拆开里面全是铁粉”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "气动卡盘没有行程，拆开里面全是铁粉。气动卡盘没有行程，拆开里面全是铁粉气动卡盘没有行程，拆开里面全是铁粉补充信息：气动卡盘没有行程，拆开里面全是铁粉 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "气动卡盘没有行程，拆开里面全是铁粉气动卡盘没有行程，拆开里面全是铁粉补充信息：气动卡盘没有行程，拆开里面全是铁粉为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕气动卡盘没有行程，拆开里面全是铁粉气动卡盘没有行程，拆开里面全是铁粉补充信息：气动卡盘没有行程，拆开里面全是铁粉组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "气动卡盘没有行程，拆开里面全是铁粉气动卡盘没有行程，拆开里面全是铁粉补充信息：气动卡盘没有行程，拆开里面全是铁粉",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-31/7253746051687992631.json",
+      "processed_at": "2026-08-31T14:54:42+08:00"
+    },
+    "last_error": null
+  },
+  "7251168079462386944": {
+    "video_id": "7251168079462386944",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7251168079462386944",
+      "title": "在抖音记录美好生活20260831",
+      "publish_time": "2026-08-31T14:53:21+08:00",
+      "video_url": "https://www.douyin.com/video/7251168079462386944",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260831",
+      "text_hint": "在抖音记录美好生活20260831",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/14b16dda-4dd8-4890-a4f0-58da5a368664",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7251168079462386944",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-31T14:52:11+08:00",
+    "last_seen_at": "2026-08-31T14:52:11+08:00",
+    "fetch_runs": [
+      "2026-08-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7579422636058826865": {
+    "video_id": "7579422636058826865",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7579422636058826865",
+      "title": "在抖音记录美好生活20260831",
+      "publish_time": "2026-08-31T14:53:21+08:00",
+      "video_url": "https://www.douyin.com/video/7579422636058826865",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260831",
+      "text_hint": "在抖音记录美好生活20260831",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/bbbfa878-3cdc-4b0c-b169-a9e7940f0598",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7579422636058826865",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-31T14:52:11+08:00",
+    "last_seen_at": "2026-08-31T14:52:11+08:00",
+    "fetch_runs": [
+      "2026-08-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7509112525217647929": {
+    "video_id": "7509112525217647929",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "婉婉🩵（一直爱鹭卓）",
+      "video_id": "7509112525217647929",
+      "title": "家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy",
+      "publish_time": "2025-05-27T21:11:45+08:00",
+      "video_url": "https://www.douyin.com/video/7509112525217647929",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/fa455cd4892a582796a01a144a393852~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103516000&x-signature=TRGEVYXFjJ1IfdRKRvnGarY%2Ff%2Fc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026083114525762A94D8D4AE5325EBE84",
+      "like_count": 83,
+      "comment_count": 10,
+      "share_count": 25,
+      "collect_count": 63,
+      "description": "家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy",
+      "text_hint": "家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy",
+      "topic_tags": [
+        "后米棒改造",
+        "十个勤天",
+        "禾伙人",
+        "diy"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/76240c9eb684ff2eace9c30de9845a79/6a954fd0/video/tos/cn/tos-cn-ve-15c000-ce/ooeCziExQzXfs4Gyn0h8APe1hqIAEg9ZBtuyiw/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1242&bt=1242&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wpasCHhd.DLI7103-ApQX&mime_type=video_mp4&qs=0&rc=O2RkZjw6ODtpZGk0ZDgzZEBpamw6ZnI5cmV1MzMzbGkzNEBjYWAvYTBeX2IxLS0zMi1gYSM0b29tMmRzZ25hLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100x_100z&dy_q=1788159177&feature_id=fea919893f650a8c49286568590446ef&l=2026083114525762A94D8D4AE5325EBE84",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7509112525217647929.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7509112525217647929.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 215.3,
+      "raw_payload": {
+        "aweme_id": "7509112525217647929",
+        "author_uid": "248968327470448",
+        "sec_uid": "MS4wLjABAAAAEm_HR_EkG8J_PyG2_TdLqLt2iJlX80zMjbdOLLvgNMk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAEm_HR_EkG8J_PyG2_TdLqLt2iJlX80zMjbdOLLvgNMk"
+      }
+    },
+    "first_seen_at": "2026-08-31T14:52:11+08:00",
+    "last_seen_at": "2026-08-31T14:52:11+08:00",
+    "fetch_runs": [
+      "2026-08-31"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7509112525217647929.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7509112525217647929.mp3",
+      "source": "download",
+      "processed_at": "2026-08-31T14:53:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7509112525217647929",
+      "transcript_raw": "家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy补充信息：家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy关键词：后米棒改造、十个勤天、禾伙人、diy",
+      "transcript_clean": "家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy补充信息：家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy关键词：后米棒改造、十个勤天、禾伙人、diy",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-31/7509112525217647929.json",
+      "processed_at": "2026-08-31T14:54:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7509112525217647929",
+      "summary": "婉婉🩵（一直爱鹭卓）围绕“后米棒改造”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy。家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy补充信息：家禾们想要教程的话！那么家禾们必须得到！用一首歌的时间教会大家，期待大家的作品哦！#后米棒改造 #十个勤天 #禾伙人 #diy关键词：后米棒改造、十个勤天、禾伙人、diy 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "后米棒改造为什么总是做不出来结果？",
+        "先把十个勤天想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕后米棒改造组织标题与开头。",
+        "用十个勤天和禾伙人补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "后米棒改造",
+        "十个勤天",
+        "禾伙人"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-31/7509112525217647929.json",
+      "processed_at": "2026-08-31T14:54:42+08:00"
+    },
+    "last_error": null
+  },
+  "7319727210984672546": {
+    "video_id": "7319727210984672546",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "栗子观事",
+      "video_id": "7319727210984672546",
+      "title": "盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间",
+      "publish_time": "2024-01-03T12:40:11+08:00",
+      "video_url": "https://www.douyin.com/video/7319727210984672546",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/aca291451efc1aa688bb320ceb9c2f79~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103516000&x-signature=pXO0ahQkLCChv8Ns7hy6FiNTUzE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260831145300C64D325392E1220B1AA2",
+      "like_count": 55,
+      "comment_count": 17,
+      "share_count": 11,
+      "collect_count": 1,
+      "description": "盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间",
+      "text_hint": "盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间",
+      "topic_tags": [
+        "交通事故",
+        "车祸瞬间"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/90820907c8fedf42ab567d425b4151e5/6a955089/video/tos/cn/tos-cn-ve-0015c800/oQDhICGbOaMQL6A9m5llQheFUFxnIegAA8EFUB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1000&bt=1000&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wnasCHhd.DLI7103-ApQX&mime_type=video_mp4&qs=0&rc=PDQ5PGc8ZjM0ZjloZGk2OUBpMzlxNDU6ZnNocDMzNGkzM0AwLS5iNTRhXy8xNjYvXy02YSMycC0xcjRnL15gLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1788159180&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260831145300C64D325392E1220B1AA2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7319727210984672546.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7319727210984672546.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 397.549,
+      "raw_payload": {
+        "aweme_id": "7319727210984672546",
+        "author_uid": "3697005100019928",
+        "sec_uid": "MS4wLjABAAAA-x_sBU84SC1siKLMacRFKoK2TdnWpEgXreczuJ8SnpSMKeCxTza56C9Tb54DT1zp",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA-x_sBU84SC1siKLMacRFKoK2TdnWpEgXreczuJ8SnpSMKeCxTza56C9Tb54DT1zp"
+      }
+    },
+    "first_seen_at": "2026-08-31T14:52:11+08:00",
+    "last_seen_at": "2026-08-31T14:52:11+08:00",
+    "fetch_runs": [
+      "2026-08-31"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7319727210984672546.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7319727210984672546.mp3",
+      "source": "download",
+      "processed_at": "2026-08-31T14:54:20+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7319727210984672546",
+      "transcript_raw": "盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间补充信息：盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间关键词：交通事故、车祸瞬间",
+      "transcript_clean": "盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间补充信息：盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间关键词：交通事故、车祸瞬间",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-31/7319727210984672546.json",
+      "processed_at": "2026-08-31T14:54:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7319727210984672546",
+      "summary": "栗子观事围绕“交通事故”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间。盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间补充信息：盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故 #车祸瞬间关键词：交通事故、车祸瞬间 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "交通事故为什么总是做不出来结果？",
+        "先把车祸瞬间想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕交通事故组织标题与开头。",
+        "用车祸瞬间和盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "交通事故",
+        "车祸瞬间",
+        "盘点监控下的车祸瞬间，安全放在第一位，别把马路当自己家#交通事故"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-31/7319727210984672546.json",
+      "processed_at": "2026-08-31T14:54:42+08:00"
+    },
+    "last_error": null
+  },
+  "7511708196794305849": {
+    "video_id": "7511708196794305849",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7511708196794305849",
+      "title": "平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭",
+      "publish_time": "2025-06-03T13:04:00+08:00",
+      "video_url": "https://www.douyin.com/video/7511708196794305849",
+      "cover_url": "",
+      "like_count": 587,
+      "comment_count": 66,
+      "share_count": 235,
+      "collect_count": 54,
+      "description": "平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭",
+      "text_hint": "平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭",
+      "topic_tags": [
+        "穿搭",
+        "ootd",
+        "黑白灰穿搭",
+        "黑色系",
+        "平价穿搭"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c9903463a7f6648497254449e71ddb94/6a954fc0/video/tos/cn/tos-cn-ve-15c000-ce/oc5CEO3PwFp9AQQpoVIxcmFpA6Eeevf9CzgQDn/?a=6383&br=491&bt=491&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1788159196&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wdasCHhd.DLI7103-ApQX&is_ssr=1&l=20260831145316B84AE4CFE288689C795D&lr=all&mime_type=video_mp4&qs=12&rc=OWY5NTU1aDNoOjQ0aDZnOkBpM3M0bW45cnhpMzMzbGkzNEAuLTMyMl5hNl8xNTMyYjBgYSNobmVnMmRjL3NhLS1kLWJzcw%3D%3D&__vid=7511708196794305849",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7511708196794305849.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7511708196794305849.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7511708196794305849",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-08-31T14:52:11+08:00",
+    "last_seen_at": "2026-08-31T14:52:11+08:00",
+    "fetch_runs": [
+      "2026-08-31"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7511708196794305849.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-08-31/7511708196794305849.mp3",
+      "source": "download",
+      "processed_at": "2026-08-31T14:53:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7511708196794305849",
+      "transcript_raw": "平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭补充信息：平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭关键词：穿搭、ootd、黑白灰穿搭、黑色系、平价穿搭",
+      "transcript_clean": "平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭补充信息：平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭关键词：穿搭、ootd、黑白灰穿搭、黑色系、平价穿搭",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-08-31/7511708196794305849.json",
+      "processed_at": "2026-08-31T14:54:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7511708196794305849",
+      "summary": "知雪围绕“穿搭”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭。平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭补充信息：平价！素颜也能穿！有质感黑白灰穿搭分享！ #穿搭 #ootd #黑白灰穿搭 #黑色系 #平价穿搭关键词：穿搭、ootd、黑白灰穿搭、黑色系、平价穿搭 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "穿搭为什么总是做不出来结果？",
+        "先把ootd想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕穿搭组织标题与开头。",
+        "用ootd和黑白灰穿搭补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "穿搭",
+        "ootd",
+        "黑白灰穿搭"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-08-31/7511708196794305849.json",
+      "processed_at": "2026-08-31T14:54:42+08:00"
+    },
+    "last_error": null
   }
 }
