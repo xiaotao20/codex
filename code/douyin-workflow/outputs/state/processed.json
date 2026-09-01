@@ -37582,5 +37582,578 @@
       "processed_at": "2026-08-31T14:54:42+08:00"
     },
     "last_error": null
+  },
+  "7657107625653955465": {
+    "video_id": "7657107625653955465",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "陕西预警发布",
+      "video_id": "7657107625653955465",
+      "title": "陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]",
+      "publish_time": "2026-06-30T16:48:17+08:00",
+      "video_url": "https://www.douyin.com/video/7657107625653955465",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/be1a06e1799e0fc4a73a46b0cdfbcafe~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103602400&x-signature=60unFsZ4NtGI4akoU9xMwF%2FBEvg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026090114111037E7297155BF428C6DD8",
+      "like_count": 22,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 5,
+      "description": "陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]",
+      "text_hint": "陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ab51eceeb66880f723b0c39c357bf52a/6a9696bd/video/tos/cn/tos-cn-ve-15/oI1EgCIIKUbgAh17pecoAqsFD4qtKsAUeMBFZC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=412&bt=412&cs=0&ds=3&ft=CZdgCYlIDyjNewVQ9wEN6CHhd.ADJLX73-ApQX&mime_type=video_mp4&qs=0&rc=NGhoOztmZDc3ZGg2Ojg7NUBpam5tZGRrb25yPDMzNGkzM0BhLzI2MzJeNjUxNTBhY2EwYSNxXl4ycWcvMi5hLS1kLS9zcw%3D%3D&btag=c0000e00010000&cquery=100B_100Y_100J_100o_100w&dy_q=1788243070&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=2026090114111037E7297155BF428C6DD8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7657107625653955465.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7657107625653955465.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 15.0,
+      "raw_payload": {
+        "aweme_id": "7657107625653955465",
+        "author_uid": "94194705870",
+        "sec_uid": "MS4wLjABAAAAGP3OBYgfmwcPF7TzBBtcPEzoigl19hYv7CyQ4zr-Z3o",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAGP3OBYgfmwcPF7TzBBtcPEzoigl19hYv7CyQ4zr-Z3o"
+      }
+    },
+    "first_seen_at": "2026-09-01T14:10:44+08:00",
+    "last_seen_at": "2026-09-01T14:10:44+08:00",
+    "fetch_runs": [
+      "2026-09-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7657107625653955465.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7657107625653955465.mp3",
+      "source": "download",
+      "processed_at": "2026-09-01T14:12:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7657107625653955465",
+      "transcript_raw": "陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]补充信息：陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]",
+      "transcript_clean": "陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]补充信息：陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-01/7657107625653955465.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7657107625653955465",
+      "summary": "陕西预警发布围绕“陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]补充信息：陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]。陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]补充信息：陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般] 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]补充信息：陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]补充信息：陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]补充信息：陕西省气象台发布山洪灾害事件蓝色预警[Ⅳ级/一般]",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-01/7657107625653955465.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "last_error": null
+  },
+  "7390556818033904946": {
+    "video_id": "7390556818033904946",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "悟道六维空间",
+      "video_id": "7390556818033904946",
+      "title": "嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手",
+      "publish_time": "2024-07-12T09:35:17+08:00",
+      "video_url": "https://www.douyin.com/video/7390556818033904946",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/732b4c9e0758c0eb8af129fa59bfddfe~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103602400&x-signature=x%2BVj9%2BZ69k0gCLss2p9WOIqVU%2Fo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609011411137D32EE8F37FB3742AAE7",
+      "like_count": 71,
+      "comment_count": 12,
+      "share_count": 23,
+      "collect_count": 117,
+      "description": "嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手",
+      "text_hint": "嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手",
+      "topic_tags": [
+        "抖音创业者大会",
+        "高中数学",
+        "家长必读",
+        "假期学习",
+        "数学思维"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/48c91f3d807c5b42beedd861a459b540/6a96978f/video/cn/mps/realtime/v1/r/p/v0d00fg10000cq88fufog65uuacfnmt0/15989a1a43704069abaa463ce4aa1328/d81d822f89ae89f07798776a178869d8/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=416&bt=416&cs=0&ds=6&eid=64256&ft=InFJ3Y-5DyjNewVQ9wI76CHhd.ADJLX73-ApQX&mime_type=video_mp4&qs=0&rc=OzZkN2Y5ZGU8MzM2ZGQ7OEBpM3BpZHg5cng7dDMzNGkzM0AvLl5iMDFeXjMxNDEuNjYuYSNxa2ByMmRjYzVgLS1kLWFzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=540p&dy_q=1788243073&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7390556818033904946&l=202609011411137D32EE8F37FB3742AAE7&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7390556818033904946.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7390556818033904946.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 222.474,
+      "raw_payload": {
+        "aweme_id": "7390556818033904946",
+        "author_uid": "1128518813484046",
+        "sec_uid": "MS4wLjABAAAAa0eT3gcbanlQ74SqyjKTzMSJjaTtEL-kry9FJ7azbzFqMtXt6SDcMojqf14KR4hQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAa0eT3gcbanlQ74SqyjKTzMSJjaTtEL-kry9FJ7azbzFqMtXt6SDcMojqf14KR4hQ"
+      }
+    },
+    "first_seen_at": "2026-09-01T14:10:44+08:00",
+    "last_seen_at": "2026-09-01T14:10:44+08:00",
+    "fetch_runs": [
+      "2026-09-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7390556818033904946.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7390556818033904946.mp3",
+      "source": "download",
+      "processed_at": "2026-09-01T14:13:41+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7390556818033904946",
+      "transcript_raw": "嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手补充信息：嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手关键词：抖音创业者大会、高中数学、家长必读、假期学习、数学思维",
+      "transcript_clean": "嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手补充信息：嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手关键词：抖音创业者大会、高中数学、家长必读、假期学习、数学思维",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-01/7390556818033904946.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7390556818033904946",
+      "summary": "悟道六维空间围绕“抖音创业者大会”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手。嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手补充信息：嵌套函数求值#抖音创业者大会 #高中数学 #家长必读 #假期学习 #数学思维 @DOU+小助手关键词：抖音创业者大会、高中数学、家长必读、假期学习、数学思维 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "抖音创业者大会为什么总是做不出来结果？",
+        "先把高中数学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕抖音创业者大会组织标题与开头。",
+        "用高中数学和家长必读补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "抖音创业者大会",
+        "高中数学",
+        "家长必读"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-01/7390556818033904946.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "last_error": null
+  },
+  "7387177597005843763": {
+    "video_id": "7387177597005843763",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "犇犇侠",
+      "video_id": "7387177597005843763",
+      "title": "2024年中级经济师 人力 精讲班 第2章 领导行为",
+      "publish_time": "2024-07-03T07:02:46+08:00",
+      "video_url": "https://www.douyin.com/video/7387177597005843763",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-pk90l89vgd/9727f494998c4bafa0097d598e303187~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103602400&x-signature=1UB0KtcUC4sBYKoEsfBNdQ2%2Fpik%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609011411176D1DC2D94F6CD539FA35",
+      "like_count": 36,
+      "comment_count": 0,
+      "share_count": 4,
+      "collect_count": 32,
+      "description": "2024年中级经济师 人力 精讲班 第2章 领导行为",
+      "text_hint": "2024年中级经济师 人力 精讲班 第2章 领导行为",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b99f221a131fc1ca2f47881963806da3/6a96a4a7/video/tos/cn/tos-cn-ve-0015c800/o8WP7MEIQAgmWehfXEFCJzk3uKcjXAATDBI9l2/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=392&bt=392&cs=0&ds=6&ft=CZdgCYlIDyjNewVQ9wt76CHhd.ADJLX73-ApQX&mime_type=video_mp4&qs=0&rc=OjQ8ZGloNzNlZzs6NDw2O0Bpanc6dHU5cjg7dDMzNGkzM0AzYzYtMmFeNTExMzY0YzE2YSNva3IxMmRrYi9gLS1kLS9zcw%3D%3D&btag=c0000e00038000&cquery=100J_100o_100w_100B_100D&dy_q=1788243077&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202609011411176D1DC2D94F6CD539FA35",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7387177597005843763.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7387177597005843763.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 3570.51,
+      "raw_payload": {
+        "aweme_id": "7387177597005843763",
+        "author_uid": "840444002187112",
+        "sec_uid": "MS4wLjABAAAAINNkTJLehEjxdx0UGa_P_1vwFQdeD32PVuf_R3ehbOk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAINNkTJLehEjxdx0UGa_P_1vwFQdeD32PVuf_R3ehbOk"
+      }
+    },
+    "first_seen_at": "2026-09-01T14:10:44+08:00",
+    "last_seen_at": "2026-09-01T14:10:44+08:00",
+    "fetch_runs": [
+      "2026-09-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7387177597005843763.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7387177597005843763.mp3",
+      "source": "download",
+      "processed_at": "2026-09-01T14:15:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7387177597005843763",
+      "transcript_raw": "2024年中级经济师 人力 精讲班 第2章 领导行为2024年中级经济师 人力 精讲班 第2章 领导行为补充信息：2024年中级经济师 人力 精讲班 第2章 领导行为",
+      "transcript_clean": "2024年中级经济师 人力 精讲班 第2章 领导行为2024年中级经济师 人力 精讲班 第2章 领导行为补充信息：2024年中级经济师 人力 精讲班 第2章 领导行为",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-01/7387177597005843763.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7387177597005843763",
+      "summary": "犇犇侠围绕“人力”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "2024年中级经济师 人力 精讲班 第2章 领导行为。2024年中级经济师 人力 精讲班 第2章 领导行为2024年中级经济师 人力 精讲班 第2章 领导行为补充信息：2024年中级经济师 人力 精讲班 第2章 领导行为 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "人力为什么总是做不出来结果？",
+        "先把精讲班想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕人力组织标题与开头。",
+        "用精讲班和第2章补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "人力",
+        "精讲班",
+        "第2章"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-01/7387177597005843763.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "last_error": null
+  },
+  "7436379000420764988": {
+    "video_id": "7436379000420764988",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7436379000420764988",
+      "title": "#每日分享 #读书",
+      "publish_time": "2024-11-12T13:08:00+08:00",
+      "video_url": "https://www.douyin.com/video/7436379000420764988",
+      "cover_url": "",
+      "like_count": 28,
+      "comment_count": 2,
+      "share_count": 21,
+      "collect_count": 0,
+      "description": "#每日分享 #读书",
+      "text_hint": "#每日分享 #读书",
+      "topic_tags": [
+        "每日分享",
+        "读书"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ae1104b51f7f5b5f4410019f75c897b5/6a9699f1/video/tos/cn/tos-cn-ve-15c000-ce/o82YzPR9tGbAizMhZIhRZAmPXzJEMOcBiVMxN/?a=6383&br=978&bt=978&btag=c0000e00038000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1788243093&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNewVQ9wo76CHhd.ADJLX73-ApQX&is_ssr=1&l=202609011411326B672D941B06235A804A&lr=all&mime_type=video_mp4&qs=12&rc=aDs5O2Q0ZDw5O2c1aWZmZEBpamY4dnA5cmhvdjMzbGkzNEBjXmMxLy1hNTAxMjZiMi42YSNqZG9hMmQ0L21gLS1kLWJzcw%3D%3D&__vid=7436379000420764988",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7436379000420764988.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7436379000420764988.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7436379000420764988",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-01T14:10:44+08:00",
+    "last_seen_at": "2026-09-01T14:10:44+08:00",
+    "fetch_runs": [
+      "2026-09-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7436379000420764988.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7436379000420764988.mp3",
+      "source": "download",
+      "processed_at": "2026-09-01T14:13:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7436379000420764988",
+      "transcript_raw": "#每日分享 #读书#每日分享 #读书补充信息：#每日分享 #读书关键词：每日分享、读书",
+      "transcript_clean": "#每日分享 #读书#每日分享 #读书补充信息：#每日分享 #读书关键词：每日分享、读书",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-01/7436379000420764988.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7436379000420764988",
+      "summary": "目标博主 1围绕“每日分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#每日分享 #读书。#每日分享 #读书#每日分享 #读书补充信息：#每日分享 #读书关键词：每日分享、读书 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "每日分享为什么总是做不出来结果？",
+        "先把读书想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕每日分享组织标题与开头。",
+        "用读书和#每日分享补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "每日分享",
+        "读书",
+        "#每日分享"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-01/7436379000420764988.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "last_error": null
+  },
+  "7281993670641978660": {
+    "video_id": "7281993670641978660",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "程程cc",
+      "video_id": "7281993670641978660",
+      "title": "完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手",
+      "publish_time": "2023-09-23T20:14:45+08:00",
+      "video_url": "https://www.douyin.com/video/7281993670641978660",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4c3dfa7525fe8ffb7319c6095b81b08b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103602400&x-signature=Dw7%2B2dYxbRbBXt7KWdO552pVSSo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260901141141919D8B707A3DA5A98E25",
+      "like_count": 765,
+      "comment_count": 179,
+      "share_count": 1159,
+      "collect_count": 77,
+      "description": "完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手",
+      "text_hint": "完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手",
+      "topic_tags": [
+        "军训汇演精彩瞬间",
+        "生在红旗下长在春风里",
+        "2023级新生",
+        "孩子们棒棒哒"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/67514e20d8f2b02a5c19d2e2c0e514d1/6a9697a4/video/tos/cn/tos-cn-ve-0015c800/owCAEbt7Zgh9ns6RDANDAuBCfAD8g5exl7V8WA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2382&bt=2382&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wQ76CHhd.ADJLX73-ApQX&mime_type=video_mp4&qs=0&rc=MzU0aWlkODo7NDY6ZTZkZkBpangzbTY6ZnVnbjMzNGkzM0AyXzA2M18vX2MxLWFiYV4wYSNsYC9jcjRnXjRgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100z_100o_100w_100B_100x&dy_q=1788243101&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260901141141919D8B707A3DA5A98E25",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7281993670641978660.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7281993670641978660.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 215.234,
+      "raw_payload": {
+        "aweme_id": "7281993670641978660",
+        "author_uid": "80916274840",
+        "sec_uid": "MS4wLjABAAAA75oaAxbAdgv8dpNEWFcSLwxoB4PQpRCBRSiF0kNVfw0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA75oaAxbAdgv8dpNEWFcSLwxoB4PQpRCBRSiF0kNVfw0"
+      }
+    },
+    "first_seen_at": "2026-09-01T14:10:44+08:00",
+    "last_seen_at": "2026-09-01T14:10:44+08:00",
+    "fetch_runs": [
+      "2026-09-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7281993670641978660.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7281993670641978660.mp3",
+      "source": "download",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7281993670641978660",
+      "transcript_raw": "完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手补充信息：完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手关键词：军训汇演精彩瞬间、生在红旗下长在春风里、2023级新生、孩子们棒棒哒",
+      "transcript_clean": "完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手补充信息：完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手关键词：军训汇演精彩瞬间、生在红旗下长在春风里、2023级新生、孩子们棒棒哒",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-01/7281993670641978660.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7281993670641978660",
+      "summary": "程程cc围绕“军训汇演精彩瞬间”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手。完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手补充信息：完整版来了，近千人的努力，将作品得以实现！因为有你们而骄傲，小牛老师很骄傲❤️谢谢我亲爱的同学们❤️#军训汇演精彩瞬间 #生在红旗下长在春风里 #2023级新生 #孩子们棒棒哒 @抖音小助手关键词：军训汇演精彩瞬间、生在红旗下长在春风里、2023级新生、孩子们棒棒哒 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "军训汇演精彩瞬间为什么总是做不出来结果？",
+        "先把生在红旗下长在春风里想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕军训汇演精彩瞬间组织标题与开头。",
+        "用生在红旗下长在春风里和2023级新生补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "军训汇演精彩瞬间",
+        "生在红旗下长在春风里",
+        "2023级新生"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-01/7281993670641978660.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "last_error": null
+  },
+  "7569269923403755258": {
+    "video_id": "7569269923403755258",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "李亚峰话失眠",
+      "video_id": "7569269923403755258",
+      "title": "哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手",
+      "publish_time": "2025-11-05T23:53:21+08:00",
+      "video_url": "https://www.douyin.com/video/7569269923403755258",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/32155aa4576120bf577392f8cbaa739c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103602400&x-signature=40KgWBxYVdYfksmQueRx7AqLGag%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026090114114534B29CACC105E06FC97A",
+      "like_count": 270,
+      "comment_count": 16,
+      "share_count": 50,
+      "collect_count": 184,
+      "description": "哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手",
+      "text_hint": "哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手",
+      "topic_tags": [
+        "抖出健康知识宝藏",
+        "健康科普破圈计划",
+        "医疗健康创作训练营",
+        "知识前沿派对",
+        "安眠药"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2fa3beb26f2af7a10791630190b8e01b/6a9697ab/video/tos/cn/tos-cn-ve-15/oUBlQVfbQFwb0iYARd6BA4oKihEEvIqweck9QC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=936&bt=936&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wa76CHhd.ADJLX73-ApQX&mime_type=video_mp4&qs=0&rc=aGc4OjVnaDlpZTdnNjtoZkBpM2pvdHQ5cnZwNzMzbGkzNUBgNGI0M2AyNjMxL18yYzEyYSMybWRmMmRjbzJhLS1kLTVzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1788243105&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026090114114534B29CACC105E06FC97A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7569269923403755258.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7569269923403755258.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 218.334,
+      "raw_payload": {
+        "aweme_id": "7569269923403755258",
+        "author_uid": "2703021160536951",
+        "sec_uid": "MS4wLjABAAAATePOAosFde2mWuy61Nn7zEYfBElY4WvzR7_h8u57BPeQGR_k2bKa3MpBpVl-QEyL",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAATePOAosFde2mWuy61Nn7zEYfBElY4WvzR7_h8u57BPeQGR_k2bKa3MpBpVl-QEyL"
+      }
+    },
+    "first_seen_at": "2026-09-01T14:10:44+08:00",
+    "last_seen_at": "2026-09-01T14:10:44+08:00",
+    "fetch_runs": [
+      "2026-09-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7569269923403755258.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-01/7569269923403755258.mp3",
+      "source": "download",
+      "processed_at": "2026-09-01T14:12:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7569269923403755258",
+      "transcript_raw": "哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手补充信息：哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手关键词：抖出健康知识宝藏、健康科普破圈计划、医疗健康创作训练营、知识前沿派对、安眠药",
+      "transcript_clean": "哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手补充信息：哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手关键词：抖出健康知识宝藏、健康科普破圈计划、医疗健康创作训练营、知识前沿派对、安眠药",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-01/7569269923403755258.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "analysis": {
+      "video_id": "7569269923403755258",
+      "summary": "李亚峰话失眠围绕“抖出健康知识宝藏”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手。哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手补充信息：哪些安眠药对肝肾功能影响小？听完你就明白啦！#抖出健康知识宝藏 #健康科普破圈计划 #医疗健康创作训练营#知识前沿派对 #安眠药 @南昌市洪都中医院 @抖音医疗健康小助手关键词：抖出健康知识宝藏、健康科普破圈计划、医疗健康创作训练营、知识前沿派对、安眠药 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "抖出健康知识宝藏为什么总是做不出来结果？",
+        "先把健康科普破圈计划想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕抖出健康知识宝藏组织标题与开头。",
+        "用健康科普破圈计划和医疗健康创作训练营补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "抖出健康知识宝藏",
+        "健康科普破圈计划",
+        "医疗健康创作训练营"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-01/7569269923403755258.json",
+      "processed_at": "2026-09-01T14:16:25+08:00"
+    },
+    "last_error": null
+  },
+  "7571037711092730186": {
+    "video_id": "7571037711092730186",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7571037711092730186",
+      "title": "甘肃玉门关阳关嘉峪关的地缘和历史 我只是一位普通的内容分享者，偶尔分享了一下甘肃省的地缘和历史，没想到的是，甘肃省文旅厅的领导主动联系到我，和他们交流的过程中，我感受到了他们对自己家乡的热爱，对我们这些外地人喜欢甘肃、推荐甘肃，他们是由衷地感恩，我感觉他们真的不太像官员，更像朋友，更像文人之间的平等沟通，我很开心！他们发给我很多甘肃的实景视频，又激发了我再次推荐甘肃的热情，这个介绍玉门关、阳关、嘉",
+      "publish_time": "2025-11-10T10:13:00+08:00",
+      "video_url": "https://www.douyin.com/video/7571037711092730186",
+      "cover_url": "",
+      "like_count": 3862,
+      "comment_count": 91,
+      "share_count": 2808,
+      "collect_count": 662,
+      "description": "甘肃玉门关阳关嘉峪关的地缘和历史 我只是一位普通的内容分享者，偶尔分享了一下甘肃省的地缘和历史，没想到的是，甘肃省文旅厅的领导主动联系到我，和他们交流的过程中，我感受到了他们对自己家乡的热爱，对我们这些外地人喜欢甘肃、推荐甘肃，他们是由衷地感恩，我感觉他们真的不太像官员，更像朋友，更像文人之间的平等沟通，我很开心！他们发给我很多甘肃的实景视频，又激发了我再次推荐甘肃的热情，这个介绍玉门关、阳关、嘉",
+      "text_hint": "甘肃玉门关阳关嘉峪关的地缘和历史 我只是一位普通的内容分享者，偶尔分享了一下甘肃省的地缘和历史，没想到的是，甘肃省文旅厅的领导主动联系到我，和他们交流的过程中，我感受到了他们对自己家乡的热爱，对我们这些外地人喜欢甘肃、推荐甘肃，他们是由衷地感恩，我感觉他们真的不太像官员，更像朋友，更像文人之间的平等沟通，我很开心！他们发给我很多甘肃的实景视频，又激发了我再次推荐甘肃的热情，这个介绍玉门关、阳关、嘉",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d6c2bb27-b4de-4f7c-aaf4-3f9179a272f7",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7571037711092730186",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-01T14:10:44+08:00",
+    "last_seen_at": "2026-09-01T14:10:44+08:00",
+    "fetch_runs": [
+      "2026-09-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
