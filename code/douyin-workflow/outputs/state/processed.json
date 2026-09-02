@@ -38155,5 +38155,576 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7651055795404115254": {
+    "video_id": "7651055795404115254",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "扬子晚报",
+      "video_id": "7651055795404115254",
+      "title": "巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死",
+      "publish_time": "2026-06-14T09:24:16+08:00",
+      "video_url": "https://www.douyin.com/video/7651055795404115254",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/442ca085bf6626143e44603a3437189d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103685200&x-signature=WS3lNr9Nbijx75wn15wCHQ9hLaE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026090213371621F3352CF232D18DA1DF",
+      "like_count": 23481,
+      "comment_count": 1902,
+      "share_count": 59337,
+      "collect_count": 1240,
+      "description": "巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死",
+      "text_hint": "巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1f020689da6bb3a5a84724512071d808/6a97e061/video/tos/cn/tos-cn-ve-15/okviaQAIBUiuA4cuFOPIEukkwOl8DoC7Q6iQ6/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1259&bt=1259&cs=0&ds=4&ft=~zabYIKJ1_fvv4k9wUx7.3OBHC~VjuaahIniXwG&mime_type=video_mp4&qs=0&rc=OjY2PGQ7N2ZkZDY0OGk2OEBpMzhsOHQ5cjszOzMzNGkzM0AvMV8vY2AuNS8xYjUuMTZjYSM0cTE0MmRrMmthLS1kLTBzcw%3D%3D&btag=c0000e00018000&cquery=100w_100B_100H_100K_100o&dy_q=1788327436&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026090213371621F3352CF232D18DA1DF",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7651055795404115254.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7651055795404115254.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 37.244,
+      "raw_payload": {
+        "aweme_id": "7651055795404115254",
+        "author_uid": "99061005584",
+        "sec_uid": "MS4wLjABAAAApi5r-gZCieykIj1jUz96tc9c5SDmMAFSrWY7Kr2HfZI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAApi5r-gZCieykIj1jUz96tc9c5SDmMAFSrWY7Kr2HfZI"
+      }
+    },
+    "first_seen_at": "2026-09-02T13:36:54+08:00",
+    "last_seen_at": "2026-09-02T13:36:54+08:00",
+    "fetch_runs": [
+      "2026-09-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7651055795404115254.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7651055795404115254.mp3",
+      "source": "download",
+      "processed_at": "2026-09-02T13:38:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7651055795404115254",
+      "transcript_raw": "巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死补充信息：巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死",
+      "transcript_clean": "巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死补充信息：巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-02/7651055795404115254.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "analysis": {
+      "video_id": "7651055795404115254",
+      "summary": "扬子晚报围绕“巴西21岁女孩玩高空绳索跳跃”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死。巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死补充信息：巴西21岁女孩玩高空绳索跳跃， 工作人员忘记系安全绳致其当场摔死 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "巴西21岁女孩玩高空绳索跳跃为什么总是做不出来结果？",
+        "先把工作人员忘记系安全绳致其当场摔死巴西21岁女孩玩高空绳索跳跃想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕巴西21岁女孩玩高空绳索跳跃组织标题与开头。",
+        "用工作人员忘记系安全绳致其当场摔死巴西21岁女孩玩高空绳索跳跃和工作人员忘记系安全绳致其当场摔死补充信息：巴西21岁女孩玩高空绳索跳跃补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "巴西21岁女孩玩高空绳索跳跃",
+        "工作人员忘记系安全绳致其当场摔死巴西21岁女孩玩高空绳索跳跃",
+        "工作人员忘记系安全绳致其当场摔死补充信息：巴西21岁女孩玩高空绳索跳跃"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-02/7651055795404115254.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "last_error": null
+  },
+  "7368131742688988431": {
+    "video_id": "7368131742688988431",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "solidworks技巧-王工",
+      "video_id": "7368131742688988431",
+      "title": "圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础",
+      "publish_time": "2024-05-13T17:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7368131742688988431",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/baa4f9bc7dae60ad39f70853f6cf0bb9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103685200&x-signature=yYZ3wqRM8z4Jc2x4280K0YEh71Y%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260902133719CB86C90422FAE7C56D44",
+      "like_count": 120,
+      "comment_count": 19,
+      "share_count": 4,
+      "collect_count": 116,
+      "description": "圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础",
+      "text_hint": "圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础",
+      "topic_tags": [
+        "solidworks",
+        "solidworks教学",
+        "机械设计",
+        "solidworks建模",
+        "零基础"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8c4f996e9d20d68aadf3eb63c53d6886/6a97e18c/video/tos/cn/tos-cn-ve-15/oMteIA5ANHB9FTVHCXBNEx9OgQfTAzAGIHzDZh/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=476&bt=476&cs=0&ds=4&ft=~zabYIKJ1_fvv4k9wUxy.3OBHC~VjuaahIniXwG&mime_type=video_mp4&qs=0&rc=OjlkaDw4NzNpNDc1OTM5aUBpajVuODo6ZjNnczMzNGkzM0BgYGM1XzIvXy8xYTVeM19jYSMzYmMtcjRvbS1gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100H_100K&dy_q=1788327439&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260902133719CB86C90422FAE7C56D44",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7368131742688988431.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7368131742688988431.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 333.509,
+      "raw_payload": {
+        "aweme_id": "7368131742688988431",
+        "author_uid": "1156320831221949",
+        "sec_uid": "MS4wLjABAAAAotCaLTU_7BAZ_HG-LgIiWFo5KCxZIPiR1eEyDlzPgftGnhBm4QdnBB0c5fWHSFqD",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAotCaLTU_7BAZ_HG-LgIiWFo5KCxZIPiR1eEyDlzPgftGnhBm4QdnBB0c5fWHSFqD"
+      }
+    },
+    "first_seen_at": "2026-09-02T13:36:54+08:00",
+    "last_seen_at": "2026-09-02T13:36:54+08:00",
+    "fetch_runs": [
+      "2026-09-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7368131742688988431.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7368131742688988431.mp3",
+      "source": "download",
+      "processed_at": "2026-09-02T13:39:18+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7368131742688988431",
+      "transcript_raw": "圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础补充信息：圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础关键词：solidworks、solidworks教学、机械设计、solidworks建模、零基础",
+      "transcript_clean": "圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础补充信息：圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础关键词：solidworks、solidworks教学、机械设计、solidworks建模、零基础",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-02/7368131742688988431.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "analysis": {
+      "video_id": "7368131742688988431",
+      "summary": "solidworks技巧-王工围绕“solidworks”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础。圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础补充信息：圆角的几种进阶技巧 1、快速批量选取边线，2、部分边线参数，3保持特征\n#solidworks   #solidworks教学  #机械设计  #solidworks建模   #零基础关键词：solidworks、solidworks教学、机械设计、solidworks建模、零基础 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "solidworks为什么总是做不出来结果？",
+        "先把solidworks教学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕solidworks组织标题与开头。",
+        "用solidworks教学和机械设计补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "solidworks",
+        "solidworks教学",
+        "机械设计"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-02/7368131742688988431.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "last_error": null
+  },
+  "7367229507696184595": {
+    "video_id": "7367229507696184595",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "邓sir的数学和物理",
+      "video_id": "7367229507696184595",
+      "title": "八下数学，函数压轴，必出考点，四边形存在性初步",
+      "publish_time": "2024-05-10T12:53:19+08:00",
+      "video_url": "https://www.douyin.com/video/7367229507696184595",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/d6b6ec519256c3ea2ee1b6450c030113~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103685200&x-signature=z%2BgXxhVaukZSICxClZvmtPBEfTQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609021337221530821046A367C163D0",
+      "like_count": 6,
+      "comment_count": 0,
+      "share_count": 5,
+      "collect_count": 5,
+      "description": "八下数学，函数压轴，必出考点，四边形存在性初步",
+      "text_hint": "八下数学，函数压轴，必出考点，四边形存在性初步",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0915dbe5ef594d4bc6e6a83dacdbd61e/6a97e373/video/tos/cn/tos-cn-ve-15/ocYQDAfE4gPbmB7DWEBh9cA836IFFRAQDfZarD/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=553&bt=553&cs=0&ds=6&ft=~zabYIKJ1_fvv4k9wUxs.3OBHC~VjuaahIniXwG&mime_type=video_mp4&qs=1&rc=NjxlNGQ8ZGY4NTg8ZWczOEBpajY4aHk5cmp0cjMzNGkzM0BgLjUwYC0yXi8xMmEtYDNhYSNxbGZfMmRjZHJgLS1kLTBzcw%3D%3D&btag=c0000e00038000&cquery=100o_100w_100B_100D_100J&dy_q=1788327442&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=202609021337221530821046A367C163D0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7367229507696184595.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7367229507696184595.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 817.368,
+      "raw_payload": {
+        "aweme_id": "7367229507696184595",
+        "author_uid": "2972732957931599",
+        "sec_uid": "MS4wLjABAAAAfJaZq14rEeHUi8OQrysPlo6RaLrIbfQErKP8SvrdOxj3qRiYTC_uzCeTcA6atoOo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAfJaZq14rEeHUi8OQrysPlo6RaLrIbfQErKP8SvrdOxj3qRiYTC_uzCeTcA6atoOo"
+      }
+    },
+    "first_seen_at": "2026-09-02T13:36:54+08:00",
+    "last_seen_at": "2026-09-02T13:36:54+08:00",
+    "fetch_runs": [
+      "2026-09-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7367229507696184595.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7367229507696184595.mp3",
+      "source": "download",
+      "processed_at": "2026-09-02T13:39:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7367229507696184595",
+      "transcript_raw": "八下数学，函数压轴，必出考点，四边形存在性初步八下数学，函数压轴，必出考点，四边形存在性初步补充信息：八下数学，函数压轴，必出考点，四边形存在性初步",
+      "transcript_clean": "八下数学，函数压轴，必出考点，四边形存在性初步八下数学，函数压轴，必出考点，四边形存在性初步补充信息：八下数学，函数压轴，必出考点，四边形存在性初步",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-02/7367229507696184595.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "analysis": {
+      "video_id": "7367229507696184595",
+      "summary": "邓sir的数学和物理围绕“八下数学，函数压轴，必出考点，四边形存在性初步八下数学，函数压轴，必出考点，四边形存在性初步补充信息：八下数学，函数压轴，必出考点，四边形存在性初步”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "八下数学，函数压轴，必出考点，四边形存在性初步。八下数学，函数压轴，必出考点，四边形存在性初步八下数学，函数压轴，必出考点，四边形存在性初步补充信息：八下数学，函数压轴，必出考点，四边形存在性初步 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "八下数学，函数压轴，必出考点，四边形存在性初步八下数学，函数压轴，必出考点，四边形存在性初步补充信息：八下数学，函数压轴，必出考点，四边形存在性初步为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕八下数学，函数压轴，必出考点，四边形存在性初步八下数学，函数压轴，必出考点，四边形存在性初步补充信息：八下数学，函数压轴，必出考点，四边形存在性初步组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "八下数学，函数压轴，必出考点，四边形存在性初步八下数学，函数压轴，必出考点，四边形存在性初步补充信息：八下数学，函数压轴，必出考点，四边形存在性初步",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-02/7367229507696184595.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "last_error": null
+  },
+  "7583665714458037514": {
+    "video_id": "7583665714458037514",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7583665714458037514",
+      "title": "在抖音记录美好生活20260902",
+      "publish_time": "2026-09-02T13:37:56+08:00",
+      "video_url": "https://www.douyin.com/video/7583665714458037514",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260902",
+      "text_hint": "在抖音记录美好生活20260902",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ac3b7ee0-b151-4421-81b0-11f78aece5c7",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7583665714458037514",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-02T13:36:54+08:00",
+    "last_seen_at": "2026-09-02T13:36:54+08:00",
+    "fetch_runs": [
+      "2026-09-02"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7496119165654404378": {
+    "video_id": "7496119165654404378",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "强哥随拍",
+      "video_id": "7496119165654404378",
+      "title": "省道S207大湾段一镜到底#无人机航拍 #记录家乡美景",
+      "publish_time": "2025-04-22T20:51:04+08:00",
+      "video_url": "https://www.douyin.com/video/7496119165654404378",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6841222b04a0ab5963735e4077aa6dc8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103685200&x-signature=545b6k0dosyRPuPImygEqjrJzOc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609021337321287CB11801DDFB6C648",
+      "like_count": 370,
+      "comment_count": 114,
+      "share_count": 31,
+      "collect_count": 31,
+      "description": "省道S207大湾段一镜到底#无人机航拍 #记录家乡美景",
+      "text_hint": "省道S207大湾段一镜到底#无人机航拍 #记录家乡美景",
+      "topic_tags": [
+        "无人机航拍",
+        "记录家乡美景"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7dbcb726ead3e742a39cc9be5ee6c935/6a97e104/video/tos/cn/tos-cn-ve-15/ooEoBiDIQABErozsfAAgIzGFP4PRj684fkl9CR/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3795&bt=3795&cs=0&ds=4&ft=~zabYIKJ1_fvv4k9wUxC.3OBHC~VjuaahIniXwG&mime_type=video_mp4&qs=0&rc=PGk4NDs1M2U4MzNkPGQ8ZEBpanh4O3M5cjdyMzMzNGkzM0A2Yi40XjI1NWExL2BfXmAzYSNiNWRtMmRjcDBhLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1788327452&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202609021337321287CB11801DDFB6C648",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7496119165654404378.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7496119165654404378.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 184.6,
+      "raw_payload": {
+        "aweme_id": "7496119165654404378",
+        "author_uid": "58879690414",
+        "sec_uid": "MS4wLjABAAAADttBrInkV7opZ1ze36gPegIs987hDV6iI7L26YL-2o4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAADttBrInkV7opZ1ze36gPegIs987hDV6iI7L26YL-2o4"
+      }
+    },
+    "first_seen_at": "2026-09-02T13:36:54+08:00",
+    "last_seen_at": "2026-09-02T13:36:54+08:00",
+    "fetch_runs": [
+      "2026-09-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7496119165654404378.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7496119165654404378.mp3",
+      "source": "download",
+      "processed_at": "2026-09-02T13:38:47+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7496119165654404378",
+      "transcript_raw": "省道S207大湾段一镜到底#无人机航拍 #记录家乡美景省道S207大湾段一镜到底#无人机航拍 #记录家乡美景补充信息：省道S207大湾段一镜到底#无人机航拍 #记录家乡美景关键词：无人机航拍、记录家乡美景",
+      "transcript_clean": "省道S207大湾段一镜到底#无人机航拍 #记录家乡美景省道S207大湾段一镜到底#无人机航拍 #记录家乡美景补充信息：省道S207大湾段一镜到底#无人机航拍 #记录家乡美景关键词：无人机航拍、记录家乡美景",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-02/7496119165654404378.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "analysis": {
+      "video_id": "7496119165654404378",
+      "summary": "强哥随拍围绕“无人机航拍”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "省道S207大湾段一镜到底#无人机航拍 #记录家乡美景。省道S207大湾段一镜到底#无人机航拍 #记录家乡美景省道S207大湾段一镜到底#无人机航拍 #记录家乡美景补充信息：省道S207大湾段一镜到底#无人机航拍 #记录家乡美景关键词：无人机航拍、记录家乡美景 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "无人机航拍为什么总是做不出来结果？",
+        "先把记录家乡美景想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕无人机航拍组织标题与开头。",
+        "用记录家乡美景和省道S207大湾段一镜到底#无人机航拍补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "无人机航拍",
+        "记录家乡美景",
+        "省道S207大湾段一镜到底#无人机航拍"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-02/7496119165654404378.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "last_error": null
+  },
+  "7428553430337162535": {
+    "video_id": "7428553430337162535",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "碎嘴子陈小小～",
+      "video_id": "7428553430337162535",
+      "title": "#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？",
+      "publish_time": "2024-10-22T19:01:35+08:00",
+      "video_url": "https://www.douyin.com/video/7428553430337162535",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/468293037c6f44c03a4682bedc5eda2a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103685200&x-signature=GGyHGy0KBpKeJGkXC%2BclXaJ1s58%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260902133735E44F35DDC4A9FF18EBE9",
+      "like_count": 361,
+      "comment_count": 58,
+      "share_count": 17,
+      "collect_count": 81,
+      "description": "#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？",
+      "text_hint": "#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？",
+      "topic_tags": [
+        "热点新闻事件",
+        "东北雨姐",
+        "爆料",
+        "新闻热点",
+        "日常唠嗑"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4109586bb452d19b52011b02b5845c41/6a97e10a/video/tos/cn/tos-cn-ve-0015c800/ocf8IBAL4Qrc47gAKIBLDqIwTiMzGeeCGGmOpv/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1322&bt=1322&cs=0&ds=4&ft=~zabYIKJ1_fvv4k9wUxV.3OBHC~VjuaahIniXwG&mime_type=video_mp4&qs=0&rc=Ozg3MzQ8aWdoZzo8OmZnZUBpajR5ZHE5cnBydjMzNGkzM0BeNi4xNF9jX2ExXjY0M15hYSNsbGcuMmRjXl9gLS1kLTBzcw%3D%3D&btag=80000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1788327455&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260902133735E44F35DDC4A9FF18EBE9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7428553430337162535.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7428553430337162535.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 187.964,
+      "raw_payload": {
+        "aweme_id": "7428553430337162535",
+        "author_uid": "66645071080",
+        "sec_uid": "MS4wLjABAAAAvX9TOQJ8j1rZm2IguCz-scxKJXZZCGe_D_SXavgsAcI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAvX9TOQJ8j1rZm2IguCz-scxKJXZZCGe_D_SXavgsAcI"
+      }
+    },
+    "first_seen_at": "2026-09-02T13:36:54+08:00",
+    "last_seen_at": "2026-09-02T13:36:54+08:00",
+    "fetch_runs": [
+      "2026-09-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7428553430337162535.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/7428553430337162535.mp3",
+      "source": "download",
+      "processed_at": "2026-09-02T13:39:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7428553430337162535",
+      "transcript_raw": "#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？补充信息：#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？关键词：热点新闻事件、东北雨姐、爆料、新闻热点、日常唠嗑",
+      "transcript_clean": "#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？补充信息：#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？关键词：热点新闻事件、东北雨姐、爆料、新闻热点、日常唠嗑",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-02/7428553430337162535.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "analysis": {
+      "video_id": "7428553430337162535",
+      "summary": "碎嘴子陈小小～围绕“热点新闻事件”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？。#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？补充信息：#热点新闻事件 #东北雨姐 ##爆料 #新闻热点 #日常唠嗑 \n从坐拥2000万粉丝暴富到一夜返贫，到底她做了什么？关键词：热点新闻事件、东北雨姐、爆料、新闻热点、日常唠嗑 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "热点新闻事件为什么总是做不出来结果？",
+        "先把东北雨姐想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕热点新闻事件组织标题与开头。",
+        "用东北雨姐和爆料补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "热点新闻事件",
+        "东北雨姐",
+        "爆料"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-02/7428553430337162535.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "last_error": null
+  },
+  "6932396417818365192": {
+    "video_id": "6932396417818365192",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "6932396417818365192",
+      "title": "解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车",
+      "publish_time": "2021-02-23T12:10:00+08:00",
+      "video_url": "https://www.douyin.com/video/6932396417818365192",
+      "cover_url": "",
+      "like_count": 6040,
+      "comment_count": 1123,
+      "share_count": 229,
+      "collect_count": 598,
+      "description": "解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车",
+      "text_hint": "解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车",
+      "topic_tags": [
+        "奥迪",
+        "奥迪a3"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/dd60f6bb686ba5cc747503aac96834f8/6a97e161/video/tos/cn/tos-cn-ve-0015c800/0d083595e9cf41599eee321deda1ede9/?a=6383&br=484&bt=484&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=102u_100o_100w_100B_100H&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1788327471&ft=~zabYIKJ1_fvv4k9wUxo.3OBHC~VjuaahIniXwG&is_ssr=1&l=20260902133751A0D03B705077446A87F9&lr=all&mime_type=video_mp4&qs=0&rc=OjRmMzYzMzM8PDg0aTw2N0BpM29uO2Z4dTVnMzMzM2kzM0A2Y2EtYGFhNWAxNmEyM2FfYSMyLmJhZWVuL25gLS0yLTBzcw%3D%3D&__vid=6932396417818365192",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/6932396417818365192.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/6932396417818365192.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "6932396417818365192",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-02T13:36:54+08:00",
+    "last_seen_at": "2026-09-02T13:36:54+08:00",
+    "fetch_runs": [
+      "2026-09-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/6932396417818365192.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-02/6932396417818365192.mp3",
+      "source": "download",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6932396417818365192",
+      "transcript_raw": "解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车补充信息：解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车关键词：奥迪、奥迪a3",
+      "transcript_clean": "解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车补充信息：解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车关键词：奥迪、奥迪a3",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-02/6932396417818365192.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "analysis": {
+      "video_id": "6932396417818365192",
+      "summary": "知雪围绕“奥迪”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车。解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车补充信息：解开全新奥迪A3L的“秘密”，何时入手才能占到最大便宜？3/3@抖音汽车小助手 #奥迪 #奥迪a3 @抖音汽车关键词：奥迪、奥迪a3 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "奥迪为什么总是做不出来结果？",
+        "先把奥迪a3想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕奥迪组织标题与开头。",
+        "用奥迪a3和#奥迪补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "奥迪",
+        "奥迪a3",
+        "#奥迪"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-02/6932396417818365192.json",
+      "processed_at": "2026-09-02T13:39:58+08:00"
+    },
+    "last_error": null
   }
 }
