@@ -38726,5 +38726,636 @@
       "processed_at": "2026-09-02T13:39:58+08:00"
     },
     "last_error": null
+  },
+  "7619293264302116096": {
+    "video_id": "7619293264302116096",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "石榴云",
+      "video_id": "7619293264302116096",
+      "title": "新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官",
+      "publish_time": "2026-03-20T19:09:31+08:00",
+      "video_url": "https://www.douyin.com/video/7619293264302116096",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1ceac6a06d45d5574f5aa26cccb15bf4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103771600&x-signature=zifSSG%2FnwE5l7yJSJToXHpr6KaQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609031337085437DBFD30BBAC1EFF69",
+      "like_count": 208,
+      "comment_count": 6,
+      "share_count": 40,
+      "collect_count": 13,
+      "description": "新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官",
+      "text_hint": "新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官",
+      "topic_tags": [
+        "新疆旅游",
+        "吐鲁番",
+        "杏花开了",
+        "新疆美好推荐官"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4940a5c69b70ad82d42c0db442e97fd4/6a9931c9/video/tos/cn/tos-cn-ve-15/o87SQIiJhGAvKfHzIlLkC2mgeD5AjEqeIJes9I/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1380&bt=1380&cs=0&ds=3&ft=CZdgCYlIDyjNxIVQ9witDBHhd.iLHZf03-ApQX&mime_type=video_mp4&qs=0&rc=aTk5Njk7OmhoOTw6Njw8OkBpamttOnM5cm5sOTMzNGkzM0AzX2AtXmE2XzUxMGAzL2FfYSNsbXAuMmQ0aHJhLS1kLS9zcw%3D%3D&btag=80000e00010000&cquery=100B_100H_100K_100o_100w&dy_q=1788413828&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202609031337085437DBFD30BBAC1EFF69",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7619293264302116096.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7619293264302116096.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 21.177,
+      "raw_payload": {
+        "aweme_id": "7619293264302116096",
+        "author_uid": "77049019196",
+        "sec_uid": "MS4wLjABAAAAu5EsdSVxCNAI54UImufIIoaM4cJsDTp2_i-QacSVL70",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAu5EsdSVxCNAI54UImufIIoaM4cJsDTp2_i-QacSVL70"
+      }
+    },
+    "first_seen_at": "2026-09-03T13:36:48+08:00",
+    "last_seen_at": "2026-09-03T13:36:48+08:00",
+    "fetch_runs": [
+      "2026-09-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7619293264302116096.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7619293264302116096.mp3",
+      "source": "download",
+      "processed_at": "2026-09-03T13:38:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7619293264302116096",
+      "transcript_raw": "新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官补充信息：新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官关键词：新疆旅游、吐鲁番、杏花开了、新疆美好推荐官",
+      "transcript_clean": "新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官补充信息：新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官关键词：新疆旅游、吐鲁番、杏花开了、新疆美好推荐官",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-03/7619293264302116096.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7619293264302116096",
+      "summary": "石榴云围绕“新疆旅游”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官。新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官补充信息：新疆第一春绽放！托克逊第九届杏花节开幕迎客 #新疆旅游#吐鲁番#杏花开了#新疆美好推荐官关键词：新疆旅游、吐鲁番、杏花开了、新疆美好推荐官 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新疆旅游为什么总是做不出来结果？",
+        "先把吐鲁番想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新疆旅游组织标题与开头。",
+        "用吐鲁番和杏花开了补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新疆旅游",
+        "吐鲁番",
+        "杏花开了"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-03/7619293264302116096.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "last_error": null
+  },
+  "7228081802261351739": {
+    "video_id": "7228081802261351739",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "阿杰的旅行",
+      "video_id": "7228081802261351739",
+      "title": "在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南",
+      "publish_time": "2023-05-01T13:29:18+08:00",
+      "video_url": "https://www.douyin.com/video/7228081802261351739",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/54a3ed8c27a1940c87c710ecbff56e65~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103771600&x-signature=wTr4N8wrDBEEneWu72%2F1IaqKm4I%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260903133710840F351E7889CA243EA0",
+      "like_count": 543,
+      "comment_count": 92,
+      "share_count": 10,
+      "collect_count": 14,
+      "description": "在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南",
+      "text_hint": "在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南",
+      "topic_tags": [
+        "骑行中国",
+        "带你去旅行",
+        "最美的风景在路上",
+        "骑行vlog",
+        "云南"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6c65084f4b121250228e93e178ff502d/6a99330c/video/tos/cn/tos-cn-ve-0015c800/oUBcYR77ylAQX6WPBPfhgczXAJAeuxyEIDtEC6/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2973&bt=2973&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9w3tDBHhd.iLHZf03-ApQX&mime_type=video_mp4&qs=0&rc=ZWk4OGVoOjY0aWU2OzU0ZkBpanRyamk6ZmVuazMzNGkzM0BgMDQwMS42NTMxNV5fX15iYSNxNl4ucjRvcDRgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100D_100J_100o&dy_q=1788413831&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260903133710840F351E7889CA243EA0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7228081802261351739.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7228081802261351739.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 341.0,
+      "raw_payload": {
+        "aweme_id": "7228081802261351739",
+        "author_uid": "25270633203",
+        "sec_uid": "MS4wLjABAAAA23Ug1j6C9QVy_kQIpQSqAy96E7y-2GgEAi3-wklO7mM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA23Ug1j6C9QVy_kQIpQSqAy96E7y-2GgEAi3-wklO7mM"
+      }
+    },
+    "first_seen_at": "2026-09-03T13:36:48+08:00",
+    "last_seen_at": "2026-09-03T13:36:48+08:00",
+    "fetch_runs": [
+      "2026-09-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7228081802261351739.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7228081802261351739.mp3",
+      "source": "download",
+      "processed_at": "2026-09-03T13:39:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7228081802261351739",
+      "transcript_raw": "在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南补充信息：在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南关键词：骑行中国、带你去旅行、最美的风景在路上、骑行vlog、云南",
+      "transcript_clean": "在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南补充信息：在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南关键词：骑行中国、带你去旅行、最美的风景在路上、骑行vlog、云南",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-03/7228081802261351739.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7228081802261351739",
+      "summary": "阿杰的旅行围绕“骑行中国”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南。在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南补充信息：在去耿马县的路上，偶遇一位骑共享单车旅行的大哥。 #骑行中国 #带你去旅行 #最美的风景在路上 #骑行vlog #云南关键词：骑行中国、带你去旅行、最美的风景在路上、骑行vlog、云南 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "骑行中国为什么总是做不出来结果？",
+        "先把带你去旅行想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕骑行中国组织标题与开头。",
+        "用带你去旅行和最美的风景在路上补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "骑行中国",
+        "带你去旅行",
+        "最美的风景在路上"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-03/7228081802261351739.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "last_error": null
+  },
+  "6937109971452611876": {
+    "video_id": "6937109971452611876",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "连邦电脑",
+      "video_id": "6937109971452611876",
+      "title": "装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手",
+      "publish_time": "2021-03-08T11:19:18+08:00",
+      "video_url": "https://www.douyin.com/video/6937109971452611876",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4f83babd33f16b4d073e5283b9e4e812~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103771600&x-signature=2fCadl3zHP6%2Fum%2FtNIqqTCJkCEE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260903133714510ADFCF0B4FFD37C596",
+      "like_count": 4609,
+      "comment_count": 355,
+      "share_count": 242,
+      "collect_count": 95,
+      "description": "装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手",
+      "text_hint": "装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手",
+      "topic_tags": [
+        "电脑",
+        "电脑配置",
+        "diy"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0216ac568b047797620519b3b74408a7/6a99335b/video/tos/cn/tos-cn-ve-0015c800/b2fe47e8619148b897fee9ae289de785/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2717&bt=2717&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wAtDBHhd.iLHZf03-ApQX&mime_type=video_mp4&qs=0&rc=aTQ2ZjlmOmQ0aGdpNGdpOkBpM3c3bzpkOXRyNDMzNmkzM0AyMzQyM2M2Ni8xMl4xXy4vYSMuZTY1Yy81bC9gLS01LTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100H_102u&dy_q=1788413834&l=20260903133714510ADFCF0B4FFD37C596",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/6937109971452611876.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/6937109971452611876.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 417.754,
+      "raw_payload": {
+        "aweme_id": "6937109971452611876",
+        "author_uid": "59643229873",
+        "sec_uid": "MS4wLjABAAAApP-dZ5Cjj0Kljp02eIVV3GE-v9_0sJ5X0OKvTbGaXWA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAApP-dZ5Cjj0Kljp02eIVV3GE-v9_0sJ5X0OKvTbGaXWA"
+      }
+    },
+    "first_seen_at": "2026-09-03T13:36:48+08:00",
+    "last_seen_at": "2026-09-03T13:36:48+08:00",
+    "fetch_runs": [
+      "2026-09-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/6937109971452611876.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/6937109971452611876.mp3",
+      "source": "download",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6937109971452611876",
+      "transcript_raw": "装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手补充信息：装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手关键词：电脑、电脑配置、diy",
+      "transcript_clean": "装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手补充信息：装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手关键词：电脑、电脑配置、diy",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-03/6937109971452611876.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "analysis": {
+      "video_id": "6937109971452611876",
+      "summary": "连邦电脑围绕“电脑”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手。装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手补充信息：装了一台3W的ROG电脑主机，欣赏下吧。 #电脑  #电脑配置  #diy  @抖音小助手关键词：电脑、电脑配置、diy 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "电脑为什么总是做不出来结果？",
+        "先把电脑配置想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕电脑组织标题与开头。",
+        "用电脑配置和diy补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "电脑",
+        "电脑配置",
+        "diy"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-03/6937109971452611876.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "last_error": null
+  },
+  "7474245489748102450": {
+    "video_id": "7474245489748102450",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7474245489748102450",
+      "title": "每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门",
+      "publish_time": "2025-02-22T14:10:00+08:00",
+      "video_url": "https://www.douyin.com/video/7474245489748102450",
+      "cover_url": "",
+      "like_count": 77,
+      "comment_count": 21,
+      "share_count": 51,
+      "collect_count": 14,
+      "description": "每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门",
+      "text_hint": "每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门",
+      "topic_tags": [
+        "cad画图",
+        "cad自学入门教程",
+        "cad快捷键",
+        "cad制图初学入门"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7db410c56d4812124da48a99fee61b4b/6a9932cd/video/tos/cn/tos-cn-ve-15/og6AAugCZIAdcVSsoZ4l5fgHigEvzBDenQt9gF/?a=6383&br=339&bt=339&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1788413850&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNxIVQ9wrtDBHhd.iLHZf03-ApQX&is_ssr=1&l=202609031337302A5EF13693479967214F&lr=all&mime_type=video_mp4&qs=1&rc=NDc7NTVkZTtlNGQ8ODwzOEBpamh1d3E5cnJ3eDMzNGkzM0AzMC5gYWBgNV8xMS42YV40YSM1NWZwMmQ0ZnBgLS1kLS9zcw%3D%3D&__vid=7474245489748102450",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7474245489748102450.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7474245489748102450.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7474245489748102450",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-03T13:36:48+08:00",
+    "last_seen_at": "2026-09-03T13:36:48+08:00",
+    "fetch_runs": [
+      "2026-09-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7474245489748102450.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7474245489748102450.mp3",
+      "source": "download",
+      "processed_at": "2026-09-03T13:38:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7474245489748102450",
+      "transcript_raw": "每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门补充信息：每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门关键词：cad画图、cad自学入门教程、cad快捷键、cad制图初学入门",
+      "transcript_clean": "每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门补充信息：每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门关键词：cad画图、cad自学入门教程、cad快捷键、cad制图初学入门",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-03/7474245489748102450.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7474245489748102450",
+      "summary": "目标博主 1围绕“cad画图”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门。每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门补充信息：每日一练‖第10练 大家今天都运动了吗？画图人长时间久坐记得运动哦，今天我们来画一个乒乓球拍#cad画图 #cad自学入门教程 #cad快捷键 #cad制图初学入门 #cad制图初学入门关键词：cad画图、cad自学入门教程、cad快捷键、cad制图初学入门 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "cad画图为什么总是做不出来结果？",
+        "先把cad自学入门教程想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕cad画图组织标题与开头。",
+        "用cad自学入门教程和cad快捷键补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "cad画图",
+        "cad自学入门教程",
+        "cad快捷键"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-03/7474245489748102450.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "last_error": null
+  },
+  "7389390634244705571": {
+    "video_id": "7389390634244705571",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "华局掌",
+      "video_id": "7389390634244705571",
+      "title": "🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元",
+      "publish_time": "2024-07-09T06:10:11+08:00",
+      "video_url": "https://www.douyin.com/video/7389390634244705571",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/181b6374a112e406d0398d96b8d57a1f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103771600&x-signature=jArSjy3oC6Fx7aBKu3UURVXyiUs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026090313373781D21F3959921B951A4C",
+      "like_count": 1438,
+      "comment_count": 131,
+      "share_count": 41,
+      "collect_count": 64,
+      "description": "🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元",
+      "text_hint": "🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元",
+      "topic_tags": [
+        "认知",
+        "经济",
+        "美元"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e81c8cf917751c327a3fb80defde509a/6a993285/video/tos/cn/tos-cn-ve-0015c800/oE8NEBAFvQws87iASMBG3RIMSiReDftCGPfNsZ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3223&bt=3223&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9watDBHhd.iLHZf03-ApQX&mime_type=video_mp4&qs=0&rc=ZGhnNmY1Z2c2PDw0PDg0OUBpanVzb3A5cmk5dDMzNGkzM0A0MTY2Ni4yXi8xM2NiXjZfYSNsY2cxMmRrMTNgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1788413857&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026090313373781D21F3959921B951A4C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7389390634244705571.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7389390634244705571.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.139,
+      "raw_payload": {
+        "aweme_id": "7389390634244705571",
+        "author_uid": "94992849882",
+        "sec_uid": "MS4wLjABAAAA34QefK9QvTF2WwwbGFIWPckmzJk1VUrKbTXqZxtoTYg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA34QefK9QvTF2WwwbGFIWPckmzJk1VUrKbTXqZxtoTYg"
+      }
+    },
+    "first_seen_at": "2026-09-03T13:36:48+08:00",
+    "last_seen_at": "2026-09-03T13:36:48+08:00",
+    "fetch_runs": [
+      "2026-09-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7389390634244705571.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7389390634244705571.mp3",
+      "source": "download",
+      "processed_at": "2026-09-03T13:38:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7389390634244705571",
+      "transcript_raw": "🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元补充信息：🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元关键词：认知、经济、美元",
+      "transcript_clean": "🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元补充信息：🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元关键词：认知、经济、美元",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-03/7389390634244705571.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7389390634244705571",
+      "summary": "华局掌围绕“认知”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元。🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元补充信息：🤔️路漫漫其修远兮 我们还需持久努力，且方法要对！#认知 #经济 #美元关键词：认知、经济、美元 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "认知为什么总是做不出来结果？",
+        "先把经济想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕认知组织标题与开头。",
+        "用经济和美元补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "认知",
+        "经济",
+        "美元"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-03/7389390634244705571.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "last_error": null
+  },
+  "7203706757980491066": {
+    "video_id": "7203706757980491066",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "铃铛手作",
+      "video_id": "7203706757980491066",
+      "title": "钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程",
+      "publish_time": "2023-02-24T21:01:28+08:00",
+      "video_url": "https://www.douyin.com/video/7203706757980491066",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0eeaea79ec693e8fe62d4b3ae7bfb134~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103771600&x-signature=yWIGbB14HVPm1CeHLZ3PaGTjWIc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609031337401CB3D4A7B8AD2A44C4C3",
+      "like_count": 308,
+      "comment_count": 18,
+      "share_count": 58,
+      "collect_count": 311,
+      "description": "钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程",
+      "text_hint": "钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程",
+      "topic_tags": [
+        "创作灵感",
+        "十二生肖",
+        "钩针玩偶",
+        "手工",
+        "钩针教程"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/fe31c27cf2337a51f8630af74b1b2969/6a9932f4/video/cn/mps/realtime/v1/r/p/v0200fg10000cfsb9abc77u84njsp37g/8ffb2e4689d04ad09f5073c832bac427/beaa12ec6b96023826013c449092a636/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1200&bt=1200&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNxIVQ9wLtDBHhd.iLHZf03-ApQX&mime_type=video_mp4&qs=0&rc=OjdkNTs2M2kzZDM8OWhlaUBpajZ2cTs6ZmRlaTMzNGkzM0AvYF8wYDQyNmExYTUxL2M1YSM0bWcxcjRfNnBgLS1kLS9zcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100B_100x_100z_100o_100w&definition=720p&dy_q=1788413860&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7203706757980491066&l=202609031337401CB3D4A7B8AD2A44C4C3&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7203706757980491066.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7203706757980491066.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 289.134,
+      "raw_payload": {
+        "aweme_id": "7203706757980491066",
+        "author_uid": "71977216117",
+        "sec_uid": "MS4wLjABAAAA5zVql90GZLKcLoAW3TK-iOgxU2lwB3wPfSm4kmcPcHA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA5zVql90GZLKcLoAW3TK-iOgxU2lwB3wPfSm4kmcPcHA"
+      }
+    },
+    "first_seen_at": "2026-09-03T13:36:48+08:00",
+    "last_seen_at": "2026-09-03T13:36:48+08:00",
+    "fetch_runs": [
+      "2026-09-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7203706757980491066.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7203706757980491066.mp3",
+      "source": "download",
+      "processed_at": "2026-09-03T13:40:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7203706757980491066",
+      "transcript_raw": "钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程补充信息：钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程关键词：创作灵感、十二生肖、钩针玩偶、手工、钩针教程",
+      "transcript_clean": "钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程补充信息：钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程关键词：创作灵感、十二生肖、钩针玩偶、手工、钩针教程",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-03/7203706757980491066.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7203706757980491066",
+      "summary": "铃铛手作围绕“创作灵感”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程。钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程补充信息：钩针小牛玩偶，勇敢牛牛不怕困难#创作灵感 #十二生肖 #钩针玩偶 #手工 #钩针教程关键词：创作灵感、十二生肖、钩针玩偶、手工、钩针教程 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "创作灵感为什么总是做不出来结果？",
+        "先把十二生肖想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕创作灵感组织标题与开头。",
+        "用十二生肖和钩针玩偶补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "创作灵感",
+        "十二生肖",
+        "钩针玩偶"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-03/7203706757980491066.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "last_error": null
+  },
+  "7440828493576899877": {
+    "video_id": "7440828493576899877",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7440828493576899877",
+      "title": "请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感",
+      "publish_time": "2024-11-24T12:55:00+08:00",
+      "video_url": "https://www.douyin.com/video/7440828493576899877",
+      "cover_url": "",
+      "like_count": 321,
+      "comment_count": 17,
+      "share_count": 109,
+      "collect_count": 43,
+      "description": "请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感",
+      "text_hint": "请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感",
+      "topic_tags": [
+        "用穿搭打开初雪仪式感",
+        "hello时尚季",
+        "冬季韩系穿搭ootd",
+        "找到了秋冬本命大衣",
+        "肉肉女孩怎么穿出氛围感"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d63e68a91dfc2f3ae79a3e70fc50ad41/6a9932bb/video/tos/cn/tos-cn-ve-0015c800/oQZzBD0MiwsiXhKALgXIoYFAeDaUBAQ1AfgEDN/?a=6383&br=455&bt=455&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1788413876&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNxIVQ9w6tDBHhd.iLHZf03-ApQX&is_ssr=1&l=202609031337564E837BB4F2EE7AD1C7CB&lr=all&mime_type=video_mp4&qs=12&rc=OTdoOmU4aTozNjo3aDs8aEBpMzZrcG85cnJsdzMzNGkzM0AzNmAuNF5iXjAxLTJgLl8xYSNgYmYvMmRjMC5gLS1kLWFzcw%3D%3D&__vid=7440828493576899877",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7440828493576899877.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7440828493576899877.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7440828493576899877",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-03T13:36:48+08:00",
+    "last_seen_at": "2026-09-03T13:36:48+08:00",
+    "fetch_runs": [
+      "2026-09-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7440828493576899877.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-03/7440828493576899877.mp3",
+      "source": "download",
+      "processed_at": "2026-09-03T13:38:17+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7440828493576899877",
+      "transcript_raw": "请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感补充信息：请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感关键词：用穿搭打开初雪仪式感、hello时尚季、冬季韩系穿搭ootd、找到了秋冬本命大衣、肉肉女孩怎么穿出氛围感",
+      "transcript_clean": "请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感补充信息：请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感关键词：用穿搭打开初雪仪式感、hello时尚季、冬季韩系穿搭ootd、找到了秋冬本命大衣、肉肉女孩怎么穿出氛围感",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-03/7440828493576899877.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7440828493576899877",
+      "summary": "目标博主 1围绕“用穿搭打开初雪仪式感”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感。请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感补充信息：请大数据把我推送给想买衣服的微胖姐妹！ #用穿搭打开初雪仪式感 #hello时尚季 #冬季韩系穿搭ootd #找到了秋冬本命大衣 #肉肉女孩怎么穿出氛围感关键词：用穿搭打开初雪仪式感、hello时尚季、冬季韩系穿搭ootd、找到了秋冬本命大衣、肉肉女孩怎么穿出氛围感 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "用穿搭打开初雪仪式感为什么总是做不出来结果？",
+        "先把hello时尚季想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕用穿搭打开初雪仪式感组织标题与开头。",
+        "用hello时尚季和冬季韩系穿搭ootd补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "用穿搭打开初雪仪式感",
+        "hello时尚季",
+        "冬季韩系穿搭ootd"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-03/7440828493576899877.json",
+      "processed_at": "2026-09-03T13:41:54+08:00"
+    },
+    "last_error": null
   }
 }
