@@ -39357,5 +39357,581 @@
       "processed_at": "2026-09-03T13:41:54+08:00"
     },
     "last_error": null
+  },
+  "7575504302760906030": {
+    "video_id": "7575504302760906030",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "宋忠平",
+      "video_id": "7575504302760906030",
+      "title": "接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基",
+      "publish_time": "2025-11-22T19:06:03+08:00",
+      "video_url": "https://www.douyin.com/video/7575504302760906030",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ed14576e34e5d4dbc45f1849c8e2ea93~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103858000&x-signature=AHQndmjjfg%2FGqgOzLbUrdv219SA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609041342371B594407835903CE4246",
+      "like_count": 20377,
+      "comment_count": 3524,
+      "share_count": 222,
+      "collect_count": 1253,
+      "description": "接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基",
+      "text_hint": "接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基",
+      "topic_tags": [
+        "俄乌冲突",
+        "美乌关系",
+        "泽连斯基"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f451c82889bf7d3542e1514f67eb8ce6/6a9a8514/video/tos/cn/tos-cn-ve-15/ogkAGPvQxDQzuEISvAINihtQzQ2PaHW2wBs7i/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=744&bt=744&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w8~.BHhd.blXM103-ApQX&mime_type=video_mp4&qs=0&rc=OzhkZjppMzRoNmQzNTM5aEBpamhnbnU5cjpyNzMzNGkzM0BhNjQ1NWBgNS0xLTMuMy8tYSNqLjM0MmRrM2RhLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100H_100K&dy_q=1788500557&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202609041342371B594407835903CE4246",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7575504302760906030.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7575504302760906030.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 151.254,
+      "raw_payload": {
+        "aweme_id": "7575504302760906030",
+        "author_uid": "3614786876875748",
+        "sec_uid": "MS4wLjABAAAAx5kyD60M3Q_RW1ytRhcfpB1O0XwpGAQwv8KiQ7mCia1YImYpY1NUDb9PO8VWxjMx",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAx5kyD60M3Q_RW1ytRhcfpB1O0XwpGAQwv8KiQ7mCia1YImYpY1NUDb9PO8VWxjMx"
+      }
+    },
+    "first_seen_at": "2026-09-04T13:42:24+08:00",
+    "last_seen_at": "2026-09-04T13:42:24+08:00",
+    "fetch_runs": [
+      "2026-09-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7575504302760906030.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7575504302760906030.mp3",
+      "source": "download",
+      "processed_at": "2026-09-04T13:43:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7575504302760906030",
+      "transcript_raw": "接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基补充信息：接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基关键词：俄乌冲突、美乌关系、泽连斯基",
+      "transcript_clean": "接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基补充信息：接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基关键词：俄乌冲突、美乌关系、泽连斯基",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-04/7575504302760906030.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7575504302760906030",
+      "summary": "宋忠平围绕“俄乌冲突”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基。接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基补充信息：接受不平等条约，或失去强力支持，泽连斯基不甘心还想说服特朗普 #俄乌冲突 #美乌关系  #泽连斯基关键词：俄乌冲突、美乌关系、泽连斯基 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "俄乌冲突为什么总是做不出来结果？",
+        "先把美乌关系想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕俄乌冲突组织标题与开头。",
+        "用美乌关系和泽连斯基补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "俄乌冲突",
+        "美乌关系",
+        "泽连斯基"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-04/7575504302760906030.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "last_error": null
+  },
+  "7256394314740190504": {
+    "video_id": "7256394314740190504",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "尚致胜聊人生",
+      "video_id": "7256394314740190504",
+      "title": "先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要",
+      "publish_time": "2023-07-16T20:36:53+08:00",
+      "video_url": "https://www.douyin.com/video/7256394314740190504",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/16ca2cf7b328106188cb8a5b83c27846~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103858000&x-signature=Fd3SSbdYIgxccToXOFOBA%2B8guxc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026090413424195DEF172263E3B09ACD4",
+      "like_count": 161,
+      "comment_count": 6,
+      "share_count": 147,
+      "collect_count": 85,
+      "description": "先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要",
+      "text_hint": "先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要",
+      "topic_tags": [
+        "先做人后做事人品永远第一",
+        "感悟",
+        "家庭教育很重要"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c8fd1937090821b0c78c97c1c45f4d0a/6a9a855c/video/tos/cn/tos-cn-ve-0015c800/oMDuEc7BIBAbKEazQJcAvlufECePB5ZnePLCgV/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1059&bt=1059&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wN~.BHhd.blXM103-ApQX&mime_type=video_mp4&qs=0&rc=ZztpMzs7PDdmNjc1ZGZmZkBpajQ8b2Q6Zmp4bDMzNGkzM0AuMy9hYjA1XmAxYDU0MC1fYSNmcnBvcjRnNG1gLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100B_100H_100K_100o_100w&dy_q=1788500561&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026090413424195DEF172263E3B09ACD4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7256394314740190504.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7256394314740190504.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 219.847,
+      "raw_payload": {
+        "aweme_id": "7256394314740190504",
+        "author_uid": "477642574804792",
+        "sec_uid": "MS4wLjABAAAAH5bRE4FqkcHj7glo_satm1_cZwoHiUPsUT17SoU1tZQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAH5bRE4FqkcHj7glo_satm1_cZwoHiUPsUT17SoU1tZQ"
+      }
+    },
+    "first_seen_at": "2026-09-04T13:42:24+08:00",
+    "last_seen_at": "2026-09-04T13:42:24+08:00",
+    "fetch_runs": [
+      "2026-09-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7256394314740190504.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7256394314740190504.mp3",
+      "source": "download",
+      "processed_at": "2026-09-04T13:45:11+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7256394314740190504",
+      "transcript_raw": "先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要补充信息：先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要关键词：先做人后做事人品永远第一、感悟、家庭教育很重要",
+      "transcript_clean": "先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要补充信息：先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要关键词：先做人后做事人品永远第一、感悟、家庭教育很重要",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-04/7256394314740190504.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7256394314740190504",
+      "summary": "尚致胜聊人生围绕“先做人后做事人品永远第一”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要。先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要补充信息：先做人后做事，一个人若是情商有问题，即使他潜力再大，也无人敢赏识，只有情商高了人生之路会越变越宽，有人为你搭桥，有人为你铺路#先做人后做事人品永远第一 #感悟 #家庭教育很重要关键词：先做人后做事人品永远第一、感悟、家庭教育很重要 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "先做人后做事人品永远第一为什么总是做不出来结果？",
+        "先把感悟想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕先做人后做事人品永远第一组织标题与开头。",
+        "用感悟和家庭教育很重要补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "先做人后做事人品永远第一",
+        "感悟",
+        "家庭教育很重要"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-04/7256394314740190504.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "last_error": null
+  },
+  "7266386041634852152": {
+    "video_id": "7266386041634852152",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "UPHR人资服务中心",
+      "video_id": "7266386041634852152",
+      "title": "目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理",
+      "publish_time": "2023-08-12T18:49:27+08:00",
+      "video_url": "https://www.douyin.com/video/7266386041634852152",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/052e06381999cc1c3dca3bf7bc9f2eac~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103858000&x-signature=11WG5aGhSR7mXnD%2Fs1ME1G9dwFY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026090413424448754638E472E41FD23A",
+      "like_count": 164,
+      "comment_count": 23,
+      "share_count": 14,
+      "collect_count": 51,
+      "description": "目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理",
+      "text_hint": "目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理",
+      "topic_tags": [
+        "HR",
+        "人力资源管理",
+        "人力资源管理师",
+        "目标管理",
+        "绩效管理"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/6619184ac433ccf350a21e6bdbe42d15/6a9a85c9/video/tos/cn/tos-cn-ve-0015c800/oYQZfzYb9kDarNAIBQnXfM82ZDF1gAaI56bpEA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1043&bt=1043&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9w1~.BHhd.blXM103-ApQX&mime_type=video_mp4&qs=0&rc=NzdlNDY0OGQ7OzY6ZGdpPEBpM3M0Ojk6ZmZwbTMzNGkzM0BjYl9fMzZhNmAxXjRhNmM2YSNgcnFrcjRvM19gLS1kLWFzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100H_100K_100o_100w_100B&dy_q=1788500564&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026090413424448754638E472E41FD23A&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7266386041634852152.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7266386041634852152.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 325.173,
+      "raw_payload": {
+        "aweme_id": "7266386041634852152",
+        "author_uid": "98881641748",
+        "sec_uid": "MS4wLjABAAAATzUjfolMXl3PqGiqj17oJ1iSkk25HSP4pq5Vfw3wcyQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAATzUjfolMXl3PqGiqj17oJ1iSkk25HSP4pq5Vfw3wcyQ"
+      }
+    },
+    "first_seen_at": "2026-09-04T13:42:24+08:00",
+    "last_seen_at": "2026-09-04T13:42:24+08:00",
+    "fetch_runs": [
+      "2026-09-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7266386041634852152.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7266386041634852152.mp3",
+      "source": "download",
+      "processed_at": "2026-09-04T13:44:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7266386041634852152",
+      "transcript_raw": "目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理补充信息：目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理关键词：HR、人力资源管理、人力资源管理师、目标管理、绩效管理",
+      "transcript_clean": "目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理补充信息：目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理关键词：HR、人力资源管理、人力资源管理师、目标管理、绩效管理",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-04/7266386041634852152.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7266386041634852152",
+      "summary": "UPHR人资服务中心围绕“HR”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理。目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理补充信息：目标管理中的目标到底应该如何分解才算是有效的。听听老刘的意见#HR #人力资源管理 #人力资源管理师 #目标管理 #绩效管理关键词：HR、人力资源管理、人力资源管理师、目标管理、绩效管理 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "HR为什么总是做不出来结果？",
+        "先把人力资源管理想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕HR组织标题与开头。",
+        "用人力资源管理和人力资源管理师补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "HR",
+        "人力资源管理",
+        "人力资源管理师"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-04/7266386041634852152.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "last_error": null
+  },
+  "7588214190670728491": {
+    "video_id": "7588214190670728491",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7588214190670728491",
+      "title": "魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一",
+      "publish_time": "2025-12-26T17:06:00+08:00",
+      "video_url": "https://www.douyin.com/video/7588214190670728491",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一",
+      "text_hint": "魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d74d80dd9a3ee22df1503f1db7fcac11/6a9a857b/video/tos/cn/tos-cn-v-c9e10a/oQDNOwfxQBempFzIUCjBD5NwETEAvIBg5oVbMo/?a=6383&br=1820&bt=1820&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_102v_102u_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1788500580&feature_id=b1cb202f98cf51d95e455ae01e100ce9&ft=CZdgCYlIDyjNNRVQ9wL~.BHhd.blXM103-ApQX&is_ssr=1&l=2026090413430003AC9D2590783EEAEE58&lr=all&mime_type=video_mp4&qs=0&rc=aDRoZTRmZ2VkMzU5M2U7M0BpMzdwd3c5cjpmODMzNDYzM0AzYWAxNDRiNjYxLTJhL2MzYSNfamoyMmQ0LjRhLS1kMDBzcw%3D%3D&__vid=7588214190670728491",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7588214190670728491.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7588214190670728491.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7588214190670728491",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-04T13:42:24+08:00",
+    "last_seen_at": "2026-09-04T13:42:24+08:00",
+    "fetch_runs": [
+      "2026-09-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7588214190670728491.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7588214190670728491.mp3",
+      "source": "download",
+      "processed_at": "2026-09-04T13:43:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7588214190670728491",
+      "transcript_raw": "魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一补充信息：魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一",
+      "transcript_clean": "魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一补充信息：魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-04/7588214190670728491.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7588214190670728491",
+      "summary": "知雪围绕“魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一补充信息：魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一。魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一补充信息：魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一补充信息：魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一补充信息：魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一补充信息：魅蓝香水沐浴露男士蔚蓝洗头洗澡洗脸三合一洗发水洗面奶二合一",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-04/7588214190670728491.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "last_error": null
+  },
+  "7277766055060049163": {
+    "video_id": "7277766055060049163",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "环球音乐库【车载U盘】",
+      "video_id": "7277766055060049163",
+      "title": "我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌",
+      "publish_time": "2023-09-12T10:49:26+08:00",
+      "video_url": "https://www.douyin.com/video/7277766055060049163",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/612e1e9369310360f33c583a8983e7b3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103858000&x-signature=g3NcTbUSeA5nZDOOjXaUXQkcMCs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260904134309A0BBB1E7510668B05F37",
+      "like_count": 729,
+      "comment_count": 25,
+      "share_count": 433,
+      "collect_count": 521,
+      "description": "我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌",
+      "text_hint": "我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌",
+      "topic_tags": [
+        "你的样子",
+        "林志炫",
+        "音乐",
+        "音乐分享",
+        "经典老歌"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b331c99d9709a720f92a4309d69b7e1f/6a9a859a/video/tos/cn/tos-cn-ve-15c001-alinc2/ogeb9eBUAdb7znXUIGhB8FLs4KDBfJlaAgC8QN/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=973&bt=973&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w5~.BHhd.blXM103-ApQX&mime_type=video_mp4&qs=0&rc=ZGZpZWc6OjhkNGRoNzU8O0BpamRyPGU6Znl3bTMzNGkzM0BiYF8wXzQzNjIxMWEzMjNiYSMub2plcjQwLXNgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1788500589&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260904134309A0BBB1E7510668B05F37",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7277766055060049163.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7277766055060049163.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 253.98,
+      "raw_payload": {
+        "aweme_id": "7277766055060049163",
+        "author_uid": "2256662361290104",
+        "sec_uid": "MS4wLjABAAAAb0NqX4_NvZB6Jko_kUI-7pTmJIzNQgh1G05fW9nhs13ainQFh7zocAVOYAd4htCj",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAb0NqX4_NvZB6Jko_kUI-7pTmJIzNQgh1G05fW9nhs13ainQFh7zocAVOYAd4htCj"
+      }
+    },
+    "first_seen_at": "2026-09-04T13:42:24+08:00",
+    "last_seen_at": "2026-09-04T13:42:24+08:00",
+    "fetch_runs": [
+      "2026-09-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7277766055060049163.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7277766055060049163.mp3",
+      "source": "download",
+      "processed_at": "2026-09-04T13:44:21+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7277766055060049163",
+      "transcript_raw": "我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌补充信息：我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌关键词：你的样子、林志炫、音乐、音乐分享、经典老歌",
+      "transcript_clean": "我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌补充信息：我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌关键词：你的样子、林志炫、音乐、音乐分享、经典老歌",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-04/7277766055060049163.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7277766055060049163",
+      "summary": "环球音乐库【车载U盘】围绕“你的样子”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌。我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌补充信息：我听到传来的谁的声音，像那梦中呜咽中的小河 #你的样子#林志炫#音乐 #音乐分享 #经典老歌关键词：你的样子、林志炫、音乐、音乐分享、经典老歌 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "你的样子为什么总是做不出来结果？",
+        "先把林志炫想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕你的样子组织标题与开头。",
+        "用林志炫和音乐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "你的样子",
+        "林志炫",
+        "音乐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-04/7277766055060049163.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "last_error": null
+  },
+  "7041529179451526407": {
+    "video_id": "7041529179451526407",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "Rika_花花",
+      "video_id": "7041529179451526407",
+      "title": "全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送",
+      "publish_time": "2021-12-14T20:10:06+08:00",
+      "video_url": "https://www.douyin.com/video/7041529179451526407",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1f3e6a17b9ed635722001f8c297f683f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2103858000&x-signature=jZAIVDSSmiRX0BkeC%2FP%2FZmXWSic%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026090413431391661D30A5D8E48898BB",
+      "like_count": 41607,
+      "comment_count": 2485,
+      "share_count": 2353,
+      "collect_count": 801,
+      "description": "全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送",
+      "text_hint": "全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送",
+      "topic_tags": [
+        "收到礼物后的反应",
+        "圣诞开箱大放送"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/9a57cfcc6485f82a7de2fa9389ab6041/6a9a8557/video/tos/cn/tos-cn-ve-0015c800/c1d2cace60144b9cb1fd389339ed6260/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3930&bt=3930&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w2~.BHhd.blXM103-ApQX&mime_type=video_mp4&qs=0&rc=ZzNlNDhlaWdmaTU2ZDtkO0Bpajh3PGY6Zjo7OTMzNGkzM0AzLTQyNGExNTExYzZfYzAxYSMxMDMucjQwXnBgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100H_102u_100o&dy_q=1788500593&l=2026090413431391661D30A5D8E48898BB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7041529179451526407.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7041529179451526407.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 182.534,
+      "raw_payload": {
+        "aweme_id": "7041529179451526407",
+        "author_uid": "59358580310",
+        "sec_uid": "MS4wLjABAAAAqqYGSquQsT7PyEyJbdIHCxcVMvJrcAE6gh467MfIJx8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAqqYGSquQsT7PyEyJbdIHCxcVMvJrcAE6gh467MfIJx8"
+      }
+    },
+    "first_seen_at": "2026-09-04T13:42:24+08:00",
+    "last_seen_at": "2026-09-04T13:42:24+08:00",
+    "fetch_runs": [
+      "2026-09-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7041529179451526407.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-04/7041529179451526407.mp3",
+      "source": "download",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7041529179451526407",
+      "transcript_raw": "全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送补充信息：全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送关键词：收到礼物后的反应、圣诞开箱大放送",
+      "transcript_clean": "全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送补充信息：全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送关键词：收到礼物后的反应、圣诞开箱大放送",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-04/7041529179451526407.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7041529179451526407",
+      "summary": "Rika_花花围绕“收到礼物后的反应”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送。全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送补充信息：全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送关键词：收到礼物后的反应、圣诞开箱大放送 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "收到礼物后的反应为什么总是做不出来结果？",
+        "先把圣诞开箱大放送想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕收到礼物后的反应组织标题与开头。",
+        "用圣诞开箱大放送和全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送补充信息：全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送关键词：收到礼物后的反应、圣诞开箱大放送补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "收到礼物后的反应",
+        "圣诞开箱大放送",
+        "全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送补充信息：全网买不到的超值圣诞盲盒！已婚男人给的惊喜还是惊吓？#收到礼物后的反应#圣诞开箱大放送关键词：收到礼物后的反应、圣诞开箱大放送"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-04/7041529179451526407.json",
+      "processed_at": "2026-09-04T13:46:04+08:00"
+    },
+    "last_error": null
+  },
+  "7521684812097277199": {
+    "video_id": "7521684812097277199",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7521684812097277199",
+      "title": "在抖音记录美好生活20260904",
+      "publish_time": "2026-09-04T13:43:21+08:00",
+      "video_url": "https://www.douyin.com/video/7521684812097277199",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260904",
+      "text_hint": "在抖音记录美好生活20260904",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/b8d8f4dc-2b50-4f7b-92a7-bd4208f17303",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7521684812097277199",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-04T13:42:24+08:00",
+    "last_seen_at": "2026-09-04T13:42:24+08:00",
+    "fetch_runs": [
+      "2026-09-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
