@@ -39933,5 +39933,580 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7573528656527543269": {
+    "video_id": "7573528656527543269",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "长春晚报",
+      "video_id": "7573528656527543269",
+      "title": "李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”",
+      "publish_time": "2025-11-17T11:19:18+08:00",
+      "video_url": "https://www.douyin.com/video/7573528656527543269",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1a3dc55b301769c115c7cecf57793783~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104030800&x-signature=WLyvOrTynD%2F8MwZ1Mcm4rHJ6d4E%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026090613440639106DB96695E63537D6",
+      "like_count": 135,
+      "comment_count": 7,
+      "share_count": 2,
+      "collect_count": 2,
+      "description": "李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”",
+      "text_hint": "李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/63e8ae7100fc8b3c959b63c25c5e8a62/6a9d27ed/video/tos/cn/tos-cn-ve-15c000-ce/oUcPIeED8TfE5uFQ9ppaAl6EjCFSN9AGecC07w/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1029&bt=1029&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wW8ykHhd.Mfr8C73-ApQX&mime_type=video_mp4&qs=0&rc=MzhpZTQ0ODdkZjo4NTNnOkBpMzh1c3E5cnE8NzMzbGkzNEAyLzMyMi4tNS4xNS8uLzQ1YSNxZ2sxMmQ0NGFhLS1kLWJzcw%3D%3D&btag=80000e00010000&cquery=100w_100B_100x_100z_100o&dy_q=1788673446&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026090613440639106DB96695E63537D6",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7573528656527543269.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7573528656527543269.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 23.434,
+      "raw_payload": {
+        "aweme_id": "7573528656527543269",
+        "author_uid": "98612585661",
+        "sec_uid": "MS4wLjABAAAAaN3wFthpNB3FA1D7wLaVbmcV1b3gWZjOXZGtl9AwYd8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAaN3wFthpNB3FA1D7wLaVbmcV1b3gWZjOXZGtl9AwYd8"
+      }
+    },
+    "first_seen_at": "2026-09-06T13:43:45+08:00",
+    "last_seen_at": "2026-09-06T13:43:45+08:00",
+    "fetch_runs": [
+      "2026-09-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7573528656527543269.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7573528656527543269.mp3",
+      "source": "download",
+      "processed_at": "2026-09-06T13:44:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7573528656527543269",
+      "transcript_raw": "李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”补充信息：李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”",
+      "transcript_clean": "李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”补充信息：李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-06/7573528656527543269.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7573528656527543269",
+      "summary": "长春晚报围绕“李宇春演唱会西安站回应西安吃泡馍被指“假吃””给出了一条可直接执行的短视频经验。",
+      "clean_copy": "李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”。李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家”补充信息：李宇春演唱会西安站回应西安吃泡馍被指“假吃”  “我爱吃的东西一定会真心地推荐给大家” 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "李宇春演唱会西安站回应西安吃泡馍被指“假吃”为什么总是做不出来结果？",
+        "先把“我爱吃的东西一定会真心地推荐给大家”李宇春演唱会西安站回应西安吃泡馍被指“假吃”想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕李宇春演唱会西安站回应西安吃泡馍被指“假吃”组织标题与开头。",
+        "用“我爱吃的东西一定会真心地推荐给大家”李宇春演唱会西安站回应西安吃泡馍被指“假吃”和“我爱吃的东西一定会真心地推荐给大家”补充信息：李宇春演唱会西安站回应西安吃泡馍被指“假吃”补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "李宇春演唱会西安站回应西安吃泡馍被指“假吃”",
+        "“我爱吃的东西一定会真心地推荐给大家”李宇春演唱会西安站回应西安吃泡馍被指“假吃”",
+        "“我爱吃的东西一定会真心地推荐给大家”补充信息：李宇春演唱会西安站回应西安吃泡馍被指“假吃”"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-06/7573528656527543269.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "last_error": null
+  },
+  "7347635608057072933": {
+    "video_id": "7347635608057072933",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "叛逆少女刘开心",
+      "video_id": "7347635608057072933",
+      "title": "中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录",
+      "publish_time": "2024-03-18T17:38:55+08:00",
+      "video_url": "https://www.douyin.com/video/7347635608057072933",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ccd18fe86252943e4c85188f80e7165d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104030800&x-signature=zbo%2BdkBSKSOkGugNz8fnXE45FMc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609061344094EC5922F140CB5F3562A",
+      "like_count": 8032,
+      "comment_count": 767,
+      "share_count": 87,
+      "collect_count": 250,
+      "description": "中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录",
+      "text_hint": "中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录",
+      "topic_tags": [
+        "叙利亚",
+        "旅行大玩家",
+        "中国人在叙利亚建学校",
+        "海外奇遇见闻录"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/70f843701194f575fe116131c415c063/6a9d28cc/video/tos/cn/tos-cn-ve-15/oQQ1u7CLxe4FpeIyNozndAiBGQBbA19eWILsDA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2358&bt=2358&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wC8ykHhd.Mfr8C73-ApQX&mime_type=video_mp4&qs=0&rc=ZmY3Omc7ZGU5OzU2OjZnaEBpMztmZzk6ZnczcTMzNGkzM0AxMi4yMGAxNmIxLi4vYjZiYSNeNWVzcjRfaHBgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1788673449&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202609061344094EC5922F140CB5F3562A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7347635608057072933.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7347635608057072933.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 243.073,
+      "raw_payload": {
+        "aweme_id": "7347635608057072933",
+        "author_uid": "30406431486942",
+        "sec_uid": "MS4wLjABAAAAjTn4co-8XwsyMIVrxrqQXuE5LMJbVlDVhh9dlzpRIgk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAjTn4co-8XwsyMIVrxrqQXuE5LMJbVlDVhh9dlzpRIgk"
+      }
+    },
+    "first_seen_at": "2026-09-06T13:43:45+08:00",
+    "last_seen_at": "2026-09-06T13:43:45+08:00",
+    "fetch_runs": [
+      "2026-09-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7347635608057072933.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7347635608057072933.mp3",
+      "source": "download",
+      "processed_at": "2026-09-06T13:47:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7347635608057072933",
+      "transcript_raw": "中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录补充信息：中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录关键词：叙利亚、旅行大玩家、中国人在叙利亚建学校、海外奇遇见闻录",
+      "transcript_clean": "中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录补充信息：中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录关键词：叙利亚、旅行大玩家、中国人在叙利亚建学校、海外奇遇见闻录",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-06/7347635608057072933.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7347635608057072933",
+      "summary": "叛逆少女刘开心围绕“叙利亚”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录。中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录补充信息：中国人在叙利亚建学校，第一家工程规划。#叙利亚 #旅行大玩家 #中国人在叙利亚建学校 #海外奇遇见闻录关键词：叙利亚、旅行大玩家、中国人在叙利亚建学校、海外奇遇见闻录 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "叙利亚为什么总是做不出来结果？",
+        "先把旅行大玩家想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕叙利亚组织标题与开头。",
+        "用旅行大玩家和中国人在叙利亚建学校补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "叙利亚",
+        "旅行大玩家",
+        "中国人在叙利亚建学校"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-06/7347635608057072933.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "last_error": null
+  },
+  "7357596320154144039": {
+    "video_id": "7357596320154144039",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "飞哥品味",
+      "video_id": "7357596320154144039",
+      "title": "榆社二中运动会开幕了#记录校园生活",
+      "publish_time": "2024-04-14T13:51:39+08:00",
+      "video_url": "https://www.douyin.com/video/7357596320154144039",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7162c0bc905d3a5182fdf4a13cb7b79b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104030800&x-signature=Pkqj5%2B1ieV0Yy3miobzGClWC07I%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260906134413AF509BB784BB3F02EB08",
+      "like_count": 246,
+      "comment_count": 29,
+      "share_count": 23,
+      "collect_count": 15,
+      "description": "榆社二中运动会开幕了#记录校园生活",
+      "text_hint": "榆社二中运动会开幕了#记录校园生活",
+      "topic_tags": [
+        "记录校园生活"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/86c20cce12f5c5b8f551ca2e7cc80b51/6a9d291e/video/tos/cn/tos-cn-ve-0015c800/oEb2XeB9Dnm0GEA38g8tA2DeIbdPVTADygEa2Q/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1538&bt=1538&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w58ykHhd.Mfr8C73-ApQX&mime_type=video_mp4&qs=0&rc=ZzQ4ZWU6OzQ7Z2VmZTNoZ0BpM3c8Z2U6Zm1wcjMzNGkzM0BgMmItYC9fNmAxY18zYC8yYSNvcGhpcjRvb2FgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1788673453&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260906134413AF509BB784BB3F02EB08",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7357596320154144039.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7357596320154144039.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 321.713,
+      "raw_payload": {
+        "aweme_id": "7357596320154144039",
+        "author_uid": "53927147822",
+        "sec_uid": "MS4wLjABAAAA8reREz3am2REw93fU-o9GyEwY_aTIrDab9zWSkR3qqk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA8reREz3am2REw93fU-o9GyEwY_aTIrDab9zWSkR3qqk"
+      }
+    },
+    "first_seen_at": "2026-09-06T13:43:45+08:00",
+    "last_seen_at": "2026-09-06T13:43:45+08:00",
+    "fetch_runs": [
+      "2026-09-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7357596320154144039.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7357596320154144039.mp3",
+      "source": "download",
+      "processed_at": "2026-09-06T13:46:12+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7357596320154144039",
+      "transcript_raw": "榆社二中运动会开幕了#记录校园生活榆社二中运动会开幕了#记录校园生活补充信息：榆社二中运动会开幕了#记录校园生活关键词：记录校园生活",
+      "transcript_clean": "榆社二中运动会开幕了#记录校园生活榆社二中运动会开幕了#记录校园生活补充信息：榆社二中运动会开幕了#记录校园生活关键词：记录校园生活",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-06/7357596320154144039.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7357596320154144039",
+      "summary": "飞哥品味围绕“记录校园生活”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "榆社二中运动会开幕了#记录校园生活。榆社二中运动会开幕了#记录校园生活榆社二中运动会开幕了#记录校园生活补充信息：榆社二中运动会开幕了#记录校园生活关键词：记录校园生活 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "记录校园生活为什么总是做不出来结果？",
+        "先把榆社二中运动会开幕了#记录校园生活榆社二中运动会开幕了#记录校园生活补充信息：榆社二中运动会开幕了#记录校园生活关键词：记录校园生活想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕记录校园生活组织标题与开头。",
+        "用榆社二中运动会开幕了#记录校园生活榆社二中运动会开幕了#记录校园生活补充信息：榆社二中运动会开幕了#记录校园生活关键词：记录校园生活和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "记录校园生活",
+        "榆社二中运动会开幕了#记录校园生活榆社二中运动会开幕了#记录校园生活补充信息：榆社二中运动会开幕了#记录校园生活关键词：记录校园生活",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-06/7357596320154144039.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "last_error": null
+  },
+  "7585761338686360841": {
+    "video_id": "7585761338686360841",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7585761338686360841",
+      "title": "在抖音记录美好生活20260906",
+      "publish_time": "2026-09-06T13:44:48+08:00",
+      "video_url": "https://www.douyin.com/video/7585761338686360841",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260906",
+      "text_hint": "在抖音记录美好生活20260906",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/6a037e1c-eb73-44ca-93fd-e21f4d5b547a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7585761338686360841",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-06T13:43:45+08:00",
+    "last_seen_at": "2026-09-06T13:43:45+08:00",
+    "fetch_runs": [
+      "2026-09-06"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7383637036386766130": {
+    "video_id": "7383637036386766130",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "眉山江水平装修",
+      "video_id": "7383637036386766130",
+      "title": "装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选",
+      "publish_time": "2024-06-23T18:02:54+08:00",
+      "video_url": "https://www.douyin.com/video/7383637036386766130",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/318b5d6f0f31e1a1b7e2a3608151bdef~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104030800&x-signature=aj7njoDFkBALJ7nEAtMf0gG8D90%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609061344245485CAF87F530FE8C95E",
+      "like_count": 612,
+      "comment_count": 50,
+      "share_count": 35,
+      "collect_count": 43,
+      "description": "装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选",
+      "text_hint": "装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选",
+      "topic_tags": [
+        "眉山装修",
+        "装修避坑",
+        "装修知识",
+        "装修干货",
+        "装修公司怎么选"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/517b3d524816ae02974b0239f8cc8084/6a9d28f6/video/tos/cn/tos-cn-ve-0015c800/ooGMmNeTDJCeZLaD0AxEAH0kI3RCmg8A2p3Nfe/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1651&bt=1651&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wb8ykHhd.Mfr8C73-ApQX&mime_type=video_mp4&qs=0&rc=OWYzNmg6aDdkaDxnZmc1ZkBpamo8bXY5cnJ5czMzNGkzM0AuYmAzYTQyNTUxNjMvX2AtYSNoaGw2MmRzMW9gLS1kLWFzcw%3D%3D&btag=80000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1788673464&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202609061344245485CAF87F530FE8C95E",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7383637036386766130.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7383637036386766130.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 270.536,
+      "raw_payload": {
+        "aweme_id": "7383637036386766130",
+        "author_uid": "94426425035",
+        "sec_uid": "MS4wLjABAAAAKUNqSILwhuqCF_QolB-tQV2TiEj-BvquNb-I_ceYGVA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAKUNqSILwhuqCF_QolB-tQV2TiEj-BvquNb-I_ceYGVA"
+      }
+    },
+    "first_seen_at": "2026-09-06T13:43:45+08:00",
+    "last_seen_at": "2026-09-06T13:43:45+08:00",
+    "fetch_runs": [
+      "2026-09-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7383637036386766130.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7383637036386766130.mp3",
+      "source": "download",
+      "processed_at": "2026-09-06T13:45:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7383637036386766130",
+      "transcript_raw": "装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选补充信息：装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选关键词：眉山装修、装修避坑、装修知识、装修干货、装修公司怎么选",
+      "transcript_clean": "装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选补充信息：装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选关键词：眉山装修、装修避坑、装修知识、装修干货、装修公司怎么选",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-06/7383637036386766130.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7383637036386766130",
+      "summary": "眉山江水平装修围绕“眉山装修”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选。装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选补充信息：装修公司的增项和连环套，真是让人防不慎防！ #眉山装修 #装修避坑 #装修知识 #装修干货 #装修公司怎么选关键词：眉山装修、装修避坑、装修知识、装修干货、装修公司怎么选 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "眉山装修为什么总是做不出来结果？",
+        "先把装修避坑想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕眉山装修组织标题与开头。",
+        "用装修避坑和装修知识补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "眉山装修",
+        "装修避坑",
+        "装修知识"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-06/7383637036386766130.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "last_error": null
+  },
+  "7070057002638101796": {
+    "video_id": "7070057002638101796",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "游戏大神陈落薰",
+      "video_id": "7070057002638101796",
+      "title": "#游戏 #问道手游 这首饰怎么样",
+      "publish_time": "2022-03-01T17:12:04+08:00",
+      "video_url": "https://www.douyin.com/video/7070057002638101796",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f82f22de32efd3c63292e83ef6400673~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104030800&x-signature=EO0cazmS1alRpHbrq5HtWxGHgxM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609061344275D2556AEA2D200F1CF7A",
+      "like_count": 1027,
+      "comment_count": 206,
+      "share_count": 24,
+      "collect_count": 88,
+      "description": "#游戏 #问道手游 这首饰怎么样",
+      "text_hint": "#游戏 #问道手游 这首饰怎么样",
+      "topic_tags": [
+        "游戏",
+        "问道手游"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/a5866035f84808e26154bc5300bd1cca/6a9d28a5/video/tos/cn/tos-cn-ve-15-alinc2/7c937ee604624ebc9144e5a50355083b/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=537&bt=537&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w48ykHhd.Mfr8C73-ApQX&mime_type=video_mp4&qs=0&rc=MzVkO2Y2NTU8PGloOmRmZkBpMzxtcDY6Znh4OzMzNGkzM0AvXzJhM14zNmIxYi1jMzRfYSMxZjVfcjQwMmJgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100x_102u&dy_q=1788673467&l=202609061344275D2556AEA2D200F1CF7A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7070057002638101796.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7070057002638101796.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 186.394,
+      "raw_payload": {
+        "aweme_id": "7070057002638101796",
+        "author_uid": "496603747854695",
+        "sec_uid": "MS4wLjABAAAAQuxZsH0OZoC8ny1OQCHrKUCQ0pZrBNKtGGtASeIwBHw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQuxZsH0OZoC8ny1OQCHrKUCQ0pZrBNKtGGtASeIwBHw"
+      }
+    },
+    "first_seen_at": "2026-09-06T13:43:45+08:00",
+    "last_seen_at": "2026-09-06T13:43:45+08:00",
+    "fetch_runs": [
+      "2026-09-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7070057002638101796.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7070057002638101796.mp3",
+      "source": "download",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7070057002638101796",
+      "transcript_raw": "#游戏 #问道手游 这首饰怎么样#游戏 #问道手游 这首饰怎么样补充信息：#游戏 #问道手游 这首饰怎么样关键词：游戏、问道手游",
+      "transcript_clean": "#游戏 #问道手游 这首饰怎么样#游戏 #问道手游 这首饰怎么样补充信息：#游戏 #问道手游 这首饰怎么样关键词：游戏、问道手游",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-06/7070057002638101796.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7070057002638101796",
+      "summary": "游戏大神陈落薰围绕“游戏”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#游戏 #问道手游 这首饰怎么样。#游戏 #问道手游 这首饰怎么样#游戏 #问道手游 这首饰怎么样补充信息：#游戏 #问道手游 这首饰怎么样关键词：游戏、问道手游 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "游戏为什么总是做不出来结果？",
+        "先把问道手游想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕游戏组织标题与开头。",
+        "用问道手游和#问道手游补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "游戏",
+        "问道手游",
+        "#问道手游"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-06/7070057002638101796.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "last_error": null
+  },
+  "7345423076986817811": {
+    "video_id": "7345423076986817811",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7345423076986817811",
+      "title": "美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15",
+      "publish_time": "2024-03-12T10:33:00+08:00",
+      "video_url": "https://www.douyin.com/video/7345423076986817811",
+      "cover_url": "",
+      "like_count": 129,
+      "comment_count": 32,
+      "share_count": 92,
+      "collect_count": 50,
+      "description": "美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15",
+      "text_hint": "美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15",
+      "topic_tags": [
+        "卡贴机",
+        "有锁机",
+        "华强北",
+        "苹果",
+        "iPhone15"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/321251f4f03ddfa99a0d09b652dbd815/6a9d2902/video/tos/cn/tos-cn-ve-0015c800/o4AP4lCBQv9EArF9huIgTdADP8gfEqlfvw8QAD/?a=6383&br=880&bt=880&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100D_100J&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1788673483&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wlEykHhd.Mfr8C73-ApQX&is_ssr=1&l=202609061344428DDE147A605890126CE2&lr=all&mime_type=video_mp4&qs=1&rc=PDU3N2Y8ODU7Zzo2NmlnZEBpM3F5NGw5cnQ1cTMzNGkzM0BiX2MwLjY2Xi0xMi5iMDUxYSMuY3BoMmRrcmxgLS1kLTBzcw%3D%3D&__vid=7345423076986817811",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7345423076986817811.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7345423076986817811.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7345423076986817811",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-06T13:43:45+08:00",
+    "last_seen_at": "2026-09-06T13:43:45+08:00",
+    "fetch_runs": [
+      "2026-09-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7345423076986817811.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-06/7345423076986817811.mp3",
+      "source": "download",
+      "processed_at": "2026-09-06T13:47:16+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7345423076986817811",
+      "transcript_raw": "美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15补充信息：美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15关键词：卡贴机、有锁机、华强北、苹果、iPhone15",
+      "transcript_clean": "美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15补充信息：美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15关键词：卡贴机、有锁机、华强北、苹果、iPhone15",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-06/7345423076986817811.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7345423076986817811",
+      "summary": "目标博主 1围绕“卡贴机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15。美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15补充信息：美版卡贴机最新注销资源库BUG黑屏后要怎么办#卡贴机 #有锁机 #华强北 #苹果 #iPhone15关键词：卡贴机、有锁机、华强北、苹果、iPhone15 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "卡贴机为什么总是做不出来结果？",
+        "先把有锁机想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕卡贴机组织标题与开头。",
+        "用有锁机和华强北补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "卡贴机",
+        "有锁机",
+        "华强北"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-06/7345423076986817811.json",
+      "processed_at": "2026-09-06T13:48:15+08:00"
+    },
+    "last_error": null
   }
 }
