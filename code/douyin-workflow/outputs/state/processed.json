@@ -40508,5 +40508,631 @@
       "processed_at": "2026-09-06T13:48:15+08:00"
     },
     "last_error": null
+  },
+  "7629354881484180779": {
+    "video_id": "7629354881484180779",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "黑科技老黄",
+      "video_id": "7629354881484180779",
+      "title": "巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀",
+      "publish_time": "2026-04-16T21:53:37+08:00",
+      "video_url": "https://www.douyin.com/video/7629354881484180779",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b8e73660b2b7842ff60935133835fe6f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104117200&x-signature=aiHOjyOb0SuJmB80tOES0HiJ2SE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260907135405CAA4CEB705B68AAEA230",
+      "like_count": 2049,
+      "comment_count": 304,
+      "share_count": 12,
+      "collect_count": 189,
+      "description": "巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀",
+      "text_hint": "巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀",
+      "topic_tags": [
+        "巴基斯坦",
+        "歼35",
+        "全球创作者计划",
+        "零基础看懂全球",
+        "时代的荣耀"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/8e0dd13f71d07e905ea52de18d24554a/6a9e7c72/video/tos/cn/tos-cn-ve-15/owAgig5enCGTfb7QAYEfOMWgtB4gMR42aDeHD0/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=995&bt=995&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wPG.kHhd.cx9DDR3-ApQX&mime_type=video_mp4&qs=0&rc=MzQ3OjVoZjMzNzhlZThkNEBpajl4Om85cjZoOjMzNGkzM0AvM2MzMS1hNTExLS00NGAvYSNyZXItMmRrY2RhLS1kLTBzcw%3D%3D&btag=80000e00028000&cc=1f&cquery=100B_100H_100K_100o_100w&dy_q=1788760445&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260907135405CAA4CEB705B68AAEA230&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7629354881484180779.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7629354881484180779.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 197.672,
+      "raw_payload": {
+        "aweme_id": "7629354881484180779",
+        "author_uid": "266539421673115",
+        "sec_uid": "MS4wLjABAAAAHp2JGoyxwCJWR3lDstFcKaZ4ISTaYry-i685Z28kMWc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHp2JGoyxwCJWR3lDstFcKaZ4ISTaYry-i685Z28kMWc"
+      }
+    },
+    "first_seen_at": "2026-09-07T13:53:50+08:00",
+    "last_seen_at": "2026-09-07T13:53:50+08:00",
+    "fetch_runs": [
+      "2026-09-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7629354881484180779.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7629354881484180779.mp3",
+      "source": "download",
+      "processed_at": "2026-09-07T13:55:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7629354881484180779",
+      "transcript_raw": "巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀补充信息：巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀关键词：巴基斯坦、歼35、全球创作者计划、零基础看懂全球、时代的荣耀",
+      "transcript_clean": "巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀补充信息：巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀关键词：巴基斯坦、歼35、全球创作者计划、零基础看懂全球、时代的荣耀",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-07/7629354881484180779.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7629354881484180779",
+      "summary": "黑科技老黄围绕“巴基斯坦”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀。巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀补充信息：巴基斯坦拟签署120亿美元军购大单，含40架歼35A 巴基斯坦拟签署120亿美元军购大单，含40架歼35A #巴基斯坦 #歼35  #全球创作者计划 #零基础看懂全球 #时代的荣耀关键词：巴基斯坦、歼35、全球创作者计划、零基础看懂全球、时代的荣耀 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "巴基斯坦为什么总是做不出来结果？",
+        "先把歼35想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕巴基斯坦组织标题与开头。",
+        "用歼35和全球创作者计划补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "巴基斯坦",
+        "歼35",
+        "全球创作者计划"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-07/7629354881484180779.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "last_error": null
+  },
+  "7296053621886618921": {
+    "video_id": "7296053621886618921",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "Mac圈",
+      "video_id": "7296053621886618921",
+      "title": "搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac",
+      "publish_time": "2023-10-31T17:34:38+08:00",
+      "video_url": "https://www.douyin.com/video/7296053621886618921",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ddb6d3b4152ac5a2f85f3bcdf1034435~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104117200&x-signature=WCnIOipgFS326KBe%2FZDJj1wIPms%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260907135409CCEB603B9DDD306DCEFD",
+      "like_count": 83,
+      "comment_count": 9,
+      "share_count": 5,
+      "collect_count": 10,
+      "description": "搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac",
+      "text_hint": "搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac",
+      "topic_tags": [
+        "苹果",
+        "苹果发布会",
+        "MacBookPro",
+        "M3",
+        "iMac"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a84f6e34e7bdbcc7eb49011926bac4d3/6a9e7cc6/video/tos/cn/tos-cn-ve-0015c800/o4dDPy6ch3BGAfixNQNIYgANl9VoBZzNAELNeQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=631&bt=631&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wIY.kHhd.cx9DDR3-ApQX&mime_type=video_mp4&qs=0&rc=aWdoZDdnNTtpZDc6NTM6NkBpampuaGc6ZnhmbzMzNGkzM0BhLWI2MS40NjMxMTFjXi41YSNgbmdicjRnYy1gLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100H_100K_100o_100w&dy_q=1788760449&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260907135409CCEB603B9DDD306DCEFD",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7296053621886618921.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7296053621886618921.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 277.525,
+      "raw_payload": {
+        "aweme_id": "7296053621886618921",
+        "author_uid": "3189058814354462",
+        "sec_uid": "MS4wLjABAAAAHYp9iCDhehfnjt4gHO0WhNRWlgG4WHzka46irV9bPkqpgrfv-Ekd5Adhoi-RdrvV",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHYp9iCDhehfnjt4gHO0WhNRWlgG4WHzka46irV9bPkqpgrfv-Ekd5Adhoi-RdrvV"
+      }
+    },
+    "first_seen_at": "2026-09-07T13:53:50+08:00",
+    "last_seen_at": "2026-09-07T13:53:50+08:00",
+    "fetch_runs": [
+      "2026-09-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7296053621886618921.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7296053621886618921.mp3",
+      "source": "download",
+      "processed_at": "2026-09-07T13:56:51+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7296053621886618921",
+      "transcript_raw": "搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac补充信息：搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac关键词：苹果、苹果发布会、MacBookPro、M3、iMac",
+      "transcript_clean": "搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac补充信息：搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac关键词：苹果、苹果发布会、MacBookPro、M3、iMac",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-07/7296053621886618921.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7296053621886618921",
+      "summary": "Mac圈围绕“苹果”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac。搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac补充信息：搭载M3、M3 Pro、M3 Max的MacBook Pro全部亮相，5分钟速看苹果发布会！\n#苹果 #苹果发布会 #MacBookPro #M3 #iMac关键词：苹果、苹果发布会、MacBookPro、M3、iMac 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "苹果为什么总是做不出来结果？",
+        "先把苹果发布会想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕苹果组织标题与开头。",
+        "用苹果发布会和MacBookPro补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "苹果",
+        "苹果发布会",
+        "MacBookPro"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-07/7296053621886618921.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "last_error": null
+  },
+  "7313506856763231488": {
+    "video_id": "7313506856763231488",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "列夫库伦•斯坦",
+      "video_id": "7313506856763231488",
+      "title": "用镁条的燃烧反应验证质量守恒定律实验 #实验室日常",
+      "publish_time": "2023-12-31T18:20:13+08:00",
+      "video_url": "https://www.douyin.com/video/7313506856763231488",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e529f3d81625fdebe8d89b6df885dc87~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104117200&x-signature=oYAhwMWBtpOVIrcTGRrbAdlNE%2Bg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260907135413E692B5EDDE3E21770030",
+      "like_count": 232,
+      "comment_count": 11,
+      "share_count": 224,
+      "collect_count": 190,
+      "description": "用镁条的燃烧反应验证质量守恒定律实验 #实验室日常",
+      "text_hint": "用镁条的燃烧反应验证质量守恒定律实验 #实验室日常",
+      "topic_tags": [
+        "实验室日常"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d6a174dc6ddbbccd783d6967fa56aad6/6a9e7c9f/video/tos/cn/tos-cn-ve-0015c800/oEYEeA1gsEgyXDIKjfebBCA4KzDduUQI7inDBi/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=602&bt=602&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wtY.kHhd.cx9DDR3-ApQX&mime_type=video_mp4&qs=0&rc=OTc7M2Y3Ozk2NzdmOzZkM0BpMzhpNjQ6ZjtmbzMzNGkzM0BhMGNiMjRgNjExMl9gNi4yYSMyaS5mcjRna3NgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100H_100K&dy_q=1788760453&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260907135413E692B5EDDE3E21770030",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7313506856763231488.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7313506856763231488.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 234.44,
+      "raw_payload": {
+        "aweme_id": "7313506856763231488",
+        "author_uid": "111069450567",
+        "sec_uid": "MS4wLjABAAAArol0W1UULk8ElgJ8XCuzJqpeDjAOs8DbzqNp1p9RMpk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAArol0W1UULk8ElgJ8XCuzJqpeDjAOs8DbzqNp1p9RMpk"
+      }
+    },
+    "first_seen_at": "2026-09-07T13:53:50+08:00",
+    "last_seen_at": "2026-09-07T13:53:50+08:00",
+    "fetch_runs": [
+      "2026-09-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7313506856763231488.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7313506856763231488.mp3",
+      "source": "download",
+      "processed_at": "2026-09-07T13:56:36+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7313506856763231488",
+      "transcript_raw": "用镁条的燃烧反应验证质量守恒定律实验 #实验室日常用镁条的燃烧反应验证质量守恒定律实验 #实验室日常补充信息：用镁条的燃烧反应验证质量守恒定律实验 #实验室日常关键词：实验室日常",
+      "transcript_clean": "用镁条的燃烧反应验证质量守恒定律实验 #实验室日常用镁条的燃烧反应验证质量守恒定律实验 #实验室日常补充信息：用镁条的燃烧反应验证质量守恒定律实验 #实验室日常关键词：实验室日常",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-07/7313506856763231488.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7313506856763231488",
+      "summary": "列夫库伦•斯坦围绕“实验室日常”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "用镁条的燃烧反应验证质量守恒定律实验 #实验室日常。用镁条的燃烧反应验证质量守恒定律实验 #实验室日常用镁条的燃烧反应验证质量守恒定律实验 #实验室日常补充信息：用镁条的燃烧反应验证质量守恒定律实验 #实验室日常关键词：实验室日常 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "实验室日常为什么总是做不出来结果？",
+        "先把用镁条的燃烧反应验证质量守恒定律实验想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕实验室日常组织标题与开头。",
+        "用用镁条的燃烧反应验证质量守恒定律实验和#实验室日常用镁条的燃烧反应验证质量守恒定律实验补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "实验室日常",
+        "用镁条的燃烧反应验证质量守恒定律实验",
+        "#实验室日常用镁条的燃烧反应验证质量守恒定律实验"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-07/7313506856763231488.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "last_error": null
+  },
+  "7407836467218746633": {
+    "video_id": "7407836467218746633",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7407836467218746633",
+      "title": "《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续",
+      "publish_time": "2024-08-27T15:09:00+08:00",
+      "video_url": "https://www.douyin.com/video/7407836467218746633",
+      "cover_url": "",
+      "like_count": 118,
+      "comment_count": 0,
+      "share_count": 23,
+      "collect_count": 3,
+      "description": "《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续",
+      "text_hint": "《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续",
+      "topic_tags": [
+        "十二岁那年三两银子阿娘将我卖给了牙婆",
+        "十二岁那年三两银子阿娘将我卖给了牙婆后续",
+        "十二岁那年三两银子阿娘将我卖给了牙婆完结完整版",
+        "海梨花云夏林远",
+        "海梨花云夏林远后续"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/174585707b8dcf41e9aa8e9a5bd7d3cb/6a9e7db1/video/tos/cn/tos-cn-ve-0015c800/o8cEAIMQ7bzINAbeO8emT9OmUeAGBCLhaRMBTp/?a=6383&br=482&bt=482&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100K_100o_100w_100B_100H&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1788760470&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wgY.kHhd.cx9DDR3-ApQX&is_ssr=1&l=20260907135429B9F8DA28D0D1C75DF898&lr=all&mime_type=video_mp4&qs=12&rc=M2ZpNGdmOTw7OjQ0Z2VoaEBpM3ltOG05cnZ4dTMzNGkzM0A1LjRfMl5iNTAxYjI2XmNjYSNjaDYvMmQ0ajNgLS1kLWFzcw%3D%3D&__vid=7407836467218746633",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7407836467218746633.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7407836467218746633.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7407836467218746633",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-07T13:53:50+08:00",
+    "last_seen_at": "2026-09-07T13:53:50+08:00",
+    "fetch_runs": [
+      "2026-09-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7407836467218746633.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7407836467218746633.mp3",
+      "source": "download",
+      "processed_at": "2026-09-07T13:56:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7407836467218746633",
+      "transcript_raw": "《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续补充信息：《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续关键词：十二岁那年三两银子阿娘将我卖给了牙婆、十二岁那年三两银子阿娘将我卖给了牙婆后续、十二岁那年三两银子阿娘将我卖给了牙婆完结完整版、海梨花云夏林远、海梨花云夏林远后续",
+      "transcript_clean": "《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续补充信息：《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续关键词：十二岁那年三两银子阿娘将我卖给了牙婆、十二岁那年三两银子阿娘将我卖给了牙婆后续、十二岁那年三两银子阿娘将我卖给了牙婆完结完整版、海梨花云夏林远、海梨花云夏林远后续",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-07/7407836467218746633.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7407836467218746633",
+      "summary": "目标博主 1围绕“十二岁那年三两银子阿娘将我卖给了牙婆”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续。《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续补充信息：《剑心牙婆》 超长版~已完结~未侵权#十二岁那年三两银子阿娘将我卖给了牙婆 #十二岁那年三两银子阿娘将我卖给了牙婆后续 #十二岁那年三两银子阿娘将我卖给了牙婆完结完整版 #海梨花云夏林远 #海梨花云夏林远后续关键词：十二岁那年三两银子阿娘将我卖给了牙婆、十二岁那年三两银子阿娘将我卖给了牙婆后续、十二岁那年三两银子阿娘将我卖给了牙婆完结完整版、海梨花云夏林远、海梨花云夏林远后续 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "十二岁那年三两银子阿娘将我卖给了牙婆为什么总是做不出来结果？",
+        "先把十二岁那年三两银子阿娘将我卖给了牙婆后续想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕十二岁那年三两银子阿娘将我卖给了牙婆组织标题与开头。",
+        "用十二岁那年三两银子阿娘将我卖给了牙婆后续和十二岁那年三两银子阿娘将我卖给了牙婆完结完整版补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "十二岁那年三两银子阿娘将我卖给了牙婆",
+        "十二岁那年三两银子阿娘将我卖给了牙婆后续",
+        "十二岁那年三两银子阿娘将我卖给了牙婆完结完整版"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-07/7407836467218746633.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "last_error": null
+  },
+  "7525430828681268522": {
+    "video_id": "7525430828681268522",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "vivichen",
+      "video_id": "7525430828681268522",
+      "title": "风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬",
+      "publish_time": "2025-07-10T20:35:06+08:00",
+      "video_url": "https://www.douyin.com/video/7525430828681268522",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5b5ccea0013bf07d9c2071420ee89be6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104117200&x-signature=gtSQ%2FrLUQKxFw3AdyX5Z4GDfUqI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260907135438CD50AE464C385D857551",
+      "like_count": 37110,
+      "comment_count": 1303,
+      "share_count": 3045,
+      "collect_count": 13031,
+      "description": "风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬",
+      "text_hint": "风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬",
+      "topic_tags": [
+        "四季型人",
+        "变美",
+        "干货分享",
+        "清冷感美女",
+        "浅冬"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/01a3c35943b2a1802ced4345adb213b9/6a9e7cd7/video/tos/cn/tos-cn-ve-15/oovPeiySAtaesB8JEZwAIHJrRYiAN00DgQBvIR/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1456&bt=1456&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wXY.kHhd.cx9DDR3-ApQX&mime_type=video_mp4&qs=0&rc=aTplNWY2OzUzZGZoNThmZ0BpajxnbnY5cjt1NDMzNGkzM0AwXl81L2EvXi8xYDRiM2ItYSNgaGEwMmQ0MWthLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1788760478&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260907135438CD50AE464C385D857551",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7525430828681268522.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7525430828681268522.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 265.15,
+      "raw_payload": {
+        "aweme_id": "7525430828681268522",
+        "author_uid": "64818543101",
+        "sec_uid": "MS4wLjABAAAAcvfLGc2owuedpKqOyxkBZqLM9M-6b_fpZilXu91LGVU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAcvfLGc2owuedpKqOyxkBZqLM9M-6b_fpZilXu91LGVU"
+      }
+    },
+    "first_seen_at": "2026-09-07T13:53:50+08:00",
+    "last_seen_at": "2026-09-07T13:53:50+08:00",
+    "fetch_runs": [
+      "2026-09-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7525430828681268522.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7525430828681268522.mp3",
+      "source": "download",
+      "processed_at": "2026-09-07T13:55:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7525430828681268522",
+      "transcript_raw": "风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬补充信息：风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬关键词：四季型人、变美、干货分享、清冷感美女、浅冬",
+      "transcript_clean": "风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬补充信息：风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬关键词：四季型人、变美、干货分享、清冷感美女、浅冬",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-07/7525430828681268522.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7525430828681268522",
+      "summary": "vivichen围绕“四季型人”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬。风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬补充信息：风格大于长相！冷感气质美人这块就这么水灵灵的拿捏了 #四季型人 #变美 #干货分享 #清冷感美女 #浅冬关键词：四季型人、变美、干货分享、清冷感美女、浅冬 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "四季型人为什么总是做不出来结果？",
+        "先把变美想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕四季型人组织标题与开头。",
+        "用变美和干货分享补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "四季型人",
+        "变美",
+        "干货分享"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-07/7525430828681268522.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "last_error": null
+  },
+  "6996227987188223232": {
+    "video_id": "6996227987188223232",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "公瑾（王者小店在橱窗）",
+      "video_id": "6996227987188223232",
+      "title": "全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君",
+      "publish_time": "2021-08-14T18:17:46+08:00",
+      "video_url": "https://www.douyin.com/video/6996227987188223232",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3c340d81fa55d506b4ee3d37492fb524~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104117200&x-signature=Vuw0IBUCVU9CjXReZ6htUNZGNbg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260907135441AD23B07E6614C6377817",
+      "like_count": 50647,
+      "comment_count": 2727,
+      "share_count": 10198,
+      "collect_count": 2503,
+      "description": "全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君",
+      "text_hint": "全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君",
+      "topic_tags": [
+        "王昭君"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/613420f670ca5839eebfb2a8a0261365/6a9e7c8c/video/tos/cn/tos-cn-ve-0015c800/c537fd12abfe42689f580638822c6742/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3669&bt=3669&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9waY.kHhd.cx9DDR3-ApQX&mime_type=video_mp4&qs=0&rc=NGdkN2RnZGU0ZDM3NmdnNkBpamduZGY6ZmlzNzMzNGkzM0AyYWAxYy0vXzExLmMtNGAyYSNoMGg2cjQwYV9gLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_102u_100o_100w&dy_q=1788760481&l=20260907135441AD23B07E6614C6377817",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/6996227987188223232.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/6996227987188223232.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 187.525,
+      "raw_payload": {
+        "aweme_id": "6996227987188223232",
+        "author_uid": "1829196335687838",
+        "sec_uid": "MS4wLjABAAAA7IkTYhLwfQ_oL4wYQ5DDHzErgPxvlrvqfwHvmvOfoJy1NQrbFaDqIALj-YPWFbiX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7IkTYhLwfQ_oL4wYQ5DDHzErgPxvlrvqfwHvmvOfoJy1NQrbFaDqIALj-YPWFbiX"
+      }
+    },
+    "first_seen_at": "2026-09-07T13:53:50+08:00",
+    "last_seen_at": "2026-09-07T13:53:50+08:00",
+    "fetch_runs": [
+      "2026-09-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/6996227987188223232.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/6996227987188223232.mp3",
+      "source": "download",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6996227987188223232",
+      "transcript_raw": "全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君补充信息：全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君关键词：王昭君",
+      "transcript_clean": "全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君补充信息：全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君关键词：王昭君",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-07/6996227987188223232.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "analysis": {
+      "video_id": "6996227987188223232",
+      "summary": "公瑾（王者小店在橱窗）围绕“王昭君”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君。全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君补充信息：全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君关键词：王昭君 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "王昭君为什么总是做不出来结果？",
+        "先把全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君补充信息：全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君关键词：王昭君想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕王昭君组织标题与开头。",
+        "用全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君补充信息：全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君关键词：王昭君和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "王昭君",
+        "全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君补充信息：全网最高能的王昭君教学，从技能解析到出装铭文，帮你从零开始学会王昭君#王昭君关键词：王昭君",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-07/6996227987188223232.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "last_error": null
+  },
+  "7455647952896298266": {
+    "video_id": "7455647952896298266",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7455647952896298266",
+      "title": "刚刚上市的尊贵版到底值不值？ #本田 #雅阁",
+      "publish_time": "2025-01-03T11:22:00+08:00",
+      "video_url": "https://www.douyin.com/video/7455647952896298266",
+      "cover_url": "",
+      "like_count": 164,
+      "comment_count": 30,
+      "share_count": 44,
+      "collect_count": 73,
+      "description": "刚刚上市的尊贵版到底值不值？ #本田 #雅阁",
+      "text_hint": "刚刚上市的尊贵版到底值不值？ #本田 #雅阁",
+      "topic_tags": [
+        "本田",
+        "雅阁"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a6c207836c92f05fe11ae73c38d23cc6/6a9e7d00/video/tos/cn/tos-cn-ve-0015c800/oo8JIaG7gBJ4HNDRBfAFK7PvQf7sOxECsgez3A/?a=6383&br=896&bt=896&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1788760497&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9w2Y.kHhd.cx9DDR3-ApQX&is_ssr=1&l=20260907135457510D6B45A5154C8DAA98&lr=all&mime_type=video_mp4&qs=12&rc=NzY5PDg6PDM6ODRkZjQ8N0Bpajhyd3M5cmZ2dzMzNGkzM0AyNjExMWM0Nl4xYi9fL14vYSMzZWZlMmRjY29gLS1kLTBzcw%3D%3D&__vid=7455647952896298266",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7455647952896298266.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7455647952896298266.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7455647952896298266",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-07T13:53:50+08:00",
+    "last_seen_at": "2026-09-07T13:53:50+08:00",
+    "fetch_runs": [
+      "2026-09-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7455647952896298266.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-07/7455647952896298266.mp3",
+      "source": "download",
+      "processed_at": "2026-09-07T13:56:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7455647952896298266",
+      "transcript_raw": "刚刚上市的尊贵版到底值不值？ #本田 #雅阁刚刚上市的尊贵版到底值不值？ #本田 #雅阁补充信息：刚刚上市的尊贵版到底值不值？ #本田 #雅阁关键词：本田、雅阁",
+      "transcript_clean": "刚刚上市的尊贵版到底值不值？ #本田 #雅阁刚刚上市的尊贵版到底值不值？ #本田 #雅阁补充信息：刚刚上市的尊贵版到底值不值？ #本田 #雅阁关键词：本田、雅阁",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-07/7455647952896298266.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "analysis": {
+      "video_id": "7455647952896298266",
+      "summary": "目标博主 1围绕“本田”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "刚刚上市的尊贵版到底值不值？ #本田 #雅阁。刚刚上市的尊贵版到底值不值？ #本田 #雅阁刚刚上市的尊贵版到底值不值？ #本田 #雅阁补充信息：刚刚上市的尊贵版到底值不值？ #本田 #雅阁关键词：本田、雅阁 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "本田为什么总是做不出来结果？",
+        "先把雅阁想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕本田组织标题与开头。",
+        "用雅阁和#本田补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "本田",
+        "雅阁",
+        "#本田"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-07/7455647952896298266.json",
+      "processed_at": "2026-09-07T13:57:40+08:00"
+    },
+    "last_error": null
   }
 }
