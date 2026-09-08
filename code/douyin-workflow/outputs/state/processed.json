@@ -41134,5 +41134,445 @@
       "processed_at": "2026-09-07T13:57:40+08:00"
     },
     "last_error": null
+  },
+  "7682481004803640582": {
+    "video_id": "7682481004803640582",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7682481004803640582",
+      "title": "目标博主 1 视频 7682481004803640582",
+      "publish_time": "2026-09-08T13:49:20+08:00",
+      "video_url": "https://www.douyin.com/video/7682481004803640582",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/61390e3e-5c5a-4ca5-a53c-d023ac2120aa",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7682481004803640582",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-08T13:46:40+08:00",
+    "last_seen_at": "2026-09-08T13:46:40+08:00",
+    "fetch_runs": [
+      "2026-09-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7594106856202184436": {
+    "video_id": "7594106856202184436",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7594106856202184436",
+      "title": "目标博主 1 视频 7594106856202184436",
+      "publish_time": "2026-09-08T13:49:20+08:00",
+      "video_url": "https://www.douyin.com/video/7594106856202184436",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/8e228450-7db0-4a63-9446-58d4099e2407",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7594106856202184436",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-08T13:46:40+08:00",
+    "last_seen_at": "2026-09-08T13:46:40+08:00",
+    "fetch_runs": [
+      "2026-09-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7355466753629064483": {
+    "video_id": "7355466753629064483",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7355466753629064483",
+      "title": "目标博主 1 视频 7355466753629064483",
+      "publish_time": "2026-09-08T13:49:20+08:00",
+      "video_url": "https://www.douyin.com/video/7355466753629064483",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/8907d512-93fb-4718-a246-35106f6ed27c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7355466753629064483",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-08T13:46:40+08:00",
+    "last_seen_at": "2026-09-08T13:46:40+08:00",
+    "fetch_runs": [
+      "2026-09-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7352304277932494080": {
+    "video_id": "7352304277932494080",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7352304277932494080",
+      "title": "目标博主 1 视频 7352304277932494080",
+      "publish_time": "2026-09-08T13:49:20+08:00",
+      "video_url": "https://www.douyin.com/video/7352304277932494080",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a551b2a8-e1f7-4e82-a87e-0eb9d0939e7a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7352304277932494080",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-08T13:46:40+08:00",
+    "last_seen_at": "2026-09-08T13:46:40+08:00",
+    "fetch_runs": [
+      "2026-09-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7483538467335474459": {
+    "video_id": "7483538467335474459",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7483538467335474459",
+      "title": "斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食",
+      "publish_time": "2025-03-19T15:11:00+08:00",
+      "video_url": "https://www.douyin.com/video/7483538467335474459",
+      "cover_url": "",
+      "like_count": 208,
+      "comment_count": 104,
+      "share_count": 39,
+      "collect_count": 76,
+      "description": "斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食",
+      "text_hint": "斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食",
+      "topic_tags": [
+        "美食vlog",
+        "好吃到停不下来",
+        "抖音美食创作者",
+        "跟抖音学做菜",
+        "爱生活爱美食"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/cc8f127b2cb310ea60364f2837ee541d/6a9fcce7/video/tos/cn/tos-cn-ve-0015c800/okGQ1KecCKDbPLoBfZFCAdGkItRB2gWA7K2fkU/?a=6383&br=1350&bt=1350&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1788846519&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wJYnkHhd.TAHa103-ApQX&is_ssr=1&l=20260908134839B23E6515C22880003BFC&lr=all&mime_type=video_mp4&qs=12&rc=M2ZlODdoZzQ4Zmc6PDY5NkBpajNkNGs5cjZneTMzNGkzM0AyLzRgMi4wXmExYDBgMGI0YSNwMmBeMmRra2FgLS1kLTBzcw%3D%3D&__vid=7483538467335474459",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-08/7483538467335474459.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-08/7483538467335474459.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7483538467335474459",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-08T13:46:40+08:00",
+    "last_seen_at": "2026-09-08T13:46:40+08:00",
+    "fetch_runs": [
+      "2026-09-08"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-08/7483538467335474459.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-08/7483538467335474459.mp3",
+      "source": "download",
+      "processed_at": "2026-09-08T13:49:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7483538467335474459",
+      "transcript_raw": "斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食补充信息：斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食关键词：美食vlog、好吃到停不下来、抖音美食创作者、跟抖音学做菜、爱生活爱美食",
+      "transcript_clean": "斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食补充信息：斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食关键词：美食vlog、好吃到停不下来、抖音美食创作者、跟抖音学做菜、爱生活爱美食",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-08/7483538467335474459.json",
+      "processed_at": "2026-09-08T13:49:53+08:00"
+    },
+    "analysis": {
+      "video_id": "7483538467335474459",
+      "summary": "目标博主 1围绕“美食vlog”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食。斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食补充信息：斋月美食打卡Vlog 青海人的家常便饭，每一餐都是我们的岁月芳华🍳 #美食vlog #好吃到停不下来 #抖音美食创作者 #跟抖音学做菜 #爱生活爱美食关键词：美食vlog、好吃到停不下来、抖音美食创作者、跟抖音学做菜、爱生活爱美食 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "美食vlog为什么总是做不出来结果？",
+        "先把好吃到停不下来想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕美食vlog组织标题与开头。",
+        "用好吃到停不下来和抖音美食创作者补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "美食vlog",
+        "好吃到停不下来",
+        "抖音美食创作者"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-08/7483538467335474459.json",
+      "processed_at": "2026-09-08T13:49:53+08:00"
+    },
+    "last_error": null
+  },
+  "7263097480177372475": {
+    "video_id": "7263097480177372475",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7263097480177372475",
+      "title": "在抖音记录美好生活20260908",
+      "publish_time": "2026-09-08T13:49:20+08:00",
+      "video_url": "https://www.douyin.com/video/7263097480177372475",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260908",
+      "text_hint": "在抖音记录美好生活20260908",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/8c3814ff-1b8e-4ac8-9393-634d746b832a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7263097480177372475",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-08T13:46:40+08:00",
+    "last_seen_at": "2026-09-08T13:46:40+08:00",
+    "fetch_runs": [
+      "2026-09-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7571037232066477755": {
+    "video_id": "7571037232066477755",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7571037232066477755",
+      "title": "在抖音记录美好生活20260908",
+      "publish_time": "2026-09-08T13:49:20+08:00",
+      "video_url": "https://www.douyin.com/video/7571037232066477755",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260908",
+      "text_hint": "在抖音记录美好生活20260908",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c621cd03-fc61-4381-b1fb-484f9f1d22b9",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7571037232066477755",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-08T13:46:40+08:00",
+    "last_seen_at": "2026-09-08T13:46:40+08:00",
+    "fetch_runs": [
+      "2026-09-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7512247440877145359": {
+    "video_id": "7512247440877145359",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7512247440877145359",
+      "title": "五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐",
+      "publish_time": "2025-06-04T23:57:00+08:00",
+      "video_url": "https://www.douyin.com/video/7512247440877145359",
+      "cover_url": "",
+      "like_count": 146,
+      "comment_count": 19,
+      "share_count": 85,
+      "collect_count": 129,
+      "description": "五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐",
+      "text_hint": "五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐",
+      "topic_tags": [
+        "抖音美食推荐官",
+        "同城美食",
+        "附近美食",
+        "本地人爱吃的店",
+        "美食推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/5a9482aa3b883fe72264b7932d9a91fe/6a9fccde/video/tos/cn/tos-cn-ve-0015c800/oooiQE8AADEY5g24We9BfFV8yANMtImX9NQEQg/?a=6383&br=1103&bt=1103&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1788846555&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wY-nkHhd.TAHa103-ApQX&is_ssr=1&l=20260908134915CFE2BCA970BD93370ED0&lr=all&mime_type=video_mp4&qs=12&rc=OGgzNGkzO2dlaWY1MzRmO0Bpang8dng5cmVnNDMzNGkzM0BiXmIxNTMxXy0xY2BjYDYtYSMybWwyMmRjbS1hLS1kLWFzcw%3D%3D&__vid=7512247440877145359",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-08/7512247440877145359.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-08/7512247440877145359.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7512247440877145359",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-08T13:46:40+08:00",
+    "last_seen_at": "2026-09-08T13:46:40+08:00",
+    "fetch_runs": [
+      "2026-09-08"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-08/7512247440877145359.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-08/7512247440877145359.mp3",
+      "source": "download",
+      "processed_at": "2026-09-08T13:49:36+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7512247440877145359",
+      "transcript_raw": "五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐补充信息：五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐关键词：抖音美食推荐官、同城美食、附近美食、本地人爱吃的店、美食推荐",
+      "transcript_clean": "五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐补充信息：五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐关键词：抖音美食推荐官、同城美食、附近美食、本地人爱吃的店、美食推荐",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-08/7512247440877145359.json",
+      "processed_at": "2026-09-08T13:49:53+08:00"
+    },
+    "analysis": {
+      "video_id": "7512247440877145359",
+      "summary": "目标博主 1围绕“抖音美食推荐官”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐。五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐补充信息：五月的灶台还没擦完呢，六月的菜单就该换新了。 每天颠勺手酸，账本催着省钱、 可客人一句“还是老味道”就暖了心。 希望六月能给我一点好运，剩下的我自己努力! #抖音美食推荐官 #同城美食 #附近美食 #本地人爱吃的店 #美食推荐关键词：抖音美食推荐官、同城美食、附近美食、本地人爱吃的店、美食推荐 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "抖音美食推荐官为什么总是做不出来结果？",
+        "先把同城美食想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕抖音美食推荐官组织标题与开头。",
+        "用同城美食和附近美食补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "抖音美食推荐官",
+        "同城美食",
+        "附近美食"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-08/7512247440877145359.json",
+      "processed_at": "2026-09-08T13:49:53+08:00"
+    },
+    "last_error": null
   }
 }
