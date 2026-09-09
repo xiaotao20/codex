@@ -41574,5 +41574,400 @@
       "processed_at": "2026-09-08T13:49:53+08:00"
     },
     "last_error": null
+  },
+  "7615034947175625722": {
+    "video_id": "7615034947175625722",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7615034947175625722",
+      "title": "目标博主 1 视频 7615034947175625722",
+      "publish_time": "2026-09-09T13:53:54+08:00",
+      "video_url": "https://www.douyin.com/video/7615034947175625722",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/f374322e-3ef6-4521-8677-2d7451d8d5cc",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7615034947175625722",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-09T13:51:10+08:00",
+    "last_seen_at": "2026-09-09T13:51:10+08:00",
+    "fetch_runs": [
+      "2026-09-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7184637620817874236": {
+    "video_id": "7184637620817874236",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7184637620817874236",
+      "title": "目标博主 1 视频 7184637620817874236",
+      "publish_time": "2026-09-09T13:53:54+08:00",
+      "video_url": "https://www.douyin.com/video/7184637620817874236",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/5d4fd878-f962-43ac-99e2-836ca60a0a8e",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7184637620817874236",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-09T13:51:10+08:00",
+    "last_seen_at": "2026-09-09T13:51:10+08:00",
+    "fetch_runs": [
+      "2026-09-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7201347537306012928": {
+    "video_id": "7201347537306012928",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7201347537306012928",
+      "title": "目标博主 1 视频 7201347537306012928",
+      "publish_time": "2026-09-09T13:53:54+08:00",
+      "video_url": "https://www.douyin.com/video/7201347537306012928",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/08c9c99b-f828-4991-be80-5e5db9d39545",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7201347537306012928",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-09T13:51:10+08:00",
+    "last_seen_at": "2026-09-09T13:51:10+08:00",
+    "fetch_runs": [
+      "2026-09-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7566221631108287801": {
+    "video_id": "7566221631108287801",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7566221631108287801",
+      "title": "#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手",
+      "publish_time": "2025-10-28T10:44:00+08:00",
+      "video_url": "https://www.douyin.com/video/7566221631108287801",
+      "cover_url": "",
+      "like_count": 3,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手",
+      "text_hint": "#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手",
+      "topic_tags": [
+        "苹果手机维修",
+        "手机店日常",
+        "轻能猿换电池"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2d0397efebc378a939ff4e0e6a14e22d/6aa11f57/video/tos/cn/tos-cn-ve-15c000-ce/og9ciEviAfXE8Qup1JeFE5WAICqfWjOAKwDnA1/?a=6383&br=1172&bt=1172&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1788933168&feature_id=fea919893f650a8c49286568590446ef&ft=CZdgCYlIDyjNb~VQ9wDPyMHhd.j-2bC73-ApQX&is_ssr=1&l=202609091352481F9E1F6F3B9B19757B7F&lr=all&mime_type=video_mp4&qs=0&rc=OzVkNTs2M2c8NDkzNTM7N0BpanY8dHk5cnU8NzMzbGkzNEBfMzMzNTZfXzIxMTMtNi9fYSNuYWhuMmRzcC1hLS1kLWJzcw%3D%3D&__vid=7566221631108287801",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-09/7566221631108287801.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-09/7566221631108287801.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7566221631108287801",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-09T13:51:10+08:00",
+    "last_seen_at": "2026-09-09T13:51:10+08:00",
+    "fetch_runs": [
+      "2026-09-09"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-09/7566221631108287801.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-09/7566221631108287801.mp3",
+      "source": "download",
+      "processed_at": "2026-09-09T13:54:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7566221631108287801",
+      "transcript_raw": "#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手补充信息：#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手关键词：苹果手机维修、手机店日常、轻能猿换电池",
+      "transcript_clean": "#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手补充信息：#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手关键词：苹果手机维修、手机店日常、轻能猿换电池",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-09/7566221631108287801.json",
+      "processed_at": "2026-09-09T13:54:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7566221631108287801",
+      "summary": "目标博主 1围绕“苹果手机维修”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手。#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手补充信息：#苹果手机维修 #手机店日常 #轻能猿换电池 @DOU+小助手关键词：苹果手机维修、手机店日常、轻能猿换电池 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "苹果手机维修为什么总是做不出来结果？",
+        "先把手机店日常想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕苹果手机维修组织标题与开头。",
+        "用手机店日常和轻能猿换电池补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "苹果手机维修",
+        "手机店日常",
+        "轻能猿换电池"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-09/7566221631108287801.json",
+      "processed_at": "2026-09-09T13:54:30+08:00"
+    },
+    "last_error": null
+  },
+  "7395918756498738483": {
+    "video_id": "7395918756498738483",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7395918756498738483",
+      "title": "目标博主 1 视频 7395918756498738483",
+      "publish_time": "2026-09-09T13:53:54+08:00",
+      "video_url": "https://www.douyin.com/video/7395918756498738483",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/641491be-c074-42f1-a102-5420a124c7d4",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7395918756498738483",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-09T13:51:10+08:00",
+    "last_seen_at": "2026-09-09T13:51:10+08:00",
+    "fetch_runs": [
+      "2026-09-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7336868707894840586": {
+    "video_id": "7336868707894840586",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7336868707894840586",
+      "title": "目标博主 1 视频 7336868707894840586",
+      "publish_time": "2026-09-09T13:53:54+08:00",
+      "video_url": "https://www.douyin.com/video/7336868707894840586",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/2c3ab886-8277-41a1-9336-b9f2debc1e2d",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7336868707894840586",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-09T13:51:10+08:00",
+    "last_seen_at": "2026-09-09T13:51:10+08:00",
+    "fetch_runs": [
+      "2026-09-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7148602240662637857": {
+    "video_id": "7148602240662637857",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7148602240662637857",
+      "title": "突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普",
+      "publish_time": "2022-09-29T11:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7148602240662637857",
+      "cover_url": "",
+      "like_count": 110000,
+      "comment_count": 3275,
+      "share_count": 6989,
+      "collect_count": 7922,
+      "description": "突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普",
+      "text_hint": "突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普",
+      "topic_tags": [
+        "世界心脏日",
+        "胸痛",
+        "心肌梗死",
+        "急救",
+        "医学科普"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/69a53e77c94ccb4d1d94219110d4e21e/6aa11f6a/video/tos/cn/tos-cn-ve-15c001-alinc2/c801001a2a514977a993858082ea9575/?a=6383&br=1080&bt=1080&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100H_100K_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1788933230&ft=CZdgCYlIDyjNb~VQ9wjvyMHhd.j-2bC73-ApQX&is_ssr=1&l=202609091353495E2209F3072C195FD8A6&lr=all&mime_type=video_mp4&qs=0&rc=Zmc5OTNlODhmPDhlZDdmOkBpM3g1c2Y6ZjVoZjMzNGkzM0A1NTIuLzRhNTYxNi8yY2BhYSM1amI0cjRvbW5gLS1kLS9zcw%3D%3D&__vid=7148602240662637857",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-09/7148602240662637857.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-09/7148602240662637857.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7148602240662637857",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-09T13:51:10+08:00",
+    "last_seen_at": "2026-09-09T13:51:10+08:00",
+    "fetch_runs": [
+      "2026-09-09"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-09/7148602240662637857.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-09/7148602240662637857.mp3",
+      "source": "download",
+      "processed_at": "2026-09-09T13:54:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7148602240662637857",
+      "transcript_raw": "突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普补充信息：突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普关键词：世界心脏日、胸痛、心肌梗死、急救、医学科普",
+      "transcript_clean": "突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普补充信息：突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普关键词：世界心脏日、胸痛、心肌梗死、急救、医学科普",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-09/7148602240662637857.json",
+      "processed_at": "2026-09-09T13:54:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7148602240662637857",
+      "summary": "目标博主 1围绕“世界心脏日”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普。突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普补充信息：突发胸痛后的正确自救方法，转发提醒身边人，远离悲剧！#世界心脏日#胸痛 #心肌梗死 #急救 #医学科普关键词：世界心脏日、胸痛、心肌梗死、急救、医学科普 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "世界心脏日为什么总是做不出来结果？",
+        "先把胸痛想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕世界心脏日组织标题与开头。",
+        "用胸痛和心肌梗死补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "世界心脏日",
+        "胸痛",
+        "心肌梗死"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-09/7148602240662637857.json",
+      "processed_at": "2026-09-09T13:54:30+08:00"
+    },
+    "last_error": null
   }
 }
