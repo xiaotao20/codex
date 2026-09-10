@@ -41969,5 +41969,624 @@
       "processed_at": "2026-09-09T13:54:30+08:00"
     },
     "last_error": null
+  },
+  "7683738471801965862": {
+    "video_id": "7683738471801965862",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "在职专本科报名咨询中心-卓之越",
+      "video_id": "7683738471801965862",
+      "title": "石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查",
+      "publish_time": "2026-09-10T11:09:40+08:00",
+      "video_url": "https://www.douyin.com/video/7683738471801965862",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-v-275423/ocrUAOfDCEeq9JpUdjMatXnIcB4GAE7XFCYLIg~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104376400&x-signature=ml5857LMAv%2BBCV3FnSDEXi74e3Y%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609101345457C2F8E0C2907F2CBCFDD",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查",
+      "text_hint": "石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b86309343acee468bda0177734710af9/6aa26e52/video/tos/cn/tos-cn-v-275423/oYc97po6EtXIGF1CTgCQUgALeLHXB0D8UI0f9O/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=1201&bt=1201&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wAPKMHhd.UUW0103-ApQX&mime_type=video_mp4&qs=0&rc=PDxnOjw4M2dpNDc1NztmNEBpam41d3k5cnc0ZDMzNDYzM0A1YDZiYDZjXi0xLTM0MDYuYSMtZl8tMmQ0cmVhLS1kMC9zcw%3D%3D&btag=c0000e00010000&cquery=102v_102u_100o_100w_100B&dy_q=1789019146&feature_id=a86f30d13437b00b109e4117546eca60&l=202609101345457C2F8E0C2907F2CBCFDD",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7683738471801965862.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7683738471801965862.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 24.939,
+      "raw_payload": {
+        "aweme_id": "7683738471801965862",
+        "author_uid": "1848709273358508",
+        "sec_uid": "MS4wLjABAAAAhBOL5NKKoFJCDlTaEwaScZz1XrtBawV7GX4BaYC_3U4z-sSP71b4aJngJzD0zoNE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhBOL5NKKoFJCDlTaEwaScZz1XrtBawV7GX4BaYC_3U4z-sSP71b4aJngJzD0zoNE"
+      }
+    },
+    "first_seen_at": "2026-09-10T13:45:25+08:00",
+    "last_seen_at": "2026-09-10T13:45:25+08:00",
+    "fetch_runs": [
+      "2026-09-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7683738471801965862.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7683738471801965862.mp3",
+      "source": "download",
+      "processed_at": "2026-09-10T13:46:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7683738471801965862",
+      "transcript_raw": "石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查补充信息：石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查",
+      "transcript_clean": "石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查补充信息：石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-10/7683738471801965862.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7683738471801965862",
+      "summary": "在职专本科报名咨询中心-卓之越围绕“石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查补充信息：石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查。石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查补充信息：石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查补充信息：石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查补充信息：石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查补充信息：石河子大学：自考本科助学面向上班族开放，无入学考，在职可读，学信网可查",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-10/7683738471801965862.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "last_error": null
+  },
+  "7605081049626979944": {
+    "video_id": "7605081049626979944",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "蚊子💫和平精英",
+      "video_id": "7605081049626979944",
+      "title": "182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP",
+      "publish_time": "2026-02-10T11:58:36+08:00",
+      "video_url": "https://www.douyin.com/video/7605081049626979944",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/9993f5d2f926f21083c21cdae586d7a2~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104376400&x-signature=abpVEBZWgAf9MBhF180LiL2%2FEec%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260910134550ED74BE6039138EFB3920",
+      "like_count": 1080,
+      "comment_count": 37,
+      "share_count": 17,
+      "collect_count": 271,
+      "description": "182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP",
+      "text_hint": "182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP",
+      "topic_tags": [
+        "2026pel春季赛",
+        "ag队史首个周冠",
+        "ag花花破纪录获周mvp",
+        "AG队史首个周冠",
+        "AG花花破纪录获周MVP"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ae78c5002e2a22d888a20050cbb4fbd3/6aa26e6d/video/tos/cn/tos-cn-ve-15/osBC9ODzimqfxJZOKi8XDpmEQjtFIApfAEgAZl/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1590&bt=1590&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wxPKMHhd.UUW0103-ApQX&mime_type=video_mp4&qs=0&rc=PDs3PDU1aTc2NztnZzdpZkBpajh3bHA5cnNkOTMzNGkzM0AvLTJfMC5fXl8xYmJfLjAzYSNlc3BsMmRrbDJhLS1kLTBzcw%3D%3D&btag=c0000e00020000&cquery=100x_100z_100o_100w_100B&dy_q=1789019150&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260910134550ED74BE6039138EFB3920",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7605081049626979944.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7605081049626979944.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 47.534,
+      "raw_payload": {
+        "aweme_id": "7605081049626979944",
+        "author_uid": "3063653249339423",
+        "sec_uid": "MS4wLjABAAAAuR-foM2yQ-1pN-n0CLG4JZytQ51dKXa_2A26EuzKmfwZe0Vevzp-9VXFg9y069VK",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAuR-foM2yQ-1pN-n0CLG4JZytQ51dKXa_2A26EuzKmfwZe0Vevzp-9VXFg9y069VK"
+      }
+    },
+    "first_seen_at": "2026-09-10T13:45:25+08:00",
+    "last_seen_at": "2026-09-10T13:45:25+08:00",
+    "fetch_runs": [
+      "2026-09-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7605081049626979944.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7605081049626979944.mp3",
+      "source": "download",
+      "processed_at": "2026-09-10T13:46:29+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7605081049626979944",
+      "transcript_raw": "182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP补充信息：182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP关键词：2026pel春季赛、ag队史首个周冠、ag花花破纪录获周mvp、AG队史首个周冠、AG花花破纪录获周MVP",
+      "transcript_clean": "182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP补充信息：182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP关键词：2026pel春季赛、ag队史首个周冠、ag花花破纪录获周mvp、AG队史首个周冠、AG花花破纪录获周MVP",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-10/7605081049626979944.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7605081049626979944",
+      "summary": "蚊子💫和平精英围绕“2026pel春季赛”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP。182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP补充信息：182分断层领先！恭喜成都AG拿下队史首个周冠！ 182分断层领先！恭喜成都AG拿下队史首个周冠！#2026pel春季赛 #AG队史首个周冠 #AG花花破纪录获周MVP关键词：2026pel春季赛、ag队史首个周冠、ag花花破纪录获周mvp、AG队史首个周冠、AG花花破纪录获周MVP 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "2026pel春季赛为什么总是做不出来结果？",
+        "先把ag队史首个周冠想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕2026pel春季赛组织标题与开头。",
+        "用ag队史首个周冠和ag花花破纪录获周mvp补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "2026pel春季赛",
+        "ag队史首个周冠",
+        "ag花花破纪录获周mvp"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-10/7605081049626979944.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "last_error": null
+  },
+  "7263059911406374204": {
+    "video_id": "7263059911406374204",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "孙二娘带你游中国",
+      "video_id": "7263059911406374204",
+      "title": "二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游",
+      "publish_time": "2023-08-03T19:42:05+08:00",
+      "video_url": "https://www.douyin.com/video/7263059911406374204",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/47db0aa1679111fcbb33e5b4d7e063d6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104376400&x-signature=SpDwABdaCIVSt173GO6xZjHTR8c%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260910134553C74AB93CE5D68DF070E2",
+      "like_count": 19783,
+      "comment_count": 1922,
+      "share_count": 7376,
+      "collect_count": 5689,
+      "description": "二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游",
+      "text_hint": "二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游",
+      "topic_tags": [
+        "床车自驾",
+        "比亚迪宋plusdmi",
+        "旅行vlog",
+        "一人一车自驾游"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/db456205bd1a026227b00a8f3dfc1ce4/6aa26f49/video/tos/cn/tos-cn-ve-15c001-alinc2/oMiQmgeAIAAfZE7LRylgSQgACBilImZBcgkGi4/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2995&bt=2995&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wNPKMHhd.UUW0103-ApQX&mime_type=video_mp4&qs=0&rc=Zjk0Ojg6Nzg3PDw4NDlkOEBpMztyN3I5cjZzbTMzNGkzM0A1MmBfYzUvX2ExLmMxYi4yYSM1LWhkMmRjMjJgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100D_100J_100o_100w_100B&dy_q=1789019153&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260910134553C74AB93CE5D68DF070E2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7263059911406374204.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7263059911406374204.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 264.149,
+      "raw_payload": {
+        "aweme_id": "7263059911406374204",
+        "author_uid": "62263360080",
+        "sec_uid": "MS4wLjABAAAAYsl-G_3SnHzRzyHAdIDSg2sPtUHFZl224tI4Q2qhExM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAYsl-G_3SnHzRzyHAdIDSg2sPtUHFZl224tI4Q2qhExM"
+      }
+    },
+    "first_seen_at": "2026-09-10T13:45:25+08:00",
+    "last_seen_at": "2026-09-10T13:45:25+08:00",
+    "fetch_runs": [
+      "2026-09-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7263059911406374204.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7263059911406374204.mp3",
+      "source": "download",
+      "processed_at": "2026-09-10T13:48:46+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7263059911406374204",
+      "transcript_raw": "二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游补充信息：二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游关键词：床车自驾、比亚迪宋plusdmi、旅行vlog、一人一车自驾游",
+      "transcript_clean": "二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游补充信息：二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游关键词：床车自驾、比亚迪宋plusdmi、旅行vlog、一人一车自驾游",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-10/7263059911406374204.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7263059911406374204",
+      "summary": "孙二娘带你游中国围绕“床车自驾”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游。二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游补充信息：二娘床车自驾20天玩了8个省，一共花了4000多，说说如何省钱 #床车自驾 #比亚迪宋plusdmi #旅行vlog #一人一车自驾游关键词：床车自驾、比亚迪宋plusdmi、旅行vlog、一人一车自驾游 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "床车自驾为什么总是做不出来结果？",
+        "先把比亚迪宋plusdmi想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕床车自驾组织标题与开头。",
+        "用比亚迪宋plusdmi和旅行vlog补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "床车自驾",
+        "比亚迪宋plusdmi",
+        "旅行vlog"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-10/7263059911406374204.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "last_error": null
+  },
+  "7265272821343931684": {
+    "video_id": "7265272821343931684",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "京城大为坦克京团",
+      "video_id": "7265272821343931684",
+      "title": "坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外",
+      "publish_time": "2023-08-09T18:49:42+08:00",
+      "video_url": "https://www.douyin.com/video/7265272821343931684",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0336f1ba0cd02165a92309b65d548e1a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104376400&x-signature=Oi3tMLkIRpFRmsXkDFOkhpUGfrQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260910134556B59DC23121D2E1C81C1A",
+      "like_count": 102,
+      "comment_count": 25,
+      "share_count": 47,
+      "collect_count": 44,
+      "description": "坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外",
+      "text_hint": "坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外",
+      "topic_tags": [
+        "户外露营",
+        "户外",
+        "北京坦克300升级方案",
+        "北京坦克300升级店",
+        "坦克300"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/bfcb92a9d32e6dc80cc0cd0ae3cc84bd/6aa26f23/video/tos/cn/tos-cn-ve-15c001-alinc2/owQO39Bk70Tc6eAmDu7nQghANjAbADcf9It4D2/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2014&bt=2014&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9w1PKMHhd.UUW0103-ApQX&mime_type=video_mp4&qs=0&rc=aGVoPGQ7aWczNDNpOzg2OkBpamt0OjQ6ZjNwbTMzNGkzM0A0YTZjYC4wXzExL2MxNi5iYSNvLTBrcjRvcTZgLS1kLWFzcw%3D%3D&btag=80000e00028000&cquery=100o_100w_100B_100H_100K&dy_q=1789019156&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260910134556B59DC23121D2E1C81C1A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7265272821343931684.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7265272821343931684.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 223.634,
+      "raw_payload": {
+        "aweme_id": "7265272821343931684",
+        "author_uid": "94260566084",
+        "sec_uid": "MS4wLjABAAAA70vCw2JPIHdt4VZVosvxqkzSVLzF3RZvSCKT4FPX-EY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA70vCw2JPIHdt4VZVosvxqkzSVLzF3RZvSCKT4FPX-EY"
+      }
+    },
+    "first_seen_at": "2026-09-10T13:45:25+08:00",
+    "last_seen_at": "2026-09-10T13:45:25+08:00",
+    "fetch_runs": [
+      "2026-09-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7265272821343931684.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7265272821343931684.mp3",
+      "source": "download",
+      "processed_at": "2026-09-10T13:47:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7265272821343931684",
+      "transcript_raw": "坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外补充信息：坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外关键词：户外露营、户外、北京坦克300升级方案、北京坦克300升级店、坦克300",
+      "transcript_clean": "坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外补充信息：坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外关键词：户外露营、户外、北京坦克300升级方案、北京坦克300升级店、坦克300",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-10/7265272821343931684.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7265272821343931684",
+      "summary": "京城大为坦克京团围绕“户外露营”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外。坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外补充信息：坦克300 水魔车顶水箱 露营用水就靠它了 #北京坦克300升级方案 #北京坦克300升级店 #坦克300 #户外露营 #户外关键词：户外露营、户外、北京坦克300升级方案、北京坦克300升级店、坦克300 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "户外露营为什么总是做不出来结果？",
+        "先把户外想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕户外露营组织标题与开头。",
+        "用户外和北京坦克300升级方案补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "户外露营",
+        "户外",
+        "北京坦克300升级方案"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-10/7265272821343931684.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "last_error": null
+  },
+  "7577766164639378682": {
+    "video_id": "7577766164639378682",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7577766164639378682",
+      "title": "在抖音记录美好生活20260910",
+      "publish_time": "2026-09-10T13:46:19+08:00",
+      "video_url": "https://www.douyin.com/video/7577766164639378682",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260910",
+      "text_hint": "在抖音记录美好生活20260910",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/25548bee-e040-483e-9a06-78e6227f6487",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7577766164639378682",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-10T13:45:25+08:00",
+    "last_seen_at": "2026-09-10T13:45:25+08:00",
+    "fetch_runs": [
+      "2026-09-10"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7228895625289534753": {
+    "video_id": "7228895625289534753",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "请收下我的膝盖",
+      "video_id": "7228895625289534753",
+      "title": "当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车",
+      "publish_time": "2023-05-03T18:07:57+08:00",
+      "video_url": "https://www.douyin.com/video/7228895625289534753",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7c52100441101f2d5bb41339c4b56fe0~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104376400&x-signature=h8mqFKUllGwD32E53w2npDSGY5E%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609101346071C36B6E5480FDBE5F0B0",
+      "like_count": 210,
+      "comment_count": 33,
+      "share_count": 36,
+      "collect_count": 10,
+      "description": "当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车",
+      "text_hint": "当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车",
+      "topic_tags": [
+        "加塞",
+        "别车"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/8471fc16ee80a1fd63bd42734dddc3b4/6aa26f44/video/tos/cn/tos-cn-ve-0015c800/os4k8wJvZA1BQ9w1gIfMUWDzet7xImjhAABpSE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=863&bt=863&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wvPKMHhd.UUW0103-ApQX&mime_type=video_mp4&qs=0&rc=aDNnZGY0NWU5NzVkPDw1NUBpM2t2aDQ6Znk2azMzNGkzM0AyNS8xMmMuNWIxMy00MTRjYSMzZXFwcjRfMTZgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100D_100J&dy_q=1789019167&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202609101346071C36B6E5480FDBE5F0B0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7228895625289534753.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7228895625289534753.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 245.11,
+      "raw_payload": {
+        "aweme_id": "7228895625289534753",
+        "author_uid": "4086221146424348",
+        "sec_uid": "MS4wLjABAAAAK_gXDVGgwkQ4PmtWnFqwWwEjkKfp_gNJxmYcp9uHYcv-PkKNt_jcf0e9kYphhZBB",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAK_gXDVGgwkQ4PmtWnFqwWwEjkKfp_gNJxmYcp9uHYcv-PkKNt_jcf0e9kYphhZBB"
+      }
+    },
+    "first_seen_at": "2026-09-10T13:45:25+08:00",
+    "last_seen_at": "2026-09-10T13:45:25+08:00",
+    "fetch_runs": [
+      "2026-09-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7228895625289534753.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7228895625289534753.mp3",
+      "source": "download",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7228895625289534753",
+      "transcript_raw": "当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车补充信息：当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车关键词：加塞、别车",
+      "transcript_clean": "当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车补充信息：当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车关键词：加塞、别车",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-10/7228895625289534753.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7228895625289534753",
+      "summary": "请收下我的膝盖围绕“加塞”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车。当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车补充信息：当恶意别车遇到狠人，尤其是遇到年轻人，他可以点都不惯着你！ #加塞  #别车关键词：加塞、别车 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "加塞为什么总是做不出来结果？",
+        "先把别车想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕加塞组织标题与开头。",
+        "用别车和#加塞补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "加塞",
+        "别车",
+        "#加塞"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-10/7228895625289534753.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "last_error": null
+  },
+  "7303472379253017882": {
+    "video_id": "7303472379253017882",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "胖手手丹丹",
+      "video_id": "7303472379253017882",
+      "title": "做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程",
+      "publish_time": "2023-11-20T17:23:04+08:00",
+      "video_url": "https://www.douyin.com/video/7303472379253017882",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/20a16c0a7580fa9a816b7c368555f270~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104376400&x-signature=Dv%2F0IJni88krGEute8SmyswjZFk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260910134611640D15C4DD0CFEC942C3",
+      "like_count": 6561,
+      "comment_count": 231,
+      "share_count": 725,
+      "collect_count": 1448,
+      "description": "做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程",
+      "text_hint": "做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程",
+      "topic_tags": [
+        "青椒鸡蛋酱拌面",
+        "美食教程"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/dcbec9a0a907c7937445ff13d9188f25/6aa26f66/video/tos/cn/tos-cn-ve-0015c800/og9BVFAaRY5fBfWOKlBxAtCb3tIAELEtDyKVEg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2250&bt=2250&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wmPKMHhd.UUW0103-ApQX&mime_type=video_mp4&qs=0&rc=OTo7OjhlMzNnNTtnODs7O0Bpam9uOXk5cnhsbzMzNGkzM0A1LmNiYzM0NWIxYTJgXjVhYSNqNTI0MmRjXmFgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100D_100J_100o_100w_100B&dy_q=1789019171&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260910134611640D15C4DD0CFEC942C3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7303472379253017882.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7303472379253017882.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 275.506,
+      "raw_payload": {
+        "aweme_id": "7303472379253017882",
+        "author_uid": "96163054459",
+        "sec_uid": "MS4wLjABAAAAksD_mEnTRbR5wiZ5zUy4l9fW9LedxyhP3ivPVWEOGIo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAksD_mEnTRbR5wiZ5zUy4l9fW9LedxyhP3ivPVWEOGIo"
+      }
+    },
+    "first_seen_at": "2026-09-10T13:45:25+08:00",
+    "last_seen_at": "2026-09-10T13:45:25+08:00",
+    "fetch_runs": [
+      "2026-09-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7303472379253017882.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-10/7303472379253017882.mp3",
+      "source": "download",
+      "processed_at": "2026-09-10T13:47:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7303472379253017882",
+      "transcript_raw": "做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程补充信息：做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程关键词：青椒鸡蛋酱拌面、美食教程",
+      "transcript_clean": "做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程补充信息：做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程关键词：青椒鸡蛋酱拌面、美食教程",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-10/7303472379253017882.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "analysis": {
+      "video_id": "7303472379253017882",
+      "summary": "胖手手丹丹围绕“青椒鸡蛋酱拌面”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程。做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程补充信息：做法超级简单的青椒鸡蛋酱拌面，爱吃面条的就这么做，超级香 #青椒鸡蛋酱拌面 #美食教程关键词：青椒鸡蛋酱拌面、美食教程 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "青椒鸡蛋酱拌面为什么总是做不出来结果？",
+        "先把美食教程想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕青椒鸡蛋酱拌面组织标题与开头。",
+        "用美食教程和#青椒鸡蛋酱拌面补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "青椒鸡蛋酱拌面",
+        "美食教程",
+        "#青椒鸡蛋酱拌面"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-10/7303472379253017882.json",
+      "processed_at": "2026-09-10T13:50:42+08:00"
+    },
+    "last_error": null
+  },
+  "7519161456296021275": {
+    "video_id": "7519161456296021275",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7519161456296021275",
+      "title": "在抖音记录美好生活20260910",
+      "publish_time": "2026-09-10T13:46:19+08:00",
+      "video_url": "https://www.douyin.com/video/7519161456296021275",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260910",
+      "text_hint": "在抖音记录美好生活20260910",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/1f018f4f-e065-459a-8953-e6a93defc221",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7519161456296021275",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-10T13:45:25+08:00",
+    "last_seen_at": "2026-09-10T13:45:25+08:00",
+    "fetch_runs": [
+      "2026-09-10"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
