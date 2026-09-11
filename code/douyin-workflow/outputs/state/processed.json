@@ -42588,5 +42588,631 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7684139017852858803": {
+    "video_id": "7684139017852858803",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "新田兄弟水电高空作业测漏水黄新华",
+      "video_id": "7684139017852858803",
+      "title": "大学梦从这里启航 ，逐梦理想大学",
+      "publish_time": "2026-09-11T13:03:54+08:00",
+      "video_url": "https://www.douyin.com/video/7684139017852858803",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/osAzaPlCIiqABMKiqO7EujEaBcgPpQLiaUEUi~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104462800&x-signature=A11eRgG92gLUwOv1dRyC2Md7gLc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609111345314DDF424A293A5C3E88B8",
+      "like_count": 10,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "大学梦从这里启航 ，逐梦理想大学",
+      "text_hint": "大学梦从这里启航 ，逐梦理想大学",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7714d6780632ac862279b9bac6226886/6aa3bfc9/video/tos/cn/tos-cn-ve-15c000-ce/oEffBxSUxmUVZeqHHcAXFeChHNAINkIAiItfwA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1064&bt=1064&cs=0&ds=3&ft=CZdgCYlIDyjNewVQ9w40uMHhd.wkEDC73-ApQX&mime_type=video_mp4&qs=0&rc=NDtmZWY2aWg1aWRlZGg4OkBpamo4OW05cjNyZDMzbGkzNUBiMl42LV4xNTYxYi01MjBeYSNmNWkvMmQ0a2VhLS1kLTVzcw%3D%3D&btag=c0000e00018000&cquery=100o_100w_100B_100x_100z&dy_q=1789105531&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202609111345314DDF424A293A5C3E88B8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7684139017852858803.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7684139017852858803.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 30.767,
+      "raw_payload": {
+        "aweme_id": "7684139017852858803",
+        "author_uid": "1213504580233559",
+        "sec_uid": "MS4wLjABAAAA7ct29jQ6urNJMq3XKuPa4tPQamU_1nWRLCfvvKhYw4WDMyWGmCunKJoehLpNgNZn",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7ct29jQ6urNJMq3XKuPa4tPQamU_1nWRLCfvvKhYw4WDMyWGmCunKJoehLpNgNZn"
+      }
+    },
+    "first_seen_at": "2026-09-11T13:45:20+08:00",
+    "last_seen_at": "2026-09-11T13:45:20+08:00",
+    "fetch_runs": [
+      "2026-09-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7684139017852858803.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7684139017852858803.mp3",
+      "source": "download",
+      "processed_at": "2026-09-11T13:46:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7684139017852858803",
+      "transcript_raw": "大学梦从这里启航 ，逐梦理想大学大学梦从这里启航 ，逐梦理想大学补充信息：大学梦从这里启航 ，逐梦理想大学",
+      "transcript_clean": "大学梦从这里启航 ，逐梦理想大学大学梦从这里启航 ，逐梦理想大学补充信息：大学梦从这里启航 ，逐梦理想大学",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-11/7684139017852858803.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7684139017852858803",
+      "summary": "新田兄弟水电高空作业测漏水黄新华围绕“大学梦从这里启航”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "大学梦从这里启航 ，逐梦理想大学。大学梦从这里启航 ，逐梦理想大学大学梦从这里启航 ，逐梦理想大学补充信息：大学梦从这里启航 ，逐梦理想大学 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "大学梦从这里启航为什么总是做不出来结果？",
+        "先把逐梦理想大学大学梦从这里启航想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕大学梦从这里启航组织标题与开头。",
+        "用逐梦理想大学大学梦从这里启航和逐梦理想大学补充信息：大学梦从这里启航补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "大学梦从这里启航",
+        "逐梦理想大学大学梦从这里启航",
+        "逐梦理想大学补充信息：大学梦从这里启航"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-11/7684139017852858803.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "last_error": null
+  },
+  "7661817049605229850": {
+    "video_id": "7661817049605229850",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "新华社电视",
+      "video_id": "7661817049605229850",
+      "title": "公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言",
+      "publish_time": "2026-07-13T09:23:20+08:00",
+      "video_url": "https://www.douyin.com/video/7661817049605229850",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a6f379d22d5ccf1dd146967693b08fd2~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104462800&x-signature=GGVcP3yrLvrmYRo5KqraaBKkbao%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260911134534A035BB65B5FD2B82F1DD",
+      "like_count": 6996,
+      "comment_count": 114,
+      "share_count": 299,
+      "collect_count": 724,
+      "description": "公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言",
+      "text_hint": "公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言",
+      "topic_tags": [
+        "公安机关",
+        "严打",
+        "汛情",
+        "谣言"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e862ef981fc5f34a0dbe7a58cef914a3/6aa3bfb4/video/tos/cn/tos-cn-ve-15/oEUSqJK21VA5GFaUB3iig7BHAKAek6jEIyfSCh/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=748&bt=748&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wE0uMHhd.wkEDC73-ApQX&mime_type=video_mp4&qs=0&rc=ODQ6OTZmOWVpNTk2ZDpoZkBpMzg8OHE5cjY2PDMzNGkzM0BeNTVhYTQwNS0xLzI2MWFiYSNvMTBtMmRzb15hLS1kLS9zcw%3D%3D&btag=c0000e00008000&cquery=100H_100K_100o_100w_100B&dy_q=1789105534&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260911134534A035BB65B5FD2B82F1DD",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7661817049605229850.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7661817049605229850.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 6.27,
+      "raw_payload": {
+        "aweme_id": "7661817049605229850",
+        "author_uid": "3619216468225677",
+        "sec_uid": "MS4wLjABAAAAjQPyVdAnIeVj59Og8bvxizyEZMhr_kPMwK4E-UAi7AnACyTJ9q2qbYM9xub0bmAy",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAjQPyVdAnIeVj59Og8bvxizyEZMhr_kPMwK4E-UAi7AnACyTJ9q2qbYM9xub0bmAy"
+      }
+    },
+    "first_seen_at": "2026-09-11T13:45:20+08:00",
+    "last_seen_at": "2026-09-11T13:45:20+08:00",
+    "fetch_runs": [
+      "2026-09-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7661817049605229850.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7661817049605229850.mp3",
+      "source": "download",
+      "processed_at": "2026-09-11T13:46:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7661817049605229850",
+      "transcript_raw": "公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言补充信息：公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言关键词：公安机关、严打、汛情、谣言",
+      "transcript_clean": "公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言补充信息：公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言关键词：公安机关、严打、汛情、谣言",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-11/7661817049605229850.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7661817049605229850",
+      "summary": "新华社电视围绕“公安机关”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言。公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言补充信息：公安机关严打编造传播涉汛涉灾网络谣言 #公安机关 #严打 #汛情 #谣言关键词：公安机关、严打、汛情、谣言 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "公安机关为什么总是做不出来结果？",
+        "先把严打想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕公安机关组织标题与开头。",
+        "用严打和汛情补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "公安机关",
+        "严打",
+        "汛情"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-11/7661817049605229850.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "last_error": null
+  },
+  "7193580187039173927": {
+    "video_id": "7193580187039173927",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "拥抱幸福",
+      "video_id": "7193580187039173927",
+      "title": "老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态",
+      "publish_time": "2023-01-28T14:05:16+08:00",
+      "video_url": "https://www.douyin.com/video/7193580187039173927",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o80cDAtWD6IBUuezA0gEESfhwuFBIxUxz9AlBk~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104462800&x-signature=yrwylyDOQ0C2e18TA3NyHhtcF1A%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609111345373F2538590293DD8E5EE5",
+      "like_count": 51,
+      "comment_count": 10,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态",
+      "text_hint": "老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态",
+      "topic_tags": [
+        "民间故事",
+        "传统文化",
+        "故事",
+        "原创",
+        "社会百态"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/da181860487fff2ed5f9b18d5c52661f/6aa3c06f/video/cn/mps/realtime/v1/r/p/v0300fg10000cfabkqbc77u3e5gh41a0/e25c4607bd334a73b65b8176c0ca18bf/2927982632ccf24347d437f354550bcc/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=365&bt=365&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNewVQ9wI3uMHhd.wkEDC73-ApQX&mime_type=video_mp4&qs=0&rc=aTtkMzk0ZTk2ZDZnOjlmNUBpMzRrODY6ZnRlaTMzNGkzM0BfLmBgNDUyXzQxMF8tMTJiYSNeMWRicjRfaF5gLS1kLTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=720p&dy_q=1789105537&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7193580187039173927&l=202609111345373F2538590293DD8E5EE5&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7193580187039173927.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7193580187039173927.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 190.508,
+      "raw_payload": {
+        "aweme_id": "7193580187039173927",
+        "author_uid": "94838379216",
+        "sec_uid": "MS4wLjABAAAAwLzkirDrI1Wod5rXtU4lLdGyA0rh3RR1qi5DwE1hk7U",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAwLzkirDrI1Wod5rXtU4lLdGyA0rh3RR1qi5DwE1hk7U"
+      }
+    },
+    "first_seen_at": "2026-09-11T13:45:20+08:00",
+    "last_seen_at": "2026-09-11T13:45:20+08:00",
+    "fetch_runs": [
+      "2026-09-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7193580187039173927.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7193580187039173927.mp3",
+      "source": "download",
+      "processed_at": "2026-09-11T13:47:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7193580187039173927",
+      "transcript_raw": "老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态补充信息：老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态关键词：民间故事、传统文化、故事、原创、社会百态",
+      "transcript_clean": "老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态补充信息：老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态关键词：民间故事、传统文化、故事、原创、社会百态",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-11/7193580187039173927.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7193580187039173927",
+      "summary": "拥抱幸福围绕“民间故事”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态。老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态补充信息：老李讲故事\n马屯村的由来\n#民间故事 #传统文化 #故事 #原创 #社会百态关键词：民间故事、传统文化、故事、原创、社会百态 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "民间故事为什么总是做不出来结果？",
+        "先把传统文化想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕民间故事组织标题与开头。",
+        "用传统文化和故事补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "民间故事",
+        "传统文化",
+        "故事"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-11/7193580187039173927.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "last_error": null
+  },
+  "7144277888114642207": {
+    "video_id": "7144277888114642207",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "阿城说车",
+      "video_id": "7144277888114642207",
+      "title": "20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车",
+      "publish_time": "2022-09-17T17:27:13+08:00",
+      "video_url": "https://www.douyin.com/video/7144277888114642207",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2fc075405110aa03e1be0382bca5bf2b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104462800&x-signature=dJpCARguS0t25VlTR9FE7XjNNEQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260911134540BF35533C2866EB3715F9",
+      "like_count": 102,
+      "comment_count": 46,
+      "share_count": 21,
+      "collect_count": 12,
+      "description": "20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车",
+      "text_hint": "20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车",
+      "topic_tags": [
+        "二手车"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c8d46a53793eeec437f297eed089a045/6aa3c122/video/tos/cn/tos-cn-ve-0015c800/7757b1d1fcb147b1b3ee3caec5624d3e/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2472&bt=2472&cs=0&ds=3&ft=CZdgCYlIDyjNewVQ9wi3uMHhd.wkEDC73-ApQX&mime_type=video_mp4&qs=0&rc=aDo3Nzk7Nzs3aGk1aWhoZEBpajt1Zjo6ZnZzZjMzNGkzM0AxLTU2Yi9iNjIxMDZfYWA2YSNsMmctcjRfMmZgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100D_100J&dy_q=1789105540&l=20260911134540BF35533C2866EB3715F9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7144277888114642207.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7144277888114642207.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 366.017,
+      "raw_payload": {
+        "aweme_id": "7144277888114642207",
+        "author_uid": "2308597000965656",
+        "sec_uid": "MS4wLjABAAAAac9602BPcIBtjP3tjLRoK9FYXMoDndN3x9xkH-RtKigv7RqBX-XnkNqMmFvTRdL7",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAac9602BPcIBtjP3tjLRoK9FYXMoDndN3x9xkH-RtKigv7RqBX-XnkNqMmFvTRdL7"
+      }
+    },
+    "first_seen_at": "2026-09-11T13:45:20+08:00",
+    "last_seen_at": "2026-09-11T13:45:20+08:00",
+    "fetch_runs": [
+      "2026-09-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7144277888114642207.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7144277888114642207.mp3",
+      "source": "download",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7144277888114642207",
+      "transcript_raw": "20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车补充信息：20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车关键词：二手车",
+      "transcript_clean": "20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车补充信息：20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车关键词：二手车",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-11/7144277888114642207.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7144277888114642207",
+      "summary": "阿城说车围绕“二手车”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车。20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车补充信息：20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心 #二手车关键词：二手车 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "二手车为什么总是做不出来结果？",
+        "先把20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕二手车组织标题与开头。",
+        "用20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心和#二手车20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "二手车",
+        "20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心",
+        "#二手车20年福特探险者看看车商多少收？3万公里带车衣，美系车用料良心"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-11/7144277888114642207.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "last_error": null
+  },
+  "7557336835849948426": {
+    "video_id": "7557336835849948426",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7557336835849948426",
+      "title": "八月十五谈一场浪漫的恋爱",
+      "publish_time": "2025-10-04T12:06:00+08:00",
+      "video_url": "https://www.douyin.com/video/7557336835849948426",
+      "cover_url": "",
+      "like_count": 16,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "八月十五谈一场浪漫的恋爱",
+      "text_hint": "八月十五谈一场浪漫的恋爱",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a573a998-c174-4f4e-8a3f-e8a30ffee34a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7557336835849948426",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-11T13:45:20+08:00",
+    "last_seen_at": "2026-09-11T13:45:20+08:00",
+    "fetch_runs": [
+      "2026-09-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7539815780247113019": {
+    "video_id": "7539815780247113019",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "哎咪原创有氧健身舞",
+      "video_id": "7539815780247113019",
+      "title": "简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#",
+      "publish_time": "2025-08-18T14:56:05+08:00",
+      "video_url": "https://www.douyin.com/video/7539815780247113019",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/52411d68b5522884e63c8c489bd71c16~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104462800&x-signature=1cpK5weNWXx49jOexRhhZpeoc4Y%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026091113460461142B371D2D7933967D",
+      "like_count": 413,
+      "comment_count": 58,
+      "share_count": 290,
+      "collect_count": 157,
+      "description": "简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#",
+      "text_hint": "简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#",
+      "topic_tags": [
+        "暴汗燃脂瘦全身",
+        "全民健身传递正能量",
+        "金典老歌"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/04413da221d738c11fe1641a9720fec5/6aa3c0f5/video/tos/cn/tos-cn-ve-15c000-ce/ocKaRfftDEKoFJgAakELskIaoCeEbLYwjl9IxA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2039&bt=2039&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wd3uMHhd.wkEDC73-ApQX&mime_type=video_mp4&qs=0&rc=ZDZpZ2dnZjQzNzZoZmg0ZkBpankzd2s5cnBmNTMzbGkzNEBhNjEuLjMuNS0xYi1jLzQzYSMybGpqMmRrbGVhLS1kLWJzcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1789105564&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026091113460461142B371D2D7933967D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7539815780247113019.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7539815780247113019.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 297.834,
+      "raw_payload": {
+        "aweme_id": "7539815780247113019",
+        "author_uid": "1291256251561161",
+        "sec_uid": "MS4wLjABAAAANTxv5xHP2nRybHqrXIHZcmymHWPMaNdJVL3SUNhxQ8jKQBmwLDOFxn7qhFcV0Cw0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAANTxv5xHP2nRybHqrXIHZcmymHWPMaNdJVL3SUNhxQ8jKQBmwLDOFxn7qhFcV0Cw0"
+      }
+    },
+    "first_seen_at": "2026-09-11T13:45:20+08:00",
+    "last_seen_at": "2026-09-11T13:45:20+08:00",
+    "fetch_runs": [
+      "2026-09-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7539815780247113019.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7539815780247113019.mp3",
+      "source": "download",
+      "processed_at": "2026-09-11T13:47:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7539815780247113019",
+      "transcript_raw": "简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#补充信息：简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#关键词：暴汗燃脂瘦全身、全民健身传递正能量、金典老歌",
+      "transcript_clean": "简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#补充信息：简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#关键词：暴汗燃脂瘦全身、全民健身传递正能量、金典老歌",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-11/7539815780247113019.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7539815780247113019",
+      "summary": "哎咪原创有氧健身舞围绕“暴汗燃脂瘦全身”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#。简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#补充信息：简单易学 暴汗减脂 《大侠霍元甲》背面完整版来喽来喽！#暴汗燃脂瘦全身 #全民健身传递正能量 #金典老歌 边跳边唱#关键词：暴汗燃脂瘦全身、全民健身传递正能量、金典老歌 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "暴汗燃脂瘦全身为什么总是做不出来结果？",
+        "先把全民健身传递正能量想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕暴汗燃脂瘦全身组织标题与开头。",
+        "用全民健身传递正能量和金典老歌补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "暴汗燃脂瘦全身",
+        "全民健身传递正能量",
+        "金典老歌"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-11/7539815780247113019.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "last_error": null
+  },
+  "7468562638759284018": {
+    "video_id": "7468562638759284018",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "客有才",
+      "video_id": "7468562638759284018",
+      "title": "华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI",
+      "publish_time": "2025-02-07T14:38:03+08:00",
+      "video_url": "https://www.douyin.com/video/7468562638759284018",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/73c29617c6f09b3c6c5b0852ba80373b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104462800&x-signature=2rM2JHVhBKLzA7q%2Fbd8xu45YE8Q%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026091113460761195FEB706B0337ACB2",
+      "like_count": 144,
+      "comment_count": 25,
+      "share_count": 34,
+      "collect_count": 57,
+      "description": "华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI",
+      "text_hint": "华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI",
+      "topic_tags": [
+        "人工智能",
+        "华夏文明",
+        "汉字",
+        "deepseek",
+        "Deepseek",
+        "AI"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/a901915909fd23bcdf9a360e38652321/6aa3c0db/video/cn/mps/realtime/v1/r/p/v0d00fg10000cuiqirnog65usima024g/bc36d824c08b4ca78248baa88435b694/854b20872fe969930ed00378fd64032e/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=336&bt=336&cs=0&ds=3&ft=InFJ3Y-5DyjNewVQ9wv3uMHhd.wkEDC73-ApQX&mime_type=video_mp4&qs=0&rc=Nzk4NztkOzU6ZmUzNzs5ZkBpajVkbHg5cnV0eDMzNGkzM0A2XzA1Xl8xNV4xNWAvYTBfYSMxLWpwMmRrZmZgLS1kLWFzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1789105567&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7468562638759284018&l=2026091113460761195FEB706B0337ACB2&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7468562638759284018.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7468562638759284018.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 269.1,
+      "raw_payload": {
+        "aweme_id": "7468562638759284018",
+        "author_uid": "1302280879475127",
+        "sec_uid": "MS4wLjABAAAAVQCmf9LGhOXa9A43TZJ1aMRuFhtCFcg-cl2MOyyrXmIgahkVnuDbV361wAg4O3Sb",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAVQCmf9LGhOXa9A43TZJ1aMRuFhtCFcg-cl2MOyyrXmIgahkVnuDbV361wAg4O3Sb"
+      }
+    },
+    "first_seen_at": "2026-09-11T13:45:20+08:00",
+    "last_seen_at": "2026-09-11T13:45:20+08:00",
+    "fetch_runs": [
+      "2026-09-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7468562638759284018.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-11/7468562638759284018.mp3",
+      "source": "download",
+      "processed_at": "2026-09-11T13:47:35+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7468562638759284018",
+      "transcript_raw": "华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI补充信息：华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI关键词：人工智能、华夏文明、汉字、deepseek、Deepseek、AI",
+      "transcript_clean": "华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI补充信息：华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI关键词：人工智能、华夏文明、汉字、deepseek、Deepseek、AI",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-11/7468562638759284018.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "analysis": {
+      "video_id": "7468562638759284018",
+      "summary": "客有才围绕“人工智能”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI。华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI补充信息：华夏文明第1集:华夏文明大放异彩，六大优势奠定汉字在AI模型中的江湖地位，汉字即母语#人工智能#华夏文明#汉字#Deepseek#AI关键词：人工智能、华夏文明、汉字、deepseek、Deepseek、AI 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "人工智能为什么总是做不出来结果？",
+        "先把华夏文明想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕人工智能组织标题与开头。",
+        "用华夏文明和汉字补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "人工智能",
+        "华夏文明",
+        "汉字"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-11/7468562638759284018.json",
+      "processed_at": "2026-09-11T13:48:48+08:00"
+    },
+    "last_error": null
+  },
+  "7528985695789042944": {
+    "video_id": "7528985695789042944",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7528985695789042944",
+      "title": "起诉队友需要走流程嘛？ #第五人格抽象的夏天 #第五人格 #第五人格屑鱼 #第五人格祭司 #第五人格庄园纳凉夜",
+      "publish_time": "2025-07-20T02:29:00+08:00",
+      "video_url": "https://www.douyin.com/video/7528985695789042944",
+      "cover_url": "",
+      "like_count": 3933,
+      "comment_count": 110,
+      "share_count": 142,
+      "collect_count": 26,
+      "description": "起诉队友需要走流程嘛？ #第五人格抽象的夏天 #第五人格 #第五人格屑鱼 #第五人格祭司 #第五人格庄园纳凉夜",
+      "text_hint": "起诉队友需要走流程嘛？ #第五人格抽象的夏天 #第五人格 #第五人格屑鱼 #第五人格祭司 #第五人格庄园纳凉夜",
+      "topic_tags": [
+        "第五人格抽象的夏天",
+        "第五人格",
+        "第五人格屑鱼",
+        "第五人格祭司",
+        "第五人格庄园纳凉夜"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/2f66180f-0838-4852-b1b7-ed93ea7a1abf",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7528985695789042944",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-11T13:45:20+08:00",
+    "last_seen_at": "2026-09-11T13:45:20+08:00",
+    "fetch_runs": [
+      "2026-09-11"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
