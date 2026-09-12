@@ -43214,5 +43214,636 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7684107208142240938": {
+    "video_id": "7684107208142240938",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "讨厌冷冰冰",
+      "video_id": "7684107208142240938",
+      "title": "日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音",
+      "publish_time": "2026-09-11T11:00:28+08:00",
+      "video_url": "https://www.douyin.com/video/7684107208142240938",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/ogDWWErB0IbRfFbB5Epf2fDsZqP9C7A2jVEtAB~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104549200&x-signature=DVdqPaVBU471Ldy3xM4K7Chiw8o%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609121333045B6F73DCCE6077A0AEF3",
+      "like_count": 66,
+      "comment_count": 3,
+      "share_count": 3,
+      "collect_count": 21,
+      "description": "日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音",
+      "text_hint": "日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音",
+      "topic_tags": [
+        "日语",
+        "日语教学",
+        "日语学习",
+        "日语入门",
+        "日语五十音"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/783aab6250fe0927f930be5da0ff64ff/6aa50e51/video/tos/cn/tos-cn-ve-15/oAlIf3VcQsXDIejEzG6GeC62pfALRibAoFJqIt/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=261&bt=261&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9w0Pf5Hhd.DaxPf03-ApQX&mime_type=video_mp4&qs=0&rc=PDU5MzpkPDc2OzxmMzM5O0BpanN4bG85cjpwZDMzNGkzM0AtYDQzMWBgNTAxMDFfYTM0YSNyaW9xMmRzcWVhLS1kLS9zcw%3D%3D&btag=c0000e00010000&cquery=100o_100w_100B_100x_100z&dy_q=1789191184&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202609121333045B6F73DCCE6077A0AEF3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7684107208142240938.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7684107208142240938.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 17.253,
+      "raw_payload": {
+        "aweme_id": "7684107208142240938",
+        "author_uid": "4443596587795034",
+        "sec_uid": "MS4wLjABAAAAd7PmHozB_fiS7Ky7dTG0Qtqu70Eh-L-6lclIItMN-7NFG5ceaQm25XZ6mVIVyLMM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAd7PmHozB_fiS7Ky7dTG0Qtqu70Eh-L-6lclIItMN-7NFG5ceaQm25XZ6mVIVyLMM"
+      }
+    },
+    "first_seen_at": "2026-09-12T13:32:52+08:00",
+    "last_seen_at": "2026-09-12T13:32:52+08:00",
+    "fetch_runs": [
+      "2026-09-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7684107208142240938.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7684107208142240938.mp3",
+      "source": "download",
+      "processed_at": "2026-09-12T13:33:49+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7684107208142240938",
+      "transcript_raw": "日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音补充信息：日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音关键词：日语、日语教学、日语学习、日语入门、日语五十音",
+      "transcript_clean": "日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音补充信息：日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音关键词：日语、日语教学、日语学习、日语入门、日语五十音",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-12/7684107208142240938.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "analysis": {
+      "video_id": "7684107208142240938",
+      "summary": "讨厌冷冰冰围绕“日语”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音。日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音补充信息：日语常用口语表达水果篇 #日语 #日语教学 #日语学习 #日语入门 #日语五十音关键词：日语、日语教学、日语学习、日语入门、日语五十音 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "日语为什么总是做不出来结果？",
+        "先把日语教学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕日语组织标题与开头。",
+        "用日语教学和日语学习补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "日语",
+        "日语教学",
+        "日语学习"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-12/7684107208142240938.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "last_error": null
+  },
+  "7434834353579969801": {
+    "video_id": "7434834353579969801",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "张锦洺",
+      "video_id": "7434834353579969801",
+      "title": "杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装",
+      "publish_time": "2024-11-08T17:16:37+08:00",
+      "video_url": "https://www.douyin.com/video/7434834353579969801",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/60b31cee72f0358d494989cf4c84c735~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104549200&x-signature=m5gmLbZ35XYPzyzQnewXk9ey%2BsY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260912133307B89B19F20FA1551286C4",
+      "like_count": 3898,
+      "comment_count": 192,
+      "share_count": 178,
+      "collect_count": 137,
+      "description": "杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装",
+      "text_hint": "杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装",
+      "topic_tags": [
+        "杨紫",
+        "时尚",
+        "杂志封面",
+        "高定礼服",
+        "时装"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7ca73ca19aea926770976ae1e969e4a5/6aa50ef7/video/tos/cn/tos-cn-ve-15/oMaAmfduugr9Dp0IgkqEA4BDLALFQrBNnNY3fA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1199&bt=1199&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wkPf5Hhd.DaxPf03-ApQX&mime_type=video_mp4&qs=0&rc=NTdoaDY0OjMzNThnZmk3OEBpajk8c285cmh3djMzNGkzM0AxYWA2MjJiNTIxMS4zXzMuYSNtYmphMmQ0YGpgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100H_100K&dy_q=1789191187&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260912133307B89B19F20FA1551286C4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7434834353579969801.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7434834353579969801.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.9,
+      "raw_payload": {
+        "aweme_id": "7434834353579969801",
+        "author_uid": "2493331852770423",
+        "sec_uid": "MS4wLjABAAAAofVRr6Hyo53m2F27qAe82o5bIyYJ3qFmeW9NeC3LjUJxXEnPeyrnz-F2XYf4yHbt",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAofVRr6Hyo53m2F27qAe82o5bIyYJ3qFmeW9NeC3LjUJxXEnPeyrnz-F2XYf4yHbt"
+      }
+    },
+    "first_seen_at": "2026-09-12T13:32:52+08:00",
+    "last_seen_at": "2026-09-12T13:32:52+08:00",
+    "fetch_runs": [
+      "2026-09-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7434834353579969801.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7434834353579969801.mp3",
+      "source": "download",
+      "processed_at": "2026-09-12T13:34:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7434834353579969801",
+      "transcript_raw": "杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装补充信息：杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装关键词：杨紫、时尚、杂志封面、高定礼服、时装",
+      "transcript_clean": "杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装补充信息：杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装关键词：杨紫、时尚、杂志封面、高定礼服、时装",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-12/7434834353579969801.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "analysis": {
+      "video_id": "7434834353579969801",
+      "summary": "张锦洺围绕“杨紫”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装。杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装补充信息：杨紫生日月，多套高定助阵！来扒扒都有哪些高定时装！ #杨紫 #时尚 #杂志封面 #高定礼服 #时装关键词：杨紫、时尚、杂志封面、高定礼服、时装 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "杨紫为什么总是做不出来结果？",
+        "先把时尚想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕杨紫组织标题与开头。",
+        "用时尚和杂志封面补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "杨紫",
+        "时尚",
+        "杂志封面"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-12/7434834353579969801.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "last_error": null
+  },
+  "7343237329802317106": {
+    "video_id": "7343237329802317106",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "寻宝十三姨",
+      "video_id": "7343237329802317106",
+      "title": "耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心",
+      "publish_time": "2024-03-06T21:11:20+08:00",
+      "video_url": "https://www.douyin.com/video/7343237329802317106",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oIFuQAbTGCDfDDQlH6ebABg4N1OESwIK9InEA3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104549200&x-signature=12%2Ftm6eiSY%2BCd6noW3LgS3pG9MY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260912133310E403327142C9BFF72C38",
+      "like_count": 17,
+      "comment_count": 3,
+      "share_count": 0,
+      "collect_count": 3,
+      "description": "耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心",
+      "text_hint": "耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心",
+      "topic_tags": [
+        "耳环控",
+        "钛金",
+        "高级珠宝",
+        "寻宝十三姨",
+        "珠宝搭配"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/0df8432dc3f3aa9f452c69f0f15b2896/6aa50f4b/video/cn/mps/realtime/v1/r/p/v0200fg10000cnk69drc77u22gk6r6s0/ae2e2fda146145a3aa88de496ad57404/7136a48b4e682f830ca131c8b741d929/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1013&bt=1013&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9wgPf5Hhd.DaxPf03-ApQX&mime_type=video_mp4&qs=0&rc=Nzc4ZDxoO2Q2ODQ3ZGloaEBpMzk5ajU6Zmc5cTMzNGkzM0AtNGEzMWE1Xl4xMy5hLy9eYSNwb2gvcjRvNmhgLS1kLS9zcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=720p&dy_q=1789191190&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7343237329802317106&l=20260912133310E403327142C9BFF72C38&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7343237329802317106.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7343237329802317106.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 261.634,
+      "raw_payload": {
+        "aweme_id": "7343237329802317106",
+        "author_uid": "2595325812946302",
+        "sec_uid": "MS4wLjABAAAAZgU1voWjAREi68Q8a3Ahzn4hFB_BrQBJIkZYGYx2p_NDWeWVjeBbNMNiFxLLAfEC",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAZgU1voWjAREi68Q8a3Ahzn4hFB_BrQBJIkZYGYx2p_NDWeWVjeBbNMNiFxLLAfEC"
+      }
+    },
+    "first_seen_at": "2026-09-12T13:32:52+08:00",
+    "last_seen_at": "2026-09-12T13:32:52+08:00",
+    "fetch_runs": [
+      "2026-09-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7343237329802317106.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7343237329802317106.mp3",
+      "source": "download",
+      "processed_at": "2026-09-12T13:35:25+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7343237329802317106",
+      "transcript_raw": "耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心补充信息：耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心关键词：耳环控、钛金、高级珠宝、寻宝十三姨、珠宝搭配",
+      "transcript_clean": "耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心补充信息：耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心关键词：耳环控、钛金、高级珠宝、寻宝十三姨、珠宝搭配",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-12/7343237329802317106.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "analysis": {
+      "video_id": "7343237329802317106",
+      "summary": "寻宝十三姨围绕“耳环控”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心。耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心补充信息：耳环控必看！设计师忍不住想自留，钛金大耳环的快乐～#耳环控 #钛金 #高级珠宝 #寻宝十三姨 #珠宝搭配 @抖音小助手 @抖音创作者中心关键词：耳环控、钛金、高级珠宝、寻宝十三姨、珠宝搭配 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "耳环控为什么总是做不出来结果？",
+        "先把钛金想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕耳环控组织标题与开头。",
+        "用钛金和高级珠宝补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "耳环控",
+        "钛金",
+        "高级珠宝"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-12/7343237329802317106.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "last_error": null
+  },
+  "7353245850727976232": {
+    "video_id": "7353245850727976232",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "万献初",
+      "video_id": "7353245850727976232",
+      "title": "古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化",
+      "publish_time": "2024-04-02T20:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7353245850727976232",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/5f8d96f8c8714cec80e9c1e66cca6148~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104549200&x-signature=9PdUiM4tjhVsU%2BOSFO5rLs%2FVcXY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260912133313DD39956257C4E1A4368B",
+      "like_count": 30,
+      "comment_count": 1,
+      "share_count": 2,
+      "collect_count": 4,
+      "description": "古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化",
+      "text_hint": "古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化",
+      "topic_tags": [
+        "说文解字",
+        "传统文化",
+        "国学文化"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/fae1301d928ccbe9628e16d8394cd3ea/6aa50f33/video/cn/mps/realtime/v1/r/p/v0300fg10000co5vk7jc77u1ag0ajol0/00439834905945e3b9f6a329c81d8338/75f7c819e8983edd315ab0bd822beffd/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=352&bt=352&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9whPf5Hhd.DaxPf03-ApQX&mime_type=video_mp4&qs=0&rc=OzZnOzw2OTw2ODwzNzs2M0BpM3JkajQ6Zjp5cjMzNGkzM0AwNS5gL15jX2IxMjYwNjEtYSNpZy1ecjRnaDJgLS1kLTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100o_100w_100B_100H_100K&definition=720p&dy_q=1789191193&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7353245850727976232&l=20260912133313DD39956257C4E1A4368B&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7353245850727976232.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7353245850727976232.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 234.567,
+      "raw_payload": {
+        "aweme_id": "7353245850727976232",
+        "author_uid": "64201385314121",
+        "sec_uid": "MS4wLjABAAAAMPvwyPefNWkXnv-BP6zJBVwk0w49HFi4YBxgxRLwiHQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAMPvwyPefNWkXnv-BP6zJBVwk0w49HFi4YBxgxRLwiHQ"
+      }
+    },
+    "first_seen_at": "2026-09-12T13:32:52+08:00",
+    "last_seen_at": "2026-09-12T13:32:52+08:00",
+    "fetch_runs": [
+      "2026-09-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7353245850727976232.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7353245850727976232.mp3",
+      "source": "download",
+      "processed_at": "2026-09-12T13:34:58+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7353245850727976232",
+      "transcript_raw": "古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化补充信息：古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化关键词：说文解字、传统文化、国学文化",
+      "transcript_clean": "古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化补充信息：古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化关键词：说文解字、传统文化、国学文化",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-12/7353245850727976232.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "analysis": {
+      "video_id": "7353245850727976232",
+      "summary": "万献初围绕“说文解字”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化。古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化补充信息：古人造字的智慧，每一个汉字都有故事#说文解字 #传统文化 #国学文化关键词：说文解字、传统文化、国学文化 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "说文解字为什么总是做不出来结果？",
+        "先把传统文化想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕说文解字组织标题与开头。",
+        "用传统文化和国学文化补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "说文解字",
+        "传统文化",
+        "国学文化"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-12/7353245850727976232.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "last_error": null
+  },
+  "7555934203053952307": {
+    "video_id": "7555934203053952307",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7555934203053952307",
+      "title": "在抖音记录美好生活20260912",
+      "publish_time": "2026-09-12T13:33:47+08:00",
+      "video_url": "https://www.douyin.com/video/7555934203053952307",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260912",
+      "text_hint": "在抖音记录美好生活20260912",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/b22d660f-e103-48ba-b184-cfc915dd90da",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7555934203053952307",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-12T13:32:52+08:00",
+    "last_seen_at": "2026-09-12T13:32:52+08:00",
+    "fetch_runs": [
+      "2026-09-12"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7340273709950717224": {
+    "video_id": "7340273709950717224",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "妮格热",
+      "video_id": "7340273709950717224",
+      "title": "👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育",
+      "publish_time": "2024-02-27T21:31:02+08:00",
+      "video_url": "https://www.douyin.com/video/7340273709950717224",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e43116f195455ee410c38487ec53786a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104549200&x-signature=iGCWNixaV77IRIxKbnOkwHe5hZk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026091213332335AF7BA61137031171E9",
+      "like_count": 378,
+      "comment_count": 74,
+      "share_count": 74,
+      "collect_count": 73,
+      "description": "👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育",
+      "text_hint": "👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育",
+      "topic_tags": [
+        "正确的引导孩子陪伴孩子",
+        "亲子教育"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/27e2175986fe3fac825a55a80cb972cd/6aa50fae/video/tos/cn/tos-cn-ve-0015c800/o4QAe8lTdBGFAonKIbGN5CigD0AQ23iHfuGA9t/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1591&bt=1591&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wmPf5Hhd.DaxPf03-ApQX&mime_type=video_mp4&qs=0&rc=O2Q8ZTZlOzc2NGY2NmY5NkBpajU7Zzs6ZjR3cTMzNGkzM0BgNF5hLS0xXjIxMjIwMmIvYSNxcy5mcjRvMGJgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1789191203&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026091213332335AF7BA61137031171E9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7340273709950717224.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7340273709950717224.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 347.3,
+      "raw_payload": {
+        "aweme_id": "7340273709950717224",
+        "author_uid": "71612596173",
+        "sec_uid": "MS4wLjABAAAAd09ksDalKZhuY6pSPVV6I5c8zueP394lHrTKRe4BnoA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAd09ksDalKZhuY6pSPVV6I5c8zueP394lHrTKRe4BnoA"
+      }
+    },
+    "first_seen_at": "2026-09-12T13:32:52+08:00",
+    "last_seen_at": "2026-09-12T13:32:52+08:00",
+    "fetch_runs": [
+      "2026-09-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7340273709950717224.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7340273709950717224.mp3",
+      "source": "download",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7340273709950717224",
+      "transcript_raw": "👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育补充信息：👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育关键词：正确的引导孩子陪伴孩子、亲子教育",
+      "transcript_clean": "👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育补充信息：👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育关键词：正确的引导孩子陪伴孩子、亲子教育",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-12/7340273709950717224.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "analysis": {
+      "video_id": "7340273709950717224",
+      "summary": "妮格热围绕“正确的引导孩子陪伴孩子”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育。👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育补充信息：👶 给孩子们最好的爱\n让她们有更多更优质的学习资源\n🥰🥰#正确的引导孩子陪伴孩子 #亲子教育关键词：正确的引导孩子陪伴孩子、亲子教育 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "正确的引导孩子陪伴孩子为什么总是做不出来结果？",
+        "先把亲子教育想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕正确的引导孩子陪伴孩子组织标题与开头。",
+        "用亲子教育和给孩子们最好的爱补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "正确的引导孩子陪伴孩子",
+        "亲子教育",
+        "给孩子们最好的爱"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-12/7340273709950717224.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "last_error": null
+  },
+  "7456049501174762810": {
+    "video_id": "7456049501174762810",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "依古比古丹",
+      "video_id": "7456049501174762810",
+      "title": "咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手",
+      "publish_time": "2025-01-04T21:20:17+08:00",
+      "video_url": "https://www.douyin.com/video/7456049501174762810",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a4645b9c995b64f5688d57d3ba8d22dc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104549200&x-signature=zdjOuNvBKlpJ%2FpibOmpvO5EzaoY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609121333263579A17E50E5B5F55F5D",
+      "like_count": 669,
+      "comment_count": 77,
+      "share_count": 674,
+      "collect_count": 169,
+      "description": "咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手",
+      "text_hint": "咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手",
+      "topic_tags": [
+        "女大学生",
+        "美妆百万新星计划",
+        "自媒体",
+        "今日妆容",
+        "化妆"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fb248b912213bfb80b27c4fc5d9b8c04/6aa50f21/video/tos/cn/tos-cn-ve-15c800-ce/oQ9iqRRQIo9Ae5vCq5uBfEVeqLAiRlJwCJqzES/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2686&bt=2686&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wWPf5Hhd.DaxPf03-ApQX&mime_type=video_mp4&qs=0&rc=ZTk1NmU5Ozg7OzlmaGczZ0BpamQ8N3c5cjhtdzMzbGkzNEBfLzNjYjA0XjMxLV9gLS0uYSNeMGloMmRzXnBgLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1789191207&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202609121333263579A17E50E5B5F55F5D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7456049501174762810.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7456049501174762810.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 203.034,
+      "raw_payload": {
+        "aweme_id": "7456049501174762810",
+        "author_uid": "104617429830",
+        "sec_uid": "MS4wLjABAAAAAoz8AowVe28yfLIHgbrjnjqxqJWn-2MSuBb4Vxy1uWk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAoz8AowVe28yfLIHgbrjnjqxqJWn-2MSuBb4Vxy1uWk"
+      }
+    },
+    "first_seen_at": "2026-09-12T13:32:52+08:00",
+    "last_seen_at": "2026-09-12T13:32:52+08:00",
+    "fetch_runs": [
+      "2026-09-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7456049501174762810.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-12/7456049501174762810.mp3",
+      "source": "download",
+      "processed_at": "2026-09-12T13:34:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7456049501174762810",
+      "transcript_raw": "咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手补充信息：咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手关键词：女大学生、美妆百万新星计划、自媒体、今日妆容、化妆",
+      "transcript_clean": "咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手补充信息：咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手关键词：女大学生、美妆百万新星计划、自媒体、今日妆容、化妆",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-12/7456049501174762810.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "analysis": {
+      "video_id": "7456049501174762810",
+      "summary": "依古比古丹围绕“女大学生”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手。咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手补充信息：咸宁碧桂园温泉一日游攻略来啦 #女大学生 #美妆百万新星计划 #自媒体 #今日妆容 #化妆 @抖音小助手 @DOU+上热门 @DOU+小助手关键词：女大学生、美妆百万新星计划、自媒体、今日妆容、化妆 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "女大学生为什么总是做不出来结果？",
+        "先把美妆百万新星计划想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕女大学生组织标题与开头。",
+        "用美妆百万新星计划和自媒体补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "女大学生",
+        "美妆百万新星计划",
+        "自媒体"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-12/7456049501174762810.json",
+      "processed_at": "2026-09-12T13:36:01+08:00"
+    },
+    "last_error": null
+  },
+  "7516070381615189298": {
+    "video_id": "7516070381615189298",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7516070381615189298",
+      "title": "综合优惠10万起！更接地气的雷克萨斯NX260值得买吗？ 纯进口综合优惠可达10万，雷克萨斯NX260够接底气，但值得买吗？#dou是好车 #抖音汽车 #雷克萨斯NX260",
+      "publish_time": "2025-06-15T07:13:00+08:00",
+      "video_url": "https://www.douyin.com/video/7516070381615189298",
+      "cover_url": "",
+      "like_count": 497,
+      "comment_count": 97,
+      "share_count": 114,
+      "collect_count": 220,
+      "description": "综合优惠10万起！更接地气的雷克萨斯NX260值得买吗？ 纯进口综合优惠可达10万，雷克萨斯NX260够接底气，但值得买吗？#dou是好车 #抖音汽车 #雷克萨斯NX260",
+      "text_hint": "综合优惠10万起！更接地气的雷克萨斯NX260值得买吗？ 纯进口综合优惠可达10万，雷克萨斯NX260够接底气，但值得买吗？#dou是好车 #抖音汽车 #雷克萨斯NX260",
+      "topic_tags": [
+        "dou是好车",
+        "抖音汽车",
+        "雷克萨斯NX260"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/80a4e02e-9b7c-4da5-af0f-f95a61fc4a51",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7516070381615189298",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-12T13:32:52+08:00",
+    "last_seen_at": "2026-09-12T13:32:52+08:00",
+    "fetch_runs": [
+      "2026-09-12"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
