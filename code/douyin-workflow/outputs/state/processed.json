@@ -43845,5 +43845,715 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7684530380255591282": {
+    "video_id": "7684530380255591282",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "神六_ChyF",
+      "video_id": "7684530380255591282",
+      "title": "高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治",
+      "publish_time": "2026-09-12T14:22:35+08:00",
+      "video_url": "https://www.douyin.com/video/7684530380255591282",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/ow676A7YqCAvCafkB9FEg8DjApA9krMIEpfPNO~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104635600&x-signature=thpS%2FQW2dSli%2B2tDyf2Y9JVtDMo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260913135203665652CF708B6EF49D4C",
+      "like_count": 89,
+      "comment_count": 3,
+      "share_count": 41,
+      "collect_count": 5,
+      "description": "高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治",
+      "text_hint": "高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治",
+      "topic_tags": [
+        "高中生活",
+        "高中生物",
+        "高中历史",
+        "高中政治"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/bde7dc9d793ce8a24641a46b3e82df1e/6aa6644e/video/tos/cn/tos-cn-ve-15/o479aFpAEEOIgjpPOkf8YBjA9j6FqDNfAQk8BT/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=468&bt=468&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wM605Hhd.4xfPf03-ApQX&mime_type=video_mp4&qs=0&rc=ZWQ1NmZnaTw2NWQ6ZGU0aEBpM3R2aXg5cjtoZDMzNGkzM0AvYi4tYi0xNmAxLTYtMF9fYSNgcl9uMmRzcmZhLS1kLWFzcw%3D%3D&btag=80000e00010000&cquery=100o_100w_100B_100x_100z&dy_q=1789278723&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260913135203665652CF708B6EF49D4C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7684530380255591282.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7684530380255591282.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 27.1,
+      "raw_payload": {
+        "aweme_id": "7684530380255591282",
+        "author_uid": "3405606331618970",
+        "sec_uid": "MS4wLjABAAAA_Hyx4zW9bvbZA-_-HrTU4ILnPTT6Z-THpE9PdvmzhUaLLDrzM-NEA_XT2dmlGDhw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA_Hyx4zW9bvbZA-_-HrTU4ILnPTT6Z-THpE9PdvmzhUaLLDrzM-NEA_XT2dmlGDhw"
+      }
+    },
+    "first_seen_at": "2026-09-13T13:51:50+08:00",
+    "last_seen_at": "2026-09-13T13:51:50+08:00",
+    "fetch_runs": [
+      "2026-09-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7684530380255591282.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7684530380255591282.mp3",
+      "source": "download",
+      "processed_at": "2026-09-13T13:53:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7684530380255591282",
+      "transcript_raw": "高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治补充信息：高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治关键词：高中生活、高中生物、高中历史、高中政治",
+      "transcript_clean": "高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治补充信息：高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治关键词：高中生活、高中生物、高中历史、高中政治",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-13/7684530380255591282.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7684530380255591282",
+      "summary": "神六_ChyF围绕“高中生活”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治。高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治补充信息：高中生周练日常belike：\n#高中生活 #高中生物 #高中历史 #高中政治关键词：高中生活、高中生物、高中历史、高中政治 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "高中生活为什么总是做不出来结果？",
+        "先把高中生物想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕高中生活组织标题与开头。",
+        "用高中生物和高中历史补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "高中生活",
+        "高中生物",
+        "高中历史"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-13/7684530380255591282.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "last_error": null
+  },
+  "7597318165189627179": {
+    "video_id": "7597318165189627179",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "海报新闻",
+      "video_id": "7597318165189627179",
+      "title": "多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金",
+      "publish_time": "2026-01-20T13:54:50+08:00",
+      "video_url": "https://www.douyin.com/video/7597318165189627179",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/08654d56887a2cbe7697167449126bcb~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104635600&x-signature=qjfD0mphF2vByTDwZMVJrqvYvMM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609131352065077D8598BB90111EDBC",
+      "like_count": 991,
+      "comment_count": 41,
+      "share_count": 11,
+      "collect_count": 17,
+      "description": "多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金",
+      "text_hint": "多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金",
+      "topic_tags": [
+        "热点新闻事件",
+        "热点追踪",
+        "李亚鹏",
+        "嫣然天使基金"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f08a4dfa0af4b0b5b5c7570d63855ab4/6aa66446/video/tos/cn/tos-cn-ve-15/owgmDm2f9pEnpNAMByDvShFxfLTbgAyQjbIGIA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1766&bt=1766&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wS605Hhd.4xfPf03-ApQX&mime_type=video_mp4&qs=0&rc=NWg8ZWZmO2hoaWc8M2U3ZkBpam03cnM5cnNrODMzNGkzM0AxYmNiYDQ1NWExLjIzYWFjYSNhZmM1MmRrZGthLS1kLWFzcw%3D%3D&btag=c0000e00010000&cquery=100o_100w_100B_100H_100K&dy_q=1789278726&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202609131352065077D8598BB90111EDBC",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7597318165189627179.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7597318165189627179.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 16.207,
+      "raw_payload": {
+        "aweme_id": "7597318165189627179",
+        "author_uid": "93107855614",
+        "sec_uid": "MS4wLjABAAAAWsU5J810iwr6xROhcctkDh1EqNqJzK0HassJ7DOuv_o",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWsU5J810iwr6xROhcctkDh1EqNqJzK0HassJ7DOuv_o"
+      }
+    },
+    "first_seen_at": "2026-09-13T13:51:50+08:00",
+    "last_seen_at": "2026-09-13T13:51:50+08:00",
+    "fetch_runs": [
+      "2026-09-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7597318165189627179.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7597318165189627179.mp3",
+      "source": "download",
+      "processed_at": "2026-09-13T13:53:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7597318165189627179",
+      "transcript_raw": "多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金补充信息：多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金关键词：热点新闻事件、热点追踪、李亚鹏、嫣然天使基金",
+      "transcript_clean": "多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金补充信息：多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金关键词：热点新闻事件、热点追踪、李亚鹏、嫣然天使基金",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-13/7597318165189627179.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7597318165189627179",
+      "summary": "海报新闻围绕“热点新闻事件”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金。多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金补充信息：多名唇腭裂治愈者发视频感谢李亚鹏 “如果没有嫣然天使基金，我现在讲话还会更加模糊”#热点新闻事件 #热点追踪 #李亚鹏 #嫣然天使基金关键词：热点新闻事件、热点追踪、李亚鹏、嫣然天使基金 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "热点新闻事件为什么总是做不出来结果？",
+        "先把热点追踪想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕热点新闻事件组织标题与开头。",
+        "用热点追踪和李亚鹏补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "热点新闻事件",
+        "热点追踪",
+        "李亚鹏"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-13/7597318165189627179.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "last_error": null
+  },
+  "7234124316848196898": {
+    "video_id": "7234124316848196898",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "理想生活.",
+      "video_id": "7234124316848196898",
+      "title": "庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱",
+      "publish_time": "2023-05-17T20:17:07+08:00",
+      "video_url": "https://www.douyin.com/video/7234124316848196898",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/26238a3ae5a7e6298bb93a0ba7f96a84~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104635600&x-signature=birpxwT9Qgn5Ee0qDthtkbN%2BgzU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260913135209B62E1D33AD0082A9529B",
+      "like_count": 337,
+      "comment_count": 42,
+      "share_count": 11,
+      "collect_count": 11,
+      "description": "庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱",
+      "text_hint": "庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱",
+      "topic_tags": [
+        "关注我圆你机车梦",
+        "热爱机车热爱生活",
+        "男人的快乐就是这么简单",
+        "风和自由",
+        "就是因为热爱"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1e07f53d54c34c18bd8ce19bf6d5e2bd/6aa6651a/video/tos/cn/tos-cn-ve-15c001-alinc2/ok5WTdLIyAghBkcFHIeXG7oCaeT2ReSuBz0AgP/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3172&bt=3172&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wp605Hhd.4xfPf03-ApQX&mime_type=video_mp4&qs=0&rc=OWU8aGZpZWRmNDg5aWc6OkBpanNsOjw6Zm1lazMzNGkzM0BgYF4tMmFeXmIxMy81LTMtYSMzZHAwcjRnaWZgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1789278729&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260913135209B62E1D33AD0082A9529B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7234124316848196898.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7234124316848196898.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 225.743,
+      "raw_payload": {
+        "aweme_id": "7234124316848196898",
+        "author_uid": "4037006105787928",
+        "sec_uid": "MS4wLjABAAAAtwWHXV6D1ilEsWfTBDGe96l3696XvKRfSTpQCXg_m04IR9yL_xQFl6p2rLw-62O8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAtwWHXV6D1ilEsWfTBDGe96l3696XvKRfSTpQCXg_m04IR9yL_xQFl6p2rLw-62O8"
+      }
+    },
+    "first_seen_at": "2026-09-13T13:51:50+08:00",
+    "last_seen_at": "2026-09-13T13:51:50+08:00",
+    "fetch_runs": [
+      "2026-09-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7234124316848196898.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7234124316848196898.mp3",
+      "source": "download",
+      "processed_at": "2026-09-13T13:56:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7234124316848196898",
+      "transcript_raw": "庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱补充信息：庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱关键词：关注我圆你机车梦、热爱机车热爱生活、男人的快乐就是这么简单、风和自由、就是因为热爱",
+      "transcript_clean": "庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱补充信息：庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱关键词：关注我圆你机车梦、热爱机车热爱生活、男人的快乐就是这么简单、风和自由、就是因为热爱",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-13/7234124316848196898.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7234124316848196898",
+      "summary": "理想生活.围绕“关注我圆你机车梦”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱。庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱补充信息：庞巴迪倒三轮！#关注我圆你机车梦 #热爱机车热爱生活 #男人的快乐就是这么简单 #风和自由 #就是因为热爱关键词：关注我圆你机车梦、热爱机车热爱生活、男人的快乐就是这么简单、风和自由、就是因为热爱 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "关注我圆你机车梦为什么总是做不出来结果？",
+        "先把热爱机车热爱生活想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕关注我圆你机车梦组织标题与开头。",
+        "用热爱机车热爱生活和男人的快乐就是这么简单补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "关注我圆你机车梦",
+        "热爱机车热爱生活",
+        "男人的快乐就是这么简单"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-13/7234124316848196898.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "last_error": null
+  },
+  "7241196158062759171": {
+    "video_id": "7241196158062759171",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "学高为师 身正为范",
+      "video_id": "7241196158062759171",
+      "title": "人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课",
+      "publish_time": "2023-06-05T21:39:38+08:00",
+      "video_url": "https://www.douyin.com/video/7241196158062759171",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/fcd29881a8a60f2029d3def4be538436~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104635600&x-signature=8qc39SwN1Rx7oZflEVHR5uxwMHU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260913135213FA811BE4D151C9874C66",
+      "like_count": 19,
+      "comment_count": 0,
+      "share_count": 9,
+      "collect_count": 21,
+      "description": "人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课",
+      "text_hint": "人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/01e9d9b5c1e6b75effb0d924a477bb58/6aa665a4/video/tos/cn/tos-cn-ve-0015c800/ogR4Mx7bIECQeA820CXIve9gveDeAKbjmVynDY/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=545&bt=545&cs=0&ds=6&ft=CZdgCYlIDyjNMRVQ9w8605Hhd.4xfPf03-ApQX&mime_type=video_mp4&qs=0&rc=ZDRlZWc7OzpnOzNnaTM3M0BpMzR2aGc6Zmx4azMzNGkzM0AtMTMzLTVfNTExXi1fMTMvYSMza3MwcjQwXnJgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100B_100H_100K_100o_100w&dy_q=1789278733&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260913135213FA811BE4D151C9874C66",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7241196158062759171.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7241196158062759171.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 359.616,
+      "raw_payload": {
+        "aweme_id": "7241196158062759171",
+        "author_uid": "4046633462664375",
+        "sec_uid": "MS4wLjABAAAAFt9MPPsOQnJ1pZbAwilLXplbxzoVYRBcGhmmoPjhZUZEmJI8c0qLYoyx43oMLkg5",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAFt9MPPsOQnJ1pZbAwilLXplbxzoVYRBcGhmmoPjhZUZEmJI8c0qLYoyx43oMLkg5"
+      }
+    },
+    "first_seen_at": "2026-09-13T13:51:50+08:00",
+    "last_seen_at": "2026-09-13T13:51:50+08:00",
+    "fetch_runs": [
+      "2026-09-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7241196158062759171.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7241196158062759171.mp3",
+      "source": "download",
+      "processed_at": "2026-09-13T13:55:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7241196158062759171",
+      "transcript_raw": "人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课补充信息：人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课",
+      "transcript_clean": "人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课补充信息：人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-13/7241196158062759171.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7241196158062759171",
+      "summary": "学高为师 身正为范围绕“人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课补充信息：人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课。人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课补充信息：人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课补充信息：人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课补充信息：人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课补充信息：人教A版数学选修2-3《条件的相互独立性》张老师全国一等奖优质课",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-13/7241196158062759171.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "last_error": null
+  },
+  "7422476009137540415": {
+    "video_id": "7422476009137540415",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7422476009137540415",
+      "title": "SUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wps",
+      "publish_time": "2024-10-09T12:22:00+08:00",
+      "video_url": "https://www.douyin.com/video/7422476009137540415",
+      "cover_url": "",
+      "like_count": 34,
+      "comment_count": 0,
+      "share_count": 27,
+      "collect_count": 8,
+      "description": "SUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wps",
+      "text_hint": "SUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wps",
+      "topic_tags": [
+        "office办公技巧",
+        "excel技巧",
+        "电脑基础表格教程",
+        "职场加分技能",
+        "wps"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/5eda8d9b33f2ba7aea2e8f2dba5ec435/6aa6651f/video/tos/cn/tos-cn-ve-0015c800/ogPoPIMZ7Ao66ASBy4PuIGinTJH8zwQiQEIAi/?a=6383&br=342&bt=342&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100H_100K_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1789278749&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wQ605Hhd.4xfPf03-ApQX&is_ssr=1&l=20260913135229E97AB6EE81D880BAC06C&lr=all&mime_type=video_mp4&qs=12&rc=aGQ0aDplZmhpZmhpZDo6NkBpajxqaHQ5cjV4djMzNGkzM0AvLV41YC80Ni4xMF40YjVeYSNncm0tMmQ0cS1gLS1kLWFzcw%3D%3D&__vid=7422476009137540415",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7422476009137540415.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7422476009137540415.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7422476009137540415",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-13T13:51:50+08:00",
+    "last_seen_at": "2026-09-13T13:51:50+08:00",
+    "fetch_runs": [
+      "2026-09-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7422476009137540415.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7422476009137540415.mp3",
+      "source": "download",
+      "processed_at": "2026-09-13T13:54:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7422476009137540415",
+      "transcript_raw": "SUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wpsSUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wps补充信息：SUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wps关键词：office办公技巧、excel技巧、电脑基础表格教程、职场加分技能、wps",
+      "transcript_clean": "SUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wpsSUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wps补充信息：SUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wps关键词：office办公技巧、excel技巧、电脑基础表格教程、职场加分技能、wps",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-13/7422476009137540415.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7422476009137540415",
+      "summary": "目标博主 1围绕“office办公技巧”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "SUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wps。SUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wpsSUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wps补充信息：SUMIFS+下拉菜单+条件格式做自动化报表，一个视频教会你 #office办公技巧 #excel技巧 #电脑基础表格教程 #职场加分技能 #wps关键词：office办公技巧、excel技巧、电脑基础表格教程、职场加分技能、wps 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "office办公技巧为什么总是做不出来结果？",
+        "先把excel技巧想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕office办公技巧组织标题与开头。",
+        "用excel技巧和电脑基础表格教程补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "office办公技巧",
+        "excel技巧",
+        "电脑基础表格教程"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-13/7422476009137540415.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "last_error": null
+  },
+  "7430516685792152869": {
+    "video_id": "7430516685792152869",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "博锋优品-电脑装机",
+      "video_id": "7430516685792152869",
+      "title": "实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2",
+      "publish_time": "2024-10-28T02:01:24+08:00",
+      "video_url": "https://www.douyin.com/video/7430516685792152869",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b3dcc23f51fde1817d626d6988db45b6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104635600&x-signature=6jfCAyWdoN1EkIicyo8f%2BnzZfos%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026091313523997F19FA544A5B18D5659",
+      "like_count": 50,
+      "comment_count": 38,
+      "share_count": 21,
+      "collect_count": 9,
+      "description": "实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2",
+      "text_hint": "实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2",
+      "topic_tags": [
+        "cs2"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/3a933a6af47a008fcd074f5681802686/6aa665d8/video/tos/cn/tos-cn-ve-15/oMW90HEwllCTweNOAs8rg6gQDfAmFAiNCBinnI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1757&bt=1757&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wF605Hhd.4xfPf03-ApQX&mime_type=video_mp4&qs=0&rc=NjQ8aTdoNWU3OzxoOmZkNEBpajlkb3Q5cmQ6djMzNGkzM0AxLzZeYGEzNi4xNi5iM2AyYSNpL2YtMmRzcmNgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1789278759&feature_id=aa7df520beeae8e397df15f38df0454c&l=2026091313523997F19FA544A5B18D5659",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7430516685792152869.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7430516685792152869.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 385.734,
+      "raw_payload": {
+        "aweme_id": "7430516685792152869",
+        "author_uid": "101876464048",
+        "sec_uid": "MS4wLjABAAAAExY3oNUQQvboyFqmTMqSeoruglb0oZPJRaHa3G48Gg4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAExY3oNUQQvboyFqmTMqSeoruglb0oZPJRaHa3G48Gg4"
+      }
+    },
+    "first_seen_at": "2026-09-13T13:51:50+08:00",
+    "last_seen_at": "2026-09-13T13:51:50+08:00",
+    "fetch_runs": [
+      "2026-09-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7430516685792152869.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7430516685792152869.mp3",
+      "source": "download",
+      "processed_at": "2026-09-13T13:54:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7430516685792152869",
+      "transcript_raw": "实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2补充信息：实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2关键词：cs2",
+      "transcript_clean": "实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2补充信息：实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2关键词：cs2",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-13/7430516685792152869.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7430516685792152869",
+      "summary": "博锋优品-电脑装机围绕“cs2”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2。实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2补充信息：实测一下i3 12100f搭配gtx1060 3g，cs2 1k画质中特效#cs2关键词：cs2 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "cs2为什么总是做不出来结果？",
+        "先把12100f搭配gtx1060想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕cs2组织标题与开头。",
+        "用12100f搭配gtx1060和3g，cs2补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "cs2",
+        "12100f搭配gtx1060",
+        "3g，cs2"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-13/7430516685792152869.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "last_error": null
+  },
+  "7160434879602150695": {
+    "video_id": "7160434879602150695",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "武汉市硚口区依莎贝尔服饰商行",
+      "video_id": "7160434879602150695",
+      "title": "那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~",
+      "publish_time": "2022-10-31T06:24:45+08:00",
+      "video_url": "https://www.douyin.com/video/7160434879602150695",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7f02bb60ac48184d2780d0e693763777~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104635600&x-signature=4urKd50AU29JC4mu23JMmCP2uBA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609131352433AB0E630BC93CF11C962",
+      "like_count": 2532,
+      "comment_count": 371,
+      "share_count": 287,
+      "collect_count": 111,
+      "description": "那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~",
+      "text_hint": "那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fec7a1387d04dd73c86cafc4e142c2bd/6aa6651a/video/tos/cn/tos-cn-ve-0015c800/6a67af3673194a1080538b6d7474b0b3/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1190&bt=1190&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wc605Hhd.4xfPf03-ApQX&mime_type=video_mp4&qs=0&rc=O2k6O2Y3PGVnNWY8NWk7NkBpanhzZzg6ZmdpZzMzNGkzM0BeLmE0YDFjX2AxXi4tMzJeYSMtMmFjcjQwZmNgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100z_100o_100w_100B_100x&dy_q=1789278763&l=202609131352433AB0E630BC93CF11C962",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7160434879602150695.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7160434879602150695.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 191.146,
+      "raw_payload": {
+        "aweme_id": "7160434879602150695",
+        "author_uid": "75447583270",
+        "sec_uid": "MS4wLjABAAAA93oruAxVZcPn3aMVr9B7oOTxxJxDVCu1Zk7AMPRTbdc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA93oruAxVZcPn3aMVr9B7oOTxxJxDVCu1Zk7AMPRTbdc"
+      }
+    },
+    "first_seen_at": "2026-09-13T13:51:50+08:00",
+    "last_seen_at": "2026-09-13T13:51:50+08:00",
+    "fetch_runs": [
+      "2026-09-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7160434879602150695.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7160434879602150695.mp3",
+      "source": "download",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7160434879602150695",
+      "transcript_raw": "那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~补充信息：那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~",
+      "transcript_clean": "那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~补充信息：那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-13/7160434879602150695.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7160434879602150695",
+      "summary": "武汉市硚口区依莎贝尔服饰商行围绕“那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~补充信息：那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~。那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~补充信息：那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~补充信息：那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~补充信息：那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~补充信息：那些表面上云淡风轻、什么都无所谓的人，在心底都有一个地方曾经碎的很彻底。时间没能打败你，便会给你救赎，凡是让你痛苦的，必将让你更强大~",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-13/7160434879602150695.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "last_error": null
+  },
+  "7428805983805246771": {
+    "video_id": "7428805983805246771",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7428805983805246771",
+      "title": "#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环",
+      "publish_time": "2024-10-23T03:21:00+08:00",
+      "video_url": "https://www.douyin.com/video/7428805983805246771",
+      "cover_url": "",
+      "like_count": 1825,
+      "comment_count": 44,
+      "share_count": 1369,
+      "collect_count": 1897,
+      "description": "#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环",
+      "text_hint": "#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环",
+      "topic_tags": [
+        "鞠婧祎",
+        "壁上观",
+        "鞠婧祎壁上观",
+        "歌曲",
+        "单曲循环"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7126c21daec52c0c1691276a248a663d/6aa6652e/video/tos/cn/tos-cn-ve-15/oMGnBJeiEwgFBdHAvgUQGQuu9t6CDAgnAfJIMD/?a=6383&br=726&bt=726&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1789278779&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9w4605Hhd.4xfPf03-ApQX&is_ssr=1&l=202609131352587C6FC76E72BB6E121115&lr=all&mime_type=video_mp4&qs=1&rc=MztnOzpoZTk8Ozc7NTlpaUBpMzk3cW05cnY5djMzNGkzM0A2LmNgNi01NjExYi8yNTMvYSMxLjVvMmQ0amBgLS1kLTBzcw%3D%3D&__vid=7428805983805246771",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7428805983805246771.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7428805983805246771.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7428805983805246771",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-13T13:51:50+08:00",
+    "last_seen_at": "2026-09-13T13:51:50+08:00",
+    "fetch_runs": [
+      "2026-09-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7428805983805246771.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-13/7428805983805246771.mp3",
+      "source": "download",
+      "processed_at": "2026-09-13T13:54:11+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7428805983805246771",
+      "transcript_raw": "#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环补充信息：#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环关键词：鞠婧祎、壁上观、鞠婧祎壁上观、歌曲、单曲循环",
+      "transcript_clean": "#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环补充信息：#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环关键词：鞠婧祎、壁上观、鞠婧祎壁上观、歌曲、单曲循环",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-13/7428805983805246771.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7428805983805246771",
+      "summary": "目标博主 1围绕“鞠婧祎”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环。#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环补充信息：#鞠婧祎 《壁上观》完整版～如听仙乐耳暂明～#壁上观 #鞠婧祎壁上观 #歌曲 #单曲循环关键词：鞠婧祎、壁上观、鞠婧祎壁上观、歌曲、单曲循环 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "鞠婧祎为什么总是做不出来结果？",
+        "先把壁上观想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕鞠婧祎组织标题与开头。",
+        "用壁上观和鞠婧祎壁上观补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "鞠婧祎",
+        "壁上观",
+        "鞠婧祎壁上观"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-13/7428805983805246771.json",
+      "processed_at": "2026-09-13T13:56:23+08:00"
+    },
+    "last_error": null
   }
 }
