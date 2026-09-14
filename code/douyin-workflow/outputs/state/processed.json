@@ -44555,5 +44555,677 @@
       "processed_at": "2026-09-13T13:56:23+08:00"
     },
     "last_error": null
+  },
+  "7685242650249140643": {
+    "video_id": "7685242650249140643",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "蒜瓣Learning",
+      "video_id": "7685242650249140643",
+      "title": "免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app",
+      "publish_time": "2026-09-14T12:26:35+08:00",
+      "video_url": "https://www.douyin.com/video/7685242650249140643",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oM7dqQGAPEkriBZAQqhWAI6nTIvPay331pidd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104722000&x-signature=T0fcVlMshvs9aT6AiwIA20wOgkk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260914135932008AEEB8E8CD09809649",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app",
+      "text_hint": "免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app",
+      "topic_tags": [
+        "初级",
+        "elts",
+        "toefl",
+        "少儿英语app",
+        "大学生必备app",
+        "ELTS",
+        "TOEFL"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/e9dd4ca36f02a57ca2d0c0e2dd9fbfdd/6aa7b7af/video/tos/cn/tos-cn-ve-15/osAT36BInDI14i7nqkrGvIAEdPddZQQOdiSva/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=449&bt=449&cs=0&ds=1&ft=CZdgCYlIDyjNMRVQ9wiqr5Hhd.T-rWD03-ApQX&mime_type=video_mp4&qs=0&rc=OzRkaTs2OzhoZ2ZoZDs6NUBpajdka3U5cndxZDMzNGkzM0BiNi4tYi5fXzAxYS4yNmIxYSNua2tgMmRrYmdhLS1kLWFzcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1789365572&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260914135932008AEEB8E8CD09809649",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7685242650249140643.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7685242650249140643.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 59.862,
+      "raw_payload": {
+        "aweme_id": "7685242650249140643",
+        "author_uid": "2744034681960551",
+        "sec_uid": "MS4wLjABAAAAe3n4ZjBC4RHqsD3VfwrLW_VIfaDOT5fJ9autoZBLfd_TsDZYu6yoQZNOqbAjZNpo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAe3n4ZjBC4RHqsD3VfwrLW_VIfaDOT5fJ9autoZBLfd_TsDZYu6yoQZNOqbAjZNpo"
+      }
+    },
+    "first_seen_at": "2026-09-14T13:58:54+08:00",
+    "last_seen_at": "2026-09-14T13:58:54+08:00",
+    "fetch_runs": [
+      "2026-09-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7685242650249140643.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7685242650249140643.mp3",
+      "source": "download",
+      "processed_at": "2026-09-14T14:00:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7685242650249140643",
+      "transcript_raw": "免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app补充信息：免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app关键词：初级、elts、toefl、少儿英语app、大学生必备app、ELTS、TOEFL",
+      "transcript_clean": "免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app补充信息：免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app关键词：初级、elts、toefl、少儿英语app、大学生必备app、ELTS、TOEFL",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-14/7685242650249140643.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7685242650249140643",
+      "summary": "蒜瓣Learning围绕“初级”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app。免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app补充信息：免费的英语日语课 听力练习  每天学习一点 距离成功近一点！【蒜瓣learning】你会发现免费的英语词汇视频，英语语法视频，英语练习和英语课程。成千上万的英语视频等着你。#初级#ELTS#TOEFL#少儿英语app #大学生必备app关键词：初级、elts、toefl、少儿英语app、大学生必备app、ELTS、TOEFL 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "初级为什么总是做不出来结果？",
+        "先把elts想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕初级组织标题与开头。",
+        "用elts和toefl补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "初级",
+        "elts",
+        "toefl"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-14/7685242650249140643.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "last_error": null
+  },
+  "7659302133820443942": {
+    "video_id": "7659302133820443942",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "会火娱乐社",
+      "video_id": "7659302133820443942",
+      "title": "深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友",
+      "publish_time": "2026-07-06T14:44:13+08:00",
+      "video_url": "https://www.douyin.com/video/7659302133820443942",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4a784a9f65d6dbc1a4549840191ba556~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104722000&x-signature=66P%2BN2Ej4bkloM%2FHlNV6DP4Y7Rk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260914135936D5F329DC68D3DC113BAF",
+      "like_count": 956,
+      "comment_count": 7,
+      "share_count": 9,
+      "collect_count": 25,
+      "description": "深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友",
+      "text_hint": "深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友",
+      "topic_tags": [
+        "深圳自己的专属夏日解药",
+        "这个夏天来深圳浇个朋友",
+        "深圳水上玩商很高",
+        "深圳人自己的泼水节",
+        "约搭子来锦绣中华浇个朋友"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/56592e5ecd9947e56587af8bedea0e70/6aa7b7a7/video/tos/cn/tos-cn-ve-15/oMlA5TD3FUfVSnLZh988AB8AcxzIEDQfgq0r1E/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3504&bt=3504&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9weqr5Hhd.T-rWD03-ApQX&mime_type=video_mp4&qs=0&rc=NDVnZmg6NTo8PDc6ZTc2O0BpM3k6OHI5cm9uPDMzNGkzM0BhMzAuNjAwXy0xL2JjXmM1YSNycGNrMmRjcDJhLS1kLTBzcw%3D%3D&btag=c0000e00020000&cquery=100H_100K_100o_100w_100B&dy_q=1789365576&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260914135936D5F329DC68D3DC113BAF",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7659302133820443942.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7659302133820443942.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 47.979,
+      "raw_payload": {
+        "aweme_id": "7659302133820443942",
+        "author_uid": "774505652294952",
+        "sec_uid": "MS4wLjABAAAAOIwD08voFsqfo4ROS-iZpDVPWmGSQAPnVNXjuiUGYu0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAOIwD08voFsqfo4ROS-iZpDVPWmGSQAPnVNXjuiUGYu0"
+      }
+    },
+    "first_seen_at": "2026-09-14T13:58:54+08:00",
+    "last_seen_at": "2026-09-14T13:58:54+08:00",
+    "fetch_runs": [
+      "2026-09-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7659302133820443942.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7659302133820443942.mp3",
+      "source": "download",
+      "processed_at": "2026-09-14T14:00:51+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7659302133820443942",
+      "transcript_raw": "深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友补充信息：深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友关键词：深圳自己的专属夏日解药、这个夏天来深圳浇个朋友、深圳水上玩商很高、深圳人自己的泼水节、约搭子来锦绣中华浇个朋友",
+      "transcript_clean": "深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友补充信息：深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友关键词：深圳自己的专属夏日解药、这个夏天来深圳浇个朋友、深圳水上玩商很高、深圳人自己的泼水节、约搭子来锦绣中华浇个朋友",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-14/7659302133820443942.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7659302133820443942",
+      "summary": "会火娱乐社围绕“深圳自己的专属夏日解药”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友。深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友补充信息：深圳你是懂夏天的仪式感的！#深圳自己的专属夏日解药#这个夏天来深圳浇个朋友#深圳水上玩商很高#深圳人自己的泼水节#约搭子来锦绣中华浇个朋友关键词：深圳自己的专属夏日解药、这个夏天来深圳浇个朋友、深圳水上玩商很高、深圳人自己的泼水节、约搭子来锦绣中华浇个朋友 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "深圳自己的专属夏日解药为什么总是做不出来结果？",
+        "先把这个夏天来深圳浇个朋友想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕深圳自己的专属夏日解药组织标题与开头。",
+        "用这个夏天来深圳浇个朋友和深圳水上玩商很高补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "深圳自己的专属夏日解药",
+        "这个夏天来深圳浇个朋友",
+        "深圳水上玩商很高"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-14/7659302133820443942.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "last_error": null
+  },
+  "7242263415601777979": {
+    "video_id": "7242263415601777979",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "杨哥是个维修工",
+      "video_id": "7242263415601777979",
+      "title": "电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修",
+      "publish_time": "2023-06-08T18:41:02+08:00",
+      "video_url": "https://www.douyin.com/video/7242263415601777979",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4017e397179a7cb7dd95f97eb3cdc8e5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104722000&x-signature=RK5EulQLoceSG8ALY%2FXtvqD86HQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026091413593990871D0206C41F82AB6D",
+      "like_count": 100,
+      "comment_count": 12,
+      "share_count": 1,
+      "collect_count": 9,
+      "description": "电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修",
+      "text_hint": "电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修",
+      "topic_tags": [
+        "修电机",
+        "机电维修"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8b31cb28404b42accfcac137d67498d9/6aa7b8bb/video/tos/cn/tos-cn-ve-0015c800/oo4YuDV4SECheq6DEYLIADGfDBA2kxeRgVevIs/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1369&bt=1369&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wlqr5Hhd.T-rWD03-ApQX&mime_type=video_mp4&qs=0&rc=aDM0ZGk2ZTlpaDY3Z2Q6NkBpM3R0cXA5cml1bDMzNGkzM0BeLi0uLTU1XjQxLi8yMTQtYSNra2UvMmRzLS1gLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100D_100J_100o_100w_100B&dy_q=1789365579&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026091413593990871D0206C41F82AB6D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7242263415601777979.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7242263415601777979.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 320.041,
+      "raw_payload": {
+        "aweme_id": "7242263415601777979",
+        "author_uid": "96405070554712",
+        "sec_uid": "MS4wLjABAAAAfxZSl7AXx2MN6TNvRoHT3aAeuOQS1IaQUAaHd5eCeGQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAfxZSl7AXx2MN6TNvRoHT3aAeuOQS1IaQUAaHd5eCeGQ"
+      }
+    },
+    "first_seen_at": "2026-09-14T13:58:54+08:00",
+    "last_seen_at": "2026-09-14T13:58:54+08:00",
+    "fetch_runs": [
+      "2026-09-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7242263415601777979.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7242263415601777979.mp3",
+      "source": "download",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7242263415601777979",
+      "transcript_raw": "电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修补充信息：电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修关键词：修电机、机电维修",
+      "transcript_clean": "电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修补充信息：电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修关键词：修电机、机电维修",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-14/7242263415601777979.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7242263415601777979",
+      "summary": "杨哥是个维修工围绕“修电机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修。电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修补充信息：电机维修，一台67千瓦开利制冷电机定子换线，36槽两极单双混下 #修电机 #机电维修关键词：修电机、机电维修 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "修电机为什么总是做不出来结果？",
+        "先把机电维修想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕修电机组织标题与开头。",
+        "用机电维修和#修电机补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "修电机",
+        "机电维修",
+        "#修电机"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-14/7242263415601777979.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "last_error": null
+  },
+  "7243207410347724043": {
+    "video_id": "7243207410347724043",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "随行荟",
+      "video_id": "7243207410347724043",
+      "title": "沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影",
+      "publish_time": "2023-06-11T07:45:00+08:00",
+      "video_url": "https://www.douyin.com/video/7243207410347724043",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0004/oUAkffQAEbA8YDZMI7jQ0CbTAnn9BEAgqAfJNT~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104722000&x-signature=1VhWw3O4k0D6tEw5PARD78UjuaQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260914135942A5DEE5FA9B5F0B829BE1",
+      "like_count": 7,
+      "comment_count": 4,
+      "share_count": 3,
+      "collect_count": 0,
+      "description": "沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影",
+      "text_hint": "沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影",
+      "topic_tags": [
+        "vlog旅游",
+        "vlog旅行记",
+        "国家公园",
+        "旅行",
+        "旅行摄影"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0bb3af6a0c670d1bb6fb87056e2184fe/6aa7b9b3/video/tos/cn/tos-cn-ve-0015c800/oYcWIDAKQBA8CVFX6oiwAeySCAFgPB2QEZfTFi/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1939&bt=1939&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wxqr5Hhd.T-rWD03-ApQX&mime_type=video_mp4&qs=0&rc=O2U3ZmdpODM3ODg2OTo3NkBpM2k3OGo5cjtqbDMzNGkzM0BhMDUwNmJhX2MxLzMtX2EzYSMtXl8yMmRjai9gLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100D_100J_100o&dy_q=1789365582&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260914135942A5DEE5FA9B5F0B829BE1",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7243207410347724043.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7243207410347724043.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 565.569,
+      "raw_payload": {
+        "aweme_id": "7243207410347724043",
+        "author_uid": "333859629043240",
+        "sec_uid": "MS4wLjABAAAAqKSCG_5Cx2MypWPQYQdqtqj5qQkuKg14z9Rq963ipBw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAqKSCG_5Cx2MypWPQYQdqtqj5qQkuKg14z9Rq963ipBw"
+      }
+    },
+    "first_seen_at": "2026-09-14T13:58:54+08:00",
+    "last_seen_at": "2026-09-14T13:58:54+08:00",
+    "fetch_runs": [
+      "2026-09-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7243207410347724043.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7243207410347724043.mp3",
+      "source": "download",
+      "processed_at": "2026-09-14T14:03:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7243207410347724043",
+      "transcript_raw": "沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影补充信息：沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影关键词：vlog旅游、vlog旅行记、国家公园、旅行、旅行摄影",
+      "transcript_clean": "沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影补充信息：沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影关键词：vlog旅游、vlog旅行记、国家公园、旅行、旅行摄影",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-14/7243207410347724043.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7243207410347724043",
+      "summary": "随行荟围绕“vlog旅游”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影。沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影补充信息：沙丘国家公园---美国印地安纳州自驾游 #vlog旅游  #vlog旅行记  #国家公园 #旅行  #旅行摄影关键词：vlog旅游、vlog旅行记、国家公园、旅行、旅行摄影 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "vlog旅游为什么总是做不出来结果？",
+        "先把vlog旅行记想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕vlog旅游组织标题与开头。",
+        "用vlog旅行记和国家公园补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "vlog旅游",
+        "vlog旅行记",
+        "国家公园"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-14/7243207410347724043.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "last_error": null
+  },
+  "7586199356324941083": {
+    "video_id": "7586199356324941083",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7586199356324941083",
+      "title": "在抖音记录美好生活20260914",
+      "publish_time": "2026-09-14T14:00:20+08:00",
+      "video_url": "https://www.douyin.com/video/7586199356324941083",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260914",
+      "text_hint": "在抖音记录美好生活20260914",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/5d06185f-baec-4a2f-9ff1-ea979d86ebce",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7586199356324941083",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-14T13:58:54+08:00",
+    "last_seen_at": "2026-09-14T13:58:54+08:00",
+    "fetch_runs": [
+      "2026-09-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7452323533037915446": {
+    "video_id": "7452323533037915446",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "菲儿七彩女团  小婉",
+      "video_id": "7452323533037915446",
+      "title": "#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉",
+      "publish_time": "2024-12-25T20:21:48+08:00",
+      "video_url": "https://www.douyin.com/video/7452323533037915446",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4b711e52b6793133f107b73677390546~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104722000&x-signature=alljM1a%2F1TcfkH1PVrIUfi%2FKxVM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260914135953FC929BDE868F807F4902",
+      "like_count": 145,
+      "comment_count": 57,
+      "share_count": 2,
+      "collect_count": 11,
+      "description": "#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉",
+      "text_hint": "#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉",
+      "topic_tags": [
+        "刀妹梓莀",
+        "星河滚烫你是人间理想",
+        "视觉盛宴",
+        "抖音音乐分享人",
+        "七彩金孔雀小婉"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/f99fac438a682221a8291cecb2145429/6aa7b894/video/cn/mps/realtime/v1/r/p/v0300fg10000ctlvchnog65n2jm5t370/17e5656da4c6427da264fffac9427825/ecfc55497246e73685f585a2ddf5f504/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1355&bt=1355&cs=0&ds=3&ft=InFJ3Y-5DyjNMRVQ9whqr5Hhd.T-rWD03-ApQX&mime_type=video_mp4&qs=0&rc=ODs1PGRpNzVnNTk3Zzg4OkBpMzY4bXE5cmt5dzMzNGkzM0AvNDFgY2MzXjQxYF4zM2IuYSM0cWovMmRrYGlgLS1kLTBzcw%3D%3D&btag=80000e00030000&codec=h264&cquery=100w_100B_100x_100z_100o&definition=720p&dy_q=1789365593&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7452323533037915446&l=20260914135953FC929BDE868F807F4902&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7452323533037915446.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7452323533037915446.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 267.997,
+      "raw_payload": {
+        "aweme_id": "7452323533037915446",
+        "author_uid": "1415796657779406",
+        "sec_uid": "MS4wLjABAAAAkMSdjD4Hh7C6pmh53jOL4mzzG396Cuq7GZW_YhtGekXtvU9BJMcLTwuviI51KZwW",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAkMSdjD4Hh7C6pmh53jOL4mzzG396Cuq7GZW_YhtGekXtvU9BJMcLTwuviI51KZwW"
+      }
+    },
+    "first_seen_at": "2026-09-14T13:58:54+08:00",
+    "last_seen_at": "2026-09-14T13:58:54+08:00",
+    "fetch_runs": [
+      "2026-09-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7452323533037915446.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7452323533037915446.mp3",
+      "source": "download",
+      "processed_at": "2026-09-14T14:01:25+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7452323533037915446",
+      "transcript_raw": "#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉补充信息：#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉关键词：刀妹梓莀、星河滚烫你是人间理想、视觉盛宴、抖音音乐分享人、七彩金孔雀小婉",
+      "transcript_clean": "#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉补充信息：#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉关键词：刀妹梓莀、星河滚烫你是人间理想、视觉盛宴、抖音音乐分享人、七彩金孔雀小婉",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-14/7452323533037915446.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7452323533037915446",
+      "summary": "菲儿七彩女团  小婉围绕“刀妹梓莀”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉。#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉补充信息：#刀妹梓莀 抖音直播2周年庆开场歌曲#星河滚烫你是人间理想 #视觉盛宴 #抖音音乐分享人 #七彩金孔雀小婉关键词：刀妹梓莀、星河滚烫你是人间理想、视觉盛宴、抖音音乐分享人、七彩金孔雀小婉 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "刀妹梓莀为什么总是做不出来结果？",
+        "先把星河滚烫你是人间理想想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕刀妹梓莀组织标题与开头。",
+        "用星河滚烫你是人间理想和视觉盛宴补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "刀妹梓莀",
+        "星河滚烫你是人间理想",
+        "视觉盛宴"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-14/7452323533037915446.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "last_error": null
+  },
+  "7277863015364480271": {
+    "video_id": "7277863015364480271",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "六千大嘴唇子",
+      "video_id": "7277863015364480271",
+      "title": "以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色",
+      "publish_time": "2023-09-12T17:05:39+08:00",
+      "video_url": "https://www.douyin.com/video/7277863015364480271",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/070016b25bcc79b94149335bc8262937~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104722000&x-signature=W5Zoi3tTRE%2FGebGJvfanLbf%2B0k8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609141359567C54AE5BB5C95D815ACA",
+      "like_count": 5898,
+      "comment_count": 206,
+      "share_count": 305,
+      "collect_count": 523,
+      "description": "以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色",
+      "text_hint": "以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色",
+      "topic_tags": [
+        "彩棠腮红",
+        "腮红打法",
+        "腮红",
+        "无滤镜试色"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/031d9f097ae49408a201c3111d86cfdb/6aa7b86a/video/tos/cn/tos-cn-ve-15c001-alinc2/okydQKeoTSC1f9AAAinAIjAG9clgkBoATCDIb5/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2730&bt=2730&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wQqr5Hhd.T-rWD03-ApQX&mime_type=video_mp4&qs=0&rc=aDtlNmhmOTpmO2Q7aDZoO0BpanhqNTY6Znc1bjMzNGkzM0BfNjI2NDVeNTExNF9eYzM1YSNmcTU0cjRfZS1gLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1789365597&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202609141359567C54AE5BB5C95D815ACA",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7277863015364480271.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7277863015364480271.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 220.96,
+      "raw_payload": {
+        "aweme_id": "7277863015364480271",
+        "author_uid": "2264582843275363",
+        "sec_uid": "MS4wLjABAAAAhBXeCcywTdwbDEjc_XvIWWNefORehMOqlwImswSUUvtM848nQwrDY0R40zqSzLmD",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhBXeCcywTdwbDEjc_XvIWWNefORehMOqlwImswSUUvtM848nQwrDY0R40zqSzLmD"
+      }
+    },
+    "first_seen_at": "2026-09-14T13:58:54+08:00",
+    "last_seen_at": "2026-09-14T13:58:54+08:00",
+    "fetch_runs": [
+      "2026-09-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7277863015364480271.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7277863015364480271.mp3",
+      "source": "download",
+      "processed_at": "2026-09-14T14:02:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7277863015364480271",
+      "transcript_raw": "以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色补充信息：以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色关键词：彩棠腮红、腮红打法、腮红、无滤镜试色",
+      "transcript_clean": "以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色补充信息：以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色关键词：彩棠腮红、腮红打法、腮红、无滤镜试色",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-14/7277863015364480271.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7277863015364480271",
+      "summary": "六千大嘴唇子围绕“彩棠腮红”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色。以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色补充信息：以一敌三😳彩棠腮红新色来了！超全上脸功课#彩棠腮红 #腮红打法 #腮红 #无滤镜试色关键词：彩棠腮红、腮红打法、腮红、无滤镜试色 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "彩棠腮红为什么总是做不出来结果？",
+        "先把腮红打法想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕彩棠腮红组织标题与开头。",
+        "用腮红打法和腮红补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "彩棠腮红",
+        "腮红打法",
+        "腮红"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-14/7277863015364480271.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "last_error": null
+  },
+  "7363235873418120488": {
+    "video_id": "7363235873418120488",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7363235873418120488",
+      "title": "Marstercam2023安装方法",
+      "publish_time": "2024-04-29T10:35:00+08:00",
+      "video_url": "https://www.douyin.com/video/7363235873418120488",
+      "cover_url": "",
+      "like_count": 293,
+      "comment_count": 51,
+      "share_count": 293,
+      "collect_count": 45,
+      "description": "Marstercam2023安装方法",
+      "text_hint": "Marstercam2023安装方法",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/97865fd5d82dc68ea7508516e06f85f3/6aa7b8fc/video/tos/cn/tos-cn-ve-15/oEbnyFwpuMpXIADo9Gk8fBBnCVIfXE7WfkEAQB/?a=6383&br=204&bt=204&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1789365613&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9w5qr5Hhd.T-rWD03-ApQX&is_ssr=1&l=2026091414001261EA8BAD8C1EF17F17F3&lr=all&mime_type=video_mp4&qs=1&rc=aDloOGc6NzQ5Nmc2ZzY3NkBpajVndzw6ZnNxcjMzNGkzM0A2LzJeMjJjX2ExYWBjXjEvYSNzMTE0cjRvY2tgLS1kLS9zcw%3D%3D&__vid=7363235873418120488",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7363235873418120488.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7363235873418120488.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7363235873418120488",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-14T13:58:54+08:00",
+    "last_seen_at": "2026-09-14T13:58:54+08:00",
+    "fetch_runs": [
+      "2026-09-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7363235873418120488.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-14/7363235873418120488.mp3",
+      "source": "download",
+      "processed_at": "2026-09-14T14:01:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7363235873418120488",
+      "transcript_raw": "Marstercam2023安装方法Marstercam2023安装方法补充信息：Marstercam2023安装方法",
+      "transcript_clean": "Marstercam2023安装方法Marstercam2023安装方法补充信息：Marstercam2023安装方法",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-14/7363235873418120488.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "analysis": {
+      "video_id": "7363235873418120488",
+      "summary": "知雪围绕“Marstercam2023安装方法Marstercam2023安装方法补充信息：Marstercam2023安装方法”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "Marstercam2023安装方法。Marstercam2023安装方法Marstercam2023安装方法补充信息：Marstercam2023安装方法 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "Marstercam2023安装方法Marstercam2023安装方法补充信息：Marstercam2023安装方法为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕Marstercam2023安装方法Marstercam2023安装方法补充信息：Marstercam2023安装方法组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "Marstercam2023安装方法Marstercam2023安装方法补充信息：Marstercam2023安装方法",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-14/7363235873418120488.json",
+      "processed_at": "2026-09-14T14:04:09+08:00"
+    },
+    "last_error": null
   }
 }
