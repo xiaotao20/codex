@@ -45227,5 +45227,498 @@
       "processed_at": "2026-09-14T14:04:09+08:00"
     },
     "last_error": null
+  },
+  "7640686164517503857": {
+    "video_id": "7640686164517503857",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "广西卫视",
+      "video_id": "7640686164517503857",
+      "title": "广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）",
+      "publish_time": "2026-05-17T10:44:38+08:00",
+      "video_url": "https://www.douyin.com/video/7640686164517503857",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8d9667ff22903fb20e654b2afba98bee~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104894800&x-signature=alrX1kJesapUwZ9EEzgORdh2SmY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260916135125FA107AEE84F63C499AA8",
+      "like_count": 558,
+      "comment_count": 40,
+      "share_count": 14,
+      "collect_count": 6,
+      "description": "广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）",
+      "text_hint": "广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）",
+      "topic_tags": [
+        "广西“县超”",
+        "点球"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b3a80b2027c82515eef49cb5a4d86cc7/6aaa589f/video/tos/cn/tos-cn-ve-15/o0YaJA4TSDgPTEIq4CFfABg81auet4QR9KD2A3/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2424&bt=2424&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wQf5WHhd.m2W9D03-ApQX&mime_type=video_mp4&qs=0&rc=aDc2aWc5ZGQ5NDRlMzplN0BpM3Q6ZXU5cndsOzMzNGkzM0AuNDJhYC9hXi4xNDIxNjU0YSNybC4xMmRzajFhLS1kLTBzcw%3D%3D&btag=c0000e00010000&cquery=100o_100w_100B_100x_100z&dy_q=1789537885&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260916135125FA107AEE84F63C499AA8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7640686164517503857.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7640686164517503857.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 18.53,
+      "raw_payload": {
+        "aweme_id": "7640686164517503857",
+        "author_uid": "70730894453",
+        "sec_uid": "MS4wLjABAAAADCLMXvMISjsdNz2uITW-Jhir0LZCy31nBIgahVn-yIc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAADCLMXvMISjsdNz2uITW-Jhir0LZCy31nBIgahVn-yIc"
+      }
+    },
+    "first_seen_at": "2026-09-16T13:51:00+08:00",
+    "last_seen_at": "2026-09-16T13:51:00+08:00",
+    "fetch_runs": [
+      "2026-09-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7640686164517503857.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7640686164517503857.mp3",
+      "source": "download",
+      "processed_at": "2026-09-16T13:52:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7640686164517503857",
+      "transcript_raw": "广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）补充信息：广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）关键词：广西“县超”、点球",
+      "transcript_clean": "广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）补充信息：广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）关键词：广西“县超”、点球",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-16/7640686164517503857.json",
+      "processed_at": "2026-09-16T13:53:13+08:00"
+    },
+    "analysis": {
+      "video_id": "7640686164517503857",
+      "summary": "广西卫视围绕“广西“县超””给出了一条可直接执行的短视频经验。",
+      "clean_copy": "广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）。广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）补充信息：广西“县超”总决赛点球鏖战，柳州柳南区队夺冠 #广西“县超”  #点球   （来源：930老友记）关键词：广西“县超”、点球 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "广西“县超”为什么总是做不出来结果？",
+        "先把点球想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕广西“县超”组织标题与开头。",
+        "用点球和#广西“县超”补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "广西“县超”",
+        "点球",
+        "#广西“县超”"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-16/7640686164517503857.json",
+      "processed_at": "2026-09-16T13:53:13+08:00"
+    },
+    "last_error": null
+  },
+  "7389526633662647564": {
+    "video_id": "7389526633662647564",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7389526633662647564",
+      "title": "在抖音记录美好生活20260916",
+      "publish_time": "2026-09-16T13:52:27+08:00",
+      "video_url": "https://www.douyin.com/video/7389526633662647564",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260916",
+      "text_hint": "在抖音记录美好生活20260916",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/43eb284b-e6d8-4e65-a666-d2e0ec869164",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7389526633662647564",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-16T13:51:00+08:00",
+    "last_seen_at": "2026-09-16T13:51:00+08:00",
+    "fetch_runs": [
+      "2026-09-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7375472984691068214": {
+    "video_id": "7375472984691068214",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7375472984691068214",
+      "title": "在抖音记录美好生活20260916",
+      "publish_time": "2026-09-16T13:52:27+08:00",
+      "video_url": "https://www.douyin.com/video/7375472984691068214",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260916",
+      "text_hint": "在抖音记录美好生活20260916",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/2fbc1390-c152-416e-bfb7-d075af2b6d59",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7375472984691068214",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-16T13:51:00+08:00",
+    "last_seen_at": "2026-09-16T13:51:00+08:00",
+    "fetch_runs": [
+      "2026-09-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7582902349959580985": {
+    "video_id": "7582902349959580985",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7582902349959580985",
+      "title": "摩多狼冬季摩托车护膝防风保暖骑车护腿膝盖护套机车骑行防摔护具#摩托车护膝 #冬季保暖 #骑车装备 #摩多狼 #防风护具",
+      "publish_time": "2025-12-12T09:34:00+08:00",
+      "video_url": "https://www.douyin.com/video/7582902349959580985",
+      "cover_url": "",
+      "like_count": 1,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "摩多狼冬季摩托车护膝防风保暖骑车护腿膝盖护套机车骑行防摔护具#摩托车护膝 #冬季保暖 #骑车装备 #摩多狼 #防风护具",
+      "text_hint": "摩多狼冬季摩托车护膝防风保暖骑车护腿膝盖护套机车骑行防摔护具#摩托车护膝 #冬季保暖 #骑车装备 #摩多狼 #防风护具",
+      "topic_tags": [
+        "摩托车护膝",
+        "冬季保暖",
+        "骑车装备",
+        "摩多狼",
+        "防风护具"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/1eb22165-ba12-48b2-9f62-3bfb1c597b75",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7582902349959580985",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-16T13:51:00+08:00",
+    "last_seen_at": "2026-09-16T13:51:00+08:00",
+    "fetch_runs": [
+      "2026-09-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7535786893565283641": {
+    "video_id": "7535786893565283641",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "泰州强强",
+      "video_id": "7535786893565283641",
+      "title": "好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂",
+      "publish_time": "2025-08-07T18:21:54+08:00",
+      "video_url": "https://www.douyin.com/video/7535786893565283641",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/okAKRLZTIK1IGffY7ecCOOBbg8IxJ5lgkRCyQA~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104894800&x-signature=F9Jr0okk1DwYJMfhyAIebKiHgnA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260916135203AFBEF9A57AD596450582",
+      "like_count": 171,
+      "comment_count": 31,
+      "share_count": 14,
+      "collect_count": 15,
+      "description": "好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂",
+      "text_hint": "好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂",
+      "topic_tags": [
+        "演出现场",
+        "原创视频",
+        "淮剧",
+        "祥林嫂"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/abf74a2dbdbf014bce0d77b07daef8a4/6aaa59af/video/tos/cn/tos-cn-ve-15c000-ce/oQAIeB8GRCfbkIZLIPUOvAg1BJyReKXgc7RvZT/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=644&bt=644&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wMI5WHhd.m2W9D03-ApQX&mime_type=video_mp4&qs=0&rc=NTc7aTRmZDc0aTVnZzU3aEBpM3Nsb3A5cjU6NTMzbGkzNEBgYDZgNDQxNWIxYzYxX19hYSMtYG1yMmRjL15hLS1kLWJzcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1789537923&feature_id=fea919893f650a8c49286568590446ef&l=20260916135203AFBEF9A57AD596450582",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7535786893565283641.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7535786893565283641.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 252.119,
+      "raw_payload": {
+        "aweme_id": "7535786893565283641",
+        "author_uid": "86678025834",
+        "sec_uid": "MS4wLjABAAAAQxWcVshIXAqXp3UICB64MZnJaCEi9-ob0honA18dwsg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQxWcVshIXAqXp3UICB64MZnJaCEi9-ob0honA18dwsg"
+      }
+    },
+    "first_seen_at": "2026-09-16T13:51:00+08:00",
+    "last_seen_at": "2026-09-16T13:51:00+08:00",
+    "fetch_runs": [
+      "2026-09-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7535786893565283641.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7535786893565283641.mp3",
+      "source": "download",
+      "processed_at": "2026-09-16T13:52:46+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7535786893565283641",
+      "transcript_raw": "好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂补充信息：好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂关键词：演出现场、原创视频、淮剧、祥林嫂",
+      "transcript_clean": "好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂补充信息：好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂关键词：演出现场、原创视频、淮剧、祥林嫂",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-16/7535786893565283641.json",
+      "processed_at": "2026-09-16T13:53:13+08:00"
+    },
+    "analysis": {
+      "video_id": "7535786893565283641",
+      "summary": "泰州强强围绕“演出现场”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂。好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂补充信息：好听的又来了，今天立秋了，岁数也越来越大，见不了悲情苦曲，今年秋天的第一段是澄老师给的，祝愿澄老师和大家越来越开心越来越幸福#演出现场 #原创视频 #淮剧 #祥林嫂关键词：演出现场、原创视频、淮剧、祥林嫂 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "演出现场为什么总是做不出来结果？",
+        "先把原创视频想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕演出现场组织标题与开头。",
+        "用原创视频和淮剧补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "演出现场",
+        "原创视频",
+        "淮剧"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-16/7535786893565283641.json",
+      "processed_at": "2026-09-16T13:53:13+08:00"
+    },
+    "last_error": null
+  },
+  "7206664014451985702": {
+    "video_id": "7206664014451985702",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "杨哥AI数学",
+      "video_id": "7206664014451985702",
+      "title": "动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点",
+      "publish_time": "2023-03-04T20:17:08+08:00",
+      "video_url": "https://www.douyin.com/video/7206664014451985702",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/74c8d53e4ab5730c3be6cfe5e3053e46~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104894800&x-signature=oz04gyc5hA%2F0QpSjHquGLkE62Z0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260916135206D4291BD57B9E475309E5",
+      "like_count": 3956,
+      "comment_count": 148,
+      "share_count": 460,
+      "collect_count": 2373,
+      "description": "动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点",
+      "text_hint": "动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点",
+      "topic_tags": [
+        "初中数学",
+        "家长收藏孩子受益",
+        "每天学习一点点"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/da38e522859c18ca98ac362c44a74d98/6aaa5998/video/tos/cn/tos-cn-ve-0015c800/osBFwDthZFIyAIhyAsQUeWlfVtkiV4ADAzcBgl/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=316&bt=316&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wSI5WHhd.m2W9D03-ApQX&mime_type=video_mp4&qs=0&rc=ZzszOmY3OjxoZmQzZzk1ZUBpM2xwPDQ6ZjVtajMzNGkzM0AtYV8zYWFgNTUxLjQwYDE2YSNiXzVqcjRvYS5gLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1789537926&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260916135206D4291BD57B9E475309E5",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7206664014451985702.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7206664014451985702.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 226.511,
+      "raw_payload": {
+        "aweme_id": "7206664014451985702",
+        "author_uid": "3259385283087799",
+        "sec_uid": "MS4wLjABAAAAhA0wILm9DasTWbbfV8fpLbzSe-nkbZ_vTlqwe2UaeP9rb9ezHVsb7-cTd9uVJlP1",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhA0wILm9DasTWbbfV8fpLbzSe-nkbZ_vTlqwe2UaeP9rb9ezHVsb7-cTd9uVJlP1"
+      }
+    },
+    "first_seen_at": "2026-09-16T13:51:00+08:00",
+    "last_seen_at": "2026-09-16T13:51:00+08:00",
+    "fetch_runs": [
+      "2026-09-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7206664014451985702.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7206664014451985702.mp3",
+      "source": "download",
+      "processed_at": "2026-09-16T13:53:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7206664014451985702",
+      "transcript_raw": "动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点补充信息：动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点关键词：初中数学、家长收藏孩子受益、每天学习一点点",
+      "transcript_clean": "动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点补充信息：动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点关键词：初中数学、家长收藏孩子受益、每天学习一点点",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-16/7206664014451985702.json",
+      "processed_at": "2026-09-16T13:53:13+08:00"
+    },
+    "analysis": {
+      "video_id": "7206664014451985702",
+      "summary": "杨哥AI数学围绕“初中数学”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点。动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点补充信息：动点最值问题，你看出动点了吗？#初中数学 #家长收藏孩子受益 #每天学习一点点关键词：初中数学、家长收藏孩子受益、每天学习一点点 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "初中数学为什么总是做不出来结果？",
+        "先把家长收藏孩子受益想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕初中数学组织标题与开头。",
+        "用家长收藏孩子受益和每天学习一点点补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "初中数学",
+        "家长收藏孩子受益",
+        "每天学习一点点"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-16/7206664014451985702.json",
+      "processed_at": "2026-09-16T13:53:13+08:00"
+    },
+    "last_error": null
+  },
+  "7299695053423889716": {
+    "video_id": "7299695053423889716",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7299695053423889716",
+      "title": "在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理",
+      "publish_time": "2023-11-10T05:05:00+08:00",
+      "video_url": "https://www.douyin.com/video/7299695053423889716",
+      "cover_url": "",
+      "like_count": 5930,
+      "comment_count": 279,
+      "share_count": 607,
+      "collect_count": 128,
+      "description": "在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理",
+      "text_hint": "在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理",
+      "topic_tags": [
+        "餐饮人",
+        "餐饮",
+        "餐饮行业",
+        "管理思维",
+        "员工管理"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6a65ea881641a5d3eaa1955e2ad9ac4c/6aaa59c7/video/tos/cn/tos-cn-ve-15/oQble09rAAnTMqiDEb8gxQvwAC6mIgB5b3gNfA/?a=6383&br=933&bt=933&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1789537942&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wgI5WHhd.m2W9D03-ApQX&is_ssr=1&l=20260916135222F788C121C6675456A432&lr=all&mime_type=video_mp4&qs=12&rc=ZWQ4OjloZjo0Z2k3ODw8aUBpanVzdmg6ZmZ1bzMzNGkzM0BjLzUwX2A2NmExX180MS0xYSNkaGxjcjRfZDNgLS1kLWFzcw%3D%3D&__vid=7299695053423889716",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7299695053423889716.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7299695053423889716.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7299695053423889716",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-16T13:51:00+08:00",
+    "last_seen_at": "2026-09-16T13:51:00+08:00",
+    "fetch_runs": [
+      "2026-09-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7299695053423889716.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-16/7299695053423889716.mp3",
+      "source": "download",
+      "processed_at": "2026-09-16T13:53:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7299695053423889716",
+      "transcript_raw": "在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理补充信息：在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理关键词：餐饮人、餐饮、餐饮行业、管理思维、员工管理",
+      "transcript_clean": "在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理补充信息：在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理关键词：餐饮人、餐饮、餐饮行业、管理思维、员工管理",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-16/7299695053423889716.json",
+      "processed_at": "2026-09-16T13:53:13+08:00"
+    },
+    "analysis": {
+      "video_id": "7299695053423889716",
+      "summary": "知雪围绕“餐饮人”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理。在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理补充信息：在餐饮人的大家庭里 各个部门通力协作 任何体量的工作都会高效率完成 忙碌之余 管理者也会积极创造各种团建机会 这对于团队向心力和凝聚力的提升不失为最佳途径#餐饮人 #餐饮 #餐饮行业 #管理思维 #员工管理关键词：餐饮人、餐饮、餐饮行业、管理思维、员工管理 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "餐饮人为什么总是做不出来结果？",
+        "先把餐饮想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕餐饮人组织标题与开头。",
+        "用餐饮和餐饮行业补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "餐饮人",
+        "餐饮",
+        "餐饮行业"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-16/7299695053423889716.json",
+      "processed_at": "2026-09-16T13:53:13+08:00"
+    },
+    "last_error": null
   }
 }
