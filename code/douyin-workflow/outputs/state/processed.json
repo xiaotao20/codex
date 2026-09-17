@@ -45720,5 +45720,674 @@
       "processed_at": "2026-09-16T13:53:13+08:00"
     },
     "last_error": null
+  },
+  "7685202217162312966": {
+    "video_id": "7685202217162312966",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "新正版好书",
+      "video_id": "7685202217162312966",
+      "title": "一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读",
+      "publish_time": "2026-09-14T09:49:47+08:00",
+      "video_url": "https://www.douyin.com/video/7685202217162312966",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-958309/ow7fW8taIAIoBQ9OBqJg3UnTCBtn9dpazuKf8A~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104981200&x-signature=fjPx3ume4c7mBDt3lN%2FnDlzRXIQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260917135743AA29DE00D4BC4ABC8602",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读",
+      "text_hint": "一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读",
+      "topic_tags": [
+        "初中英语",
+        "单词",
+        "英语阅读"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/aa9f871fdfd71627fbdcf1362925ae53/6aababc6/video/tos/cn/tos-cn-v-958309/o43rnITFzCQnW7EqiptoABgmeUrwnqIntSaAaf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2462&bt=2462&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9wuGrWHhd.x6Iif03-ApQX&mime_type=video_mp4&qs=0&rc=N2ZkPDs6NzhpPGg7aTU6O0BpampvZ3g5cmhvZDMzNDYzM0AtYjUzYGAvNjIxMmMuNmAuYSNvbnJnMmRrMmdhLS1kMDBzcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_102v_102u&dy_q=1789624664&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=20260917135743AA29DE00D4BC4ABC8602",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7685202217162312966.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7685202217162312966.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 62.416,
+      "raw_payload": {
+        "aweme_id": "7685202217162312966",
+        "author_uid": "2395213245714819",
+        "sec_uid": "MS4wLjABAAAAYJ6sSm3Ql7xKbXggnLuPx8VKUtMzGPX8Om57mlfPuzP5n58oB_fA2ISjVU1Hf7mr",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAYJ6sSm3Ql7xKbXggnLuPx8VKUtMzGPX8Om57mlfPuzP5n58oB_fA2ISjVU1Hf7mr"
+      }
+    },
+    "first_seen_at": "2026-09-17T13:57:30+08:00",
+    "last_seen_at": "2026-09-17T13:57:30+08:00",
+    "fetch_runs": [
+      "2026-09-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7685202217162312966.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7685202217162312966.mp3",
+      "source": "download",
+      "processed_at": "2026-09-17T13:58:56+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7685202217162312966",
+      "transcript_raw": "一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读补充信息：一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读关键词：初中英语、单词、英语阅读",
+      "transcript_clean": "一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读补充信息：一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读关键词：初中英语、单词、英语阅读",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-17/7685202217162312966.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7685202217162312966",
+      "summary": "新正版好书围绕“初中英语”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读。一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读补充信息：一本能上孩子主动学英语的故事书，看短文故事学会小学初中1600个常用单词#初中英语#单词#英语阅读关键词：初中英语、单词、英语阅读 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "初中英语为什么总是做不出来结果？",
+        "先把单词想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕初中英语组织标题与开头。",
+        "用单词和英语阅读补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "初中英语",
+        "单词",
+        "英语阅读"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-17/7685202217162312966.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "last_error": null
+  },
+  "7599577879285992713": {
+    "video_id": "7599577879285992713",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "河南都市频道",
+      "video_id": "7599577879285992713",
+      "title": "U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划",
+      "publish_time": "2026-01-26T16:03:38+08:00",
+      "video_url": "https://www.douyin.com/video/7599577879285992713",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3d2e9105e1e5f4971e5595c2468b2399~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104981200&x-signature=tdZyKhBIEVOoMmzvgyuC%2BiD0mXs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609171357483859C847EF14DCBE1CF7",
+      "like_count": 42,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 2,
+      "description": "U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划",
+      "text_hint": "U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划",
+      "topic_tags": [
+        "U23",
+        "媒体精选计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b760fcb0d80b6ac6773097843e47aac3/6aabab9d/video/tos/cn/tos-cn-ve-15/ooEEgEjQ99CIpASf3kZdJxUY1eaDABFKDuhAtl/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2080&bt=2080&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wdGrWHhd.x6Iif03-ApQX&mime_type=video_mp4&qs=0&rc=NjY6N2c2ZTg7OGg0NjU3NEBpang4cGs5cmxrODMzNGkzM0A0MTJfNC9gNTAxMTUvNF4yYSNgMmhvMmRrcm9hLS1kLTBzcw%3D%3D&btag=c0000e00010000&cquery=100B_100H_100K_100o_100w&dy_q=1789624668&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202609171357483859C847EF14DCBE1CF7",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7599577879285992713.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7599577879285992713.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 17.973,
+      "raw_payload": {
+        "aweme_id": "7599577879285992713",
+        "author_uid": "106333686460",
+        "sec_uid": "MS4wLjABAAAAWXw16mmmXyVLTQDzXjgRe0zznZMI_tFalGz9urdQWfQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWXw16mmmXyVLTQDzXjgRe0zznZMI_tFalGz9urdQWfQ"
+      }
+    },
+    "first_seen_at": "2026-09-17T13:57:30+08:00",
+    "last_seen_at": "2026-09-17T13:57:30+08:00",
+    "fetch_runs": [
+      "2026-09-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7599577879285992713.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7599577879285992713.mp3",
+      "source": "download",
+      "processed_at": "2026-09-17T13:59:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7599577879285992713",
+      "transcript_raw": "U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划补充信息：U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划关键词：U23、媒体精选计划",
+      "transcript_clean": "U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划补充信息：U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划关键词：U23、媒体精选计划",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-17/7599577879285992713.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7599577879285992713",
+      "summary": "河南都市频道围绕“U23”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划。U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划补充信息：U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23 #媒体精选计划关键词：U23、媒体精选计划 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "U23为什么总是做不出来结果？",
+        "先把媒体精选计划想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕U23组织标题与开头。",
+        "用媒体精选计划和U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "U23",
+        "媒体精选计划",
+        "U23国足抵达北京，球迷热情迎接，球员也热情和球迷合影互动#U23"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-17/7599577879285992713.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "last_error": null
+  },
+  "7205045881198906681": {
+    "video_id": "7205045881198906681",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "斑马星人",
+      "video_id": "7205045881198906681",
+      "title": "【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰",
+      "publish_time": "2023-03-06T20:35:00+08:00",
+      "video_url": "https://www.douyin.com/video/7205045881198906681",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a01029937d6e2301beab98e5ab2b1c56~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104981200&x-signature=fhvMqf36yrz44p2KOWG4XUS0fjk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260917135751546B4D7449A7ADA03D97",
+      "like_count": 3102,
+      "comment_count": 60,
+      "share_count": 434,
+      "collect_count": 2167,
+      "description": "【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰",
+      "text_hint": "【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰",
+      "topic_tags": [
+        "ps教程",
+        "修图前vs修图后",
+        "图片模糊变清晰"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/1a1b025b0badb86431c1d17fe08e3a09/6aabad7f/video/tos/cn/tos-cn-ve-15c001-alinc2/o8TVBfneQ8ApIAEewgDIQTD8Chubb25aPfgCAI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=497&bt=497&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wKGrWHhd.x6Iif03-ApQX&mime_type=video_mp4&qs=0&rc=ZmQ6aTpkZzZlODU3ZzkzOkBpMzdsaTs6ZmlxaTMzNGkzM0BfLmNjMmIuXzAxY2M1LzFfYSNgaXNecjRnXnJgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100H_100K_100o_100w_100B&dy_q=1789624672&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260917135751546B4D7449A7ADA03D97",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7205045881198906681.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7205045881198906681.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 495.7,
+      "raw_payload": {
+        "aweme_id": "7205045881198906681",
+        "author_uid": "80307691390",
+        "sec_uid": "MS4wLjABAAAA3RDDkwP_OEtJpfNvY2Z-egPdrra_FpCzQWhPn2eZb5w",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA3RDDkwP_OEtJpfNvY2Z-egPdrra_FpCzQWhPn2eZb5w"
+      }
+    },
+    "first_seen_at": "2026-09-17T13:57:30+08:00",
+    "last_seen_at": "2026-09-17T13:57:30+08:00",
+    "fetch_runs": [
+      "2026-09-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7205045881198906681.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7205045881198906681.mp3",
+      "source": "download",
+      "processed_at": "2026-09-17T14:02:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7205045881198906681",
+      "transcript_raw": "【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰补充信息：【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰关键词：ps教程、修图前vs修图后、图片模糊变清晰",
+      "transcript_clean": "【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰补充信息：【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰关键词：ps教程、修图前vs修图后、图片模糊变清晰",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-17/7205045881198906681.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7205045881198906681",
+      "summary": "斑马星人围绕“ps教程”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰。【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰补充信息：【PS教程】将图片从低分辨率转换成高分辨率-超级实用#ps教程 #修图前vs修图后 #图片模糊变清晰关键词：ps教程、修图前vs修图后、图片模糊变清晰 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "ps教程为什么总是做不出来结果？",
+        "先把修图前vs修图后想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕ps教程组织标题与开头。",
+        "用修图前vs修图后和图片模糊变清晰补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "ps教程",
+        "修图前vs修图后",
+        "图片模糊变清晰"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-17/7205045881198906681.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "last_error": null
+  },
+  "7200549891519647032": {
+    "video_id": "7200549891519647032",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "遁门 花匠",
+      "video_id": "7200549891519647032",
+      "title": "转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）",
+      "publish_time": "2023-02-16T08:51:41+08:00",
+      "video_url": "https://www.douyin.com/video/7200549891519647032",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/de279d927a06d0596cd800cd983ff4f3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104981200&x-signature=VynKkAiToiNXvpeY3qkoBH3a87E%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260917135755318962275B9132BFBBC1",
+      "like_count": 169,
+      "comment_count": 10,
+      "share_count": 39,
+      "collect_count": 77,
+      "description": "转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）",
+      "text_hint": "转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/83773d9f89ee9b4eb92852fe9dce997d/6aabad63/video/tos/cn/tos-cn-ve-0015c800/oYgCfXxdnoHliaC3Ae8hCi97yBb3jIAQDIgyA7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=639&bt=639&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9wmGrWHhd.x6Iif03-ApQX&mime_type=video_mp4&qs=0&rc=O2U8NDo8ZDo3aGRkPDxpPEBpanM1cTM6ZnhxaTMzNGkzM0BeM2FhXi5fNmIxNGIuY2AuYSM1cjFncjRvb2pgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100H_100K_100o_100w_100B&dy_q=1789624675&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260917135755318962275B9132BFBBC1",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7200549891519647032.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7200549891519647032.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 464.678,
+      "raw_payload": {
+        "aweme_id": "7200549891519647032",
+        "author_uid": "1059549609737867",
+        "sec_uid": "MS4wLjABAAAARA23prchVfxHKTDhdG3maoB2P665Y7Oo_o_Hgh4lz5aIxE2LeagFKOScIS4_LdR7",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAARA23prchVfxHKTDhdG3maoB2P665Y7Oo_o_Hgh4lz5aIxE2LeagFKOScIS4_LdR7"
+      }
+    },
+    "first_seen_at": "2026-09-17T13:57:30+08:00",
+    "last_seen_at": "2026-09-17T13:57:30+08:00",
+    "fetch_runs": [
+      "2026-09-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7200549891519647032.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7200549891519647032.mp3",
+      "source": "download",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7200549891519647032",
+      "transcript_raw": "转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）补充信息：转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）",
+      "transcript_clean": "转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）补充信息：转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-17/7200549891519647032.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7200549891519647032",
+      "summary": "遁门 花匠围绕“转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）补充信息：转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）。转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）补充信息：转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解） 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）补充信息：转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）补充信息：转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）补充信息：转抖音花盾-神域之谜海篇（深度解读）-海篇合集第十七章下篇（第四解1小节）辅助理解真知出世（前三解）",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-17/7200549891519647032.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "last_error": null
+  },
+  "7572575339282371290": {
+    "video_id": "7572575339282371290",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7572575339282371290",
+      "title": "#沃尔沃XC90 铝合金前叶翼子板车门 线条拉伸凹坑修复#凹陷修复保留原车漆 #汽车凹陷修复 #免喷漆凹陷修复 #保留原车漆 宜兴瘪塘哥",
+      "publish_time": "2025-11-14T13:39:00+08:00",
+      "video_url": "https://www.douyin.com/video/7572575339282371290",
+      "cover_url": "",
+      "like_count": 12,
+      "comment_count": 3,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "#沃尔沃XC90 铝合金前叶翼子板车门 线条拉伸凹坑修复#凹陷修复保留原车漆 #汽车凹陷修复 #免喷漆凹陷修复 #保留原车漆 宜兴瘪塘哥",
+      "text_hint": "#沃尔沃XC90 铝合金前叶翼子板车门 线条拉伸凹坑修复#凹陷修复保留原车漆 #汽车凹陷修复 #免喷漆凹陷修复 #保留原车漆 宜兴瘪塘哥",
+      "topic_tags": [
+        "沃尔沃XC90",
+        "凹陷修复保留原车漆",
+        "汽车凹陷修复",
+        "免喷漆凹陷修复",
+        "保留原车漆"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/be6704b1-62ce-4ab3-b602-d69e4341b37b",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7572575339282371290",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-17T13:57:30+08:00",
+    "last_seen_at": "2026-09-17T13:57:30+08:00",
+    "fetch_runs": [
+      "2026-09-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7421439886739229992": {
+    "video_id": "7421439886739229992",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "白西伟《黄土书匠》创始人。黄土百姓书画院",
+      "video_id": "7421439886739229992",
+      "title": "祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品",
+      "publish_time": "2024-10-03T14:57:21+08:00",
+      "video_url": "https://www.douyin.com/video/7421439886739229992",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c41ca0719d8da0cc9a14310a3293d83d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104981200&x-signature=dXg67as8cCkpoLbC1ZWXHg%2B3Cnw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609171358196E424D31EA90B49DBFFD",
+      "like_count": 2018,
+      "comment_count": 161,
+      "share_count": 275,
+      "collect_count": 674,
+      "description": "祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品",
+      "text_hint": "祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品",
+      "topic_tags": [
+        "白西伟黄土书匠",
+        "白西伟黄土书匠创始人",
+        "写字是一种生活",
+        "原创作品"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/37da6487358f5f91cc21da0ae027a887/6aabaca4/video/tos/cn/tos-cn-ve-15/oAo7GcEIQBANgsffvWFEewvWUZ413BAiDCj7h9/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1725&bt=1725&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9w4GrWHhd.x6Iif03-ApQX&mime_type=video_mp4&qs=0&rc=OjNoODg5ZjVnNmYzZDllPEBpMzZkb3g5cjs2dTMzNGkzM0AvYTJiMi4yNTAxNDQwMjEwYSMyanNsMmQ0cHNgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1789624699&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202609171358196E424D31EA90B49DBFFD",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7421439886739229992.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7421439886739229992.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 249.067,
+      "raw_payload": {
+        "aweme_id": "7421439886739229992",
+        "author_uid": "87821455043",
+        "sec_uid": "MS4wLjABAAAA6gN72_MZ045V-GBu0AMzAa7Tat48lGGIf-RXsAfEohs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA6gN72_MZ045V-GBu0AMzAa7Tat48lGGIf-RXsAfEohs"
+      }
+    },
+    "first_seen_at": "2026-09-17T13:57:30+08:00",
+    "last_seen_at": "2026-09-17T13:57:30+08:00",
+    "fetch_runs": [
+      "2026-09-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7421439886739229992.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7421439886739229992.mp3",
+      "source": "download",
+      "processed_at": "2026-09-17T13:59:49+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7421439886739229992",
+      "transcript_raw": "祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品补充信息：祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品关键词：白西伟黄土书匠、白西伟黄土书匠创始人、写字是一种生活、原创作品",
+      "transcript_clean": "祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品补充信息：祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品关键词：白西伟黄土书匠、白西伟黄土书匠创始人、写字是一种生活、原创作品",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-17/7421439886739229992.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7421439886739229992",
+      "summary": "白西伟《黄土书匠》创始人。黄土百姓书画院围绕“白西伟黄土书匠”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品。祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品补充信息：祝大家国庆快乐，沁园春雪完整版#白西伟黄土书匠 #白西伟黄土书匠创始人 #写字是一种生活 #原创作品关键词：白西伟黄土书匠、白西伟黄土书匠创始人、写字是一种生活、原创作品 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "白西伟黄土书匠为什么总是做不出来结果？",
+        "先把白西伟黄土书匠创始人想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕白西伟黄土书匠组织标题与开头。",
+        "用白西伟黄土书匠创始人和写字是一种生活补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "白西伟黄土书匠",
+        "白西伟黄土书匠创始人",
+        "写字是一种生活"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-17/7421439886739229992.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "last_error": null
+  },
+  "7375590771543592230": {
+    "video_id": "7375590771543592230",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "FCBN11",
+      "video_id": "7375590771543592230",
+      "title": "克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯",
+      "publish_time": "2024-06-02T01:40:18+08:00",
+      "video_url": "https://www.douyin.com/video/7375590771543592230",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/854e93905d6278cf6f6f89e5e846e3dd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2104981200&x-signature=TN2Cq2UqihXHyLgMYIHmNlscEug%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609171358229E61D1939D06ABCD5A96",
+      "like_count": 597,
+      "comment_count": 57,
+      "share_count": 41,
+      "collect_count": 70,
+      "description": "克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯",
+      "text_hint": "克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯",
+      "topic_tags": [
+        "足球球星卡",
+        "球星卡",
+        "欧冠决赛",
+        "欧洲杯",
+        "克罗斯"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/42e848e1c9bd9a6c4f71f2d1c0756cb1/6aabacc5/video/tos/cn/tos-cn-ve-0015c800/okWvIC2JVDAnyHh6j1FeA9mRdASgvBGWEBfPbE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2863&bt=2863&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wEGrWHhd.x6Iif03-ApQX&mime_type=video_mp4&qs=0&rc=N2c8aDhkZjQ8PDRlZGhnO0BpM2k4a3g5cm9vczMzNGkzM0AzL2A2NF8yXjMxMi0yYjMxYSNvMmwxMmRja2FgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1789624702&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202609171358229E61D1939D06ABCD5A96",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7375590771543592230.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7375590771543592230.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 279.08,
+      "raw_payload": {
+        "aweme_id": "7375590771543592230",
+        "author_uid": "59357481662",
+        "sec_uid": "MS4wLjABAAAAxUbmnMrRg9rE-gbPxvgVqX52DSKW-m4kz7pznfGDhqM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAxUbmnMrRg9rE-gbPxvgVqX52DSKW-m4kz7pznfGDhqM"
+      }
+    },
+    "first_seen_at": "2026-09-17T13:57:30+08:00",
+    "last_seen_at": "2026-09-17T13:57:30+08:00",
+    "fetch_runs": [
+      "2026-09-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7375590771543592230.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7375590771543592230.mp3",
+      "source": "download",
+      "processed_at": "2026-09-17T14:00:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7375590771543592230",
+      "transcript_raw": "克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯补充信息：克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯关键词：足球球星卡、球星卡、欧冠决赛、欧洲杯、克罗斯",
+      "transcript_clean": "克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯补充信息：克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯关键词：足球球星卡、球星卡、欧冠决赛、欧洲杯、克罗斯",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-17/7375590771543592230.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7375590771543592230",
+      "summary": "FCBN11围绕“足球球星卡”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯。克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯补充信息：克罗斯｜球星卡分享 最好的球星卡是什么？ \n#足球球星卡 #球星卡 #欧冠决赛 #欧洲杯 #克罗斯关键词：足球球星卡、球星卡、欧冠决赛、欧洲杯、克罗斯 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "足球球星卡为什么总是做不出来结果？",
+        "先把球星卡想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕足球球星卡组织标题与开头。",
+        "用球星卡和欧冠决赛补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "足球球星卡",
+        "球星卡",
+        "欧冠决赛"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-17/7375590771543592230.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "last_error": null
+  },
+  "7426658630725831975": {
+    "video_id": "7426658630725831975",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7426658630725831975",
+      "title": "又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人",
+      "publish_time": "2024-10-17T08:28:00+08:00",
+      "video_url": "https://www.douyin.com/video/7426658630725831975",
+      "cover_url": "",
+      "like_count": 1322,
+      "comment_count": 117,
+      "share_count": 54,
+      "collect_count": 35,
+      "description": "又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人",
+      "text_hint": "又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人",
+      "topic_tags": [
+        "腌酸菜",
+        "乡村守护人"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/bed9fb8859df78f2e188d1d65be42a3b/6aabac9b/video/tos/cn/tos-cn-ve-0015c800/oYIQEQAVezCiAGBzRiMBfHu78R8AmibgNpGOBt/?a=6383&br=1012&bt=1012&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1789624718&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNeRVQ9wxYrWHhd.x6Iif03-ApQX&is_ssr=1&l=202609171358383EEBC0F0B368C2C22D70&lr=all&mime_type=video_mp4&qs=12&rc=Omc7PDMzNDUzOWdkMzxkPEBpMzpkeHY5cm1mdjMzNGkzM0BgYWNgXmAyXzExNDU2YDRiYSNyZmw1MmRjZTVgLS1kLWFzcw%3D%3D&__vid=7426658630725831975",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7426658630725831975.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7426658630725831975.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7426658630725831975",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-17T13:57:30+08:00",
+    "last_seen_at": "2026-09-17T13:57:30+08:00",
+    "fetch_runs": [
+      "2026-09-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7426658630725831975.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-17/7426658630725831975.mp3",
+      "source": "download",
+      "processed_at": "2026-09-17T13:59:17+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7426658630725831975",
+      "transcript_raw": "又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人补充信息：又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人关键词：腌酸菜、乡村守护人",
+      "transcript_clean": "又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人补充信息：又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人关键词：腌酸菜、乡村守护人",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-17/7426658630725831975.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7426658630725831975",
+      "summary": "知雪围绕“腌酸菜”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人。又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人补充信息：又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜 #乡村守护人关键词：腌酸菜、乡村守护人 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "腌酸菜为什么总是做不出来结果？",
+        "先把乡村守护人想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕腌酸菜组织标题与开头。",
+        "用乡村守护人和又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "腌酸菜",
+        "乡村守护人",
+        "又到了东北人囤秋菜的环节，看母女俩如何热闹腌酸菜#腌酸菜"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-17/7426658630725831975.json",
+      "processed_at": "2026-09-17T14:03:22+08:00"
+    },
+    "last_error": null
   }
 }
