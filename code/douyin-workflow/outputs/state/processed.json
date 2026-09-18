@@ -46389,5 +46389,540 @@
       "processed_at": "2026-09-17T14:03:22+08:00"
     },
     "last_error": null
+  },
+  "7610296788692854181": {
+    "video_id": "7610296788692854181",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "偶俚张家港",
+      "video_id": "7610296788692854181",
+      "title": "春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）",
+      "publish_time": "2026-02-24T13:18:21+08:00",
+      "video_url": "https://www.douyin.com/video/7610296788692854181",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/545049b1d67a1978ca968fcbc2393cab~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105067600&x-signature=GmfLBfiu88EatjKApp4R4e70OA8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260918134418575440C2F21604264281",
+      "like_count": 176,
+      "comment_count": 8,
+      "share_count": 44,
+      "collect_count": 12,
+      "description": "春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）",
+      "text_hint": "春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fc61a3b67fb5550ee3ce10a4325f8429/6aacf9f9/video/tos/cn/tos-cn-ve-15c000-ce/oMW7sOIefH6kUd8KBLkTNrgQGeAtLJgUmCSTmI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1280&bt=1280&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wze7iHhd.W_T8X73-ApQX&mime_type=video_mp4&qs=0&rc=Njc2Zmk3OTY4NTQ4Z2U6ZEBpamR5O3U5cjVtOTMzbGkzNEBiM2IuYjQ2XzQxXjIwNDEvYSMyM2s0MmRjNmJhLS1kLWJzcw%3D%3D&btag=c0000e00010000&cquery=100w_100B_100x_100z_100o&dy_q=1789710258&feature_id=fea919893f650a8c49286568590446ef&l=20260918134418575440C2F21604264281",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7610296788692854181.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7610296788692854181.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 23.335,
+      "raw_payload": {
+        "aweme_id": "7610296788692854181",
+        "author_uid": "73307818918",
+        "sec_uid": "MS4wLjABAAAAJYYx52GKURsYo4FOYH8e8AxLURSpPak4Tbge2eHSAPk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAJYYx52GKURsYo4FOYH8e8AxLURSpPak4Tbge2eHSAPk"
+      }
+    },
+    "first_seen_at": "2026-09-18T13:43:57+08:00",
+    "last_seen_at": "2026-09-18T13:43:57+08:00",
+    "fetch_runs": [
+      "2026-09-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7610296788692854181.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7610296788692854181.mp3",
+      "source": "download",
+      "processed_at": "2026-09-18T13:45:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7610296788692854181",
+      "transcript_raw": "春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）补充信息：春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）",
+      "transcript_clean": "春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）补充信息：春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-18/7610296788692854181.json",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7610296788692854181",
+      "summary": "偶俚张家港围绕“春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）补充信息：春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）。春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）补充信息：春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻） 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）补充信息：春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）补充信息：春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）补充信息：春节高速免费最后一秒，驾驶员幸运上演“压哨绝杀”，有司机卡点失败，交400多元。（来源：红星新闻）",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-18/7610296788692854181.json",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "last_error": null
+  },
+  "7070067599744240927": {
+    "video_id": "7070067599744240927",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "参谋长说车",
+      "video_id": "7070067599744240927",
+      "title": "新款传祺GS8，爆款元素拉满！",
+      "publish_time": "2022-03-01T20:58:00+08:00",
+      "video_url": "https://www.douyin.com/video/7070067599744240927",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6f12b71af7e0ab1513541506bb4ded22~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105067600&x-signature=2VrENQDO50hI3WKkUkGabb%2FuIAE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260918134420450D57BCFAF3042FBEBE",
+      "like_count": 1833,
+      "comment_count": 335,
+      "share_count": 338,
+      "collect_count": 136,
+      "description": "新款传祺GS8，爆款元素拉满！",
+      "text_hint": "新款传祺GS8，爆款元素拉满！",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/029f7ec4a598553abff36265615fb24c/6aacfab3/video/tos/cn/tos-cn-ve-0015c800/8676ff0fe8434c7aa81c5bff1e5ad963/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2669&bt=2669&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w6e7iHhd.W_T8X73-ApQX&mime_type=video_mp4&qs=0&rc=Nzo7Njw0OWdnNWdlNmY2ZUBpM2pyN2k6Zmx4OzMzNGkzM0AyLS4yYy41XjIxMjBgMGIzYSNtZC9qcjRfZ2JgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100H_102u_100o&dy_q=1789710260&l=20260918134420450D57BCFAF3042FBEBE",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7070067599744240927.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7070067599744240927.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 207.423,
+      "raw_payload": {
+        "aweme_id": "7070067599744240927",
+        "author_uid": "84768513779",
+        "sec_uid": "MS4wLjABAAAAv9s4V8PkfMPxe32quWRfZZevdrz4JTJ8uoOlI_Gjbic",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAv9s4V8PkfMPxe32quWRfZZevdrz4JTJ8uoOlI_Gjbic"
+      }
+    },
+    "first_seen_at": "2026-09-18T13:43:57+08:00",
+    "last_seen_at": "2026-09-18T13:43:57+08:00",
+    "fetch_runs": [
+      "2026-09-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7070067599744240927.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7070067599744240927.mp3",
+      "source": "download",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7070067599744240927",
+      "transcript_raw": "新款传祺GS8，爆款元素拉满！新款传祺GS8，爆款元素拉满！补充信息：新款传祺GS8，爆款元素拉满！",
+      "transcript_clean": "新款传祺GS8，爆款元素拉满！新款传祺GS8，爆款元素拉满！补充信息：新款传祺GS8，爆款元素拉满！",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-18/7070067599744240927.json",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7070067599744240927",
+      "summary": "参谋长说车围绕“新款传祺GS8，爆款元素拉满！新款传祺GS8，爆款元素拉满！补充信息：新款传祺GS8，爆款元素拉满”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "新款传祺GS8，爆款元素拉满！。新款传祺GS8，爆款元素拉满！新款传祺GS8，爆款元素拉满！补充信息：新款传祺GS8，爆款元素拉满！ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新款传祺GS8，爆款元素拉满！新款传祺GS8，爆款元素拉满！补充信息：新款传祺GS8，爆款元素拉满为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新款传祺GS8，爆款元素拉满！新款传祺GS8，爆款元素拉满！补充信息：新款传祺GS8，爆款元素拉满组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新款传祺GS8，爆款元素拉满！新款传祺GS8，爆款元素拉满！补充信息：新款传祺GS8，爆款元素拉满",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-18/7070067599744240927.json",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "last_error": null
+  },
+  "7230103022318275899": {
+    "video_id": "7230103022318275899",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "Ava__",
+      "video_id": "7230103022318275899",
+      "title": "青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园",
+      "publish_time": "2023-05-07T00:12:30+08:00",
+      "video_url": "https://www.douyin.com/video/7230103022318275899",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c4ef4a7e84e3057da7a6cf8f21512d20~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105067600&x-signature=kz60fqFL8EaHUoTPSJXhczxRA7w%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260918134423EB6FEE9DF54F2B6219F5",
+      "like_count": 37,
+      "comment_count": 11,
+      "share_count": 15,
+      "collect_count": 9,
+      "description": "青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园",
+      "text_hint": "青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园",
+      "topic_tags": [
+        "成人礼",
+        "高考",
+        "校园"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/97648e6c4b81be0fa57883ad9f0296da/6aacfb1a/video/tos/cn/tos-cn-ve-0015c800/oEgAYDmmkAWkfrlHAnB4yAHVeiIQCIb9jABWsu/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1709&bt=1709&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wJe7iHhd.W_T8X73-ApQX&mime_type=video_mp4&qs=0&rc=ZTQ4aDg1OTo4Z2U0ZGU2NkBpam9majY6Zjw5azMzNGkzM0AzYjMtXy4uXzUxMi9hXmNfYSNvbDNpcjRfMV9gLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1789710263&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260918134423EB6FEE9DF54F2B6219F5",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7230103022318275899.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7230103022318275899.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 307.534,
+      "raw_payload": {
+        "aweme_id": "7230103022318275899",
+        "author_uid": "325879072299511",
+        "sec_uid": "MS4wLjABAAAAPfPfp3Vx5ewWECv9Tdqy9jh_8ZxGwLXmZGCO8GSI768",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAPfPfp3Vx5ewWECv9Tdqy9jh_8ZxGwLXmZGCO8GSI768"
+      }
+    },
+    "first_seen_at": "2026-09-18T13:43:57+08:00",
+    "last_seen_at": "2026-09-18T13:43:57+08:00",
+    "fetch_runs": [
+      "2026-09-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7230103022318275899.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7230103022318275899.mp3",
+      "source": "download",
+      "processed_at": "2026-09-18T13:45:45+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7230103022318275899",
+      "transcript_raw": "青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园补充信息：青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园关键词：成人礼、高考、校园",
+      "transcript_clean": "青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园补充信息：青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园关键词：成人礼、高考、校园",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-18/7230103022318275899.json",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7230103022318275899",
+      "summary": "Ava__围绕“成人礼”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园。青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园补充信息：青春正盛世 奋斗正当时｜陆川县第二中学2020级成人礼🎈\n#成人礼 #高考 #校园关键词：成人礼、高考、校园 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "成人礼为什么总是做不出来结果？",
+        "先把高考想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕成人礼组织标题与开头。",
+        "用高考和校园补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "成人礼",
+        "高考",
+        "校园"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-18/7230103022318275899.json",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "last_error": null
+  },
+  "7587998679342346981": {
+    "video_id": "7587998679342346981",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7587998679342346981",
+      "title": "7步迈向财务自由之路 #搞钱 #读书笔记 #手写笔记 #认知觉醒 #财务自由",
+      "publish_time": "2025-12-26T03:10:00+08:00",
+      "video_url": "https://www.douyin.com/video/7587998679342346981",
+      "cover_url": "",
+      "like_count": 33,
+      "comment_count": 1,
+      "share_count": 19,
+      "collect_count": 5,
+      "description": "7步迈向财务自由之路 #搞钱 #读书笔记 #手写笔记 #认知觉醒 #财务自由",
+      "text_hint": "7步迈向财务自由之路 #搞钱 #读书笔记 #手写笔记 #认知觉醒 #财务自由",
+      "topic_tags": [
+        "搞钱",
+        "读书笔记",
+        "手写笔记",
+        "认知觉醒",
+        "财务自由"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d7cebd55-5dda-4989-bc58-ff9cb6ce0fa6",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7587998679342346981",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-18T13:43:57+08:00",
+    "last_seen_at": "2026-09-18T13:43:57+08:00",
+    "fetch_runs": [
+      "2026-09-18"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7207641445698751756": {
+    "video_id": "7207641445698751756",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "拜托叫我林先生",
+      "video_id": "7207641445698751756",
+      "title": "中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记",
+      "publish_time": "2023-03-07T11:30:33+08:00",
+      "video_url": "https://www.douyin.com/video/7207641445698751756",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6d6abda1daf217ffa77a5f23a42d07ac~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105067600&x-signature=iG7eu9VxC3cC3ieAlA0xezINlPA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609181344463B9D89275A93CE1E2982",
+      "like_count": 101898,
+      "comment_count": 7932,
+      "share_count": 900,
+      "collect_count": 1941,
+      "description": "中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记",
+      "text_hint": "中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记",
+      "topic_tags": [
+        "林先生的环球旅行",
+        "环球旅行",
+        "非游记"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b4be218960df3bfb80598e4b83db8683/6aacfc3d/video/tos/cn/tos-cn-ve-0015c800/oYDzK9PohM7TU4fgkvaAOsqNCfI9BtABGIA4tm/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3607&bt=3607&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wxb7iHhd.W_T8X73-ApQX&mime_type=video_mp4&qs=0&rc=ZzM1ZjZoPDc0NDkzO2dpOUBpM3R0ZTs6ZnBkajMzNGkzM0A2L2JfNjI1Ni0xLzVgLTYzYSMyYDYucjRnczBgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100B_100D_100J_100o_100w&dy_q=1789710286&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202609181344463B9D89275A93CE1E2982",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7207641445698751756.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7207641445698751756.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 575.9,
+      "raw_payload": {
+        "aweme_id": "7207641445698751756",
+        "author_uid": "71576942709",
+        "sec_uid": "MS4wLjABAAAA4t2q0oup1B0yq9jd0kKoNLpu8I5LZZ8SI59aQfCUCwo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4t2q0oup1B0yq9jd0kKoNLpu8I5LZZ8SI59aQfCUCwo"
+      }
+    },
+    "first_seen_at": "2026-09-18T13:43:57+08:00",
+    "last_seen_at": "2026-09-18T13:43:57+08:00",
+    "fetch_runs": [
+      "2026-09-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7207641445698751756.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7207641445698751756.mp3",
+      "source": "download",
+      "processed_at": "2026-09-18T13:49:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7207641445698751756",
+      "transcript_raw": "中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记补充信息：中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记关键词：林先生的环球旅行、环球旅行、非游记",
+      "transcript_clean": "中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记补充信息：中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记关键词：林先生的环球旅行、环球旅行、非游记",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-18/7207641445698751756.json",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7207641445698751756",
+      "summary": "拜托叫我林先生围绕“林先生的环球旅行”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记。中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记补充信息：中国小哥单枪匹马环游世界一年回国，从失意到得意到底发生了什么 #林先生的环球旅行 #环球旅行  #非游记关键词：林先生的环球旅行、环球旅行、非游记 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "林先生的环球旅行为什么总是做不出来结果？",
+        "先把环球旅行想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕林先生的环球旅行组织标题与开头。",
+        "用环球旅行和非游记补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "林先生的环球旅行",
+        "环球旅行",
+        "非游记"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-18/7207641445698751756.json",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "last_error": null
+  },
+  "7213683100709063939": {
+    "video_id": "7213683100709063939",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "长春欣鑫君子兰小欣",
+      "video_id": "7213683100709063939",
+      "title": "第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花",
+      "publish_time": "2023-03-23T18:15:23+08:00",
+      "video_url": "https://www.douyin.com/video/7213683100709063939",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/fa8f7ef018debbc32dedfc21701d82f2~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105067600&x-signature=dJeNnEFIZ0dIpNEhKvC%2BBOsOe60%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026091813444885C393F6ADA390298241",
+      "like_count": 101,
+      "comment_count": 19,
+      "share_count": 22,
+      "collect_count": 14,
+      "description": "第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花",
+      "text_hint": "第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花",
+      "topic_tags": [
+        "君子兰家庭养殖经验分享",
+        "君子兰养殖",
+        "花卉养护",
+        "君子兰",
+        "君子兰开花"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d1ba5cfef9dbb4a15b2c9611bdc5ab5d/6aacfb36/video/tos/cn/tos-cn-ve-0015c800/oMBqwcNhhdI0DqyyA4RUeJ7fUt0DPvADAz1Bgl/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2816&bt=2816&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9w0b7iHhd.W_T8X73-ApQX&mime_type=video_mp4&qs=0&rc=NTk7ZjtpZmg7M2k3NmQ7N0Bpam5kaDQ6Zmg1ajMzNGkzM0AxMjQ2YTA0XzUxYmNjMC1gYSNuX3FwcjRvYWJgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100B_100D_100J_100o_100w&dy_q=1789710288&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026091813444885C393F6ADA390298241",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7213683100709063939.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7213683100709063939.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 310.544,
+      "raw_payload": {
+        "aweme_id": "7213683100709063939",
+        "author_uid": "104908441532",
+        "sec_uid": "MS4wLjABAAAAUuDUnc3yGJMxhRwtg-WDI3BIBSgTNLh7yeQUBV4VM0s",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAUuDUnc3yGJMxhRwtg-WDI3BIBSgTNLh7yeQUBV4VM0s"
+      }
+    },
+    "first_seen_at": "2026-09-18T13:43:57+08:00",
+    "last_seen_at": "2026-09-18T13:43:57+08:00",
+    "fetch_runs": [
+      "2026-09-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7213683100709063939.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-18/7213683100709063939.mp3",
+      "source": "download",
+      "processed_at": "2026-09-18T13:46:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7213683100709063939",
+      "transcript_raw": "第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花补充信息：第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花关键词：君子兰家庭养殖经验分享、君子兰养殖、花卉养护、君子兰、君子兰开花",
+      "transcript_clean": "第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花补充信息：第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花关键词：君子兰家庭养殖经验分享、君子兰养殖、花卉养护、君子兰、君子兰开花",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-18/7213683100709063939.json",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7213683100709063939",
+      "summary": "长春欣鑫君子兰小欣围绕“君子兰家庭养殖经验分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花。第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花补充信息：第十七届长春君子兰花展盛大开幕，小欣带您看花展 #君子兰家庭养殖经验分享 #君子兰养殖 #花卉养护 #君子兰 #君子兰开花关键词：君子兰家庭养殖经验分享、君子兰养殖、花卉养护、君子兰、君子兰开花 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "君子兰家庭养殖经验分享为什么总是做不出来结果？",
+        "先把君子兰养殖想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕君子兰家庭养殖经验分享组织标题与开头。",
+        "用君子兰养殖和花卉养护补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "君子兰家庭养殖经验分享",
+        "君子兰养殖",
+        "花卉养护"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-18/7213683100709063939.json",
+      "processed_at": "2026-09-18T13:49:37+08:00"
+    },
+    "last_error": null
+  },
+  "7464427823936163131": {
+    "video_id": "7464427823936163131",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7464427823936163131",
+      "title": "挑战走进100支业余足球队，第21期，打牛奶啰足球俱乐部，优秀的企业和优秀的球队会擦出怎样的火花？@杨问乐乐乐 #足球#业余足球 #走进100支业余足球队",
+      "publish_time": "2025-01-27T03:12:00+08:00",
+      "video_url": "https://www.douyin.com/video/7464427823936163131",
+      "cover_url": "",
+      "like_count": 149,
+      "comment_count": 19,
+      "share_count": 8,
+      "collect_count": 36,
+      "description": "挑战走进100支业余足球队，第21期，打牛奶啰足球俱乐部，优秀的企业和优秀的球队会擦出怎样的火花？@杨问乐乐乐 #足球#业余足球 #走进100支业余足球队",
+      "text_hint": "挑战走进100支业余足球队，第21期，打牛奶啰足球俱乐部，优秀的企业和优秀的球队会擦出怎样的火花？@杨问乐乐乐 #足球#业余足球 #走进100支业余足球队",
+      "topic_tags": [
+        "足球",
+        "业余足球",
+        "走进100支业余足球队"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/4de2131d-9a41-4588-a23a-5901ad81de1c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7464427823936163131",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-18T13:43:57+08:00",
+    "last_seen_at": "2026-09-18T13:43:57+08:00",
+    "fetch_runs": [
+      "2026-09-18"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
