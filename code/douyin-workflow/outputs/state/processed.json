@@ -46924,5 +46924,636 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7686741723633395956": {
+    "video_id": "7686741723633395956",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "澎澎妈咪",
+      "video_id": "7686741723633395956",
+      "title": "九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员",
+      "publish_time": "2026-09-18T13:23:44+08:00",
+      "video_url": "https://www.douyin.com/video/7686741723633395956",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/owAIy7EgN6AFNEMyi690trfEJoD8ABDIeEtqEs~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105154000&x-signature=ZaYAPTmJt97au89qgiboRq9NDDU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609191338595FFEAB40150281F3BE13",
+      "like_count": 27,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员",
+      "text_hint": "九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员",
+      "topic_tags": [
+        "升旗小队员"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e552b12448c9c6d974dc993055ab311a/6aae4a32/video/tos/cn/tos-cn-ve-15/oAyt0FEAEEqIgureMsfoNn7A9DEgqDNIAOJuBZ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=497&bt=497&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9w_b3iHhd.IanhXR3-ApQX&mime_type=video_mp4&qs=0&rc=ZTs1MzlkNTRoZjY2NmlmOEBpam5rM3A5cmhmZDMzNGkzM0BeY14tYl4yNTQxLi42My0yYSMzcWRlMmRzaGphLS1kLWFzcw%3D%3D&btag=80000e00010000&cquery=100o_100w_100B_100x_100z&dy_q=1789796339&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202609191338595FFEAB40150281F3BE13",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7686741723633395956.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7686741723633395956.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 15.034,
+      "raw_payload": {
+        "aweme_id": "7686741723633395956",
+        "author_uid": "84630477723",
+        "sec_uid": "MS4wLjABAAAAHwKRrdgzHSbNN1lWmHmba_FdzEOPPwLlqs9igcT6-VE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHwKRrdgzHSbNN1lWmHmba_FdzEOPPwLlqs9igcT6-VE"
+      }
+    },
+    "first_seen_at": "2026-09-19T13:38:46+08:00",
+    "last_seen_at": "2026-09-19T13:38:46+08:00",
+    "fetch_runs": [
+      "2026-09-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7686741723633395956.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7686741723633395956.mp3",
+      "source": "download",
+      "processed_at": "2026-09-19T13:40:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7686741723633395956",
+      "transcript_raw": "九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员补充信息：九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员关键词：升旗小队员",
+      "transcript_clean": "九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员补充信息：九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员关键词：升旗小队员",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-19/7686741723633395956.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "analysis": {
+      "video_id": "7686741723633395956",
+      "summary": "澎澎妈咪围绕“升旗小队员”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员。九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员补充信息：九一八｜担任升旗手\n铭记历史，警钟长鸣。\n少年当自强，吾辈当奋进🇨🇳#升旗小队员关键词：升旗小队员 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "升旗小队员为什么总是做不出来结果？",
+        "先把铭记历史，警钟长鸣想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕升旗小队员组织标题与开头。",
+        "用铭记历史，警钟长鸣和九一八｜担任升旗手补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "升旗小队员",
+        "铭记历史，警钟长鸣",
+        "九一八｜担任升旗手"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-19/7686741723633395956.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "last_error": null
+  },
+  "7595557934332193894": {
+    "video_id": "7595557934332193894",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "化妆师薛冰冰",
+      "video_id": "7595557934332193894",
+      "title": "当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所",
+      "publish_time": "2026-01-15T20:04:03+08:00",
+      "video_url": "https://www.douyin.com/video/7595557934332193894",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1fdcf7e9418640957306e7f85d896c46~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105154000&x-signature=Im22m3ymJbxJwEpR9e3qYc%2Fd5zk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609191339021752C9019DF5E2A6A2F7",
+      "like_count": 31025,
+      "comment_count": 256,
+      "share_count": 1306,
+      "collect_count": 4606,
+      "description": "当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所",
+      "text_hint": "当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所",
+      "topic_tags": [
+        "单依纯",
+        "新年生财妆又美又旺",
+        "潮妆研究所"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/f41e2843a89c501551a91ddba1c5e639/6aae4b97/video/tos/cn/tos-cn-ve-15c000-ce/oEJEj6fuIVnAoTaBYokDfEL92JAFQiMwxR4pEO/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1098&bt=1098&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wqb3iHhd.IanhXR3-ApQX&mime_type=video_mp4&qs=0&rc=OTpkZDtpPGlmNzloZTlpOEBpanI6PG05cjVmODMzbGkzNUAwL2NfXy8yXjAxNC5jMjU0YSMycm5pMmRjb2hhLS1kLTVzcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100B_100x_100z_100o_100w&dy_q=1789796342&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202609191339021752C9019DF5E2A6A2F7&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7595557934332193894.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7595557934332193894.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 369.3,
+      "raw_payload": {
+        "aweme_id": "7595557934332193894",
+        "author_uid": "2005163888360461",
+        "sec_uid": "MS4wLjABAAAAQn3LB_9nM7zI8bb84sk75jUWSJJm2J8s79KV6ZcW8kHc_8OB0QlC99JW3vNZyzVn",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQn3LB_9nM7zI8bb84sk75jUWSJJm2J8s79KV6ZcW8kHc_8OB0QlC99JW3vNZyzVn"
+      }
+    },
+    "first_seen_at": "2026-09-19T13:38:46+08:00",
+    "last_seen_at": "2026-09-19T13:38:46+08:00",
+    "fetch_runs": [
+      "2026-09-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7595557934332193894.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7595557934332193894.mp3",
+      "source": "download",
+      "processed_at": "2026-09-19T13:40:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7595557934332193894",
+      "transcript_raw": "当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所补充信息：当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所关键词：单依纯、新年生财妆又美又旺、潮妆研究所",
+      "transcript_clean": "当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所补充信息：当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所关键词：单依纯、新年生财妆又美又旺、潮妆研究所",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-19/7595557934332193894.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "analysis": {
+      "video_id": "7595557934332193894",
+      "summary": "化妆师薛冰冰围绕“单依纯”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所。当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所补充信息：当我把给单依纯化的妆复刻在百万博主脸上 化妆：薛冰冰#单依纯 #新年生财妆又美又旺 #潮妆研究所关键词：单依纯、新年生财妆又美又旺、潮妆研究所 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "单依纯为什么总是做不出来结果？",
+        "先把新年生财妆又美又旺想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕单依纯组织标题与开头。",
+        "用新年生财妆又美又旺和潮妆研究所补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "单依纯",
+        "新年生财妆又美又旺",
+        "潮妆研究所"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-19/7595557934332193894.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "last_error": null
+  },
+  "7322395115744414986": {
+    "video_id": "7322395115744414986",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "平凉飞奥名车（小飞）",
+      "video_id": "7322395115744414986",
+      "title": "花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行",
+      "publish_time": "2024-01-10T17:13:03+08:00",
+      "video_url": "https://www.douyin.com/video/7322395115744414986",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/414443ed43630f464184dfb7f2c65693~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105154000&x-signature=uQnuykSjNoixJwtg%2FRY%2BKWE%2F8TM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260919133905E8F80297296A21B6D018",
+      "like_count": 861,
+      "comment_count": 211,
+      "share_count": 70,
+      "collect_count": 48,
+      "description": "花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行",
+      "text_hint": "花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行",
+      "topic_tags": [
+        "二手车",
+        "平凉飞奥车行"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/002d1d524ba39d4f423c721887337c5e/6aae4b02/video/tos/cn/tos-cn-ve-15/oA9XQlBlAgQIqc9K7D5HbiPAem9nneT9lCFdAA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3531&bt=3531&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wRb3iHhd.IanhXR3-ApQX&mime_type=video_mp4&qs=0&rc=NWg2NjM0PGg2N2ZlNjo1ZkBpajozZDw6ZnM4cDMzNGkzM0AvXi0vY2FjXy0xXi5hMjIwYSNmMnBzcjRncmNgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100B_100H_100K_100o_100w&dy_q=1789796345&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260919133905E8F80297296A21B6D018",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7322395115744414986.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7322395115744414986.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 217.167,
+      "raw_payload": {
+        "aweme_id": "7322395115744414986",
+        "author_uid": "68096264072",
+        "sec_uid": "MS4wLjABAAAABCi2HN4vVaAgV5Voog1PtZREUgr4sZot5KiTQIFeRbw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABCi2HN4vVaAgV5Voog1PtZREUgr4sZot5KiTQIFeRbw"
+      }
+    },
+    "first_seen_at": "2026-09-19T13:38:46+08:00",
+    "last_seen_at": "2026-09-19T13:38:46+08:00",
+    "fetch_runs": [
+      "2026-09-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7322395115744414986.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7322395115744414986.mp3",
+      "source": "download",
+      "processed_at": "2026-09-19T13:42:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7322395115744414986",
+      "transcript_raw": "花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行补充信息：花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行关键词：二手车、平凉飞奥车行",
+      "transcript_clean": "花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行补充信息：花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行关键词：二手车、平凉飞奥车行",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-19/7322395115744414986.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "analysis": {
+      "video_id": "7322395115744414986",
+      "summary": "平凉飞奥名车（小飞）围绕“二手车”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行。花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行补充信息：花两三万能不能买到年限近，公里数小，合资的自动挡代步车，今天带你真实一把！@DOU+小助手 #二手车 #平凉飞奥车行关键词：二手车、平凉飞奥车行 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "二手车为什么总是做不出来结果？",
+        "先把平凉飞奥车行想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕二手车组织标题与开头。",
+        "用平凉飞奥车行和#二手车补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "二手车",
+        "平凉飞奥车行",
+        "#二手车"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-19/7322395115744414986.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "last_error": null
+  },
+  "7339170990695435556": {
+    "video_id": "7339170990695435556",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "日明阳",
+      "video_id": "7339170990695435556",
+      "title": "西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog",
+      "publish_time": "2024-02-24T22:12:05+08:00",
+      "video_url": "https://www.douyin.com/video/7339170990695435556",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a1fbdfd0e83209e0be2f1c30b0cf7f78~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105154000&x-signature=0JUnYYIQUGiul9PDoWH2itWE39Y%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026091913390884DA4EFFA4DF6799EFE8",
+      "like_count": 121,
+      "comment_count": 62,
+      "share_count": 60,
+      "collect_count": 48,
+      "description": "西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog",
+      "text_hint": "西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog",
+      "topic_tags": [
+        "西藏",
+        "西藏旅游攻略",
+        "旅游",
+        "旅行",
+        "vlog"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/92646a8461bc4ca7b37aad182e9b13e4/6aae4b3d/video/cn/mps/realtime/v1/r/p/v0300fg10000cncv1rrc77u5p25plam0/bd995c6c126c47c79979719827fa5e4f/0f83e61b571ca773f6802341ecc7210f/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=508&bt=508&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNb~VQ9wTb3iHhd.IanhXR3-ApQX&mime_type=video_mp4&qs=0&rc=aWhkOjs0PDw6OmY1ZmY8Z0BpM2RzNTg6ZnV5cTMzNGkzM0AxMmMvNjQ0NmAxMy4zMjZfYSNqaTJtcjRvLmBgLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100K_100o_100w_100B_100H&definition=720p&dy_q=1789796348&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7339170990695435556&l=2026091913390884DA4EFFA4DF6799EFE8&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7339170990695435556.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7339170990695435556.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 273.751,
+      "raw_payload": {
+        "aweme_id": "7339170990695435556",
+        "author_uid": "3916926180139179",
+        "sec_uid": "MS4wLjABAAAA1ua3OP4g0UknxYHVpjJqaUOVCkFX8COVjvXGjffqRqdzDw_8v8ZQcpiT_YMlgsKG",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA1ua3OP4g0UknxYHVpjJqaUOVCkFX8COVjvXGjffqRqdzDw_8v8ZQcpiT_YMlgsKG"
+      }
+    },
+    "first_seen_at": "2026-09-19T13:38:46+08:00",
+    "last_seen_at": "2026-09-19T13:38:46+08:00",
+    "fetch_runs": [
+      "2026-09-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7339170990695435556.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7339170990695435556.mp3",
+      "source": "download",
+      "processed_at": "2026-09-19T13:41:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7339170990695435556",
+      "transcript_raw": "西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog补充信息：西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog关键词：西藏、西藏旅游攻略、旅游、旅行、vlog",
+      "transcript_clean": "西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog补充信息：西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog关键词：西藏、西藏旅游攻略、旅游、旅行、vlog",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-19/7339170990695435556.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "analysis": {
+      "video_id": "7339170990695435556",
+      "summary": "日明阳围绕“西藏”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog。西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog补充信息：西藏旅游报团指南、跟团真实感受、避雷指南以及一些真实建议！ 要去西藏旅游的朋友千万不能错过，此次出镜的还是我的老搭档万喜同志，希望大家在西藏玩的开心过的愉快！#西藏 #西藏旅游攻略 #旅游 #旅行 #vlog关键词：西藏、西藏旅游攻略、旅游、旅行、vlog 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "西藏为什么总是做不出来结果？",
+        "先把西藏旅游攻略想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕西藏组织标题与开头。",
+        "用西藏旅游攻略和旅游补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "西藏",
+        "西藏旅游攻略",
+        "旅游"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-19/7339170990695435556.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "last_error": null
+  },
+  "7574258884103141477": {
+    "video_id": "7574258884103141477",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7574258884103141477",
+      "title": "第720集▶️日常对话💙每日一练🔀坚持打卡#看美剧学英语 #英语听力 #每日英语口语 #英语口语学习视频 #看电影学英语",
+      "publish_time": "2025-11-19T09:08:00+08:00",
+      "video_url": "https://www.douyin.com/video/7574258884103141477",
+      "cover_url": "",
+      "like_count": 22,
+      "comment_count": 1,
+      "share_count": 10,
+      "collect_count": 2,
+      "description": "第720集▶️日常对话💙每日一练🔀坚持打卡#看美剧学英语 #英语听力 #每日英语口语 #英语口语学习视频 #看电影学英语",
+      "text_hint": "第720集▶️日常对话💙每日一练🔀坚持打卡#看美剧学英语 #英语听力 #每日英语口语 #英语口语学习视频 #看电影学英语",
+      "topic_tags": [
+        "看美剧学英语",
+        "英语听力",
+        "每日英语口语",
+        "英语口语学习视频",
+        "看电影学英语"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/27af6810-da3a-4942-9bb1-2fa78811bfd2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7574258884103141477",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-19T13:38:46+08:00",
+    "last_seen_at": "2026-09-19T13:38:46+08:00",
+    "fetch_runs": [
+      "2026-09-19"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7526183103930371343": {
+    "video_id": "7526183103930371343",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "霆",
+      "video_id": "7526183103930371343",
+      "title": "全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配",
+      "publish_time": "2025-07-12T21:14:20+08:00",
+      "video_url": "https://www.douyin.com/video/7526183103930371343",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/9b831bf2cf733e538dd4df528a7bcbf8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105154000&x-signature=i%2BUBwXWoyWVMOM3CHUTZkSiMXE8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260919133933CFB49EEA229365AB9014",
+      "like_count": 41,
+      "comment_count": 43,
+      "share_count": 10,
+      "collect_count": 9,
+      "description": "全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配",
+      "text_hint": "全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配",
+      "topic_tags": [
+        "阴阳师",
+        "游戏",
+        "痒痒鼠",
+        "小赛季",
+        "低配"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b76e62b20ad1ab03a6d7ec3d4e4bceda/6aae4b0d/video/tos/cn/tos-cn-ve-0015c800/oEf193uAARBESPgkelD9CoEqcIg9Vj93lFnAlH/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3937&bt=3937&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9woC5iHhd.IanhXR3-ApQX&mime_type=video_mp4&qs=0&rc=OjRmNDtlNTppZWk1OTM2N0BpanduNHg5cnU4NDMzNGkzM0BeNjA2YmA1Nl4xXzA1MDBeYSNnc3JmMmRrcm1hLS1kLS9zcw%3D%3D&btag=40000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1789796373&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260919133933CFB49EEA229365AB9014",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7526183103930371343.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7526183103930371343.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 200.334,
+      "raw_payload": {
+        "aweme_id": "7526183103930371343",
+        "author_uid": "66842835057",
+        "sec_uid": "MS4wLjABAAAAe-hWIFd_c_To7bHm9yAkAFEys1pZD9nbP87M_-JAI9Y",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAe-hWIFd_c_To7bHm9yAkAFEys1pZD9nbP87M_-JAI9Y"
+      }
+    },
+    "first_seen_at": "2026-09-19T13:38:46+08:00",
+    "last_seen_at": "2026-09-19T13:38:46+08:00",
+    "fetch_runs": [
+      "2026-09-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7526183103930371343.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7526183103930371343.mp3",
+      "source": "download",
+      "processed_at": "2026-09-19T13:41:27+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7526183103930371343",
+      "transcript_raw": "全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配补充信息：全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配关键词：阴阳师、游戏、痒痒鼠、小赛季、低配",
+      "transcript_clean": "全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配补充信息：全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配关键词：阴阳师、游戏、痒痒鼠、小赛季、低配",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-19/7526183103930371343.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "analysis": {
+      "video_id": "7526183103930371343",
+      "summary": "霆围绕“阴阳师”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配。全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配补充信息：全网最低配128 596⭐散件最快157.21 火灵摩154.52 一千六百个满级魂 128配置分享#阴阳师 #游戏 #痒痒鼠 #小赛季 #低配关键词：阴阳师、游戏、痒痒鼠、小赛季、低配 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "阴阳师为什么总是做不出来结果？",
+        "先把游戏想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕阴阳师组织标题与开头。",
+        "用游戏和痒痒鼠补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "阴阳师",
+        "游戏",
+        "痒痒鼠"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-19/7526183103930371343.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "last_error": null
+  },
+  "7151021016494443807": {
+    "video_id": "7151021016494443807",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "地理科普局",
+      "video_id": "7151021016494443807",
+      "title": "黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界",
+      "publish_time": "2022-10-05T21:34:24+08:00",
+      "video_url": "https://www.douyin.com/video/7151021016494443807",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5e8aefa15d64dfe133c96309904aeb9c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105154000&x-signature=e7X9MhBpSMZyY2gWAPX6xcueqfs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260919133936C81E1D701E19C094DB86",
+      "like_count": 1892,
+      "comment_count": 37,
+      "share_count": 420,
+      "collect_count": 363,
+      "description": "黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界",
+      "text_hint": "黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界",
+      "topic_tags": [
+        "地理知识",
+        "探索地球",
+        "看世界"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/57ca21aa655e242db3721de3fa791b7f/6aae4b2f/video/tos/cn/tos-cn-ve-15c001-alinc2/f47583420e6049b9b23141af138411c8/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2070&bt=2070&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9whC5iHhd.IanhXR3-ApQX&mime_type=video_mp4&qs=0&rc=aTlpZmZnNGc4PDtnZzRnZ0BpampxdzQ6ZnJyZjMzNGkzM0AwYTAyNC1iNi0xNGAxMWBfYSNsb2BncjRfY3JgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cc=1f&cquery=100B_100D_100J_100o_100w&dy_q=1789796377&l=20260919133936C81E1D701E19C094DB86&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7151021016494443807.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7151021016494443807.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 230.366,
+      "raw_payload": {
+        "aweme_id": "7151021016494443807",
+        "author_uid": "932848908899403",
+        "sec_uid": "MS4wLjABAAAAFLiU7BSSGKleJ6lkprNLcvgYIDnsUgLiMLOvdgm4xF4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAFLiU7BSSGKleJ6lkprNLcvgYIDnsUgLiMLOvdgm4xF4"
+      }
+    },
+    "first_seen_at": "2026-09-19T13:38:46+08:00",
+    "last_seen_at": "2026-09-19T13:38:46+08:00",
+    "fetch_runs": [
+      "2026-09-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7151021016494443807.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-19/7151021016494443807.mp3",
+      "source": "download",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7151021016494443807",
+      "transcript_raw": "黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界补充信息：黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界关键词：地理知识、探索地球、看世界",
+      "transcript_clean": "黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界补充信息：黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界关键词：地理知识、探索地球、看世界",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-19/7151021016494443807.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "analysis": {
+      "video_id": "7151021016494443807",
+      "summary": "地理科普局围绕“地理知识”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界。黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界补充信息：黑瞎子岛，中俄共有的岛屿，回归17年，如今发展的怎么样了？ #地理知识 #探索地球 #看世界关键词：地理知识、探索地球、看世界 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "地理知识为什么总是做不出来结果？",
+        "先把探索地球想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕地理知识组织标题与开头。",
+        "用探索地球和看世界补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "地理知识",
+        "探索地球",
+        "看世界"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-19/7151021016494443807.json",
+      "processed_at": "2026-09-19T13:43:38+08:00"
+    },
+    "last_error": null
+  },
+  "7546900604912667914": {
+    "video_id": "7546900604912667914",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7546900604912667914",
+      "title": "王者M4究竟选择哪一款！！！#cf手游 #cf手游爽扣节 #2025穿越火线嘉年华",
+      "publish_time": "2025-09-06T09:08:00+08:00",
+      "video_url": "https://www.douyin.com/video/7546900604912667914",
+      "cover_url": "",
+      "like_count": 3120,
+      "comment_count": 484,
+      "share_count": 217,
+      "collect_count": 123,
+      "description": "王者M4究竟选择哪一款！！！#cf手游 #cf手游爽扣节 #2025穿越火线嘉年华",
+      "text_hint": "王者M4究竟选择哪一款！！！#cf手游 #cf手游爽扣节 #2025穿越火线嘉年华",
+      "topic_tags": [
+        "cf手游",
+        "cf手游爽扣节",
+        "2025穿越火线嘉年华"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/4079d5d7-3931-4627-9d22-389b3e8c146c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7546900604912667914",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-19T13:38:46+08:00",
+    "last_seen_at": "2026-09-19T13:38:46+08:00",
+    "fetch_runs": [
+      "2026-09-19"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
