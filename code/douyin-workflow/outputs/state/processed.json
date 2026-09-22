@@ -47555,5 +47555,583 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7687793538588214643": {
+    "video_id": "7687793538588214643",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "柳州王老师|紫荆鹤鸣教育",
+      "video_id": "7687793538588214643",
+      "title": "柳铁一中给四十六中高考贺信(双一流)#高考成绩",
+      "publish_time": "2026-09-21T09:25:19+08:00",
+      "video_url": "https://www.douyin.com/video/7687793538588214643",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/osQC3ZBelh3VLBASI7vm7D9GAIeBEtDeMAYUQ6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105413200&x-signature=M6WyeEBCCBoyX6mAlK%2FygRk%2FDps%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260922135923F2610A94A8B3D92FED6C",
+      "like_count": 56,
+      "comment_count": 10,
+      "share_count": 28,
+      "collect_count": 9,
+      "description": "柳铁一中给四十六中高考贺信(双一流)#高考成绩",
+      "text_hint": "柳铁一中给四十六中高考贺信(双一流)#高考成绩",
+      "topic_tags": [
+        "高考成绩"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1edbe30a571f6944d34dc842031838af/6ab24373/video/tos/cn/tos-cn-ve-15/o0ABN8ewYMVEeCZcSqGQZIBhEY77I7LAztABze/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=795&bt=795&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9w4r3wHhd.MlJhXR3-ApQX&mime_type=video_mp4&qs=0&rc=NWlmPDQ2aDVmNDRnZmc0OUBpangzbW45cnI7ZDMzNGkzM0BiLzU0LzY1NjMxLS9eNDVfYSNtbWxlMmQ0YmxhLS1kLS9zcw%3D%3D&btag=c0000e00008000&cquery=100w_100B_100x_100z_100o&dy_q=1790056763&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260922135923F2610A94A8B3D92FED6C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7687793538588214643.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7687793538588214643.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 8.662,
+      "raw_payload": {
+        "aweme_id": "7687793538588214643",
+        "author_uid": "2645857699640156",
+        "sec_uid": "MS4wLjABAAAASaTQ9VkBnOPSKM6Lp4FNwq-rBNrrnOTcnC2M4OjcJRvoO6JVE0Q_wSfXyInBRmPR",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAASaTQ9VkBnOPSKM6Lp4FNwq-rBNrrnOTcnC2M4OjcJRvoO6JVE0Q_wSfXyInBRmPR"
+      }
+    },
+    "first_seen_at": "2026-09-22T13:59:03+08:00",
+    "last_seen_at": "2026-09-22T13:59:03+08:00",
+    "fetch_runs": [
+      "2026-09-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7687793538588214643.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7687793538588214643.mp3",
+      "source": "download",
+      "processed_at": "2026-09-22T14:00:34+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7687793538588214643",
+      "transcript_raw": "柳铁一中给四十六中高考贺信(双一流)#高考成绩柳铁一中给四十六中高考贺信(双一流)#高考成绩补充信息：柳铁一中给四十六中高考贺信(双一流)#高考成绩关键词：高考成绩",
+      "transcript_clean": "柳铁一中给四十六中高考贺信(双一流)#高考成绩柳铁一中给四十六中高考贺信(双一流)#高考成绩补充信息：柳铁一中给四十六中高考贺信(双一流)#高考成绩关键词：高考成绩",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-22/7687793538588214643.json",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7687793538588214643",
+      "summary": "柳州王老师|紫荆鹤鸣教育围绕“高考成绩”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "柳铁一中给四十六中高考贺信(双一流)#高考成绩。柳铁一中给四十六中高考贺信(双一流)#高考成绩柳铁一中给四十六中高考贺信(双一流)#高考成绩补充信息：柳铁一中给四十六中高考贺信(双一流)#高考成绩关键词：高考成绩 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "高考成绩为什么总是做不出来结果？",
+        "先把柳铁一中给四十六中高考贺信(双一流)#高考成绩柳铁一中给四十六中高考贺信(双一流)#高考成绩补充信息：柳铁一中给四十六中高考贺信(双一流)#高考成绩关键词：高考成绩想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕高考成绩组织标题与开头。",
+        "用柳铁一中给四十六中高考贺信(双一流)#高考成绩柳铁一中给四十六中高考贺信(双一流)#高考成绩补充信息：柳铁一中给四十六中高考贺信(双一流)#高考成绩关键词：高考成绩和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "高考成绩",
+        "柳铁一中给四十六中高考贺信(双一流)#高考成绩柳铁一中给四十六中高考贺信(双一流)#高考成绩补充信息：柳铁一中给四十六中高考贺信(双一流)#高考成绩关键词：高考成绩",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-22/7687793538588214643.json",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "last_error": null
+  },
+  "7592395065248978249": {
+    "video_id": "7592395065248978249",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7592395065248978249",
+      "title": "在抖音记录美好生活20260922",
+      "publish_time": "2026-09-22T14:00:33+08:00",
+      "video_url": "https://www.douyin.com/video/7592395065248978249",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260922",
+      "text_hint": "在抖音记录美好生活20260922",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/743efe83-9a04-4749-befa-6803cb037178",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7592395065248978249",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-22T13:59:03+08:00",
+    "last_seen_at": "2026-09-22T13:59:03+08:00",
+    "fetch_runs": [
+      "2026-09-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7357481538575011106": {
+    "video_id": "7357481538575011106",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "李全峰闯世界",
+      "video_id": "7357481538575011106",
+      "title": "回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行",
+      "publish_time": "2024-04-14T06:26:22+08:00",
+      "video_url": "https://www.douyin.com/video/7357481538575011106",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e03145989e6610e1baf7e838039b58c8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105413200&x-signature=zE2Hf%2B%2BDIbunxINvyYFAHeXdRdw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609221359411286DCEBE80330D372D2",
+      "like_count": 20988,
+      "comment_count": 3633,
+      "share_count": 1268,
+      "collect_count": 2791,
+      "description": "回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行",
+      "text_hint": "回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行",
+      "topic_tags": [
+        "俄罗斯",
+        "自驾游",
+        "户外",
+        "旅行推荐官",
+        "旅行"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/835a6ecea7a68eba189ae41b5ca1c7f9/6ab24537/video/tos/cn/tos-cn-ve-15c001-alinc2/osIAobwbfgw9nyuERsBDAWBCCAGeIS2ImBNn5I/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2053&bt=2053&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9w8d3wHhd.MlJhXR3-ApQX&mime_type=video_mp4&qs=0&rc=aDU6ZWZkNDhnNmQzOjc3N0BpMzRzczM6Zm9qcjMzNGkzM0BjNGBiYi8uNWIxYGBiXmBiYSNoci9tcjRnM2FgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1790056781&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202609221359411286DCEBE80330D372D2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7357481538575011106.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7357481538575011106.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 442.467,
+      "raw_payload": {
+        "aweme_id": "7357481538575011106",
+        "author_uid": "103747839458",
+        "sec_uid": "MS4wLjABAAAAr0ZJyF_Dm0RhmMCHFnWV8hHknoAov0nF1jtyWqrzEOM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAr0ZJyF_Dm0RhmMCHFnWV8hHknoAov0nF1jtyWqrzEOM"
+      }
+    },
+    "first_seen_at": "2026-09-22T13:59:03+08:00",
+    "last_seen_at": "2026-09-22T13:59:03+08:00",
+    "fetch_runs": [
+      "2026-09-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7357481538575011106.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7357481538575011106.mp3",
+      "source": "download",
+      "processed_at": "2026-09-22T14:03:16+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7357481538575011106",
+      "transcript_raw": "回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行补充信息：回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行关键词：俄罗斯、自驾游、户外、旅行推荐官、旅行",
+      "transcript_clean": "回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行补充信息：回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行关键词：俄罗斯、自驾游、户外、旅行推荐官、旅行",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-22/7357481538575011106.json",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7357481538575011106",
+      "summary": "李全峰闯世界围绕“俄罗斯”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行。回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行补充信息：回来了再兄弟们汇报……#俄罗斯 #自驾游 #户外 #旅行推荐官 #旅行关键词：俄罗斯、自驾游、户外、旅行推荐官、旅行 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "俄罗斯为什么总是做不出来结果？",
+        "先把自驾游想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕俄罗斯组织标题与开头。",
+        "用自驾游和户外补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "俄罗斯",
+        "自驾游",
+        "户外"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-22/7357481538575011106.json",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "last_error": null
+  },
+  "7356383150529858854": {
+    "video_id": "7356383150529858854",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "聊聊冷知识",
+      "video_id": "7356383150529858854",
+      "title": "贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲",
+      "publish_time": "2024-04-11T07:24:00+08:00",
+      "video_url": "https://www.douyin.com/video/7356383150529858854",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/ocox4zg3FDi9IeSmAYAPQHIXb5A8pBAD3nU9Fe~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105413200&x-signature=G9HGB8kyxEUVI1tDA8CQmezx%2BAU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260922135948F2A9929BFE824A80F632",
+      "like_count": 4,
+      "comment_count": 0,
+      "share_count": 2,
+      "collect_count": 1,
+      "description": "贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲",
+      "text_hint": "贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲",
+      "topic_tags": [
+        "冷知识",
+        "科普",
+        "交响曲"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7208fb0f701db45c8be894f3156286c6/6ab24533/video/tos/cn/tos-cn-ve-0015c800/osQAuemIxBj3AFnjIbjfMDhgDqQSYFUozw5A9o/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=940&bt=940&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9w1d3wHhd.MlJhXR3-ApQX&mime_type=video_mp4&qs=0&rc=MzhmZzs0aTc7Ozg2ZmlkOUBpM3VlNWQ6ZnRrcjMzNGkzM0AvNDJeLl9jNWMxYi5gYV8tYSNqZzUvcjQwcF9gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1790056788&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260922135948F2A9929BFE824A80F632",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7356383150529858854.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7356383150529858854.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 431.834,
+      "raw_payload": {
+        "aweme_id": "7356383150529858854",
+        "author_uid": "896828193648383",
+        "sec_uid": "MS4wLjABAAAAFba2DS6H-2tgivg9ej_Vqd2XDoXkCBff1O4XUBwuCy0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAFba2DS6H-2tgivg9ej_Vqd2XDoXkCBff1O4XUBwuCy0"
+      }
+    },
+    "first_seen_at": "2026-09-22T13:59:03+08:00",
+    "last_seen_at": "2026-09-22T13:59:03+08:00",
+    "fetch_runs": [
+      "2026-09-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7356383150529858854.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7356383150529858854.mp3",
+      "source": "download",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7356383150529858854",
+      "transcript_raw": "贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲补充信息：贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲关键词：冷知识、科普、交响曲",
+      "transcript_clean": "贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲补充信息：贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲关键词：冷知识、科普、交响曲",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-22/7356383150529858854.json",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7356383150529858854",
+      "summary": "聊聊冷知识围绕“冷知识”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲。贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲补充信息：贝多芬《第十交响曲》是人工智能创作的#冷知识 #科普 #交响曲关键词：冷知识、科普、交响曲 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "冷知识为什么总是做不出来结果？",
+        "先把科普想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕冷知识组织标题与开头。",
+        "用科普和交响曲补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "冷知识",
+        "科普",
+        "交响曲"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-22/7356383150529858854.json",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "last_error": null
+  },
+  "7573198918307368869": {
+    "video_id": "7573198918307368869",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7573198918307368869",
+      "title": "在抖音记录美好生活20260922",
+      "publish_time": "2026-09-22T14:00:33+08:00",
+      "video_url": "https://www.douyin.com/video/7573198918307368869",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260922",
+      "text_hint": "在抖音记录美好生活20260922",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a265dba5-2f27-4505-9065-ba76220fe46e",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7573198918307368869",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-22T13:59:03+08:00",
+    "last_seen_at": "2026-09-22T13:59:03+08:00",
+    "fetch_runs": [
+      "2026-09-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7546226536316243251": {
+    "video_id": "7546226536316243251",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "火星来客",
+      "video_id": "7546226536316243251",
+      "title": "就是这款旗袍自己设计的，其他服装配饰搭配都好看！",
+      "publish_time": "2025-09-04T21:33:10+08:00",
+      "video_url": "https://www.douyin.com/video/7546226536316243251",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0051/oEUBiAtMMB08Q2o5EBIEifZgmlXA0IAW8gamQx~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105416800&x-signature=wc4B74pwhBwL7Y6QgdQ6DhG7CyE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260922140005C08678305785F629929F",
+      "like_count": 211,
+      "comment_count": 29,
+      "share_count": 3,
+      "collect_count": 64,
+      "description": "就是这款旗袍自己设计的，其他服装配饰搭配都好看！",
+      "text_hint": "就是这款旗袍自己设计的，其他服装配饰搭配都好看！",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/97de6f955bdd3d7e804452b6a73f0cf7/6ab24455/video/tos/cn/tos-cn-ve-51c800/okI5EQgrmltXAnB0MiKofQHWZo0BgiQQmaMNAJ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=708&bt=708&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wsd3wHhd.MlJhXR3-ApQX&mime_type=video_mp4&qs=0&rc=Ozc8aWU1PGc6PDtnZmZpPEBpMzZkbXk5cjhzNTMzNDYzM0AvMmAuXi0tNWIxNGJiNS5gYSNzc281MmRrXnBhLS1kMC9zcw%3D%3D&btag=c0000e00028000&cquery=102v_102u_100o_100w_100B&dy_q=1790056805&feature_id=b1cb202f98cf51d95e455ae01e100ce9&l=20260922140005C08678305785F629929F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7546226536316243251.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7546226536316243251.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 192.843,
+      "raw_payload": {
+        "aweme_id": "7546226536316243251",
+        "author_uid": "2373219967566313",
+        "sec_uid": "MS4wLjABAAAA_O0iwF39JUO29Wu70Sx64AeHsxh06GkLx2vV9RpLpBwchmt-rtjSOuVkvNBkRJHs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA_O0iwF39JUO29Wu70Sx64AeHsxh06GkLx2vV9RpLpBwchmt-rtjSOuVkvNBkRJHs"
+      }
+    },
+    "first_seen_at": "2026-09-22T13:59:03+08:00",
+    "last_seen_at": "2026-09-22T13:59:03+08:00",
+    "fetch_runs": [
+      "2026-09-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7546226536316243251.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7546226536316243251.mp3",
+      "source": "download",
+      "processed_at": "2026-09-22T14:00:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7546226536316243251",
+      "transcript_raw": "就是这款旗袍自己设计的，其他服装配饰搭配都好看！就是这款旗袍自己设计的，其他服装配饰搭配都好看！补充信息：就是这款旗袍自己设计的，其他服装配饰搭配都好看！",
+      "transcript_clean": "就是这款旗袍自己设计的，其他服装配饰搭配都好看！就是这款旗袍自己设计的，其他服装配饰搭配都好看！补充信息：就是这款旗袍自己设计的，其他服装配饰搭配都好看！",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-22/7546226536316243251.json",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7546226536316243251",
+      "summary": "火星来客围绕“就是这款旗袍自己设计的，其他服装配饰搭配都好看！就是这款旗袍自己设计的，其他服装配饰搭配都好看！补充信息：就是这款旗袍自己设计的，其他服装配饰搭配都好看”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "就是这款旗袍自己设计的，其他服装配饰搭配都好看！。就是这款旗袍自己设计的，其他服装配饰搭配都好看！就是这款旗袍自己设计的，其他服装配饰搭配都好看！补充信息：就是这款旗袍自己设计的，其他服装配饰搭配都好看！ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "就是这款旗袍自己设计的，其他服装配饰搭配都好看！就是这款旗袍自己设计的，其他服装配饰搭配都好看！补充信息：就是这款旗袍自己设计的，其他服装配饰搭配都好看为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕就是这款旗袍自己设计的，其他服装配饰搭配都好看！就是这款旗袍自己设计的，其他服装配饰搭配都好看！补充信息：就是这款旗袍自己设计的，其他服装配饰搭配都好看组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "就是这款旗袍自己设计的，其他服装配饰搭配都好看！就是这款旗袍自己设计的，其他服装配饰搭配都好看！补充信息：就是这款旗袍自己设计的，其他服装配饰搭配都好看",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-22/7546226536316243251.json",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "last_error": null
+  },
+  "7471651247565720842": {
+    "video_id": "7471651247565720842",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "雷哥丽姐~探钓黑坑",
+      "video_id": "7471651247565720842",
+      "title": "探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事",
+      "publish_time": "2025-02-15T22:23:13+08:00",
+      "video_url": "https://www.douyin.com/video/7471651247565720842",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/9eef648f06b24a3260c0ebac8617d7e2~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105416800&x-signature=f%2B5teBiArLNAQqROHp%2FIDxZNYEs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026092214001258E9F49FA385EF307B3A",
+      "like_count": 200,
+      "comment_count": 39,
+      "share_count": 44,
+      "collect_count": 14,
+      "description": "探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事",
+      "text_hint": "探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事",
+      "topic_tags": [
+        "户外",
+        "钓鱼人",
+        "黑坑青鱼",
+        "钓点分享",
+        "关注我每天分享不同的故事"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d8ba59eec6bf4d5f4c5fae0cb4c54bae/6ab24575/video/tos/cn/tos-cn-ve-0015c800/oQBd9nDKsSKfKC05xijMNiLESXtFIAnfAEgA9F/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2261&bt=2261&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9wVd3wHhd.MlJhXR3-ApQX&mime_type=video_mp4&qs=0&rc=ZzY0NjU7Nzo3Zmg3OTY5Z0Bpajhta3A5cjVkeDMzNGkzM0AvY15eNmJhXzExYjQuYTAwYSNfcmdsMmRzMmxgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1790056812&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026092214001258E9F49FA385EF307B3A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7471651247565720842.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7471651247565720842.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 473.2,
+      "raw_payload": {
+        "aweme_id": "7471651247565720842",
+        "author_uid": "104287387011",
+        "sec_uid": "MS4wLjABAAAA7hmdCBgLKFlbxfvw-e3KibYP0-rOPzmkPHfkccI4NAM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7hmdCBgLKFlbxfvw-e3KibYP0-rOPzmkPHfkccI4NAM"
+      }
+    },
+    "first_seen_at": "2026-09-22T13:59:03+08:00",
+    "last_seen_at": "2026-09-22T13:59:03+08:00",
+    "fetch_runs": [
+      "2026-09-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7471651247565720842.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-22/7471651247565720842.mp3",
+      "source": "download",
+      "processed_at": "2026-09-22T14:02:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7471651247565720842",
+      "transcript_raw": "探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事补充信息：探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事关键词：户外、钓鱼人、黑坑青鱼、钓点分享、关注我每天分享不同的故事",
+      "transcript_clean": "探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事补充信息：探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事关键词：户外、钓鱼人、黑坑青鱼、钓点分享、关注我每天分享不同的故事",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-22/7471651247565720842.json",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7471651247565720842",
+      "summary": "雷哥丽姐~探钓黑坑围绕“户外”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事。探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事补充信息：探钓黑坑，佳年华垂钓中心！#户外 #钓鱼人 #黑坑青鱼 #钓点分享 #关注我每天分享不同的故事关键词：户外、钓鱼人、黑坑青鱼、钓点分享、关注我每天分享不同的故事 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "户外为什么总是做不出来结果？",
+        "先把钓鱼人想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕户外组织标题与开头。",
+        "用钓鱼人和黑坑青鱼补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "户外",
+        "钓鱼人",
+        "黑坑青鱼"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-22/7471651247565720842.json",
+      "processed_at": "2026-09-22T14:03:49+08:00"
+    },
+    "last_error": null
+  },
+  "7567910200175491429": {
+    "video_id": "7567910200175491429",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7567910200175491429",
+      "title": "为什么刑案家属\"卖惨\"没有用？ “硬材料”配准法律条款写成法律意见，才能从“卖惨”升格为“法定从宽情节” #刑案家属 #请律师 #南京律师刑事奚备 #刑事辩护 #抖来普法2025",
+      "publish_time": "2025-11-02T03:57:00+08:00",
+      "video_url": "https://www.douyin.com/video/7567910200175491429",
+      "cover_url": "",
+      "like_count": 460,
+      "comment_count": 16,
+      "share_count": 130,
+      "collect_count": 67,
+      "description": "为什么刑案家属\"卖惨\"没有用？ “硬材料”配准法律条款写成法律意见，才能从“卖惨”升格为“法定从宽情节” #刑案家属 #请律师 #南京律师刑事奚备 #刑事辩护 #抖来普法2025",
+      "text_hint": "为什么刑案家属\"卖惨\"没有用？ “硬材料”配准法律条款写成法律意见，才能从“卖惨”升格为“法定从宽情节” #刑案家属 #请律师 #南京律师刑事奚备 #刑事辩护 #抖来普法2025",
+      "topic_tags": [
+        "刑案家属",
+        "请律师",
+        "南京律师刑事奚备",
+        "刑事辩护",
+        "抖来普法2025"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/71318a7a-a4c1-4830-a6e2-9e21339ea4ee",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7567910200175491429",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-22T13:59:03+08:00",
+    "last_seen_at": "2026-09-22T13:59:03+08:00",
+    "fetch_runs": [
+      "2026-09-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
