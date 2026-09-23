@@ -48133,5 +48133,620 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7688387085497445737": {
+    "video_id": "7688387085497445737",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "快乐女孩",
+      "video_id": "7688387085497445737",
+      "title": "#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常",
+      "publish_time": "2026-09-22T23:48:37+08:00",
+      "video_url": "https://www.douyin.com/video/7688387085497445737",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/ogoAAiGBg3hB0GUif01eACAxEkyQ1WIDVYJyUC~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105499600&x-signature=PCsJL9FC68nV%2FqMjgSyWz%2F63yxY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260923134453201FF941ED279EF87786",
+      "like_count": 7,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常",
+      "text_hint": "#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常",
+      "topic_tags": [
+        "上热门",
+        "大一新生日常"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/774a9e5b7374b730a84add31cb9a2054/6ab391a3/video/tos/cn/tos-cn-ve-15/osQAoMqhgR9uExIAFqANtQIDlgfCsvpBMKfRsj/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2255&bt=2255&cs=0&ds=3&ft=t2zLrAjB59qIxRoiJYGbIt1SYxSwY2DtGOF-2X0q8_45a&mime_type=video_mp4&qs=0&rc=PDs3NDRkZjY1ODVpaDg0Z0BpM3FrN2s5cmZkZDMzNGkzM0AyYF9jMS8zNjAxNDUvMDViYSMwNjNmMmRjM21hLS1kLS9zcw%3D%3D&btag=c0000e00018000&cc=1f&cquery=100E_100x_100z_100o_100w&dy_q=1790142293&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260923134453201FF941ED279EF87786&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7688387085497445737.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7688387085497445737.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 30.4,
+      "raw_payload": {
+        "aweme_id": "7688387085497445737",
+        "author_uid": "91578679491",
+        "sec_uid": "MS4wLjABAAAAv5sra_pQQgbHudwX7TbXIRU1pG0WcxDjQ8hU8KVB6Ys",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAv5sra_pQQgbHudwX7TbXIRU1pG0WcxDjQ8hU8KVB6Ys"
+      }
+    },
+    "first_seen_at": "2026-09-23T13:44:32+08:00",
+    "last_seen_at": "2026-09-23T13:44:32+08:00",
+    "fetch_runs": [
+      "2026-09-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7688387085497445737.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7688387085497445737.mp3",
+      "source": "download",
+      "processed_at": "2026-09-23T13:45:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7688387085497445737",
+      "transcript_raw": "#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常补充信息：#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常关键词：上热门、大一新生日常",
+      "transcript_clean": "#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常补充信息：#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常关键词：上热门、大一新生日常",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-23/7688387085497445737.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7688387085497445737",
+      "summary": "快乐女孩围绕“上热门”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常。#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常补充信息：#上热门 谁说孩子上大学就慢慢失联了！我家的吃饭日常打卡，碎碎念，什么都愿意跟家人分享，有同款的孩子吗？#大一新生日常关键词：上热门、大一新生日常 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "上热门为什么总是做不出来结果？",
+        "先把大一新生日常想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕上热门组织标题与开头。",
+        "用大一新生日常和#上热门补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "上热门",
+        "大一新生日常",
+        "#上热门"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-23/7688387085497445737.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "last_error": null
+  },
+  "7622212393568849202": {
+    "video_id": "7622212393568849202",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "央视新闻",
+      "video_id": "7622212393568849202",
+      "title": "德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛",
+      "publish_time": "2026-03-28T15:57:00+08:00",
+      "video_url": "https://www.douyin.com/video/7622212393568849202",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4fe98377bc67f0fe680d6f38ceddac33~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105499600&x-signature=oc9y2CQzpUi54kf7q6mOyo7YZvM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609231344561EF24F4879B67449EBCD",
+      "like_count": 476293,
+      "comment_count": 143,
+      "share_count": 48398,
+      "collect_count": 8865,
+      "description": "德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛",
+      "text_hint": "德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛",
+      "topic_tags": [
+        "2026中国网络媒体论坛"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/040bd0f4d0e8c564cdc4e55f1ced0faa/6ab391a9/video/tos/cn/tos-cn-ve-15/oEB7yjQ43jv5UeGfBWMhK0AAM8AfWBBujCgTxi/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3025&bt=3025&cs=0&ds=4&ft=t2zLrAjB59qIxRoiJYGbIt1SYiSwY2DtGOF-2X0q8_45a&mime_type=video_mp4&qs=0&rc=OGU6aGY5MzU4aTRnaWdoZ0BpM3d1eHA5cjdyOjMzNGkzM0A2Yi82NjIuNTUxLi9jLjUvYSNsbGpeMmQ0ZzBhLS1kLTBzcw%3D%3D&btag=c0000e00018000&cc=1f&cquery=100w_100B_100H_100K_100o&dy_q=1790142296&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=202609231344561EF24F4879B67449EBCD&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7622212393568849202.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7622212393568849202.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 33.685,
+      "raw_payload": {
+        "aweme_id": "7622212393568849202",
+        "author_uid": "66598046050",
+        "sec_uid": "MS4wLjABAAAAgq8cb7cn9ByhZbmx-XQDdRTvFzmJeBBXOUO4QflP96M",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAgq8cb7cn9ByhZbmx-XQDdRTvFzmJeBBXOUO4QflP96M"
+      }
+    },
+    "first_seen_at": "2026-09-23T13:44:32+08:00",
+    "last_seen_at": "2026-09-23T13:44:32+08:00",
+    "fetch_runs": [
+      "2026-09-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7622212393568849202.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7622212393568849202.mp3",
+      "source": "download",
+      "processed_at": "2026-09-23T13:45:58+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7622212393568849202",
+      "transcript_raw": "德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛补充信息：德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛关键词：2026中国网络媒体论坛",
+      "transcript_clean": "德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛补充信息：德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛关键词：2026中国网络媒体论坛",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-23/7622212393568849202.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7622212393568849202",
+      "summary": "央视新闻围绕“2026中国网络媒体论坛”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛。德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛补充信息：德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛关键词：2026中国网络媒体论坛 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "2026中国网络媒体论坛为什么总是做不出来结果？",
+        "先把德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛补充信息：德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛关键词：2026中国网络媒体论坛想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕2026中国网络媒体论坛组织标题与开头。",
+        "用德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛补充信息：德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛关键词：2026中国网络媒体论坛和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "2026中国网络媒体论坛",
+        "德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛补充信息：德国小伙无名，在河南学习中医十年，畅谈在华生活故事。一口河南话说得真“中”！#2026中国网络媒体论坛关键词：2026中国网络媒体论坛",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-23/7622212393568849202.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "last_error": null
+  },
+  "7355386626744307007": {
+    "video_id": "7355386626744307007",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "平常心",
+      "video_id": "7355386626744307007",
+      "title": "#童年的记忆   童年做错了那些事",
+      "publish_time": "2024-04-08T14:57:00+08:00",
+      "video_url": "https://www.douyin.com/video/7355386626744307007",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oAzgET8AAzhpYgbPrlqBNfTEoACrmIJqecCKkB~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105499600&x-signature=SgppS0i8e8MKEVUjWRwYerjdbwU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260923134459EE49262227F51C0043EC",
+      "like_count": 6,
+      "comment_count": 1,
+      "share_count": 1,
+      "collect_count": 4,
+      "description": "#童年的记忆   童年做错了那些事",
+      "text_hint": "#童年的记忆   童年做错了那些事",
+      "topic_tags": [
+        "童年的记忆"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/e237c40d4aa5817a5ff58607f567b091/6ab39274/video/cn/mps/realtime/v1/r/p/v0200fg10000co9p8j3c77u4l299hslg/0285c983e9684be583e24a9cb94efec9/85182833f3010a5e2b96504139227b12/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=500&bt=500&cs=0&ds=3&eid=64256&ft=BMn3Hb6tw8cRoTsd1b_pKJTrjAp4AfpVvrKla7VL2o0g3cI&mime_type=video_mp4&qs=0&rc=PGhoPGZkNTY4ZTs8Njw4NUBpanY8NTc6Zm1zcjMzNGkzM0BgYzFfNjFiNWIxM2I1YDUtYSNpZTZpcjQwNTZgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100z_100o_100w_100B_100x&definition=720p&dy_q=1790142299&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7355386626744307007&l=20260923134459EE49262227F51C0043EC&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7355386626744307007.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7355386626744307007.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 233.509,
+      "raw_payload": {
+        "aweme_id": "7355386626744307007",
+        "author_uid": "3056294306776476",
+        "sec_uid": "MS4wLjABAAAAywG-QIN6h7hB3BPgl7MR34dSkhuoXqNRKOmMnrf0AO-ir2fUpxHXOQZJs3EPlNj3",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAywG-QIN6h7hB3BPgl7MR34dSkhuoXqNRKOmMnrf0AO-ir2fUpxHXOQZJs3EPlNj3"
+      }
+    },
+    "first_seen_at": "2026-09-23T13:44:32+08:00",
+    "last_seen_at": "2026-09-23T13:44:32+08:00",
+    "fetch_runs": [
+      "2026-09-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7355386626744307007.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7355386626744307007.mp3",
+      "source": "download",
+      "processed_at": "2026-09-23T13:46:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7355386626744307007",
+      "transcript_raw": "#童年的记忆   童年做错了那些事#童年的记忆   童年做错了那些事补充信息：#童年的记忆   童年做错了那些事关键词：童年的记忆",
+      "transcript_clean": "#童年的记忆   童年做错了那些事#童年的记忆   童年做错了那些事补充信息：#童年的记忆   童年做错了那些事关键词：童年的记忆",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-23/7355386626744307007.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7355386626744307007",
+      "summary": "平常心围绕“童年的记忆”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#童年的记忆   童年做错了那些事。#童年的记忆   童年做错了那些事#童年的记忆   童年做错了那些事补充信息：#童年的记忆   童年做错了那些事关键词：童年的记忆 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "童年的记忆为什么总是做不出来结果？",
+        "先把#童年的记忆想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕童年的记忆组织标题与开头。",
+        "用#童年的记忆和童年做错了那些事#童年的记忆补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "童年的记忆",
+        "#童年的记忆",
+        "童年做错了那些事#童年的记忆"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-23/7355386626744307007.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "last_error": null
+  },
+  "7354568061422177586": {
+    "video_id": "7354568061422177586",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "充电头网",
+      "video_id": "7354568061422177586",
+      "title": "创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能",
+      "publish_time": "2024-04-06T10:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7354568061422177586",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/edb783488bc74af36dd713141ec7a096~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105499600&x-signature=zFx6kNxYgdSKZsr08J3gwESDzXo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609231345039578D5E74DFA9EB737D1",
+      "like_count": 18,
+      "comment_count": 6,
+      "share_count": 0,
+      "collect_count": 7,
+      "description": "创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能",
+      "text_hint": "创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/170ca26375281cd9402c84227f31514b/6ab39343/video/tos/cn/tos-cn-ve-0015c800/oUvfIYC9jA3KjgDxArgFqEb0QfXsmDEBHhz4hA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1008&bt=1008&cs=0&ds=3&ft=t2zLrAjB59qIxRoiJYGbIt1SYCSwY2DtGOF-2X0q8_45a&mime_type=video_mp4&qs=0&rc=NjM4ZjU6NDk1OjZlOTRmaUBpM29zcnY5cmpkcjMzNGkzM0AtXzVfYzE2NTIxMF9eYDU1YSMzZXI1MmRzbTVgLS1kLS9zcw%3D%3D&btag=80000e00030000&cc=1f&cquery=100o_100w_100B_100D_100J&dy_q=1790142303&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202609231345039578D5E74DFA9EB737D1&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7354568061422177586.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7354568061422177586.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 436.836,
+      "raw_payload": {
+        "aweme_id": "7354568061422177586",
+        "author_uid": "102238684212",
+        "sec_uid": "MS4wLjABAAAAwE32jUcA9ezspPJmgo8KtExiM6DujUu5QseBQn6z9h4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAwE32jUcA9ezspPJmgo8KtExiM6DujUu5QseBQn6z9h4"
+      }
+    },
+    "first_seen_at": "2026-09-23T13:44:32+08:00",
+    "last_seen_at": "2026-09-23T13:44:32+08:00",
+    "fetch_runs": [
+      "2026-09-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7354568061422177586.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7354568061422177586.mp3",
+      "source": "download",
+      "processed_at": "2026-09-23T13:46:57+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7354568061422177586",
+      "transcript_raw": "创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能补充信息：创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能",
+      "transcript_clean": "创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能补充信息：创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-23/7354568061422177586.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7354568061422177586",
+      "summary": "充电头网围绕“创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能补充信息：创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能。创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能补充信息：创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能补充信息：创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能补充信息：创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能补充信息：创维网络摄像机拆解：具备10/100Mbps网络接口，支持双光夜视功能",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-23/7354568061422177586.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "last_error": null
+  },
+  "7576154234942843043": {
+    "video_id": "7576154234942843043",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7576154234942843043",
+      "title": "在抖音记录美好生活20260923",
+      "publish_time": "2026-09-23T13:45:41+08:00",
+      "video_url": "https://www.douyin.com/video/7576154234942843043",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260923",
+      "text_hint": "在抖音记录美好生活20260923",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/eba6a217-c529-4a08-b3be-89c2f9e35ed6",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7576154234942843043",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-23T13:44:32+08:00",
+    "last_seen_at": "2026-09-23T13:44:32+08:00",
+    "fetch_runs": [
+      "2026-09-23"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7097442294269234463": {
+    "video_id": "7097442294269234463",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "是坨红烧肉",
+      "video_id": "7097442294269234463",
+      "title": "最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评",
+      "publish_time": "2022-05-14T12:21:00+08:00",
+      "video_url": "https://www.douyin.com/video/7097442294269234463",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/06c7cc3dc3d6495465b31151dd3b86d3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105499600&x-signature=183iLU4vflwOQ5HbYPuQ%2BI5zhm4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026092313451378AA515130EA5140E103",
+      "like_count": 3667,
+      "comment_count": 189,
+      "share_count": 152,
+      "collect_count": 1437,
+      "description": "最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评",
+      "text_hint": "最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评",
+      "topic_tags": [
+        "日语",
+        "日语考级",
+        "外语学习",
+        "经验分享",
+        "测评"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/328577b15ce0aa1dbd130d0b92febfda/6ab39382/video/tos/cn/tos-cn-ve-15c001-alinc2/03169bec034d49cea6b9d87dd9fc05ce/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1620&bt=1620&cs=0&ds=4&ft=t2zLrAjB59qIxRoiJYGbIt1SYbSwY2DtGOF-2X0q8_45a&mime_type=video_mp4&qs=0&rc=OTo1ZTlnMzZoZ2doZWczN0BpanF1bzY6ZmlsPDMzNGkzM0AxMGNjXjIwXzExYGEwLl4tYSNrZzVecjRvcHNgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100o_100w_100B_100D_102u&dy_q=1790142313&l=2026092313451378AA515130EA5140E103&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7097442294269234463.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7097442294269234463.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 489.894,
+      "raw_payload": {
+        "aweme_id": "7097442294269234463",
+        "author_uid": "66395009130",
+        "sec_uid": "MS4wLjABAAAAVe4j6YrjrFg72f3klWErx5kvCLjzdaHeG1PM0AEC_Ug",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAVe4j6YrjrFg72f3klWErx5kvCLjzdaHeG1PM0AEC_Ug"
+      }
+    },
+    "first_seen_at": "2026-09-23T13:44:32+08:00",
+    "last_seen_at": "2026-09-23T13:44:32+08:00",
+    "fetch_runs": [
+      "2026-09-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7097442294269234463.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7097442294269234463.mp3",
+      "source": "download",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7097442294269234463",
+      "transcript_raw": "最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评补充信息：最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评关键词：日语、日语考级、外语学习、经验分享、测评",
+      "transcript_clean": "最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评补充信息：最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评关键词：日语、日语考级、外语学习、经验分享、测评",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-23/7097442294269234463.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7097442294269234463",
+      "summary": "是坨红烧肉围绕“日语”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评。最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评补充信息：最全日语考级书测评又来啦！这一套北外学姐都自留！ #日语 #日语考级 #外语学习 #经验分享 #测评关键词：日语、日语考级、外语学习、经验分享、测评 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "日语为什么总是做不出来结果？",
+        "先把日语考级想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕日语组织标题与开头。",
+        "用日语考级和外语学习补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "日语",
+        "日语考级",
+        "外语学习"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-23/7097442294269234463.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "last_error": null
+  },
+  "7573227370225051749": {
+    "video_id": "7573227370225051749",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7573227370225051749",
+      "title": "在抖音记录美好生活20260923",
+      "publish_time": "2026-09-23T13:45:41+08:00",
+      "video_url": "https://www.douyin.com/video/7573227370225051749",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260923",
+      "text_hint": "在抖音记录美好生活20260923",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/e52e50ba-996d-492f-952b-607c8b89a0b5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7573227370225051749",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-23T13:44:32+08:00",
+    "last_seen_at": "2026-09-23T13:44:32+08:00",
+    "fetch_runs": [
+      "2026-09-23"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7432631552883821843": {
+    "video_id": "7432631552883821843",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7432631552883821843",
+      "title": "类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门",
+      "publish_time": "2024-11-02T10:46:00+08:00",
+      "video_url": "https://www.douyin.com/video/7432631552883821843",
+      "cover_url": "",
+      "like_count": 133,
+      "comment_count": 21,
+      "share_count": 87,
+      "collect_count": 35,
+      "description": "类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门",
+      "text_hint": "类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门",
+      "topic_tags": [
+        "类风湿关节炎",
+        "居家锻炼",
+        "每天坚持锻炼会有不一样的收获",
+        "手指操作用大",
+        "生命在于运动一起锻炼吧"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/6635a125fcfd5644ff8c6cb4a5f8a10c/6ab392a4/video/tos/cn/tos-cn-ve-0015c800/oACykWkeNIpRAHXAizwgzFByiIfQABwK8E1mq1/?a=6383&br=357&bt=357&btag=c0000e00030000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100z_100o_100w_100B_100x&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1790142336&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=t2zLrAjB59qIxRoiJYGbIt1SYGgwY2DtGOF-2X0q8_45a&is_ssr=1&l=202609231345360714B169D0412039CB61&lr=all&mime_type=video_mp4&qs=12&rc=OjU4NzY0N2kzZTQ0OWg5aUBpM2c6b2w5cjczdjMzNGkzM0AyL14xYDJfXjQxNS81LjQtYSNfMW5oMmRjMmdgLS1kLS9zcw%3D%3D&req_cdn_type=&__vid=7432631552883821843",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7432631552883821843.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7432631552883821843.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7432631552883821843",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-23T13:44:32+08:00",
+    "last_seen_at": "2026-09-23T13:44:32+08:00",
+    "fetch_runs": [
+      "2026-09-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7432631552883821843.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-23/7432631552883821843.mp3",
+      "source": "download",
+      "processed_at": "2026-09-23T13:46:01+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7432631552883821843",
+      "transcript_raw": "类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门补充信息：类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门关键词：类风湿关节炎、居家锻炼、每天坚持锻炼会有不一样的收获、手指操作用大、生命在于运动一起锻炼吧",
+      "transcript_clean": "类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门补充信息：类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门关键词：类风湿关节炎、居家锻炼、每天坚持锻炼会有不一样的收获、手指操作用大、生命在于运动一起锻炼吧",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-23/7432631552883821843.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7432631552883821843",
+      "summary": "目标博主 1围绕“类风湿关节炎”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门。类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门补充信息：类风湿手指操，每天做两到三组，#类风湿关节炎 #居家锻炼 #每天坚持锻炼会有不一样的收获 #手指操作用大 #生命在于运动一起锻炼吧 @DOU+小助手 @DOU+上热门关键词：类风湿关节炎、居家锻炼、每天坚持锻炼会有不一样的收获、手指操作用大、生命在于运动一起锻炼吧 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "类风湿关节炎为什么总是做不出来结果？",
+        "先把居家锻炼想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕类风湿关节炎组织标题与开头。",
+        "用居家锻炼和每天坚持锻炼会有不一样的收获补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "类风湿关节炎",
+        "居家锻炼",
+        "每天坚持锻炼会有不一样的收获"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-23/7432631552883821843.json",
+      "processed_at": "2026-09-23T13:48:07+08:00"
+    },
+    "last_error": null
   }
 }
