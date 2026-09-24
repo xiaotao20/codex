@@ -48748,5 +48748,593 @@
       "processed_at": "2026-09-23T13:48:07+08:00"
     },
     "last_error": null
+  },
+  "7650053102812384538": {
+    "video_id": "7650053102812384538",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "风口财经",
+      "video_id": "7650053102812384538",
+      "title": "曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）",
+      "publish_time": "2026-06-11T16:33:13+08:00",
+      "video_url": "https://www.douyin.com/video/7650053102812384538",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6d54d07767e59bc5fc8c4537559ae5ee~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105586000&x-signature=yTcu4wIeBdPySFl6opbzhvOgGzs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260924135949153A4BC50657CA7EB26E",
+      "like_count": 321,
+      "comment_count": 68,
+      "share_count": 344,
+      "collect_count": 36,
+      "description": "曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）",
+      "text_hint": "曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）",
+      "topic_tags": [
+        "财经",
+        "汽车"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/134c2ce955919b8cb3333a3400a81e1a/6ab4e695/video/tos/cn/tos-cn-ve-15/oogAy7CUeVpeVW3AeQiMlAABEYB8Ap0w7ROmQO/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1875&bt=1875&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9woNAlHhd.4zhP103-ApQX&mime_type=video_mp4&qs=0&rc=aGg8ZzlnZzw6N2ZpODY3OEBpM3B1bHE5cmc6OzMzNGkzM0BhNDViYl9jNS0xNS9fLWJjYSMvb2FqMmQ0MmlhLS1kLS9zcw%3D%3D&btag=c0000e00010000&cc=1f&cquery=100K_100o_100w_100B_100H&dy_q=1790229589&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260924135949153A4BC50657CA7EB26E&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7650053102812384538.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7650053102812384538.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 16.114,
+      "raw_payload": {
+        "aweme_id": "7650053102812384538",
+        "author_uid": "108635792856",
+        "sec_uid": "MS4wLjABAAAALY4ncTXQmXkA4RKnrFNnm8Wmugk__iU7J69UmtmQJlU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAALY4ncTXQmXkA4RKnrFNnm8Wmugk__iU7J69UmtmQJlU"
+      }
+    },
+    "first_seen_at": "2026-09-24T13:59:27+08:00",
+    "last_seen_at": "2026-09-24T13:59:27+08:00",
+    "fetch_runs": [
+      "2026-09-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7650053102812384538.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7650053102812384538.mp3",
+      "source": "download",
+      "processed_at": "2026-09-24T14:00:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7650053102812384538",
+      "transcript_raw": "曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）补充信息：曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）关键词：财经、汽车",
+      "transcript_clean": "曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）补充信息：曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）关键词：财经、汽车",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-24/7650053102812384538.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7650053102812384538",
+      "summary": "风口财经围绕“财经”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）。曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）补充信息：曾经落地近90万还一车难求，路虎揽胜极光L售价跌破18万！品牌去年在华销量同比下滑39.2% #财经  #汽车   （编辑：徐）关键词：财经、汽车 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "财经为什么总是做不出来结果？",
+        "先把汽车想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕财经组织标题与开头。",
+        "用汽车和#财经补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "财经",
+        "汽车",
+        "#财经"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-24/7650053102812384538.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "last_error": null
+  },
+  "7190606329067719971": {
+    "video_id": "7190606329067719971",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "汽车厂小周",
+      "video_id": "7190606329067719971",
+      "title": "汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪",
+      "publish_time": "2023-01-20T13:45:13+08:00",
+      "video_url": "https://www.douyin.com/video/7190606329067719971",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/fea64fe9ed592a9239d2987d501dde56~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105586000&x-signature=nBR6HLR89rxf9bXwud2KVSOA%2FOw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260924135952EFF1BBC2CA4F528401F1",
+      "like_count": 16610,
+      "comment_count": 1639,
+      "share_count": 5574,
+      "collect_count": 3604,
+      "description": "汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪",
+      "text_hint": "汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪",
+      "topic_tags": [
+        "汽车制造",
+        "汽车",
+        "汽车生产全过程",
+        "奥迪"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2c59887944a0ad676590636ac793e90b/6ab4e8a9/video/tos/cn/tos-cn-ve-15c001-alinc2/owyeMABXQ99Nvhe2pbGMKoiPjqEO8nYRymDgAA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3335&bt=3335&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wuNAlHhd.4zhP103-ApQX&mime_type=video_mp4&qs=0&rc=ZjRmZTQ3NGgzaDRnOzg7ZEBpM3N4OjY6Znc1aTMzNGkzM0AzMTNhMC80NTUxXjNfX140YSMwa2QwcjRnZDJgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1790229592&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260924135952EFF1BBC2CA4F528401F1",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7190606329067719971.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7190606329067719971.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 545.4,
+      "raw_payload": {
+        "aweme_id": "7190606329067719971",
+        "author_uid": "62051845221",
+        "sec_uid": "MS4wLjABAAAAScdFQZXKBUVc3hDz14GB8BccXBbJG4feq5muk4OpFiE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAScdFQZXKBUVc3hDz14GB8BccXBbJG4feq5muk4OpFiE"
+      }
+    },
+    "first_seen_at": "2026-09-24T13:59:27+08:00",
+    "last_seen_at": "2026-09-24T13:59:27+08:00",
+    "fetch_runs": [
+      "2026-09-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7190606329067719971.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7190606329067719971.mp3",
+      "source": "download",
+      "processed_at": "2026-09-24T14:05:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7190606329067719971",
+      "transcript_raw": "汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪补充信息：汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪关键词：汽车制造、汽车、汽车生产全过程、奥迪",
+      "transcript_clean": "汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪补充信息：汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪关键词：汽车制造、汽车、汽车生产全过程、奥迪",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-24/7190606329067719971.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7190606329067719971",
+      "summary": "汽车厂小周围绕“汽车制造”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪。汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪补充信息：汽车制造之奥迪总装车间装配工艺！看完视频你就知道为什么奥迪高级了！#汽车制造 #汽车 #汽车生产全过程 #奥迪关键词：汽车制造、汽车、汽车生产全过程、奥迪 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "汽车制造为什么总是做不出来结果？",
+        "先把汽车想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕汽车制造组织标题与开头。",
+        "用汽车和汽车生产全过程补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "汽车制造",
+        "汽车",
+        "汽车生产全过程"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-24/7190606329067719971.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "last_error": null
+  },
+  "7200948031867440444": {
+    "video_id": "7200948031867440444",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "更济宁",
+      "video_id": "7200948031867440444",
+      "title": "济宁市重点企业高质量发展巡礼丨山东天河科技公司",
+      "publish_time": "2023-02-17T10:36:26+08:00",
+      "video_url": "https://www.douyin.com/video/7200948031867440444",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0443743ac6d6c1da46dd14f6b3c71a04~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105586000&x-signature=al5NUayyTmPNpREueHLZuI46CwE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260924135956B90D0F5A2D9974496112",
+      "like_count": 52,
+      "comment_count": 38,
+      "share_count": 5,
+      "collect_count": 1,
+      "description": "济宁市重点企业高质量发展巡礼丨山东天河科技公司",
+      "text_hint": "济宁市重点企业高质量发展巡礼丨山东天河科技公司",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/cc0c6dba3a8c43c8835264768487d09f/6ab4e762/video/cn/mps/realtime/v1/r/p/v0200fg10000cfneg4rc77u3k47h3uf0/6413dbab01664cab94a195f8b2410def/160d9aee8a0e129be61b3c9dc088b870/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1001&bt=1001&cs=0&ds=3&ft=InFJ3Y-5DyjNewVQ9wdNAlHhd.4zhP103-ApQX&mime_type=video_mp4&qs=0&rc=aWc0NTs4NDdlZjk0ZWU2N0BpM3hrNzY6ZjdoaTMzNGkzM0BiLTFfYzZeNl4xMy1eYS4zYSNjMDRocjRvZGtgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100w_100B_100H_100K_100o&definition=720p&dy_q=1790229596&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7200948031867440444&l=20260924135956B90D0F5A2D9974496112&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7200948031867440444.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7200948031867440444.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 214.399,
+      "raw_payload": {
+        "aweme_id": "7200948031867440444",
+        "author_uid": "81933732216",
+        "sec_uid": "MS4wLjABAAAA9LCP04_FOwL_ZCel0oO17whNAOIOMk5UTMaWbIswJ2I",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9LCP04_FOwL_ZCel0oO17whNAOIOMk5UTMaWbIswJ2I"
+      }
+    },
+    "first_seen_at": "2026-09-24T13:59:27+08:00",
+    "last_seen_at": "2026-09-24T13:59:27+08:00",
+    "fetch_runs": [
+      "2026-09-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7200948031867440444.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7200948031867440444.mp3",
+      "source": "download",
+      "processed_at": "2026-09-24T14:02:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7200948031867440444",
+      "transcript_raw": "济宁市重点企业高质量发展巡礼丨山东天河科技公司济宁市重点企业高质量发展巡礼丨山东天河科技公司补充信息：济宁市重点企业高质量发展巡礼丨山东天河科技公司",
+      "transcript_clean": "济宁市重点企业高质量发展巡礼丨山东天河科技公司济宁市重点企业高质量发展巡礼丨山东天河科技公司补充信息：济宁市重点企业高质量发展巡礼丨山东天河科技公司",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-24/7200948031867440444.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7200948031867440444",
+      "summary": "更济宁围绕“济宁市重点企业高质量发展巡礼丨山东天河科技公司济宁市重点企业高质量发展巡礼丨山东天河科技公司补充信息：济宁市重点企业高质量发展巡礼丨山东天河科技公司”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "济宁市重点企业高质量发展巡礼丨山东天河科技公司。济宁市重点企业高质量发展巡礼丨山东天河科技公司济宁市重点企业高质量发展巡礼丨山东天河科技公司补充信息：济宁市重点企业高质量发展巡礼丨山东天河科技公司 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "济宁市重点企业高质量发展巡礼丨山东天河科技公司济宁市重点企业高质量发展巡礼丨山东天河科技公司补充信息：济宁市重点企业高质量发展巡礼丨山东天河科技公司为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕济宁市重点企业高质量发展巡礼丨山东天河科技公司济宁市重点企业高质量发展巡礼丨山东天河科技公司补充信息：济宁市重点企业高质量发展巡礼丨山东天河科技公司组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "济宁市重点企业高质量发展巡礼丨山东天河科技公司济宁市重点企业高质量发展巡礼丨山东天河科技公司补充信息：济宁市重点企业高质量发展巡礼丨山东天河科技公司",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-24/7200948031867440444.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "last_error": null
+  },
+  "7581763548892646710": {
+    "video_id": "7581763548892646710",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7581763548892646710",
+      "title": "谁还没懂它的含金量！我真的会伤心 #高光 #提亮 #少女感 #天菜妆 #美妆年度榜单",
+      "publish_time": "2025-12-09T07:54:00+08:00",
+      "video_url": "https://www.douyin.com/video/7581763548892646710",
+      "cover_url": "",
+      "like_count": 1,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "谁还没懂它的含金量！我真的会伤心 #高光 #提亮 #少女感 #天菜妆 #美妆年度榜单",
+      "text_hint": "谁还没懂它的含金量！我真的会伤心 #高光 #提亮 #少女感 #天菜妆 #美妆年度榜单",
+      "topic_tags": [
+        "高光",
+        "提亮",
+        "少女感",
+        "天菜妆",
+        "美妆年度榜单"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c291b86b-a978-4ae6-bef0-b791d56fd6b5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7581763548892646710",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-24T13:59:27+08:00",
+    "last_seen_at": "2026-09-24T13:59:27+08:00",
+    "fetch_runs": [
+      "2026-09-24"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7161162518906342656": {
+    "video_id": "7161162518906342656",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "东方书",
+      "video_id": "7161162518906342656",
+      "title": "＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景",
+      "publish_time": "2022-11-02T05:28:13+08:00",
+      "video_url": "https://www.douyin.com/video/7161162518906342656",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/62a2668f5fec430583b0fa4f2b05ddda~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105589600&x-signature=pOpKkfHGKEeCA1CixViUP3yHc6E%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260924140021C4EABA635E9B173DD1EC",
+      "like_count": 147,
+      "comment_count": 25,
+      "share_count": 1,
+      "collect_count": 4,
+      "description": "＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景",
+      "text_hint": "＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景",
+      "topic_tags": [
+        "音乐花香醉在我心间",
+        "一首好听的歌送给大家",
+        "把爱绘成最美的风景"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/d022914b3c2c8889dfc4dce466a4c036/6ab4e7ad/video/cn/mps/realtime/v1/r/p/v0d00fg10000cdgnvqbc77u5n7is7og0/128e9d63a9c94721aa9328bac139fd4c/3ff0e710c7a8d6d88dd0400223827465/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1300&bt=1300&cs=0&ds=3&ft=InFJ3Y-5DyjNewVQ9wyNAlHhd.4zhP103-ApQX&mime_type=video_mp4&qs=0&rc=Zmc8NGQ7NmQ0Ojw8NmdoNUBpM3J2Ojg6ZnRxZzMzNGkzM0AxYzBgXy82Xi8xYF4zNjUuYSNkNGZrcjRfc2RgLS1kLWFzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1790229621&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7161162518906342656&l=20260924140021C4EABA635E9B173DD1EC&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7161162518906342656.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7161162518906342656.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 264.26,
+      "raw_payload": {
+        "aweme_id": "7161162518906342656",
+        "author_uid": "99504544418",
+        "sec_uid": "MS4wLjABAAAAFGBqWbgV1WP9hfRGU5pwJFcGnGvT4Hk1B9Jn2XA4UkE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAFGBqWbgV1WP9hfRGU5pwJFcGnGvT4Hk1B9Jn2XA4UkE"
+      }
+    },
+    "first_seen_at": "2026-09-24T13:59:27+08:00",
+    "last_seen_at": "2026-09-24T13:59:27+08:00",
+    "fetch_runs": [
+      "2026-09-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7161162518906342656.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7161162518906342656.mp3",
+      "source": "download",
+      "processed_at": "2026-09-24T14:05:44+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7161162518906342656",
+      "transcript_raw": "＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景补充信息：＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景关键词：音乐花香醉在我心间、一首好听的歌送给大家、把爱绘成最美的风景",
+      "transcript_clean": "＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景补充信息：＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景关键词：音乐花香醉在我心间、一首好听的歌送给大家、把爱绘成最美的风景",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-24/7161162518906342656.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7161162518906342656",
+      "summary": "东方书围绕“音乐花香醉在我心间”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景。＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景补充信息：＃种下了一个梦【完整版】一首百听不厌的歌曲#音乐花香醉在我心间 #一首好听的歌送给大家 #把爱绘成最美的风景关键词：音乐花香醉在我心间、一首好听的歌送给大家、把爱绘成最美的风景 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "音乐花香醉在我心间为什么总是做不出来结果？",
+        "先把一首好听的歌送给大家想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕音乐花香醉在我心间组织标题与开头。",
+        "用一首好听的歌送给大家和把爱绘成最美的风景补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "音乐花香醉在我心间",
+        "一首好听的歌送给大家",
+        "把爱绘成最美的风景"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-24/7161162518906342656.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "last_error": null
+  },
+  "7147609265237216549": {
+    "video_id": "7147609265237216549",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "成都强哥房产咨询",
+      "video_id": "7147609265237216549",
+      "title": "送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略",
+      "publish_time": "2022-09-26T16:54:37+08:00",
+      "video_url": "https://www.douyin.com/video/7147609265237216549",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2e0e8a32e154dffc46c35fa0e32eef34~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105586000&x-signature=MCsDUQbuog%2F3PfAv4bIUOV7pC%2Fw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260924140024A97DFF7ECDE278A08768",
+      "like_count": 239,
+      "comment_count": 32,
+      "share_count": 49,
+      "collect_count": 104,
+      "description": "送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略",
+      "text_hint": "送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略",
+      "topic_tags": [
+        "买房攻略",
+        "知识分享",
+        "房产知识",
+        "干货分享",
+        "好房推荐",
+        "成都楼市",
+        "成都房产资讯",
+        "成都",
+        "99安家节",
+        "避坑指南攻略"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2d3a6e5fd5ca968ffb9b8f56d6316918/6ab4e775/video/tos/cn/tos-cn-ve-0015c800/934b3b97b39344d5a5e5fe01e0c6a332/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4561&bt=4561&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wbNAlHhd.4zhP103-ApQX&mime_type=video_mp4&qs=0&rc=NWU8OWZoNzozNmQ8NDc6OUBpM3VqbzQ6Zm1wZjMzNGkzM0AuMS0tNmJiNjQxLjYvXjIwYSMzZC1lcjRnZWxgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100D_100J_100o_100w_100B&dy_q=1790229624&l=20260924140024A97DFF7ECDE278A08768",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7147609265237216549.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7147609265237216549.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 205.403,
+      "raw_payload": {
+        "aweme_id": "7147609265237216549",
+        "author_uid": "3799536271100584",
+        "sec_uid": "MS4wLjABAAAA7XxSRv4-xvgj5dmqGvTkdYIF7KoABgm_xh8YAgaXgSCecqf9MpKj2-ga-D-qmXq9",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7XxSRv4-xvgj5dmqGvTkdYIF7KoABgm_xh8YAgaXgSCecqf9MpKj2-ga-D-qmXq9"
+      }
+    },
+    "first_seen_at": "2026-09-24T13:59:27+08:00",
+    "last_seen_at": "2026-09-24T13:59:27+08:00",
+    "fetch_runs": [
+      "2026-09-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7147609265237216549.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7147609265237216549.mp3",
+      "source": "download",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7147609265237216549",
+      "transcript_raw": "送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略补充信息：送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略关键词：买房攻略、知识分享、房产知识、干货分享、好房推荐、成都楼市、成都房产资讯、成都、99安家节、避坑指南攻略",
+      "transcript_clean": "送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略补充信息：送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略关键词：买房攻略、知识分享、房产知识、干货分享、好房推荐、成都楼市、成都房产资讯、成都、99安家节、避坑指南攻略",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-24/7147609265237216549.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7147609265237216549",
+      "summary": "成都强哥房产咨询围绕“买房攻略”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略。送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略补充信息：送给近期准备在成都买房的朋友！看了这九条选房金规再也不迷茫 #买房攻略 #知识分享 #房产知识 #干货分享 #好房推荐 #成都楼市 #成都房产资讯 #成都 #99安家节 #避坑指南攻略关键词：买房攻略、知识分享、房产知识、干货分享、好房推荐、成都楼市、成都房产资讯、成都、99安家节、避坑指南攻略 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "买房攻略为什么总是做不出来结果？",
+        "先把知识分享想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕买房攻略组织标题与开头。",
+        "用知识分享和房产知识补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "买房攻略",
+        "知识分享",
+        "房产知识"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-24/7147609265237216549.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "last_error": null
+  },
+  "7319685268506791195": {
+    "video_id": "7319685268506791195",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7319685268506791195",
+      "title": "萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略",
+      "publish_time": "2024-01-03T01:57:00+08:00",
+      "video_url": "https://www.douyin.com/video/7319685268506791195",
+      "cover_url": "",
+      "like_count": 457,
+      "comment_count": 39,
+      "share_count": 92,
+      "collect_count": 31,
+      "description": "萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略",
+      "text_hint": "萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略",
+      "topic_tags": [
+        "逃离塔科夫",
+        "塔科夫劝退之旅",
+        "暗区突围",
+        "逃离塔科夫新人攻略",
+        "幻塔新手攻略"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/a17e90188a9e992c5ea1ab68c1de4d4f/6ab4e815/video/tos/cn/tos-cn-ve-15/oEAu9yNchaZlAfdzUQNIrgAW3uOyBKzPAE0te7/?a=6383&br=343&bt=343&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1790229640&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNewVQ9we7AlHhd.4zhP103-ApQX&is_ssr=1&l=2026092414004090BF0625300EF93AD65B&lr=all&mime_type=video_mp4&qs=1&rc=aDZnNWRlNmk1ZTM2Zzg2Z0BpM3U0Nmk6ZnFlcDMzNGkzM0AxNTIwXzAuXmAxLV4wNWEyYSMyNjVicjRfcV5gLS1kLWFzcw%3D%3D&__vid=7319685268506791195",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7319685268506791195.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7319685268506791195.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7319685268506791195",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-24T13:59:27+08:00",
+    "last_seen_at": "2026-09-24T13:59:27+08:00",
+    "fetch_runs": [
+      "2026-09-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7319685268506791195.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-24/7319685268506791195.mp3",
+      "source": "download",
+      "processed_at": "2026-09-24T14:02:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7319685268506791195",
+      "transcript_raw": "萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略补充信息：萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略关键词：逃离塔科夫、塔科夫劝退之旅、暗区突围、逃离塔科夫新人攻略、幻塔新手攻略",
+      "transcript_clean": "萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略补充信息：萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略关键词：逃离塔科夫、塔科夫劝退之旅、暗区突围、逃离塔科夫新人攻略、幻塔新手攻略",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-24/7319685268506791195.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7319685268506791195",
+      "summary": "知雪围绕“逃离塔科夫”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略。萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略补充信息：萌新教学第11期#逃离塔科夫 #塔科夫劝退之旅 #暗区突围 #逃离塔科夫新人攻略 #幻塔新手攻略关键词：逃离塔科夫、塔科夫劝退之旅、暗区突围、逃离塔科夫新人攻略、幻塔新手攻略 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "逃离塔科夫为什么总是做不出来结果？",
+        "先把塔科夫劝退之旅想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕逃离塔科夫组织标题与开头。",
+        "用塔科夫劝退之旅和暗区突围补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "逃离塔科夫",
+        "塔科夫劝退之旅",
+        "暗区突围"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-24/7319685268506791195.json",
+      "processed_at": "2026-09-24T14:06:46+08:00"
+    },
+    "last_error": null
   }
 }
