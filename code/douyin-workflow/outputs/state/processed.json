@@ -49336,5 +49336,537 @@
       "processed_at": "2026-09-24T14:06:46+08:00"
     },
     "last_error": null
+  },
+  "7634412562896981288": {
+    "video_id": "7634412562896981288",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "懂球帝",
+      "video_id": "7634412562896981288",
+      "title": "阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠",
+      "publish_time": "2026-04-30T12:59:58+08:00",
+      "video_url": "https://www.douyin.com/video/7634412562896981288",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/86272b2ae6a3954533731b91bf42a499~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105676000&x-signature=NCObw9mjdxaUyXCxHPQTEGIu57o%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026092514012252D0AB8606E8300B4395",
+      "like_count": 4336,
+      "comment_count": 330,
+      "share_count": 227,
+      "collect_count": 125,
+      "description": "阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠",
+      "text_hint": "阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠",
+      "topic_tags": [
+        "阿森纳",
+        "马竞",
+        "欧冠"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/2149176cfa9ab07eaddfd92bb6d3bf0b/6ab63873/video/tos/cn/tos-cn-ve-15/oQEpOsEEIAgpaC8fdMFDzJrY2jG5YAAuDBu9Qf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2189&bt=2189&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wzLElHhd.7t8b103-ApQX&mime_type=video_mp4&qs=0&rc=ZDk5ZjY2N2g4ZTk5aGQ2ZkBpM2g4Onk5cjloOjMzNGkzM0BjMS8yXy81NS0xNGFjNTRhYSNvZGNrMmRrMG1hLS1kLTBzcw%3D%3D&btag=c0000e00010000&cquery=100H_100K_100o_100w_100B&dy_q=1790316082&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026092514012252D0AB8606E8300B4395",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7634412562896981288.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7634412562896981288.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 17.4,
+      "raw_payload": {
+        "aweme_id": "7634412562896981288",
+        "author_uid": "64112656506",
+        "sec_uid": "MS4wLjABAAAAUwuOxayelzrpUwz7ML4hD28g5GONFncpAx7FDtXTLG8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAUwuOxayelzrpUwz7ML4hD28g5GONFncpAx7FDtXTLG8"
+      }
+    },
+    "first_seen_at": "2026-09-25T14:00:59+08:00",
+    "last_seen_at": "2026-09-25T14:00:59+08:00",
+    "fetch_runs": [
+      "2026-09-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7634412562896981288.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7634412562896981288.mp3",
+      "source": "download",
+      "processed_at": "2026-09-25T14:02:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7634412562896981288",
+      "transcript_raw": "阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠补充信息：阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠关键词：阿森纳、马竞、欧冠",
+      "transcript_clean": "阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠补充信息：阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠关键词：阿森纳、马竞、欧冠",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-25/7634412562896981288.json",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7634412562896981288",
+      "summary": "懂球帝围绕“阿森纳”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠。阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠补充信息：阿森纳球员离场时踩踏马竞队徽，是对是错？ #阿森纳 #马竞 #欧冠关键词：阿森纳、马竞、欧冠 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "阿森纳为什么总是做不出来结果？",
+        "先把马竞想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕阿森纳组织标题与开头。",
+        "用马竞和欧冠补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "阿森纳",
+        "马竞",
+        "欧冠"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-25/7634412562896981288.json",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "last_error": null
+  },
+  "7130407403815816489": {
+    "video_id": "7130407403815816489",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "王百亿讲口腔营销",
+      "video_id": "7130407403815816489",
+      "title": "地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销",
+      "publish_time": "2022-08-11T08:22:37+08:00",
+      "video_url": "https://www.douyin.com/video/7130407403815816489",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bc65e1e8aaba9478d38dd385c0cb1397~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105676000&x-signature=jFpH9IsDfvhMoY7pNin3n38ok9w%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026092514012585BC93C853662740A1F9",
+      "like_count": 230,
+      "comment_count": 16,
+      "share_count": 31,
+      "collect_count": 52,
+      "description": "地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销",
+      "text_hint": "地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销",
+      "topic_tags": [
+        "王百亿谈口腔营销"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/91192b0b9bd5d660b7b7fc562bb6ccc6/6ab6397b/video/tos/cn/tos-cn-ve-0015c800/2fdc5596b86b46e2b40e9aa0464e8cd7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3978&bt=3978&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wyLElHhd.7t8b103-ApQX&mime_type=video_mp4&qs=0&rc=ZDU8aTY6ODVoOGQzZztpZ0BpamtlNjU6Zmg3ZTMzNGkzM0BjMWEtNGNgXl4xYjJeNDZgYSMvLS5kcjQwam5gLS1kLWFzcw%3D%3D&btag=80000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1790316085&l=2026092514012585BC93C853662740A1F9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7130407403815816489.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7130407403815816489.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 278.522,
+      "raw_payload": {
+        "aweme_id": "7130407403815816489",
+        "author_uid": "4191785247835800",
+        "sec_uid": "MS4wLjABAAAAgdt0iwQr6QwTPRD8W8MfZFgYrkRyUX4S8uiZwQCUhq7VBmptYh_Y3dzzXimC7ZQ-",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAgdt0iwQr6QwTPRD8W8MfZFgYrkRyUX4S8uiZwQCUhq7VBmptYh_Y3dzzXimC7ZQ-"
+      }
+    },
+    "first_seen_at": "2026-09-25T14:00:59+08:00",
+    "last_seen_at": "2026-09-25T14:00:59+08:00",
+    "fetch_runs": [
+      "2026-09-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7130407403815816489.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7130407403815816489.mp3",
+      "source": "download",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7130407403815816489",
+      "transcript_raw": "地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销补充信息：地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销关键词：王百亿谈口腔营销",
+      "transcript_clean": "地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销补充信息：地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销关键词：王百亿谈口腔营销",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-25/7130407403815816489.json",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7130407403815816489",
+      "summary": "王百亿讲口腔营销围绕“王百亿谈口腔营销”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销。地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销补充信息：地推客源引流，实操技巧1，地推位置的选择。  #王百亿谈口腔营销关键词：王百亿谈口腔营销 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "王百亿谈口腔营销为什么总是做不出来结果？",
+        "先把地推客源引流，实操技巧1，地推位置的选择想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕王百亿谈口腔营销组织标题与开头。",
+        "用地推客源引流，实操技巧1，地推位置的选择和#王百亿谈口腔营销地推客源引流，实操技巧1，地推位置的选择补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "王百亿谈口腔营销",
+        "地推客源引流，实操技巧1，地推位置的选择",
+        "#王百亿谈口腔营销地推客源引流，实操技巧1，地推位置的选择"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-25/7130407403815816489.json",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "last_error": null
+  },
+  "7140564130154417442": {
+    "video_id": "7140564130154417442",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7140564130154417442",
+      "title": "在抖音记录美好生活20260925",
+      "publish_time": "2026-09-25T14:02:21+08:00",
+      "video_url": "https://www.douyin.com/video/7140564130154417442",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260925",
+      "text_hint": "在抖音记录美好生活20260925",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a4a9a167-06d7-4e92-991e-7ec5d5232d2e",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7140564130154417442",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-25T14:00:59+08:00",
+    "last_seen_at": "2026-09-25T14:00:59+08:00",
+    "fetch_runs": [
+      "2026-09-25"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7495385302349942075": {
+    "video_id": "7495385302349942075",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7495385302349942075",
+      "title": "#地理知识 #历史 #历史故事 #百科知识",
+      "publish_time": "2025-04-20T13:23:00+08:00",
+      "video_url": "https://www.douyin.com/video/7495385302349942075",
+      "cover_url": "",
+      "like_count": 11,
+      "comment_count": 1,
+      "share_count": 2,
+      "collect_count": 0,
+      "description": "#地理知识 #历史 #历史故事 #百科知识",
+      "text_hint": "#地理知识 #历史 #历史故事 #百科知识",
+      "topic_tags": [
+        "地理知识",
+        "历史",
+        "历史故事",
+        "百科知识"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ebeb72be-628b-4fa4-a633-0bc2deb145f3",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7495385302349942075",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-25T14:00:59+08:00",
+    "last_seen_at": "2026-09-25T14:00:59+08:00",
+    "fetch_runs": [
+      "2026-09-25"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7433415540594560314": {
+    "video_id": "7433415540594560314",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "越战越勇",
+      "video_id": "7433415540594560314",
+      "title": "人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。",
+      "publish_time": "2024-11-04T21:29:00+08:00",
+      "video_url": "https://www.douyin.com/video/7433415540594560314",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c000-ce/oMAiSiAAioh4ZnAEGovAKMBAQMPIjyPzcnYBB~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105676000&x-signature=7%2FU0yyYjkY2te2PHvTA0p1B7l2U%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609251401576F2B9FAC407694B95714",
+      "like_count": 48665,
+      "comment_count": 32188,
+      "share_count": 24,
+      "collect_count": 239,
+      "description": "人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。",
+      "text_hint": "人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fd02b4c4cbdc05eace77b4614cd6a154/6ab639cd/video/tos/cn/tos-cn-ve-15c000-ce/o08UXOQpEYLZAFhhXi8QKgJFff7UCwD5BIRf7j/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2332&bt=2332&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wofElHhd.7t8b103-ApQX&mime_type=video_mp4&qs=0&rc=NTc7O2VmOzw7ZWc4N2Y1OkBpM2tyZHY5cnlmdjMzbGkzNEBhMS1eNTYxXmExXjZfLjFiYSNwazBuMmRzaWhgLS1kLWJzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1790316117&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202609251401576F2B9FAC407694B95714",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7433415540594560314.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7433415540594560314.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 328.678,
+      "raw_payload": {
+        "aweme_id": "7433415540594560314",
+        "author_uid": "1195872985818296",
+        "sec_uid": "MS4wLjABAAAAUv712gmYGqMYZk7DGcj6xWnzFg3dtQnNzHxTjpJHUTsSSqpvbthcGXea_rnIoWiT",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAUv712gmYGqMYZk7DGcj6xWnzFg3dtQnNzHxTjpJHUTsSSqpvbthcGXea_rnIoWiT"
+      }
+    },
+    "first_seen_at": "2026-09-25T14:00:59+08:00",
+    "last_seen_at": "2026-09-25T14:00:59+08:00",
+    "fetch_runs": [
+      "2026-09-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7433415540594560314.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7433415540594560314.mp3",
+      "source": "download",
+      "processed_at": "2026-09-25T14:03:38+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7433415540594560314",
+      "transcript_raw": "人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。补充信息：人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。",
+      "transcript_clean": "人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。补充信息：人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-25/7433415540594560314.json",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7433415540594560314",
+      "summary": "越战越勇围绕“人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。补充信息：人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。。人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。补充信息：人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。补充信息：人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。补充信息：人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上。补充信息：人这一辈子，就是一个过程，没有永恒的生命，也没有不老的青春，我们终究只是时间的过客，即是过客，又何必执着，珍惜所有不期而遇，看淡所有不辞而别，尽人事，听天命，人生除去生死，其他的都是擦伤。愿往后余生。喜欢的都拥有，失去的都释怀，好好生活，慢慢相遇，该来的都在路上",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-25/7433415540594560314.json",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "last_error": null
+  },
+  "7283113535427595577": {
+    "video_id": "7283113535427595577",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "任师电脑维修培训",
+      "video_id": "7283113535427595577",
+      "title": "电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修",
+      "publish_time": "2023-09-26T20:40:48+08:00",
+      "video_url": "https://www.douyin.com/video/7283113535427595577",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/222fd2e64429cc2684a99bbde2f21474~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105676000&x-signature=h%2BBin%2BO9ZH9EjItFpvWxAlbAmVE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260925140200DC719133C2AC4F099085",
+      "like_count": 370,
+      "comment_count": 24,
+      "share_count": 60,
+      "collect_count": 243,
+      "description": "电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修",
+      "text_hint": "电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修",
+      "topic_tags": [
+        "主板",
+        "显卡",
+        "笔记本",
+        "显示",
+        "维修"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/e483f2c2b1f0c476be6cd6aefcae6225/6ab6399d/video/tos/cn/tos-cn-ve-15c001-alinc2/o87wsBjTAePIchAKGaELIK2JQCxebnqexAGxBc/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1525&bt=1525&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wufElHhd.7t8b103-ApQX&mime_type=video_mp4&qs=0&rc=ZGY3NjNkZjo7N2k6ZjtmZ0Bpamg6OXk5cm5nbjMzNGkzM0BhL18zMGAvNjIxNi42NC8yYSMuajI0MmRjLzZgLS1kLS9zcw%3D%3D&btag=80000e00030000&cc=1f&cquery=100o_100w_100B_100D_100J&dy_q=1790316120&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260925140200DC719133C2AC4F099085&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7283113535427595577.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7283113535427595577.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 277.267,
+      "raw_payload": {
+        "aweme_id": "7283113535427595577",
+        "author_uid": "102585943378",
+        "sec_uid": "MS4wLjABAAAAxwB3MT2uvXkBLaCk-4M7pQI_6cZedVDxqORZubzMsqE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAxwB3MT2uvXkBLaCk-4M7pQI_6cZedVDxqORZubzMsqE"
+      }
+    },
+    "first_seen_at": "2026-09-25T14:00:59+08:00",
+    "last_seen_at": "2026-09-25T14:00:59+08:00",
+    "fetch_runs": [
+      "2026-09-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7283113535427595577.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7283113535427595577.mp3",
+      "source": "download",
+      "processed_at": "2026-09-25T14:04:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7283113535427595577",
+      "transcript_raw": "电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修补充信息：电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修关键词：主板、显卡、笔记本、显示、维修",
+      "transcript_clean": "电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修补充信息：电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修关键词：主板、显卡、笔记本、显示、维修",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-25/7283113535427595577.json",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7283113535427595577",
+      "summary": "任师电脑维修培训围绕“主板”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修。电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修补充信息：电脑主板维修案例：内存检测不过竟然是因为显示芯片损坏导致！ #主板 #显卡 #笔记本 #显示 #维修关键词：主板、显卡、笔记本、显示、维修 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "主板为什么总是做不出来结果？",
+        "先把显卡想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕主板组织标题与开头。",
+        "用显卡和笔记本补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "主板",
+        "显卡",
+        "笔记本"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-25/7283113535427595577.json",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "last_error": null
+  },
+  "7322355038809001253": {
+    "video_id": "7322355038809001253",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7322355038809001253",
+      "title": "确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输",
+      "publish_time": "2024-01-10T06:37:00+08:00",
+      "video_url": "https://www.douyin.com/video/7322355038809001253",
+      "cover_url": "",
+      "like_count": 5425,
+      "comment_count": 364,
+      "share_count": 584,
+      "collect_count": 288,
+      "description": "确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输",
+      "text_hint": "确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输",
+      "topic_tags": [
+        "干货分享",
+        "国际海员",
+        "船舶运输"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/36728be920f0c31a1d01e4e952095b56/6ab6394f/video/tos/cn/tos-cn-ve-15/oUASvxIgC1AfvhxXCAeDLztAQzzRABGEgQXy6k/?a=6383&br=278&bt=278&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1790316136&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wHfElHhd.7t8b103-ApQX&is_ssr=1&l=20260925140216760E79D965FF5AC1F183&lr=all&mime_type=video_mp4&qs=12&rc=OjY4OjZmMzk8MzxnMzw0aEBpajZkM2U6ZnI2cDMzNGkzM0AvMS4zXmExXzYxMi1jLzYxYSNrLS9xcjRvZ2NgLS1kLS9zcw%3D%3D&__vid=7322355038809001253",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7322355038809001253.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7322355038809001253.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7322355038809001253",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-25T14:00:59+08:00",
+    "last_seen_at": "2026-09-25T14:00:59+08:00",
+    "fetch_runs": [
+      "2026-09-25"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7322355038809001253.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-25/7322355038809001253.mp3",
+      "source": "download",
+      "processed_at": "2026-09-25T14:03:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7322355038809001253",
+      "transcript_raw": "确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输补充信息：确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输关键词：干货分享、国际海员、船舶运输",
+      "transcript_clean": "确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输补充信息：确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输关键词：干货分享、国际海员、船舶运输",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-25/7322355038809001253.json",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "analysis": {
+      "video_id": "7322355038809001253",
+      "summary": "知雪围绕“干货分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输。确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输补充信息：确保安全的航行永远都是第一位的，即便做不到绝对，也要做到尽量的绝对#干货分享#国际海员#船舶运输关键词：干货分享、国际海员、船舶运输 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "干货分享为什么总是做不出来结果？",
+        "先把国际海员想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕干货分享组织标题与开头。",
+        "用国际海员和船舶运输补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "干货分享",
+        "国际海员",
+        "船舶运输"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-25/7322355038809001253.json",
+      "processed_at": "2026-09-25T14:05:59+08:00"
+    },
+    "last_error": null
   }
 }
