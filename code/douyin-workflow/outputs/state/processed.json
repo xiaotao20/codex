@@ -49868,5 +49868,337 @@
       "processed_at": "2026-09-25T14:05:59+08:00"
     },
     "last_error": null
+  },
+  "7644024998587978938": {
+    "video_id": "7644024998587978938",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "静静美食",
+      "video_id": "7644024998587978938",
+      "title": "小学生的早餐：软糯拉丝烤榴莲、剩米饭做蛋炒饭、经常用脑喝核桃花生露#早餐 #有一种美味叫榴莲忘返 #跟着时令吃水果 #新奇好吃在抖音 #为家乡特产代言",
+      "publish_time": "2026-05-26T10:41:00+08:00",
+      "video_url": "https://www.douyin.com/video/7644024998587978938",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1c5d58334a943573e8ceb89d8df672d4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105762400&x-signature=fNOQ7Vepjv9g5vaaS7EbOhEDr38%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260926140030B40E53580E4D3799E355",
+      "like_count": 910,
+      "comment_count": 69,
+      "share_count": 51,
+      "collect_count": 104,
+      "description": "小学生的早餐：软糯拉丝烤榴莲、剩米饭做蛋炒饭、经常用脑喝核桃花生露#早餐 #有一种美味叫榴莲忘返 #跟着时令吃水果 #新奇好吃在抖音 #为家乡特产代言",
+      "text_hint": "小学生的早餐：软糯拉丝烤榴莲、剩米饭做蛋炒饭、经常用脑喝核桃花生露#早餐 #有一种美味叫榴莲忘返 #跟着时令吃水果 #新奇好吃在抖音 #为家乡特产代言",
+      "topic_tags": [
+        "早餐",
+        "有一种美味叫榴莲忘返",
+        "跟着时令吃水果",
+        "新奇好吃在抖音",
+        "为家乡特产代言"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/b71652ddbfb906f6ee9465187468d7c4/6ab78a2d/video/tos/cn/tos-cn-ve-15c000-ce/oECQAUEFTFsfiAQgQqED0yfOIXjOwdE1EeVD19/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2014&bt=2014&cs=0&ds=4&ft=_nmGT-WHDyjNMRVQ9wED8lHhd.4YV0_R3-ApQX&mime_type=video_mp4&qs=0&rc=N2g2OzRpOzxoPDpoM2YzZEBpajU8cHQ5cmpqOzMzbGkzNEAyLS5gYzY0X14xYi42MzM1YSMwaWg1MmRzYl5hLS1kLWJzcw%3D%3D&btag=80000e00028000&cquery=100z_100o_100w_100B_100x&dy_q=1790402430&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20260926140030B40E53580E4D3799E355",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 127.567,
+      "raw_payload": {
+        "aweme_id": "7644024998587978938",
+        "author_uid": "101909976058",
+        "sec_uid": "MS4wLjABAAAAt8Y0I7BTPGos4-UqNAUgKkE3XIY82s6J_-gNSZjNiPc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAt8Y0I7BTPGos4-UqNAUgKkE3XIY82s6J_-gNSZjNiPc"
+      }
+    },
+    "first_seen_at": "2026-09-26T14:00:16+08:00",
+    "last_seen_at": "2026-09-26T14:00:16+08:00",
+    "fetch_runs": [
+      "2026-09-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7407815690599648527": {
+    "video_id": "7407815690599648527",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "苏醒过来",
+      "video_id": "7407815690599648527",
+      "title": "《术业无端》 #修仙 #混子飞仙 #爽文 #学生党好物推荐",
+      "publish_time": "2024-08-27T21:48:33+08:00",
+      "video_url": "https://www.douyin.com/video/7407815690599648527",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8ddda1eaf80a067eb5979fab2f78a102~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105758800&x-signature=BJCRfDs%2BHkVI6OD6gDZ%2FPsjYrIU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609261400335844FB77E74EE472144E",
+      "like_count": 1608,
+      "comment_count": 408,
+      "share_count": 69,
+      "collect_count": 866,
+      "description": "《术业无端》 #修仙 #混子飞仙 #爽文 #学生党好物推荐",
+      "text_hint": "《术业无端》 #修仙 #混子飞仙 #爽文 #学生党好物推荐",
+      "topic_tags": [
+        "修仙",
+        "混子飞仙",
+        "学生党好物推荐",
+        "爽文"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/f438eca664e3d013261bbe8d8d2b1ce6/6ab78e8a/video/tos/cn/tos-cn-ve-15/owdBfnoaQE7g8wvB63NBNDjCmIAuGYefAAIFr7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1847&bt=1847&cs=0&ds=3&ft=_nmGT-WHDyjNMRVQ9wIe8lHhd.4YV0_R3-ApQX&mime_type=video_mp4&qs=0&rc=ODY2ODw0OzM6NDw8NTY1N0BpanczOG05cmp3dTMzNGkzM0BgMl8xY2I0NS8xNjAvLmI0YSNqbG5mMmRjYzNgLS1kLTBzcw%3D%3D&btag=80000e00038000&cquery=100w_100B_100H_100K_100o&dy_q=1790402433&feature_id=2e1813f3872a2105acee44623dff2864&l=202609261400335844FB77E74EE472144E",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 1241.571,
+      "raw_payload": {
+        "aweme_id": "7407815690599648527",
+        "author_uid": "4365509757771395",
+        "sec_uid": "MS4wLjABAAAAkkkoyh8M3pNnLILql0gPaS6lUxftxs_ibP3ugoAf4pcgXy1Dgan9tyzJXGZFknil",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAkkkoyh8M3pNnLILql0gPaS6lUxftxs_ibP3ugoAf4pcgXy1Dgan9tyzJXGZFknil"
+      }
+    },
+    "first_seen_at": "2026-09-26T14:00:16+08:00",
+    "last_seen_at": "2026-09-26T14:00:16+08:00",
+    "fetch_runs": [
+      "2026-09-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7410962144490999092": {
+    "video_id": "7410962144490999092",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "榆同学",
+      "video_id": "7410962144490999092",
+      "title": "解密：吴忌寒一代矿霸的传奇 #商业故事 #商业思维",
+      "publish_time": "2024-09-05T09:18:24+08:00",
+      "video_url": "https://www.douyin.com/video/7410962144490999092",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1e90c81092dcfb076619a333f358b5cc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105762400&x-signature=8NOGuSOIdlJJa6JZXUchNuL7fuQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609261400370D03CF91733C3241C4E2",
+      "like_count": 17,
+      "comment_count": 1,
+      "share_count": 4,
+      "collect_count": 5,
+      "description": "解密：吴忌寒一代矿霸的传奇 #商业故事 #商业思维",
+      "text_hint": "解密：吴忌寒一代矿霸的传奇 #商业故事 #商业思维",
+      "topic_tags": [
+        "商业故事",
+        "商业思维"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/ca99147252b39080a34885e38528fafa/6ab78aad/video/cn/mps/realtime/v1/r/p/v0300fg10000crcgdg7og65iqfljgj10/2f5107cf1faa4604826d1bde8634d5d6/36fea14ab85892f248aad5f8fcd639c7/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=320&bt=320&cs=0&ds=6&eid=64256&ft=_nmGT-WHDyjNMRVQ9wte8lHhd.4YV0_R3-ApQX&mime_type=video_mp4&qs=0&rc=OTg3OWhlZzU3OWRpaTo0aUBpM21taWw5cmpqdTMzNGkzM0BhYTA1YS4zNS0xXi5gLTIvYSMuZGluMmQ0YWBgLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=540p&dy_q=1790402437&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7410962144490999092&l=202609261400370D03CF91733C3241C4E2&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 248.359,
+      "raw_payload": {
+        "aweme_id": "7410962144490999092",
+        "author_uid": "96595824688",
+        "sec_uid": "MS4wLjABAAAAYCC_KdMAem4j1lis2HNWH93v-eYxb4mSwc2LUEELFoU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAYCC_KdMAem4j1lis2HNWH93v-eYxb4mSwc2LUEELFoU"
+      }
+    },
+    "first_seen_at": "2026-09-26T14:00:16+08:00",
+    "last_seen_at": "2026-09-26T14:00:16+08:00",
+    "fetch_runs": [
+      "2026-09-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7584108322300185905": {
+    "video_id": "7584108322300185905",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7584108322300185905",
+      "title": "在抖音记录美好生活20260926",
+      "publish_time": "2026-09-26T14:01:14+08:00",
+      "video_url": "https://www.douyin.com/video/7584108322300185905",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260926",
+      "text_hint": "在抖音记录美好生活20260926",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/16c2cc57-dd0a-43f8-81f0-372afe10484b",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7584108322300185905",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-26T14:00:16+08:00",
+    "last_seen_at": "2026-09-26T14:00:16+08:00",
+    "fetch_runs": [
+      "2026-09-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7050991909010935075": {
+    "video_id": "7050991909010935075",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小不点🍒",
+      "video_id": "7050991909010935075",
+      "title": "电影“你好李焕英”片尾曲“萱草花”完整版来喽！杨坤送杨丞琳手捧花，一首值得你单曲循环播放的歌，强烈推荐你听完这首歌#萱草花#音乐分享 #你好李焕英 #杨丞琳",
+      "publish_time": "2022-01-09T08:09:46+08:00",
+      "video_url": "https://www.douyin.com/video/7050991909010935075",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0582ea7a29857a34864b842d80ea7b47~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105762400&x-signature=Fi4lzocNWpd2AP%2Bd2WRKLrm9Sa0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609261400485B0A02A56D9E0D710EE2",
+      "like_count": 37662,
+      "comment_count": 1671,
+      "share_count": 7036,
+      "collect_count": 3559,
+      "description": "电影“你好李焕英”片尾曲“萱草花”完整版来喽！杨坤送杨丞琳手捧花，一首值得你单曲循环播放的歌，强烈推荐你听完这首歌#萱草花#音乐分享 #你好李焕英 #杨丞琳",
+      "text_hint": "电影“你好李焕英”片尾曲“萱草花”完整版来喽！杨坤送杨丞琳手捧花，一首值得你单曲循环播放的歌，强烈推荐你听完这首歌#萱草花#音乐分享 #你好李焕英 #杨丞琳",
+      "topic_tags": [
+        "萱草花",
+        "你好李焕英",
+        "杨丞琳",
+        "音乐分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/c2120770b714f2f17c8dc41fcf03097f/6ab78ac7/video/tos/cn/tos-cn-ve-15-alinc2/375fd20c0b124d01982a0572a647be58/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=738&bt=738&cs=0&ds=4&ft=_nmGT-WHDyjNMRVQ9wNe8lHhd.4YV0_R3-ApQX&mime_type=video_mp4&qs=0&rc=PGY7OmgzNjhlZzc5M2k0ZkBpM2szZjk6Zjs1OjMzNGkzM0A1MWA1YC0wNl4xMDM2YV4tYSNfLmlhcjRvYmFgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_102u&dy_q=1790402449&l=202609261400485B0A02A56D9E0D710EE2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 262.084,
+      "raw_payload": {
+        "aweme_id": "7050991909010935075",
+        "author_uid": "1811598074196055",
+        "sec_uid": "MS4wLjABAAAA3Qt-TSX7bkmFvrYHl7U9vRXA_yPjSo7J2tOuhlLHkM_cJ4kOMJMkzoHpxNW4ZzB8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA3Qt-TSX7bkmFvrYHl7U9vRXA_yPjSo7J2tOuhlLHkM_cJ4kOMJMkzoHpxNW4ZzB8"
+      }
+    },
+    "first_seen_at": "2026-09-26T14:00:16+08:00",
+    "last_seen_at": "2026-09-26T14:00:16+08:00",
+    "fetch_runs": [
+      "2026-09-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7430013837539151139": {
+    "video_id": "7430013837539151139",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小藏财经",
+      "video_id": "7430013837539151139",
+      "title": "金价暴涨，金店反而亏钱？3个月关店145家，周大福怎么了？ #掘金计划2024 #周大福 #金价大涨 #金店 #经济",
+      "publish_time": "2024-10-26T17:32:28+08:00",
+      "video_url": "https://www.douyin.com/video/7430013837539151139",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0979680bce615412b47f6c3a0ad82092~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105762400&x-signature=qqKbLb%2FJ821Pxj1AJjtvqifEqUk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260926140052CEE29E175C841396402C",
+      "like_count": 225,
+      "comment_count": 26,
+      "share_count": 63,
+      "collect_count": 65,
+      "description": "金价暴涨，金店反而亏钱？3个月关店145家，周大福怎么了？ #掘金计划2024 #周大福 #金价大涨 #金店 #经济",
+      "text_hint": "金价暴涨，金店反而亏钱？3个月关店145家，周大福怎么了？ #掘金计划2024 #周大福 #金价大涨 #金店 #经济",
+      "topic_tags": [
+        "掘金计划2024",
+        "周大福",
+        "金价大涨",
+        "金店",
+        "经济"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/d7a1890fb18615ff27e223eacbc0f083/6ab78b85/video/tos/cn/tos-cn-ve-15/oAEvrX9AQAAfpIo8jnvgKaxVCBFNFZHDLfmyqg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1965&bt=1965&cs=0&ds=4&ft=_nmGT-WHDyjNMRVQ9w1e8lHhd.4YV0_R3-ApQX&mime_type=video_mp4&qs=0&rc=aWg0ZDk1O2Y5PDNnOTw3N0BpajVwPGo5cnZldjMzNGkzM0BiNjFgMGA1Xy8xYGIvNS00YSNqaV5gMmRrM2JgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100H_100K_100o_100w_100B&dy_q=1790402452&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260926140052CEE29E175C841396402C",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 449.677,
+      "raw_payload": {
+        "aweme_id": "7430013837539151139",
+        "author_uid": "1855626199439367",
+        "sec_uid": "MS4wLjABAAAAHyOtBP4CPU7FW5bdzcl1Ji1J3CCZQyz_qzJCdnziG632i7_dv7nWiC3_6uwVh6sP",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHyOtBP4CPU7FW5bdzcl1Ji1J3CCZQyz_qzJCdnziG632i7_dv7nWiC3_6uwVh6sP"
+      }
+    },
+    "first_seen_at": "2026-09-26T14:00:16+08:00",
+    "last_seen_at": "2026-09-26T14:00:16+08:00",
+    "fetch_runs": [
+      "2026-09-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7229543295280516412": {
+    "video_id": "7229543295280516412",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7229543295280516412",
+      "title": "10年上牌路虎发现4，5.0八缸发动机，买起能否修得起？#二手车 #路虎发现4 #老车修复 #老车翻新 #抖音汽车人共创计划",
+      "publish_time": "2023-05-05T04:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7229543295280516412",
+      "cover_url": "",
+      "like_count": 1909,
+      "comment_count": 164,
+      "share_count": 163,
+      "collect_count": 117,
+      "description": "10年上牌路虎发现4，5.0八缸发动机，买起能否修得起？#二手车 #路虎发现4 #老车修复 #老车翻新 #抖音汽车人共创计划",
+      "text_hint": "10年上牌路虎发现4，5.0八缸发动机，买起能否修得起？#二手车 #路虎发现4 #老车修复 #老车翻新 #抖音汽车人共创计划",
+      "topic_tags": [
+        "二手车",
+        "路虎发现4",
+        "老车修复",
+        "老车翻新",
+        "抖音汽车人共创计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/6401ae772810a13ca9681dbf7d26a7a0/6ab78ad9/video/tos/cn/tos-cn-ve-15/oEPdtsehTj99QEKIDBfkA1czgWC8oAdZtHVAuC/?a=6383&br=1268&bt=1268&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100D_100J&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1790402469&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=_nmGT-WHDyjNMRVQ9wse8lHhd.4YV0_R3-ApQX&is_ssr=1&l=20260926140108829E28B8CCADDCE8AD22&lr=all&mime_type=video_mp4&qs=1&rc=aTNmNTdmODw5ZzpnNmVlN0BpM2lwOzU6ZnA6azMzNGkzM0AxNWNfLTZfXmAxM2IuLl8vYSNfcHNqcjRvcl5gLS1kLS9zcw%3D%3D&__vid=7229543295280516412",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7229543295280516412",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-26T14:00:16+08:00",
+    "last_seen_at": "2026-09-26T14:00:16+08:00",
+    "fetch_runs": [
+      "2026-09-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
   }
 }
