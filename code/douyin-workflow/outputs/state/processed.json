@@ -50200,5 +50200,669 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7689830482212703534": {
+    "video_id": "7689830482212703534",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "暴富小阿姨",
+      "video_id": "7689830482212703534",
+      "title": "【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一",
+      "publish_time": "2026-09-26T21:09:49+08:00",
+      "video_url": "https://www.douyin.com/video/7689830482212703534",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-v-c9e10a/ogTReh1qtIjvgXDGieWAq7zkUUQJzqCBEeNTnC~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105848800&x-signature=oSGn5JmjOmqL%2BJVAtxGZzDwhs5Q%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260927142748BDE26B16A09FEC14F9C7",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一",
+      "text_hint": "【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4806ddf0c7fb06a6eddfd960cca2546a/6ab8e1b8/video/tos/cn/tos-cn-v-c9e10a/oIXA7tRgGkiRTXEUze8CBeCBizRngA1pkafqqj/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=3526&bt=3526&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wL9A9Hhd.5Yrwf03-ApQX&mime_type=video_mp4&qs=0&rc=OzhpNjw0PDVlO2RmZTs1ZkBpam5pOmo5cjp2ZDMzNDYzM0BiNjVfMV8tNjUxNDYwXjQtYSNzYmQxMmRjNW9hLS1kMC9zcw%3D%3D&btag=c0000e00018000&cquery=100B_102v_102u_100o_100w&dy_q=1790490468&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=20260927142748BDE26B16A09FEC14F9C7",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7689830482212703534.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7689830482212703534.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 36.665,
+      "raw_payload": {
+        "aweme_id": "7689830482212703534",
+        "author_uid": "105122349568",
+        "sec_uid": "MS4wLjABAAAACHRUEegi006930emi0pzmxmEyruJOuBosxkSTATpxJ8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACHRUEegi006930emi0pzmxmEyruJOuBosxkSTATpxJ8"
+      }
+    },
+    "first_seen_at": "2026-09-27T14:27:36+08:00",
+    "last_seen_at": "2026-09-27T14:27:36+08:00",
+    "fetch_runs": [
+      "2026-09-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7689830482212703534.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7689830482212703534.mp3",
+      "source": "download",
+      "processed_at": "2026-09-27T14:28:56+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7689830482212703534",
+      "transcript_raw": "【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一补充信息：【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一",
+      "transcript_clean": "【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一补充信息：【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-27/7689830482212703534.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "analysis": {
+      "video_id": "7689830482212703534",
+      "summary": "暴富小阿姨围绕“【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一补充信息：【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一。【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一补充信息：【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一补充信息：【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一补充信息：【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一补充信息：【开学准备】初中衡水体七八九年级英语练字帖初一练字单词每日一",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-27/7689830482212703534.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "last_error": null
+  },
+  "7596580215728475446": {
+    "video_id": "7596580215728475446",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "半月谈",
+      "video_id": "7596580215728475446",
+      "title": "上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论",
+      "publish_time": "2026-01-18T14:11:24+08:00",
+      "video_url": "https://www.douyin.com/video/7596580215728475446",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8d2a4fbeaa28a9768addffcf1c04408c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105848800&x-signature=As2r1gKWD0ddiYrCefaw02OocOs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260927142751928BCBACB914F9E6575B",
+      "like_count": 99253,
+      "comment_count": 7453,
+      "share_count": 40284,
+      "collect_count": 3809,
+      "description": "上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论",
+      "text_hint": "上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论",
+      "topic_tags": [
+        "大学管理不能高中化",
+        "半月谈评论"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/5ea8dc4913ccc30c590d609b2c002b6d/6ab8e19d/video/tos/cn/tos-cn-ve-15/oAjBHqGnLivx2fYXb7YSACRBiUGQIaSeASPfxI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=789&bt=789&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wF9A9Hhd.5Yrwf03-ApQX&mime_type=video_mp4&qs=0&rc=PDdlMzVpOjk6Ozs3OjdkO0BpanFmZW85cng6ODMzNGkzM0BhYi82YzU0X2IxM2MuYjReYSNoZXAxMmQ0ZWphLS1kLWFzcw%3D%3D&btag=c0000e00008000&cquery=100w_100B_100H_100K_100o&dy_q=1790490471&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260927142751928BCBACB914F9E6575B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7596580215728475446.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7596580215728475446.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 6.014,
+      "raw_payload": {
+        "aweme_id": "7596580215728475446",
+        "author_uid": "81945111176",
+        "sec_uid": "MS4wLjABAAAAtsKhUPQzPEoCRrpfstNDvOUQ1Zq-5JhRT6cYAd-Q0HA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAtsKhUPQzPEoCRrpfstNDvOUQ1Zq-5JhRT6cYAd-Q0HA"
+      }
+    },
+    "first_seen_at": "2026-09-27T14:27:36+08:00",
+    "last_seen_at": "2026-09-27T14:27:36+08:00",
+    "fetch_runs": [
+      "2026-09-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7596580215728475446.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7596580215728475446.mp3",
+      "source": "download",
+      "processed_at": "2026-09-27T14:28:58+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7596580215728475446",
+      "transcript_raw": "上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论补充信息：上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论关键词：大学管理不能高中化、半月谈评论",
+      "transcript_clean": "上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论补充信息：上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论关键词：大学管理不能高中化、半月谈评论",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-27/7596580215728475446.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "analysis": {
+      "video_id": "7596580215728475446",
+      "summary": "半月谈围绕“大学管理不能高中化”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论。上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论补充信息：上大学成绩表现也要“告家长”？ #大学管理不能高中化  #半月谈评论关键词：大学管理不能高中化、半月谈评论 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "大学管理不能高中化为什么总是做不出来结果？",
+        "先把半月谈评论想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕大学管理不能高中化组织标题与开头。",
+        "用半月谈评论和#大学管理不能高中化补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "大学管理不能高中化",
+        "半月谈评论",
+        "#大学管理不能高中化"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-27/7596580215728475446.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "last_error": null
+  },
+  "7305695965665561919": {
+    "video_id": "7305695965665561919",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小阿龙龙",
+      "video_id": "7305695965665561919",
+      "title": "家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜",
+      "publish_time": "2023-11-26T17:11:44+08:00",
+      "video_url": "https://www.douyin.com/video/7305695965665561919",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oIb7IBZ1gTfwL7QG42CeQqfFAC85BKAhxAnawD~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105848800&x-signature=3OQOJ5wcpBa88VjU1%2BEAZQY1Eac%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026092714275449CC66F54DEDF12773DB",
+      "like_count": 86,
+      "comment_count": 3,
+      "share_count": 40,
+      "collect_count": 35,
+      "description": "家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜",
+      "text_hint": "家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜",
+      "topic_tags": [
+        "家常菜"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/6885e01bc691b334443dfaec6877cd71/6ab8e2bc/video/cn/mps/realtime/v1/r/p/v0d00fg10000clhgmfrc77u4ul1u0s80/b4ccfb30332f45f19efbf4d653949ef2/7bd6611dc1b85e9585f44d2ffa0752e4/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2050&bt=2050&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNeRVQ9w79A9Hhd.5Yrwf03-ApQX&mime_type=video_mp4&qs=0&rc=NWg3Njk3ZWg0OGk2M2VmN0BpM3Z4bzc6ZmlqbzMzNGkzM0BjNjYyYWNjNmMxLzAwY2BfYSM1LS5ycjRvamVgLS1kLWFzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100w_100B_100x_100z_100o&definition=720p&dy_q=1790490474&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7305695965665561919&l=2026092714275449CC66F54DEDF12773DB&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7305695965665561919.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7305695965665561919.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 290.819,
+      "raw_payload": {
+        "aweme_id": "7305695965665561919",
+        "author_uid": "2711876486042424",
+        "sec_uid": "MS4wLjABAAAAeZ2FPr5CCL50Kz9FmzpwCkR3vwxM5Pdcb6_Wmvb6_MJ9fu_c2eJgsImLgxICAeo7",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAeZ2FPr5CCL50Kz9FmzpwCkR3vwxM5Pdcb6_Wmvb6_MJ9fu_c2eJgsImLgxICAeo7"
+      }
+    },
+    "first_seen_at": "2026-09-27T14:27:36+08:00",
+    "last_seen_at": "2026-09-27T14:27:36+08:00",
+    "fetch_runs": [
+      "2026-09-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7305695965665561919.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7305695965665561919.mp3",
+      "source": "download",
+      "processed_at": "2026-09-27T14:30:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7305695965665561919",
+      "transcript_raw": "家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜补充信息：家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜关键词：家常菜",
+      "transcript_clean": "家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜补充信息：家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜关键词：家常菜",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-27/7305695965665561919.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "analysis": {
+      "video_id": "7305695965665561919",
+      "summary": "小阿龙龙围绕“家常菜”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜。家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜补充信息：家里来客人了，拿出这几道家常菜招待，都夸你是大厨！ #家常菜关键词：家常菜 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "家常菜为什么总是做不出来结果？",
+        "先把家里来客人了，拿出这几道家常菜招待，都夸你是大厨想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕家常菜组织标题与开头。",
+        "用家里来客人了，拿出这几道家常菜招待，都夸你是大厨和#家常菜家里来客人了，拿出这几道家常菜招待，都夸你是大厨补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "家常菜",
+        "家里来客人了，拿出这几道家常菜招待，都夸你是大厨",
+        "#家常菜家里来客人了，拿出这几道家常菜招待，都夸你是大厨"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-27/7305695965665561919.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "last_error": null
+  },
+  "7303821772372151552": {
+    "video_id": "7303821772372151552",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "汇之星汽车（二五零）",
+      "video_id": "7303821772372151552",
+      "title": "消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗",
+      "publish_time": "2023-11-21T18:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7303821772372151552",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/df5a355d9b3c24e0b5fc2f12253c60e1~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105848800&x-signature=u10wMUDfHPVMiPJuJet7au5%2B3Pk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609271427582D91BF63FE0A79B6180C",
+      "like_count": 960,
+      "comment_count": 296,
+      "share_count": 207,
+      "collect_count": 53,
+      "description": "消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗",
+      "text_hint": "消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗",
+      "topic_tags": [
+        "二手车",
+        "廊坊二手车",
+        "冀r54250",
+        "收车实录",
+        "哈弗大狗"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d29bef913093166b0bca71af4135a551/6ab8e2f8/video/tos/cn/tos-cn-ve-0015c800/oMFjr6g7GhsVW2pyAhQIEiIcNGAFyBADuzNerf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1293&bt=1293&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wj9A9Hhd.5Yrwf03-ApQX&mime_type=video_mp4&qs=0&rc=M2lmZzQ8OmVpaGlkMzRkNEBpamh1ZGc6ZjU5bzMzNGkzM0A0LjNfXmM0XzQxMi00MTNhYSNkaTVfcjRnM2JgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100H_100K&dy_q=1790490478&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202609271427582D91BF63FE0A79B6180C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7303821772372151552.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7303821772372151552.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 346.42,
+      "raw_payload": {
+        "aweme_id": "7303821772372151552",
+        "author_uid": "1486141323741598",
+        "sec_uid": "MS4wLjABAAAAebb3CXRKkdqhPBnVXJA64fBzpRAwJatnpxhqFbX-FwvmgyuayrV38QZE3S_4AJ6Q",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAebb3CXRKkdqhPBnVXJA64fBzpRAwJatnpxhqFbX-FwvmgyuayrV38QZE3S_4AJ6Q"
+      }
+    },
+    "first_seen_at": "2026-09-27T14:27:36+08:00",
+    "last_seen_at": "2026-09-27T14:27:36+08:00",
+    "fetch_runs": [
+      "2026-09-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7303821772372151552.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7303821772372151552.mp3",
+      "source": "download",
+      "processed_at": "2026-09-27T14:31:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7303821772372151552",
+      "transcript_raw": "消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗补充信息：消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗关键词：二手车、廊坊二手车、冀r54250、收车实录、哈弗大狗",
+      "transcript_clean": "消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗补充信息：消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗关键词：二手车、廊坊二手车、冀r54250、收车实录、哈弗大狗",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-27/7303821772372151552.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "analysis": {
+      "video_id": "7303821772372151552",
+      "summary": "汇之星汽车（二五零）围绕“二手车”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗。消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗补充信息：消费需谨慎，都说今年所有人消费都降级了，你们感觉降级了吗？\n#二手车 #廊坊二手车 #冀r54250 #收车实录 #哈弗大狗关键词：二手车、廊坊二手车、冀r54250、收车实录、哈弗大狗 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "二手车为什么总是做不出来结果？",
+        "先把廊坊二手车想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕二手车组织标题与开头。",
+        "用廊坊二手车和冀r54250补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "二手车",
+        "廊坊二手车",
+        "冀r54250"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-27/7303821772372151552.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "last_error": null
+  },
+  "7551243291972422947": {
+    "video_id": "7551243291972422947",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7551243291972422947",
+      "title": "《古文观止》十大千古名篇#知识分享 #读书 #古文 #文言文 #国学文化",
+      "publish_time": "2025-09-18T02:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7551243291972422947",
+      "cover_url": "",
+      "like_count": 154,
+      "comment_count": 16,
+      "share_count": 179,
+      "collect_count": 22,
+      "description": "《古文观止》十大千古名篇#知识分享 #读书 #古文 #文言文 #国学文化",
+      "text_hint": "《古文观止》十大千古名篇#知识分享 #读书 #古文 #文言文 #国学文化",
+      "topic_tags": [
+        "知识分享",
+        "读书",
+        "古文",
+        "文言文",
+        "国学文化"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/85630727-e655-431a-b6c5-d13a0892af34",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7551243291972422947",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-27T14:27:36+08:00",
+    "last_seen_at": "2026-09-27T14:27:36+08:00",
+    "fetch_runs": [
+      "2026-09-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7122303722910190852": {
+    "video_id": "7122303722910190852",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "苗乡小莉",
+      "video_id": "7122303722910190852",
+      "title": "#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。",
+      "publish_time": "2022-07-20T12:16:05+08:00",
+      "video_url": "https://www.douyin.com/video/7122303722910190852",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1aadc3d16ca9421f042fe1041162df4c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105848800&x-signature=JEZaJectDTCezfdmp8mSgtI0hb0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260927142821CB3A4C6B027E75BEDF14",
+      "like_count": 625,
+      "comment_count": 64,
+      "share_count": 12,
+      "collect_count": 26,
+      "description": "#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。",
+      "text_hint": "#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。",
+      "topic_tags": [
+        "无论生活有多苦涩我依然是欢乐的",
+        "不管别人怎么说自己开心就好"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/ff8470243bbc10e4ff251445798207e4/6ab8e269/video/cn/mps/realtime/v1/r/p/v0300fg10000cbbns0bc77u2cne1ujk0/2d60c6fd35444e668f9cef6017a57a08/c602aa085f19073425bba7885a6d23ef/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=814&bt=814&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNeRVQ9wttA9Hhd.5Yrwf03-ApQX&mime_type=video_mp4&qs=0&rc=O2Q4OjNpZmk5aDc4ZzkzZ0BpM200cTU6ZjNxZTMzNGkzM0AtNF4uM2I2NTMxMTBjYDMvYSNocmJgcjRfcF9gLS1kLTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100w_100B_100x_102u_100o&definition=720p&dy_q=1790490501&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7122303722910190852&l=20260927142821CB3A4C6B027E75BEDF14&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7122303722910190852.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7122303722910190852.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.089,
+      "raw_payload": {
+        "aweme_id": "7122303722910190852",
+        "author_uid": "77081276379",
+        "sec_uid": "MS4wLjABAAAA9uaKGef3HZ5glEO2oCB-PXDli2oayMk5mSIoSE4I10w",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9uaKGef3HZ5glEO2oCB-PXDli2oayMk5mSIoSE4I10w"
+      }
+    },
+    "first_seen_at": "2026-09-27T14:27:36+08:00",
+    "last_seen_at": "2026-09-27T14:27:36+08:00",
+    "fetch_runs": [
+      "2026-09-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7122303722910190852.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7122303722910190852.mp3",
+      "source": "download",
+      "processed_at": "2026-09-27T14:31:46+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7122303722910190852",
+      "transcript_raw": "#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。补充信息：#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。关键词：无论生活有多苦涩我依然是欢乐的、不管别人怎么说自己开心就好",
+      "transcript_clean": "#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。补充信息：#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。关键词：无论生活有多苦涩我依然是欢乐的、不管别人怎么说自己开心就好",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-27/7122303722910190852.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "analysis": {
+      "video_id": "7122303722910190852",
+      "summary": "苗乡小莉围绕“无论生活有多苦涩我依然是欢乐的”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。。#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。补充信息：#无论生活有多苦涩我依然是欢乐的  #不管别人怎么说自己开心就好 时间会告诉你一切，忘记一切烦恼做一个开心快乐的女孩，我的女王我做主。关键词：无论生活有多苦涩我依然是欢乐的、不管别人怎么说自己开心就好 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "无论生活有多苦涩我依然是欢乐的为什么总是做不出来结果？",
+        "先把不管别人怎么说自己开心就好想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕无论生活有多苦涩我依然是欢乐的组织标题与开头。",
+        "用不管别人怎么说自己开心就好和#不管别人怎么说自己开心就好补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "无论生活有多苦涩我依然是欢乐的",
+        "不管别人怎么说自己开心就好",
+        "#不管别人怎么说自己开心就好"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-27/7122303722910190852.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "last_error": null
+  },
+  "7509768705002196276": {
+    "video_id": "7509768705002196276",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "杜川老师教唱歌",
+      "video_id": "7509768705002196276",
+      "title": "《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌",
+      "publish_time": "2025-05-29T15:39:12+08:00",
+      "video_url": "https://www.douyin.com/video/7509768705002196276",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/9e3e8dc6c1ebbe6fa84ae5a063f852d6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105848800&x-signature=UmP%2Fbs7bF9qeizHo4%2BXCBmGCZPo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260927142824C176669012687429E84E",
+      "like_count": 860,
+      "comment_count": 40,
+      "share_count": 123,
+      "collect_count": 598,
+      "description": "《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌",
+      "text_hint": "《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌",
+      "topic_tags": [
+        "玛尼情歌",
+        "杜川老师教唱歌",
+        "零基础学唱歌"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ffaa23aca578e21827d49aa99845dbc4/6ab8e328/video/tos/cn/tos-cn-ve-15/o8OAsBEAm9Dw9Bgu4nlYFcwAfsChBoIAeJQsVi/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1255&bt=1255&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wptA9Hhd.5Yrwf03-ApQX&mime_type=video_mp4&qs=0&rc=Mzs1ZTk3M2Y4N2Y2ZTw7NEBpM3FsdHA5cmUzMzMzNGkzM0BeM2NhXmFhXmExLi0tMjI1YSNfbGg2MmQ0cHBhLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1790490505&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260927142824C176669012687429E84E",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7509768705002196276.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7509768705002196276.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 367.316,
+      "raw_payload": {
+        "aweme_id": "7509768705002196276",
+        "author_uid": "72667222516",
+        "sec_uid": "MS4wLjABAAAAxwWHF1YfxqVY2utTdWYvGue4nUdWVGHYhvsgZrvEn8o",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAxwWHF1YfxqVY2utTdWYvGue4nUdWVGHYhvsgZrvEn8o"
+      }
+    },
+    "first_seen_at": "2026-09-27T14:27:36+08:00",
+    "last_seen_at": "2026-09-27T14:27:36+08:00",
+    "fetch_runs": [
+      "2026-09-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7509768705002196276.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7509768705002196276.mp3",
+      "source": "download",
+      "processed_at": "2026-09-27T14:29:47+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7509768705002196276",
+      "transcript_raw": "《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌补充信息：《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌关键词：玛尼情歌、杜川老师教唱歌、零基础学唱歌",
+      "transcript_clean": "《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌补充信息：《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌关键词：玛尼情歌、杜川老师教唱歌、零基础学唱歌",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-27/7509768705002196276.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "analysis": {
+      "video_id": "7509768705002196276",
+      "summary": "杜川老师教唱歌围绕“玛尼情歌”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌。《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌补充信息：《玛尼情歌》歌曲精讲 #玛尼情歌 #杜川老师教唱歌 #零基础学唱歌关键词：玛尼情歌、杜川老师教唱歌、零基础学唱歌 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "玛尼情歌为什么总是做不出来结果？",
+        "先把杜川老师教唱歌想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕玛尼情歌组织标题与开头。",
+        "用杜川老师教唱歌和零基础学唱歌补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "玛尼情歌",
+        "杜川老师教唱歌",
+        "零基础学唱歌"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-27/7509768705002196276.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "last_error": null
+  },
+  "7095954200001072414": {
+    "video_id": "7095954200001072414",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7095954200001072414",
+      "title": "欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）",
+      "publish_time": "2022-05-10T04:06:00+08:00",
+      "video_url": "https://www.douyin.com/video/7095954200001072414",
+      "cover_url": "",
+      "like_count": 51000,
+      "comment_count": 1919,
+      "share_count": 1151,
+      "collect_count": 531,
+      "description": "欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）",
+      "text_hint": "欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）",
+      "topic_tags": [
+        "theshy"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fa7198e31855c7f3a721777d855e6862/6ab8e27d/video/tos/cn/tos-cn-ve-15c001-alinc2/e8c3f8ad74ce4e74bfd137947d7e18b2/?a=6383&br=1361&bt=1361&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=102u_100o_100w_100B_100H&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1790490521&ft=CZdgCYlIDyjNeRVQ9whtA9Hhd.5Yrwf03-ApQX&is_ssr=1&l=20260927142840E2C02720B6ADCCB32B18&lr=all&mime_type=video_mp4&qs=0&rc=Nzw7OjU5ODRkaDZlZDhpM0BpM2V4dTY6Zjp4PDMzNGkzM0BjYmFjYDNgNTMxYTQtXy4wYSNfXmdlcjRnNXBgLS1kLS9zcw%3D%3D&__vid=7095954200001072414",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7095954200001072414.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7095954200001072414.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7095954200001072414",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-09-27T14:27:36+08:00",
+    "last_seen_at": "2026-09-27T14:27:36+08:00",
+    "fetch_runs": [
+      "2026-09-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7095954200001072414.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-27/7095954200001072414.mp3",
+      "source": "download",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7095954200001072414",
+      "transcript_raw": "欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）补充信息：欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）关键词：theshy",
+      "transcript_clean": "欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）补充信息：欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）关键词：theshy",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-27/7095954200001072414.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "analysis": {
+      "video_id": "7095954200001072414",
+      "summary": "知雪围绕“theshy”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）。欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）补充信息：欢迎来到S9四分之一决赛IG对阵GRF#theshy 上单亚索的第一视角（2/2）关键词：theshy 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "theshy为什么总是做不出来结果？",
+        "先把欢迎来到S9四分之一决赛IG对阵GRF#theshy想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕theshy组织标题与开头。",
+        "用欢迎来到S9四分之一决赛IG对阵GRF#theshy和上单亚索的第一视角（2/2）欢迎来到S9四分之一决赛IG对阵GRF#theshy补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "theshy",
+        "欢迎来到S9四分之一决赛IG对阵GRF#theshy",
+        "上单亚索的第一视角（2/2）欢迎来到S9四分之一决赛IG对阵GRF#theshy"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-27/7095954200001072414.json",
+      "processed_at": "2026-09-27T14:31:57+08:00"
+    },
+    "last_error": null
   }
 }
