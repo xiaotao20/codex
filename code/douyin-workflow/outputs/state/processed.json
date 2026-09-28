@@ -50864,5 +50864,674 @@
       "processed_at": "2026-09-27T14:31:57+08:00"
     },
     "last_error": null
+  },
+  "7690407972240936226": {
+    "video_id": "7690407972240936226",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "不一样的潍坊职教",
+      "video_id": "7690407972240936226",
+      "title": "走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划",
+      "publish_time": "2026-09-28T10:30:43+08:00",
+      "video_url": "https://www.douyin.com/video/7690407972240936226",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/bb5c02b0494d469395bf263ef995f12c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105935200&x-signature=nQBBuzb%2BNrqWdA3kOZov9LiNUlk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260928143546AA1DA61D0421813DE898",
+      "like_count": 2,
+      "comment_count": 0,
+      "share_count": 5,
+      "collect_count": 0,
+      "description": "走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划",
+      "text_hint": "走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划",
+      "topic_tags": [
+        "潍坊食品科技职业学院",
+        "职业教育",
+        "职业规划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/38500621e00b691aae20cc79910aff33/6aba3562/video/tos/cn/tos-cn-ve-15/osPEy9iEIAg1NyXfz0iC55SQWYcn6AAxBBOeQy/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1100&bt=1100&cs=0&ds=3&ft=CZdgCYlIDyjNxIVQ9wwAE9Hhd.ccHZf03-ApQX&mime_type=video_mp4&qs=0&rc=ZzgzNmQ7NDxmZTY1Zjw1M0BpM2x3dmw5cjl2ZDMzNGkzM0BeMmNjNDFhNWIxMF4zYzY1YSNfLnBsMmRzcHBhLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100H_100K_100o&dy_q=1790577346&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20260928143546AA1DA61D0421813DE898",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7690407972240936226.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7690407972240936226.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 112.13,
+      "raw_payload": {
+        "aweme_id": "7690407972240936226",
+        "author_uid": "968006169533838",
+        "sec_uid": "MS4wLjABAAAAt_GrSZMK51M_p0hZn2o7pudYfvUCFnJBz3flR8mdpZE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAt_GrSZMK51M_p0hZn2o7pudYfvUCFnJBz3flR8mdpZE"
+      }
+    },
+    "first_seen_at": "2026-09-28T14:35:28+08:00",
+    "last_seen_at": "2026-09-28T14:35:28+08:00",
+    "fetch_runs": [
+      "2026-09-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7690407972240936226.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7690407972240936226.mp3",
+      "source": "download",
+      "processed_at": "2026-09-28T14:36:52+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7690407972240936226",
+      "transcript_raw": "走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划补充信息：走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划关键词：潍坊食品科技职业学院、职业教育、职业规划",
+      "transcript_clean": "走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划补充信息：走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划关键词：潍坊食品科技职业学院、职业教育、职业规划",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-28/7690407972240936226.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7690407972240936226",
+      "summary": "不一样的潍坊职教围绕“潍坊食品科技职业学院”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划。走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划补充信息：走进潍坊食品科技职业学院，看看这里如何以产教融合激活育人新动能#潍坊食品科技职业学院 #职业教育 #职业规划关键词：潍坊食品科技职业学院、职业教育、职业规划 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "潍坊食品科技职业学院为什么总是做不出来结果？",
+        "先把职业教育想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕潍坊食品科技职业学院组织标题与开头。",
+        "用职业教育和职业规划补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "潍坊食品科技职业学院",
+        "职业教育",
+        "职业规划"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-28/7690407972240936226.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "last_error": null
+  },
+  "7660797142315087753": {
+    "video_id": "7660797142315087753",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "柳州预警发布",
+      "video_id": "7660797142315087753",
+      "title": "柳州市气象台发布高温黄色预警信号[III级/较重]",
+      "publish_time": "2026-07-10T15:25:29+08:00",
+      "video_url": "https://www.douyin.com/video/7660797142315087753",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0b57639f89e97d4ca3b2fdb9c1a27d94~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105935200&x-signature=84%2ByTLah02FbMPT9Gwwj1ObQoNs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026092814354915ECE99CCD505923A53F",
+      "like_count": 3,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "柳州市气象台发布高温黄色预警信号[III级/较重]",
+      "text_hint": "柳州市气象台发布高温黄色预警信号[III级/较重]",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/22a3263b679acead74ad000a58879cc6/6aba3505/video/tos/cn/tos-cn-ve-15/oMQmheBeC41BKPA8ngd5AkmlIKY0s9AsvMEyEK/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=357&bt=357&cs=0&ds=3&ft=CZdgCYlIDyjNxIVQ9wSAE9Hhd.ccHZf03-ApQX&mime_type=video_mp4&qs=0&rc=aTM3NmU6M2dnZmhpZTk6OUBpM3J4aDRrb3Q8PDMzNGkzM0AzYmAvYC4xNWIxLl40Nl9hYSNnXjZqcWcvcDVhLS1kLS9zcw%3D%3D&btag=c0000e00010000&cquery=100w_100B_100Y_100J_100o&dy_q=1790577350&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=2026092814354915ECE99CCD505923A53F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7660797142315087753.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7660797142315087753.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 15.0,
+      "raw_payload": {
+        "aweme_id": "7660797142315087753",
+        "author_uid": "3821554642455815",
+        "sec_uid": "MS4wLjABAAAAj_aEA11vowZfAIeMF3KonoHDLrBwVIsfqAOtU3yPgEux-L4GejDjBUAJeOXcjmHf",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAj_aEA11vowZfAIeMF3KonoHDLrBwVIsfqAOtU3yPgEux-L4GejDjBUAJeOXcjmHf"
+      }
+    },
+    "first_seen_at": "2026-09-28T14:35:28+08:00",
+    "last_seen_at": "2026-09-28T14:35:28+08:00",
+    "fetch_runs": [
+      "2026-09-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7660797142315087753.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7660797142315087753.mp3",
+      "source": "download",
+      "processed_at": "2026-09-28T14:36:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7660797142315087753",
+      "transcript_raw": "柳州市气象台发布高温黄色预警信号[III级/较重]柳州市气象台发布高温黄色预警信号[III级/较重]补充信息：柳州市气象台发布高温黄色预警信号[III级/较重]",
+      "transcript_clean": "柳州市气象台发布高温黄色预警信号[III级/较重]柳州市气象台发布高温黄色预警信号[III级/较重]补充信息：柳州市气象台发布高温黄色预警信号[III级/较重]",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-28/7660797142315087753.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7660797142315087753",
+      "summary": "柳州预警发布围绕“柳州市气象台发布高温黄色预警信号[III级/较重]柳州市气象台发布高温黄色预警信号[III级/较重]补充信息：柳州市气象台发布高温黄色预警信号[III级/较重]”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "柳州市气象台发布高温黄色预警信号[III级/较重]。柳州市气象台发布高温黄色预警信号[III级/较重]柳州市气象台发布高温黄色预警信号[III级/较重]补充信息：柳州市气象台发布高温黄色预警信号[III级/较重] 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "柳州市气象台发布高温黄色预警信号[III级/较重]柳州市气象台发布高温黄色预警信号[III级/较重]补充信息：柳州市气象台发布高温黄色预警信号[III级/较重]为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕柳州市气象台发布高温黄色预警信号[III级/较重]柳州市气象台发布高温黄色预警信号[III级/较重]补充信息：柳州市气象台发布高温黄色预警信号[III级/较重]组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "柳州市气象台发布高温黄色预警信号[III级/较重]柳州市气象台发布高温黄色预警信号[III级/较重]补充信息：柳州市气象台发布高温黄色预警信号[III级/较重]",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-28/7660797142315087753.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "last_error": null
+  },
+  "7414314978397785384": {
+    "video_id": "7414314978397785384",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小杨子子子子子",
+      "video_id": "7414314978397785384",
+      "title": "考研高频词~ #每天学习英语一点点 #考研英语 #25考研",
+      "publish_time": "2024-09-14T10:09:07+08:00",
+      "video_url": "https://www.douyin.com/video/7414314978397785384",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/583679fc7172a935fbe3d3f63611c86d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105935200&x-signature=teaB6m%2FIgg9FFRRxT8dNiPdRMNg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260928143553923CBEA51A2CC146A1E4",
+      "like_count": 372,
+      "comment_count": 10,
+      "share_count": 25,
+      "collect_count": 49,
+      "description": "考研高频词~ #每天学习英语一点点 #考研英语 #25考研",
+      "text_hint": "考研高频词~ #每天学习英语一点点 #考研英语 #25考研",
+      "topic_tags": [
+        "每天学习英语一点点",
+        "考研英语",
+        "25考研"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/03f98d1179a000aaad07705e67e54a55/6aba35af/video/tos/cn/tos-cn-ve-0015c800/ooLv4djNyAfEBBnhIbDd37TCEKKeIzLWB6eAQG/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2099&bt=2099&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wpAE9Hhd.ccHZf03-ApQX&mime_type=video_mp4&qs=0&rc=ZjdpPDk6ZDc7ZmRpZzo6OEBpajNlO3A5cnZodTMzNGkzM0BhYjZjYmAxXl8xMzRiMzY1YSNjLzNzMmRzb2ZgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1790577353&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20260928143553923CBEA51A2CC146A1E4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7414314978397785384.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7414314978397785384.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 182.1,
+      "raw_payload": {
+        "aweme_id": "7414314978397785384",
+        "author_uid": "3826750466298180",
+        "sec_uid": "MS4wLjABAAAAQVG5bWjGwYXsg0b61RhCE3mfSxSs8YPL705qHQjPUPSbiCwQIH0SQ2_iFX069QoT",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQVG5bWjGwYXsg0b61RhCE3mfSxSs8YPL705qHQjPUPSbiCwQIH0SQ2_iFX069QoT"
+      }
+    },
+    "first_seen_at": "2026-09-28T14:35:28+08:00",
+    "last_seen_at": "2026-09-28T14:35:28+08:00",
+    "fetch_runs": [
+      "2026-09-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7414314978397785384.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7414314978397785384.mp3",
+      "source": "download",
+      "processed_at": "2026-09-28T14:37:19+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7414314978397785384",
+      "transcript_raw": "考研高频词~ #每天学习英语一点点 #考研英语 #25考研考研高频词~ #每天学习英语一点点 #考研英语 #25考研补充信息：考研高频词~ #每天学习英语一点点 #考研英语 #25考研关键词：每天学习英语一点点、考研英语、25考研",
+      "transcript_clean": "考研高频词~ #每天学习英语一点点 #考研英语 #25考研考研高频词~ #每天学习英语一点点 #考研英语 #25考研补充信息：考研高频词~ #每天学习英语一点点 #考研英语 #25考研关键词：每天学习英语一点点、考研英语、25考研",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-28/7414314978397785384.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7414314978397785384",
+      "summary": "小杨子子子子子围绕“每天学习英语一点点”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "考研高频词~ #每天学习英语一点点 #考研英语 #25考研。考研高频词~ #每天学习英语一点点 #考研英语 #25考研考研高频词~ #每天学习英语一点点 #考研英语 #25考研补充信息：考研高频词~ #每天学习英语一点点 #考研英语 #25考研关键词：每天学习英语一点点、考研英语、25考研 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "每天学习英语一点点为什么总是做不出来结果？",
+        "先把考研英语想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕每天学习英语一点点组织标题与开头。",
+        "用考研英语和25考研补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "每天学习英语一点点",
+        "考研英语",
+        "25考研"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-28/7414314978397785384.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "last_error": null
+  },
+  "7413543044076653833": {
+    "video_id": "7413543044076653833",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "水熊妈咪Serena",
+      "video_id": "7413543044076653833",
+      "title": "3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语",
+      "publish_time": "2024-09-12T08:13:30+08:00",
+      "video_url": "https://www.douyin.com/video/7413543044076653833",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3f73ea53eb86cb90fcf0442fb8b14995~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105935200&x-signature=rN3vd2y4GPFL%2Fod%2B9SylgwEOEOw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260928143555C059EFF54869E933E219",
+      "like_count": 15,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 7,
+      "description": "3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语",
+      "text_hint": "3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语",
+      "topic_tags": [
+        "英语启蒙",
+        "双语宝宝",
+        "零基础幼儿英语启蒙",
+        "宝宝启蒙英语",
+        "启蒙英语"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/a3559560237dedce96fb638751643409/6aba3609/video/cn/mps/realtime/v1/r/p/v0300fg10000crh335fog65la7ib5lq0/867f836661dc4883a2a7989da72e75cb/587e5a62e7b361fbf3948e203f3c8d57/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=888&bt=888&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNxIVQ9wlAE9Hhd.ccHZf03-ApQX&mime_type=video_mp4&qs=0&rc=ZThoOmc7OjU2O2Y0OTZpOUBpM29lOm85cjg2dTMzNGkzM0BgNC9eNjZeXjUxYTMzNTQ1YSNuMmZeMmRjMGVgLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=720p&dy_q=1790577355&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7413543044076653833&l=20260928143555C059EFF54869E933E219&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7413543044076653833.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7413543044076653833.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 270.264,
+      "raw_payload": {
+        "aweme_id": "7413543044076653833",
+        "author_uid": "44433435819176",
+        "sec_uid": "MS4wLjABAAAA_sNd7mE4YDCH1NP9YbulQ3WdhYnXpkm8KXMotyLf1H0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA_sNd7mE4YDCH1NP9YbulQ3WdhYnXpkm8KXMotyLf1H0"
+      }
+    },
+    "first_seen_at": "2026-09-28T14:35:28+08:00",
+    "last_seen_at": "2026-09-28T14:35:28+08:00",
+    "fetch_runs": [
+      "2026-09-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7413543044076653833.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7413543044076653833.mp3",
+      "source": "download",
+      "processed_at": "2026-09-28T14:37:47+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7413543044076653833",
+      "transcript_raw": "3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语补充信息：3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语关键词：英语启蒙、双语宝宝、零基础幼儿英语启蒙、宝宝启蒙英语、启蒙英语",
+      "transcript_clean": "3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语补充信息：3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语关键词：英语启蒙、双语宝宝、零基础幼儿英语启蒙、宝宝启蒙英语、启蒙英语",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-28/7413543044076653833.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7413543044076653833",
+      "summary": "水熊妈咪Serena围绕“英语启蒙”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语。3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语补充信息：3大法宝4大阶段，实现自由开口说#英语启蒙 #双语宝宝 #零基础幼儿英语启蒙 #宝宝启蒙英语 #启蒙英语关键词：英语启蒙、双语宝宝、零基础幼儿英语启蒙、宝宝启蒙英语、启蒙英语 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "英语启蒙为什么总是做不出来结果？",
+        "先把双语宝宝想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕英语启蒙组织标题与开头。",
+        "用双语宝宝和零基础幼儿英语启蒙补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "英语启蒙",
+        "双语宝宝",
+        "零基础幼儿英语启蒙"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-28/7413543044076653833.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "last_error": null
+  },
+  "7527672688005893412": {
+    "video_id": "7527672688005893412",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7527672688005893412",
+      "title": "[热门小说免费看]这小说太好看了，看了二集，根本停不下来!!",
+      "publish_time": "2025-07-16T13:34:00+08:00",
+      "video_url": "https://www.douyin.com/video/7527672688005893412",
+      "cover_url": "",
+      "like_count": 1,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "[热门小说免费看]这小说太好看了，看了二集，根本停不下来!!",
+      "text_hint": "[热门小说免费看]这小说太好看了，看了二集，根本停不下来!!",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ebd47302-46b5-4ff4-a623-942119c30609",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7527672688005893412",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-28T14:35:28+08:00",
+    "last_seen_at": "2026-09-28T14:35:28+08:00",
+    "fetch_runs": [
+      "2026-09-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7073042166670576929": {
+    "video_id": "7073042166670576929",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "龙抬头•深夜食堂",
+      "video_id": "7073042166670576929",
+      "title": "#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道",
+      "publish_time": "2022-03-09T18:16:03+08:00",
+      "video_url": "https://www.douyin.com/video/7073042166670576929",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8a7a36a750f8accefc5a7aaa4e7cb740~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105935200&x-signature=Czvsz95%2FChQL3sLaQZes4ezPSE4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609281436195F1ED8BE2A37E8A34153",
+      "like_count": 8472,
+      "comment_count": 920,
+      "share_count": 1390,
+      "collect_count": 456,
+      "description": "#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道",
+      "text_hint": "#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道",
+      "topic_tags": [
+        "陕西",
+        "炒面粉",
+        "自制美食",
+        "地方美食",
+        "自制油茶",
+        "农村美食",
+        "陕西传统美食",
+        "美味又健康",
+        "还是小时候的味道"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/dfbcafe15a3e15d2072ef8051e44df0f/6aba35c7/video/tos/cn/tos-cn-ve-0015c800/4907c4e6970b446e88e40143deaec0a7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2961&bt=2961&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wmAE9Hhd.ccHZf03-ApQX&mime_type=video_mp4&qs=0&rc=NjQ3aGg4aDY7Z2U1OzY5ZkBpMzNvamc6ZmQ6OzMzNGkzM0AyMmEvYDQyNTUxYF8zM2AyYSMtZzNscjQwZ2hgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100x_102u_100o_100w_100B&dy_q=1790577379&l=202609281436195F1ED8BE2A37E8A34153",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7073042166670576929.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7073042166670576929.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.093,
+      "raw_payload": {
+        "aweme_id": "7073042166670576929",
+        "author_uid": "63870384591",
+        "sec_uid": "MS4wLjABAAAAeC8ZFh9e4Vn597GFxFeJqmpG8fkVlERRlN89gaIc7jI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAeC8ZFh9e4Vn597GFxFeJqmpG8fkVlERRlN89gaIc7jI"
+      }
+    },
+    "first_seen_at": "2026-09-28T14:35:28+08:00",
+    "last_seen_at": "2026-09-28T14:35:28+08:00",
+    "fetch_runs": [
+      "2026-09-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7073042166670576929.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7073042166670576929.mp3",
+      "source": "download",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7073042166670576929",
+      "transcript_raw": "#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道补充信息：#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道关键词：陕西、炒面粉、自制美食、地方美食、自制油茶、农村美食、陕西传统美食、美味又健康、还是小时候的味道",
+      "transcript_clean": "#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道补充信息：#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道关键词：陕西、炒面粉、自制美食、地方美食、自制油茶、农村美食、陕西传统美食、美味又健康、还是小时候的味道",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-28/7073042166670576929.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7073042166670576929",
+      "summary": "龙抬头•深夜食堂围绕“陕西”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道。#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道补充信息：#陕西 #炒面粉 #自制美食 #地方美食 #自制油茶 #农村美食 #陕西传统美食 炒面泡麻花，适合男女老少。#美味又健康 #还是小时候的味道关键词：陕西、炒面粉、自制美食、地方美食、自制油茶、农村美食、陕西传统美食、美味又健康、还是小时候的味道 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "陕西为什么总是做不出来结果？",
+        "先把炒面粉想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕陕西组织标题与开头。",
+        "用炒面粉和自制美食补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "陕西",
+        "炒面粉",
+        "自制美食"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-28/7073042166670576929.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "last_error": null
+  },
+  "7258953767544982844": {
+    "video_id": "7258953767544982844",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "辣椒鲨鱼chili",
+      "video_id": "7258953767544982844",
+      "title": "独美美不如众美美#p图教程 #拍照技巧 @抖音小助手",
+      "publish_time": "2023-07-23T18:08:06+08:00",
+      "video_url": "https://www.douyin.com/video/7258953767544982844",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7b791d36dea77e35639e9e5df2b81c81~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2105935200&x-signature=LE4rsxNu2HIzUNRhCypqTfTAbA4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026092814362158CEE02EF09AA73F5A1C",
+      "like_count": 4067,
+      "comment_count": 39,
+      "share_count": 106,
+      "collect_count": 563,
+      "description": "独美美不如众美美#p图教程 #拍照技巧 @抖音小助手",
+      "text_hint": "独美美不如众美美#p图教程 #拍照技巧 @抖音小助手",
+      "topic_tags": [
+        "p图教程",
+        "拍照技巧"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/89afc4e2a8e1a9607a25ab70a171dd60/6aba35dd/video/tos/cn/tos-cn-ve-0015c800/oYcAAvgD8IAPo62bJbMu9bgLYgDBGBnekQ29Ae/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1191&bt=1191&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wWAE9Hhd.ccHZf03-ApQX&mime_type=video_mp4&qs=0&rc=aTw2MzhoO2Y0OTppNWUzNEBpM25mbTM6ZjtpbDMzNGkzM0BeMTZgYTMxNjExMS8xYjAzYSMzNmNlcjQwa3JgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1790577382&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026092814362158CEE02EF09AA73F5A1C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7258953767544982844.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7258953767544982844.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 199.367,
+      "raw_payload": {
+        "aweme_id": "7258953767544982844",
+        "author_uid": "456990556164656",
+        "sec_uid": "MS4wLjABAAAAEUwZCA9XNjUOSPg6WTRG9xqXzInzS32SV9D-q4GmFD8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAEUwZCA9XNjUOSPg6WTRG9xqXzInzS32SV9D-q4GmFD8"
+      }
+    },
+    "first_seen_at": "2026-09-28T14:35:28+08:00",
+    "last_seen_at": "2026-09-28T14:35:28+08:00",
+    "fetch_runs": [
+      "2026-09-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7258953767544982844.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7258953767544982844.mp3",
+      "source": "download",
+      "processed_at": "2026-09-28T14:38:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7258953767544982844",
+      "transcript_raw": "独美美不如众美美#p图教程 #拍照技巧 @抖音小助手独美美不如众美美#p图教程 #拍照技巧 @抖音小助手补充信息：独美美不如众美美#p图教程 #拍照技巧 @抖音小助手关键词：p图教程、拍照技巧",
+      "transcript_clean": "独美美不如众美美#p图教程 #拍照技巧 @抖音小助手独美美不如众美美#p图教程 #拍照技巧 @抖音小助手补充信息：独美美不如众美美#p图教程 #拍照技巧 @抖音小助手关键词：p图教程、拍照技巧",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-28/7258953767544982844.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7258953767544982844",
+      "summary": "辣椒鲨鱼chili围绕“p图教程”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "独美美不如众美美#p图教程 #拍照技巧 @抖音小助手。独美美不如众美美#p图教程 #拍照技巧 @抖音小助手独美美不如众美美#p图教程 #拍照技巧 @抖音小助手补充信息：独美美不如众美美#p图教程 #拍照技巧 @抖音小助手关键词：p图教程、拍照技巧 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "p图教程为什么总是做不出来结果？",
+        "先把拍照技巧想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕p图教程组织标题与开头。",
+        "用拍照技巧和#拍照技巧补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "p图教程",
+        "拍照技巧",
+        "#拍照技巧"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-28/7258953767544982844.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "last_error": null
+  },
+  "7335737923280669991": {
+    "video_id": "7335737923280669991",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7335737923280669991",
+      "title": "【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春",
+      "publish_time": "2024-02-15T08:10:00+08:00",
+      "video_url": "https://www.douyin.com/video/7335737923280669991",
+      "cover_url": "",
+      "like_count": 1127,
+      "comment_count": 167,
+      "share_count": 87,
+      "collect_count": 110,
+      "description": "【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春",
+      "text_hint": "【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春",
+      "topic_tags": [
+        "阴阳师",
+        "我们一起玩过的阴阳师",
+        "阴阳师新春"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6134cd0019427b1c32568d4b82715e2b/6aba3633/video/tos/cn/tos-cn-ve-0015c800/o8Y71mEoQRNav4GQBJ2edxAIDfABFBQ0eC1L4E/?a=6383&br=542&bt=542&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100D_100J_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1790577398&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNxIVQ9wqAE9Hhd.ccHZf03-ApQX&is_ssr=1&l=20260928143637F5E976C442868249C6B1&lr=all&mime_type=video_mp4&qs=1&rc=OzpnaTtoaTs0NGhlO2hkZEBpM240PHQ5cnF2cTMzNGkzM0AzLi8yYi0xNl8xLjAyXl80YSNgcTJnMmRrYTNgLS1kLTBzcw%3D%3D&__vid=7335737923280669991",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7335737923280669991.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7335737923280669991.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7335737923280669991",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-28T14:35:28+08:00",
+    "last_seen_at": "2026-09-28T14:35:28+08:00",
+    "fetch_runs": [
+      "2026-09-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7335737923280669991.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-28/7335737923280669991.mp3",
+      "source": "download",
+      "processed_at": "2026-09-28T14:37:51+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7335737923280669991",
+      "transcript_raw": "【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春补充信息：【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春关键词：阴阳师、我们一起玩过的阴阳师、阴阳师新春",
+      "transcript_clean": "【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春补充信息：【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春关键词：阴阳师、我们一起玩过的阴阳师、阴阳师新春",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-28/7335737923280669991.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "analysis": {
+      "video_id": "7335737923280669991",
+      "summary": "目标博主 1围绕“阴阳师”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春。【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春补充信息：【阴阳师】缘结神庭院：天缘奇遇翻牌省钱教学+预估价+免费庭院 #阴阳师 #我们一起玩过的阴阳师 #阴阳师新春关键词：阴阳师、我们一起玩过的阴阳师、阴阳师新春 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "阴阳师为什么总是做不出来结果？",
+        "先把我们一起玩过的阴阳师想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕阴阳师组织标题与开头。",
+        "用我们一起玩过的阴阳师和阴阳师新春补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "阴阳师",
+        "我们一起玩过的阴阳师",
+        "阴阳师新春"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-28/7335737923280669991.json",
+      "processed_at": "2026-09-28T14:38:46+08:00"
+    },
+    "last_error": null
   }
 }
