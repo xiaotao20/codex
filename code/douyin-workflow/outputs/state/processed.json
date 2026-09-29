@@ -51533,5 +51533,586 @@
       "processed_at": "2026-09-28T14:38:46+08:00"
     },
     "last_error": null
+  },
+  "7599263087178951601": {
+    "video_id": "7599263087178951601",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "封面新闻",
+      "video_id": "7599263087178951601",
+      "title": "古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡",
+      "publish_time": "2026-01-25T19:41:58+08:00",
+      "video_url": "https://www.douyin.com/video/7599263087178951601",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/628328969ac6632df7488768410a7199~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106021600&x-signature=cjbmZ8JwfTHe1tIcW4zZmOu3s9k%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260929144356C35FFBCA98EA1D2F8E83",
+      "like_count": 1730,
+      "comment_count": 93,
+      "share_count": 53,
+      "collect_count": 63,
+      "description": "古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡",
+      "text_hint": "古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡",
+      "topic_tags": [
+        "檀健次",
+        "卢昱晓",
+        "何不同舟渡"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/29782a3d27636415ec91a88ecffbdb13/6abb887f/video/tos/cn/tos-cn-ve-15c000-ce/ooObVaUEPYRXiAridAB0BBMXAQaJ2FBoPvIUI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2092&bt=2092&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wVL89Hhd.oKJLX73-ApQX&mime_type=video_mp4&qs=0&rc=PGg0NGQ2ZmQ2OTk0NjRlOUBpam53am45cnEzODMzbGkzNUBiNGAvYDU0XmExLl8wYy0zYSM1XjJhMmQ0L29hLS1kLTVzcw%3D%3D&btag=c0000e00018000&cquery=100B_100x_100z_100o_100w&dy_q=1790664236&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20260929144356C35FFBCA98EA1D2F8E83",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7599263087178951601.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7599263087178951601.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 35.734,
+      "raw_payload": {
+        "aweme_id": "7599263087178951601",
+        "author_uid": "96245704530",
+        "sec_uid": "MS4wLjABAAAAoCKB5oMwuIL9YqwLtgXzU1hZE8DrQlWHarD65LwPYew",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAoCKB5oMwuIL9YqwLtgXzU1hZE8DrQlWHarD65LwPYew"
+      }
+    },
+    "first_seen_at": "2026-09-29T14:43:44+08:00",
+    "last_seen_at": "2026-09-29T14:43:44+08:00",
+    "fetch_runs": [
+      "2026-09-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7599263087178951601.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7599263087178951601.mp3",
+      "source": "download",
+      "processed_at": "2026-09-29T14:45:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7599263087178951601",
+      "transcript_raw": "古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡补充信息：古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡关键词：檀健次、卢昱晓、何不同舟渡",
+      "transcript_clean": "古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡补充信息：古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡关键词：檀健次、卢昱晓、何不同舟渡",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-29/7599263087178951601.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7599263087178951601",
+      "summary": "封面新闻围绕“檀健次”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡。古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡补充信息：古装权谋剧《何不同舟渡》今日开机，檀健次被现场粉丝阵仗震惊，哽咽感谢粉丝陪伴。#檀健次 #卢昱晓 #何不同舟渡关键词：檀健次、卢昱晓、何不同舟渡 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "檀健次为什么总是做不出来结果？",
+        "先把卢昱晓想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕檀健次组织标题与开头。",
+        "用卢昱晓和何不同舟渡补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "檀健次",
+        "卢昱晓",
+        "何不同舟渡"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-29/7599263087178951601.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "last_error": null
+  },
+  "7180547124034161931": {
+    "video_id": "7180547124034161931",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "英语诗言老师Lena",
+      "video_id": "7180547124034161931",
+      "title": "30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语",
+      "publish_time": "2022-12-30T20:10:00+08:00",
+      "video_url": "https://www.douyin.com/video/7180547124034161931",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0ad1afbfc2aaab945a462e00ed3d8cda~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106021600&x-signature=YRpgTA7h9hlCNI2BLJHdlUGTU58%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260929144359C154AB4CA064B4F4C022",
+      "like_count": 74,
+      "comment_count": 16,
+      "share_count": 19,
+      "collect_count": 60,
+      "description": "30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语",
+      "text_hint": "30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语",
+      "topic_tags": [
+        "英语儿歌启蒙",
+        "少儿英语",
+        "英语",
+        "看动画学英语"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2998b1bb7268513929c4b078568910e7/6abb8952/video/tos/cn/tos-cn-ve-15/oEzmtCGsUB40mIh0lNebAWFARaiVzg3gQOAJfx/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=326&bt=326&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wZL89Hhd.oKJLX73-ApQX&mime_type=video_mp4&qs=0&rc=M2Y8ZTw5Mzs0Z2dmNmY4OUBpanF1Ozg6ZnA5aDMzNGkzM0AvYi40Yl5jXmMxYzYzMV42YSNeZTE0cjQwbmdgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100K_100o_100w_100B_100H&dy_q=1790664239&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20260929144359C154AB4CA064B4F4C022",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7180547124034161931.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7180547124034161931.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 243.767,
+      "raw_payload": {
+        "aweme_id": "7180547124034161931",
+        "author_uid": "356713044128846",
+        "sec_uid": "MS4wLjABAAAABNJH8JF29McfR8t5cdByjAnfEZcFfRAnzav6Kw3wS78",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABNJH8JF29McfR8t5cdByjAnfEZcFfRAnzav6Kw3wS78"
+      }
+    },
+    "first_seen_at": "2026-09-29T14:43:44+08:00",
+    "last_seen_at": "2026-09-29T14:43:44+08:00",
+    "fetch_runs": [
+      "2026-09-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7180547124034161931.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7180547124034161931.mp3",
+      "source": "download",
+      "processed_at": "2026-09-29T14:49:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7180547124034161931",
+      "transcript_raw": "30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语补充信息：30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语关键词：英语儿歌启蒙、少儿英语、英语、看动画学英语",
+      "transcript_clean": "30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语补充信息：30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语关键词：英语儿歌启蒙、少儿英语、英语、看动画学英语",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-29/7180547124034161931.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7180547124034161931",
+      "summary": "英语诗言老师Lena围绕“英语儿歌启蒙”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语。30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语补充信息：30-经典儿歌《The Shape Song》，磨出我的英语耳朵，轻松提升语感，开启宝贝的英语启蒙~  #英语儿歌启蒙    #少儿英语  #英语 #看动画学英语关键词：英语儿歌启蒙、少儿英语、英语、看动画学英语 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "英语儿歌启蒙为什么总是做不出来结果？",
+        "先把少儿英语想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕英语儿歌启蒙组织标题与开头。",
+        "用少儿英语和英语补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "英语儿歌启蒙",
+        "少儿英语",
+        "英语"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-29/7180547124034161931.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "last_error": null
+  },
+  "7199800318937287993": {
+    "video_id": "7199800318937287993",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "科技小制作",
+      "video_id": "7199800318937287993",
+      "title": "如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频",
+      "publish_time": "2023-02-14T08:22:32+08:00",
+      "video_url": "https://www.douyin.com/video/7199800318937287993",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c1c11dc87f8b206e8af0bc03d793137d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106021600&x-signature=p7ZTqP%2BlP%2BF9%2BmaopxQKqATNRC8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260929144402410B92F2A9ADAC20CAA4",
+      "like_count": 19,
+      "comment_count": 0,
+      "share_count": 1,
+      "collect_count": 14,
+      "description": "如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频",
+      "text_hint": "如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频",
+      "topic_tags": [
+        "用废品制作创意手工",
+        "科技小制作",
+        "科学小实验制作视频",
+        "科学小实验制作",
+        "物理实验制作视频"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/5e1101fdd1898f26db1e00b660aa04c8/6abb8979/video/cn/mps/realtime/v1/r/p/v0200fg10000cfld7jjc77u6cokhb4m0/ffa1c5ce8624423e831ef10f15b6e2fc/fd7526358c4f53deb6aadd7ee4a44eb1/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=735&bt=735&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9wzL89Hhd.oKJLX73-ApQX&mime_type=video_mp4&qs=0&rc=ZjU5OGk0aDZoNTc5aDg0aUBpMzdrcjk6Zm1naTMzNGkzM0BjYl8uLWMuNTAxLzVgYF5jYSNqX2hgcjRnNGlgLS1kLS9zcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1790664242&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7199800318937287993&l=20260929144402410B92F2A9ADAC20CAA4&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7199800318937287993.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7199800318937287993.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 279.767,
+      "raw_payload": {
+        "aweme_id": "7199800318937287993",
+        "author_uid": "2766026504931646",
+        "sec_uid": "MS4wLjABAAAAu8I3mdm0aGLBg5-enI-U-BJsP1wHB7UdKzQvveZY_0V66X9ldUvCAPFzUjj859_S",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAu8I3mdm0aGLBg5-enI-U-BJsP1wHB7UdKzQvveZY_0V66X9ldUvCAPFzUjj859_S"
+      }
+    },
+    "first_seen_at": "2026-09-29T14:43:44+08:00",
+    "last_seen_at": "2026-09-29T14:43:44+08:00",
+    "fetch_runs": [
+      "2026-09-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7199800318937287993.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7199800318937287993.mp3",
+      "source": "download",
+      "processed_at": "2026-09-29T14:49:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7199800318937287993",
+      "transcript_raw": "如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频补充信息：如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频关键词：用废品制作创意手工、科技小制作、科学小实验制作视频、科学小实验制作、物理实验制作视频",
+      "transcript_clean": "如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频补充信息：如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频关键词：用废品制作创意手工、科技小制作、科学小实验制作视频、科学小实验制作、物理实验制作视频",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-29/7199800318937287993.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7199800318937287993",
+      "summary": "科技小制作围绕“用废品制作创意手工”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频。如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频补充信息：如何制作热空气动力实验#用废品制作创意手工 #科技小制作 #科学小实验制作视频 #科学小实验制作 #物理实验制作视频关键词：用废品制作创意手工、科技小制作、科学小实验制作视频、科学小实验制作、物理实验制作视频 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "用废品制作创意手工为什么总是做不出来结果？",
+        "先把科技小制作想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕用废品制作创意手工组织标题与开头。",
+        "用科技小制作和科学小实验制作视频补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "用废品制作创意手工",
+        "科技小制作",
+        "科学小实验制作视频"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-29/7199800318937287993.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "last_error": null
+  },
+  "7589285745651763369": {
+    "video_id": "7589285745651763369",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7589285745651763369",
+      "title": "在抖音记录美好生活20260929",
+      "publish_time": "2026-09-29T14:44:38+08:00",
+      "video_url": "https://www.douyin.com/video/7589285745651763369",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20260929",
+      "text_hint": "在抖音记录美好生活20260929",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0fce53fc-2d49-41f2-8f42-cb5e6d6d328c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7589285745651763369",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-29T14:43:44+08:00",
+    "last_seen_at": "2026-09-29T14:43:44+08:00",
+    "fetch_runs": [
+      "2026-09-29"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7557218918827592986": {
+    "video_id": "7557218918827592986",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "南九三",
+      "video_id": "7557218918827592986",
+      "title": "南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂",
+      "publish_time": "2025-10-04T12:29:09+08:00",
+      "video_url": "https://www.douyin.com/video/7557218918827592986",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/d60a09fa5a439ae22020e227034ad11f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106021600&x-signature=XgQOpCDLjzEi1qH1NE%2Fbi4LoKBc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20260929144412AAFCE8EC99EFE3D02BDE",
+      "like_count": 33,
+      "comment_count": 54,
+      "share_count": 19,
+      "collect_count": 3,
+      "description": "南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂",
+      "text_hint": "南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂",
+      "topic_tags": [
+        "钓鱼",
+        "钓鱼的乐趣只有钓鱼人懂"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ab61617286d8bc19cd669cdbab311dfd/6abb8a82/video/tos/cn/tos-cn-ve-0015c800/oIf9IAG6TqJ13Llg9SB2ERhpgSFBAoAK4eDCnE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2139&bt=2139&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wTL89Hhd.oKJLX73-ApQX&mime_type=video_mp4&qs=0&rc=ZzNnNDg1M2k8M2Q1Zjk8ZkBpanc2bm85cjVkNjMzNGkzM0AtMjJjXzEtX2MxM141LjBhYSM2cWpiMmRjMGRhLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1790664252&feature_id=fea919893f650a8c49286568590446ef&l=20260929144412AAFCE8EC99EFE3D02BDE",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7557218918827592986.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7557218918827592986.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 534.499,
+      "raw_payload": {
+        "aweme_id": "7557218918827592986",
+        "author_uid": "2773401257115716",
+        "sec_uid": "MS4wLjABAAAASsoHhKU4NL4fdQlntIfFfXnfiMDk0VG2yjq0H9Zgfx3qzlrEKxdvF9eS8J9ew-yE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAASsoHhKU4NL4fdQlntIfFfXnfiMDk0VG2yjq0H9Zgfx3qzlrEKxdvF9eS8J9ew-yE"
+      }
+    },
+    "first_seen_at": "2026-09-29T14:43:44+08:00",
+    "last_seen_at": "2026-09-29T14:43:44+08:00",
+    "fetch_runs": [
+      "2026-09-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7557218918827592986.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7557218918827592986.mp3",
+      "source": "download",
+      "processed_at": "2026-09-29T14:46:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7557218918827592986",
+      "transcript_raw": "南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂补充信息：南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂关键词：钓鱼、钓鱼的乐趣只有钓鱼人懂",
+      "transcript_clean": "南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂补充信息：南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂关键词：钓鱼、钓鱼的乐趣只有钓鱼人懂",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-29/7557218918827592986.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7557218918827592986",
+      "summary": "南九三围绕“钓鱼”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂。南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂补充信息：南九三海钓日记 第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼 #钓鱼的乐趣只有钓鱼人懂关键词：钓鱼、钓鱼的乐趣只有钓鱼人懂 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "钓鱼为什么总是做不出来结果？",
+        "先把钓鱼的乐趣只有钓鱼人懂想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕钓鱼组织标题与开头。",
+        "用钓鱼的乐趣只有钓鱼人懂和第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "钓鱼",
+        "钓鱼的乐趣只有钓鱼人懂",
+        "第1季｜第一次上风车塔钓鱼居然碰到强对流天气……狂风暴雨⛈️闪电全往头上招呼！晚上早早躲帐蓬里面等天亮才敢出来。清点整理一下鱼获还可以，两个新轮子的运气还比较给力！#钓鱼"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-29/7557218918827592986.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "last_error": null
+  },
+  "7116085910613101861": {
+    "video_id": "7116085910613101861",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "自贡市拍头哥农业有限公司(收徒)",
+      "video_id": "7116085910613101861",
+      "title": "任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022",
+      "publish_time": "2022-07-03T18:07:45+08:00",
+      "video_url": "https://www.douyin.com/video/7116085910613101861",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/977a5b869c3e7d5354292de2013b95ab~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106021600&x-signature=JaPM6uVRCXNdNHhBeLXzANH8lVw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202609291444160A350D1CA14364383D08",
+      "like_count": 1791,
+      "comment_count": 184,
+      "share_count": 41,
+      "collect_count": 55,
+      "description": "任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022",
+      "text_hint": "任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022",
+      "topic_tags": [
+        "三农",
+        "返乡创业青年",
+        "新农村计划2022"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1b3fbb64ad6037ed274f432e848959ae/6abb8924/video/tos/cn/tos-cn-ve-0015c800/0e2e301a64d247f2a13465aba16535a9/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2533&bt=2533&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w.f89Hhd.oKJLX73-ApQX&mime_type=video_mp4&qs=0&rc=Omg2ZWc1NDdnOTtoM2Y3Z0BpM2o6NGY6ZnhwZTMzNGkzM0BfLzUwLl8zXjMxMWNeMC8vYSNqNF5gcjRfZy1gLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_102u_100o_100w&dy_q=1790664256&l=202609291444160A350D1CA14364383D08",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7116085910613101861.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7116085910613101861.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.118,
+      "raw_payload": {
+        "aweme_id": "7116085910613101861",
+        "author_uid": "2586469299923560",
+        "sec_uid": "MS4wLjABAAAAWNrX076gjxjZgtTA7XixHQgBOOfE1hc29zm7yvbaSFdIBBYQ8ZlVFQawFxIFlZP4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWNrX076gjxjZgtTA7XixHQgBOOfE1hc29zm7yvbaSFdIBBYQ8ZlVFQawFxIFlZP4"
+      }
+    },
+    "first_seen_at": "2026-09-29T14:43:44+08:00",
+    "last_seen_at": "2026-09-29T14:43:44+08:00",
+    "fetch_runs": [
+      "2026-09-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7116085910613101861.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7116085910613101861.mp3",
+      "source": "download",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7116085910613101861",
+      "transcript_raw": "任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022补充信息：任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022关键词：三农、返乡创业青年、新农村计划2022",
+      "transcript_clean": "任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022补充信息：任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022关键词：三农、返乡创业青年、新农村计划2022",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-29/7116085910613101861.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7116085910613101861",
+      "summary": "自贡市拍头哥农业有限公司(收徒)围绕“三农”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022。任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022补充信息：任何一个东西只能少量的去尝试一下，难道有好的方法还没找到吗？你不去尝试，永远都不知道谁对谁错！都是老百姓，都不容易！#三农 #返乡创业青年 #新农村计划2022关键词：三农、返乡创业青年、新农村计划2022 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "三农为什么总是做不出来结果？",
+        "先把返乡创业青年想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕三农组织标题与开头。",
+        "用返乡创业青年和新农村计划2022补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "三农",
+        "返乡创业青年",
+        "新农村计划2022"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-29/7116085910613101861.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "last_error": null
+  },
+  "7364241963693952265": {
+    "video_id": "7364241963693952265",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7364241963693952265",
+      "title": "经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐",
+      "publish_time": "2024-05-02T03:40:00+08:00",
+      "video_url": "https://www.douyin.com/video/7364241963693952265",
+      "cover_url": "",
+      "like_count": 194,
+      "comment_count": 16,
+      "share_count": 46,
+      "collect_count": 44,
+      "description": "经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐",
+      "text_hint": "经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐",
+      "topic_tags": [
+        "我要上热门",
+        "音乐分享",
+        "音乐",
+        "抖音热歌",
+        "好歌推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/91e174baf46103c84e22962cea87b40a/6abb895f/video/tos/cn/tos-cn-ve-0015c800/ocfV0dbzGAruATHQhDYYceJBNx4NEBDVA6LgIz/?a=6383&br=1077&bt=1077&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1790664273&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wNf89Hhd.oKJLX73-ApQX&is_ssr=1&l=20260929144432FA57C885AF56DAB0D046&lr=all&mime_type=video_mp4&qs=1&rc=OTQzO2k5NjxoaTo4NDM8ZEBpam1oOTY6ZjZqcjMzNGkzM0A2M19jMTA1Xi4xLzUvYzAtYSMycC1xcjRnaW1gLS1kLWFzcw%3D%3D&__vid=7364241963693952265",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7364241963693952265.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7364241963693952265.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7364241963693952265",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-09-29T14:43:44+08:00",
+    "last_seen_at": "2026-09-29T14:43:44+08:00",
+    "fetch_runs": [
+      "2026-09-29"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7364241963693952265.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-09-29/7364241963693952265.mp3",
+      "source": "download",
+      "processed_at": "2026-09-29T14:48:36+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7364241963693952265",
+      "transcript_raw": "经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐补充信息：经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐关键词：我要上热门、音乐分享、音乐、抖音热歌、好歌推荐",
+      "transcript_clean": "经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐补充信息：经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐关键词：我要上热门、音乐分享、音乐、抖音热歌、好歌推荐",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-09-29/7364241963693952265.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "analysis": {
+      "video_id": "7364241963693952265",
+      "summary": "目标博主 1围绕“我要上热门”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐。经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐补充信息：经典老歌百听不厌～《卓玛》云飞#我要上热门 #音乐分享 #音乐 #抖音热歌 #好歌推荐关键词：我要上热门、音乐分享、音乐、抖音热歌、好歌推荐 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "我要上热门为什么总是做不出来结果？",
+        "先把音乐分享想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕我要上热门组织标题与开头。",
+        "用音乐分享和音乐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "我要上热门",
+        "音乐分享",
+        "音乐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-09-29/7364241963693952265.json",
+      "processed_at": "2026-09-29T14:49:49+08:00"
+    },
+    "last_error": null
   }
 }
