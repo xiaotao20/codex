@@ -52114,5 +52114,619 @@
       "processed_at": "2026-09-29T14:49:49+08:00"
     },
     "last_error": null
+  },
+  "7691408147583405354": {
+    "video_id": "7691408147583405354",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "团团好书阁",
+      "video_id": "7691408147583405354",
+      "title": "经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐",
+      "publish_time": "2026-10-01T03:11:55+08:00",
+      "video_url": "https://www.douyin.com/video/7691408147583405354",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0000/oEeeMQPgMqEccE4qAQ89ATGeoX9evqCwLkMGx8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106198000&x-signature=r0H6dNUGIC3TJDs1cl%2B1blfITK8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610011504545992F3D492D6F44A3072",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐",
+      "text_hint": "经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐",
+      "topic_tags": [
+        "化学启蒙",
+        "物理启蒙",
+        "好书推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f56c4605b869e675ee2a4d4d83da41fc/6abe307f/video/tos/cn/tos-cn-ve-51/oEoYfABXEY2gUims1CQ99QhBQIm9AkHEaFzqi2/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=3717&bt=3717&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wgsE0Hhd.zQ8Y103-ApQX&mime_type=video_mp4&qs=0&rc=N2U4aTM2OjNpaTtpNzVlaUBpM2ptPG05cnhvZDMzNDYzM0BfMjBeM19jX2AxNGM1YzY0YSMvYDIuMmRzcXJhLS1kMDBzcw%3D%3D&btag=c0000e00020000&cquery=100B_102v_102u_100o_100w&dy_q=1790838294&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=202610011504545992F3D492D6F44A3072",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7691408147583405354.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7691408147583405354.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 57.5,
+      "raw_payload": {
+        "aweme_id": "7691408147583405354",
+        "author_uid": "4185218278242793",
+        "sec_uid": "MS4wLjABAAAAVWHEisqRB2MLmQxaogJvh8e-mawpp1YT-JZ9Vl9HkK670ldrBWFJQTi4to-U3RnE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAVWHEisqRB2MLmQxaogJvh8e-mawpp1YT-JZ9Vl9HkK670ldrBWFJQTi4to-U3RnE"
+      }
+    },
+    "first_seen_at": "2026-10-01T15:04:33+08:00",
+    "last_seen_at": "2026-10-01T15:04:33+08:00",
+    "fetch_runs": [
+      "2026-10-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7691408147583405354.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7691408147583405354.mp3",
+      "source": "download",
+      "processed_at": "2026-10-01T15:05:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7691408147583405354",
+      "transcript_raw": "经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐补充信息：经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐关键词：化学启蒙、物理启蒙、好书推荐",
+      "transcript_clean": "经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐补充信息：经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐关键词：化学启蒙、物理启蒙、好书推荐",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-01/7691408147583405354.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "analysis": {
+      "video_id": "7691408147583405354",
+      "summary": "团团好书阁围绕“化学启蒙”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐。经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐补充信息：经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上学习，还能培养孩子物理化思维#化学启蒙#物理启蒙#好书推荐关键词：化学启蒙、物理启蒙、好书推荐 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "化学启蒙为什么总是做不出来结果？",
+        "先把物理启蒙想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕化学启蒙组织标题与开头。",
+        "用物理启蒙和好书推荐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "化学启蒙",
+        "物理启蒙",
+        "好书推荐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-01/7691408147583405354.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "last_error": null
+  },
+  "7656698968369761256": {
+    "video_id": "7656698968369761256",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "潇湘晨报·晨视频",
+      "video_id": "7656698968369761256",
+      "title": "深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘",
+      "publish_time": "2026-06-29T14:22:29+08:00",
+      "video_url": "https://www.douyin.com/video/7656698968369761256",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/o4npROAAIQfEmHABBFUBEMGEhQf4acA8AAfXC7~noop.jpeg?lk3s=138a59ce&x-expires=1792047600&x-signature=N7vldHBggkvz%2BAzsSmwKgbvMCvU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&biz_tag=pcweb_cover&l=20261001150458ABE0B842114801CA8AF1",
+      "like_count": 8945,
+      "comment_count": 3975,
+      "share_count": 1399,
+      "collect_count": 756,
+      "description": "深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘",
+      "text_hint": "深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://sf6-cdn-tos.douyinstatic.com/obj/tos-cn-ve-2774/ocIHgCDQLMqCFIaPEDfBZfyTArMEREtFCEAPtI",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7656698968369761256.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7656698968369761256.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7656698968369761256",
+        "author_uid": "100930506481",
+        "sec_uid": "MS4wLjABAAAAV7A4NXDcrUzXc8g4tXGv1RC8fRKD_FB3NFvt_WkXwSI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAV7A4NXDcrUzXc8g4tXGv1RC8fRKD_FB3NFvt_WkXwSI"
+      }
+    },
+    "first_seen_at": "2026-10-01T15:04:33+08:00",
+    "last_seen_at": "2026-10-01T15:04:33+08:00",
+    "fetch_runs": [
+      "2026-10-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7656698968369761256.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7656698968369761256.mp3",
+      "source": "download",
+      "processed_at": "2026-10-01T15:05:52+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7656698968369761256",
+      "transcript_raw": "深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘补充信息：深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘",
+      "transcript_clean": "深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘补充信息：深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-01/7656698968369761256.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "analysis": {
+      "video_id": "7656698968369761256",
+      "summary": "潇湘晨报·晨视频围绕“深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘补充信息：深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘。深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘补充信息：深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘补充信息：深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘补充信息：深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘补充信息：深圳警方通报“东鹏特饮创始人不喝自家饮料”：罗某某(男，39岁，自媒体从业人员)借助AI工具编造虚假信息散布谣言，已被刑拘",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-01/7656698968369761256.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "last_error": null
+  },
+  "7415550969833917706": {
+    "video_id": "7415550969833917706",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "电子妆娘小秀（长沙接妆）",
+      "video_id": "7415550969833917706",
+      "title": "72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记",
+      "publish_time": "2024-09-17T18:05:15+08:00",
+      "video_url": "https://www.douyin.com/video/7415550969833917706",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0a86fd7561a8c91091e15dfd3a96caf4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106198000&x-signature=AUxgZVqo7qyF9UNB7ucr%2FAa0c3M%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026100115050101BC8C1C9E7E82B30979",
+      "like_count": 327,
+      "comment_count": 16,
+      "share_count": 122,
+      "collect_count": 168,
+      "description": "72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记",
+      "text_hint": "72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记",
+      "topic_tags": [
+        "王胖子",
+        "仿妆",
+        "妆教",
+        "盗墓笔记"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/28640f5c8b519eb75379b19f02e915b0/6abe3111/video/cn/mps/realtime/v1/r/p/v0d00fg10000crkl7uvog65m3gurmu50/cdac7fbf990043e1ad9b0e860dbf9c9b/fb1e61e63a8fe88823abf4e0b18bf9d1/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1474&bt=1474&cs=0&ds=3&ft=InFJ3Y-5DyjNbRVQ9wQsE0Hhd.zQ8Y103-ApQX&mime_type=video_mp4&qs=0&rc=ZWZpZzloZWc0NjM8aWlmZ0BpM3h1anA5cnhvdTMzNGkzM0A2Nl8tNS02XmIxLTZfNF5gYSMyanIwMmRzNGhgLS1kLWFzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100w_100B_100x_100z_100o&definition=720p&dy_q=1790838301&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7415550969833917706&l=2026100115050101BC8C1C9E7E82B30979&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7415550969833917706.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7415550969833917706.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 196.912,
+      "raw_payload": {
+        "aweme_id": "7415550969833917706",
+        "author_uid": "954847060820653",
+        "sec_uid": "MS4wLjABAAAAOTz3_k0NnjWLVHBQjXe8wLwMxIx1cM0vrqDNnK87VQI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAOTz3_k0NnjWLVHBQjXe8wLwMxIx1cM0vrqDNnK87VQI"
+      }
+    },
+    "first_seen_at": "2026-10-01T15:04:33+08:00",
+    "last_seen_at": "2026-10-01T15:04:33+08:00",
+    "fetch_runs": [
+      "2026-10-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7415550969833917706.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7415550969833917706.mp3",
+      "source": "download",
+      "processed_at": "2026-10-01T15:07:23+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7415550969833917706",
+      "transcript_raw": "72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记补充信息：72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记关键词：王胖子、仿妆、妆教、盗墓笔记",
+      "transcript_clean": "72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记补充信息：72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记关键词：王胖子、仿妆、妆教、盗墓笔记",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-01/7415550969833917706.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "analysis": {
+      "video_id": "7415550969833917706",
+      "summary": "电子妆娘小秀（长沙接妆）围绕“王胖子”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记。72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记补充信息：72天【王胖子】仿妆，妆教#王胖子#仿妆#妆教#盗墓笔记关键词：王胖子、仿妆、妆教、盗墓笔记 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "王胖子为什么总是做不出来结果？",
+        "先把仿妆想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕王胖子组织标题与开头。",
+        "用仿妆和妆教补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "王胖子",
+        "仿妆",
+        "妆教"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-01/7415550969833917706.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "last_error": null
+  },
+  "7419233974146387211": {
+    "video_id": "7419233974146387211",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "意哥蓝牙加装工作室",
+      "video_id": "7419233974146387211",
+      "title": "大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。",
+      "publish_time": "2024-09-27T16:17:24+08:00",
+      "video_url": "https://www.douyin.com/video/7419233974146387211",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/osl2MkkE8p93CIJEQBFmAabDgrC0zArhfm9Aze~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106198000&x-signature=rNCn8f3U5djAXY8h0QbfvP4hlmY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610011505057BFA00F521B99B3C319C",
+      "like_count": 23,
+      "comment_count": 5,
+      "share_count": 1,
+      "collect_count": 8,
+      "description": "大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。",
+      "text_hint": "大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/386ad5115e63cb81864831df2802f07c/6abe319a/video/tos/cn/tos-cn-ve-0015c800/oAlFrABzIg9CDkaMZfek2Em3mp8apD7t9QEgAA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=670&bt=670&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wasE0Hhd.zQ8Y103-ApQX&mime_type=video_mp4&qs=0&rc=OTY4Z2g5M2VoZ2g5OGY8PEBpajh5ZHg5cjY5dTMzNGkzM0BiXy0wNF5fNS4xXmNeLl8yYSNpNGJmMmQ0Zm9gLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1790838305&feature_id=aa7df520beeae8e397df15f38df0454c&l=202610011505057BFA00F521B99B3C319C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7419233974146387211.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7419233974146387211.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 329.074,
+      "raw_payload": {
+        "aweme_id": "7419233974146387211",
+        "author_uid": "84069067809",
+        "sec_uid": "MS4wLjABAAAAq2FG1gdZmKQsN8ysKg7TVtgmooPfqie1mqoRKBBFMVU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAq2FG1gdZmKQsN8ysKg7TVtgmooPfqie1mqoRKBBFMVU"
+      }
+    },
+    "first_seen_at": "2026-10-01T15:04:33+08:00",
+    "last_seen_at": "2026-10-01T15:04:33+08:00",
+    "fetch_runs": [
+      "2026-10-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7419233974146387211.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7419233974146387211.mp3",
+      "source": "download",
+      "processed_at": "2026-10-01T15:06:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7419233974146387211",
+      "transcript_raw": "大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。补充信息：大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。",
+      "transcript_clean": "大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。补充信息：大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-01/7419233974146387211.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "analysis": {
+      "video_id": "7419233974146387211",
+      "summary": "意哥蓝牙加装工作室围绕“大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。补充信息：大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。。大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。补充信息：大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。补充信息：大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。补充信息：大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好。补充信息：大家好，讲讲24伏大货车，大客车。怎样接线，用12伏轿车CD机音响设备。希望大家开心快乐每一天。讲的不好，大家开心就好",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-01/7419233974146387211.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "last_error": null
+  },
+  "7571073049668095241": {
+    "video_id": "7571073049668095241",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7571073049668095241",
+      "title": "在抖音记录美好生活20261001",
+      "publish_time": "2026-10-01T15:05:28+08:00",
+      "video_url": "https://www.douyin.com/video/7571073049668095241",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261001",
+      "text_hint": "在抖音记录美好生活20261001",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/fc1e1cd4-7085-4128-ba93-2278b78a7ae0",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7571073049668095241",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-01T15:04:33+08:00",
+    "last_seen_at": "2026-10-01T15:04:33+08:00",
+    "fetch_runs": [
+      "2026-10-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7425465920941722932": {
+    "video_id": "7425465920941722932",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "香香鸡（蛋仔派对）",
+      "video_id": "7425465920941722932",
+      "title": "之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对",
+      "publish_time": "2024-10-14T11:20:16+08:00",
+      "video_url": "https://www.douyin.com/video/7425465920941722932",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/256852117a81229a694a7afc31e2c240~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106198000&x-signature=eZgG4jiqn0OG9qn4mBOMXwlE3YY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261001150517842FAC068B92EBD76461",
+      "like_count": 5886,
+      "comment_count": 274,
+      "share_count": 3008,
+      "collect_count": 1104,
+      "description": "之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对",
+      "text_hint": "之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对",
+      "topic_tags": [
+        "蛋仔派对创计划",
+        "蛋仔派对"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/9ecb00d7b8d5a044e9f0d746225170d5/6abe3288/video/tos/cn/tos-cn-ve-15/oE2QUAfiKghlzLjCuEBbeMAtu6IGivAXB08kjM/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=683&bt=683&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9w5sE0Hhd.zQ8Y103-ApQX&mime_type=video_mp4&qs=0&rc=aTVmZmhlZDo0OmhpMzczN0Bpam52aG45cjg7djMzNGkzM0BjXi5gYV81XzExMmFiYC5gYSNlbGlrMmRzbzNgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cc=1f&cquery=100o_100w_100B_100x_100z&dy_q=1790838317&feature_id=aa7df520beeae8e397df15f38df0454c&l=20261001150517842FAC068B92EBD76461&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7425465920941722932.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7425465920941722932.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 555.654,
+      "raw_payload": {
+        "aweme_id": "7425465920941722932",
+        "author_uid": "3219001041239822",
+        "sec_uid": "MS4wLjABAAAANHxYGQYuIPUaZpGk0LQXBJ8Vu4-4uIVqdM9pJfvtHxP1YrYcp3jtUHjfsDy3Hsmm",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAANHxYGQYuIPUaZpGk0LQXBJ8Vu4-4uIVqdM9pJfvtHxP1YrYcp3jtUHjfsDy3Hsmm"
+      }
+    },
+    "first_seen_at": "2026-10-01T15:04:33+08:00",
+    "last_seen_at": "2026-10-01T15:04:33+08:00",
+    "fetch_runs": [
+      "2026-10-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7425465920941722932.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7425465920941722932.mp3",
+      "source": "download",
+      "processed_at": "2026-10-01T15:06:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7425465920941722932",
+      "transcript_raw": "之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对补充信息：之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对关键词：蛋仔派对创计划、蛋仔派对",
+      "transcript_clean": "之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对补充信息：之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对关键词：蛋仔派对创计划、蛋仔派对",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-01/7425465920941722932.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "analysis": {
+      "video_id": "7425465920941722932",
+      "summary": "香香鸡（蛋仔派对）围绕“蛋仔派对创计划”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对。之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对补充信息：之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对关键词：蛋仔派对创计划、蛋仔派对 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "蛋仔派对创计划为什么总是做不出来结果？",
+        "先把蛋仔派对想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕蛋仔派对创计划组织标题与开头。",
+        "用蛋仔派对和之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对补充信息：之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对关键词：蛋仔派对创计划、蛋仔派对补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "蛋仔派对创计划",
+        "蛋仔派对",
+        "之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对补充信息：之前流量不好，不知道大家喜不喜欢这种类型，再发一次，如果喜欢，打算在试着更一次这种类型#蛋仔派对创计划#蛋仔派对关键词：蛋仔派对创计划、蛋仔派对"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-01/7425465920941722932.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "last_error": null
+  },
+  "7392542526248471827": {
+    "video_id": "7392542526248471827",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "宽河家的小跟班",
+      "video_id": "7392542526248471827",
+      "title": "#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子",
+      "publish_time": "2024-07-17T18:00:48+08:00",
+      "video_url": "https://www.douyin.com/video/7392542526248471827",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5bcca68308a14bc5dbcc73a3b0e92ea4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106198000&x-signature=r8qdiVHiIwDdfiqeApx4CBGiHbA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610011505207244E809E53AD94D97F4",
+      "like_count": 83,
+      "comment_count": 12,
+      "share_count": 9,
+      "collect_count": 8,
+      "description": "#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子",
+      "text_hint": "#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子",
+      "topic_tags": [
+        "创作灵感",
+        "抖音美食推荐官",
+        "记录真实生活",
+        "格拉条",
+        "拉条子"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/aa40c17c3ad3d1e5412f11a69eb6cd9d/6abe315c/video/tos/cn/tos-cn-ve-0015c800/oUeNdE7cB0GLfveIpnLndQXhBWkmIACUyniGgA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2666&bt=2666&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wDsE0Hhd.zQ8Y103-ApQX&mime_type=video_mp4&qs=0&rc=NTkzZDU4Z2ZkOWc2PDM6N0Bpam14NW85cnVzdDMzNGkzM0AwXi00LS1eNmIxXzIvYTAzYSNpMWExMmRrNl9gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1790838320&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202610011505207244E809E53AD94D97F4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7392542526248471827.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7392542526248471827.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 252.493,
+      "raw_payload": {
+        "aweme_id": "7392542526248471827",
+        "author_uid": "2157659859205795",
+        "sec_uid": "MS4wLjABAAAAih6uEBckj2Ek2uc5UBbEtvzaPmmisadLWI4yx1Fo1Mfyb9nprEaHAjcvZWO07wQz",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAih6uEBckj2Ek2uc5UBbEtvzaPmmisadLWI4yx1Fo1Mfyb9nprEaHAjcvZWO07wQz"
+      }
+    },
+    "first_seen_at": "2026-10-01T15:04:33+08:00",
+    "last_seen_at": "2026-10-01T15:04:33+08:00",
+    "fetch_runs": [
+      "2026-10-01"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7392542526248471827.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-01/7392542526248471827.mp3",
+      "source": "download",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7392542526248471827",
+      "transcript_raw": "#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子补充信息：#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子关键词：创作灵感、抖音美食推荐官、记录真实生活、格拉条、拉条子",
+      "transcript_clean": "#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子补充信息：#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子关键词：创作灵感、抖音美食推荐官、记录真实生活、格拉条、拉条子",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-01/7392542526248471827.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "analysis": {
+      "video_id": "7392542526248471827",
+      "summary": "宽河家的小跟班围绕“创作灵感”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子。#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子补充信息：#创作灵感 其实我想做的不是这种扁的拉条子  我想做的是圆的  但是嘛……嘿嘿嘿  下次下次～不过嘛这个银耳羹  尊嘟好香好香，下次可以➕牛奶试试#抖音美食推荐官 #记录真实生活 #格拉条 #拉条子关键词：创作灵感、抖音美食推荐官、记录真实生活、格拉条、拉条子 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "创作灵感为什么总是做不出来结果？",
+        "先把抖音美食推荐官想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕创作灵感组织标题与开头。",
+        "用抖音美食推荐官和记录真实生活补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "创作灵感",
+        "抖音美食推荐官",
+        "记录真实生活"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-01/7392542526248471827.json",
+      "processed_at": "2026-10-01T15:08:16+08:00"
+    },
+    "last_error": null
+  },
+  "7426778961167830309": {
+    "video_id": "7426778961167830309",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7426778961167830309",
+      "title": "在抖音记录美好生活20261001",
+      "publish_time": "2026-10-01T15:05:28+08:00",
+      "video_url": "https://www.douyin.com/video/7426778961167830309",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261001",
+      "text_hint": "在抖音记录美好生活20261001",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/49d5f773-d473-4dd6-826f-63e9c94e26d9",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7426778961167830309",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-01T15:04:33+08:00",
+    "last_seen_at": "2026-10-01T15:04:33+08:00",
+    "fetch_runs": [
+      "2026-10-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
