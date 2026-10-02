@@ -52728,5 +52728,673 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7691566945472122163": {
+    "video_id": "7691566945472122163",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "学丞刘晓艳讲考研英语",
+      "video_id": "7691566945472122163",
+      "title": "考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳",
+      "publish_time": "2026-10-01T13:28:06+08:00",
+      "video_url": "https://www.douyin.com/video/7691566945472122163",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-958309/owtKUVA1XETJAglE7SavyW5Ah99oQCTfNwgQQa~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106280800&x-signature=VU%2BauN9fhaKKCRyLqvuW7cM4n94%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610021452436701F57FF448BF8FA01B",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳",
+      "text_hint": "考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳",
+      "topic_tags": [
+        "学丞",
+        "刘晓艳"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/eeec68651c140b86fc458cdeed50b042/6abf7f1c/video/tos/cn/tos-cn-v-958309/0054c87cfefc490180503e560617a576/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=2266&bt=2266&cs=0&ds=3&ft=CZdgCYlIDyjNewVQ9w4u80Hhd..jwNC73-ApQX&mime_type=video_mp4&qs=13&rc=anVqOmo5cnN4ZDMzNDYzM0BpanVqOmo5cnN4ZDMzNDYzM0BiM2YxMmRrcnJhLS1kMC9zYSNiM2YxMmRrcnJhLS1kMC9zcw%3D%3D&btag=c0000e00020000&cquery=100w_100B_102v_102u_100o&dy_q=1790923963&l=202610021452436701F57FF448BF8FA01B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7691566945472122163.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7691566945472122163.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 49.467,
+      "raw_payload": {
+        "aweme_id": "7691566945472122163",
+        "author_uid": "51038624951744",
+        "sec_uid": "MS4wLjABAAAAvudvIjNtjClMpqTzIPaYkNrWZgY3g1rjEi1xBoW7y-8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAvudvIjNtjClMpqTzIPaYkNrWZgY3g1rjEi1xBoW7y-8"
+      }
+    },
+    "first_seen_at": "2026-10-02T14:52:29+08:00",
+    "last_seen_at": "2026-10-02T14:52:29+08:00",
+    "fetch_runs": [
+      "2026-10-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7691566945472122163.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7691566945472122163.mp3",
+      "source": "download",
+      "processed_at": "2026-10-02T14:53:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7691566945472122163",
+      "transcript_raw": "考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳补充信息：考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳关键词：学丞、刘晓艳",
+      "transcript_clean": "考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳补充信息：考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳关键词：学丞、刘晓艳",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-02/7691566945472122163.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "analysis": {
+      "video_id": "7691566945472122163",
+      "summary": "学丞刘晓艳讲考研英语围绕“学丞”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳。考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳补充信息：考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳关键词：学丞、刘晓艳 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "学丞为什么总是做不出来结果？",
+        "先把刘晓艳想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕学丞组织标题与开头。",
+        "用刘晓艳和考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳补充信息：考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳关键词：学丞、刘晓艳补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "学丞",
+        "刘晓艳",
+        "考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳补充信息：考研英语从8月开始每天阅读一篇文章，12月考试英语无忧#学丞#刘晓艳关键词：学丞、刘晓艳"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-02/7691566945472122163.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "last_error": null
+  },
+  "7595425117413379334": {
+    "video_id": "7595425117413379334",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "海客新闻",
+      "video_id": "7595425117413379334",
+      "title": "美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”",
+      "publish_time": "2026-01-15T11:28:54+08:00",
+      "video_url": "https://www.douyin.com/video/7595425117413379334",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/120175ebebf78dfd897dc440e7f27d37~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106280800&x-signature=WzIaDq%2B%2FBVoJyDyiuiTHjmB2lFk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261002145246223E54248CBB1A3BE044",
+      "like_count": 5888,
+      "comment_count": 2970,
+      "share_count": 195,
+      "collect_count": 263,
+      "description": "美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”",
+      "text_hint": "美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/46e4b798ade5b86e8d8b982c7aaadc59/6abf7efe/video/tos/cn/tos-cn-ve-15/oAF79DFpaAXIAqcQEfwFh9gBD8ofE0tyAxvgID/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1915&bt=1915&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wEu80Hhd..jwNC73-ApQX&mime_type=video_mp4&qs=0&rc=ZmVoODxnN2Y0OTZmOjxoOkBpamRudnk5cnE4ODMzNGkzM0BhL2EwNDEuXy0xNi42YzFjYSNrZTJsMmQ0cWhhLS1kLTBzcw%3D%3D&btag=c0000e00010000&cquery=100w_100B_100H_100K_100o&dy_q=1790923966&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20261002145246223E54248CBB1A3BE044",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7595425117413379334.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7595425117413379334.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 16.207,
+      "raw_payload": {
+        "aweme_id": "7595425117413379334",
+        "author_uid": "3861112261182352",
+        "sec_uid": "MS4wLjABAAAAVsfWNnwyGex4tBYbdHvSzo6m8qlFv4kZOuLfCUKQz2UbhEK4DYZlHH-IpwXLKv7Y",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAVsfWNnwyGex4tBYbdHvSzo6m8qlFv4kZOuLfCUKQz2UbhEK4DYZlHH-IpwXLKv7Y"
+      }
+    },
+    "first_seen_at": "2026-10-02T14:52:29+08:00",
+    "last_seen_at": "2026-10-02T14:52:29+08:00",
+    "fetch_runs": [
+      "2026-10-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7595425117413379334.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7595425117413379334.mp3",
+      "source": "download",
+      "processed_at": "2026-10-02T14:53:56+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7595425117413379334",
+      "transcript_raw": "美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”补充信息：美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”",
+      "transcript_clean": "美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”补充信息：美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-02/7595425117413379334.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "analysis": {
+      "video_id": "7595425117413379334",
+      "summary": "海客新闻围绕“美国联邦特工强闯民宅：持枪破门而入”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”。美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？”补充信息：美国联邦特工强闯民宅：持枪破门而入 男子大喊“搜查令在哪？” 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "美国联邦特工强闯民宅：持枪破门而入为什么总是做不出来结果？",
+        "先把男子大喊“搜查令在哪？”美国联邦特工强闯民宅：持枪破门而入想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕美国联邦特工强闯民宅：持枪破门而入组织标题与开头。",
+        "用男子大喊“搜查令在哪？”美国联邦特工强闯民宅：持枪破门而入和男子大喊“搜查令在哪？”补充信息：美国联邦特工强闯民宅：持枪破门而入补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "美国联邦特工强闯民宅：持枪破门而入",
+        "男子大喊“搜查令在哪？”美国联邦特工强闯民宅：持枪破门而入",
+        "男子大喊“搜查令在哪？”补充信息：美国联邦特工强闯民宅：持枪破门而入"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-02/7595425117413379334.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "last_error": null
+  },
+  "6900887614275079438": {
+    "video_id": "6900887614275079438",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "粤煌烧腊培训一梁师傅（广州市白云区）",
+      "video_id": "6900887614275079438",
+      "title": "师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666",
+      "publish_time": "2020-11-30T20:08:27+08:00",
+      "video_url": "https://www.douyin.com/video/6900887614275079438",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/87ba987cc3d71bcc5630e693909a14e8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106280800&x-signature=dBAHMXYlqYFhgo5x0lbFncmxVyU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261002145250CBA263740D456D31ADCF",
+      "like_count": 395,
+      "comment_count": 17,
+      "share_count": 171,
+      "collect_count": 222,
+      "description": "师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666",
+      "text_hint": "师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666",
+      "topic_tags": [
+        "广式烧卤",
+        "专业砍鸡摆碟",
+        "粤煌烧腊培训"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/4461ca9aaa032715e61314470a56d312/6abf7fc7/video/cn/mps/realtime/v1/r/p/v0300f980000bv2e0moob683i8sd33vg/11a08f0798654a5ba1ad359c334c659b/edde901f7bab1c577a401169bfa8ddf3/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1207&bt=1207&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNewVQ9wwa80Hhd..jwNC73-ApQX&mime_type=video_mp4&qs=0&rc=ZThmNmY4ZzRlZDg7OmkzNEBpajZnOzY5cnBoeTMzO2kzM0A2MzEwNjBeXjIxMzYtNV4uYSNzMHBmNV9sLS9fLS02LTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100w_100B_100x_102u_100o&definition=720p&dy_q=1790923970&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=6900887614275079438&l=20261002145250CBA263740D456D31ADCF&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/6900887614275079438.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/6900887614275079438.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 213.6,
+      "raw_payload": {
+        "aweme_id": "6900887614275079438",
+        "author_uid": "58160385838",
+        "sec_uid": "MS4wLjABAAAAThXvJhEJcmjmVqz7_UK8QC_xrFOCSla6OA7JFwDYkgw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAThXvJhEJcmjmVqz7_UK8QC_xrFOCSla6OA7JFwDYkgw"
+      }
+    },
+    "first_seen_at": "2026-10-02T14:52:29+08:00",
+    "last_seen_at": "2026-10-02T14:52:29+08:00",
+    "fetch_runs": [
+      "2026-10-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/6900887614275079438.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/6900887614275079438.mp3",
+      "source": "download",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6900887614275079438",
+      "transcript_raw": "师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666补充信息：师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666关键词：广式烧卤、专业砍鸡摆碟、粤煌烧腊培训",
+      "transcript_clean": "师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666补充信息：师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666关键词：广式烧卤、专业砍鸡摆碟、粤煌烧腊培训",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-02/6900887614275079438.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "analysis": {
+      "video_id": "6900887614275079438",
+      "summary": "粤煌烧腊培训一梁师傅（广州市白云区）围绕“广式烧卤”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666。师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666补充信息：师傅教大家砍鸡摆碟，感谢抖音平台，#广式烧卤#专业砍鸡摆碟#粤煌烧腊培训 上热门666关键词：广式烧卤、专业砍鸡摆碟、粤煌烧腊培训 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "广式烧卤为什么总是做不出来结果？",
+        "先把专业砍鸡摆碟想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕广式烧卤组织标题与开头。",
+        "用专业砍鸡摆碟和粤煌烧腊培训补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "广式烧卤",
+        "专业砍鸡摆碟",
+        "粤煌烧腊培训"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-02/6900887614275079438.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "last_error": null
+  },
+  "7121259763647728935": {
+    "video_id": "7121259763647728935",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "永哥聊日化",
+      "video_id": "7121259763647728935",
+      "title": "洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手",
+      "publish_time": "2022-07-17T16:44:59+08:00",
+      "video_url": "https://www.douyin.com/video/7121259763647728935",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2165cc8ededd8de0d4f9a6afa5f66c43~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106280800&x-signature=Kgk9DNFoqRqXE0xmVFboimanvqo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610021452537078272C02CF9FAF0AA8",
+      "like_count": 523,
+      "comment_count": 62,
+      "share_count": 154,
+      "collect_count": 139,
+      "description": "洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手",
+      "text_hint": "洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手",
+      "topic_tags": [
+        "创业",
+        "洗发水",
+        "洗衣液洗洁精",
+        "永哥聊日化",
+        "设备配方",
+        "设备配方@抖音小助手"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/82851cca5ec4e685a04ca1abc473b0f3/6abf7ff4/video/tos/cn/tos-cn-ve-0015c800/85a7e440813d44a49770be95c0c5c029/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3974&bt=3974&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wta80Hhd..jwNC73-ApQX&mime_type=video_mp4&qs=0&rc=OGdmPDNmNWQ3ZDw6NDo7PEBpanB3bGk6ZnB2ZTMzNGkzM0BjYV5jLWMuXjIxMDE2Mi4wYSMzZzZocjRfajZgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=102u_100o_100w_100B_100x&dy_q=1790923973&l=202610021452537078272C02CF9FAF0AA8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7121259763647728935.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7121259763647728935.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 255.488,
+      "raw_payload": {
+        "aweme_id": "7121259763647728935",
+        "author_uid": "575735629094717",
+        "sec_uid": "MS4wLjABAAAAl0No3PqyBVnnsQJ8mm4Alet3bLTNcnt6-lOzJj7K9M0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAl0No3PqyBVnnsQJ8mm4Alet3bLTNcnt6-lOzJj7K9M0"
+      }
+    },
+    "first_seen_at": "2026-10-02T14:52:29+08:00",
+    "last_seen_at": "2026-10-02T14:52:29+08:00",
+    "fetch_runs": [
+      "2026-10-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7121259763647728935.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7121259763647728935.mp3",
+      "source": "download",
+      "processed_at": "2026-10-02T14:56:37+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7121259763647728935",
+      "transcript_raw": "洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手补充信息：洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手关键词：创业、洗发水、洗衣液洗洁精、永哥聊日化、设备配方、设备配方@抖音小助手",
+      "transcript_clean": "洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手补充信息：洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手关键词：创业、洗发水、洗衣液洗洁精、永哥聊日化、设备配方、设备配方@抖音小助手",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-02/7121259763647728935.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "analysis": {
+      "video_id": "7121259763647728935",
+      "summary": "永哥聊日化围绕“创业”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手。洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手补充信息：洗涤产品的生产流程#创业 #洗发水 #洗衣液洗洁精#永哥聊日化 #设备配方@抖音小助手关键词：创业、洗发水、洗衣液洗洁精、永哥聊日化、设备配方、设备配方@抖音小助手 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "创业为什么总是做不出来结果？",
+        "先把洗发水想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕创业组织标题与开头。",
+        "用洗发水和洗衣液洗洁精补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "创业",
+        "洗发水",
+        "洗衣液洗洁精"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-02/7121259763647728935.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "last_error": null
+  },
+  "7558018885514710306": {
+    "video_id": "7558018885514710306",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7558018885514710306",
+      "title": "台湾省最高峰'玉山",
+      "publish_time": "2025-10-06T08:13:00+08:00",
+      "video_url": "https://www.douyin.com/video/7558018885514710306",
+      "cover_url": "",
+      "like_count": 9,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "台湾省最高峰'玉山",
+      "text_hint": "台湾省最高峰'玉山",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/f01fd2a1-ba33-4ef2-acd4-33ef734d8339",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7558018885514710306",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-02T14:52:29+08:00",
+    "last_seen_at": "2026-10-02T14:52:29+08:00",
+    "fetch_runs": [
+      "2026-10-02"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7414435764714392859": {
+    "video_id": "7414435764714392859",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "花小椒爱美丽",
+      "video_id": "7414435764714392859",
+      "title": "半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配",
+      "publish_time": "2024-09-14T17:57:38+08:00",
+      "video_url": "https://www.douyin.com/video/7414435764714392859",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5dc2deb7642b58ea80f65706931fd9a9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106280800&x-signature=IbAtCZcNzxLNIShAygDriYq7Wsw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261002145317AA8CC0A02DC84ADE4FB0",
+      "like_count": 195,
+      "comment_count": 38,
+      "share_count": 14,
+      "collect_count": 74,
+      "description": "半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配",
+      "text_hint": "半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配",
+      "topic_tags": [
+        "开学穿搭",
+        "半身裙",
+        "显瘦半身裙推荐",
+        "我的穿搭日记",
+        "半身裙搭配"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e1e0cf001347efe53f277b53e11742e3/6abf801d/video/tos/cn/tos-cn-ve-0015c800/oYwlfQgcvAI2B6jrRBezRxB4viACiAFRmqQEWw/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2405&bt=2405&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wQa80Hhd..jwNC73-ApQX&mime_type=video_mp4&qs=0&rc=ZzpnOzo4NWY6O2c1aTo2NEBpM2o0N2o5cnlvdTMzNGkzM0BhNTYxXjMtXzIxNDU1XjY2YSNwL2JnMmRrbmZgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1790923997&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261002145317AA8CC0A02DC84ADE4FB0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7414435764714392859.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7414435764714392859.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 272.7,
+      "raw_payload": {
+        "aweme_id": "7414435764714392859",
+        "author_uid": "2349011272211277",
+        "sec_uid": "MS4wLjABAAAA9w6nIW4CaVyPvsM8INIJuc-6UVfLo3jUIfO3mCKkGFKYQVMXM2zuhNFUoUmgSFiH",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9w6nIW4CaVyPvsM8INIJuc-6UVfLo3jUIfO3mCKkGFKYQVMXM2zuhNFUoUmgSFiH"
+      }
+    },
+    "first_seen_at": "2026-10-02T14:52:29+08:00",
+    "last_seen_at": "2026-10-02T14:52:29+08:00",
+    "fetch_runs": [
+      "2026-10-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7414435764714392859.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7414435764714392859.mp3",
+      "source": "download",
+      "processed_at": "2026-10-02T14:55:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7414435764714392859",
+      "transcript_raw": "半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配补充信息：半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配关键词：开学穿搭、半身裙、显瘦半身裙推荐、我的穿搭日记、半身裙搭配",
+      "transcript_clean": "半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配补充信息：半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配关键词：开学穿搭、半身裙、显瘦半身裙推荐、我的穿搭日记、半身裙搭配",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-02/7414435764714392859.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "analysis": {
+      "video_id": "7414435764714392859",
+      "summary": "花小椒爱美丽围绕“开学穿搭”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配。半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配补充信息：半身裙大合集#开学穿搭 #半身裙 #显瘦半身裙推荐 #我的穿搭日记 #半身裙搭配关键词：开学穿搭、半身裙、显瘦半身裙推荐、我的穿搭日记、半身裙搭配 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "开学穿搭为什么总是做不出来结果？",
+        "先把半身裙想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕开学穿搭组织标题与开头。",
+        "用半身裙和显瘦半身裙推荐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "开学穿搭",
+        "半身裙",
+        "显瘦半身裙推荐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-02/7414435764714392859.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "last_error": null
+  },
+  "7538837120211832124": {
+    "video_id": "7538837120211832124",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "狂帅（极品飞车:集结）",
+      "video_id": "7538837120211832124",
+      "title": "极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学",
+      "publish_time": "2025-08-15T23:38:23+08:00",
+      "video_url": "https://www.douyin.com/video/7538837120211832124",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c99c8d156f269f669580a7bc417039fc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106280800&x-signature=syVZSFuqGXrcapSlm0bXIyrThLA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261002145321FF1526F21E5BD02945E9",
+      "like_count": 403,
+      "comment_count": 155,
+      "share_count": 22,
+      "collect_count": 87,
+      "description": "极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学",
+      "text_hint": "极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学",
+      "topic_tags": [
+        "极品飞车集结",
+        "新版本高速对决",
+        "五星帅教学"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c56471fb07c80c1bcef13dae20dadff3/6abf7fc6/video/tos/cn/tos-cn-ve-15c000-ce/oUpQfqlUGIFHeABdAyLh8F7L4CexRHJQIKg3BP/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1612&bt=1612&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9waa80Hhd..jwNC73-ApQX&mime_type=video_mp4&qs=0&rc=ODM8O2RpPDw5OWY3N2ZpaEBpamhqbWo5cjxvNTMzbGkzNEBiYzQ2LmJeNTUxNWJfXzFeYSM0bWJeMmRjNGNhLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1790924001&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261002145321FF1526F21E5BD02945E9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7538837120211832124.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7538837120211832124.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 181.934,
+      "raw_payload": {
+        "aweme_id": "7538837120211832124",
+        "author_uid": "96596175762",
+        "sec_uid": "MS4wLjABAAAAUUGBvpyqwt-XqOUQ19vYUaASJfLu5Nw1Lld9KYu_Yvo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAUUGBvpyqwt-XqOUQ19vYUaASJfLu5Nw1Lld9KYu_Yvo"
+      }
+    },
+    "first_seen_at": "2026-10-02T14:52:29+08:00",
+    "last_seen_at": "2026-10-02T14:52:29+08:00",
+    "fetch_runs": [
+      "2026-10-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7538837120211832124.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7538837120211832124.mp3",
+      "source": "download",
+      "processed_at": "2026-10-02T14:54:19+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7538837120211832124",
+      "transcript_raw": "极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学补充信息：极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学关键词：极品飞车集结、新版本高速对决、五星帅教学",
+      "transcript_clean": "极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学补充信息：极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学关键词：极品飞车集结、新版本高速对决、五星帅教学",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-02/7538837120211832124.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "analysis": {
+      "video_id": "7538837120211832124",
+      "summary": "狂帅（极品飞车:集结）围绕“极品飞车集结”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学。极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学补充信息：极品飞车集结，高速对决，玩法攻略#极品飞车集结 #新版本高速对决 #五星帅教学关键词：极品飞车集结、新版本高速对决、五星帅教学 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "极品飞车集结为什么总是做不出来结果？",
+        "先把新版本高速对决想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕极品飞车集结组织标题与开头。",
+        "用新版本高速对决和五星帅教学补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "极品飞车集结",
+        "新版本高速对决",
+        "五星帅教学"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-02/7538837120211832124.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "last_error": null
+  },
+  "7473785608008174908": {
+    "video_id": "7473785608008174908",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7473785608008174908",
+      "title": "奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰",
+      "publish_time": "2025-02-21T08:25:00+08:00",
+      "video_url": "https://www.douyin.com/video/7473785608008174908",
+      "cover_url": "",
+      "like_count": 63,
+      "comment_count": 45,
+      "share_count": 37,
+      "collect_count": 77,
+      "description": "奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰",
+      "text_hint": "奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰",
+      "topic_tags": [
+        "汽车召回",
+        "奔驰cla220",
+        "奔驰cla",
+        "二手车",
+        "奔驰"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/3f592ceab12b9c3399cffb08ec496dfd/6abf7ffe/video/tos/cn/tos-cn-ve-15c800-ce/oU8D4fd3EaYgISFgPBoAVQGfOf97CXBc4QJXz7/?a=6383&br=1178&bt=1178&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100z_100o_100w_100B_100x&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1790924017&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNewVQ9w2a80Hhd..jwNC73-ApQX&is_ssr=1&l=2026100214533625ECB76D448B210476C1&lr=all&mime_type=video_mp4&qs=12&rc=aDs1Njo6Zjc4NDhnNWdlM0BpM25lcHg5cm82eDMzbGkzNEBhLjMuXy01NWExL14yNS82YSNib2FnMmRzY3BgLS1kLWJzcw%3D%3D&__vid=7473785608008174908",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7473785608008174908.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7473785608008174908.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7473785608008174908",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-02T14:52:29+08:00",
+    "last_seen_at": "2026-10-02T14:52:29+08:00",
+    "fetch_runs": [
+      "2026-10-02"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7473785608008174908.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-02/7473785608008174908.mp3",
+      "source": "download",
+      "processed_at": "2026-10-02T14:54:36+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7473785608008174908",
+      "transcript_raw": "奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰补充信息：奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰关键词：汽车召回、奔驰cla220、奔驰cla、二手车、奔驰",
+      "transcript_clean": "奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰补充信息：奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰关键词：汽车召回、奔驰cla220、奔驰cla、二手车、奔驰",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-02/7473785608008174908.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "analysis": {
+      "video_id": "7473785608008174908",
+      "summary": "目标博主 1围绕“汽车召回”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰。奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰补充信息：奔驰cla220召回问题～关于轮速传感器. 车友们如果你是Cla.Gla.A级.B级.可以看一下有没有召回.买二手车也是一样的！要看一下是否有召回！ #汽车召回 #奔驰cla220 #奔驰cla #二手车 #奔驰关键词：汽车召回、奔驰cla220、奔驰cla、二手车、奔驰 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "汽车召回为什么总是做不出来结果？",
+        "先把奔驰cla220想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕汽车召回组织标题与开头。",
+        "用奔驰cla220和奔驰cla补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "汽车召回",
+        "奔驰cla220",
+        "奔驰cla"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-02/7473785608008174908.json",
+      "processed_at": "2026-10-02T14:57:03+08:00"
+    },
+    "last_error": null
   }
 }
