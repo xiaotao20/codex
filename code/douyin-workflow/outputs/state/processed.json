@@ -53396,5 +53396,315 @@
       "processed_at": "2026-10-02T14:57:03+08:00"
     },
     "last_error": null
+  },
+  "7610752027206946074": {
+    "video_id": "7610752027206946074",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7610752027206946074",
+      "title": "知雪 视频 7610752027206946074",
+      "publish_time": "2026-10-03T14:20:03+08:00",
+      "video_url": "https://www.douyin.com/video/7610752027206946074",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/99b8678f-ee52-45e8-8c5e-267be82fab9d",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7610752027206946074",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-03T14:17:18+08:00",
+    "last_seen_at": "2026-10-03T14:17:18+08:00",
+    "fetch_runs": [
+      "2026-10-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7193902920411204876": {
+    "video_id": "7193902920411204876",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7193902920411204876",
+      "title": "知雪 视频 7193902920411204876",
+      "publish_time": "2026-10-03T14:20:03+08:00",
+      "video_url": "https://www.douyin.com/video/7193902920411204876",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ae294d79-a3ad-47bc-8917-9698a2290e74",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7193902920411204876",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-03T14:17:18+08:00",
+    "last_seen_at": "2026-10-03T14:17:18+08:00",
+    "fetch_runs": [
+      "2026-10-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7310457395598167296": {
+    "video_id": "7310457395598167296",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7310457395598167296",
+      "title": "知雪 视频 7310457395598167296",
+      "publish_time": "2026-10-03T14:20:03+08:00",
+      "video_url": "https://www.douyin.com/video/7310457395598167296",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/af473137-fa17-4a46-a553-53c100668018",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7310457395598167296",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-03T14:17:18+08:00",
+    "last_seen_at": "2026-10-03T14:17:18+08:00",
+    "fetch_runs": [
+      "2026-10-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7582883713273318697": {
+    "video_id": "7582883713273318697",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7582883713273318697",
+      "title": "这个#芝士香蕉饼 妈妈们可以经常做给孩子吃，营养丰富做法简单#芝士碎 #火腿芝士披萨 #早餐 #空气炸锅美食",
+      "publish_time": "2025-12-12T08:21:00+08:00",
+      "video_url": "https://www.douyin.com/video/7582883713273318697",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "这个#芝士香蕉饼 妈妈们可以经常做给孩子吃，营养丰富做法简单#芝士碎 #火腿芝士披萨 #早餐 #空气炸锅美食",
+      "text_hint": "这个#芝士香蕉饼 妈妈们可以经常做给孩子吃，营养丰富做法简单#芝士碎 #火腿芝士披萨 #早餐 #空气炸锅美食",
+      "topic_tags": [
+        "芝士香蕉饼",
+        "芝士碎",
+        "火腿芝士披萨",
+        "早餐",
+        "空气炸锅美食"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/988393058dc3ece8f49d160900be634d/6ac0c934/video/tos/cn/tos-cn-v-c9e10a/ocE5iGdLIGaxR6hRaBoIe4xbkQpzACLfS3C2ae/?a=6383&br=2045&bt=2045&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_102v_102u_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1791008334&feature_id=b1cb202f98cf51d95e455ae01e100ce9&ft=4rzAgkIKDyjNewVQ9wxfXNHhd.SjwNC73-ApQX&is_ssr=1&l=202610031418535D13EC50516CB2C0B6B1&lr=all&mime_type=video_mp4&qs=0&rc=N2Y3Omg1ZTpkNDo4ZGY4O0BpM2s5aHI5cjd3NzMzNDYzM0A0YmExY2AyXzUxXzRfYWAzYSM0aGUvMmRrLnFhLS1kMDBzcw%3D%3D&__vid=7582883713273318697",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7582883713273318697",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-03T14:17:18+08:00",
+    "last_seen_at": "2026-10-03T14:17:18+08:00",
+    "fetch_runs": [
+      "2026-10-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7399299569403563273": {
+    "video_id": "7399299569403563273",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7399299569403563273",
+      "title": "知雪 视频 7399299569403563273",
+      "publish_time": "2026-10-03T14:20:03+08:00",
+      "video_url": "https://www.douyin.com/video/7399299569403563273",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/7b39e792-5940-4830-826c-98d210fc1d2a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7399299569403563273",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-03T14:17:18+08:00",
+    "last_seen_at": "2026-10-03T14:17:18+08:00",
+    "fetch_runs": [
+      "2026-10-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7554777767343148298": {
+    "video_id": "7554777767343148298",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7554777767343148298",
+      "title": "知雪 视频 7554777767343148298",
+      "publish_time": "2026-10-03T14:20:03+08:00",
+      "video_url": "https://www.douyin.com/video/7554777767343148298",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ae0bddb4-825d-449c-b42f-1989ff3fd461",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7554777767343148298",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-03T14:17:18+08:00",
+    "last_seen_at": "2026-10-03T14:17:18+08:00",
+    "fetch_runs": [
+      "2026-10-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7530908743506300218": {
+    "video_id": "7530908743506300218",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7530908743506300218",
+      "title": "裙带菜豆腐汤 这一锅汤营养太丰富了，味道鲜美可口，想办法自己做一做，太好吃了。裙带菜在橱窗置顶，价格实惠质量可靠#裙带菜#裙带菜豆腐汤",
+      "publish_time": "2025-07-25T06:52:00+08:00",
+      "video_url": "https://www.douyin.com/video/7530908743506300218",
+      "cover_url": "",
+      "like_count": 596,
+      "comment_count": 28,
+      "share_count": 540,
+      "collect_count": 160,
+      "description": "裙带菜豆腐汤 这一锅汤营养太丰富了，味道鲜美可口，想办法自己做一做，太好吃了。裙带菜在橱窗置顶，价格实惠质量可靠#裙带菜#裙带菜豆腐汤",
+      "text_hint": "裙带菜豆腐汤 这一锅汤营养太丰富了，味道鲜美可口，想办法自己做一做，太好吃了。裙带菜在橱窗置顶，价格实惠质量可靠#裙带菜#裙带菜豆腐汤",
+      "topic_tags": [
+        "裙带菜",
+        "裙带菜豆腐汤"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/f133c0aa8c40a238f79d71631041d7b0/6ac0c992/video/tos/cn/tos-cn-ve-15c000-ce/ocBogQDfIECEXy3GfAAwET8FSyDmvGYbuzF9eK/?a=6383&br=922&bt=922&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1791008398&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=4rzAgkIKDyjNewVQ9wxIXNHhd.SjwNC73-ApQX&is_ssr=1&l=202610031419571EFD176CBF2FDADAD792&lr=all&mime_type=video_mp4&qs=12&rc=aWY6Mzk6aTU2NGlmM2U4O0BpM3I4O3U5cnNsNTMzbGkzNEAwXzMxNTZeXjUxYC81LTReYSMwcjJlMmRrYS5hLS1kLWJzcw%3D%3D&__vid=7530908743506300218",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7530908743506300218",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-03T14:17:18+08:00",
+    "last_seen_at": "2026-10-03T14:17:18+08:00",
+    "fetch_runs": [
+      "2026-10-03"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
   }
 }
