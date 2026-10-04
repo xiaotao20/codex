@@ -53706,5 +53706,546 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7692611605468564778": {
+    "video_id": "7692611605468564778",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "河北高考志愿规划回老师",
+      "video_id": "7692611605468564778",
+      "title": "上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报",
+      "publish_time": "2026-10-04T09:01:58+08:00",
+      "video_url": "https://www.douyin.com/video/7692611605468564778",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/7e8924f06fef407494f0626235bf0425~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106453600&x-signature=5eovnt98cZ2Xut8FOs8hIRNzt4U%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261004144305FE0325FEA27D70BDC023",
+      "like_count": 1,
+      "comment_count": 0,
+      "share_count": 2,
+      "collect_count": 1,
+      "description": "上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报",
+      "text_hint": "上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报",
+      "topic_tags": [
+        "乌鲁木齐",
+        "新疆",
+        "选城市",
+        "高考志愿填报"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/21141214b5762f226244d65d8e0f4a1f/6ac220ef/video/tos/cn/tos-cn-ve-15/cae4639479aa4b99bc85bea1ca0e8a26/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=209&bt=209&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wR0VNHhd.a9fdC73-ApQX&mime_type=video_mp4&qs=0&rc=PDU6ZjxlaDo0N2VkNDszPEBpMzRmZW85cnF0ZTMzNGkzM0A1My9eM2FhNTExL2NjYy4yYSNoaTVrMmRzXi1hLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100K_100o_100w_100B_100H&dy_q=1791096185&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261004144305FE0325FEA27D70BDC023",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7692611605468564778.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7692611605468564778.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 326.2,
+      "raw_payload": {
+        "aweme_id": "7692611605468564778",
+        "author_uid": "110907106443",
+        "sec_uid": "MS4wLjABAAAA4xucj-rKDWEbva7l_IMuHA8LcA55Nf-W5Gc0jC2XxoE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4xucj-rKDWEbva7l_IMuHA8LcA55Nf-W5Gc0jC2XxoE"
+      }
+    },
+    "first_seen_at": "2026-10-04T14:42:53+08:00",
+    "last_seen_at": "2026-10-04T14:42:53+08:00",
+    "fetch_runs": [
+      "2026-10-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7692611605468564778.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7692611605468564778.mp3",
+      "source": "download",
+      "processed_at": "2026-10-04T14:44:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7692611605468564778",
+      "transcript_raw": "上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报补充信息：上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报关键词：乌鲁木齐、新疆、选城市、高考志愿填报",
+      "transcript_clean": "上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报补充信息：上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报关键词：乌鲁木齐、新疆、选城市、高考志愿填报",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-04/7692611605468564778.json",
+      "processed_at": "2026-10-04T14:45:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7692611605468564778",
+      "summary": "河北高考志愿规划回老师围绕“乌鲁木齐”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报。上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报补充信息：上大学选乌鲁木齐 #乌鲁木齐#新疆#选城市#高考志愿填报关键词：乌鲁木齐、新疆、选城市、高考志愿填报 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "乌鲁木齐为什么总是做不出来结果？",
+        "先把新疆想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕乌鲁木齐组织标题与开头。",
+        "用新疆和选城市补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "乌鲁木齐",
+        "新疆",
+        "选城市"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-04/7692611605468564778.json",
+      "processed_at": "2026-10-04T14:45:55+08:00"
+    },
+    "last_error": null
+  },
+  "7652243575225026259": {
+    "video_id": "7652243575225026259",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7652243575225026259",
+      "title": "在抖音记录美好生活20261004",
+      "publish_time": "2026-10-04T14:43:57+08:00",
+      "video_url": "https://www.douyin.com/video/7652243575225026259",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261004",
+      "text_hint": "在抖音记录美好生活20261004",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/63b59150-b1ac-4094-94fc-5b337239d876",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7652243575225026259",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-04T14:42:53+08:00",
+    "last_seen_at": "2026-10-04T14:42:53+08:00",
+    "fetch_runs": [
+      "2026-10-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7420541387835297064": {
+    "video_id": "7420541387835297064",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "艾尚钓鱼@🎣",
+      "video_id": "7420541387835297064",
+      "title": "儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频",
+      "publish_time": "2024-10-01T04:52:05+08:00",
+      "video_url": "https://www.douyin.com/video/7420541387835297064",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/okeAHCiw3dBU72AsezgkiS7BfzEBzNIBDdEtWK~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106453600&x-signature=ZRnOiehz3EUxXRkwS8Z63N14VjU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026100414431618AE7E845F404C55B631",
+      "like_count": 38,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 16,
+      "description": "儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频",
+      "text_hint": "儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频",
+      "topic_tags": [
+        "启蒙早教",
+        "儿童动画",
+        "3",
+        "0-6岁儿童早教启蒙",
+        "3-6岁挖掘机动画视频"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/0e79691523938fa131273796f09b7df4/6ac220dd/video/cn/mps/realtime/v1/r/p/v0200fg10000crtgumvog65jpljm9c3g/4c117bf623984e9aa783dc8081da8144/df9997cd99d9f8b824a1b3fe58e08c94/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1001&bt=1001&cs=0&ds=3&ft=InFJ3Y-5DyjNNRVQ9wi3VNHhd.a9fdC73-ApQX&mime_type=video_mp4&qs=0&rc=NzRkNDNmNjpkaDs2OWU0ZkBpamZwb205cnBqdTMzNGkzM0AxNWE1NWE1XjYxNi9jNC4xYSMwNmdtMmRzcnFgLS1kLS9zcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1791096196&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7420541387835297064&l=2026100414431618AE7E845F404C55B631&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7420541387835297064.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7420541387835297064.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 297.508,
+      "raw_payload": {
+        "aweme_id": "7420541387835297064",
+        "author_uid": "64979169925",
+        "sec_uid": "MS4wLjABAAAAKMXOQoej_3-RaIqvkn_CRT9Z_n5CbhqmLbBDU--bVSM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAKMXOQoej_3-RaIqvkn_CRT9Z_n5CbhqmLbBDU--bVSM"
+      }
+    },
+    "first_seen_at": "2026-10-04T14:42:53+08:00",
+    "last_seen_at": "2026-10-04T14:42:53+08:00",
+    "fetch_runs": [
+      "2026-10-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7420541387835297064.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7420541387835297064.mp3",
+      "source": "download",
+      "processed_at": "2026-10-04T14:45:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7420541387835297064",
+      "transcript_raw": "儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频补充信息：儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频关键词：启蒙早教、儿童动画、3、0-6岁儿童早教启蒙、3-6岁挖掘机动画视频",
+      "transcript_clean": "儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频补充信息：儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频关键词：启蒙早教、儿童动画、3、0-6岁儿童早教启蒙、3-6岁挖掘机动画视频",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-04/7420541387835297064.json",
+      "processed_at": "2026-10-04T14:45:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7420541387835297064",
+      "summary": "艾尚钓鱼@🎣围绕“启蒙早教”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频。儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频补充信息：儿童益智动画#0-6岁儿童早教启蒙#启蒙早教 #儿童动画 #3-6岁挖掘机动画视频关键词：启蒙早教、儿童动画、3、0-6岁儿童早教启蒙、3-6岁挖掘机动画视频 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "启蒙早教为什么总是做不出来结果？",
+        "先把儿童动画想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕启蒙早教组织标题与开头。",
+        "用儿童动画和3补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "启蒙早教",
+        "儿童动画",
+        "3"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-04/7420541387835297064.json",
+      "processed_at": "2026-10-04T14:45:55+08:00"
+    },
+    "last_error": null
+  },
+  "7417224179507924263": {
+    "video_id": "7417224179507924263",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7417224179507924263",
+      "title": "在抖音记录美好生活20261004",
+      "publish_time": "2026-10-04T14:43:57+08:00",
+      "video_url": "https://www.douyin.com/video/7417224179507924263",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261004",
+      "text_hint": "在抖音记录美好生活20261004",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/02e8276d-70b1-46a4-ae03-52c6a760e7d1",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7417224179507924263",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-04T14:42:53+08:00",
+    "last_seen_at": "2026-10-04T14:42:53+08:00",
+    "fetch_runs": [
+      "2026-10-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7587349841451568421": {
+    "video_id": "7587349841451568421",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7587349841451568421",
+      "title": "几块钱的打磨头博主疯狂推荐！为什么 #学美甲 #美甲教程 #美甲推荐 #美甲#美甲分享",
+      "publish_time": "2025-12-24T09:12:00+08:00",
+      "video_url": "https://www.douyin.com/video/7587349841451568421",
+      "cover_url": "",
+      "like_count": 1,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "几块钱的打磨头博主疯狂推荐！为什么 #学美甲 #美甲教程 #美甲推荐 #美甲#美甲分享",
+      "text_hint": "几块钱的打磨头博主疯狂推荐！为什么 #学美甲 #美甲教程 #美甲推荐 #美甲#美甲分享",
+      "topic_tags": [
+        "学美甲",
+        "美甲教程",
+        "美甲推荐",
+        "美甲",
+        "美甲分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a209b2d4-7a94-468c-847f-0131186610a0",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7587349841451568421",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-04T14:42:53+08:00",
+    "last_seen_at": "2026-10-04T14:42:53+08:00",
+    "fetch_runs": [
+      "2026-10-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7111519891622071582": {
+    "video_id": "7111519891622071582",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "SMDS10000",
+      "video_id": "7111519891622071582",
+      "title": "你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压",
+      "publish_time": "2022-06-21T18:00:02+08:00",
+      "video_url": "https://www.douyin.com/video/7111519891622071582",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7dfbb64ebe8a5655980325de72b25bee~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106453600&x-signature=5nMCBmqfytSNewH8WgBv097D%2BKI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610041443476CFCA9C754CFA3395001",
+      "like_count": 1435,
+      "comment_count": 63,
+      "share_count": 42,
+      "collect_count": 234,
+      "description": "你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压",
+      "text_hint": "你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压",
+      "topic_tags": [
+        "助眠",
+        "哄睡",
+        "asmr",
+        "声控解压"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e556642f8c3e920a88feb7e6e659cd14/6ac22117/video/tos/cn/tos-cn-ve-0015c800/2a4fe649b5f84b9f816fb05a73dc56fb/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1262&bt=1262&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wm3VNHhd.a9fdC73-ApQX&mime_type=video_mp4&qs=0&rc=NzRnZzxmZDhoNDg7ZDY4NUBpamVlaGY6ZjRsZDMzNGkzM0A0YF4tMjY0NjQxYWAtNV9gYSNnYWlscjRvc2xgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=102u_100o_100w_100B_100H&dy_q=1791096227&l=202610041443476CFCA9C754CFA3395001",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7111519891622071582.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7111519891622071582.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 324.035,
+      "raw_payload": {
+        "aweme_id": "7111519891622071582",
+        "author_uid": "1864427671918319",
+        "sec_uid": "MS4wLjABAAAAHQLtrhrsItLGrxLc5x9Yoke4keP0dzKIGUejiJ8HAyRnWmT5P8RCF15qjRfD460B",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHQLtrhrsItLGrxLc5x9Yoke4keP0dzKIGUejiJ8HAyRnWmT5P8RCF15qjRfD460B"
+      }
+    },
+    "first_seen_at": "2026-10-04T14:42:53+08:00",
+    "last_seen_at": "2026-10-04T14:42:53+08:00",
+    "fetch_runs": [
+      "2026-10-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7111519891622071582.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7111519891622071582.mp3",
+      "source": "download",
+      "processed_at": "2026-10-04T14:45:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7111519891622071582",
+      "transcript_raw": "你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压补充信息：你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压关键词：助眠、哄睡、asmr、声控解压",
+      "transcript_clean": "你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压补充信息：你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压关键词：助眠、哄睡、asmr、声控解压",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-04/7111519891622071582.json",
+      "processed_at": "2026-10-04T14:45:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7111519891622071582",
+      "summary": "SMDS10000围绕“助眠”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压。你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压补充信息：你可以怀疑我对声音的敏感度，但你不能质疑我眼光#助眠#哄睡 #asmr #声控解压关键词：助眠、哄睡、asmr、声控解压 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "助眠为什么总是做不出来结果？",
+        "先把哄睡想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕助眠组织标题与开头。",
+        "用哄睡和asmr补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "助眠",
+        "哄睡",
+        "asmr"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-04/7111519891622071582.json",
+      "processed_at": "2026-10-04T14:45:55+08:00"
+    },
+    "last_error": null
+  },
+  "7518651767459827003": {
+    "video_id": "7518651767459827003",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "核桃是只蓝猫Jason",
+      "video_id": "7518651767459827003",
+      "title": "广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao",
+      "publish_time": "2025-06-22T14:08:53+08:00",
+      "video_url": "https://www.douyin.com/video/7518651767459827003",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/88bfbac6173ef75f4e3549145d55c25e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106453600&x-signature=eNehUftZ1TGH4Ha8Mo6kDSNZC64%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610041443508BCD55B914641231BC0B",
+      "like_count": 373,
+      "comment_count": 106,
+      "share_count": 61,
+      "collect_count": 134,
+      "description": "广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao",
+      "text_hint": "广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao",
+      "topic_tags": [
+        "广湛高铁",
+        "中国高铁",
+        "高速铁路",
+        "中国铁路",
+        "上热门",
+        "上热门@D哥说路网"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/2b6c278130b94c8401c70feb8c579806/6ac220f3/video/tos/cn/tos-cn-ve-15c000-ce/ok42N1BnIiA5EuCK5QieZLALEy8Ofey10aQFw3/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=326&bt=326&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wW3VNHhd.a9fdC73-ApQX&mime_type=video_mp4&qs=0&rc=PDg5aTM6OGY1O2loOjU3OEBpanFlOWw5cm1zNDMzbGkzNEAzMS1eNTIxNTAxLmEuNjYxYSNwYWpwMmRzbV9hLS1kLWJzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1791096230&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202610041443508BCD55B914641231BC0B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7518651767459827003.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7518651767459827003.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 285.634,
+      "raw_payload": {
+        "aweme_id": "7518651767459827003",
+        "author_uid": "96597924256",
+        "sec_uid": "MS4wLjABAAAA5JSjflq9pK8ORVTCD9rHfRevutb_bs69tED6ZHmVbxg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA5JSjflq9pK8ORVTCD9rHfRevutb_bs69tED6ZHmVbxg"
+      }
+    },
+    "first_seen_at": "2026-10-04T14:42:53+08:00",
+    "last_seen_at": "2026-10-04T14:42:53+08:00",
+    "fetch_runs": [
+      "2026-10-04"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7518651767459827003.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-04/7518651767459827003.mp3",
+      "source": "download",
+      "processed_at": "2026-10-04T14:44:44+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7518651767459827003",
+      "transcript_raw": "广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao补充信息：广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao关键词：广湛高铁、中国高铁、高速铁路、中国铁路、上热门、上热门@D哥说路网",
+      "transcript_clean": "广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao补充信息：广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao关键词：广湛高铁、中国高铁、高速铁路、中国铁路、上热门、上热门@D哥说路网",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-04/7518651767459827003.json",
+      "processed_at": "2026-10-04T14:45:55+08:00"
+    },
+    "analysis": {
+      "video_id": "7518651767459827003",
+      "summary": "核桃是只蓝猫Jason围绕“广湛高铁”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao。广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao补充信息：广湛高铁详细讲解#广湛高铁#中国高铁#高速铁路#中国铁路#上热门@D哥说路网 @Hetao关键词：广湛高铁、中国高铁、高速铁路、中国铁路、上热门、上热门@D哥说路网 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "广湛高铁为什么总是做不出来结果？",
+        "先把中国高铁想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕广湛高铁组织标题与开头。",
+        "用中国高铁和高速铁路补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "广湛高铁",
+        "中国高铁",
+        "高速铁路"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-04/7518651767459827003.json",
+      "processed_at": "2026-10-04T14:45:55+08:00"
+    },
+    "last_error": null
+  },
+  "7379228400768126217": {
+    "video_id": "7379228400768126217",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7379228400768126217",
+      "title": "在抖音记录美好生活20261004",
+      "publish_time": "2026-10-04T14:43:57+08:00",
+      "video_url": "https://www.douyin.com/video/7379228400768126217",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261004",
+      "text_hint": "在抖音记录美好生活20261004",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/58585454-b0dd-4ada-b6ac-243dee200350",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7379228400768126217",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-04T14:42:53+08:00",
+    "last_seen_at": "2026-10-04T14:42:53+08:00",
+    "fetch_runs": [
+      "2026-10-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
