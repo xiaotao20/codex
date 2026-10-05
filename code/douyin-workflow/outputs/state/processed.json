@@ -54247,5 +54247,595 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7591824826600361231": {
+    "video_id": "7591824826600361231",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "赵十一",
+      "video_id": "7591824826600361231",
+      "title": "躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏",
+      "publish_time": "2026-01-05T18:38:18+08:00",
+      "video_url": "https://www.douyin.com/video/7591824826600361231",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c079e3f68ced445a4e6a4c707ffd5cd5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106540000&x-signature=GPG1FSoeoEY4ZjVR%2Bou8g16Pzl8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261005144605448C80B96221421FECB9",
+      "like_count": 488268,
+      "comment_count": 6712,
+      "share_count": 182734,
+      "collect_count": 75672,
+      "description": "躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏",
+      "text_hint": "躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏",
+      "topic_tags": [
+        "自制综艺",
+        "未来导演扶持计划",
+        "大学生活",
+        "躲猫猫",
+        "捉迷藏"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/dea1e76279d4113f6c8b51be534cce7e/6ac3751d/video/tos/cn/tos-cn-ve-15/8be6f4e197cc4af291cdc0ca463ee178/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1159&bt=1159&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w5tMNHhd.wy09V03-ApQX&mime_type=video_mp4&qs=0&rc=aDVkOGVpNTc8Omk2ZzZmaEBpanQ7cHI5cjNzODMzNGkzM0A1XjA0MzYwNmMxYzZeYy8zYSMuYGlxMmRrM2FhLS1kLWFzcw%3D%3D&btag=c0000e00038000&cquery=100B_100H_100K_100o_100w&dy_q=1791182765&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20261005144605448C80B96221421FECB9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7591824826600361231.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7591824826600361231.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 832.7,
+      "raw_payload": {
+        "aweme_id": "7591824826600361231",
+        "author_uid": "1876195140700500",
+        "sec_uid": "MS4wLjABAAAAyDFdGEtH6ezcSiOl4UbaMM6gZ4oZcrLGtAaKAGyaxZJ596Id7ERpv4xik_xe5ahX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAyDFdGEtH6ezcSiOl4UbaMM6gZ4oZcrLGtAaKAGyaxZJ596Id7ERpv4xik_xe5ahX"
+      }
+    },
+    "first_seen_at": "2026-10-05T14:45:51+08:00",
+    "last_seen_at": "2026-10-05T14:45:51+08:00",
+    "fetch_runs": [
+      "2026-10-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7591824826600361231.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7591824826600361231.mp3",
+      "source": "download",
+      "processed_at": "2026-10-05T14:48:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7591824826600361231",
+      "transcript_raw": "躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏补充信息：躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏关键词：自制综艺、未来导演扶持计划、大学生活、躲猫猫、捉迷藏",
+      "transcript_clean": "躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏补充信息：躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏关键词：自制综艺、未来导演扶持计划、大学生活、躲猫猫、捉迷藏",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-05/7591824826600361231.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7591824826600361231",
+      "summary": "赵十一围绕“自制综艺”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏。躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏补充信息：躲猫猫还能这么玩？道具卡隐藏点让你肾上腺素飙升 欢迎收看大学生自制节目“选择你的躲藏点”，希望大家喜欢！！#自制综艺 #未来导演扶持计划 #大学生活 #躲猫猫 #捉迷藏关键词：自制综艺、未来导演扶持计划、大学生活、躲猫猫、捉迷藏 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "自制综艺为什么总是做不出来结果？",
+        "先把未来导演扶持计划想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕自制综艺组织标题与开头。",
+        "用未来导演扶持计划和大学生活补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "自制综艺",
+        "未来导演扶持计划",
+        "大学生活"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-05/7591824826600361231.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "last_error": null
+  },
+  "7320869672763542821": {
+    "video_id": "7320869672763542821",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "锋老板",
+      "video_id": "7320869672763542821",
+      "title": "有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园",
+      "publish_time": "2024-01-06T18:58:00+08:00",
+      "video_url": "https://www.douyin.com/video/7320869672763542821",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f6313ccffdf61a32a2c8c1334475ffaf~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106540000&x-signature=dj%2FOhtFyz644ZqdHP6Z5noeLAWM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026100514460938BF23BEED3721FD8190",
+      "like_count": 693,
+      "comment_count": 185,
+      "share_count": 87,
+      "collect_count": 130,
+      "description": "有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园",
+      "text_hint": "有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园",
+      "topic_tags": [
+        "淝东淝西",
+        "锋老板",
+        "撮街",
+        "撮镇",
+        "梁园"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/cc1ad43162baaccc83bd3c3817a511d7/6ac372d4/video/tos/cn/tos-cn-ve-0015c800/o0VhQc8ebOD4j1QyAgnAIImD9blgiBMA5PDebK/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=964&bt=964&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w2tMNHhd.wy09V03-ApQX&mime_type=video_mp4&qs=0&rc=MzpkZGllOGRpOTc5OTkzaUBpM3R3ZjM6ZmhpcDMzNGkzM0AzLy01NDE2Ni8xXmMzL2E1YSNrLnFvcjQwMWBgLS1kLTBzcw%3D%3D&btag=80000e00030000&cc=1f&cquery=100w_100B_100H_100K_100o&dy_q=1791182769&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026100514460938BF23BEED3721FD8190&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7320869672763542821.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7320869672763542821.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 243.833,
+      "raw_payload": {
+        "aweme_id": "7320869672763542821",
+        "author_uid": "2782229579445453",
+        "sec_uid": "MS4wLjABAAAAV8lWLW4ba_dAio_IUGe8v_Sse-JT3pJrMQAZQaBIkf06sXLRLWd1xxAtJNpUvs2U",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAV8lWLW4ba_dAio_IUGe8v_Sse-JT3pJrMQAZQaBIkf06sXLRLWd1xxAtJNpUvs2U"
+      }
+    },
+    "first_seen_at": "2026-10-05T14:45:51+08:00",
+    "last_seen_at": "2026-10-05T14:45:51+08:00",
+    "fetch_runs": [
+      "2026-10-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7320869672763542821.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7320869672763542821.mp3",
+      "source": "download",
+      "processed_at": "2026-10-05T14:49:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7320869672763542821",
+      "transcript_raw": "有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园补充信息：有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园关键词：淝东淝西、锋老板、撮街、撮镇、梁园",
+      "transcript_clean": "有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园补充信息：有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园关键词：淝东淝西、锋老板、撮街、撮镇、梁园",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-05/7320869672763542821.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7320869672763542821",
+      "summary": "锋老板围绕“淝东淝西”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园。有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园补充信息：有人说合肥没有文化底蕴，历史不悠久，看完这条视频会颠覆你想象 #淝东淝西 花园餐厅#锋老板 对话翁飞博士，聊聊合肥肥东这片热土上曾经的一段历史#撮街 #撮镇 #梁园关键词：淝东淝西、锋老板、撮街、撮镇、梁园 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "淝东淝西为什么总是做不出来结果？",
+        "先把锋老板想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕淝东淝西组织标题与开头。",
+        "用锋老板和撮街补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "淝东淝西",
+        "锋老板",
+        "撮街"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-05/7320869672763542821.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "last_error": null
+  },
+  "7319726983997361459": {
+    "video_id": "7319726983997361459",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "张先森",
+      "video_id": "7319726983997361459",
+      "title": "不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔",
+      "publish_time": "2024-01-03T12:39:17+08:00",
+      "video_url": "https://www.douyin.com/video/7319726983997361459",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3274436140b97fc0d920295001b581a5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106540000&x-signature=dS%2BSJW3%2BXHzp02VJBkCDnHpLyeQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610051446122681E7AAB1C6BFCFE8EA",
+      "like_count": 376,
+      "comment_count": 14,
+      "share_count": 11,
+      "collect_count": 10,
+      "description": "不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔",
+      "text_hint": "不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔",
+      "topic_tags": [
+        "燃气热水器",
+        "装修",
+        "家电怎么选",
+        "一级燃气热水器",
+        "海尔"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/619f204a8f45cdcfbb8d609226c3c166/6ac372a0/video/tos/cn/tos-cn-ve-0015c800/oADxvh9AIAAbLEnBRlrgAfRyDBeR60lnO4YvZP/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4241&bt=4241&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w6tMNHhd.wy09V03-ApQX&mime_type=video_mp4&qs=0&rc=M2Y5O2lkMzkzOWVmZjY6OEBpand5Ozo6ZnVocDMzNGkzM0BjNWA2Yl42XjUxYy02MmFfYSNjZi9ocjRvNV5gLS1kLTBzcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1791182772&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=202610051446122681E7AAB1C6BFCFE8EA",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7319726983997361459.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7319726983997361459.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 188.638,
+      "raw_payload": {
+        "aweme_id": "7319726983997361459",
+        "author_uid": "4503665285665074",
+        "sec_uid": "MS4wLjABAAAA_EhdhUkrllZBFM1-nZ8d7rJAhNkpN7s6-Q2U3sgSrbBdmNyPterbeWjQgo5WnjiJ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA_EhdhUkrllZBFM1-nZ8d7rJAhNkpN7s6-Q2U3sgSrbBdmNyPterbeWjQgo5WnjiJ"
+      }
+    },
+    "first_seen_at": "2026-10-05T14:45:51+08:00",
+    "last_seen_at": "2026-10-05T14:45:51+08:00",
+    "fetch_runs": [
+      "2026-10-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7319726983997361459.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7319726983997361459.mp3",
+      "source": "download",
+      "processed_at": "2026-10-05T14:57:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7319726983997361459",
+      "transcript_raw": "不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔补充信息：不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔关键词：燃气热水器、装修、家电怎么选、一级燃气热水器、海尔",
+      "transcript_clean": "不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔补充信息：不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔关键词：燃气热水器、装修、家电怎么选、一级燃气热水器、海尔",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-05/7319726983997361459.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7319726983997361459",
+      "summary": "张先森围绕“燃气热水器”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔。不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔补充信息：不是燃气费交不起，而是一级能效更有性价比#燃气热水器 #装修 #家电怎么选 #一级燃气热水器 #海尔关键词：燃气热水器、装修、家电怎么选、一级燃气热水器、海尔 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "燃气热水器为什么总是做不出来结果？",
+        "先把装修想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕燃气热水器组织标题与开头。",
+        "用装修和家电怎么选补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "燃气热水器",
+        "装修",
+        "家电怎么选"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-05/7319726983997361459.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "last_error": null
+  },
+  "7329515563154296104": {
+    "video_id": "7329515563154296104",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7329515563154296104",
+      "title": "埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车",
+      "publish_time": "2024-01-29T13:44:00+08:00",
+      "video_url": "https://www.douyin.com/video/7329515563154296104",
+      "cover_url": "",
+      "like_count": 13,
+      "comment_count": 7,
+      "share_count": 1,
+      "collect_count": 3,
+      "description": "埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车",
+      "text_hint": "埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车",
+      "topic_tags": [
+        "埃及",
+        "埃及旅游",
+        "卢克索",
+        "卢克索神庙",
+        "卢克索包车"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/2560e540e317f2bf3c2e8dfc0f528573/6ac3731f/video/cn/mps/realtime/v1/r/p/v0200fg10000cmrqh83c77uedfprf2v0/3b604ea5c37d49b0878f356738596f6b/a519f42dad189ade83e67921d935d694/mp4/main.mp4?a=6383&br=1794&bt=1794&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&codec=h264&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&definition=540p&dr=0&ds=6&dy_q=1791182788&eid=72448&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&format=mp4&ft=InFJ3Y-5DyjNNRVQ9wijMNHhd.wy09V03-ApQX&is_ssr=1&item_id=7329515563154296104&l=202610051446272241C60C5AB61B52636A&logo_type=&lr=all&mime_type=video_mp4&qs=1&rc=ZWk8Ozo4aTozPGc2OGgzZUBpMzV1aWg6Zjt0cDMzNGkzM0AzMzIwMzA1NV8xNGBeMTMwYSNzY21hcjQwZW9gLS1kLS9zcw%3D%3D&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type&__vid=7329515563154296104",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7329515563154296104.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7329515563154296104.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7329515563154296104",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-05T14:45:51+08:00",
+    "last_seen_at": "2026-10-05T14:45:51+08:00",
+    "fetch_runs": [
+      "2026-10-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7329515563154296104.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7329515563154296104.mp3",
+      "source": "download",
+      "processed_at": "2026-10-05T14:48:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7329515563154296104",
+      "transcript_raw": "埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车补充信息：埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车关键词：埃及、埃及旅游、卢克索、卢克索神庙、卢克索包车",
+      "transcript_clean": "埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车补充信息：埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车关键词：埃及、埃及旅游、卢克索、卢克索神庙、卢克索包车",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-05/7329515563154296104.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7329515563154296104",
+      "summary": "目标博主 1围绕“埃及”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车。埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车补充信息：埃及—卢克索西岸一日游攻略 #埃及 #埃及旅游 #卢克索 #卢克索神庙 #卢克索包车关键词：埃及、埃及旅游、卢克索、卢克索神庙、卢克索包车 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "埃及为什么总是做不出来结果？",
+        "先把埃及旅游想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕埃及组织标题与开头。",
+        "用埃及旅游和卢克索补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "埃及",
+        "埃及旅游",
+        "卢克索"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-05/7329515563154296104.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "last_error": null
+  },
+  "7302753263919680804": {
+    "video_id": "7302753263919680804",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "西簧崖屋村曹卫东演艺",
+      "video_id": "7302753263919680804",
+      "title": "白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦",
+      "publish_time": "2023-11-18T18:52:33+08:00",
+      "video_url": "https://www.douyin.com/video/7302753263919680804",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4bcf35ed1adea8598bd0d4341c27bcab~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106540000&x-signature=RCgQ4w76BJjar1bpabDjLMp8SR8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261005144635F4C23E0E22451DB9784B",
+      "like_count": 558,
+      "comment_count": 67,
+      "share_count": 60,
+      "collect_count": 114,
+      "description": "白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦",
+      "text_hint": "白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0906413b88af8c522cc135ed6ab16bc9/6ac373d7/video/tos/cn/tos-cn-ve-0015c800/ok9BXeAhjZYbyAWNXlfEAACxdbQAIOcVnJMYDg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1775&bt=1775&cs=0&ds=6&ft=CZdgCYlIDyjNNRVQ9wljMNHhd.wy09V03-ApQX&mime_type=video_mp4&qs=0&rc=aTxmZzhoNWgzZjk7aWVlNUBpM2ZkZTM6ZnA8bzMzNGkzM0AuNi9gMzBfNjIxXzJeMDE1YSMtcDIwcjQwX2BgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1791182795&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261005144635F4C23E0E22451DB9784B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7302753263919680804.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7302753263919680804.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 476.195,
+      "raw_payload": {
+        "aweme_id": "7302753263919680804",
+        "author_uid": "4503696017607162",
+        "sec_uid": "MS4wLjABAAAA9DF7XfXoWK_0hefxvdVYuj5ptarHgWTRs0Ac-77my6du1NuVvD-ta5sVNol-i62g",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9DF7XfXoWK_0hefxvdVYuj5ptarHgWTRs0Ac-77my6du1NuVvD-ta5sVNol-i62g"
+      }
+    },
+    "first_seen_at": "2026-10-05T14:45:51+08:00",
+    "last_seen_at": "2026-10-05T14:45:51+08:00",
+    "fetch_runs": [
+      "2026-10-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7302753263919680804.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7302753263919680804.mp3",
+      "source": "download",
+      "processed_at": "2026-10-05T14:58:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7302753263919680804",
+      "transcript_raw": "白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦补充信息：白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦",
+      "transcript_clean": "白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦补充信息：白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-05/7302753263919680804.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7302753263919680804",
+      "summary": "西簧崖屋村曹卫东演艺围绕“曲牌联奏”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦。白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦补充信息：白事专用  曲牌联奏\n《雁南归》完整版\n曲胡独奏\n 演艺热线：\n137  3310  4010\n视频有点长，耐心点看完哦 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "曲牌联奏为什么总是做不出来结果？",
+        "先把《雁南归》完整版想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕曲牌联奏组织标题与开头。",
+        "用《雁南归》完整版和曲胡独奏补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "曲牌联奏",
+        "《雁南归》完整版",
+        "曲胡独奏"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-05/7302753263919680804.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "last_error": null
+  },
+  "7223961476028058912": {
+    "video_id": "7223961476028058912",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "瓦岗寨主坑爹李",
+      "video_id": "7223961476028058912",
+      "title": "吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略",
+      "publish_time": "2023-04-20T11:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7223961476028058912",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/449a1b6ca58f70b9156349a1b743c191~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106540000&x-signature=HkuEPoEspQ8EXKfP4PKX96m2Fak%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261005144638EBBACCF3E634B84B55B9",
+      "like_count": 950,
+      "comment_count": 107,
+      "share_count": 104,
+      "collect_count": 80,
+      "description": "吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略",
+      "text_hint": "吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略",
+      "topic_tags": [
+        "文明6",
+        "文明",
+        "steam",
+        "游戏",
+        "游戏日常",
+        "游戏攻略"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4e850a1ebb4b5f1e65b5143f2b7c9790/6ac373a9/video/tos/cn/tos-cn-ve-15c001-alinc2/owfV4UjyIAn0A1rRhItFNe0BDEAtEvWHAC1gIz/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1612&bt=1612&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wxjMNHhd.wy09V03-ApQX&mime_type=video_mp4&qs=0&rc=OTQ5ZGRkM2VlN2RmZjVnPEBpam91ZTs6Zm9kazMzNGkzM0BiYmMzYS0xX2IxNDRiNV9fYSNuNl4ucjRvaS1gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100D_100J&dy_q=1791182798&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261005144638EBBACCF3E634B84B55B9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7223961476028058912.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7223961476028058912.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 427.271,
+      "raw_payload": {
+        "aweme_id": "7223961476028058912",
+        "author_uid": "99012314898",
+        "sec_uid": "MS4wLjABAAAAarcNXJCq2xyT1rq74na4qswgX8iPDECGnx4GW5Z1Njs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAarcNXJCq2xyT1rq74na4qswgX8iPDECGnx4GW5Z1Njs"
+      }
+    },
+    "first_seen_at": "2026-10-05T14:45:51+08:00",
+    "last_seen_at": "2026-10-05T14:45:51+08:00",
+    "fetch_runs": [
+      "2026-10-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7223961476028058912.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-05/7223961476028058912.mp3",
+      "source": "download",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7223961476028058912",
+      "transcript_raw": "吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略补充信息：吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略关键词：文明6、文明、steam、游戏、游戏日常、游戏攻略",
+      "transcript_clean": "吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略补充信息：吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略关键词：文明6、文明、steam、游戏、游戏日常、游戏攻略",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-05/7223961476028058912.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "analysis": {
+      "video_id": "7223961476028058912",
+      "summary": "瓦岗寨主坑爹李围绕“文明6”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略。吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略补充信息：吸血鬼到底有何特色？城下铁山靠太可怕了！ #文明6 #文明 #steam #游戏 #游戏日常 #游戏攻略关键词：文明6、文明、steam、游戏、游戏日常、游戏攻略 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "文明6为什么总是做不出来结果？",
+        "先把文明想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕文明6组织标题与开头。",
+        "用文明和steam补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "文明6",
+        "文明",
+        "steam"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-05/7223961476028058912.json",
+      "processed_at": "2026-10-05T14:59:10+08:00"
+    },
+    "last_error": null
+  },
+  "7521398380155276601": {
+    "video_id": "7521398380155276601",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7521398380155276601",
+      "title": "粉底不涂谁都不服，男生无粉底妆容教程! 想变帅又不想化妆显粉感的家人们! 福音来了!今天这个超绝无粉底妆容必须学起来！ 真正的0妆感，只用简单的道具！每个兄弟就能轻松变帅#美妆 #无粉底妆容 #挑战无粉底化妆 #变帅 #男生造型",
+      "publish_time": "2025-06-29T15:47:00+08:00",
+      "video_url": "https://www.douyin.com/video/7521398380155276601",
+      "cover_url": "",
+      "like_count": 503,
+      "comment_count": 19,
+      "share_count": 294,
+      "collect_count": 82,
+      "description": "粉底不涂谁都不服，男生无粉底妆容教程! 想变帅又不想化妆显粉感的家人们! 福音来了!今天这个超绝无粉底妆容必须学起来！ 真正的0妆感，只用简单的道具！每个兄弟就能轻松变帅#美妆 #无粉底妆容 #挑战无粉底化妆 #变帅 #男生造型",
+      "text_hint": "粉底不涂谁都不服，男生无粉底妆容教程! 想变帅又不想化妆显粉感的家人们! 福音来了!今天这个超绝无粉底妆容必须学起来！ 真正的0妆感，只用简单的道具！每个兄弟就能轻松变帅#美妆 #无粉底妆容 #挑战无粉底化妆 #变帅 #男生造型",
+      "topic_tags": [
+        "美妆",
+        "无粉底妆容",
+        "挑战无粉底化妆",
+        "变帅",
+        "男生造型"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/2267a321-302b-4ff3-a267-98b751308b05",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7521398380155276601",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-05T14:45:51+08:00",
+    "last_seen_at": "2026-10-05T14:45:51+08:00",
+    "fetch_runs": [
+      "2026-10-05"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
