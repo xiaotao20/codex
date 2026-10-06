@@ -54837,5 +54837,714 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7691301326361333033": {
+    "video_id": "7691301326361333033",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "费老师谈教育",
+      "video_id": "7691301326361333033",
+      "title": "中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划",
+      "publish_time": "2026-10-05T17:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7691301326361333033",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/89b8c4cf9687a080439195dfb4b8292c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106630000&x-signature=6VGSaMjfSOFSOq%2FlCKodHsDI6nM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261006152434946AE9DF6595A1D2D99C",
+      "like_count": 306,
+      "comment_count": 55,
+      "share_count": 166,
+      "collect_count": 272,
+      "description": "中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划",
+      "text_hint": "中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划",
+      "topic_tags": [
+        "警校",
+        "高中",
+        "升学规划",
+        "中央司法警官学院"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d52089b340d6264d7efd877c52bd5aa2/6ac4cea9/video/tos/cn/tos-cn-ve-15/o0fxkFGAEINQgOvvP5fzgmzA9b8NqDNhAiCpB7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1170&bt=1170&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9w_FijHhd.x0yNC73-ApQX&mime_type=video_mp4&qs=0&rc=NDc7ZjdoNjxkZjllZjc5aEBpM2w2cXI5cnZpZDMzNGkzM0BiYjE1NTUxNjExYmMvNTJjYSM1Y2ZlMmRzbXJhLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100H_100K_100o_100w&dy_q=1791271475&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261006152434946AE9DF6595A1D2D99C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7691301326361333033.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7691301326361333033.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 582.312,
+      "raw_payload": {
+        "aweme_id": "7691301326361333033",
+        "author_uid": "477642494317357",
+        "sec_uid": "MS4wLjABAAAAb6H0LGQntD164F0wrUn3NJHSKRTOP9R0o2MeRT6SD_U",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAb6H0LGQntD164F0wrUn3NJHSKRTOP9R0o2MeRT6SD_U"
+      }
+    },
+    "first_seen_at": "2026-10-06T15:24:23+08:00",
+    "last_seen_at": "2026-10-06T15:24:23+08:00",
+    "fetch_runs": [
+      "2026-10-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7691301326361333033.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7691301326361333033.mp3",
+      "source": "download",
+      "processed_at": "2026-10-06T15:26:20+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7691301326361333033",
+      "transcript_raw": "中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划补充信息：中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划关键词：警校、高中、升学规划、中央司法警官学院",
+      "transcript_clean": "中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划补充信息：中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划关键词：警校、高中、升学规划、中央司法警官学院",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-06/7691301326361333033.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7691301326361333033",
+      "summary": "费老师谈教育围绕“警校”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划。中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划补充信息：中央司法警官学院，入警率高达100% #中央司法警官学院 #警校 #高中 #升学规划关键词：警校、高中、升学规划、中央司法警官学院 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "警校为什么总是做不出来结果？",
+        "先把高中想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕警校组织标题与开头。",
+        "用高中和升学规划补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "警校",
+        "高中",
+        "升学规划"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-06/7691301326361333033.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "last_error": null
+  },
+  "7550907368818052404": {
+    "video_id": "7550907368818052404",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "奔流视频",
+      "video_id": "7550907368818052404",
+      "title": "#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）",
+      "publish_time": "2025-09-17T12:17:07+08:00",
+      "video_url": "https://www.douyin.com/video/7550907368818052404",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/10b2cf39eb9e66b927f0d89213726ad9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106630000&x-signature=S8gvRby%2FELbSGuoarGD0VGjOgLM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610061524379F6CFCD5797A5326F3E6",
+      "like_count": 30,
+      "comment_count": 1,
+      "share_count": 2,
+      "collect_count": 1,
+      "description": "#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）",
+      "text_hint": "#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）",
+      "topic_tags": [
+        "电影",
+        "电影《731》"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/0fba383d1a3381743d012169e4014583/6ac4cc73/video/tos/cn/tos-cn-ve-15/o8vlGecZBIZGRJbmcARALCPUge7GA4noeBaHpn/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1106&bt=1106&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wyFijHhd.x0yNC73-ApQX&mime_type=video_mp4&qs=0&rc=PGVoOmU4PDU2OjVmODQ6OkBpM3M8anE5cnU2NjMzNGkzM0A0MC0vYDY0Xl4xY2JgXzQxYSNpZ3MwMmQ0XzJhLS1kLTBzcw%3D%3D&btag=c0000e00010000&cquery=100o_100w_100B_100x_100z&dy_q=1791271477&feature_id=fea919893f650a8c49286568590446ef&l=202610061524379F6CFCD5797A5326F3E6",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7550907368818052404.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7550907368818052404.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 14.604,
+      "raw_payload": {
+        "aweme_id": "7550907368818052404",
+        "author_uid": "110743040835",
+        "sec_uid": "MS4wLjABAAAAFandnBBn7YV8HslSNZ_8B4gUJFfLbuyz6TTFRxAfYiM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAFandnBBn7YV8HslSNZ_8B4gUJFfLbuyz6TTFRxAfYiM"
+      }
+    },
+    "first_seen_at": "2026-10-06T15:24:23+08:00",
+    "last_seen_at": "2026-10-06T15:24:23+08:00",
+    "fetch_runs": [
+      "2026-10-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7550907368818052404.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7550907368818052404.mp3",
+      "source": "download",
+      "processed_at": "2026-10-06T15:26:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7550907368818052404",
+      "transcript_raw": "#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）补充信息：#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）关键词：电影、电影《731》",
+      "transcript_clean": "#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）补充信息：#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）关键词：电影、电影《731》",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-06/7550907368818052404.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7550907368818052404",
+      "summary": "奔流视频围绕“电影”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）。#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）补充信息：#电影《731》 今日举行全球首映式，预售票房已过亿。\n（奔流新闻综合现代快报、中国青年报）关键词：电影、电影《731》 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "电影为什么总是做不出来结果？",
+        "先把电影《731》想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕电影组织标题与开头。",
+        "用电影《731》和今日举行全球首映式，预售票房已过亿补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "电影",
+        "电影《731》",
+        "今日举行全球首映式，预售票房已过亿"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-06/7550907368818052404.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "last_error": null
+  },
+  "7281448926601825597": {
+    "video_id": "7281448926601825597",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "吃货上海小阿姨",
+      "video_id": "7281448926601825597",
+      "title": "滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食",
+      "publish_time": "2023-09-22T09:00:49+08:00",
+      "video_url": "https://www.douyin.com/video/7281448926601825597",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4d0b33e90e0f8ceeb0bc186cdafa16c7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106630000&x-signature=Nvkf%2FGgtLyHQ4OlQrJSe%2FVRYg6k%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261006152440B6E69094F229E99C9E4D",
+      "like_count": 20607,
+      "comment_count": 601,
+      "share_count": 6857,
+      "collect_count": 17922,
+      "description": "滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食",
+      "text_hint": "滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食",
+      "topic_tags": [
+        "哇源头生鲜真放心",
+        "哇又便宜又好吃",
+        "美食教程",
+        "妈呀太香了",
+        "美食"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/dce60d9678a0bb80bcd177761ae72c9d/6ac4cd30/video/tos/cn/tos-cn-ve-15c001-alinc2/oUb9IAN5eKgTUYAM1KBVEwM6gReAAlAODTnN8D/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3642&bt=3642&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wbFijHhd.x0yNC73-ApQX&mime_type=video_mp4&qs=0&rc=aTo4aTg2NjpkMzxoNDNnNUBpM3RyOzg6ZnJobjMzNGkzM0AwMV8tMjQ2NmIxLTAuL18uYSNzZy1icjQwMzNgLS1kLWFzcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1791271480&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261006152440B6E69094F229E99C9E4D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7281448926601825597.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7281448926601825597.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 200.017,
+      "raw_payload": {
+        "aweme_id": "7281448926601825597",
+        "author_uid": "100108567937",
+        "sec_uid": "MS4wLjABAAAAz-EwN_nl8KKzQAmPtwnjj55JgrTKPMGxmKHkrCeKjAU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAz-EwN_nl8KKzQAmPtwnjj55JgrTKPMGxmKHkrCeKjAU"
+      }
+    },
+    "first_seen_at": "2026-10-06T15:24:23+08:00",
+    "last_seen_at": "2026-10-06T15:24:23+08:00",
+    "fetch_runs": [
+      "2026-10-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7281448926601825597.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7281448926601825597.mp3",
+      "source": "download",
+      "processed_at": "2026-10-06T15:29:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7281448926601825597",
+      "transcript_raw": "滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食补充信息：滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食关键词：哇源头生鲜真放心、哇又便宜又好吃、美食教程、妈呀太香了、美食",
+      "transcript_clean": "滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食补充信息：滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食关键词：哇源头生鲜真放心、哇又便宜又好吃、美食教程、妈呀太香了、美食",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-06/7281448926601825597.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7281448926601825597",
+      "summary": "吃货上海小阿姨围绕“哇源头生鲜真放心”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食。滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食补充信息：滑蛋虾仁，加了这两样，够嫩够滑还不腥，虾仁怎么处理，都是细节 #哇源头生鲜真放心 #哇又便宜又好吃 #美食教程 #妈呀太香了 #美食关键词：哇源头生鲜真放心、哇又便宜又好吃、美食教程、妈呀太香了、美食 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "哇源头生鲜真放心为什么总是做不出来结果？",
+        "先把哇又便宜又好吃想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕哇源头生鲜真放心组织标题与开头。",
+        "用哇又便宜又好吃和美食教程补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "哇源头生鲜真放心",
+        "哇又便宜又好吃",
+        "美食教程"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-06/7281448926601825597.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "last_error": null
+  },
+  "7280953219684076855": {
+    "video_id": "7280953219684076855",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "武汉朗朗通讯(手机维修）",
+      "video_id": "7280953219684076855",
+      "title": "苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修",
+      "publish_time": "2023-09-21T00:57:40+08:00",
+      "video_url": "https://www.douyin.com/video/7280953219684076855",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/14b3b775da9b0871af184be1be5bbcfa~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106630000&x-signature=ti0LLKJb5ahcjCfpYmQWHOFzq9M%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610061524431BF1A7CD489FF962086F",
+      "like_count": 38,
+      "comment_count": 7,
+      "share_count": 19,
+      "collect_count": 14,
+      "description": "苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修",
+      "text_hint": "苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修",
+      "topic_tags": [
+        "苹果手表维修",
+        "iwatch手表",
+        "手机维修"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/67246143795c0725ac1fa642b26817e2/6ac4cdb4/video/tos/cn/tos-cn-ve-15c001-alinc2/oEh1ECgNZR9IDNAeaJhy7QfEJJ2zIkgAArElLB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1320&bt=1320&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9w4FijHhd.x0yNC73-ApQX&mime_type=video_mp4&qs=0&rc=ZDM3NDk7NjVkOzc0ZWY7OUBpandobDc6ZmdsbjMzNGkzM0AxYS5gLmJjNS8xYmM2NmNeYSMxay1xcjQwMTJgLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1791271483&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202610061524431BF1A7CD489FF962086F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7280953219684076855.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7280953219684076855.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 329.634,
+      "raw_payload": {
+        "aweme_id": "7280953219684076855",
+        "author_uid": "105036291822",
+        "sec_uid": "MS4wLjABAAAAAndSZECuAnm_w3_7uHWGgZtQIoAVwBx2pQkEK1pMZJs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAndSZECuAnm_w3_7uHWGgZtQIoAVwBx2pQkEK1pMZJs"
+      }
+    },
+    "first_seen_at": "2026-10-06T15:24:23+08:00",
+    "last_seen_at": "2026-10-06T15:24:23+08:00",
+    "fetch_runs": [
+      "2026-10-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7280953219684076855.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7280953219684076855.mp3",
+      "source": "download",
+      "processed_at": "2026-10-06T15:30:40+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7280953219684076855",
+      "transcript_raw": "苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修补充信息：苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修关键词：苹果手表维修、iwatch手表、手机维修",
+      "transcript_clean": "苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修补充信息：苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修关键词：苹果手表维修、iwatch手表、手机维修",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-06/7280953219684076855.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7280953219684076855",
+      "summary": "武汉朗朗通讯(手机维修）围绕“苹果手表维修”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修。苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修补充信息：苹果iWatch se后盖玻璃破 不拆机更换后玻璃#苹果手表维修 #iwatch手表 #手机维修关键词：苹果手表维修、iwatch手表、手机维修 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "苹果手表维修为什么总是做不出来结果？",
+        "先把iwatch手表想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕苹果手表维修组织标题与开头。",
+        "用iwatch手表和手机维修补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "苹果手表维修",
+        "iwatch手表",
+        "手机维修"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-06/7280953219684076855.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "last_error": null
+  },
+  "7510737059540421945": {
+    "video_id": "7510737059540421945",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7510737059540421945",
+      "title": "省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！",
+      "publish_time": "2025-05-31T22:15:00+08:00",
+      "video_url": "https://www.douyin.com/video/7510737059540421945",
+      "cover_url": "",
+      "like_count": 39,
+      "comment_count": 1,
+      "share_count": 4,
+      "collect_count": 5,
+      "description": "省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！",
+      "text_hint": "省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f394b079c4cffa6a054507364bf6e294/6ac4ce6c/video/tos/cn/tos-cn-ve-15c000-ce/oUfh30GAEjCEo6wtrZD9eoIEOQl6fj9G3FEAxy/?a=6383&br=1890&bt=1890&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1791271499&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wliijHhd.x0yNC73-ApQX&is_ssr=1&l=202610061524581823B462D057F3CF5CD1&lr=all&mime_type=video_mp4&qs=12&rc=NzM7ZDdmNzkzOTQ6N2Q4Z0BpM3g2aG85cjRxMzMzbGkzNEBfYF40YjYzXi0xLzA2My1iYSNlbl5vMmRrcXFhLS1kLWJzcw%3D%3D&__vid=7510737059540421945",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7510737059540421945.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7510737059540421945.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7510737059540421945",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-06T15:24:23+08:00",
+    "last_seen_at": "2026-10-06T15:24:23+08:00",
+    "fetch_runs": [
+      "2026-10-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7510737059540421945.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7510737059540421945.mp3",
+      "source": "download",
+      "processed_at": "2026-10-06T15:27:41+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7510737059540421945",
+      "transcript_raw": "省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！补充信息：省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！",
+      "transcript_clean": "省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！补充信息：省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-06/7510737059540421945.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7510737059540421945",
+      "summary": "知雪围绕“省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！补充信息：省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！。省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！补充信息：省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！补充信息：省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！补充信息：省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台！补充信息：省港澳各大堂口齐聚龙母祖庙舞龙舞狮等方式诚心贺诞！今天农历五月初五是我国传统节日端午节，正值德庆悦城龙母诞期，来自广东、香港、澳门等地的堂口齐聚悦城龙母祖庙，与当地龙狮团一起开展龙狮表演，庆贺悦城龙母生辰诞，搭建起粤港澳大湾区传统文化相互沟通交流、增进友谊的平台",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-06/7510737059540421945.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "last_error": null
+  },
+  "7423238782037658892": {
+    "video_id": "7423238782037658892",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "原来是二蛋❗️",
+      "video_id": "7423238782037658892",
+      "title": "10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂",
+      "publish_time": "2024-10-08T11:18:05+08:00",
+      "video_url": "https://www.douyin.com/video/7423238782037658892",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a0092c38611e6f622068853b61b32ac0~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106630000&x-signature=pTnoq2L6cT%2Bf48WTjmhuP5og1XE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261006152507BAE09451F6E7D8F1922D",
+      "like_count": 35,
+      "comment_count": 52,
+      "share_count": 34,
+      "collect_count": 1,
+      "description": "10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂",
+      "text_hint": "10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂",
+      "topic_tags": [
+        "钓鱼的乐趣只有钓鱼人懂",
+        "原来钓鱼才是抖音运动顶流",
+        "每个钓鱼人都有个百斤巨物梦",
+        "这鱼哪个钓友看了不羡慕",
+        "钓鱼人就是这么疯狂"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/3ecad657a46fd0f986b6d0c5a4e5610d/6ac4cd3c/video/tos/cn/tos-cn-ve-0015c800/o0IRTeBzjgFFHiGO5DsBPgSAC3AfAlBdBEAOil/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=5675&bt=5675&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wkiijHhd.x0yNC73-ApQX&mime_type=video_mp4&qs=0&rc=O2Q8NmUzaWYzZzozZzo5OUBpanE3bXM5cmxkdjMzNGkzM0BfNC9gNDMxNWAxLTY1Nl8wYSMuYWQtMmRzNC9gLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1791271507&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261006152507BAE09451F6E7D8F1922D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7423238782037658892.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7423238782037658892.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 185.434,
+      "raw_payload": {
+        "aweme_id": "7423238782037658892",
+        "author_uid": "3538647112747723",
+        "sec_uid": "MS4wLjABAAAAx6773MenKfT1LW-bTlLF2ADdukeOhnVeFxV5rHz_Db438mEkDbd1h9RrT0_hXdlS",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAx6773MenKfT1LW-bTlLF2ADdukeOhnVeFxV5rHz_Db438mEkDbd1h9RrT0_hXdlS"
+      }
+    },
+    "first_seen_at": "2026-10-06T15:24:23+08:00",
+    "last_seen_at": "2026-10-06T15:24:23+08:00",
+    "fetch_runs": [
+      "2026-10-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7423238782037658892.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7423238782037658892.mp3",
+      "source": "download",
+      "processed_at": "2026-10-06T15:28:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7423238782037658892",
+      "transcript_raw": "10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂补充信息：10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂关键词：钓鱼的乐趣只有钓鱼人懂、原来钓鱼才是抖音运动顶流、每个钓鱼人都有个百斤巨物梦、这鱼哪个钓友看了不羡慕、钓鱼人就是这么疯狂",
+      "transcript_clean": "10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂补充信息：10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂关键词：钓鱼的乐趣只有钓鱼人懂、原来钓鱼才是抖音运动顶流、每个钓鱼人都有个百斤巨物梦、这鱼哪个钓友看了不羡慕、钓鱼人就是这么疯狂",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-06/7423238782037658892.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7423238782037658892",
+      "summary": "原来是二蛋❗️围绕“钓鱼的乐趣只有钓鱼人懂”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂。10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂补充信息：10.8号还是简简单单3仓鱼 100/10小时鱼获自由 回鱼8块一公斤✌🏿#钓鱼的乐趣只有钓鱼人懂 #原来钓鱼才是抖音运动顶流 #每个钓鱼人都有个百斤巨物梦 #这鱼哪个钓友看了不羡慕 #钓鱼人就是这么疯狂关键词：钓鱼的乐趣只有钓鱼人懂、原来钓鱼才是抖音运动顶流、每个钓鱼人都有个百斤巨物梦、这鱼哪个钓友看了不羡慕、钓鱼人就是这么疯狂 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "钓鱼的乐趣只有钓鱼人懂为什么总是做不出来结果？",
+        "先把原来钓鱼才是抖音运动顶流想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕钓鱼的乐趣只有钓鱼人懂组织标题与开头。",
+        "用原来钓鱼才是抖音运动顶流和每个钓鱼人都有个百斤巨物梦补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "钓鱼的乐趣只有钓鱼人懂",
+        "原来钓鱼才是抖音运动顶流",
+        "每个钓鱼人都有个百斤巨物梦"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-06/7423238782037658892.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "last_error": null
+  },
+  "7234294090861415717": {
+    "video_id": "7234294090861415717",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "乌梅子酱❤️",
+      "video_id": "7234294090861415717",
+      "title": "你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香",
+      "publish_time": "2023-05-18T07:16:02+08:00",
+      "video_url": "https://www.douyin.com/video/7234294090861415717",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oAkZNKOYIQV2BE9AE4Ll9AAdB9eDHCbW2gfn3D~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106630000&x-signature=eh6QVTosfEDJDsq9KBLvKc4GYT4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610061525115E01DAB3445507B69AC3",
+      "like_count": 36,
+      "comment_count": 1,
+      "share_count": 18,
+      "collect_count": 15,
+      "description": "你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香",
+      "text_hint": "你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香",
+      "topic_tags": [
+        "蚊子克星",
+        "防蚊必备",
+        "好物推荐",
+        "檀香蚊香"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/264fdbee49f2da7d9020e7c42e88dbb6/6ac4cd79/video/tos/cn/tos-cn-ve-0015c800/oMlEOVtA9E9AMC7bK9IQWfnk0X2eDA4VBg63YZ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=737&bt=737&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wOiijHhd.x0yNC73-ApQX&mime_type=video_mp4&qs=0&rc=M2RkOzU2OTM1PGdkaDk4OUBpM2h2ZDg6ZnhvazMzNGkzM0AuXmM0MF41Nl4xYGFeYDBhYSNvNW9jcjQwb2ZgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1791271511&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202610061525115E01DAB3445507B69AC3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7234294090861415717.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7234294090861415717.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 242.51,
+      "raw_payload": {
+        "aweme_id": "7234294090861415717",
+        "author_uid": "4450427862527502",
+        "sec_uid": "MS4wLjABAAAAaYeiq116eXEHTTa6i2DIUocno42iIcVHZTkrEcNQW-331WGXRMyrn0qg98HtRtAL",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAaYeiq116eXEHTTa6i2DIUocno42iIcVHZTkrEcNQW-331WGXRMyrn0qg98HtRtAL"
+      }
+    },
+    "first_seen_at": "2026-10-06T15:24:23+08:00",
+    "last_seen_at": "2026-10-06T15:24:23+08:00",
+    "fetch_runs": [
+      "2026-10-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7234294090861415717.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7234294090861415717.mp3",
+      "source": "download",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7234294090861415717",
+      "transcript_raw": "你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香补充信息：你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香关键词：蚊子克星、防蚊必备、好物推荐、檀香蚊香",
+      "transcript_clean": "你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香补充信息：你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香关键词：蚊子克星、防蚊必备、好物推荐、檀香蚊香",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-06/7234294090861415717.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7234294090861415717",
+      "summary": "乌梅子酱❤️围绕“蚊子克星”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香。你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香补充信息：你们听说了吗?蚊香先淘汰了，驱蚊新技术来了，现在城里人都在用这个，你们用过吗?蚊香，灭蚊#蚊子克星#防蚊必备#好物推荐#檀香蚊香关键词：蚊子克星、防蚊必备、好物推荐、檀香蚊香 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "蚊子克星为什么总是做不出来结果？",
+        "先把防蚊必备想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕蚊子克星组织标题与开头。",
+        "用防蚊必备和好物推荐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "蚊子克星",
+        "防蚊必备",
+        "好物推荐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-06/7234294090861415717.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "last_error": null
+  },
+  "7324599010973453568": {
+    "video_id": "7324599010973453568",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7324599010973453568",
+      "title": "我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了",
+      "publish_time": "2024-01-16T07:45:00+08:00",
+      "video_url": "https://www.douyin.com/video/7324599010973453568",
+      "cover_url": "",
+      "like_count": 724,
+      "comment_count": 127,
+      "share_count": 9,
+      "collect_count": 82,
+      "description": "我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了",
+      "text_hint": "我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f347e4a5acaf5c14449b24dfe048edbd/6ac4cd5c/video/tos/cn/tos-cn-ve-0015c800/o8u0CILEzO3nxBNUghtVAnQPGfOoXyAAZIQe6m/?a=6383&br=962&bt=962&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100K_100o_100w_100B_100H&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1791271527&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wFiijHhd.x0yNC73-ApQX&is_ssr=1&l=20261006152526DF7F2416A17F1A75C9C6&lr=all&mime_type=video_mp4&qs=1&rc=Z2VkPDxlaWczNGQ5PGkzM0BpM25yZDs6Zjg2cDMzNGkzM0AvXjAuX2FhNWExLjEuLWFfYSM1YC40cjRvNGdgLS1kLS9zcw%3D%3D&__vid=7324599010973453568",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7324599010973453568.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7324599010973453568.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7324599010973453568",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-06T15:24:23+08:00",
+    "last_seen_at": "2026-10-06T15:24:23+08:00",
+    "fetch_runs": [
+      "2026-10-06"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7324599010973453568.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-06/7324599010973453568.mp3",
+      "source": "download",
+      "processed_at": "2026-10-06T15:29:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7324599010973453568",
+      "transcript_raw": "我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了补充信息：我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了",
+      "transcript_clean": "我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了补充信息：我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-06/7324599010973453568.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7324599010973453568",
+      "summary": "知雪围绕“我有点破防”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了。我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了补充信息：我有点破防 我有点破防 昨天的体验让我很好 设计师能不能别教人玩游戏了 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "我有点破防为什么总是做不出来结果？",
+        "先把昨天的体验让我很好想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕我有点破防组织标题与开头。",
+        "用昨天的体验让我很好和设计师能不能别教人玩游戏了我有点破防补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "我有点破防",
+        "昨天的体验让我很好",
+        "设计师能不能别教人玩游戏了我有点破防"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-06/7324599010973453568.json",
+      "processed_at": "2026-10-06T15:30:54+08:00"
+    },
+    "last_error": null
   }
 }
