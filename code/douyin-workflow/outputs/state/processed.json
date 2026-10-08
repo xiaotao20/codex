@@ -56261,5 +56261,339 @@
       "processed_at": "2026-10-07T15:08:23+08:00"
     },
     "last_error": null
+  },
+  "7604496396384783666": {
+    "video_id": "7604496396384783666",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "长沙新闻",
+      "video_id": "7604496396384783666",
+      "title": "马跃兴洲 春启新程丨兴马洲 4 米巨锅杀猪菜！花猪肉鲜甜细嫩一口沦陷！#兴马洲新春民俗喜乐会#长沙年味#春节#杀年猪",
+      "publish_time": "2026-02-08T22:10:07+08:00",
+      "video_url": "https://www.douyin.com/video/7604496396384783666",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1ff6de68f93c18bdb5df7592dce6c094~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106802800&x-signature=QbElkVe7r4Y3pTO72ovWdTbVvhc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261008151241F6BFAF17B00617589154",
+      "like_count": 16,
+      "comment_count": 0,
+      "share_count": 12,
+      "collect_count": 1,
+      "description": "马跃兴洲 春启新程丨兴马洲 4 米巨锅杀猪菜！花猪肉鲜甜细嫩一口沦陷！#兴马洲新春民俗喜乐会#长沙年味#春节#杀年猪",
+      "text_hint": "马跃兴洲 春启新程丨兴马洲 4 米巨锅杀猪菜！花猪肉鲜甜细嫩一口沦陷！#兴马洲新春民俗喜乐会#长沙年味#春节#杀年猪",
+      "topic_tags": [
+        "兴马洲新春民俗喜乐会",
+        "长沙年味",
+        "春节",
+        "杀年猪"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/8c3146b5c35c399ba0cc3f32ba3c3892/6ac76cd1/video/tos/cn/tos-cn-ve-15/ow9gAlfBNI4meE0AFmBWqxZEIBVApinYiQJgEg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1361&bt=1361&cs=0&ds=3&ft=4rzAgkIKDyjNNRVQ9wCiMjHhd.phwRV03-ApQX&mime_type=video_mp4&qs=0&rc=ZzRlODkzOjxmOzs6N2g7PEBpM3NucnI5cmo8OTMzNGkzM0BfLi82X2BeXy8xYWIzMWAvYSNfNTEvMmRjNDFhLS1kLWFzcw%3D%3D&btag=c0000e00020000&cquery=100H_100K_100o_100w_100B&dy_q=1791443561&feature_id=fea919893f650a8c49286568590446ef&l=20261008151241F6BFAF17B00617589154",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 56.472,
+      "raw_payload": {
+        "aweme_id": "7604496396384783666",
+        "author_uid": "110375560700",
+        "sec_uid": "MS4wLjABAAAABz7p3XQCadmqoIiX4KkoxlrKFHYEchtgH9YHp3rhpiM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABz7p3XQCadmqoIiX4KkoxlrKFHYEchtgH9YHp3rhpiM"
+      }
+    },
+    "first_seen_at": "2026-10-08T15:12:26+08:00",
+    "last_seen_at": "2026-10-08T15:12:26+08:00",
+    "fetch_runs": [
+      "2026-10-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7293390382551911716": {
+    "video_id": "7293390382551911716",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "粉红妈妈",
+      "video_id": "7293390382551911716",
+      "title": "萌鸡小队第1季英文版第52集-《The Snowman》雪人雪人，一起玩吧！（全集完）\n#萌鸡小队 #英语启蒙动画",
+      "publish_time": "2023-10-24T13:20:08+08:00",
+      "video_url": "https://www.douyin.com/video/7293390382551911716",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2c8781c1e5140969c0b0dc07ce86a3ee~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106802800&x-signature=jCw3AxNhuVbmsi5oNyoFW9qGFTc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261008151245D16225EB9148C1F3718C",
+      "like_count": 369,
+      "comment_count": 25,
+      "share_count": 84,
+      "collect_count": 130,
+      "description": "萌鸡小队第1季英文版第52集-《The Snowman》雪人雪人，一起玩吧！（全集完）\n#萌鸡小队 #英语启蒙动画",
+      "text_hint": "萌鸡小队第1季英文版第52集-《The Snowman》雪人雪人，一起玩吧！（全集完）\n#萌鸡小队 #英语启蒙动画",
+      "topic_tags": [
+        "萌鸡小队",
+        "英语启蒙动画"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/c1dcf3156e5ca5159834cb0019a5771c/6ac76dda/video/tos/cn/tos-cn-ve-15c001-alinc2/oQHlzfMiVAxwh9c7gQ8INqDnObfrvp1DAABJuI/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1107&bt=1107&cs=0&ds=3&ft=4rzAgkIKDyjNNRVQ9w5iMjHhd.phwRV03-ApQX&mime_type=video_mp4&qs=0&rc=OGg0ZmZpODVmMzk2OTk2OkBpM284eWY6ZjZvbjMzNGkzM0A2YjEuYzZjNjUxYC0vNTI2YSNmY3ItcjRnM29gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1791443565&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261008151245D16225EB9148C1F3718C",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 317.167,
+      "raw_payload": {
+        "aweme_id": "7293390382551911716",
+        "author_uid": "110964231627",
+        "sec_uid": "MS4wLjABAAAAXMWCyTyL8HyxYaHBCMc7MjAOJ_X_jopAzr8PD_3bHPI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAXMWCyTyL8HyxYaHBCMc7MjAOJ_X_jopAzr8PD_3bHPI"
+      }
+    },
+    "first_seen_at": "2026-10-08T15:12:26+08:00",
+    "last_seen_at": "2026-10-08T15:12:26+08:00",
+    "fetch_runs": [
+      "2026-10-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7281593466121932067": {
+    "video_id": "7281593466121932067",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "高稳恒温晶振",
+      "video_id": "7281593466121932067",
+      "title": "数字系统中的频率信号与上升/下降时间\n#电子技术 #高速电路板设计 #高速数据传输 #电子工程师",
+      "publish_time": "2023-09-22T18:21:44+08:00",
+      "video_url": "https://www.douyin.com/video/7281593466121932067",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/010d1c5e1a1154610098b0e8abfd6be3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106802800&x-signature=dBz%2FNnuKvf3rwX9bkpeuCJiTquo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261008151248E35729246C811167A2C1",
+      "like_count": 47,
+      "comment_count": 2,
+      "share_count": 1,
+      "collect_count": 7,
+      "description": "数字系统中的频率信号与上升/下降时间\n#电子技术 #高速电路板设计 #高速数据传输 #电子工程师",
+      "text_hint": "数字系统中的频率信号与上升/下降时间\n#电子技术 #高速电路板设计 #高速数据传输 #电子工程师",
+      "topic_tags": [
+        "电子技术",
+        "高速电路板设计",
+        "高速数据传输",
+        "电子工程师"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/34a4e07013261c07f685a2f89a9049f9/6ac76dc6/video/cn/mps/realtime/v1/r/p/v0300fg10000ck6mkfrc77u0vj5top30/626e2aa9e62f44e2b9b602cdea940f0b/8b99fd134e432b39aaa45c120905620b/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=551&bt=551&cs=0&ds=3&eid=64256&ft=4rzAgkIKDyjNNRVQ9wDiMjHhd.phwRV03-ApQX&mime_type=video_mp4&qs=0&rc=ZWk3ZGc1OTw1N2k5PGRoNUBpM3N3bTM6ZmlwbjMzNGkzM0AtLTZiYC1fX2IxL2JeLzMzYSMwbDJzcjRvaDNgLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1791443568&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7281593466121932067&l=20261008151248E35729246C811167A2C1&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 295.054,
+      "raw_payload": {
+        "aweme_id": "7281593466121932067",
+        "author_uid": "96748274898",
+        "sec_uid": "MS4wLjABAAAA-GYBgIxQCqNvC-dN3vaX95Kz1_t2PmDpaaDodZUB3kA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA-GYBgIxQCqNvC-dN3vaX95Kz1_t2PmDpaaDodZUB3kA"
+      }
+    },
+    "first_seen_at": "2026-10-08T15:12:26+08:00",
+    "last_seen_at": "2026-10-08T15:12:26+08:00",
+    "fetch_runs": [
+      "2026-10-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7441538401808977186": {
+    "video_id": "7441538401808977186",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7441538401808977186",
+      "title": "月底亏本处理二手车 今年二手车太难了，亏本就有四十几台#高性价比二手车推荐 #库存处理#二手车",
+      "publish_time": "2024-11-26T10:49:00+08:00",
+      "video_url": "https://www.douyin.com/video/7441538401808977186",
+      "cover_url": "",
+      "like_count": 898,
+      "comment_count": 166,
+      "share_count": 56,
+      "collect_count": 65,
+      "description": "月底亏本处理二手车 今年二手车太难了，亏本就有四十几台#高性价比二手车推荐 #库存处理#二手车",
+      "text_hint": "月底亏本处理二手车 今年二手车太难了，亏本就有四十几台#高性价比二手车推荐 #库存处理#二手车",
+      "topic_tags": [
+        "高性价比二手车推荐",
+        "库存处理",
+        "二手车"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/8e2426ba98c8b608853f56697d71ff35/6ac76d7f/video/tos/cn/tos-cn-ve-0015c800/oor0biajFFzZvQvBJE46AKvkqmiQAxEIT3WPI/?a=6383&br=1054&bt=1054&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1791443584&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=4rzAgkIKDyjNNRVQ9w.pMjHhd.phwRV03-ApQX&is_ssr=1&l=20261008151304050006A1377B0063A46E&lr=all&mime_type=video_mp4&qs=12&rc=Zzo6aWc1OWU5Njc3aTY3NUBpanQ2a3E5cml0dzMzNGkzM0AyLWIyYmE1NS8xLWI0MWAyYSNlNDQvMmRrYS9gLS1kLWFzcw%3D%3D&__vid=7441538401808977186",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7441538401808977186",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-08T15:12:26+08:00",
+    "last_seen_at": "2026-10-08T15:12:26+08:00",
+    "fetch_runs": [
+      "2026-10-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7118580600046357768": {
+    "video_id": "7118580600046357768",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "晓东吉他～音为爱",
+      "video_id": "7118580600046357768",
+      "title": "全网最好听的《西海情歌》没有之一#刀郎 #西海情歌 #正安神曲吉他 #晓东吉他 #贵州美好推荐官",
+      "publish_time": "2022-07-10T11:28:26+08:00",
+      "video_url": "https://www.douyin.com/video/7118580600046357768",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8d87199c5de77bafa143e8d19515db96~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106802800&x-signature=McOqweAxGauuTCqP5ncZwu%2FmbDg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261008151312BF4D6856CD5D32540D46",
+      "like_count": 9316,
+      "comment_count": 422,
+      "share_count": 2771,
+      "collect_count": 1801,
+      "description": "全网最好听的《西海情歌》没有之一#刀郎 #西海情歌 #正安神曲吉他 #晓东吉他 #贵州美好推荐官",
+      "text_hint": "全网最好听的《西海情歌》没有之一#刀郎 #西海情歌 #正安神曲吉他 #晓东吉他 #贵州美好推荐官",
+      "topic_tags": [
+        "刀郎",
+        "西海情歌",
+        "正安神曲吉他",
+        "晓东吉他",
+        "贵州美好推荐官"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/fad6035a5a8fd560ef76e35863d33294/6ac76dc9/video/tos/cn/tos-cn-ve-15c001-alinc2/d181ae7e39ef4bdd9b19582a8862ad3f/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1662&bt=1662&cs=0&ds=3&ft=4rzAgkIKDyjNNRVQ9wppMjHhd.phwRV03-ApQX&mime_type=video_mp4&qs=0&rc=OTo8aGk8NjNpN2c3PDgzZUBpajU3NGY6ZjY3ZTMzNGkzM0A0L2E2LmE2NS0xL2ExM2NhYSNzMmVhcjQwNjJgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_102u_100o&dy_q=1791443593&l=20261008151312BF4D6856CD5D32540D46",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 272.694,
+      "raw_payload": {
+        "aweme_id": "7118580600046357768",
+        "author_uid": "51782699001",
+        "sec_uid": "MS4wLjABAAAAPB-9_NWnWIJleHXSfhk_65w6jyIefrG686ZbqTtkRBw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAPB-9_NWnWIJleHXSfhk_65w6jyIefrG686ZbqTtkRBw"
+      }
+    },
+    "first_seen_at": "2026-10-08T15:12:26+08:00",
+    "last_seen_at": "2026-10-08T15:12:26+08:00",
+    "fetch_runs": [
+      "2026-10-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "6972146961663233293": {
+    "video_id": "6972146961663233293",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "琳达姐姐",
+      "video_id": "6972146961663233293",
+      "title": "危中一定藏着巨大商机！穷爸爸富爸爸作者罗伯特。清崎谈如何在当下把握机会#商业思维 #读书 #财经",
+      "publish_time": "2021-06-10T20:51:36+08:00",
+      "video_url": "https://www.douyin.com/video/6972146961663233293",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c189d39ec14d3fae0fe449c7bc450dec~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106802800&x-signature=YnVN7ehBNrmg1cM4oVmqe2U%2BDNU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610081513171530279A982E353E3750",
+      "like_count": 1364,
+      "comment_count": 20,
+      "share_count": 388,
+      "collect_count": 422,
+      "description": "危中一定藏着巨大商机！穷爸爸富爸爸作者罗伯特。清崎谈如何在当下把握机会#商业思维 #读书 #财经",
+      "text_hint": "危中一定藏着巨大商机！穷爸爸富爸爸作者罗伯特。清崎谈如何在当下把握机会#商业思维 #读书 #财经",
+      "topic_tags": [
+        "商业思维",
+        "读书",
+        "财经"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/67d32bf1a3b2244a3d9c67425faf740e/6ac76d91/video/cn/mps/realtime/v1/r/p/v0d00fg10000c310k4imvn4scblr13mg/73937568d56e4a17b0c7f0d78b85a33f/6e983f478d97cab512e0a6d3240a7fc0/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=402&bt=402&cs=0&ds=3&eid=64256&ft=4rzAgkIKDyjNNRVQ9w8pMjHhd.phwRV03-ApQX&mime_type=video_mp4&qs=0&rc=aTY4ZTozOjM6ZGg4Ozg2NkBpajZ1ZXZxcDczNjMzNGkzM0AwXjU1YWNgXy4xM2EzNDY0YSNqLmlgMXNmaC5gLS1kLWFzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100o_100w_100B_100H_102u&definition=720p&dy_q=1791443597&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=6972146961663233293&l=202610081513171530279A982E353E3750&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 212.467,
+      "raw_payload": {
+        "aweme_id": "6972146961663233293",
+        "author_uid": "2471350419336391",
+        "sec_uid": "MS4wLjABAAAACh1agWXo0x_ABaly64UOb_w0hrYwEwtda3mldExQ0lokseB82ue--2kTWeWl6AoN",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACh1agWXo0x_ABaly64UOb_w0hrYwEwtda3mldExQ0lokseB82ue--2kTWeWl6AoN"
+      }
+    },
+    "first_seen_at": "2026-10-08T15:12:26+08:00",
+    "last_seen_at": "2026-10-08T15:12:26+08:00",
+    "fetch_runs": [
+      "2026-10-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7429695116610145586": {
+    "video_id": "7429695116610145586",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7429695116610145586",
+      "title": "羊咩咩挂件，教程5完结了，成品可爱，教程详细，喜欢快做起来 视频中用到的线材是@苏苏姐家官方旗舰店 ，四股唯棉，79草绿，07肤色。#爱生活爱编织 #毛线 #玩毛线 #内容启发搜索 #毛线编织",
+      "publish_time": "2024-10-25T12:56:00+08:00",
+      "video_url": "https://www.douyin.com/video/7429695116610145586",
+      "cover_url": "",
+      "like_count": 515,
+      "comment_count": 140,
+      "share_count": 576,
+      "collect_count": 83,
+      "description": "羊咩咩挂件，教程5完结了，成品可爱，教程详细，喜欢快做起来 视频中用到的线材是@苏苏姐家官方旗舰店 ，四股唯棉，79草绿，07肤色。#爱生活爱编织 #毛线 #玩毛线 #内容启发搜索 #毛线编织",
+      "text_hint": "羊咩咩挂件，教程5完结了，成品可爱，教程详细，喜欢快做起来 视频中用到的线材是@苏苏姐家官方旗舰店 ，四股唯棉，79草绿，07肤色。#爱生活爱编织 #毛线 #玩毛线 #内容启发搜索 #毛线编织",
+      "topic_tags": [
+        "爱生活爱编织",
+        "毛线",
+        "玩毛线",
+        "内容启发搜索",
+        "毛线编织"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/9df2afc6e445f741b59d395823fff7f6/6ac76df4/video/tos/cn/tos-cn-ve-15/oQfrM6fQ4nhIQgE8atnFkArDBNQKGI93rnDAhA/?a=6383&br=1112&bt=1112&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100H_100K_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1791443613&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=4rzAgkIKDyjNNRVQ9wQpMjHhd.phwRV03-ApQX&is_ssr=1&l=2026100815133248F3BC933C67395C8EC3&lr=all&mime_type=video_mp4&qs=1&rc=aDRpZDc0NzdkOGZkaTpnZ0Bpand1N205cnRydjMzNGkzM0AyYDAtYDFeNi0xX2ExNGAxYSMvNDNtMmRzaWFgLS1kLTBzcw%3D%3D&__vid=7429695116610145586",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7429695116610145586",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-08T15:12:26+08:00",
+    "last_seen_at": "2026-10-08T15:12:26+08:00",
+    "fetch_runs": [
+      "2026-10-08"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
   }
 }
