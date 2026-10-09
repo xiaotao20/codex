@@ -1,0 +1,19 @@
+{
+  "name": "sqlite-analyzer",
+  "version": "1.0.0",
+  "description": "网页版 SQLite 数据库分析工具：读取库表结构，用 Claude 分析每张表的用途",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.68.0",
+    "express": "^5.1.0",
+    "multer": "^2.0.1",
+    "mysql2": "^3.11.0"
+  }
+}

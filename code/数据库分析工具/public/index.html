@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>数据库分析工具</title>
+  <style>
+    :root {
+      --bg: #0f1115;
+      --panel: #181b22;
+      --panel-2: #1f232c;
+      --border: #2a2f3a;
+      --text: #e6e8ec;
+      --muted: #9aa2af;
+      --accent: #6ea8fe;
+      --accent-2: #4f8cf5;
+      --warn: #fbbf24;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, "Segoe UI", "Microsoft YaHei", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    header { padding: 28px 24px 12px; max-width: 1000px; margin: 0 auto; }
+    header h1 { margin: 0 0 4px; font-size: 24px; }
+    header p { margin: 0; color: var(--muted); font-size: 14px; }
+    main { max-width: 1000px; margin: 0 auto; padding: 12px 24px 60px; }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+    label { display: block; font-size: 13px; color: var(--muted); margin: 12px 0 6px; }
+    input[type="text"], input[type="password"], input[type="number"], select {
+      width: 100%;
+      padding: 10px 12px;
+      background: var(--panel-2);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: var(--text);
+      font-size: 14px;
+    }
+    input[type="file"] { color: var(--muted); font-size: 14px; }
+    .divider { text-align: center; color: var(--muted); font-size: 12px; margin: 10px 0; }
+    .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+    .grid-host { display: grid; grid-template-columns: 3fr 1fr; gap: 10px; }
+    .btns { display: flex; gap: 10px; margin-top: 16px; flex-wrap: wrap; }
+    button {
+      padding: 10px 18px; border: none; border-radius: 8px;
+      font-size: 14px; cursor: pointer; font-weight: 500;
+    }
+    button.primary { background: var(--accent-2); color: #fff; }
+    button.primary:hover { background: var(--accent); }
+    button.ghost { background: var(--panel-2); color: var(--text); border: 1px solid var(--border); }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .hide { display: none; }
+
+    .status { margin-top: 14px; font-size: 14px; color: var(--muted); min-height: 20px; }
+    .status.err { color: #f87171; }
+    .spinner {
+      display: inline-block; width: 14px; height: 14px; margin-right: 8px;
+      border: 2px solid var(--border); border-top-color: var(--accent);
+      border-radius: 50%; animation: spin 0.8s linear infinite; vertical-align: middle;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    h2 { font-size: 18px; margin: 24px 0 12px; }
+    .purpose { background: var(--panel-2); border-left: 3px solid var(--accent); padding: 12px 16px; border-radius: 6px; }
+
+    .table-card { border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-bottom: 12px; background: var(--panel); }
+    .table-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+    .table-name { font-weight: 600; font-size: 15px; font-family: ui-monospace, Menlo, monospace; }
+    .badge { font-size: 12px; padding: 2px 9px; border-radius: 999px; background: var(--panel-2); border: 1px solid var(--border); color: var(--muted); }
+    .rowcount { font-size: 12px; color: var(--muted); margin-left: auto; }
+    .table-card p { margin: 8px 0 0; font-size: 14px; }
+    .kv { font-size: 13px; color: var(--muted); margin-top: 6px; }
+    .kv b { color: var(--text); font-weight: 500; }
+    .cols { margin-top: 8px; font-size: 12px; color: var(--muted); font-family: ui-monospace, Menlo, monospace; }
+
+    details { margin-top: 20px; }
+    summary { cursor: pointer; color: var(--muted); font-size: 14px; }
+    .hint { font-size: 12px; color: var(--muted); margin-top: 6px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>🗄️ 数据库分析工具</h1>
+    <p>连接 SQLite 或 MySQL 数据库，自动读取库表结构，并用 Claude 分析每张表的用途。</p>
+  </header>
+
+  <main>
+    <div class="card">
+      <label>数据库类型</label>
+      <select id="dbType">
+        <option value="sqlite">SQLite（文件）</option>
+        <option value="mysql">MySQL（连接）</option>
+      </select>
+
+      <!-- SQLite 输入 -->
+      <div id="sqlitePanel">
+        <label>方式一：上传数据库文件</label>
+        <input type="file" id="dbfile" accept=".db,.sqlite,.sqlite3,.db3" />
+        <div class="divider">— 或 —</div>
+        <label>方式二：服务器本地文件路径</label>
+        <input type="text" id="dbpath" placeholder="例如 E:\\data\\app.sqlite（文件需在运行本服务的机器上）" />
+      </div>
+
+      <!-- MySQL 输入 -->
+      <div id="mysqlPanel" class="hide">
+        <label>连接 URL（可选，填了就优先用它）</label>
+        <input type="text" id="mysqlUrl" placeholder="mysql://user:password@host:3306/dbname" />
+        <div class="divider">— 或者分字段填写 —</div>
+        <div class="grid-host">
+          <div>
+            <label>主机 Host</label>
+            <input type="text" id="myHost" placeholder="127.0.0.1" />
+          </div>
+          <div>
+            <label>端口 Port</label>
+            <input type="number" id="myPort" placeholder="3306" />
+          </div>
+        </div>
+        <div class="grid2">
+          <div>
+            <label>用户名 User</label>
+            <input type="text" id="myUser" placeholder="root" />
+          </div>
+          <div>
+            <label>密码 Password</label>
+            <input type="password" id="myPass" placeholder="••••••" autocomplete="off" />
+          </div>
+        </div>
+        <label>数据库名 Database</label>
+        <input type="text" id="myDb" placeholder="要分析的库名" />
+        <div class="hint">连接信息仅用于本次读取，不会保存。</div>
+      </div>
+
+      <hr style="border:none;border-top:1px solid var(--border);margin:20px 0" />
+
+      <label>API Key（可选，留空则用服务器 .env 里的 ANTHROPIC_API_KEY）</label>
+      <input type="password" id="apikey" placeholder="sk-...（仅本次使用，不会保存）" autocomplete="off" />
+
+      <label>Base URL（可选，中转站地址；留空则用 .env 或直连官方）</label>
+      <input type="text" id="baseurl" placeholder="https://your-relay.example.com/v1" />
+
+      <div class="btns">
+        <button class="primary" id="analyzeBtn">读取结构并用 AI 分析</button>
+        <button class="ghost" id="schemaBtn">仅读取结构（不调用 AI）</button>
+      </div>
+      <div class="status" id="status"></div>
+    </div>
+
+    <div id="results"></div>
+  </main>
+
+  <script>
+    const $ = (id) => document.getElementById(id);
+    const statusEl = $('status');
+    const resultsEl = $('results');
+
+    // 切换数据库类型时显示对应的输入面板
+    $('dbType').addEventListener('change', () => {
+      const isMysql = $('dbType').value === 'mysql';
+      $('sqlitePanel').classList.toggle('hide', isMysql);
+      $('mysqlPanel').classList.toggle('hide', !isMysql);
+    });
+
+    function setStatus(msg, isError = false, loading = false) {
+      statusEl.className = 'status' + (isError ? ' err' : '');
+      statusEl.innerHTML = (loading ? '<span class="spinner"></span>' : '') + (msg || '');
+    }
+
+    function buildFormData() {
+      const fd = new FormData();
+      const dbType = $('dbType').value;
+      fd.append('dbType', dbType);
+
+      if (dbType === 'mysql') {
+        const url = $('mysqlUrl').value.trim();
+        if (url) {
+          fd.append('mysqlUrl', url);
+        } else {
+          const host = $('myHost').value.trim();
+          const db = $('myDb').value.trim();
+          if (!host || !db) { setStatus('请填写 MySQL 主机和数据库名，或提供连接 URL。', true); return null; }
+          fd.append('host', host);
+          if ($('myPort').value.trim()) fd.append('port', $('myPort').value.trim());
+          fd.append('user', $('myUser').value.trim());
+          fd.append('password', $('myPass').value);
+          fd.append('database', db);
+        }
+      } else {
+        const file = $('dbfile').files[0];
+        const path = $('dbpath').value.trim();
+        if (file) fd.append('dbfile', file);
+        else if (path) fd.append('path', path);
+        else { setStatus('请上传 SQLite 文件或填写文件路径。', true); return null; }
+      }
+
+      const apiKey = $('apikey').value.trim();
+      const baseUrl = $('baseurl').value.trim();
+      if (apiKey) fd.append('apiKey', apiKey);
+      if (baseUrl) fd.append('baseUrl', baseUrl);
+      return fd;
+    }
+
+    async function callApi(endpoint) {
+      const fd = buildFormData();
+      if (!fd) return;
+      resultsEl.innerHTML = '';
+      const btns = document.querySelectorAll('button');
+      btns.forEach((b) => (b.disabled = true));
+      setStatus(endpoint === '/api/analyze' ? '正在读取结构并调用 Claude 分析（可能需要十几秒）…' : '正在读取结构…', false, true);
+      try {
+        const res = await fetch(endpoint, { method: 'POST', body: fd });
+        const data = await res.json();
+        if (!data.ok) {
+          setStatus(data.error || '出错了', true);
+          if (data.schema) renderSchema(data.schema);
+          return;
+        }
+        setStatus('完成 ✓');
+        if (data.analysis) renderAnalysis(data.analysis);
+        renderSchema(data.schema);
+      } catch (err) {
+        setStatus('请求失败：' + err.message, true);
+      } finally {
+        btns.forEach((b) => (b.disabled = false));
+      }
+    }
+
+    function esc(s) {
+      return String(s ?? '').replace(/[&<>]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[c]));
+    }
+
+    function renderAnalysis(a) {
+      let html = '<h2>AI 分析结果</h2>';
+      html += `<div class="purpose">${esc(a.database_purpose)}</div>`;
+      html += '<h2>各表用途</h2>';
+      for (const t of a.tables) {
+        html += `
+          <div class="table-card">
+            <div class="table-head">
+              <span class="table-name">${esc(t.name)}</span>
+              <span class="badge">${esc(t.category)}</span>
+            </div>
+            <p>${esc(t.purpose)}</p>
+            <div class="kv"><b>关键字段：</b>${(t.key_columns || []).map(esc).join('、') || '—'}</div>
+            <div class="kv"><b>关系：</b>${esc(t.relationships)}</div>
+          </div>`;
+      }
+      if (a.notes && a.notes !== '无') {
+        html += `<h2>整体观察</h2><div class="purpose" style="border-left-color:var(--warn)">${esc(a.notes)}</div>`;
+      }
+      resultsEl.insertAdjacentHTML('beforeend', html);
+    }
+
+    function renderSchema(schema) {
+      let html = '<details open><summary>数据库结构详情（' +
+        schema.tables.length + ' 张表' +
+        (schema.views.length ? '，' + schema.views.length + ' 个视图' : '') + '）</summary>';
+      for (const t of schema.tables) {
+        const cols = t.columns.map((c) =>
+          `${esc(c.name)} ${esc(c.type)}${c.primaryKey ? ' 🔑' : ''}${c.notnull ? ' *' : ''}`
+        ).join(' · ');
+        const fks = t.foreignKeys.length
+          ? '<div class="kv">外键：' + t.foreignKeys.map((f) =>
+              `${esc(f.column)} → ${esc(f.referencesTable)}.${esc(f.referencesColumn)}`).join('；') + '</div>'
+          : '';
+        html += `
+          <div class="table-card">
+            <div class="table-head">
+              <span class="table-name">${esc(t.name)}</span>
+              <span class="rowcount">${t.rowCount ?? '?'} 行</span>
+            </div>
+            <div class="cols">${cols}</div>
+            ${fks}
+          </div>`;
+      }
+      html += '</details>';
+      resultsEl.insertAdjacentHTML('beforeend', html);
+    }
+
+    $('analyzeBtn').addEventListener('click', () => callApi('/api/analyze'));
+    $('schemaBtn').addEventListener('click', () => callApi('/api/schema'));
+  </script>
+</body>
+</html>
