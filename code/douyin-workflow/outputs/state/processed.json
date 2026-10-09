@@ -56595,5 +56595,374 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7694554402246148266": {
+    "video_id": "7694554402246148266",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "中医师承分享-小师弟",
+      "video_id": "7694554402246148266",
+      "title": "#中医师承导师 #师承备案 走中医师承，导师选错直接白学几年！",
+      "publish_time": "2026-10-09T14:40:54+08:00",
+      "video_url": "https://www.douyin.com/video/7694554402246148266",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o4SaRIiUTIMQqHBOiiXvsIE3wujMOnABcAPCg~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106889200&x-signature=Iz8CkOxJSUx91w7yrIXNaVVJ2Co%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261009151647806C466EB882BBF916CD",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "#中医师承导师 #师承备案 走中医师承，导师选错直接白学几年！",
+      "text_hint": "#中医师承导师 #师承备案 走中医师承，导师选错直接白学几年！",
+      "topic_tags": [
+        "中医师承导师",
+        "师承备案"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/da0792855744cea90a9c2384bad34d4f/6ac8bf2d/video/tos/cn/tos-cn-ve-15/oMIaIsjDivliiLBEAwuCgPATMIcOQSoMTIn9Q/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1079&bt=1079&cs=0&ds=3&ft=_nmGT-WHDyjNMRVQ9wvaXhHhd.i348C73-ApQX&mime_type=video_mp4&qs=0&rc=Ojw4ODQzZDpmNzNpaGdkPEBpM3Z0Nmo5cmw7ZTMzNGkzM0A2NGMvLWNhX18xYF4xNF8wYSMuYjI0MmRrbDFhLS1kLS9zcw%3D%3D&btag=c0000e00018000&cquery=100o_100w_100B_100x_100z&dy_q=1791530207&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261009151647806C466EB882BBF916CD",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 30.046,
+      "raw_payload": {
+        "aweme_id": "7694554402246148266",
+        "author_uid": "7693812941838484539",
+        "sec_uid": "MS4wLjABAAAAQZPn68PXb_aPDY5d4PDWaw6q--Z8Wig5FSp-cc2P7cL8ELKLiPnbse-yZ5U0CtLu",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQZPn68PXb_aPDY5d4PDWaw6q--Z8Wig5FSp-cc2P7cL8ELKLiPnbse-yZ5U0CtLu"
+      }
+    },
+    "first_seen_at": "2026-10-09T15:16:24+08:00",
+    "last_seen_at": "2026-10-09T15:16:24+08:00",
+    "fetch_runs": [
+      "2026-10-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7581750100154682624": {
+    "video_id": "7581750100154682624",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "温情体育",
+      "video_id": "7581750100154682624",
+      "title": "结束21年短跑生涯！9秒83破亚洲纪录！36岁苏炳添宣布退役 #苏炳添 #中国田径 #100米短跑",
+      "publish_time": "2025-12-09T15:02:42+08:00",
+      "video_url": "https://www.douyin.com/video/7581750100154682624",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/93401e7295be87f0289d7f5b3376683f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106889200&x-signature=6DSzekqazpbM80CVPHTPJ4rVPlw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026100915165110BC605385F651BF60C5",
+      "like_count": 747,
+      "comment_count": 10,
+      "share_count": 44,
+      "collect_count": 121,
+      "description": "结束21年短跑生涯！9秒83破亚洲纪录！36岁苏炳添宣布退役 #苏炳添 #中国田径 #100米短跑",
+      "text_hint": "结束21年短跑生涯！9秒83破亚洲纪录！36岁苏炳添宣布退役 #苏炳添 #中国田径 #100米短跑",
+      "topic_tags": [
+        "苏炳添",
+        "中国田径",
+        "100米短跑"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/5386f2f2925603fb495b8d70c4bb124d/6ac8bfea/video/tos/cn/tos-cn-ve-15/ow8pNFDt9AAIQE3hK3EIwkBAzQSgFimfNpfJgU/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1478&bt=1478&cs=0&ds=4&ft=_nmGT-WHDyjNMRVQ9wmaXhHhd.i348C73-ApQX&mime_type=video_mp4&qs=0&rc=M2g0aGg6NTY1ZTRkNzozOEBpajN3aGs5cjt2NzMzNGkzM0AzMl4yMzAuNTExX19iNV8zYSMxMjBeMmRjZm9hLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100H_100K_100o&dy_q=1791530211&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026100915165110BC605385F651BF60C5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 215.3,
+      "raw_payload": {
+        "aweme_id": "7581750100154682624",
+        "author_uid": "136814843671236",
+        "sec_uid": "MS4wLjABAAAApeKwPQsrJFJAKsYQ8en410GVJ1Dfy7gawRgphrfTcEQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAApeKwPQsrJFJAKsYQ8en410GVJ1Dfy7gawRgphrfTcEQ"
+      }
+    },
+    "first_seen_at": "2026-10-09T15:16:24+08:00",
+    "last_seen_at": "2026-10-09T15:16:24+08:00",
+    "fetch_runs": [
+      "2026-10-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7237894458618973492": {
+    "video_id": "7237894458618973492",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "墩墩大超",
+      "video_id": "7237894458618973492",
+      "title": "不期而遇的一点感慨。#墩墩大超 #街访 #哈佛神兽 #女车主 #适合年轻人的车",
+      "publish_time": "2023-05-28T20:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7237894458618973492",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/261aa724ce3b025efbdd5a681b647223~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106889200&x-signature=LmBzKwrEBpWs38a%2FFi44xyWiY5A%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261009151654031319053AF393AC1F5B",
+      "like_count": 594,
+      "comment_count": 255,
+      "share_count": 68,
+      "collect_count": 19,
+      "description": "不期而遇的一点感慨。#墩墩大超 #街访 #哈佛神兽 #女车主 #适合年轻人的车",
+      "text_hint": "不期而遇的一点感慨。#墩墩大超 #街访 #哈佛神兽 #女车主 #适合年轻人的车",
+      "topic_tags": [
+        "墩墩大超",
+        "街访",
+        "哈佛神兽",
+        "女车主",
+        "适合年轻人的车"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/2fcab062319a0926e45351ddb37ff033/6ac8c05b/video/tos/cn/tos-cn-ve-0015c800/oAQmIjAJ9obcAtnk0ebFbLkwCsYAuDcgNjibBf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2773&bt=2773&cs=0&ds=4&ft=_nmGT-WHDyjNMRVQ9wWaXhHhd.i348C73-ApQX&mime_type=video_mp4&qs=0&rc=NzkzZTo8PGhnZmk3PDplOEBpajhxOWY6ZmU1azMzNGkzM0BeNi40YzFhNjYxLi4tNl4zYSNkMC5hcjRnam1gLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100H_100K&dy_q=1791530214&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261009151654031319053AF393AC1F5B",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 325.104,
+      "raw_payload": {
+        "aweme_id": "7237894458618973492",
+        "author_uid": "1873193079420912",
+        "sec_uid": "MS4wLjABAAAAOtPyES_8GvPTdAOq4OXekxLgWmDe-2FW0w6-kIYVHrPjPhre0SKuc_qUSGvQoefi",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAOtPyES_8GvPTdAOq4OXekxLgWmDe-2FW0w6-kIYVHrPjPhre0SKuc_qUSGvQoefi"
+      }
+    },
+    "first_seen_at": "2026-10-09T15:16:24+08:00",
+    "last_seen_at": "2026-10-09T15:16:24+08:00",
+    "fetch_runs": [
+      "2026-10-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7245589655683419404": {
+    "video_id": "7245589655683419404",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "职教张学长",
+      "video_id": "7245589655683419404",
+      "title": "从大专校招应聘进世界500强华为，我干了一年裸辞去干销售，干销售从第一个月1500的底薪干到后面一个月3万块，不满足于此我又创业成立自己的公司。谁说专科生就没有未来？视频有点长，我给了专科在校生我的8年经验建议！希望专科的你也能逆风翻盘！#大专#深职院 #深职张学长 #创业#逆风翻盘",
+      "publish_time": "2023-06-17T17:48:32+08:00",
+      "video_url": "https://www.douyin.com/video/7245589655683419404",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/375b50931e4c41e103ce0723a694cf49~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106889200&x-signature=otX2To%2Fv6wRqjwUL69mcO87jy00%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261009151657D9CDD3EF360C95CEBDF9",
+      "like_count": 295,
+      "comment_count": 43,
+      "share_count": 93,
+      "collect_count": 82,
+      "description": "从大专校招应聘进世界500强华为，我干了一年裸辞去干销售，干销售从第一个月1500的底薪干到后面一个月3万块，不满足于此我又创业成立自己的公司。谁说专科生就没有未来？视频有点长，我给了专科在校生我的8年经验建议！希望专科的你也能逆风翻盘！#大专#深职院 #深职张学长 #创业#逆风翻盘",
+      "text_hint": "从大专校招应聘进世界500强华为，我干了一年裸辞去干销售，干销售从第一个月1500的底薪干到后面一个月3万块，不满足于此我又创业成立自己的公司。谁说专科生就没有未来？视频有点长，我给了专科在校生我的8年经验建议！希望专科的你也能逆风翻盘！#大专#深职院 #深职张学长 #创业#逆风翻盘",
+      "topic_tags": [
+        "大专",
+        "深职院",
+        "深职张学长",
+        "创业",
+        "逆风翻盘"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/b0c769bb98137aead10fcd69ab815b9d/6ac8c143/video/tos/cn/tos-cn-ve-0015c800/ogtfefSrPRMpEpArAr4BoZseQJ2WkfEgHxAoHa/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=470&bt=470&cs=0&ds=4&ft=_nmGT-WHDyjNMRVQ9wCaXhHhd.i348C73-ApQX&mime_type=video_mp4&qs=0&rc=OzQ1aWk6NGg0ZjtpaTk3NEBpam55cTM6ZmlxbDMzNGkzM0AxM14uLzZjXjIxMTMvMmA1YSMtaTUvcjRvcTNgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1791530217&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261009151657D9CDD3EF360C95CEBDF9",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 554.352,
+      "raw_payload": {
+        "aweme_id": "7245589655683419404",
+        "author_uid": "4344885095185040",
+        "sec_uid": "MS4wLjABAAAAIOacAQPDIOebVGoUOP70gHVbTwaTljqLqGpVOWukhfJS5qldjSH2525QjBUuoq8K",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAIOacAQPDIOebVGoUOP70gHVbTwaTljqLqGpVOWukhfJS5qldjSH2525QjBUuoq8K"
+      }
+    },
+    "first_seen_at": "2026-10-09T15:16:24+08:00",
+    "last_seen_at": "2026-10-09T15:16:24+08:00",
+    "fetch_runs": [
+      "2026-10-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7580598163473062897": {
+    "video_id": "7580598163473062897",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7580598163473062897",
+      "title": "在抖音记录美好生活20261009",
+      "publish_time": "2026-10-09T15:17:22+08:00",
+      "video_url": "https://www.douyin.com/video/7580598163473062897",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261009",
+      "text_hint": "在抖音记录美好生活20261009",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/34770d97-90a3-49c6-989a-e781ec6ac32a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7580598163473062897",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-09T15:16:24+08:00",
+    "last_seen_at": "2026-10-09T15:16:24+08:00",
+    "fetch_runs": [
+      "2026-10-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "6985453495000386853": {
+    "video_id": "6985453495000386853",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "6985453495000386853",
+      "title": "在抖音记录美好生活20261009",
+      "publish_time": "2026-10-09T15:17:22+08:00",
+      "video_url": "https://www.douyin.com/video/6985453495000386853",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261009",
+      "text_hint": "在抖音记录美好生活20261009",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/59d766b7-7eff-407f-9648-b7192507537b",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "6985453495000386853",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-09T15:16:24+08:00",
+    "last_seen_at": "2026-10-09T15:16:24+08:00",
+    "fetch_runs": [
+      "2026-10-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7430763429465492770": {
+    "video_id": "7430763429465492770",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "及时行乐爷",
+      "video_id": "7430763429465492770",
+      "title": "你们要的科莫多攻略来了！看完还有比科莫多船宿更好玩的吗？\n#印尼 #科莫多 #船宿 #攻略 #户外",
+      "publish_time": "2024-10-28T17:57:27+08:00",
+      "video_url": "https://www.douyin.com/video/7430763429465492770",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c3ddc479fae5c69ca6f291d1c51a0c90~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2106889200&x-signature=HgdaOixx3rrQMwAG%2FPOZgVnqrVE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610091517155077D8598BB901C35037",
+      "like_count": 673,
+      "comment_count": 259,
+      "share_count": 559,
+      "collect_count": 226,
+      "description": "你们要的科莫多攻略来了！看完还有比科莫多船宿更好玩的吗？\n#印尼 #科莫多 #船宿 #攻略 #户外",
+      "text_hint": "你们要的科莫多攻略来了！看完还有比科莫多船宿更好玩的吗？\n#印尼 #科莫多 #船宿 #攻略 #户外",
+      "topic_tags": [
+        "印尼",
+        "科莫多",
+        "船宿",
+        "攻略",
+        "户外"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/788821b02ed76f73eb8fdea0f39d3eeb/6ac8bff7/video/tos/cn/tos-cn-ve-15/oMgvi4KHUJXMwAsNZrRAjLIEeNGftfGeEe43ho/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3969&bt=3969&cs=0&ds=4&ft=_nmGT-WHDyjNMRVQ9w4aXhHhd.i348C73-ApQX&mime_type=video_mp4&qs=0&rc=ZGY1ZzY8aDY6ZTs3ZzY1M0BpM2VlanA5cnBvdjMzNGkzM0AxNjAuMmAwNTUxYGI2YDJjYSNjMm81MmRzc2NgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100z_100o_100w_100B_100x&dy_q=1791530235&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=202610091517155077D8598BB901C35037",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 204.708,
+      "raw_payload": {
+        "aweme_id": "7430763429465492770",
+        "author_uid": "3653057563599996",
+        "sec_uid": "MS4wLjABAAAAHoDzPDtF4aR9Y5_z2_3lqxQAuTyDp069wSr_MkpiYDq2QcqKB5I2CNK6BxrXZpMs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHoDzPDtF4aR9Y5_z2_3lqxQAuTyDp069wSr_MkpiYDq2QcqKB5I2CNK6BxrXZpMs"
+      }
+    },
+    "first_seen_at": "2026-10-09T15:16:24+08:00",
+    "last_seen_at": "2026-10-09T15:16:24+08:00",
+    "fetch_runs": [
+      "2026-10-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7371093595308231970": {
+    "video_id": "7371093595308231970",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7371093595308231970",
+      "title": "在抖音记录美好生活20261009",
+      "publish_time": "2026-10-09T15:17:22+08:00",
+      "video_url": "https://www.douyin.com/video/7371093595308231970",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261009",
+      "text_hint": "在抖音记录美好生活20261009",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/10c4a235-07ee-4aca-bcaa-5f81562241af",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7371093595308231970",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-09T15:16:24+08:00",
+    "last_seen_at": "2026-10-09T15:16:24+08:00",
+    "fetch_runs": [
+      "2026-10-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
