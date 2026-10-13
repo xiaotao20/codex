@@ -58287,5 +58287,405 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "6927135112480001294": {
+    "video_id": "6927135112480001294",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "6927135112480001294",
+      "title": "目标博主 1 视频 6927135112480001294",
+      "publish_time": "2026-10-13T15:36:55+08:00",
+      "video_url": "https://www.douyin.com/video/6927135112480001294",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/43100161-7569-4f6f-b0ef-8be8b74a0233",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "6927135112480001294",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-13T15:34:48+08:00",
+    "last_seen_at": "2026-10-13T15:34:48+08:00",
+    "fetch_runs": [
+      "2026-10-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7225631676565556517": {
+    "video_id": "7225631676565556517",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7225631676565556517",
+      "title": "目标博主 1 视频 7225631676565556517",
+      "publish_time": "2026-10-13T15:36:55+08:00",
+      "video_url": "https://www.douyin.com/video/7225631676565556517",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/00ccabc1-0cc2-4d1d-8c83-5ae62df724e7",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7225631676565556517",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-13T15:34:48+08:00",
+    "last_seen_at": "2026-10-13T15:34:48+08:00",
+    "fetch_runs": [
+      "2026-10-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7213724445398142266": {
+    "video_id": "7213724445398142266",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7213724445398142266",
+      "title": "目标博主 1 视频 7213724445398142266",
+      "publish_time": "2026-10-13T15:36:55+08:00",
+      "video_url": "https://www.douyin.com/video/7213724445398142266",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/402c4d10-e00a-4e84-ac98-8f1f4e1c9559",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7213724445398142266",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-13T15:34:48+08:00",
+    "last_seen_at": "2026-10-13T15:34:48+08:00",
+    "fetch_runs": [
+      "2026-10-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7576863342602554665": {
+    "video_id": "7576863342602554665",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7576863342602554665",
+      "title": "宝宝理发神器二合一，小巧便携轻松搞定宝宝发型！ #儿童理发梳 #宝宝理发好物 #直柄理发神器 #剪刘海工具 #宝宝发型",
+      "publish_time": "2025-11-26T02:59:00+08:00",
+      "video_url": "https://www.douyin.com/video/7576863342602554665",
+      "cover_url": "",
+      "like_count": 37,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 98,
+      "description": "宝宝理发神器二合一，小巧便携轻松搞定宝宝发型！ #儿童理发梳 #宝宝理发好物 #直柄理发神器 #剪刘海工具 #宝宝发型",
+      "text_hint": "宝宝理发神器二合一，小巧便携轻松搞定宝宝发型！ #儿童理发梳 #宝宝理发好物 #直柄理发神器 #剪刘海工具 #宝宝发型",
+      "topic_tags": [
+        "儿童理发梳",
+        "宝宝理发好物",
+        "直柄理发神器",
+        "剪刘海工具",
+        "宝宝发型"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/478a1f2e-f25c-40fc-bda1-6d228ef26cbd",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7576863342602554665",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-13T15:34:48+08:00",
+    "last_seen_at": "2026-10-13T15:34:48+08:00",
+    "fetch_runs": [
+      "2026-10-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7247442077875801401": {
+    "video_id": "7247442077875801401",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "年糕王子🤴",
+      "video_id": "7247442077875801401",
+      "title": "提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏",
+      "publish_time": "2023-06-22T17:36:52+08:00",
+      "video_url": "https://www.douyin.com/video/7247442077875801401",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/275bd7556bdc2e87b74b82d16a24a4c3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107234800&x-signature=msoTZIxWd%2FS6s03eV4kuh0dXm24%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026101315363125AEFD16252FF8648FAB",
+      "like_count": 70,
+      "comment_count": 14,
+      "share_count": 26,
+      "collect_count": 6,
+      "description": "提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏",
+      "text_hint": "提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏",
+      "topic_tags": [
+        "家乡的变化",
+        "航拍最美家乡",
+        "宣传家乡旅游文化",
+        "我负责拍摄分享你负责欣赏"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7f5e6d3bb37d0287628fb922f4870dcb/6ace0b07/video/tos/cn/tos-cn-ve-0015c800/ocDVvu9AIAAbyEGVQkSgfgIsCBePYvlnB5MnId/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1099&bt=1099&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wGDwaHhd.4_Ujf03-ApQX&mime_type=video_mp4&qs=0&rc=aDQ4Zjw8ZWc2OWdoNzw6NUBpM3J4Omg6ZnM0bDMzNGkzM0AuMTAwYmMyNTYxYWJhNF4yYSNkbHFmcjRvNF5gLS1kLS9zcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1791876991&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026101315363125AEFD16252FF8648FAB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-13/7247442077875801401.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-13/7247442077875801401.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 344.84,
+      "raw_payload": {
+        "aweme_id": "7247442077875801401",
+        "author_uid": "1455346243079438",
+        "sec_uid": "MS4wLjABAAAAdDO0_rN4FYUk76Zl8RNdp3h7FbVbgAGf80dbXzgwR23UjTN3zRfo-xHXCN07-nct",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdDO0_rN4FYUk76Zl8RNdp3h7FbVbgAGf80dbXzgwR23UjTN3zRfo-xHXCN07-nct"
+      }
+    },
+    "first_seen_at": "2026-10-13T15:34:48+08:00",
+    "last_seen_at": "2026-10-13T15:34:48+08:00",
+    "fetch_runs": [
+      "2026-10-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-13/7247442077875801401.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-13/7247442077875801401.mp3",
+      "source": "download",
+      "processed_at": "2026-10-13T15:42:36+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7247442077875801401",
+      "transcript_raw": "提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏补充信息：提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏关键词：家乡的变化、航拍最美家乡、宣传家乡旅游文化、我负责拍摄分享你负责欣赏",
+      "transcript_clean": "提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏补充信息：提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏关键词：家乡的变化、航拍最美家乡、宣传家乡旅游文化、我负责拍摄分享你负责欣赏",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-13/7247442077875801401.json",
+      "processed_at": "2026-10-13T15:42:43+08:00"
+    },
+    "analysis": {
+      "video_id": "7247442077875801401",
+      "summary": "年糕王子🤴围绕“家乡的变化”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏。提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏补充信息：提起东洲前华村，富阳人恐怕无人不知无人不孝，承载了多少废钢人的发财梦！#家乡的变化 #航拍最美家乡 #宣传家乡旅游文化 #我负责拍摄分享你负责欣赏关键词：家乡的变化、航拍最美家乡、宣传家乡旅游文化、我负责拍摄分享你负责欣赏 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "家乡的变化为什么总是做不出来结果？",
+        "先把航拍最美家乡想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕家乡的变化组织标题与开头。",
+        "用航拍最美家乡和宣传家乡旅游文化补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "家乡的变化",
+        "航拍最美家乡",
+        "宣传家乡旅游文化"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-13/7247442077875801401.json",
+      "processed_at": "2026-10-13T15:42:43+08:00"
+    },
+    "last_error": null
+  },
+  "7298286907933347111": {
+    "video_id": "7298286907933347111",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "甜甜美食厨房",
+      "video_id": "7298286907933347111",
+      "title": "猪肉酸菜水饺馅好吃有诀窍，教你酒店调馅秘诀，鲜嫩多汁馅香味美",
+      "publish_time": "2023-11-06T18:00:46+08:00",
+      "video_url": "https://www.douyin.com/video/7298286907933347111",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b3ef442df24b4b5c239244fe2252f8eb~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107234800&x-signature=Qgywfzx9SpmOIIJNUuwJwRt8uHA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261013153634C5783AD5E4993681A689",
+      "like_count": 1980,
+      "comment_count": 51,
+      "share_count": 1036,
+      "collect_count": 1790,
+      "description": "猪肉酸菜水饺馅好吃有诀窍，教你酒店调馅秘诀，鲜嫩多汁馅香味美",
+      "text_hint": "猪肉酸菜水饺馅好吃有诀窍，教你酒店调馅秘诀，鲜嫩多汁馅香味美",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/9cd523c3266f8179d7ebfa88cfab1099/6ace0adb/video/tos/cn/tos-cn-ve-0015c800/oI0jQiFZPoDOVRNSAjDAIlSk90lgfBCAULEAfg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2919&bt=2919&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wwewaHhd.4_Ujf03-ApQX&mime_type=video_mp4&qs=0&rc=ODw2Nmg1NDg3Nmc5Ozo1ZkBpajs0OGw5cm1lbzMzNGkzM0AyLzVgNGI0NTIxXjRjNDNeYSNsMC1hMmRrZjFgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100B_100D_100J_100o_100w&dy_q=1791876994&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261013153634C5783AD5E4993681A689",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 297.767,
+      "raw_payload": {
+        "aweme_id": "7298286907933347111",
+        "author_uid": "1556517603253124",
+        "sec_uid": "MS4wLjABAAAAcBbXCNu27bD_4Ql5MJp6qeJpAlpCbydQBKRcSPTz-JkUkb7AMDHNPIS6y00k7aQe",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAcBbXCNu27bD_4Ql5MJp6qeJpAlpCbydQBKRcSPTz-JkUkb7AMDHNPIS6y00k7aQe"
+      }
+    },
+    "first_seen_at": "2026-10-13T15:34:48+08:00",
+    "last_seen_at": "2026-10-13T15:34:48+08:00",
+    "fetch_runs": [
+      "2026-10-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "The read operation timed out"
+  },
+  "7224688005221551398": {
+    "video_id": "7224688005221551398",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7224688005221551398",
+      "title": "#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？",
+      "publish_time": "2023-04-22T01:59:00+08:00",
+      "video_url": "https://www.douyin.com/video/7224688005221551398",
+      "cover_url": "",
+      "like_count": 223,
+      "comment_count": 69,
+      "share_count": 48,
+      "collect_count": 25,
+      "description": "#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？",
+      "text_hint": "#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？",
+      "topic_tags": [
+        "空腹有氧",
+        "自律",
+        "空腹爬楼梯"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/2bb62dbb9a46f04d1f7d147c78207cac/6ace0a76/video/tos/cn/tos-cn-ve-15/ooZzkARUQAnWgJAzgvjABPrfcD8S9QvDetIvbg/?a=6383&br=515&bt=515&btag=c0000e00028000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100z_100o_100w_100B_100x&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1791877010&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&ft=CZdgCYlIDyjNMRVQ9wfewaHhd.4_Ujf03-ApQX&is_ssr=1&l=202610131536500E7A366D855E069FC22B&lr=all&mime_type=video_mp4&qs=12&rc=Mzk0aDxlODc8OWk7aTs6M0BpamU8eDg6ZmZtazMzNGkzM0BiMDIvNDBeNWIxYS1iYV8yYSNvX2oycjRvNS5gLS1kLTBzcw%3D%3D&req_cdn_type=&__vid=7224688005221551398",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-13/7224688005221551398.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-13/7224688005221551398.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7224688005221551398",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-13T15:34:48+08:00",
+    "last_seen_at": "2026-10-13T15:34:48+08:00",
+    "fetch_runs": [
+      "2026-10-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-13/7224688005221551398.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-13/7224688005221551398.mp3",
+      "source": "download",
+      "processed_at": "2026-10-13T15:42:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7224688005221551398",
+      "transcript_raw": "#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？补充信息：#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？关键词：空腹有氧、自律、空腹爬楼梯",
+      "transcript_clean": "#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？补充信息：#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？关键词：空腹有氧、自律、空腹爬楼梯",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-13/7224688005221551398.json",
+      "processed_at": "2026-10-13T15:42:43+08:00"
+    },
+    "analysis": {
+      "video_id": "7224688005221551398",
+      "summary": "目标博主 1围绕“空腹有氧”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？。#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？补充信息：#空腹有氧 #自律 #空腹爬楼梯 关于爬楼你们还有什么问题想知道的呢？关键词：空腹有氧、自律、空腹爬楼梯 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "空腹有氧为什么总是做不出来结果？",
+        "先把自律想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕空腹有氧组织标题与开头。",
+        "用自律和空腹爬楼梯补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "空腹有氧",
+        "自律",
+        "空腹爬楼梯"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-13/7224688005221551398.json",
+      "processed_at": "2026-10-13T15:42:43+08:00"
+    },
+    "last_error": null
   }
 }
