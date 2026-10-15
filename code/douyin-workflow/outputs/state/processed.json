@@ -59057,5 +59057,638 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7460047952543862026": {
+    "video_id": "7460047952543862026",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "娱乾记",
+      "video_id": "7460047952543862026",
+      "title": "谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到",
+      "publish_time": "2025-01-16T10:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7460047952543862026",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/12c93ee9286f8f527ed9281884be4b2e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107400400&x-signature=sSqXFRBLxUIkgXmUzrFGBdOAWnM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610151344591CA75F04D0F0E55A9B93",
+      "like_count": 58119,
+      "comment_count": 237,
+      "share_count": 5439,
+      "collect_count": 4626,
+      "description": "谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到",
+      "text_hint": "谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到",
+      "topic_tags": [
+        "万万没想到",
+        "老外",
+        "说中文的外国人",
+        "搞笑",
+        "万万想不到"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/c80f5a6cd6c0ea8a3e45cf0786ce3aab/6ad09340/video/cn/mps/realtime/v1/r/p/v0200fg10000cu3misfog65ljv59ne50/eeb4ac558b724b009d78bd56b9f58cfe/58c5859b2a04afe66be461040f129e01/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=977&bt=977&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNxIVQ9wYglyHhd.G5UZf03-ApQX&mime_type=video_mp4&qs=0&rc=aGY4PDlnO2czZTVlOGY3aEBpM2g8eW85cnZweDMzNGkzM0BjNWNfMl80Ni0xNDUyXl9iYSMyazJnMmRjZjBgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100o_100w_100B_100H_100K&definition=720p&dy_q=1792043099&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7460047952543862026&l=202610151344591CA75F04D0F0E55A9B93&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7460047952543862026.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7460047952543862026.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 181.731,
+      "raw_payload": {
+        "aweme_id": "7460047952543862026",
+        "author_uid": "3771780329126699",
+        "sec_uid": "MS4wLjABAAAAIqznBJ_lNa-wbijd1BNaURuMDe_1xq9t1ZWsLhpv82_DuGAbyaPPYTu_4Bq2Azfq",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAIqznBJ_lNa-wbijd1BNaURuMDe_1xq9t1ZWsLhpv82_DuGAbyaPPYTu_4Bq2Azfq"
+      }
+    },
+    "first_seen_at": "2026-10-15T13:44:47+08:00",
+    "last_seen_at": "2026-10-15T13:44:47+08:00",
+    "fetch_runs": [
+      "2026-10-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7460047952543862026.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7460047952543862026.mp3",
+      "source": "download",
+      "processed_at": "2026-10-15T13:46:38+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7460047952543862026",
+      "transcript_raw": "谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到补充信息：谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到关键词：万万没想到、老外、说中文的外国人、搞笑、万万想不到",
+      "transcript_clean": "谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到补充信息：谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到关键词：万万没想到、老外、说中文的外国人、搞笑、万万想不到",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-15/7460047952543862026.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7460047952543862026",
+      "summary": "娱乾记围绕“万万没想到”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到。谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到补充信息：谁说这洋人不好啊，这洋人太棒了#万万没想到  #老外  #说中文的外国人 #搞笑 #万万想不到关键词：万万没想到、老外、说中文的外国人、搞笑、万万想不到 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "万万没想到为什么总是做不出来结果？",
+        "先把老外想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕万万没想到组织标题与开头。",
+        "用老外和说中文的外国人补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "万万没想到",
+        "老外",
+        "说中文的外国人"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-15/7460047952543862026.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "last_error": null
+  },
+  "7018025148221541663": {
+    "video_id": "7018025148221541663",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "瓦清",
+      "video_id": "7018025148221541663",
+      "title": "诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表",
+      "publish_time": "2021-10-12T12:01:56+08:00",
+      "video_url": "https://www.douyin.com/video/7018025148221541663",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f75525f2e1bfd01680ecc47b6f67b132~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107400400&x-signature=ln1Ar5%2FJx7RdUKqfX5XF0q%2FzdnA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261015134501FB42471018A7783E1EE4",
+      "like_count": 34372,
+      "comment_count": 1623,
+      "share_count": 1033,
+      "collect_count": 845,
+      "description": "诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表",
+      "text_hint": "诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表",
+      "topic_tags": [
+        "诺贝尔化学奖",
+        "知识先锋计划",
+        "元素周期表",
+        "诺贝尔奖"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/06311bcaf4f6d18902e67765fe18057f/6ad0936b/video/tos/cn/tos-cn-ve-15/bccc1561203e45c88a6c4408ab8c73ff/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1023&bt=1023&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wQglyHhd.G5UZf03-ApQX&mime_type=video_mp4&qs=0&rc=Omg6OTZlPDZnOTM4PGg6NkBpM2VsbzY6ZnNqODMzNGkzM0BjLjIxLTQ2XmAxYy4xYS0zYSNocWtycjRvYWZgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100o_100w_100B_100x_102u&dy_q=1792043101&l=20261015134501FB42471018A7783E1EE4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7018025148221541663.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7018025148221541663.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 222.168,
+      "raw_payload": {
+        "aweme_id": "7018025148221541663",
+        "author_uid": "905594117562104",
+        "sec_uid": "MS4wLjABAAAAHMaL9TJ8MBYv0atQVs48h5YK1L6M4kUAaF-YJxj7JpI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHMaL9TJ8MBYv0atQVs48h5YK1L6M4kUAaF-YJxj7JpI"
+      }
+    },
+    "first_seen_at": "2026-10-15T13:44:47+08:00",
+    "last_seen_at": "2026-10-15T13:44:47+08:00",
+    "fetch_runs": [
+      "2026-10-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7018025148221541663.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7018025148221541663.mp3",
+      "source": "download",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7018025148221541663",
+      "transcript_raw": "诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表补充信息：诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表关键词：诺贝尔化学奖、知识先锋计划、元素周期表、诺贝尔奖",
+      "transcript_clean": "诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表补充信息：诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表关键词：诺贝尔化学奖、知识先锋计划、元素周期表、诺贝尔奖",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-15/7018025148221541663.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7018025148221541663",
+      "summary": "瓦清围绕“诺贝尔化学奖”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表。诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表补充信息：诺 贝 尔 奖（三）诺贝尔化学奖#诺贝尔奖 #诺贝尔化学奖#知识先锋计划#元素周期表关键词：诺贝尔化学奖、知识先锋计划、元素周期表、诺贝尔奖 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "诺贝尔化学奖为什么总是做不出来结果？",
+        "先把知识先锋计划想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕诺贝尔化学奖组织标题与开头。",
+        "用知识先锋计划和元素周期表补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "诺贝尔化学奖",
+        "知识先锋计划",
+        "元素周期表"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-15/7018025148221541663.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "last_error": null
+  },
+  "7075675674362514722": {
+    "video_id": "7075675674362514722",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "满满在东京",
+      "video_id": "7075675674362514722",
+      "title": "新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活",
+      "publish_time": "2022-03-16T20:35:23+08:00",
+      "video_url": "https://www.douyin.com/video/7075675674362514722",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/46d64b049557d6caf6c011d6aa55cda9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107400400&x-signature=VTTHmVXuCPhnxVvUz7C5sSSoPlo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261015134504E3787760E31A32082FCB",
+      "like_count": 1654,
+      "comment_count": 206,
+      "share_count": 227,
+      "collect_count": 81,
+      "description": "新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活",
+      "text_hint": "新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活",
+      "topic_tags": [
+        "爱马仕",
+        "ootd穿搭",
+        "克罗心",
+        "日本眼镜",
+        "海外生活"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b7aa9eb8aad8ef9a6ec1ec71161a4e41/6ad09390/video/tos/cn/tos-cn-ve-0015c800/202ddc39ff3b4033b81f6a8e5b4fe2e4/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2015&bt=2015&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wKglyHhd.G5UZf03-ApQX&mime_type=video_mp4&qs=0&rc=aGY7OTw6ZjhmODRmNjM3O0BpanB4a2Y6ZmV3OzMzNGkzM0AtM2EtNmEzNjUxYDJgMjBgYSNzcnFicjRfZWxgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_102u_100o_100w&dy_q=1792043104&l=20261015134504E3787760E31A32082FCB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7075675674362514722.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7075675674362514722.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 256.858,
+      "raw_payload": {
+        "aweme_id": "7075675674362514722",
+        "author_uid": "6982284184",
+        "sec_uid": "MS4wLjABAAAAXJZPN09eCxjdabVqClKHf1fgYm-EOuHyU47x7SQn82w",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAXJZPN09eCxjdabVqClKHf1fgYm-EOuHyU47x7SQn82w"
+      }
+    },
+    "first_seen_at": "2026-10-15T13:44:47+08:00",
+    "last_seen_at": "2026-10-15T13:44:47+08:00",
+    "fetch_runs": [
+      "2026-10-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7075675674362514722.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7075675674362514722.mp3",
+      "source": "download",
+      "processed_at": "2026-10-15T13:53:12+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7075675674362514722",
+      "transcript_raw": "新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活补充信息：新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活关键词：爱马仕、ootd穿搭、克罗心、日本眼镜、海外生活",
+      "transcript_clean": "新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活补充信息：新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活关键词：爱马仕、ootd穿搭、克罗心、日本眼镜、海外生活",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-15/7075675674362514722.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7075675674362514722",
+      "summary": "满满在东京围绕“爱马仕”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活。新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活补充信息：新鲜的开行视频来了老铁们#爱马仕  #ootd穿搭 #克罗心#日本眼镜#海外生活关键词：爱马仕、ootd穿搭、克罗心、日本眼镜、海外生活 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "爱马仕为什么总是做不出来结果？",
+        "先把ootd穿搭想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕爱马仕组织标题与开头。",
+        "用ootd穿搭和克罗心补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "爱马仕",
+        "ootd穿搭",
+        "克罗心"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-15/7075675674362514722.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "last_error": null
+  },
+  "7113099830779596036": {
+    "video_id": "7113099830779596036",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7113099830779596036",
+      "title": "被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料",
+      "publish_time": "2022-06-25T09:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7113099830779596036",
+      "cover_url": "",
+      "like_count": 90,
+      "comment_count": 6,
+      "share_count": 10,
+      "collect_count": 3,
+      "description": "被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料",
+      "text_hint": "被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料",
+      "topic_tags": [
+        "肉豆蔻",
+        "丁香",
+        "香料"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d8d6a4886b0fb3e705bda4a7b7f10cf7/6ad093cf/video/tos/cn/tos-cn-ve-0015c800/33b32428097a4397abcc020d4fdeb258/?a=6383&br=1466&bt=1466&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100D_102u_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1792043120&ft=CZdgCYlIDyjNxIVQ9wDglyHhd.G5UZf03-ApQX&is_ssr=1&l=20261015134519536E17EF7A7606FC9EA0&lr=all&mime_type=video_mp4&qs=0&rc=aDwzPDY0Zjw2ZWZoaGc4ZUBpajlrOGg6ZmRmZDMzNGkzM0BgNGJjMTIuXmAxYmEvNl8uYSNzZGdvcjRncW9gLS1kLTBzcw%3D%3D&__vid=7113099830779596036",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7113099830779596036.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7113099830779596036.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7113099830779596036",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-15T13:44:47+08:00",
+    "last_seen_at": "2026-10-15T13:44:47+08:00",
+    "fetch_runs": [
+      "2026-10-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7113099830779596036.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7113099830779596036.mp3",
+      "source": "download",
+      "processed_at": "2026-10-15T13:52:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7113099830779596036",
+      "transcript_raw": "被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料补充信息：被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料关键词：肉豆蔻、丁香、香料",
+      "transcript_clean": "被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料补充信息：被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料关键词：肉豆蔻、丁香、香料",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-15/7113099830779596036.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7113099830779596036",
+      "summary": "知雪围绕“肉豆蔻”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料。被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料补充信息：被使用了上千年的肉豆蔻与丁香，原来长这样！ #肉豆蔻 #丁香 #香料关键词：肉豆蔻、丁香、香料 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "肉豆蔻为什么总是做不出来结果？",
+        "先把丁香想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕肉豆蔻组织标题与开头。",
+        "用丁香和香料补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "肉豆蔻",
+        "丁香",
+        "香料"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-15/7113099830779596036.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "last_error": null
+  },
+  "7356361104139832576": {
+    "video_id": "7356361104139832576",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "兰斯解说",
+      "video_id": "7356361104139832576",
+      "title": "从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游",
+      "publish_time": "2024-04-11T08:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7356361104139832576",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2aedf8fedebc04b1a6bc4636dba0dcc5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107400400&x-signature=jVNdr8gv7kyaAO0oi1DGugo8Zo0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610151345269338EF3E5303E5A16F67",
+      "like_count": 12996,
+      "comment_count": 900,
+      "share_count": 2720,
+      "collect_count": 1780,
+      "description": "从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游",
+      "text_hint": "从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游",
+      "topic_tags": [
+        "热点",
+        "兰斯",
+        "兰斯解说",
+        "滑板鞋",
+        "英雄联盟手游"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c5aaa1ae4b286ad63214e5b419a7e432/6ad09471/video/tos/cn/tos-cn-ve-15c001-alinc2/oEmcibdMnBAMeYZBZuDXgDQeLCGInOQALb70eA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1482&bt=1482&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9wqglyHhd.G5UZf03-ApQX&mime_type=video_mp4&qs=0&rc=NjRnOmRoaDo8Zjw1Z2U8NEBpamhsczg6ZjlqcjMzNGkzM0AyMi80LWM2Xi4xNDYzMy82YSNnZGVtcjRfY19gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100K_100o_100w_100B_100H&dy_q=1792043126&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202610151345269338EF3E5303E5A16F67",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7356361104139832576.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7356361104139832576.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 459.803,
+      "raw_payload": {
+        "aweme_id": "7356361104139832576",
+        "author_uid": "3430922881870483",
+        "sec_uid": "MS4wLjABAAAAw9-wPP2jvlnMwlQ2p5DEUNNQJB24ADzTxYEG3wUUMASDzAu119NUVHhN6xDwmN69",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAw9-wPP2jvlnMwlQ2p5DEUNNQJB24ADzTxYEG3wUUMASDzAu119NUVHhN6xDwmN69"
+      }
+    },
+    "first_seen_at": "2026-10-15T13:44:47+08:00",
+    "last_seen_at": "2026-10-15T13:44:47+08:00",
+    "fetch_runs": [
+      "2026-10-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7356361104139832576.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7356361104139832576.mp3",
+      "source": "download",
+      "processed_at": "2026-10-15T13:52:02+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7356361104139832576",
+      "transcript_raw": "从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游补充信息：从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游关键词：热点、兰斯、兰斯解说、滑板鞋、英雄联盟手游",
+      "transcript_clean": "从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游补充信息：从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游关键词：热点、兰斯、兰斯解说、滑板鞋、英雄联盟手游",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-15/7356361104139832576.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7356361104139832576",
+      "summary": "兰斯解说围绕“热点”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游。从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游补充信息：从上手到精通 卡莉丝塔精髓教学 #热点 #兰斯 #兰斯解说 #滑板鞋 #英雄联盟手游关键词：热点、兰斯、兰斯解说、滑板鞋、英雄联盟手游 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "热点为什么总是做不出来结果？",
+        "先把兰斯想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕热点组织标题与开头。",
+        "用兰斯和兰斯解说补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "热点",
+        "兰斯",
+        "兰斯解说"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-15/7356361104139832576.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "last_error": null
+  },
+  "7541291003245284665": {
+    "video_id": "7541291003245284665",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "磕巴东",
+      "video_id": "7541291003245284665",
+      "title": "卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南",
+      "publish_time": "2025-08-26T11:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7541291003245284665",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2eab36a8c7a0e99fcd251119e20780d5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107400400&x-signature=xm5n6w1zEHdjdz2HW3BJFeLM5h8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261015134530991BB5A808EB350B4042",
+      "like_count": 9196,
+      "comment_count": 235,
+      "share_count": 2543,
+      "collect_count": 6267,
+      "description": "卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南",
+      "text_hint": "卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南",
+      "topic_tags": [
+        "卫生间",
+        "卫生间装修",
+        "网红卫生间",
+        "装修避坑指南"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4361e6eda51193fc0a02052760b928d8/6ad09376/video/tos/cn/tos-cn-ve-15/oUYte0WMVa7iANRzAAEho2MPe45gFiIBQRDB4A/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=904&bt=904&cs=0&ds=4&ft=CZdgCYlIDyjNxIVQ9w-glyHhd.G5UZf03-ApQX&mime_type=video_mp4&qs=0&rc=OWRpZTVmOmc2Zjg3PDM3NEBpMzs0aHA5cngzNTMzNGkzM0AzLWItYS1jNi4xL2EuNGJfYSNwMHMzMmQ0YGhhLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1792043130&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20261015134530991BB5A808EB350B4042",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7541291003245284665.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7541291003245284665.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 204.079,
+      "raw_payload": {
+        "aweme_id": "7541291003245284665",
+        "author_uid": "56897782488",
+        "sec_uid": "MS4wLjABAAAArlnxpsxwvsIFkIY2L0UqWPMCGmz6rWv0jURSFLDSreA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAArlnxpsxwvsIFkIY2L0UqWPMCGmz6rWv0jURSFLDSreA"
+      }
+    },
+    "first_seen_at": "2026-10-15T13:44:47+08:00",
+    "last_seen_at": "2026-10-15T13:44:47+08:00",
+    "fetch_runs": [
+      "2026-10-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7541291003245284665.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7541291003245284665.mp3",
+      "source": "download",
+      "processed_at": "2026-10-15T13:46:06+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7541291003245284665",
+      "transcript_raw": "卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南补充信息：卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南关键词：卫生间、卫生间装修、网红卫生间、装修避坑指南",
+      "transcript_clean": "卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南补充信息：卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南关键词：卫生间、卫生间装修、网红卫生间、装修避坑指南",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-15/7541291003245284665.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7541291003245284665",
+      "summary": "磕巴东围绕“卫生间”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南。卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南补充信息：卫生间这8个坑人的玩应希望你家一个没有#卫生间 #卫生间装修 #网红卫生间 #装修避坑指南关键词：卫生间、卫生间装修、网红卫生间、装修避坑指南 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "卫生间为什么总是做不出来结果？",
+        "先把卫生间装修想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕卫生间组织标题与开头。",
+        "用卫生间装修和网红卫生间补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "卫生间",
+        "卫生间装修",
+        "网红卫生间"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-15/7541291003245284665.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "last_error": null
+  },
+  "7441861598852943156": {
+    "video_id": "7441861598852943156",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7441861598852943156",
+      "title": "带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道",
+      "publish_time": "2024-11-27T07:44:00+08:00",
+      "video_url": "https://www.douyin.com/video/7441861598852943156",
+      "cover_url": "",
+      "like_count": 4665,
+      "comment_count": 309,
+      "share_count": 1788,
+      "collect_count": 1953,
+      "description": "带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道",
+      "text_hint": "带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道",
+      "topic_tags": [
+        "家常菜",
+        "好好吃饭",
+        "江西家常菜",
+        "江西菜",
+        "家的味道"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/d3b1c444d6b97937f434aac397bcd4f6/6ad093f1/video/tos/cn/tos-cn-ve-0015c800/o0fvVsmNRBAFgbrIQEfKk4AROb1gynS6DA9HEh/?a=6383&br=1475&bt=1475&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1792043146&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNxIVQ9wAOlyHhd.G5UZf03-ApQX&is_ssr=1&l=2026101513454562560D110AB49DB181D9&lr=all&mime_type=video_mp4&qs=12&rc=Z2Y0OWlkNTRkOjQ3NTY7aEBpamg0eWw5cnNmdzMzNGkzM0BfLy5hLy4vNWAxL2ExMTBeYSNpcl4zMmRrbjBgLS1kLWFzcw%3D%3D&__vid=7441861598852943156",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7441861598852943156.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7441861598852943156.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7441861598852943156",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-15T13:44:47+08:00",
+    "last_seen_at": "2026-10-15T13:44:47+08:00",
+    "fetch_runs": [
+      "2026-10-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7441861598852943156.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-15/7441861598852943156.mp3",
+      "source": "download",
+      "processed_at": "2026-10-15T13:51:12+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7441861598852943156",
+      "transcript_raw": "带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道补充信息：带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道关键词：家常菜、好好吃饭、江西家常菜、江西菜、家的味道",
+      "transcript_clean": "带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道补充信息：带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道关键词：家常菜、好好吃饭、江西家常菜、江西菜、家的味道",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-15/7441861598852943156.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7441861598852943156",
+      "summary": "知雪围绕“家常菜”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道。带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道补充信息：带你们看看江西普通家庭午餐都做了哪些好吃的家常菜，荤素搭配，色香味俱全，隔着屏幕都能下三碗#家常菜 #好好吃饭 #江西家常菜 #江西菜 #家的味道关键词：家常菜、好好吃饭、江西家常菜、江西菜、家的味道 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "家常菜为什么总是做不出来结果？",
+        "先把好好吃饭想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕家常菜组织标题与开头。",
+        "用好好吃饭和江西家常菜补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "家常菜",
+        "好好吃饭",
+        "江西家常菜"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-15/7441861598852943156.json",
+      "processed_at": "2026-10-15T13:53:30+08:00"
+    },
+    "last_error": null
   }
 }
