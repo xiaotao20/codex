@@ -59690,5 +59690,384 @@
       "processed_at": "2026-10-15T13:53:30+08:00"
     },
     "last_error": null
+  },
+  "7696708373332430131": {
+    "video_id": "7696708373332430131",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "善任教育外教英语培训",
+      "video_id": "7696708373332430131",
+      "title": "外贸：如何向外贸客户汇报项目进度？ #职场英语  #商务沟通  #项目管理  #外贸英语  #英语口语",
+      "publish_time": "2026-10-15T18:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7696708373332430131",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/8e0ee11505c24438bf1230083bb18c00~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107486800&x-signature=Ppb6L9ntzY7CrsVZmxjQVwXuI6k%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026101613413036B1C28CD70646BC62FC",
+      "like_count": 39,
+      "comment_count": 0,
+      "share_count": 1,
+      "collect_count": 29,
+      "description": "外贸：如何向外贸客户汇报项目进度？ #职场英语  #商务沟通  #项目管理  #外贸英语  #英语口语",
+      "text_hint": "外贸：如何向外贸客户汇报项目进度？ #职场英语  #商务沟通  #项目管理  #外贸英语  #英语口语",
+      "topic_tags": [
+        "职场英语",
+        "商务沟通",
+        "项目管理",
+        "外贸英语",
+        "英语口语"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/960716b7a1e038e120b8059330ab1e63/6ad1e35d/video/tos/cn/tos-cn-ve-15/o0GtAh2Ic5QEAivyDt5oPQPiTM67BnaQBQ8IA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=451&bt=451&cs=0&ds=3&ft=_nmGT-WHDyjNbRVQ9wArcyHhd.a8PCM73-ApQX&mime_type=video_mp4&qs=0&rc=OzQzZTs3NGRmOTk6NzRpZEBpMzk1cXA5cnM2ZTMzNGkzM0BjXmBhYzNjNmExM2IwLjUuYSNxYjJrMmQ0MjVhLS1kLWFzcw%3D%3D&btag=c0000e00018000&cquery=100H_100K_100o_100w_100B&dy_q=1792129290&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=2026101613413036B1C28CD70646BC62FC",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 35.434,
+      "raw_payload": {
+        "aweme_id": "7696708373332430131",
+        "author_uid": "3062554489785692",
+        "sec_uid": "MS4wLjABAAAAxtx8UiPQ8m3c3Y5OJag8Ewtps4gsR-wB3mjBgoRSmxO20hbYXJKyBtQa5Cm84Fxj",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAxtx8UiPQ8m3c3Y5OJag8Ewtps4gsR-wB3mjBgoRSmxO20hbYXJKyBtQa5Cm84Fxj"
+      }
+    },
+    "first_seen_at": "2026-10-16T13:41:09+08:00",
+    "last_seen_at": "2026-10-16T13:41:09+08:00",
+    "fetch_runs": [
+      "2026-10-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7603267047115762289": {
+    "video_id": "7603267047115762289",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "内蒙古日报蒙文报",
+      "video_id": "7603267047115762289",
+      "title": "阿如那在新电影中饰演好人，但依旧是个狠人。#阿如那 #演员 #电影 \n呈现：乌日柴呼",
+      "publish_time": "2026-02-05T14:39:26+08:00",
+      "video_url": "https://www.douyin.com/video/7603267047115762289",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/87972c12564fe1de8ebc70c013fd2e24~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107486800&x-signature=RD2eAoEhnvkIHn7eWHD3a1NkTSI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026101613413224E07041F2E2A831EC5C",
+      "like_count": 421,
+      "comment_count": 10,
+      "share_count": 29,
+      "collect_count": 16,
+      "description": "阿如那在新电影中饰演好人，但依旧是个狠人。#阿如那 #演员 #电影 \n呈现：乌日柴呼",
+      "text_hint": "阿如那在新电影中饰演好人，但依旧是个狠人。#阿如那 #演员 #电影 \n呈现：乌日柴呼",
+      "topic_tags": [
+        "阿如那",
+        "演员",
+        "电影"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/4c1cdf7ce7ef7eeb13b8c40b8e14e4b5/6ad1e350/video/tos/cn/tos-cn-ve-15c000-ce/oQITE0wAvBhEvwe80KEAmiiE1cBdxwQSEfkzUo/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1710&bt=1710&cs=0&ds=4&ft=_nmGT-WHDyjNbRVQ9wnrcyHhd.a8PCM73-ApQX&mime_type=video_mp4&qs=0&rc=NDtnPGU1PGU0PDVoZzs6aEBpM2tlaW45cnM2OTMzbGkzNUAtLV9iYjI2XmExYjMzLTQ0YSNmLi4vMmRzaS9hLS1kLTVzcw%3D%3D&btag=c0000e00010000&cquery=100B_100x_100z_100o_100w&dy_q=1792129292&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026101613413224E07041F2E2A831EC5C",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 20.62,
+      "raw_payload": {
+        "aweme_id": "7603267047115762289",
+        "author_uid": "101245735088",
+        "sec_uid": "MS4wLjABAAAAh5pReub2Ktl_xgvEsVvmhp3uDddm0ryZ7l4OI4OZxGQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAh5pReub2Ktl_xgvEsVvmhp3uDddm0ryZ7l4OI4OZxGQ"
+      }
+    },
+    "first_seen_at": "2026-10-16T13:41:09+08:00",
+    "last_seen_at": "2026-10-16T13:41:09+08:00",
+    "fetch_runs": [
+      "2026-10-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7255634270297902375": {
+    "video_id": "7255634270297902375",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "黑土日记",
+      "video_id": "7255634270297902375",
+      "title": "世界上最致命的8种剧毒水母（3）#剧毒水母",
+      "publish_time": "2023-07-14T19:27:17+08:00",
+      "video_url": "https://www.douyin.com/video/7255634270297902375",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a22b31a1b837ac212f242af4a13db7de~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107486800&x-signature=OtSJPLFE9nnHyPfYLtrePZPFXrA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261016134134DC7757203A973C8E4194",
+      "like_count": 1822,
+      "comment_count": 63,
+      "share_count": 163,
+      "collect_count": 325,
+      "description": "世界上最致命的8种剧毒水母（3）#剧毒水母",
+      "text_hint": "世界上最致命的8种剧毒水母（3）#剧毒水母",
+      "topic_tags": [
+        "剧毒水母"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/a28cf176b801fc72042dad50903a0da4/6ad1e3fc/video/tos/cn/tos-cn-ve-15c001-alinc2/oUf9IAEXVfWwaUr1R2B2EsFsgQFqAkATscDD9E/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=899&bt=899&cs=0&ds=4&ft=_nmGT-WHDyjNbRVQ9wxrcyHhd.a8PCM73-ApQX&mime_type=video_mp4&qs=0&rc=ZjozaTU7NmU0ZzM1PDs8ZkBpamtvdHk5cjhtbDMzNGkzM0AvMjFgMGEtXmMxNWMuYDReYSNebGxfMmRrL2xgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100D_100J_100o&dy_q=1792129294&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261016134134DC7757203A973C8E4194",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 190.915,
+      "raw_payload": {
+        "aweme_id": "7255634270297902375",
+        "author_uid": "343464913149455",
+        "sec_uid": "MS4wLjABAAAA6FfRr934zc8W5cAMvYxiNyRxfmMl3Dk99nixqv19NaI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA6FfRr934zc8W5cAMvYxiNyRxfmMl3Dk99nixqv19NaI"
+      }
+    },
+    "first_seen_at": "2026-10-16T13:41:09+08:00",
+    "last_seen_at": "2026-10-16T13:41:09+08:00",
+    "fetch_runs": [
+      "2026-10-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7044380542820764960": {
+    "video_id": "7044380542820764960",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "花花的123",
+      "video_id": "7044380542820764960",
+      "title": "今天这个馅儿的饺子，绝对是我包过最好吃的饺子了，口感和味道都很好#全职妈妈日常 #饺子🥟",
+      "publish_time": "2021-12-22T12:34:18+08:00",
+      "video_url": "https://www.douyin.com/video/7044380542820764960",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e605454ccc90ed95d2809a9f8f97d047~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107486800&x-signature=e%2FcXQiTHId4%2FRJJVdcdva6hiEOE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261016134137BF77B80A862427900B56",
+      "like_count": 2142,
+      "comment_count": 369,
+      "share_count": 121,
+      "collect_count": 294,
+      "description": "今天这个馅儿的饺子，绝对是我包过最好吃的饺子了，口感和味道都很好#全职妈妈日常 #饺子🥟",
+      "text_hint": "今天这个馅儿的饺子，绝对是我包过最好吃的饺子了，口感和味道都很好#全职妈妈日常 #饺子🥟",
+      "topic_tags": [
+        "全职妈妈日常",
+        "饺子🥟"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/6567c29f8423284ba4810d59f9f0775e/6ad1e4aa/video/tos/cn/tos-cn-ve-0015c800/03f748eccb6a4dc3bb1b5b6d06d9f8ad/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2018&bt=2018&cs=0&ds=4&ft=_nmGT-WHDyjNbRVQ9wNrcyHhd.a8PCM73-ApQX&mime_type=video_mp4&qs=0&rc=NjpkNWk7N2k8Ojs4NmU8NkBpMzh5dGU6ZjdkOjMzNGkzM0A0YjZhXjMyNi0xMWAxYS8tYSNkMF5qcjRvZy5gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_102u_100o_100w&dy_q=1792129297&l=20261016134137BF77B80A862427900B56",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 361.627,
+      "raw_payload": {
+        "aweme_id": "7044380542820764960",
+        "author_uid": "4468842162816807",
+        "sec_uid": "MS4wLjABAAAAc38K2zoCmB6OXjeTEx9GwcP89evyhvfZ7rvNu06mkF0sCl5byCFwUkpagYk64KnW",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAc38K2zoCmB6OXjeTEx9GwcP89evyhvfZ7rvNu06mkF0sCl5byCFwUkpagYk64KnW"
+      }
+    },
+    "first_seen_at": "2026-10-16T13:41:09+08:00",
+    "last_seen_at": "2026-10-16T13:41:09+08:00",
+    "fetch_runs": [
+      "2026-10-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7444097098452159782": {
+    "video_id": "7444097098452159782",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7444097098452159782",
+      "title": "#上热门话题 #解方程 #五年级解方程 #解方程教学 #五年级方程练习题 @DOU+小助手 @DOU+上热门",
+      "publish_time": "2024-12-03T08:19:00+08:00",
+      "video_url": "https://www.douyin.com/video/7444097098452159782",
+      "cover_url": "",
+      "like_count": 44,
+      "comment_count": 14,
+      "share_count": 31,
+      "collect_count": 12,
+      "description": "#上热门话题 #解方程 #五年级解方程 #解方程教学 #五年级方程练习题 @DOU+小助手 @DOU+上热门",
+      "text_hint": "#上热门话题 #解方程 #五年级解方程 #解方程教学 #五年级方程练习题 @DOU+小助手 @DOU+上热门",
+      "topic_tags": [
+        "上热门话题",
+        "解方程",
+        "五年级解方程",
+        "解方程教学",
+        "五年级方程练习题"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/cbce78cb1f2d7b8a5b433016c7ff6180/6ad1e427/video/tos/cn/tos-cn-ve-0015c800/ogABAnPg9zOReCtcB6GXOgdeEn07I1LAfTZBor/?a=6383&br=277&bt=277&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1792129313&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=_nmGT-WHDyjNbRVQ9warcyHhd.a8PCM73-ApQX&is_ssr=1&l=202610161341523A16130176649175F46F&lr=all&mime_type=video_mp4&qs=12&rc=ZDQzZThnOzZpOzc0MzNpZkBpMzZzaGo5cmVldzMzNGkzM0BhY2JgNGBjX18xXl4wL2AuYSNxNGpiMmRrcTRgLS1kLS9zcw%3D%3D&__vid=7444097098452159782",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7444097098452159782",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-16T13:41:09+08:00",
+    "last_seen_at": "2026-10-16T13:41:09+08:00",
+    "fetch_runs": [
+      "2026-10-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "6901229148031683847": {
+    "video_id": "6901229148031683847",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "政雨R!ch",
+      "video_id": "6901229148031683847",
+      "title": "如何分辨显卡是不是矿卡，来了",
+      "publish_time": "2020-12-01T18:14:10+08:00",
+      "video_url": "https://www.douyin.com/video/6901229148031683847",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/12ef3cebe9ea3e267253f01c3119b36a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107486800&x-signature=TDp3fkp8dHEroQr2cIdioijlNC0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610161342009B11B48DF2F87534926C",
+      "like_count": 16454,
+      "comment_count": 958,
+      "share_count": 500,
+      "collect_count": 779,
+      "description": "如何分辨显卡是不是矿卡，来了",
+      "text_hint": "如何分辨显卡是不是矿卡，来了",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/0024d2f55102c68ce287722eb4d1418b/6ad1e44c/video/tos/cn/tos-cn-ve-15/775a5bd95258454c86086f454c0931ac/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3168&bt=3168&cs=0&ds=4&ft=_nmGT-WHDyjNbRVQ9wHrcyHhd.a8PCM73-ApQX&mime_type=video_mp4&qs=0&rc=NTc2Z2RkOmU5M2gzZWRpM0BpamwzaWo3eWQ0eTMzO2kzM0AxLV40XzUyXzAxNjZiYzQzYSNwYWxnNC5rYDBfLS1fLTBzcw%3D%3D&btag=c0000e00030000&cquery=100-_102u_100o_100w_100B&dy_q=1792129320&l=202610161342009B11B48DF2F87534926C",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 244.46,
+      "raw_payload": {
+        "aweme_id": "6901229148031683847",
+        "author_uid": "962761962826171",
+        "sec_uid": "MS4wLjABAAAABwA8Zen7h5QcfX8g1jwrks8CATnY8gY3nVrUZvQaRuY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABwA8Zen7h5QcfX8g1jwrks8CATnY8gY3nVrUZvQaRuY"
+      }
+    },
+    "first_seen_at": "2026-10-16T13:41:09+08:00",
+    "last_seen_at": "2026-10-16T13:41:09+08:00",
+    "fetch_runs": [
+      "2026-10-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7505377169402891535": {
+    "video_id": "7505377169402891535",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "怪可爱手作",
+      "video_id": "7505377169402891535",
+      "title": "哈哈发夹胸针教程 上 这次的教程做的更详细了，希望宝宝们能看懂☺️\n线材：@苏苏姐家官方旗舰店 4股唯棉\n色号：10.16.54\n钩针：2.0\n#创作灵感 #HUG #王源 #王源音乐IP形象HUG #发夹",
+      "publish_time": "2025-05-17T19:36:54+08:00",
+      "video_url": "https://www.douyin.com/video/7505377169402891535",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/65607c930a1f047c50f55310b59856e9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107486800&x-signature=JgRSacCBOUD2bEp4PeiPChp6mSM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610161342020478089D794667542FED",
+      "like_count": 347,
+      "comment_count": 21,
+      "share_count": 133,
+      "collect_count": 299,
+      "description": "哈哈发夹胸针教程 上 这次的教程做的更详细了，希望宝宝们能看懂☺️\n线材：@苏苏姐家官方旗舰店 4股唯棉\n色号：10.16.54\n钩针：2.0\n#创作灵感 #HUG #王源 #王源音乐IP形象HUG #发夹",
+      "text_hint": "哈哈发夹胸针教程 上 这次的教程做的更详细了，希望宝宝们能看懂☺️\n线材：@苏苏姐家官方旗舰店 4股唯棉\n色号：10.16.54\n钩针：2.0\n#创作灵感 #HUG #王源 #王源音乐IP形象HUG #发夹",
+      "topic_tags": [
+        "创作灵感",
+        "hug",
+        "王源",
+        "王源音乐ip形象hug",
+        "发夹",
+        "HUG",
+        "王源音乐IP形象HUG"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/fd8663e50af3fe3328c3e0ebe8f05658/6ad1e545/video/tos/cn/tos-cn-ve-15/osEsjoZCEpdGAFSw4jDQegAuqLSKBCDuAIrf9z/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1759&bt=1759&cs=0&ds=4&ft=_nmGT-WHDyjNbRVQ9w7rcyHhd.a8PCM73-ApQX&mime_type=video_mp4&qs=0&rc=ZmRkNDU7NmlmZTc3ODppZkBpanM8bXE5cmw5MzMzNGkzM0AzMDEuNDYvXzAxXmAxMV8wYSNkbDEtMmRzZWhhLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1792129322&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202610161342020478089D794667542FED",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 491.171,
+      "raw_payload": {
+        "aweme_id": "7505377169402891535",
+        "author_uid": "2768990660203120",
+        "sec_uid": "MS4wLjABAAAAhvrSIdqcF2_wJxZwT04VVdwkKWyRC615dXrYFI8yWmn0veoP9PYQjWlNu07pvQ_-",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAhvrSIdqcF2_wJxZwT04VVdwkKWyRC615dXrYFI8yWmn0veoP9PYQjWlNu07pvQ_-"
+      }
+    },
+    "first_seen_at": "2026-10-16T13:41:09+08:00",
+    "last_seen_at": "2026-10-16T13:41:09+08:00",
+    "fetch_runs": [
+      "2026-10-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7377446321000697099": {
+    "video_id": "7377446321000697099",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7377446321000697099",
+      "title": "比赛记录📝又是一次Caro nome，不过登上了几年前就向往的sala verdi厅的舞台#美声 #女高音 #歌剧 #弄臣 #意大利",
+      "publish_time": "2024-06-06T17:39:00+08:00",
+      "video_url": "https://www.douyin.com/video/7377446321000697099",
+      "cover_url": "",
+      "like_count": 618,
+      "comment_count": 30,
+      "share_count": 95,
+      "collect_count": 158,
+      "description": "比赛记录📝又是一次Caro nome，不过登上了几年前就向往的sala verdi厅的舞台#美声 #女高音 #歌剧 #弄臣 #意大利",
+      "text_hint": "比赛记录📝又是一次Caro nome，不过登上了几年前就向往的sala verdi厅的舞台#美声 #女高音 #歌剧 #弄臣 #意大利",
+      "topic_tags": [
+        "美声",
+        "女高音",
+        "歌剧",
+        "弄臣",
+        "意大利"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/925ce514-2ae9-49fe-98d5-7d335133cc10",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7377446321000697099",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-16T13:41:09+08:00",
+    "last_seen_at": "2026-10-16T13:41:09+08:00",
+    "fetch_runs": [
+      "2026-10-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
