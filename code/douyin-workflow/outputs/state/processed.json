@@ -60069,5 +60069,677 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7697168869173100966": {
+    "video_id": "7697168869173100966",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "芝士爆爆🧀",
+      "video_id": "7697168869173100966",
+      "title": "谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备",
+      "publish_time": "2026-10-16T15:46:23+08:00",
+      "video_url": "https://www.douyin.com/video/7697168869173100966",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oUPCOINiRw1Aqv517jiNBiaAeAkB2gqCLEfHXi~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107573200&x-signature=sWk%2FqLNkEsPujcnukxeK%2F1W1ehI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026101713270303276DFB144FF0CAC8DF",
+      "like_count": 1,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备",
+      "text_hint": "谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备",
+      "topic_tags": [
+        "四六级考试",
+        "四六级备考",
+        "双十一必买",
+        "英语四六级",
+        "大学生必备"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b5120b5cef0f681d193f418439bcd031/6ad33170/video/tos/cn/tos-cn-ve-15/o4f3rdFC0BAFWfUQgIvDhEAIFtVgLqy2DA9jEG/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=644&bt=644&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wF.2yHhd.gaz8C73-ApQX&mime_type=video_mp4&qs=0&rc=NTZpOjZlM2g1Zzk8Ojw1OUBpMzVnaGo5cmt3ZTMzNGkzM0A2YjRjYC9eXy4xXjQwMGBjYSNpY21vMmRjXjVhLS1kLS9zcw%3D%3D&btag=c0000e00010000&cquery=100w_100B_100x_100z_100o&dy_q=1792214823&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=2026101713270303276DFB144FF0CAC8DF",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7697168869173100966.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7697168869173100966.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 25.704,
+      "raw_payload": {
+        "aweme_id": "7697168869173100966",
+        "author_uid": "1357232268389325",
+        "sec_uid": "MS4wLjABAAAAOrnkV6uVdl0fgpigGSsqk408HTKIhoSYC-18EQCYdG3e8siJ6s0A4fPLAtyLKYwh",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAOrnkV6uVdl0fgpigGSsqk408HTKIhoSYC-18EQCYdG3e8siJ6s0A4fPLAtyLKYwh"
+      }
+    },
+    "first_seen_at": "2026-10-17T13:26:43+08:00",
+    "last_seen_at": "2026-10-17T13:26:43+08:00",
+    "fetch_runs": [
+      "2026-10-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7697168869173100966.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7697168869173100966.mp3",
+      "source": "download",
+      "processed_at": "2026-10-17T13:28:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7697168869173100966",
+      "transcript_raw": "谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备补充信息：谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备关键词：四六级考试、四六级备考、双十一必买、英语四六级、大学生必备",
+      "transcript_clean": "谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备补充信息：谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备关键词：四六级考试、四六级备考、双十一必买、英语四六级、大学生必备",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-17/7697168869173100966.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "analysis": {
+      "video_id": "7697168869173100966",
+      "summary": "芝士爆爆🧀围绕“四六级考试”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备。谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备补充信息：谁懂，刘晓艳四六级真题卷的含金量啊？到手才个位数啊！#四六级考试 #四六级备考 #双十一必买 #英语四六级 #大学生必备关键词：四六级考试、四六级备考、双十一必买、英语四六级、大学生必备 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "四六级考试为什么总是做不出来结果？",
+        "先把四六级备考想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕四六级考试组织标题与开头。",
+        "用四六级备考和双十一必买补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "四六级考试",
+        "四六级备考",
+        "双十一必买"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-17/7697168869173100966.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "last_error": null
+  },
+  "7607682068587334948": {
+    "video_id": "7607682068587334948",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "乐享平湖",
+      "video_id": "7607682068587334948",
+      "title": "广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包",
+      "publish_time": "2026-02-17T12:13:36+08:00",
+      "video_url": "https://www.douyin.com/video/7607682068587334948",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a635e8a07b2e1280528bd7123d712ec6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107573200&x-signature=f1jD0vi4msHTPkcF%2BFNZIO87iHw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026101713270687F6CD6DC86BE61B7075",
+      "like_count": 153,
+      "comment_count": 7,
+      "share_count": 35,
+      "collect_count": 8,
+      "description": "广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包",
+      "text_hint": "广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包",
+      "topic_tags": [
+        "红包"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c1cd1ac568ae37ffeb0a39aa2684aa9b/6ad3316b/video/tos/cn/tos-cn-ve-15/oMGpggaDTCNoqlSFEIMeZAQQBB5ofJeAi7I1k3/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1867&bt=1867&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9w7.2yHhd.gaz8C73-ApQX&mime_type=video_mp4&qs=0&rc=NzszZDc6Zjw8Njw1NWdkZkBpam9sN245cnd4OTMzNGkzM0A0MTAuMWIxX2AxNV4yMDItYSMuZl8xMmRzaDZhLS1kLWFzcw%3D%3D&btag=c0000e00010000&cquery=100o_100w_100B_100H_100K&dy_q=1792214826&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026101713270687F6CD6DC86BE61B7075",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7607682068587334948.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7607682068587334948.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 17.973,
+      "raw_payload": {
+        "aweme_id": "7607682068587334948",
+        "author_uid": "100178587375",
+        "sec_uid": "MS4wLjABAAAAa2vR0kCX0pHePVhswEYOKOjpDegny39T-9OdlrZGsU4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAa2vR0kCX0pHePVhswEYOKOjpDegny39T-9OdlrZGsU4"
+      }
+    },
+    "first_seen_at": "2026-10-17T13:26:43+08:00",
+    "last_seen_at": "2026-10-17T13:26:43+08:00",
+    "fetch_runs": [
+      "2026-10-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7607682068587334948.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7607682068587334948.mp3",
+      "source": "download",
+      "processed_at": "2026-10-17T13:28:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7607682068587334948",
+      "transcript_raw": "广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包补充信息：广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包关键词：红包",
+      "transcript_clean": "广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包补充信息：广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包关键词：红包",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-17/7607682068587334948.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "analysis": {
+      "video_id": "7607682068587334948",
+      "summary": "乐享平湖围绕“红包”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包。广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包补充信息：广东人封红包绝不内卷 血亲100元 旁亲50元 老表20元 邻居5元。网友：建议全国推广#红包关键词：红包 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "红包为什么总是做不出来结果？",
+        "先把血亲100元想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕红包组织标题与开头。",
+        "用血亲100元和旁亲50元补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "红包",
+        "血亲100元",
+        "旁亲50元"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-17/7607682068587334948.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "last_error": null
+  },
+  "7339081522768579850": {
+    "video_id": "7339081522768579850",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小悦美食家",
+      "video_id": "7339081522768579850",
+      "title": "我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划",
+      "publish_time": "2024-02-24T16:24:44+08:00",
+      "video_url": "https://www.douyin.com/video/7339081522768579850",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b94db83376980e7085392d7cb1ce77be~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107573200&x-signature=jppemay%2FIYbwc2L8W4J9nfHhdcs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026101713270930179A46EC4F51F98E53",
+      "like_count": 243,
+      "comment_count": 39,
+      "share_count": 50,
+      "collect_count": 73,
+      "description": "我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划",
+      "text_hint": "我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划",
+      "topic_tags": [
+        "家常菜",
+        "美食",
+        "下饭菜",
+        "美食趣胃计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/27c6d8055edf3f07ae22c8a8a85ae118/6ad33279/video/cn/mps/realtime/v1/r/p/v0d00fg10000cncqen3c77ud35rekmv0/dc6bd98a3a514f2490aa1a600617872a/1b3b8928ae02647a13052e1347099c8d/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1437&bt=1437&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNbRVQ9w5.2yHhd.gaz8C73-ApQX&mime_type=video_mp4&qs=0&rc=ZDo6OTNkZDM3aTRkZDxlZkBpM3BoOGc6ZnF0cTMzNGkzM0AvNS4tMy5eNi8xMjA1YTNhYSNzaG8wcjQwYmBgLS1kLWFzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1792214829&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7339081522768579850&l=2026101713270930179A46EC4F51F98E53&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7339081522768579850.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7339081522768579850.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 284.614,
+      "raw_payload": {
+        "aweme_id": "7339081522768579850",
+        "author_uid": "2447982709470668",
+        "sec_uid": "MS4wLjABAAAAlLwSEJTqZiZmnsxtEwgJhnmH4lfieVrLGNa7rC5NzKNZ_A3Dfpsh-xBDkt6R5YbG",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAlLwSEJTqZiZmnsxtEwgJhnmH4lfieVrLGNa7rC5NzKNZ_A3Dfpsh-xBDkt6R5YbG"
+      }
+    },
+    "first_seen_at": "2026-10-17T13:26:43+08:00",
+    "last_seen_at": "2026-10-17T13:26:43+08:00",
+    "fetch_runs": [
+      "2026-10-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7339081522768579850.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7339081522768579850.mp3",
+      "source": "download",
+      "processed_at": "2026-10-17T13:31:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7339081522768579850",
+      "transcript_raw": "我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划补充信息：我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划关键词：家常菜、美食、下饭菜、美食趣胃计划",
+      "transcript_clean": "我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划补充信息：我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划关键词：家常菜、美食、下饭菜、美食趣胃计划",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-17/7339081522768579850.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "analysis": {
+      "video_id": "7339081522768579850",
+      "summary": "小悦美食家围绕“家常菜”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划。我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划补充信息：我妈做了十几年的配方，巨巨巨好吃！！！#家常菜 #美食 #下饭菜 #下饭菜 #美食趣胃计划关键词：家常菜、美食、下饭菜、美食趣胃计划 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "家常菜为什么总是做不出来结果？",
+        "先把美食想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕家常菜组织标题与开头。",
+        "用美食和下饭菜补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "家常菜",
+        "美食",
+        "下饭菜"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-17/7339081522768579850.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "last_error": null
+  },
+  "7360952439605824809": {
+    "video_id": "7360952439605824809",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "诺声影音专营店",
+      "video_id": "7360952439605824809",
+      "title": "蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响",
+      "publish_time": "2024-04-23T14:55:07+08:00",
+      "video_url": "https://www.douyin.com/video/7360952439605824809",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a25043d5840680de8ef760201c046992~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107573200&x-signature=HjXgCStngzkA3sNWjG1ibVYNT98%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610171327115E5B596184B7B2CCBA06",
+      "like_count": 297,
+      "comment_count": 123,
+      "share_count": 40,
+      "collect_count": 117,
+      "description": "蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响",
+      "text_hint": "蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响",
+      "topic_tags": [
+        "高性价比音箱推荐",
+        "值得信赖的品质",
+        "现场实拍",
+        "好听的声音",
+        "音响"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b4fe036f6bfa93079f175cc54f910fda/6ad3321d/video/tos/cn/tos-cn-ve-15c001-alinc2/os8hu2pMIMBANgEBIn6ztAqe0oAfQJ6gpMXzEE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1766&bt=1766&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wZ.2yHhd.gaz8C73-ApQX&mime_type=video_mp4&qs=0&rc=Z2Q4N2RkNTk8aGU3NzNpaEBpMzt0NDQ6Zm5vcjMzNGkzM0AuYTA0LS8tNV4xNDQwMGNeYSNpZjIzcjRfaGdgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1792214831&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202610171327115E5B596184B7B2CCBA06",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7360952439605824809.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7360952439605824809.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 190.867,
+      "raw_payload": {
+        "aweme_id": "7360952439605824809",
+        "author_uid": "56097839773",
+        "sec_uid": "MS4wLjABAAAAA-__TKC7vZbu0OodLm7HmY-yrJ32QGh14-E8guACq0U",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAA-__TKC7vZbu0OodLm7HmY-yrJ32QGh14-E8guACq0U"
+      }
+    },
+    "first_seen_at": "2026-10-17T13:26:43+08:00",
+    "last_seen_at": "2026-10-17T13:26:43+08:00",
+    "fetch_runs": [
+      "2026-10-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7360952439605824809.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7360952439605824809.mp3",
+      "source": "download",
+      "processed_at": "2026-10-17T13:30:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7360952439605824809",
+      "transcript_raw": "蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响补充信息：蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响关键词：高性价比音箱推荐、值得信赖的品质、现场实拍、好听的声音、音响",
+      "transcript_clean": "蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响补充信息：蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响关键词：高性价比音箱推荐、值得信赖的品质、现场实拍、好听的声音、音响",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-17/7360952439605824809.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "analysis": {
+      "video_id": "7360952439605824809",
+      "summary": "诺声影音专营店围绕“高性价比音箱推荐”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响。蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响补充信息：蓝牙和CD出来的音质区别大不大？听完这个视频你就知道了！#高性价比音箱推荐 #值得信赖的品质 #现场实拍 #好听的声音 #音响关键词：高性价比音箱推荐、值得信赖的品质、现场实拍、好听的声音、音响 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "高性价比音箱推荐为什么总是做不出来结果？",
+        "先把值得信赖的品质想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕高性价比音箱推荐组织标题与开头。",
+        "用值得信赖的品质和现场实拍补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "高性价比音箱推荐",
+        "值得信赖的品质",
+        "现场实拍"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-17/7360952439605824809.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "last_error": null
+  },
+  "7566520076959010048": {
+    "video_id": "7566520076959010048",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7566520076959010048",
+      "title": "葫芦宝贝32 #虾仁后续 #虾仁全集完结",
+      "publish_time": "2025-11-06T12:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7566520076959010048",
+      "cover_url": "",
+      "like_count": 8,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "葫芦宝贝32 #虾仁后续 #虾仁全集完结",
+      "text_hint": "葫芦宝贝32 #虾仁后续 #虾仁全集完结",
+      "topic_tags": [
+        "虾仁后续",
+        "虾仁全集完结"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c32bfa9f-59ad-4311-a5e9-a5617b6a8639",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7566520076959010048",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-17T13:26:43+08:00",
+    "last_seen_at": "2026-10-17T13:26:43+08:00",
+    "fetch_runs": [
+      "2026-10-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7395846801712074022": {
+    "video_id": "7395846801712074022",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "杰哥观察者模式启动中",
+      "video_id": "7395846801712074022",
+      "title": "#心学   #职场   #进步   #成长  知行合一真的很难吗？",
+      "publish_time": "2024-07-26T15:42:59+08:00",
+      "video_url": "https://www.douyin.com/video/7395846801712074022",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/57528636718ee7ab85ad9e60a06d3f72~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107573200&x-signature=ShJsQq6a8UKdCUD502aUgsaa7KI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610171327348CC5036F9FDDC11436EB",
+      "like_count": 161,
+      "comment_count": 10,
+      "share_count": 20,
+      "collect_count": 72,
+      "description": "#心学   #职场   #进步   #成长  知行合一真的很难吗？",
+      "text_hint": "#心学   #职场   #进步   #成长  知行合一真的很难吗？",
+      "topic_tags": [
+        "心学",
+        "职场",
+        "进步",
+        "成长"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/36819c62b58f6d4c40ebbc901f50e5f2/6ad333a5/video/tos/cn/tos-cn-ve-2883c800/oYiNHpjmoAdHApfRi9Q1G9MBCdmfEFnQAvJgIB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1540&bt=1540&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wS92yHhd.gaz8C73-ApQX&mime_type=video_mp4&qs=0&rc=M2YzM2doN2Y3Omk8OTU1N0Bpajx2bnc5cnlvdDMzNGkzM0A1L14xNTNjXjMxNjZgXmAzYSMxYzFrMmRzM2VgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100K_100o_100w_100B_100H&dy_q=1792214854&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202610171327348CC5036F9FDDC11436EB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7395846801712074022.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7395846801712074022.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 559.7,
+      "raw_payload": {
+        "aweme_id": "7395846801712074022",
+        "author_uid": "17755949861",
+        "sec_uid": "MS4wLjABAAAATlsja9qHBzoXb3UB5M5xlfgHMxJmTRYyQ13TInzEtiI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAATlsja9qHBzoXb3UB5M5xlfgHMxJmTRYyQ13TInzEtiI"
+      }
+    },
+    "first_seen_at": "2026-10-17T13:26:43+08:00",
+    "last_seen_at": "2026-10-17T13:26:43+08:00",
+    "fetch_runs": [
+      "2026-10-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7395846801712074022.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7395846801712074022.mp3",
+      "source": "download",
+      "processed_at": "2026-10-17T13:29:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7395846801712074022",
+      "transcript_raw": "#心学   #职场   #进步   #成长  知行合一真的很难吗？#心学   #职场   #进步   #成长  知行合一真的很难吗？补充信息：#心学   #职场   #进步   #成长  知行合一真的很难吗？关键词：心学、职场、进步、成长",
+      "transcript_clean": "#心学   #职场   #进步   #成长  知行合一真的很难吗？#心学   #职场   #进步   #成长  知行合一真的很难吗？补充信息：#心学   #职场   #进步   #成长  知行合一真的很难吗？关键词：心学、职场、进步、成长",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-17/7395846801712074022.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "analysis": {
+      "video_id": "7395846801712074022",
+      "summary": "杰哥观察者模式启动中围绕“心学”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#心学   #职场   #进步   #成长  知行合一真的很难吗？。#心学   #职场   #进步   #成长  知行合一真的很难吗？#心学   #职场   #进步   #成长  知行合一真的很难吗？补充信息：#心学   #职场   #进步   #成长  知行合一真的很难吗？关键词：心学、职场、进步、成长 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "心学为什么总是做不出来结果？",
+        "先把职场想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕心学组织标题与开头。",
+        "用职场和进步补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "心学",
+        "职场",
+        "进步"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-17/7395846801712074022.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "last_error": null
+  },
+  "7506087189950205241": {
+    "video_id": "7506087189950205241",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "客房麦子姐",
+      "video_id": "7506087189950205241",
+      "title": "做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房",
+      "publish_time": "2025-05-19T17:31:59+08:00",
+      "video_url": "https://www.douyin.com/video/7506087189950205241",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1fa95e294aaaa11c02cb1ef91b019314~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107573200&x-signature=OEKhbsSKGHANhyDNcJlTdVDiaG8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261017132737D6AA1741A8AD6D13C531",
+      "like_count": 4146,
+      "comment_count": 215,
+      "share_count": 1217,
+      "collect_count": 1866,
+      "description": "做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房",
+      "text_hint": "做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房",
+      "topic_tags": [
+        "酒店客房"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/128336f3d554df614851bb737d9209cb/6ad332c1/video/tos/cn/tos-cn-ve-15c000-ce/oMpd8AMqMEJTeW2ngWerQE4DAgEWFGdRWf7fQt/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1741&bt=1741&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wp92yHhd.gaz8C73-ApQX&mime_type=video_mp4&qs=0&rc=ZzM6NmQ5ZGg8PDpnZDw4aUBpamltZnE5cjhpMzMzbGkzNEAuYjYvNWE2NWIxMWAtXjJjYSNlbzNhMmRjaGlhLS1kLWJzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1792214857&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261017132737D6AA1741A8AD6D13C531",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7506087189950205241.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7506087189950205241.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 328.067,
+      "raw_payload": {
+        "aweme_id": "7506087189950205241",
+        "author_uid": "3567254383108541",
+        "sec_uid": "MS4wLjABAAAAVvWh1tOJ4iLOYzIH6oj5J86dOq7JEj9p74i5WvK-FsRjlmrOAw6_vo4ZcJ83LBjT",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAVvWh1tOJ4iLOYzIH6oj5J86dOq7JEj9p74i5WvK-FsRjlmrOAw6_vo4ZcJ83LBjT"
+      }
+    },
+    "first_seen_at": "2026-10-17T13:26:43+08:00",
+    "last_seen_at": "2026-10-17T13:26:43+08:00",
+    "fetch_runs": [
+      "2026-10-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7506087189950205241.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7506087189950205241.mp3",
+      "source": "download",
+      "processed_at": "2026-10-17T13:28:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7506087189950205241",
+      "transcript_raw": "做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房补充信息：做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房关键词：酒店客房",
+      "transcript_clean": "做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房补充信息：做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房关键词：酒店客房",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-17/7506087189950205241.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "analysis": {
+      "video_id": "7506087189950205241",
+      "summary": "客房麦子姐围绕“酒店客房”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房。做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房补充信息：做房又快又轻松的技巧！ 做房不要多跑冤枉路！#酒店客房关键词：酒店客房 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "酒店客房为什么总是做不出来结果？",
+        "先把做房又快又轻松的技巧想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕酒店客房组织标题与开头。",
+        "用做房又快又轻松的技巧和做房不要多跑冤枉路！#酒店客房做房又快又轻松的技巧补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "酒店客房",
+        "做房又快又轻松的技巧",
+        "做房不要多跑冤枉路！#酒店客房做房又快又轻松的技巧"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-17/7506087189950205241.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "last_error": null
+  },
+  "7136467745398426917": {
+    "video_id": "7136467745398426917",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7136467745398426917",
+      "title": "找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分",
+      "publish_time": "2022-08-27T08:19:00+08:00",
+      "video_url": "https://www.douyin.com/video/7136467745398426917",
+      "cover_url": "",
+      "like_count": 133,
+      "comment_count": 107,
+      "share_count": 15,
+      "collect_count": 29,
+      "description": "找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分",
+      "text_hint": "找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分",
+      "topic_tags": [
+        "情感",
+        "我是红娘",
+        "转为单身人土脱单",
+        "红娘直播"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/ec61ed9613d6811db5fc82c55be6a5e1/6ad33250/video/cn/mps/realtime/v1/r/p/v0200fg10000cc4t5q3c77ubfkjvg2r0/849dd050b87148ccabf322f4f18a4f33/08217a68ab0492a0cd14390be85703a5/mp4/main.mp4?a=6383&br=222&bt=222&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&codec=h264&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&definition=720p&dr=0&ds=3&dy_q=1792214873&eid=64256&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&ft=InFJ3Y-5DyjNbRVQ9wh92yHhd.gaz8C73-ApQX&is_ssr=1&item_id=7136467745398426917&l=202610171327526D709CA08C79B30595C7&logo_type=&lr=all&mime_type=video_mp4&qs=0&rc=NmlkNDc1NmVmOzQ7MzNnN0BpMzV5bmU6ZnR3ZjMzNGkzM0AwMTVjYy9jXmAxNF8yYTY1YSNvZGdjcjQwMjFgLS1kLS9zcw%3D%3D&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type&__vid=7136467745398426917",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7136467745398426917.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7136467745398426917.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7136467745398426917",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-17T13:26:43+08:00",
+    "last_seen_at": "2026-10-17T13:26:43+08:00",
+    "fetch_runs": [
+      "2026-10-17"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7136467745398426917.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-17/7136467745398426917.mp3",
+      "source": "download",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7136467745398426917",
+      "transcript_raw": "找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分补充信息：找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分关键词：情感、我是红娘、转为单身人土脱单、红娘直播",
+      "transcript_clean": "找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分补充信息：找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分关键词：情感、我是红娘、转为单身人土脱单、红娘直播",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-17/7136467745398426917.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "analysis": {
+      "video_id": "7136467745398426917",
+      "summary": "知雪围绕“情感”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分。找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分补充信息：找对象不是非找优秀的而是找适合自己的#情感 #我是红娘 #转为单身人土脱单 #红娘直播 每晚8.0分关键词：情感、我是红娘、转为单身人土脱单、红娘直播 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "情感为什么总是做不出来结果？",
+        "先把我是红娘想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕情感组织标题与开头。",
+        "用我是红娘和转为单身人土脱单补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "情感",
+        "我是红娘",
+        "转为单身人土脱单"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-17/7136467745398426917.json",
+      "processed_at": "2026-10-17T13:31:28+08:00"
+    },
+    "last_error": null
   }
 }
