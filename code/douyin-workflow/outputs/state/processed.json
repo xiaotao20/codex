@@ -60741,5 +60741,399 @@
       "processed_at": "2026-10-17T13:31:28+08:00"
     },
     "last_error": null
+  },
+  "7659587797078336164": {
+    "video_id": "7659587797078336164",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7659587797078336164",
+      "title": "目标博主 1 视频 7659587797078336164",
+      "publish_time": "2026-10-18T13:41:19+08:00",
+      "video_url": "https://www.douyin.com/video/7659587797078336164",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/3b267a1c-cb27-4a74-b938-8a9131527c26",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7659587797078336164",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-18T13:38:36+08:00",
+    "last_seen_at": "2026-10-18T13:38:36+08:00",
+    "fetch_runs": [
+      "2026-10-18"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7421527948638833959": {
+    "video_id": "7421527948638833959",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7421527948638833959",
+      "title": "目标博主 1 视频 7421527948638833959",
+      "publish_time": "2026-10-18T13:41:19+08:00",
+      "video_url": "https://www.douyin.com/video/7421527948638833959",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/87c60585-579f-4aa2-911c-b9f42c88d8d6",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7421527948638833959",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-18T13:38:36+08:00",
+    "last_seen_at": "2026-10-18T13:38:36+08:00",
+    "fetch_runs": [
+      "2026-10-18"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7414502945288441139": {
+    "video_id": "7414502945288441139",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7414502945288441139",
+      "title": "目标博主 1 视频 7414502945288441139",
+      "publish_time": "2026-10-18T13:41:19+08:00",
+      "video_url": "https://www.douyin.com/video/7414502945288441139",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/795cd316-9d34-4277-8e7b-950b3fbedadf",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7414502945288441139",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-18T13:38:36+08:00",
+    "last_seen_at": "2026-10-18T13:38:36+08:00",
+    "fetch_runs": [
+      "2026-10-18"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7285978742747303228": {
+    "video_id": "7285978742747303228",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7285978742747303228",
+      "title": "重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游",
+      "publish_time": "2023-10-04T05:59:00+08:00",
+      "video_url": "https://www.douyin.com/video/7285978742747303228",
+      "cover_url": "",
+      "like_count": 60,
+      "comment_count": 12,
+      "share_count": 0,
+      "collect_count": 7,
+      "description": "重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游",
+      "text_hint": "重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游",
+      "topic_tags": [
+        "重庆之旅",
+        "灯光秀现场",
+        "神女大道",
+        "夜游"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/c1dd5c5c9deeb6d4caa8bddccc6421c2/6ad48700/video/tos/cn/tos-cn-ve-0015c800/ownA9fyE0mBB5B3wgLCdnvitiAAeuRj36C24FI/?a=6383&br=2073&bt=2073&btag=c0000e00030000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100D_100J&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1792302012&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wTVbZHhd.596DC73-ApQX&is_ssr=1&l=20261018134012DFB651B167E9636FEDE7&lr=all&mime_type=video_mp4&qs=1&rc=aWRnNDxmNDc5O2YzOGU3NkBpMzR5PHE5cmVpbjMzNGkzM0AvMWE1MV41NjExMC9eLWIvYSMuYGpwMmRrcmJgLS1kLS9zcw%3D%3D&req_cdn_type=&__vid=7285978742747303228",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-18/7285978742747303228.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-18/7285978742747303228.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7285978742747303228",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-18T13:38:36+08:00",
+    "last_seen_at": "2026-10-18T13:38:36+08:00",
+    "fetch_runs": [
+      "2026-10-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-18/7285978742747303228.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-18/7285978742747303228.mp3",
+      "source": "download",
+      "processed_at": "2026-10-18T13:42:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7285978742747303228",
+      "transcript_raw": "重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游补充信息：重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游关键词：重庆之旅、灯光秀现场、神女大道、夜游",
+      "transcript_clean": "重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游补充信息：重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游关键词：重庆之旅、灯光秀现场、神女大道、夜游",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-18/7285978742747303228.json",
+      "processed_at": "2026-10-18T13:43:03+08:00"
+    },
+    "analysis": {
+      "video_id": "7285978742747303228",
+      "summary": "目标博主 1围绕“重庆之旅”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游。重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游补充信息：重庆之旅（二十七）：巫山县网红打卡地“神女大道”带大家看看 #重庆之旅 #灯光秀现场 #神女大道 #夜游关键词：重庆之旅、灯光秀现场、神女大道、夜游 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "重庆之旅为什么总是做不出来结果？",
+        "先把灯光秀现场想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕重庆之旅组织标题与开头。",
+        "用灯光秀现场和神女大道补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "重庆之旅",
+        "灯光秀现场",
+        "神女大道"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-18/7285978742747303228.json",
+      "processed_at": "2026-10-18T13:43:03+08:00"
+    },
+    "last_error": null
+  },
+  "7570252500457175531": {
+    "video_id": "7570252500457175531",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7570252500457175531",
+      "title": "目标博主 1 视频 7570252500457175531",
+      "publish_time": "2026-10-18T13:41:19+08:00",
+      "video_url": "https://www.douyin.com/video/7570252500457175531",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/00e98680-ab2a-43b9-807e-6398139a7dff",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7570252500457175531",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-18T13:38:36+08:00",
+    "last_seen_at": "2026-10-18T13:38:36+08:00",
+    "fetch_runs": [
+      "2026-10-18"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7494654843169131833": {
+    "video_id": "7494654843169131833",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7494654843169131833",
+      "title": "目标博主 1 视频 7494654843169131833",
+      "publish_time": "2026-10-18T13:41:19+08:00",
+      "video_url": "https://www.douyin.com/video/7494654843169131833",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/7a3020de-9b34-4880-9eba-a29d78d15f1a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7494654843169131833",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-18T13:38:36+08:00",
+    "last_seen_at": "2026-10-18T13:38:36+08:00",
+    "fetch_runs": [
+      "2026-10-18"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7157630131111054623": {
+    "video_id": "7157630131111054623",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7157630131111054623",
+      "title": "摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭",
+      "publish_time": "2022-10-23T09:01:00+08:00",
+      "video_url": "https://www.douyin.com/video/7157630131111054623",
+      "cover_url": "",
+      "like_count": 1519,
+      "comment_count": 283,
+      "share_count": 48,
+      "collect_count": 30,
+      "description": "摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭",
+      "text_hint": "摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭",
+      "topic_tags": [
+        "摩托车",
+        "摔车",
+        "剐蹭"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0c081802ebd1a213cdd183f210afe668/6ad48774/video/tos/cn/tos-cn-ve-0015c800/3306e62631904f18993510639fbcf5b8/?a=6383&br=2375&bt=2375&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100D_100J_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1792302074&ft=CZdgCYlIDyjNMRVQ9w-mbZHhd.596DC73-ApQX&is_ssr=1&l=20261018134114A4B24B5A1494F36E0FAE&lr=all&mime_type=video_mp4&qs=0&rc=aWg3NTZnOTk1Mzw8NWU1NUBpM2tzMzY6ZjNqZzMzNGkzM0AvNDMwYmIwNV4xXy01MzMuYSNjZG9gcjQwM15gLS1kLS9zcw%3D%3D&__vid=7157630131111054623",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-18/7157630131111054623.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-18/7157630131111054623.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7157630131111054623",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-18T13:38:36+08:00",
+    "last_seen_at": "2026-10-18T13:38:36+08:00",
+    "fetch_runs": [
+      "2026-10-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-18/7157630131111054623.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-18/7157630131111054623.mp3",
+      "source": "download",
+      "processed_at": "2026-10-18T13:43:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7157630131111054623",
+      "transcript_raw": "摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭补充信息：摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭关键词：摩托车、摔车、剐蹭",
+      "transcript_clean": "摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭补充信息：摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭关键词：摩托车、摔车、剐蹭",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-18/7157630131111054623.json",
+      "processed_at": "2026-10-18T13:43:03+08:00"
+    },
+    "analysis": {
+      "video_id": "7157630131111054623",
+      "summary": "目标博主 1围绕“摩托车”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭。摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭补充信息：摩托车原地倒车，刮坏旁边车辆，大家停车一定要注意安全#摩托车 #摔车 #剐蹭关键词：摩托车、摔车、剐蹭 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "摩托车为什么总是做不出来结果？",
+        "先把摔车想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕摩托车组织标题与开头。",
+        "用摔车和剐蹭补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "摩托车",
+        "摔车",
+        "剐蹭"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-18/7157630131111054623.json",
+      "processed_at": "2026-10-18T13:43:03+08:00"
+    },
+    "last_error": null
   }
 }
