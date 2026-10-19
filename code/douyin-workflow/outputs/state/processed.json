@@ -61135,5 +61135,542 @@
       "processed_at": "2026-10-18T13:43:03+08:00"
     },
     "last_error": null
+  },
+  "7698069779914951977": {
+    "video_id": "7698069779914951977",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "刘小洋同学",
+      "video_id": "7698069779914951977",
+      "title": "经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上科学，还能培养孩子物理化思维#化学启蒙#物理启蒙",
+      "publish_time": "2026-10-19T02:02:26+08:00",
+      "video_url": "https://www.douyin.com/video/7698069779914951977",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-v-c9e10a/o0f5IIo6ImnlH5VM9wBrQ9PSgDFmAqDEz6DDfE~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107746000&x-signature=Gy7ZKHWIpialXSyY7jlwDln5JoA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610191356322311365F564E152F9C12",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上科学，还能培养孩子物理化思维#化学启蒙#物理启蒙",
+      "text_hint": "经常给孩子看这套漫画物理化学启蒙书，不仅能让孩子爱上科学，还能培养孩子物理化思维#化学启蒙#物理启蒙",
+      "topic_tags": [
+        "化学启蒙",
+        "物理启蒙"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/990f70add52a7a16c67794cf90e2f343/6ad5db99/video/tos/cn/tos-cn-v-c9e10a/oU9M5EIBqQDVIfAmWBzF9ToEIPDh65D6ngfsxV/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4001&bt=4001&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wNXcZHhd..d_V103-ApQX&mime_type=video_mp4&qs=0&rc=OTw6MzQ3O2YzOGRpOGY2ZkBpM3J1O3Y5cmZqZTMzNDYzM0BgLmI0M2AzNS4xLzRjLy4wYSNtbWdnMmRjZ15hLS1kMC9zcw%3D%3D&btag=c0000e00028000&cquery=102v_102u_100o_100w_100B&dy_q=1792389393&l=202610191356322311365F564E152F9C12",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 88.004,
+      "raw_payload": {
+        "aweme_id": "7698069779914951977",
+        "author_uid": "4368803931364887",
+        "sec_uid": "MS4wLjABAAAAesLLBjLBVQfCJXJOWZjqjhzsSQt4KAsEndftJcaBTblhP1LJScd-CLcii1Y6NefW",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAesLLBjLBVQfCJXJOWZjqjhzsSQt4KAsEndftJcaBTblhP1LJScd-CLcii1Y6NefW"
+      }
+    },
+    "first_seen_at": "2026-10-19T13:56:13+08:00",
+    "last_seen_at": "2026-10-19T13:56:13+08:00",
+    "fetch_runs": [
+      "2026-10-19"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "The read operation timed out"
+  },
+  "7613269873031957766": {
+    "video_id": "7613269873031957766",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7613269873031957766",
+      "title": "在抖音记录美好生活20261019",
+      "publish_time": "2026-10-19T13:57:21+08:00",
+      "video_url": "https://www.douyin.com/video/7613269873031957766",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261019",
+      "text_hint": "在抖音记录美好生活20261019",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/9f494992-3796-4633-8ad9-286ffd28f47c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7613269873031957766",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-19T13:56:13+08:00",
+    "last_seen_at": "2026-10-19T13:56:13+08:00",
+    "fetch_runs": [
+      "2026-10-19"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7091224219177979173": {
+    "video_id": "7091224219177979173",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "驴哥说剧",
+      "video_id": "7091224219177979173",
+      "title": "#部队  #训练  #美国   #军训  #军人",
+      "publish_time": "2022-04-27T18:11:54+08:00",
+      "video_url": "https://www.douyin.com/video/7091224219177979173",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0004/78429f4e24b54c449e41606d69294cca~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107746000&x-signature=CwLlKTqKTVvoKjuNXjxA09DaUdw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261019135643EEF9F511A8BAF7EFBE97",
+      "like_count": 109,
+      "comment_count": 1,
+      "share_count": 4,
+      "collect_count": 9,
+      "description": "#部队  #训练  #美国   #军训  #军人",
+      "text_hint": "#部队  #训练  #美国   #军训  #军人",
+      "topic_tags": [
+        "训练",
+        "美国",
+        "军训",
+        "军人",
+        "部队"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/9d9a40cbafc7ae1f67dab345ed436399/6ad5dbff/video/cn/mps/realtime/v1/r/p/v0200fg10000c9khdq3c77ub97bpbu4g/681315d50405498f82180988e82d2795/333eb5d24d30070dc23709bd6b33b189/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=574&bt=574&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9wYXcZHhd..d_V103-ApQX&mime_type=video_mp4&qs=0&rc=ODpnOzs8OzVpPDg3ODg2O0BpanhzOmU6ZnRrPDMzNGkzM0A2Ly9iNS0uNTUxLS1hLi4zYSMxX182cjQwYWhgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100w_100B_100D_102u_100o&definition=720p&dy_q=1792389403&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7091224219177979173&l=20261019135643EEF9F511A8BAF7EFBE97&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7091224219177979173.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7091224219177979173.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.714,
+      "raw_payload": {
+        "aweme_id": "7091224219177979173",
+        "author_uid": "4468877788972156",
+        "sec_uid": "MS4wLjABAAAA5Qgn7aSlRYanoykvdEkUrM8cCENJPnx7RoF98aCE142y4UDDAgRv2KLJDTleEquA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA5Qgn7aSlRYanoykvdEkUrM8cCENJPnx7RoF98aCE142y4UDDAgRv2KLJDTleEquA"
+      }
+    },
+    "first_seen_at": "2026-10-19T13:56:13+08:00",
+    "last_seen_at": "2026-10-19T13:56:13+08:00",
+    "fetch_runs": [
+      "2026-10-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7091224219177979173.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7091224219177979173.mp3",
+      "source": "download",
+      "processed_at": "2026-10-19T14:05:17+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7091224219177979173",
+      "transcript_raw": "#部队  #训练  #美国   #军训  #军人#部队  #训练  #美国   #军训  #军人补充信息：#部队  #训练  #美国   #军训  #军人关键词：训练、美国、军训、军人、部队",
+      "transcript_clean": "#部队  #训练  #美国   #军训  #军人#部队  #训练  #美国   #军训  #军人补充信息：#部队  #训练  #美国   #军训  #军人关键词：训练、美国、军训、军人、部队",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-19/7091224219177979173.json",
+      "processed_at": "2026-10-19T14:05:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7091224219177979173",
+      "summary": "驴哥说剧围绕“训练”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#部队  #训练  #美国   #军训  #军人。#部队  #训练  #美国   #军训  #军人#部队  #训练  #美国   #军训  #军人补充信息：#部队  #训练  #美国   #军训  #军人关键词：训练、美国、军训、军人、部队 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "训练为什么总是做不出来结果？",
+        "先把美国想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕训练组织标题与开头。",
+        "用美国和军训补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "训练",
+        "美国",
+        "军训"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-19/7091224219177979173.json",
+      "processed_at": "2026-10-19T14:05:17+08:00"
+    },
+    "last_error": null
+  },
+  "7110832510573006088": {
+    "video_id": "7110832510573006088",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "袁周院长",
+      "video_id": "7110832510573006088",
+      "title": "欢迎报考江苏海事职业技术学院！",
+      "publish_time": "2022-06-19T14:22:20+08:00",
+      "video_url": "https://www.douyin.com/video/7110832510573006088",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/67262d612431e5c88791dcded6cb8382~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107746000&x-signature=LzGAzgm4zFhF9EBB%2FnJb7emTm0E%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026101913564629E8CBE880C3710ACFC3",
+      "like_count": 250,
+      "comment_count": 63,
+      "share_count": 203,
+      "collect_count": 33,
+      "description": "欢迎报考江苏海事职业技术学院！",
+      "text_hint": "欢迎报考江苏海事职业技术学院！",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c0bf87650ef1442b359ae8f9bad786a9/6ad5dcb3/video/tos/cn/tos-cn-ve-0015c800/040db9a659454f298b8bdcf841a8f566/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1816&bt=1816&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wXXcZHhd..d_V103-ApQX&mime_type=video_mp4&qs=0&rc=Omk6PGc3aTplZzxlaGRlPEBpajxwdzk6ZjpmZDMzNGkzM0BhLmEyLjNfNTIxYzQ2NjVhYSNebF5ycjRfLmtgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100D_102u_100o_100w_100B&dy_q=1792389406&l=2026101913564629E8CBE880C3710ACFC3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7110832510573006088.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7110832510573006088.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 357.123,
+      "raw_payload": {
+        "aweme_id": "7110832510573006088",
+        "author_uid": "2897929491979340",
+        "sec_uid": "MS4wLjABAAAArImIdkmli7CzblqzvFWxgFn4eeTWBJV2bg3hzQGUnfG6is0lxcGME7Dq3P5aDbae",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAArImIdkmli7CzblqzvFWxgFn4eeTWBJV2bg3hzQGUnfG6is0lxcGME7Dq3P5aDbae"
+      }
+    },
+    "first_seen_at": "2026-10-19T13:56:13+08:00",
+    "last_seen_at": "2026-10-19T13:56:13+08:00",
+    "fetch_runs": [
+      "2026-10-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7110832510573006088.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7110832510573006088.mp3",
+      "source": "download",
+      "processed_at": "2026-10-19T14:03:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7110832510573006088",
+      "transcript_raw": "欢迎报考江苏海事职业技术学院！欢迎报考江苏海事职业技术学院！补充信息：欢迎报考江苏海事职业技术学院！",
+      "transcript_clean": "欢迎报考江苏海事职业技术学院！欢迎报考江苏海事职业技术学院！补充信息：欢迎报考江苏海事职业技术学院！",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-19/7110832510573006088.json",
+      "processed_at": "2026-10-19T14:05:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7110832510573006088",
+      "summary": "袁周院长围绕“欢迎报考江苏海事职业技术学院！欢迎报考江苏海事职业技术学院！补充信息：欢迎报考江苏海事职业技术学院”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "欢迎报考江苏海事职业技术学院！。欢迎报考江苏海事职业技术学院！欢迎报考江苏海事职业技术学院！补充信息：欢迎报考江苏海事职业技术学院！ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "欢迎报考江苏海事职业技术学院！欢迎报考江苏海事职业技术学院！补充信息：欢迎报考江苏海事职业技术学院为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕欢迎报考江苏海事职业技术学院！欢迎报考江苏海事职业技术学院！补充信息：欢迎报考江苏海事职业技术学院组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "欢迎报考江苏海事职业技术学院！欢迎报考江苏海事职业技术学院！补充信息：欢迎报考江苏海事职业技术学院",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-19/7110832510573006088.json",
+      "processed_at": "2026-10-19T14:05:17+08:00"
+    },
+    "last_error": null
+  },
+  "7557284881337142587": {
+    "video_id": "7557284881337142587",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7557284881337142587",
+      "title": "在抖音记录美好生活20261019",
+      "publish_time": "2026-10-19T13:57:21+08:00",
+      "video_url": "https://www.douyin.com/video/7557284881337142587",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261019",
+      "text_hint": "在抖音记录美好生活20261019",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/6cffaab8-e5c0-4d2c-9ad7-0630e397e988",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7557284881337142587",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-19T13:56:13+08:00",
+    "last_seen_at": "2026-10-19T13:56:13+08:00",
+    "fetch_runs": [
+      "2026-10-19"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7505571326204071226": {
+    "video_id": "7505571326204071226",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "风君子清风（灵慧）",
+      "video_id": "7505571326204071226",
+      "title": "未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮",
+      "publish_time": "2025-05-18T10:15:00+08:00",
+      "video_url": "https://www.douyin.com/video/7505571326204071226",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/40b6dffabede92967ebf43fb74d24366~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107746000&x-signature=yYfmc57EBS%2FiCAqL4OX3oj8ptnM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261019135656800B22954A51ACDFB81E",
+      "like_count": 1796,
+      "comment_count": 98,
+      "share_count": 308,
+      "collect_count": 474,
+      "description": "未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮",
+      "text_hint": "未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮",
+      "topic_tags": [
+        "清明上河图",
+        "连续剧",
+        "历史",
+        "张择端",
+        "诸葛亮"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/71505180de220459321c01a9f1771b73/6ad5dd48/video/tos/cn/tos-cn-ve-15c000-ce/oUAMEAxoeEZiB9oITGSfCFvKhDedGSQjFxCqFw/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1066&bt=1066&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wHXcZHhd..d_V103-ApQX&mime_type=video_mp4&qs=0&rc=ZjNmO2c2aGY1Z2c1NmQ1ZUBpajVuams5cnBsMzMzbGkzNEAuLjFfLTQxNTAxLV82XjQtYSNlL2plMmRjNmhhLS1kLWJzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1792389416&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261019135656800B22954A51ACDFB81E",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7505571326204071226.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7505571326204071226.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 496.35,
+      "raw_payload": {
+        "aweme_id": "7505571326204071226",
+        "author_uid": "94711280825",
+        "sec_uid": "MS4wLjABAAAAF-5NfibHzLgQxPTgezpN8PPF20HWfP1Kmw6xRmkeCac",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAF-5NfibHzLgQxPTgezpN8PPF20HWfP1Kmw6xRmkeCac"
+      }
+    },
+    "first_seen_at": "2026-10-19T13:56:13+08:00",
+    "last_seen_at": "2026-10-19T13:56:13+08:00",
+    "fetch_runs": [
+      "2026-10-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7505571326204071226.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7505571326204071226.mp3",
+      "source": "download",
+      "processed_at": "2026-10-19T14:01:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7505571326204071226",
+      "transcript_raw": "未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮补充信息：未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮关键词：清明上河图、连续剧、历史、张择端、诸葛亮",
+      "transcript_clean": "未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮补充信息：未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮关键词：清明上河图、连续剧、历史、张择端、诸葛亮",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-19/7505571326204071226.json",
+      "processed_at": "2026-10-19T14:05:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7505571326204071226",
+      "summary": "风君子清风（灵慧）围绕“清明上河图”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮。未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮补充信息：未来15年左右，清明上河图会被打开，发现里面蕴藏着一部连续剧。诸葛亮的千年之局正一步步发挥作用。〔使用了AI生成技术。虚构演绎，仅供娱乐。〕#清明上河图 #连续剧 #历史 #张择端 #诸葛亮关键词：清明上河图、连续剧、历史、张择端、诸葛亮 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "清明上河图为什么总是做不出来结果？",
+        "先把连续剧想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕清明上河图组织标题与开头。",
+        "用连续剧和历史补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "清明上河图",
+        "连续剧",
+        "历史"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-19/7505571326204071226.json",
+      "processed_at": "2026-10-19T14:05:17+08:00"
+    },
+    "last_error": null
+  },
+  "7435314247590006031": {
+    "video_id": "7435314247590006031",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "甜水井和稀泥的川乌",
+      "video_id": "7435314247590006031",
+      "title": "宁波吃的也太好啦，压台+十首歌+烟花🎆#陈楚生 #现场版live #神级live现场 #开口跪 #宁波音乐节",
+      "publish_time": "2024-11-10T00:17:09+08:00",
+      "video_url": "https://www.douyin.com/video/7435314247590006031",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5255a8e161716d2a4c04f3b3e8a6439b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2107746000&x-signature=gQ4lo1yCT4sszkAlMtSBvpS1bro%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026101913565954D383D91D576BD50384",
+      "like_count": 719,
+      "comment_count": 24,
+      "share_count": 19,
+      "collect_count": 22,
+      "description": "宁波吃的也太好啦，压台+十首歌+烟花🎆#陈楚生 #现场版live #神级live现场 #开口跪 #宁波音乐节",
+      "text_hint": "宁波吃的也太好啦，压台+十首歌+烟花🎆#陈楚生 #现场版live #神级live现场 #开口跪 #宁波音乐节",
+      "topic_tags": [
+        "陈楚生",
+        "现场版live",
+        "神级live现场",
+        "开口跪",
+        "宁波音乐节"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/c945f3850817d2fc669cb14070b86b7c/6ad5dc31/video/tos/cn/tos-cn-ve-0015c800/okB9DEgnQanhduAQIBkr7NFZFLiNRAf4kfA1rX/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1714&bt=1714&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wcXcZHhd..d_V103-ApQX&mime_type=video_mp4&qs=0&rc=Ojg1PGVmOGhmaGk2OjQ7M0Bpandoamw5cm9ydjMzNGkzM0AxX2AvNGBfNTIxNC0wX181YSNscWozMmRzaWtgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1792389419&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026101913565954D383D91D576BD50384",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 214.203,
+      "raw_payload": {
+        "aweme_id": "7435314247590006031",
+        "author_uid": "3426506000049196",
+        "sec_uid": "MS4wLjABAAAApGX1MAPkOpwshwGZ_sVb0Co6k29l3hkX-NYt9sjY_cGkWgVDzLr0W0rbB7Ptz2e7",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAApGX1MAPkOpwshwGZ_sVb0Co6k29l3hkX-NYt9sjY_cGkWgVDzLr0W0rbB7Ptz2e7"
+      }
+    },
+    "first_seen_at": "2026-10-19T13:56:13+08:00",
+    "last_seen_at": "2026-10-19T13:56:13+08:00",
+    "fetch_runs": [
+      "2026-10-19"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "The read operation timed out"
+  },
+  "7104808970606365959": {
+    "video_id": "7104808970606365959",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7104808970606365959",
+      "title": "加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学",
+      "publish_time": "2022-06-03T00:48:00+08:00",
+      "video_url": "https://www.douyin.com/video/7104808970606365959",
+      "cover_url": "",
+      "like_count": 373,
+      "comment_count": 41,
+      "share_count": 72,
+      "collect_count": 73,
+      "description": "加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学",
+      "text_hint": "加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学",
+      "topic_tags": [
+        "加拿大",
+        "加拿大留学",
+        "留学"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/e7e58f7cf56f4da7cebd083754078d96/6ad5dc23/video/cn/mps/realtime/v1/r/p/v0200fg10000caclkfrc77u45fr73340/aab70758860749f58e662cf6d44b3cbd/0230f24b63b34a5fb6b2819d7d3689c5/mp4/main.mp4?a=6383&br=4183&bt=4183&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&codec=h264&cquery=100w_100B_100H_102u_100o&cr=3&cs=0&cv=1&definition=720p&dr=0&ds=3&dy_q=1792389435&eid=64256&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&ft=InFJ3Y-5DyjNMRVQ9w4XcZHhd..d_V103-ApQX&is_ssr=1&item_id=7104808970606365959&l=202610191357152CED3F95787056157363&logo_type=&lr=all&mime_type=video_mp4&qs=0&rc=Z2ZlNzlmOWg4PDo5Ozo6ZEBpMzY6aTc6ZmlvZDMzNGkzM0BfMDFhYy8zNWMxLTUyLV9eYSMxMG8ycjRvaGBgLS1kLS9zcw%3D%3D&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type&__vid=7104808970606365959",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7104808970606365959.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7104808970606365959.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7104808970606365959",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-19T13:56:13+08:00",
+    "last_seen_at": "2026-10-19T13:56:13+08:00",
+    "fetch_runs": [
+      "2026-10-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7104808970606365959.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-19/7104808970606365959.mp3",
+      "source": "download",
+      "processed_at": "2026-10-19T14:04:56+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7104808970606365959",
+      "transcript_raw": "加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学补充信息：加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学关键词：加拿大、加拿大留学、留学",
+      "transcript_clean": "加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学补充信息：加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学关键词：加拿大、加拿大留学、留学",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-19/7104808970606365959.json",
+      "processed_at": "2026-10-19T14:05:17+08:00"
+    },
+    "analysis": {
+      "video_id": "7104808970606365959",
+      "summary": "目标博主 1围绕“加拿大”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学。加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学补充信息：加拿大留学移民最宽松的政策官宣停止！NB新不伦瑞克省EE官宣停止，为何如此宽松又如此短命？聊聊留学移民一些注意事项#加拿大#加拿大留学#留学关键词：加拿大、加拿大留学、留学 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "加拿大为什么总是做不出来结果？",
+        "先把加拿大留学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕加拿大组织标题与开头。",
+        "用加拿大留学和留学补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "加拿大",
+        "加拿大留学",
+        "留学"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-19/7104808970606365959.json",
+      "processed_at": "2026-10-19T14:05:17+08:00"
+    },
+    "last_error": null
   }
 }
