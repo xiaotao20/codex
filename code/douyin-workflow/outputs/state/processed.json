@@ -62338,5 +62338,395 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7630770479011302699": {
+    "video_id": "7630770479011302699",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7630770479011302699",
+      "title": "目标博主 1 视频 7630770479011302699",
+      "publish_time": "2026-10-21T13:54:51+08:00",
+      "video_url": "https://www.douyin.com/video/7630770479011302699",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/2b8afcc5-47c5-4ef4-b118-ee90c32fcf6a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7630770479011302699",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-21T13:52:07+08:00",
+    "last_seen_at": "2026-10-21T13:52:07+08:00",
+    "fetch_runs": [
+      "2026-10-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7314227961551473957": {
+    "video_id": "7314227961551473957",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7314227961551473957",
+      "title": "目标博主 1 视频 7314227961551473957",
+      "publish_time": "2026-10-21T13:54:51+08:00",
+      "video_url": "https://www.douyin.com/video/7314227961551473957",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/bb7aed8d-7d58-4075-89a2-52c548f37d87",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7314227961551473957",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-21T13:52:07+08:00",
+    "last_seen_at": "2026-10-21T13:52:07+08:00",
+    "fetch_runs": [
+      "2026-10-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7276064944968322363": {
+    "video_id": "7276064944968322363",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7276064944968322363",
+      "title": "目标博主 1 视频 7276064944968322363",
+      "publish_time": "2026-10-21T13:54:51+08:00",
+      "video_url": "https://www.douyin.com/video/7276064944968322363",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/78546ba0-5dbb-4f20-a6d6-be8036a817f1",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7276064944968322363",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-21T13:52:07+08:00",
+    "last_seen_at": "2026-10-21T13:52:07+08:00",
+    "fetch_runs": [
+      "2026-10-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "6969971718815239435": {
+    "video_id": "6969971718815239435",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "6969971718815239435",
+      "title": "排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克",
+      "publish_time": "2020-08-17T14:06:00+08:00",
+      "video_url": "https://www.douyin.com/video/6969971718815239435",
+      "cover_url": "",
+      "like_count": 2566,
+      "comment_count": 193,
+      "share_count": 524,
+      "collect_count": 606,
+      "description": "排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克",
+      "text_hint": "排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d0d15fcde868670317e0ee9b141c2124/6ad87f05/video/tos/cn/tos-cn-ve-15/30f6685f53f849559de210af1e49a7df/?a=6383&br=1598&bt=1598&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100D_102u_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1792562022&ft=CZdgCYlIDyjNMRVQ9wWZbmHhd.66j1f03-ApQX&is_ssr=1&l=20261021135342F7873D324C22A40DAC72&lr=all&mime_type=video_mp4&qs=0&rc=OmVkN2g6NDk1aTs0OThoZEBpM3l4dmc6ZnI4NTMzNGkzM0BjLzMvLTM1Ni0xNi0zYl5fYSMubGNecjRvLnFgLS1kLTBzcw%3D%3D&__vid=6969971718815239435",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-21/6969971718815239435.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-21/6969971718815239435.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "6969971718815239435",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-21T13:52:07+08:00",
+    "last_seen_at": "2026-10-21T13:52:07+08:00",
+    "fetch_runs": [
+      "2026-10-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-21/6969971718815239435.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-21/6969971718815239435.mp3",
+      "source": "download",
+      "processed_at": "2026-10-21T13:55:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6969971718815239435",
+      "transcript_raw": "排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克补充信息：排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克",
+      "transcript_clean": "排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克补充信息：排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-21/6969971718815239435.json",
+      "processed_at": "2026-10-21T13:55:43+08:00"
+    },
+    "analysis": {
+      "video_id": "6969971718815239435",
+      "summary": "目标博主 1围绕“排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克补充信息：排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克。排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克补充信息：排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克补充信息：排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克补充信息：排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克补充信息：排量1.5T、中国合法上路、来自德国定制三轮摩托车雷瓦克",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-21/6969971718815239435.json",
+      "processed_at": "2026-10-21T13:55:44+08:00"
+    },
+    "last_error": null
+  },
+  "7227046586109480250": {
+    "video_id": "7227046586109480250",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7227046586109480250",
+      "title": "目标博主 1 视频 7227046586109480250",
+      "publish_time": "2026-10-21T13:54:51+08:00",
+      "video_url": "https://www.douyin.com/video/7227046586109480250",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c840367d-3f7c-4c8b-b87d-950d1dfb4a9c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7227046586109480250",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-21T13:52:07+08:00",
+    "last_seen_at": "2026-10-21T13:52:07+08:00",
+    "fetch_runs": [
+      "2026-10-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7352083846688558388": {
+    "video_id": "7352083846688558388",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7352083846688558388",
+      "title": "目标博主 1 视频 7352083846688558388",
+      "publish_time": "2026-10-21T13:54:51+08:00",
+      "video_url": "https://www.douyin.com/video/7352083846688558388",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/30aa461c-291d-4fb8-b096-462d20b5683b",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7352083846688558388",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-21T13:52:07+08:00",
+    "last_seen_at": "2026-10-21T13:52:07+08:00",
+    "fetch_runs": [
+      "2026-10-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7374173913653300531": {
+    "video_id": "7374173913653300531",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7374173913653300531",
+      "title": "钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流",
+      "publish_time": "2024-05-28T22:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7374173913653300531",
+      "cover_url": "",
+      "like_count": 314,
+      "comment_count": 44,
+      "share_count": 194,
+      "collect_count": 106,
+      "description": "钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流",
+      "text_hint": "钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流",
+      "topic_tags": [
+        "浮钓鲢鳙",
+        "夏天就要去钓大鱼",
+        "2024dou来钓鱼",
+        "原来钓鱼才是抖音运动顶流"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a11d78959d5761d1ac6ec47f32a6819b/6ad87e8c/video/tos/cn/tos-cn-ve-0015c800/oUclQDQQEGFlApkfAg5tFCmeMS9wVAlIEIABhT/?a=6383&br=1588&bt=1588&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100D_100J_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1792562087&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wFRbmHhd.66j1f03-ApQX&is_ssr=1&l=20261021135446DEA5477B41430F7FAE63&lr=all&mime_type=video_mp4&qs=12&rc=ZzYzOzNpZTpnPGZlMzloZEBpM2g0O3Y5cjw4czMzNGkzM0AwMC4xXzNiX18xLV9jXjEuYSMuZGhtMmQ0NV9gLS1kLS9zcw%3D%3D&__vid=7374173913653300531",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-21/7374173913653300531.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-21/7374173913653300531.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7374173913653300531",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-21T13:52:07+08:00",
+    "last_seen_at": "2026-10-21T13:52:07+08:00",
+    "fetch_runs": [
+      "2026-10-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-21/7374173913653300531.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-21/7374173913653300531.mp3",
+      "source": "download",
+      "processed_at": "2026-10-21T13:55:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7374173913653300531",
+      "transcript_raw": "钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流补充信息：钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流关键词：浮钓鲢鳙、夏天就要去钓大鱼、2024dou来钓鱼、原来钓鱼才是抖音运动顶流",
+      "transcript_clean": "钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流补充信息：钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流关键词：浮钓鲢鳙、夏天就要去钓大鱼、2024dou来钓鱼、原来钓鱼才是抖音运动顶流",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-21/7374173913653300531.json",
+      "processed_at": "2026-10-21T13:55:43+08:00"
+    },
+    "analysis": {
+      "video_id": "7374173913653300531",
+      "summary": "目标博主 1围绕“浮钓鲢鳙”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流。钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流补充信息：钓好鲢鳙找水层是关键，学会以下几点钓好鲢鳙不难。 #浮钓鲢鳙 #夏天就要去钓大鱼 #2024dou来钓鱼 #原来钓鱼才是抖音运动顶流关键词：浮钓鲢鳙、夏天就要去钓大鱼、2024dou来钓鱼、原来钓鱼才是抖音运动顶流 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "浮钓鲢鳙为什么总是做不出来结果？",
+        "先把夏天就要去钓大鱼想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕浮钓鲢鳙组织标题与开头。",
+        "用夏天就要去钓大鱼和2024dou来钓鱼补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "浮钓鲢鳙",
+        "夏天就要去钓大鱼",
+        "2024dou来钓鱼"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-21/7374173913653300531.json",
+      "processed_at": "2026-10-21T13:55:44+08:00"
+    },
+    "last_error": null
   }
 }
