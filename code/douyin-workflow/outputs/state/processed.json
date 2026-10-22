@@ -62728,5 +62728,671 @@
       "processed_at": "2026-10-21T13:55:44+08:00"
     },
     "last_error": null
+  },
+  "7699307682948139338": {
+    "video_id": "7699307682948139338",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "金榜题名",
+      "video_id": "7699307682948139338",
+      "title": "就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿",
+      "publish_time": "2026-10-22T10:06:04+08:00",
+      "video_url": "https://www.douyin.com/video/7699307682948139338",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/os82DfrZAEeNQx3nlGqgFBhyIX9WA2pcGAYPQT~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108005200&x-signature=tpHf32WiSztWln5UbK5RdmGc9%2FM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261022135550F2166B0B11C0FA863DD6",
+      "like_count": 1,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿",
+      "text_hint": "就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿",
+      "topic_tags": [
+        "河南高考",
+        "就业好的专业",
+        "商丘小鹿志愿"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/f42b9793260f3fe0b8bd61d1cbca09ef/6ad9cf9c/video/tos/cn/tos-cn-ve-15/owIZEGAH9bo2AGBqyi7tfzwwue1AMiCgNUW5BK/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=442&bt=442&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wW0JmHhd.Zy1DC73-ApQX&mime_type=video_mp4&qs=0&rc=NmU8ZzRoNDM4ZGQ0MzlkNEBpM200Zm85cjlwZTMzNGkzM0AzMDEzL2NhNTMxYy9hNTNhYSNrNjJtMmRjcmBhLS1kLWFzcw%3D%3D&btag=c0000e00008000&cc=1f&cquery=100w_100B_100x_100z_100o&dy_q=1792648550&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261022135550F2166B0B11C0FA863DD6&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7699307682948139338.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7699307682948139338.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 6.988,
+      "raw_payload": {
+        "aweme_id": "7699307682948139338",
+        "author_uid": "1514484161844359",
+        "sec_uid": "MS4wLjABAAAAQSa9IAFFSQ3b18HuZ_kcE9xtv_3w29c_qnabiepRh-PkYHz7iFi1f5AC5QDWPcHC",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQSa9IAFFSQ3b18HuZ_kcE9xtv_3w29c_qnabiepRh-PkYHz7iFi1f5AC5QDWPcHC"
+      }
+    },
+    "first_seen_at": "2026-10-22T13:55:29+08:00",
+    "last_seen_at": "2026-10-22T13:55:29+08:00",
+    "fetch_runs": [
+      "2026-10-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7699307682948139338.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7699307682948139338.mp3",
+      "source": "download",
+      "processed_at": "2026-10-22T13:56:38+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7699307682948139338",
+      "transcript_raw": "就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿补充信息：就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿关键词：河南高考、就业好的专业、商丘小鹿志愿",
+      "transcript_clean": "就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿补充信息：就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿关键词：河南高考、就业好的专业、商丘小鹿志愿",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-22/7699307682948139338.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7699307682948139338",
+      "summary": "金榜题名围绕“河南高考”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿。就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿补充信息：就业前景好的5大专业#河南高考 #就业好的专业 #商丘小鹿志愿关键词：河南高考、就业好的专业、商丘小鹿志愿 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "河南高考为什么总是做不出来结果？",
+        "先把就业好的专业想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕河南高考组织标题与开头。",
+        "用就业好的专业和商丘小鹿志愿补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "河南高考",
+        "就业好的专业",
+        "商丘小鹿志愿"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-22/7699307682948139338.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "last_error": null
+  },
+  "7662949272375020809": {
+    "video_id": "7662949272375020809",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "蓝鲸TMT",
+      "video_id": "7662949272375020809",
+      "title": "黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”",
+      "publish_time": "2026-07-16T10:36:56+08:00",
+      "video_url": "https://www.douyin.com/video/7662949272375020809",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/28b495768e2c9477319d9e0690382d5a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108005200&x-signature=K92EtqASHrZTbtxF8%2F9IWUxpEhg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610221355541C37FDA2E04A9C318B07",
+      "like_count": 462,
+      "comment_count": 17,
+      "share_count": 118,
+      "collect_count": 60,
+      "description": "黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”",
+      "text_hint": "黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/cffa7ce72a978dc65a778b95079d4a2c/6ad9cfd0/video/tos/cn/tos-cn-ve-15/oMAkgRQUtkiQIazDhPBQ2giFE0YPlalvAdBID/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=557&bt=557&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9w70JmHhd.Zy1DC73-ApQX&mime_type=video_mp4&qs=0&rc=aWY3M2lnaDg6NjZlaDg6aEBpanRsOG45cjc3PDMzNGkzM0A1NS4wMDUtNS4xXjZeYjIzYSNtLTFvMmQ0NGBhLS1kLS9zcw%3D%3D&btag=c0000e00020000&cquery=100w_100B_100H_100K_100o&dy_q=1792648554&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202610221355541C37FDA2E04A9C318B07",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7662949272375020809.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7662949272375020809.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 54.5,
+      "raw_payload": {
+        "aweme_id": "7662949272375020809",
+        "author_uid": "110455497015",
+        "sec_uid": "MS4wLjABAAAA402MN9DfMhHWFiQS65o5Lu7wLw0LXvXfLFZgFXgw62w",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA402MN9DfMhHWFiQS65o5Lu7wLw0LXvXfLFZgFXgw62w"
+      }
+    },
+    "first_seen_at": "2026-10-22T13:55:29+08:00",
+    "last_seen_at": "2026-10-22T13:55:29+08:00",
+    "fetch_runs": [
+      "2026-10-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7662949272375020809.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7662949272375020809.mp3",
+      "source": "download",
+      "processed_at": "2026-10-22T13:56:41+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7662949272375020809",
+      "transcript_raw": "黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”补充信息：黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”",
+      "transcript_clean": "黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”补充信息：黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-22/7662949272375020809.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7662949272375020809",
+      "summary": "蓝鲸TMT围绕“黄仁勋现身日本，感谢英伟达的“救命恩人””给出了一条可直接执行的短视频经验。",
+      "clean_copy": "黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”。黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”补充信息：黄仁勋现身日本，感谢英伟达的“救命恩人”。 黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元” 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "黄仁勋现身日本，感谢英伟达的“救命恩人”为什么总是做不出来结果？",
+        "先把黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”黄仁勋现身日本，感谢英伟达的“救命恩人”想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕黄仁勋现身日本，感谢英伟达的“救命恩人”组织标题与开头。",
+        "用黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”黄仁勋现身日本，感谢英伟达的“救命恩人”和黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”补充信息：黄仁勋现身日本，感谢英伟达的“救命恩人”补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "黄仁勋现身日本，感谢英伟达的“救命恩人”",
+        "黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”黄仁勋现身日本，感谢英伟达的“救命恩人”",
+        "黄仁勋现身东京当面感谢世嘉前社长：“如果他们不投，我们就会倒闭”。黄仁勋称“这笔投资现在价值1万亿美元”补充信息：黄仁勋现身日本，感谢英伟达的“救命恩人”"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-22/7662949272375020809.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "last_error": null
+  },
+  "7182172375578856760": {
+    "video_id": "7182172375578856760",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "教书匠大昕子Mickey",
+      "video_id": "7182172375578856760",
+      "title": "#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享",
+      "publish_time": "2022-12-28T20:17:03+08:00",
+      "video_url": "https://www.douyin.com/video/7182172375578856760",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/df47734cc15a44d219a0945808b6e83a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108005200&x-signature=OMOnaCC9BpZ9ZFCWEjEsld99zVI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261022135557F5F392F407DE398FE6B4",
+      "like_count": 34,
+      "comment_count": 5,
+      "share_count": 51,
+      "collect_count": 32,
+      "description": "#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享",
+      "text_hint": "#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享",
+      "topic_tags": [
+        "看动画学语法",
+        "每天学习一点点",
+        "家长收藏孩子受益",
+        "日积月累",
+        "今日分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/07cc5d19a35e1c65771d0d58ce13b2bf/6ad9d0d7/video/tos/cn/tos-cn-ve-0015c800/oYAW4JIgCCAfuhhNCVeMN1tBGmzCABPUqQExhs/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=393&bt=393&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9w50JmHhd.Zy1DC73-ApQX&mime_type=video_mp4&qs=0&rc=aTM2OTo8Z2Q5ZzhkZDs4NkBpM2Z0amc6Zjc2aDMzNGkzM0BiYTQ0MGAtNmAxYzUvNDJhYSNraF5kcjRvM2pgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1792648557&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261022135557F5F392F407DE398FE6B4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7182172375578856760.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7182172375578856760.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 314.026,
+      "raw_payload": {
+        "aweme_id": "7182172375578856760",
+        "author_uid": "71285998407",
+        "sec_uid": "MS4wLjABAAAASlgAD5ZEK-VhTkBEEiFRkLNRAlooNdGe5HC1bqGg45I",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAASlgAD5ZEK-VhTkBEEiFRkLNRAlooNdGe5HC1bqGg45I"
+      }
+    },
+    "first_seen_at": "2026-10-22T13:55:29+08:00",
+    "last_seen_at": "2026-10-22T13:55:29+08:00",
+    "fetch_runs": [
+      "2026-10-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7182172375578856760.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7182172375578856760.mp3",
+      "source": "download",
+      "processed_at": "2026-10-22T14:03:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7182172375578856760",
+      "transcript_raw": "#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享补充信息：#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享关键词：看动画学语法、每天学习一点点、家长收藏孩子受益、日积月累、今日分享",
+      "transcript_clean": "#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享补充信息：#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享关键词：看动画学语法、每天学习一点点、家长收藏孩子受益、日积月累、今日分享",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-22/7182172375578856760.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7182172375578856760",
+      "summary": "教书匠大昕子Mickey围绕“看动画学语法”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享。#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享补充信息：#看动画学语法 代词易混知识点之little/few/a little/a few ～ 学习起来#每天学习一点点 #家长收藏孩子受益 #日积月累 #今日分享关键词：看动画学语法、每天学习一点点、家长收藏孩子受益、日积月累、今日分享 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "看动画学语法为什么总是做不出来结果？",
+        "先把每天学习一点点想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕看动画学语法组织标题与开头。",
+        "用每天学习一点点和家长收藏孩子受益补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "看动画学语法",
+        "每天学习一点点",
+        "家长收藏孩子受益"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-22/7182172375578856760.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "last_error": null
+  },
+  "6984068464059125004": {
+    "video_id": "6984068464059125004",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "苏教版小学数学视频课",
+      "video_id": "6984068464059125004",
+      "title": "#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》",
+      "publish_time": "2021-07-12T23:52:38+08:00",
+      "video_url": "https://www.douyin.com/video/6984068464059125004",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/39f08b84e29fc1b2564a4c9e54d86882~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108005200&x-signature=5oEUriNLR%2FL2iJ8T904hnuQFjlw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610221356006DBBB149D6E1D4A7FA50",
+      "like_count": 3176,
+      "comment_count": 764,
+      "share_count": 1395,
+      "collect_count": 1549,
+      "description": "#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》",
+      "text_hint": "#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》",
+      "topic_tags": [
+        "苏教版",
+        "小学数学",
+        "四年级上册数学"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e3c972146d01dd1e928dc7c954ec70f1/6ad9d1a2/video/tos/cn/tos-cn-ve-0015c800/b4e8780116cf49b79ce6b89fbf6afcb7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=241&bt=241&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wD0JmHhd.Zy1DC73-ApQX&mime_type=video_mp4&qs=0&rc=ZztmOzc8Nmc6ZTQzZTY5Z0BpM3Q4cWQ6Znc5NjMzNGkzM0BfMjJiLzIwXi4xNC0zYF8xYSNvYGhlcjRvNmpgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_102u_100o_100w&dy_q=1792648560&l=202610221356006DBBB149D6E1D4A7FA50",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/6984068464059125004.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/6984068464059125004.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 514.648,
+      "raw_payload": {
+        "aweme_id": "6984068464059125004",
+        "author_uid": "84199780573",
+        "sec_uid": "MS4wLjABAAAAUIV3vCDVPu4U8-3xdNdTG988hPlmBLh5xLfrrJU4HJ8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAUIV3vCDVPu4U8-3xdNdTG988hPlmBLh5xLfrrJU4HJ8"
+      }
+    },
+    "first_seen_at": "2026-10-22T13:55:29+08:00",
+    "last_seen_at": "2026-10-22T13:55:29+08:00",
+    "fetch_runs": [
+      "2026-10-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/6984068464059125004.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/6984068464059125004.mp3",
+      "source": "download",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6984068464059125004",
+      "transcript_raw": "#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》补充信息：#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》关键词：苏教版、小学数学、四年级上册数学",
+      "transcript_clean": "#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》补充信息：#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》关键词：苏教版、小学数学、四年级上册数学",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-22/6984068464059125004.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "analysis": {
+      "video_id": "6984068464059125004",
+      "summary": "苏教版小学数学视频课围绕“苏教版”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》。#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》补充信息：#苏教版 #小学数学 #四年级上册数学 第一单元第一节《认识容量和升》关键词：苏教版、小学数学、四年级上册数学 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "苏教版为什么总是做不出来结果？",
+        "先把小学数学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕苏教版组织标题与开头。",
+        "用小学数学和四年级上册数学补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "苏教版",
+        "小学数学",
+        "四年级上册数学"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-22/6984068464059125004.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "last_error": null
+  },
+  "7573963620216980389": {
+    "video_id": "7573963620216980389",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7573963620216980389",
+      "title": "在抖音记录美好生活20261022",
+      "publish_time": "2026-10-22T13:56:36+08:00",
+      "video_url": "https://www.douyin.com/video/7573963620216980389",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261022",
+      "text_hint": "在抖音记录美好生活20261022",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/4993e74e-e00a-47bc-a4b4-8393e7dbdee0",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7573963620216980389",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-22T13:55:29+08:00",
+    "last_seen_at": "2026-10-22T13:55:29+08:00",
+    "fetch_runs": [
+      "2026-10-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7271932522055912759": {
+    "video_id": "7271932522055912759",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小mo酱",
+      "video_id": "7271932522055912759",
+      "title": "保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆",
+      "publish_time": "2023-08-27T17:32:17+08:00",
+      "video_url": "https://www.douyin.com/video/7271932522055912759",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6241581f2300d6e7389d36efdfea1548~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108005200&x-signature=XnX1CS6aU9dww%2BTmEBbE3pRgSts%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026102213561125CDC3DB8C84D9B450E7",
+      "like_count": 6645,
+      "comment_count": 246,
+      "share_count": 1551,
+      "collect_count": 3268,
+      "description": "保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆",
+      "text_hint": "保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆",
+      "topic_tags": [
+        "我的日常妆容",
+        "美妆分享",
+        "原相机拍摄",
+        "笨蛋美女妆"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4c7b274b5047fe1724b4fa12805d4b08/6ad9d0c8/video/tos/cn/tos-cn-ve-15c001-alinc2/o4ErOIgIDpnA6CDexTBWfkLcLzVA9AiKQwX6bo/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2575&bt=2575&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w40JmHhd.Zy1DC73-ApQX&mime_type=video_mp4&qs=0&rc=ZmU3O2RkNDMzOjk3ZDQ0ZkBpandrZDg6ZmRrbTMzNGkzM0BiLzYxNDY2XjUxMmAyMDZeYSMwNWxpcjRfYmlgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1792648571&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026102213561125CDC3DB8C84D9B450E7",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7271932522055912759.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7271932522055912759.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 284.967,
+      "raw_payload": {
+        "aweme_id": "7271932522055912759",
+        "author_uid": "62956149871",
+        "sec_uid": "MS4wLjABAAAAXIGhW4icfV3lmI5eWJ6tUO3tUcsqhpdxIJawH0rgbfI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAXIGhW4icfV3lmI5eWJ6tUO3tUcsqhpdxIJawH0rgbfI"
+      }
+    },
+    "first_seen_at": "2026-10-22T13:55:29+08:00",
+    "last_seen_at": "2026-10-22T13:55:29+08:00",
+    "fetch_runs": [
+      "2026-10-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7271932522055912759.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7271932522055912759.mp3",
+      "source": "download",
+      "processed_at": "2026-10-22T14:01:35+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7271932522055912759",
+      "transcript_raw": "保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆补充信息：保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆关键词：我的日常妆容、美妆分享、原相机拍摄、笨蛋美女妆",
+      "transcript_clean": "保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆补充信息：保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆关键词：我的日常妆容、美妆分享、原相机拍摄、笨蛋美女妆",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-22/7271932522055912759.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7271932522055912759",
+      "summary": "小mo酱围绕“我的日常妆容”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆。保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆补充信息：保姆级妆教 老婆们我手都编辑酸了5555#我的日常妆容 #美妆分享 #原相机拍摄 #笨蛋美女妆关键词：我的日常妆容、美妆分享、原相机拍摄、笨蛋美女妆 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "我的日常妆容为什么总是做不出来结果？",
+        "先把美妆分享想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕我的日常妆容组织标题与开头。",
+        "用美妆分享和原相机拍摄补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "我的日常妆容",
+        "美妆分享",
+        "原相机拍摄"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-22/7271932522055912759.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "last_error": null
+  },
+  "7398554900872924466": {
+    "video_id": "7398554900872924466",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "阿南（踏板教父）",
+      "video_id": "7398554900872924466",
+      "title": "摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250",
+      "publish_time": "2024-08-02T22:51:59+08:00",
+      "video_url": "https://www.douyin.com/video/7398554900872924466",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e92ce69a1385e1ea5c4c9b5bca4a98da~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108005200&x-signature=eMA39b4Snd5tb0SU6GgZdkKmaTI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610221356146CFB0CAC0963723FE9A3",
+      "like_count": 15391,
+      "comment_count": 3888,
+      "share_count": 4122,
+      "collect_count": 1477,
+      "description": "摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250",
+      "text_hint": "摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250",
+      "topic_tags": [
+        "豪爵uhr150",
+        "雅马哈nmax155",
+        "光阳racingx150",
+        "豪爵afr125",
+        "铃木gsx250"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/d7c93dcb366da5f5dc5837ef49e02c4f/6ad9d081/video/tos/cn/tos-cn-ve-15/oQ6Q9f2ng5eDIesEZzdM8C02NdAXCveAzV9aRS/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1737&bt=1737&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wE0JmHhd.Zy1DC73-ApQX&mime_type=video_mp4&qs=0&rc=OzU4OTdlaTxlO2Q0aTs5PEBpajl3OHk5cmVpdDMzNGkzM0BgNmExLi41Xi4xLl8vMTYtYSNibzJrMmRrMGpgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100o_100w_100B_100x_100z&dy_q=1792648574&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202610221356146CFB0CAC0963723FE9A3",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7398554900872924466.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7398554900872924466.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 211.858,
+      "raw_payload": {
+        "aweme_id": "7398554900872924466",
+        "author_uid": "3781969039853615",
+        "sec_uid": "MS4wLjABAAAAk72HfAWhWPiVxcdod2St0Eb_q8RPdNcCX8SYNm7KwOHuRZh1bPe9n77iA0N0Ny0t",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAk72HfAWhWPiVxcdod2St0Eb_q8RPdNcCX8SYNm7KwOHuRZh1bPe9n77iA0N0Ny0t"
+      }
+    },
+    "first_seen_at": "2026-10-22T13:55:29+08:00",
+    "last_seen_at": "2026-10-22T13:55:29+08:00",
+    "fetch_runs": [
+      "2026-10-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7398554900872924466.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7398554900872924466.mp3",
+      "source": "download",
+      "processed_at": "2026-10-22T14:00:45+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7398554900872924466",
+      "transcript_raw": "摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250补充信息：摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250关键词：豪爵uhr150、雅马哈nmax155、光阳racingx150、豪爵afr125、铃木gsx250",
+      "transcript_clean": "摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250补充信息：摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250关键词：豪爵uhr150、雅马哈nmax155、光阳racingx150、豪爵afr125、铃木gsx250",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-22/7398554900872924466.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7398554900872924466",
+      "summary": "阿南（踏板教父）围绕“豪爵uhr150”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250。摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250补充信息：摩托车还得大降价！ 摩托车价格战还得继续，摩托车还得降价，摩托车什么时候大降价？#豪爵uhr150 #雅马哈nmax155 #光阳racingx150 #豪爵afr125 #铃木gsx250关键词：豪爵uhr150、雅马哈nmax155、光阳racingx150、豪爵afr125、铃木gsx250 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "豪爵uhr150为什么总是做不出来结果？",
+        "先把雅马哈nmax155想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕豪爵uhr150组织标题与开头。",
+        "用雅马哈nmax155和光阳racingx150补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "豪爵uhr150",
+        "雅马哈nmax155",
+        "光阳racingx150"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-22/7398554900872924466.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "last_error": null
+  },
+  "7209253409013173563": {
+    "video_id": "7209253409013173563",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7209253409013173563",
+      "title": "软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由",
+      "publish_time": "2023-03-11T11:45:00+08:00",
+      "video_url": "https://www.douyin.com/video/7209253409013173563",
+      "cover_url": "",
+      "like_count": 649,
+      "comment_count": 36,
+      "share_count": 490,
+      "collect_count": 87,
+      "description": "软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由",
+      "text_hint": "软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由",
+      "topic_tags": [
+        "软路由搭建",
+        "openwrt软路由"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/5f0a6fee30cb3dfab71d7f04187bb4e7/6ad9d073/video/tos/cn/tos-cn-ve-15c001-alinc2/oATBInOIfKeNBjfbBAKM7EIgag7HGAFnDUdCQU/?a=6383&br=461&bt=461&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100D_100J_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1792648591&feature_id=f0150a16a324336cda5d6dd0b69ed299&ft=CZdgCYlIDyjNMRVQ9wB3JmHhd.Zy1DC73-ApQX&is_ssr=1&l=20261022135631F84F546C705FB2454498&lr=all&mime_type=video_mp4&qs=0&rc=NGloZ2U2OGY4OGZkaTk6OkBpajx0aTg6ZnE5ajMzNGkzM0AxYDYtYi4xNjQxXi8zNjNgYSNzNGEtcjRvZzNgLS1kLS9zcw%3D%3D&__vid=7209253409013173563",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7209253409013173563.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7209253409013173563.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7209253409013173563",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-22T13:55:29+08:00",
+    "last_seen_at": "2026-10-22T13:55:29+08:00",
+    "fetch_runs": [
+      "2026-10-22"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7209253409013173563.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-22/7209253409013173563.mp3",
+      "source": "download",
+      "processed_at": "2026-10-22T14:01:40+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7209253409013173563",
+      "transcript_raw": "软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由补充信息：软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由关键词：软路由搭建、openwrt软路由",
+      "transcript_clean": "软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由补充信息：软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由关键词：软路由搭建、openwrt软路由",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-22/7209253409013173563.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "analysis": {
+      "video_id": "7209253409013173563",
+      "summary": "知雪围绕“软路由搭建”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由。软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由补充信息：软路由入门-Windows虚拟机hyper-v上安装openwrt #软路由搭建 #openwrt软路由关键词：软路由搭建、openwrt软路由 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "软路由搭建为什么总是做不出来结果？",
+        "先把openwrt软路由想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕软路由搭建组织标题与开头。",
+        "用openwrt软路由和#软路由搭建补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "软路由搭建",
+        "openwrt软路由",
+        "#软路由搭建"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-22/7209253409013173563.json",
+      "processed_at": "2026-10-22T14:03:15+08:00"
+    },
+    "last_error": null
   }
 }
