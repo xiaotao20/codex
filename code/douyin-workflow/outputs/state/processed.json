@@ -63394,5 +63394,666 @@
       "processed_at": "2026-10-22T14:03:15+08:00"
     },
     "last_error": null
+  },
+  "7699460922426925914": {
+    "video_id": "7699460922426925914",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "广州大自然地板专区",
+      "video_id": "7699460922426925914",
+      "title": "总投资18亿的高级学校，2年项目复检，舞台实木地板",
+      "publish_time": "2026-10-22T20:00:43+08:00",
+      "video_url": "https://www.douyin.com/video/7699460922426925914",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oIuDCZ500gAfufsLT7eQzeErIAIHCEGWrQp20L~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108091600&x-signature=J1TsVLIaXvaXeov8yUJeaG8BJm4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261023135312DE27E5D0786EE079EE22",
+      "like_count": 8,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "总投资18亿的高级学校，2年项目复检，舞台实木地板",
+      "text_hint": "总投资18亿的高级学校，2年项目复检，舞台实木地板",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a31e69e839e42b8842746e50012a4c4f/6adb2089/video/tos/cn/tos-cn-ve-15/oU1DTmLZugG45HAAQIfAeLICrzRj2dpC0LvfeE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1415&bt=1415&cs=0&ds=3&ft=~zabYIKJ1_fvv4W9wUx_6P0BHC~fSuaahIniXwG&mime_type=video_mp4&qs=0&rc=ZmlkNjRkaTpmZzhpNjY3NkBpM3U8O2s5cjp5ZTMzNGkzM0AxMWMtNi8xXzAxMy8xMi4yYSNlNmtsMmQ0aGBhLS1kLWFzcw%3D%3D&btag=80000e00010000&cquery=100o_100w_100B_100x_100z&dy_q=1792734792&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261023135312DE27E5D0786EE079EE22",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7699460922426925914.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7699460922426925914.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 17.346,
+      "raw_payload": {
+        "aweme_id": "7699460922426925914",
+        "author_uid": "106466281106",
+        "sec_uid": "MS4wLjABAAAABxGyrzsqt966HnEULVSSYy2zjaGId-WpzyTXcLfMkP0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABxGyrzsqt966HnEULVSSYy2zjaGId-WpzyTXcLfMkP0"
+      }
+    },
+    "first_seen_at": "2026-10-23T13:52:57+08:00",
+    "last_seen_at": "2026-10-23T13:52:57+08:00",
+    "fetch_runs": [
+      "2026-10-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7699460922426925914.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7699460922426925914.mp3",
+      "source": "download",
+      "processed_at": "2026-10-23T13:53:58+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7699460922426925914",
+      "transcript_raw": "总投资18亿的高级学校，2年项目复检，舞台实木地板总投资18亿的高级学校，2年项目复检，舞台实木地板补充信息：总投资18亿的高级学校，2年项目复检，舞台实木地板",
+      "transcript_clean": "总投资18亿的高级学校，2年项目复检，舞台实木地板总投资18亿的高级学校，2年项目复检，舞台实木地板补充信息：总投资18亿的高级学校，2年项目复检，舞台实木地板",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-23/7699460922426925914.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7699460922426925914",
+      "summary": "广州大自然地板专区围绕“总投资18亿的高级学校，2年项目复检，舞台实木地板总投资18亿的高级学校，2年项目复检，舞台实木地板补充信息：总投资18亿的高级学校，2年项目复检，舞台实木地板”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "总投资18亿的高级学校，2年项目复检，舞台实木地板。总投资18亿的高级学校，2年项目复检，舞台实木地板总投资18亿的高级学校，2年项目复检，舞台实木地板补充信息：总投资18亿的高级学校，2年项目复检，舞台实木地板 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "总投资18亿的高级学校，2年项目复检，舞台实木地板总投资18亿的高级学校，2年项目复检，舞台实木地板补充信息：总投资18亿的高级学校，2年项目复检，舞台实木地板为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕总投资18亿的高级学校，2年项目复检，舞台实木地板总投资18亿的高级学校，2年项目复检，舞台实木地板补充信息：总投资18亿的高级学校，2年项目复检，舞台实木地板组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "总投资18亿的高级学校，2年项目复检，舞台实木地板总投资18亿的高级学校，2年项目复检，舞台实木地板补充信息：总投资18亿的高级学校，2年项目复检，舞台实木地板",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-23/7699460922426925914.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "last_error": null
+  },
+  "7630912480537422516": {
+    "video_id": "7630912480537422516",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "高宫望爱上赤木晴子",
+      "video_id": "7630912480537422516",
+      "title": "CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁",
+      "publish_time": "2026-04-21T02:37:55+08:00",
+      "video_url": "https://www.douyin.com/video/7630912480537422516",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/129cf69a5e61bfcfd0a1cc6876374a07~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108091600&x-signature=OnAcjPct1UfIHuuuJkoJaS7Xl2Y%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026102313531568585D04C341171137A8",
+      "like_count": 3639,
+      "comment_count": 988,
+      "share_count": 525,
+      "collect_count": 226,
+      "description": "CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁",
+      "text_hint": "CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁",
+      "topic_tags": [
+        "辽宁大败上海赵继伟赛后发文",
+        "cba上海胜辽宁常规赛主场全胜",
+        "cba评球大会",
+        "dou来cba",
+        "cba上海大胜辽宁",
+        "CBA上海胜辽宁常规赛主场全胜",
+        "CBA上海大胜辽宁"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/cdc6201b4936ce72e1feca79052cc4d7/6adb2104/video/tos/cn/tos-cn-ve-15/oIP0T4eDACBegmYiYcisWIazAwnPEgB6ZyQNpA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2354&bt=2354&cs=0&ds=4&ft=~zabYIKJ1_fvv4W9wUxA6P0BHC~fSuaahIniXwG&mime_type=video_mp4&qs=0&rc=aTYzOzZnM2c1PDQzaDdlaEBpM2w2bXQ5cnA5OjMzNGkzM0BfNGJiMy1fXzUxNDE0MC8wYSNsZXBoMmQ0bGdhLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100z_100o_100w_100B_100x&dy_q=1792734795&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026102313531568585D04C341171137A8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7630912480537422516.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7630912480537422516.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 137.1,
+      "raw_payload": {
+        "aweme_id": "7630912480537422516",
+        "author_uid": "59036258744",
+        "sec_uid": "MS4wLjABAAAALSCcLDRfBMtewxNVRO1OHRriLJSnB6NiCaIArd77f2A",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAALSCcLDRfBMtewxNVRO1OHRriLJSnB6NiCaIArd77f2A"
+      }
+    },
+    "first_seen_at": "2026-10-23T13:52:57+08:00",
+    "last_seen_at": "2026-10-23T13:52:57+08:00",
+    "fetch_runs": [
+      "2026-10-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7630912480537422516.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7630912480537422516.mp3",
+      "source": "download",
+      "processed_at": "2026-10-23T13:54:21+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7630912480537422516",
+      "transcript_raw": "CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁补充信息：CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁关键词：辽宁大败上海赵继伟赛后发文、cba上海胜辽宁常规赛主场全胜、cba评球大会、dou来cba、cba上海大胜辽宁、CBA上海胜辽宁常规赛主场全胜、CBA上海大胜辽宁",
+      "transcript_clean": "CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁补充信息：CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁关键词：辽宁大败上海赵继伟赛后发文、cba上海胜辽宁常规赛主场全胜、cba评球大会、dou来cba、cba上海大胜辽宁、CBA上海胜辽宁常规赛主场全胜、CBA上海大胜辽宁",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-23/7630912480537422516.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7630912480537422516",
+      "summary": "高宫望爱上赤木晴子围绕“辽宁大败上海赵继伟赛后发文”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁。CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁补充信息：CBA上海大胜辽宁，赵继伟赛后发文引起热议，到底发生了什么？ #辽宁大败上海赵继伟赛后发文 #CBA上海胜辽宁常规赛主场全胜 #cba评球大会  #dou来cba #CBA上海大胜辽宁关键词：辽宁大败上海赵继伟赛后发文、cba上海胜辽宁常规赛主场全胜、cba评球大会、dou来cba、cba上海大胜辽宁、CBA上海胜辽宁常规赛主场全胜、CBA上海大胜辽宁 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "辽宁大败上海赵继伟赛后发文为什么总是做不出来结果？",
+        "先把cba上海胜辽宁常规赛主场全胜想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕辽宁大败上海赵继伟赛后发文组织标题与开头。",
+        "用cba上海胜辽宁常规赛主场全胜和cba评球大会补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "辽宁大败上海赵继伟赛后发文",
+        "cba上海胜辽宁常规赛主场全胜",
+        "cba评球大会"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-23/7630912480537422516.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "last_error": null
+  },
+  "7013607111401704737": {
+    "video_id": "7013607111401704737",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "晨晨的农村事",
+      "video_id": "7013607111401704737",
+      "title": "农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳",
+      "publish_time": "2021-09-30T14:18:55+08:00",
+      "video_url": "https://www.douyin.com/video/7013607111401704737",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/db7903ee196ea119dc6e47f38b01d012~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108091600&x-signature=IyaEj24%2BIkfMAKrg2oPzg4ZpEYM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261023135318D7C1C40F99D97D9DCF7A",
+      "like_count": 6006,
+      "comment_count": 258,
+      "share_count": 64,
+      "collect_count": 131,
+      "description": "农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳",
+      "text_hint": "农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳",
+      "topic_tags": [
+        "美食",
+        "家常菜",
+        "婆媳"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d7abce65e573aa8289fd9253c04ab8b7/6adb21c4/video/tos/cn/tos-cn-ve-0015c800/11e2e9105c1a4fcfa954589b6ca93252/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2302&bt=2302&cs=0&ds=4&ft=~zabYIKJ1_fvv4W9wUxf6P0BHC~fSuaahIniXwG&mime_type=video_mp4&qs=0&rc=O2g2NDU6Zzw1ZjVmOWloO0BpM2xkdTM6Zm1vODMzNGkzM0AvLjEyMmMwNl8xNmIzMDNhYSNgXm5mcjRvYV5gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100D_102u_100o&dy_q=1792734798&l=20261023135318D7C1C40F99D97D9DCF7A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7013607111401704737.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7013607111401704737.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 326.404,
+      "raw_payload": {
+        "aweme_id": "7013607111401704737",
+        "author_uid": "2387782735506183",
+        "sec_uid": "MS4wLjABAAAAuS7jrIsJ4BPr_wzvH3atel2JZVQ7OZty874JzAwSAnmu16_rPpFcBeTcqYRjnDhE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAuS7jrIsJ4BPr_wzvH3atel2JZVQ7OZty874JzAwSAnmu16_rPpFcBeTcqYRjnDhE"
+      }
+    },
+    "first_seen_at": "2026-10-23T13:52:57+08:00",
+    "last_seen_at": "2026-10-23T13:52:57+08:00",
+    "fetch_runs": [
+      "2026-10-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7013607111401704737.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7013607111401704737.mp3",
+      "source": "download",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7013607111401704737",
+      "transcript_raw": "农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳补充信息：农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳关键词：美食、家常菜、婆媳",
+      "transcript_clean": "农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳补充信息：农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳关键词：美食、家常菜、婆媳",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-23/7013607111401704737.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7013607111401704737",
+      "summary": "晨晨的农村事围绕“美食”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳。农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳补充信息：农村姑娘跟婆婆第一次合伙做美食，大盘鸡香辣鲜嫩，小叔子专业评价#美食 #家常菜 #婆媳关键词：美食、家常菜、婆媳 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "美食为什么总是做不出来结果？",
+        "先把家常菜想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕美食组织标题与开头。",
+        "用家常菜和婆媳补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "美食",
+        "家常菜",
+        "婆媳"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-23/7013607111401704737.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "last_error": null
+  },
+  "7146016489412250891": {
+    "video_id": "7146016489412250891",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "冬瓜爱学习",
+      "video_id": "7146016489412250891",
+      "title": "苏科版数学初一七上 第1章 数学与我们同行1",
+      "publish_time": "2022-09-22T09:54:11+08:00",
+      "video_url": "https://www.douyin.com/video/7146016489412250891",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1f88cce10bba23e69558b1fe02bee629~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108091600&x-signature=UR%2BIun4lR7ncxz5xgERakMZGgeA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026102313532212E2B1471AC8370F2E4F",
+      "like_count": 37,
+      "comment_count": 4,
+      "share_count": 20,
+      "collect_count": 31,
+      "description": "苏科版数学初一七上 第1章 数学与我们同行1",
+      "text_hint": "苏科版数学初一七上 第1章 数学与我们同行1",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e350d02bf661b82a797720073e000f1a/6adb284d/video/tos/cn/tos-cn-ve-0015c800/91b38f90ebae44eb9d58b015eada8865/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=547&bt=547&cs=0&ds=3&ft=~zabYIKJ1_fvv4W9wUxs6P0BHC~fSuaahIniXwG&mime_type=video_mp4&qs=0&rc=O2U5Zjo6ODk8Zmc7ZDtkZkBpMzhqaTM6Zmt2ZjMzNGkzM0A2MS5hYGEuXmAxYDEzNWEyYSMtci1gcjQwLWlgLS1kLTBzcw%3D%3D&btag=c0000e00038000&cquery=100D_100J_100o_100w_100B&dy_q=1792734802&l=2026102313532212E2B1471AC8370F2E4F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7146016489412250891.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7146016489412250891.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 1995.756,
+      "raw_payload": {
+        "aweme_id": "7146016489412250891",
+        "author_uid": "17206447175",
+        "sec_uid": "MS4wLjABAAAAPjE6iMFRy0pWJ0Vg_QDzJJvI-WDVqcO2fJN5oZMiAhA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAPjE6iMFRy0pWJ0Vg_QDzJJvI-WDVqcO2fJN5oZMiAhA"
+      }
+    },
+    "first_seen_at": "2026-10-23T13:52:57+08:00",
+    "last_seen_at": "2026-10-23T13:52:57+08:00",
+    "fetch_runs": [
+      "2026-10-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7146016489412250891.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7146016489412250891.mp3",
+      "source": "download",
+      "processed_at": "2026-10-23T13:58:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7146016489412250891",
+      "transcript_raw": "苏科版数学初一七上 第1章 数学与我们同行1苏科版数学初一七上 第1章 数学与我们同行1补充信息：苏科版数学初一七上 第1章 数学与我们同行1",
+      "transcript_clean": "苏科版数学初一七上 第1章 数学与我们同行1苏科版数学初一七上 第1章 数学与我们同行1补充信息：苏科版数学初一七上 第1章 数学与我们同行1",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-23/7146016489412250891.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7146016489412250891",
+      "summary": "冬瓜爱学习围绕“第1章”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "苏科版数学初一七上 第1章 数学与我们同行1。苏科版数学初一七上 第1章 数学与我们同行1苏科版数学初一七上 第1章 数学与我们同行1补充信息：苏科版数学初一七上 第1章 数学与我们同行1 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "第1章为什么总是做不出来结果？",
+        "先把苏科版数学初一七上想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕第1章组织标题与开头。",
+        "用苏科版数学初一七上和数学与我们同行1苏科版数学初一七上补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "第1章",
+        "苏科版数学初一七上",
+        "数学与我们同行1苏科版数学初一七上"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-23/7146016489412250891.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "last_error": null
+  },
+  "7580994013425127807": {
+    "video_id": "7580994013425127807",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7580994013425127807",
+      "title": "在抖音记录美好生活20261023",
+      "publish_time": "2026-10-23T13:53:55+08:00",
+      "video_url": "https://www.douyin.com/video/7580994013425127807",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261023",
+      "text_hint": "在抖音记录美好生活20261023",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/dd6a5a30-7efa-4794-a648-05db60045973",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7580994013425127807",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-23T13:52:57+08:00",
+    "last_seen_at": "2026-10-23T13:52:57+08:00",
+    "fetch_runs": [
+      "2026-10-23"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7490420582811553083": {
+    "video_id": "7490420582811553083",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "周强擞音法",
+      "video_id": "7490420582811553083",
+      "title": "周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌",
+      "publish_time": "2025-04-07T12:17:37+08:00",
+      "video_url": "https://www.douyin.com/video/7490420582811553083",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8cf9e8852285f1de50c1bda1e78a1065~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108091600&x-signature=KDYtOJCQ5eARsj3C33B%2BqQYc6UE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261023135332307E414C813049327F8F",
+      "like_count": 4274,
+      "comment_count": 180,
+      "share_count": 1100,
+      "collect_count": 1923,
+      "description": "周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌",
+      "text_hint": "周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌",
+      "topic_tags": [
+        "高音技巧",
+        "声乐教学",
+        "擞音法",
+        "零基础学唱歌"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0fe2119eb313ba332ccd0ed00fd2aa17/6adb2146/video/tos/cn/tos-cn-ve-15c000-ce/oILQRTiEIEwzymfvqUiez0zV7gQQbAAHBCNeQ8/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=494&bt=494&cs=0&ds=3&ft=~zabYIKJ1_fvv4W9wUxC6P0BHC~fSuaahIniXwG&mime_type=video_mp4&qs=0&rc=ZGlnOzZoOzlpOjg5OTQ2Z0Bpams0dHY5cmxveTMzbGkzNEA1YF81NTRhXmMxYGNfMS1fYSNxXmYwMmRrLm1gLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1792734812&feature_id=fea919893f650a8c49286568590446ef&l=20261023135332307E414C813049327F8F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7490420582811553083.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7490420582811553083.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 186.634,
+      "raw_payload": {
+        "aweme_id": "7490420582811553083",
+        "author_uid": "86145667133",
+        "sec_uid": "MS4wLjABAAAAz6I9swe0oy69tL-rYe6UlakQO_r0h2M6sFX2enX3MyQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAz6I9swe0oy69tL-rYe6UlakQO_r0h2M6sFX2enX3MyQ"
+      }
+    },
+    "first_seen_at": "2026-10-23T13:52:57+08:00",
+    "last_seen_at": "2026-10-23T13:52:57+08:00",
+    "fetch_runs": [
+      "2026-10-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7490420582811553083.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7490420582811553083.mp3",
+      "source": "download",
+      "processed_at": "2026-10-23T13:54:28+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7490420582811553083",
+      "transcript_raw": "周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌补充信息：周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌关键词：高音技巧、声乐教学、擞音法、零基础学唱歌",
+      "transcript_clean": "周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌补充信息：周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌关键词：高音技巧、声乐教学、擞音法、零基础学唱歌",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-23/7490420582811553083.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7490420582811553083",
+      "summary": "周强擞音法围绕“高音技巧”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌。周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌补充信息：周强老师倾情演绎《望月》，深情感人，真挚动人，令人听后不禁泪流满面#高音技巧 #声乐教学 #擞音法 #零基础学唱歌关键词：高音技巧、声乐教学、擞音法、零基础学唱歌 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "高音技巧为什么总是做不出来结果？",
+        "先把声乐教学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕高音技巧组织标题与开头。",
+        "用声乐教学和擞音法补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "高音技巧",
+        "声乐教学",
+        "擞音法"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-23/7490420582811553083.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "last_error": null
+  },
+  "7187730193891527940": {
+    "video_id": "7187730193891527940",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "冬妹",
+      "video_id": "7187730193891527940",
+      "title": "老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲",
+      "publish_time": "2023-01-12T19:44:15+08:00",
+      "video_url": "https://www.douyin.com/video/7187730193891527940",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5d58f819f2f0111d0c55a802dec2f23b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108091600&x-signature=vhWUOcXCZYrVbliaAOIUmUKCG1k%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026102313533474181E6DD9CCA033E628",
+      "like_count": 1106,
+      "comment_count": 43,
+      "share_count": 2676,
+      "collect_count": 1092,
+      "description": "老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲",
+      "text_hint": "老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/160d6f31e8efb567f5c4227f67c3c99e/6adb215e/video/cn/mps/realtime/v1/r/p/v0300fg10000cevup4jc77ueqkq42vn0/d2ac31f19a194fb38f72fa760b476f32/dc7d3f49e217eccaf718e1b26b5b2285/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=945&bt=945&cs=0&ds=3&ft=nz_E-lIS1_fvv4W9wUxG6P0BHC~fSuaahIniXwG&mime_type=video_mp4&qs=0&rc=NWk6ZTlkNWk2aTxkNDRmNUBpM3k3bmg6Zjd4aDMzNGkzM0AwMzEtNGM0NV8xLjZjMF5hYSNrL25ucjRnbXNgLS1kLTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100B_100x_100z_100o_100w&definition=720p&dy_q=1792734814&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7187730193891527940&l=2026102313533474181E6DD9CCA033E628&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7187730193891527940.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7187730193891527940.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 208.886,
+      "raw_payload": {
+        "aweme_id": "7187730193891527940",
+        "author_uid": "103195918418",
+        "sec_uid": "MS4wLjABAAAA4bdTZbg8fZldzfOk4t_kraGLt2W7RqLVH3LZ3SmMzMg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4bdTZbg8fZldzfOk4t_kraGLt2W7RqLVH3LZ3SmMzMg"
+      }
+    },
+    "first_seen_at": "2026-10-23T13:52:57+08:00",
+    "last_seen_at": "2026-10-23T13:52:57+08:00",
+    "fetch_runs": [
+      "2026-10-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7187730193891527940.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7187730193891527940.mp3",
+      "source": "download",
+      "processed_at": "2026-10-23T13:56:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7187730193891527940",
+      "transcript_raw": "老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲补充信息：老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲",
+      "transcript_clean": "老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲补充信息：老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-23/7187730193891527940.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7187730193891527940",
+      "summary": "冬妹围绕“老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲补充信息：老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲。老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲补充信息：老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲补充信息：老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲补充信息：老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲补充信息：老天不负有心的人，你赶紧撸起你的袖子，别在啰嗦干就得了《干就得了》每天分享歌曲",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-23/7187730193891527940.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "last_error": null
+  },
+  "7243001233689054468": {
+    "video_id": "7243001233689054468",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7243001233689054468",
+      "title": "漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥",
+      "publish_time": "2023-06-10T10:24:00+08:00",
+      "video_url": "https://www.douyin.com/video/7243001233689054468",
+      "cover_url": "",
+      "like_count": 237,
+      "comment_count": 36,
+      "share_count": 58,
+      "collect_count": 39,
+      "description": "漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥",
+      "text_hint": "漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥",
+      "topic_tags": [
+        "平遥古城",
+        "平遥古城旅游攻略",
+        "古城",
+        "山西旅游",
+        "山西平遥"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d3f2b6c40035cd84c8e2d3a7bdaf4aff/6adb2210/video/tos/cn/tos-cn-ve-0015c800/oofxpZImEkQaIgizXQ9i0AJBBEhrhE9EeyDARA/?a=6383&br=2167&bt=2167&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100D_100J_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1792734831&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=~zabYIKJ1_fvv4W9wUxo6P0BHC~fSuaahIniXwG&is_ssr=1&l=202610231353508148318633428D046BA1&lr=all&mime_type=video_mp4&qs=1&rc=Ojg4NWhkNWZnZ2YzODZoOEBpanM2N2w5cnI3bDMzNGkzM0BjMGBeXjItX14xXi9jMGFfYSNpbi9uMmRzci9gLS1kLTBzcw%3D%3D&__vid=7243001233689054468",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7243001233689054468.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7243001233689054468.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7243001233689054468",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-23T13:52:57+08:00",
+    "last_seen_at": "2026-10-23T13:52:57+08:00",
+    "fetch_runs": [
+      "2026-10-23"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7243001233689054468.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-23/7243001233689054468.mp3",
+      "source": "download",
+      "processed_at": "2026-10-23T13:55:23+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7243001233689054468",
+      "transcript_raw": "漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥补充信息：漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥关键词：平遥古城、平遥古城旅游攻略、古城、山西旅游、山西平遥",
+      "transcript_clean": "漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥补充信息：漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥关键词：平遥古城、平遥古城旅游攻略、古城、山西旅游、山西平遥",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-23/7243001233689054468.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "analysis": {
+      "video_id": "7243001233689054468",
+      "summary": "目标博主 1围绕“平遥古城”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥。漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥补充信息：漫游平遥古城，打卡特色景点和美食 #平遥古城 #平遥古城旅游攻略 #古城 #山西旅游 #山西平遥关键词：平遥古城、平遥古城旅游攻略、古城、山西旅游、山西平遥 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "平遥古城为什么总是做不出来结果？",
+        "先把平遥古城旅游攻略想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕平遥古城组织标题与开头。",
+        "用平遥古城旅游攻略和古城补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "平遥古城",
+        "平遥古城旅游攻略",
+        "古城"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-23/7243001233689054468.json",
+      "processed_at": "2026-10-23T13:59:23+08:00"
+    },
+    "last_error": null
   }
 }
