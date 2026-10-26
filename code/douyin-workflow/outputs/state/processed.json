@@ -65125,5 +65125,637 @@
       "processed_at": "2026-10-25T13:57:54+08:00"
     },
     "last_error": null
+  },
+  "7700382684594458217": {
+    "video_id": "7700382684594458217",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "春季高考单招培训王老师",
+      "video_id": "7700382684594458217",
+      "title": "春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考",
+      "publish_time": "2026-10-25T07:37:38+08:00",
+      "video_url": "https://www.douyin.com/video/7700382684594458217",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oUI9ADqAUDmsEgedDAA703FjGZBBygfsEQARtU~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108350800&x-signature=oU9qtfS%2BCouMuj1VkJAhxYNI3sQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261026135458BE285DE276C18BD0F373",
+      "like_count": 11,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考",
+      "text_hint": "春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考",
+      "topic_tags": [
+        "春考复读学校",
+        "春季高考",
+        "单招培训",
+        "职普融通",
+        "高中转春考",
+        "高中转中职"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8084b334ee467714aa4f95d15465eddb/6adf159e/video/tos/cn/tos-cn-ve-15/os0sEDAQ8WFUASgfAgsdtDqWQf973A8EEIyBgo/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1484&bt=1484&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wzQQFHhd..mn6V03-ApQX&mime_type=video_mp4&qs=0&rc=NmZkNjw4NztlOTRpaDNoM0BpM3Q4OHA5cjtuZTMzNGkzM0AvMzQ1YS82XzYxNGAyYjI0YSNjb2tfMmQ0LWJhLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1792994098&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261026135458BE285DE276C18BD0F373",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7700382684594458217.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7700382684594458217.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 60.934,
+      "raw_payload": {
+        "aweme_id": "7700382684594458217",
+        "author_uid": "1249509575503576",
+        "sec_uid": "MS4wLjABAAAAyGMaSR6mC-N2h1ANhULq4dXwu-1qU5NAvG7eX6wh36spG70LUcOKXYUOx4MtSOuZ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAyGMaSR6mC-N2h1ANhULq4dXwu-1qU5NAvG7eX6wh36spG70LUcOKXYUOx4MtSOuZ"
+      }
+    },
+    "first_seen_at": "2026-10-26T13:54:45+08:00",
+    "last_seen_at": "2026-10-26T13:54:45+08:00",
+    "fetch_runs": [
+      "2026-10-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7700382684594458217.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7700382684594458217.mp3",
+      "source": "download",
+      "processed_at": "2026-10-26T13:56:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7700382684594458217",
+      "transcript_raw": "春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考补充信息：春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考关键词：春考复读学校、春季高考、单招培训、职普融通、高中转春考、高中转中职",
+      "transcript_clean": "春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考补充信息：春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考关键词：春考复读学校、春季高考、单招培训、职普融通、高中转春考、高中转中职",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-26/7700382684594458217.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7700382684594458217",
+      "summary": "春季高考单招培训王老师围绕“春考复读学校”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考。春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考补充信息：春考生早读日常 #春考复读学校 #春季高考#单招培训#职普融通#高中转中职 #高中转春考关键词：春考复读学校、春季高考、单招培训、职普融通、高中转春考、高中转中职 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "春考复读学校为什么总是做不出来结果？",
+        "先把春季高考想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕春考复读学校组织标题与开头。",
+        "用春季高考和单招培训补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "春考复读学校",
+        "春季高考",
+        "单招培训"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-26/7700382684594458217.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "last_error": null
+  },
+  "7624205071085778803": {
+    "video_id": "7624205071085778803",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "湖南经视",
+      "video_id": "7624205071085778803",
+      "title": "赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA",
+      "publish_time": "2026-04-03T00:49:35+08:00",
+      "video_url": "https://www.douyin.com/video/7624205071085778803",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4f67fc75ede66815e992a2c7ef89bea3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108350800&x-signature=O4764vmyRwVT5%2FO15gmt40xs%2BUQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610261355028463C03EA0806FE7BEF5",
+      "like_count": 414,
+      "comment_count": 49,
+      "share_count": 67,
+      "collect_count": 26,
+      "description": "赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA",
+      "text_hint": "赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA",
+      "topic_tags": [
+        "湘ba",
+        "马力全开湘ba",
+        "2026湘ba",
+        "湘BA",
+        "马力全开湘BA",
+        "2026湘BA"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/68e28c9583cdd08f4d8fad3eaa2faf8a/6adf157d/video/tos/cn/tos-cn-ve-15/oU6cGniseAEgA4GfDcXedNRAkL2unOeWsMIgCU/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1954&bt=1954&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wqQQFHhd..mn6V03-ApQX&mime_type=video_mp4&qs=0&rc=OWlpNDQ4Njk6Z2ZlZ2U5aEBpamg3cXE5cnE8OjMzNGkzM0A0NV5jYF9jNjMxMGFfYDExYSNmamUuMmRzbzRhLS1kLTBzcw%3D%3D&btag=c0000e00010000&cquery=100w_100B_100x_100z_100o&dy_q=1792994102&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=202610261355028463C03EA0806FE7BEF5",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7624205071085778803.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7624205071085778803.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 23.615,
+      "raw_payload": {
+        "aweme_id": "7624205071085778803",
+        "author_uid": "99506400918",
+        "sec_uid": "MS4wLjABAAAAtygxvfWzJ-FiMVgJSLAO3FHBr6KdQmPNzvPn7nVLAsI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAtygxvfWzJ-FiMVgJSLAO3FHBr6KdQmPNzvPn7nVLAsI"
+      }
+    },
+    "first_seen_at": "2026-10-26T13:54:45+08:00",
+    "last_seen_at": "2026-10-26T13:54:45+08:00",
+    "fetch_runs": [
+      "2026-10-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7624205071085778803.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7624205071085778803.mp3",
+      "source": "download",
+      "processed_at": "2026-10-26T13:56:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7624205071085778803",
+      "transcript_raw": "赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA补充信息：赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA关键词：湘ba、马力全开湘ba、2026湘ba、湘BA、马力全开湘BA、2026湘BA",
+      "transcript_clean": "赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA补充信息：赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA关键词：湘ba、马力全开湘ba、2026湘ba、湘BA、马力全开湘BA、2026湘BA",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-26/7624205071085778803.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7624205071085778803",
+      "summary": "湖南经视围绕“湘ba”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA。赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA补充信息：赛前放狠话？\n岳阳强敌来袭 对抗直接拉满\n张家界悍将表示“遇强则强” @猫仔找房 #湘BA #马力全开湘BA #2026湘BA关键词：湘ba、马力全开湘ba、2026湘ba、湘BA、马力全开湘BA、2026湘BA 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "湘ba为什么总是做不出来结果？",
+        "先把马力全开湘ba想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕湘ba组织标题与开头。",
+        "用马力全开湘ba和2026湘ba补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "湘ba",
+        "马力全开湘ba",
+        "2026湘ba"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-26/7624205071085778803.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "last_error": null
+  },
+  "7298818509189008692": {
+    "video_id": "7298818509189008692",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "雷崽吱枝✨（海岛版）",
+      "video_id": "7298818509189008692",
+      "title": "哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog",
+      "publish_time": "2023-11-08T04:24:42+08:00",
+      "video_url": "https://www.douyin.com/video/7298818509189008692",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f1b5ffbb8d87252ba9bee3955fe870ef~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108350800&x-signature=b7vRWPBSCj865YMrBXodC%2FYJzRE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261026135505F16AC26559ADC0E70C07",
+      "like_count": 55,
+      "comment_count": 22,
+      "share_count": 31,
+      "collect_count": 21,
+      "description": "哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog",
+      "text_hint": "哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog",
+      "topic_tags": [
+        "白俄罗斯",
+        "留学日常",
+        "生活vlog"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/eca73808b97420e9e6a9134ed43d5d81/6adf1624/video/tos/cn/tos-cn-ve-0015c800/oceBzfAFQr3tFKp2WydmAqCKr6IAEQQnzUnvhg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=738&bt=738&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wRQQFHhd..mn6V03-ApQX&mime_type=video_mp4&qs=0&rc=NmY5NTw3Z2VmMzQzZjppaUBpM2l3ZGQ6ZnU8bzMzNGkzM0AwMV40MDQ1NmExLzNgXzIwYSNpLnBvcjRvZzJgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1792994105&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261026135505F16AC26559ADC0E70C07",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7298818509189008692.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7298818509189008692.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 187.571,
+      "raw_payload": {
+        "aweme_id": "7298818509189008692",
+        "author_uid": "2746994340937598",
+        "sec_uid": "MS4wLjABAAAAzOQ1cQsAw77papGKqkm9CRJBLCRH9eNRMuG7SIraEK3x5AyhdnuZ5CF5NSRsy7cQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAzOQ1cQsAw77papGKqkm9CRJBLCRH9eNRMuG7SIraEK3x5AyhdnuZ5CF5NSRsy7cQ"
+      }
+    },
+    "first_seen_at": "2026-10-26T13:54:45+08:00",
+    "last_seen_at": "2026-10-26T13:54:45+08:00",
+    "fetch_runs": [
+      "2026-10-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7298818509189008692.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7298818509189008692.mp3",
+      "source": "download",
+      "processed_at": "2026-10-26T13:57:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7298818509189008692",
+      "transcript_raw": "哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog补充信息：哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog关键词：白俄罗斯、留学日常、生活vlog",
+      "transcript_clean": "哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog补充信息：哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog关键词：白俄罗斯、留学日常、生活vlog",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-26/7298818509189008692.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7298818509189008692",
+      "summary": "雷崽吱枝✨（海岛版）围绕“白俄罗斯”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog。哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog补充信息：哈哈 大懒人分享白俄跳伞攻略啦！有需要的宝子们可以点赞收藏啦！维捷跳伞地址:Новая вуліца\nвёска Новакукавячына, Ноўкінскі сельсавет, Віцебскі раён，viber :375292976655。莫吉廖夫:Могилевский аэроклуб，viber:375297481044。明斯克:http://aeroclub-minsk.by/kak-dobratsya/aerodrom-lipki（这个网址有各种交通方式详细路线），viber:375333550092#白俄罗斯 #留学日常 #生活vlog关键词：白俄罗斯、留学日常、生活vlog 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "白俄罗斯为什么总是做不出来结果？",
+        "先把留学日常想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕白俄罗斯组织标题与开头。",
+        "用留学日常和生活vlog补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "白俄罗斯",
+        "留学日常",
+        "生活vlog"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-26/7298818509189008692.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "last_error": null
+  },
+  "7300489387974954276": {
+    "video_id": "7300489387974954276",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7300489387974954276",
+      "title": "在抖音记录美好生活20261026",
+      "publish_time": "2026-10-26T13:55:59+08:00",
+      "video_url": "https://www.douyin.com/video/7300489387974954276",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261026",
+      "text_hint": "在抖音记录美好生活20261026",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ec282223-1556-4821-be4b-1ad248cf7499",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7300489387974954276",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-26T13:54:45+08:00",
+    "last_seen_at": "2026-10-26T13:54:45+08:00",
+    "fetch_runs": [
+      "2026-10-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7509832004473670923": {
+    "video_id": "7509832004473670923",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7509832004473670923",
+      "title": "《月落五百》 #超爆小故事 #女生必看 #小说 #大学生 #小说推荐",
+      "publish_time": "2025-05-29T11:47:00+08:00",
+      "video_url": "https://www.douyin.com/video/7509832004473670923",
+      "cover_url": "",
+      "like_count": 20,
+      "comment_count": 2,
+      "share_count": 21,
+      "collect_count": 0,
+      "description": "《月落五百》 #超爆小故事 #女生必看 #小说 #大学生 #小说推荐",
+      "text_hint": "《月落五百》 #超爆小故事 #女生必看 #小说 #大学生 #小说推荐",
+      "topic_tags": [
+        "超爆小故事",
+        "女生必看",
+        "小说",
+        "大学生",
+        "小说推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/425fe4be-c778-410c-acc2-940de52dafe2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7509832004473670923",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-26T13:54:45+08:00",
+    "last_seen_at": "2026-10-26T13:54:45+08:00",
+    "fetch_runs": [
+      "2026-10-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7178445807392165160": {
+    "video_id": "7178445807392165160",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "流金岁月人文分享",
+      "video_id": "7178445807392165160",
+      "title": "#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识",
+      "publish_time": "2022-12-18T19:16:04+08:00",
+      "video_url": "https://www.douyin.com/video/7178445807392165160",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6821565fb489e12f90da829cba282737~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108350800&x-signature=axSwuoTvDZCB%2Bu9wkYDvL%2BRmz9U%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610261355355B79CC0C91B8C8F701AE",
+      "like_count": 273,
+      "comment_count": 48,
+      "share_count": 12,
+      "collect_count": 48,
+      "description": "#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识",
+      "text_hint": "#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识",
+      "topic_tags": [
+        "科普一下",
+        "水浒传",
+        "四大名著"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/2a00ddc330744ec009753e0e3a742fc2/6adf163f/video/cn/mps/realtime/v1/r/p/v0d00fg10000ceffbn3c77u421i7spr0/c5e15f2418834f29849bbb649ba74f49/cfe1b8baed35d0f5d6deeac32cb8407e/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1118&bt=1118&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNNRVQ9wuSQFHhd..mn6V03-ApQX&mime_type=video_mp4&qs=0&rc=PGk6ZTdlZTc8aTY7N2k0OEBpM3M6NDc6ZnFpaDMzNGkzM0AxMV42M182NS8xNS4vMmJgYSNvcGYvcjQwX2NgLS1kLWFzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=720p&dy_q=1792994136&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7178445807392165160&l=202610261355355B79CC0C91B8C8F701AE&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7178445807392165160.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7178445807392165160.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 184.082,
+      "raw_payload": {
+        "aweme_id": "7178445807392165160",
+        "author_uid": "2739589891242132",
+        "sec_uid": "MS4wLjABAAAAJNhAopZDwZfRCb-fnpqyZZCF4EKYJ3AX71m7TWs5IIcOzS2p12xbndALB4g0XPH8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAJNhAopZDwZfRCb-fnpqyZZCF4EKYJ3AX71m7TWs5IIcOzS2p12xbndALB4g0XPH8"
+      }
+    },
+    "first_seen_at": "2026-10-26T13:54:45+08:00",
+    "last_seen_at": "2026-10-26T13:54:45+08:00",
+    "fetch_runs": [
+      "2026-10-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7178445807392165160.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7178445807392165160.mp3",
+      "source": "download",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7178445807392165160",
+      "transcript_raw": "#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识补充信息：#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识关键词：科普一下、水浒传、四大名著",
+      "transcript_clean": "#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识补充信息：#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识关键词：科普一下、水浒传、四大名著",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-26/7178445807392165160.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7178445807392165160",
+      "summary": "流金岁月人文分享围绕“科普一下”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识。#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识补充信息：#科普一下 三无英雄石秀，一无背景二无资源三无家世，为何能在梁山位列天罡#水浒传 #四大名著 @抖音正能量 @抖音知识关键词：科普一下、水浒传、四大名著 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "科普一下为什么总是做不出来结果？",
+        "先把水浒传想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕科普一下组织标题与开头。",
+        "用水浒传和四大名著补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "科普一下",
+        "水浒传",
+        "四大名著"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-26/7178445807392165160.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "last_error": null
+  },
+  "7464229323612916992": {
+    "video_id": "7464229323612916992",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "66660469451",
+      "video_id": "7464229323612916992",
+      "title": "青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中",
+      "publish_time": "2025-01-26T22:22:26+08:00",
+      "video_url": "https://www.douyin.com/video/7464229323612916992",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f5520e0caa725658d00b7bc04b0e2fa6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108350800&x-signature=OcHTh47%2Bh2hRWdpcInWhoM1LAhs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026102613553803B466B4D6B66C1F31E4",
+      "like_count": 76,
+      "comment_count": 34,
+      "share_count": 70,
+      "collect_count": 7,
+      "description": "青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中",
+      "text_hint": "青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中",
+      "topic_tags": [
+        "官渡初中"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/d91119aaaa7a4db666a9fc4ddf6175b0/6adf16ac/video/cn/mps/realtime/v1/r/p/v0200fg10000cub4917og65ucpecq1v0/86480266aad84b94b3b8486d844197de/1292785b06da8b071fd6af287da796db/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=764&bt=764&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNNRVQ9wrSQFHhd..mn6V03-ApQX&mime_type=video_mp4&qs=0&rc=aDo0N2c7OzY3ZTtkOTU7OUBpMzRmc3g5cjQ3eDMzNGkzM0BhNjE1MzFfXzYxYV4zLTE1YSNzbmJgMmQ0Nl9gLS1kLS9zcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=100x_100z_100o_100w_100B&definition=720p&dy_q=1792994138&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7464229323612916992&l=2026102613553803B466B4D6B66C1F31E4&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7464229323612916992.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7464229323612916992.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 290.688,
+      "raw_payload": {
+        "aweme_id": "7464229323612916992",
+        "author_uid": "4132383209823172",
+        "sec_uid": "MS4wLjABAAAAsPhGTkKv-r4HFU9Ipf9MZHQ1xQ_miPPfwVtHL2uiyynjXUlOSi1wI4_h0Pq4lGks",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAsPhGTkKv-r4HFU9Ipf9MZHQ1xQ_miPPfwVtHL2uiyynjXUlOSi1wI4_h0Pq4lGks"
+      }
+    },
+    "first_seen_at": "2026-10-26T13:54:45+08:00",
+    "last_seen_at": "2026-10-26T13:54:45+08:00",
+    "fetch_runs": [
+      "2026-10-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7464229323612916992.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7464229323612916992.mp3",
+      "source": "download",
+      "processed_at": "2026-10-26T13:57:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7464229323612916992",
+      "transcript_raw": "青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中补充信息：青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中关键词：官渡初中",
+      "transcript_clean": "青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中补充信息：青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中关键词：官渡初中",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-26/7464229323612916992.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7464229323612916992",
+      "summary": "66660469451围绕“官渡初中”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中。青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中补充信息：青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春！ #官渡初中关键词：官渡初中 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "官渡初中为什么总是做不出来结果？",
+        "先把青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕官渡初中组织标题与开头。",
+        "用青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春和#官渡初中青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "官渡初中",
+        "青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春",
+        "#官渡初中青春不散场，梦想正启航！在巫山县官渡初中，我们用知识作笔，书写成长的诗行；用热血为墨，绘就青春的华章。精彩课堂、活力课间、暖心师生情，每一帧都值得珍藏。快来官渡初中，解锁你的专属青春"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-26/7464229323612916992.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "last_error": null
+  },
+  "7282321352160300343": {
+    "video_id": "7282321352160300343",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7282321352160300343",
+      "title": "放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰",
+      "publish_time": "2023-09-24T09:26:00+08:00",
+      "video_url": "https://www.douyin.com/video/7282321352160300343",
+      "cover_url": "",
+      "like_count": 91,
+      "comment_count": 20,
+      "share_count": 12,
+      "collect_count": 23,
+      "description": "放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰",
+      "text_hint": "放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰",
+      "topic_tags": [
+        "水电家装水电是关键",
+        "装修工地巡检",
+        "只管努力其他交给天意",
+        "品质装修",
+        "龙港鸿浩装饰"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/21f65676cdfb394ec64cf29e5ed4eefa/6adf164e/video/tos/cn/tos-cn-ve-0015c800/owfBoHQA98IeACE6eKFn7xARwDIYbBknEQAk2t/?a=6383&br=814&bt=814&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1792994154&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9w7SQFHhd..mn6V03-ApQX&is_ssr=1&l=2026102613555482519161667A78E29BC2&lr=all&mime_type=video_mp4&qs=12&rc=Zzg6NGY0aGg4O2g4ZzU6NUBpM2x2cDQ6Zjx5bjMzNGkzM0BeNjAuMWEtX2IxLmFeX14tYSNjNWVjcjRvbDRgLS1kLS9zcw%3D%3D&__vid=7282321352160300343",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7282321352160300343.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7282321352160300343.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7282321352160300343",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-10-26T13:54:45+08:00",
+    "last_seen_at": "2026-10-26T13:54:45+08:00",
+    "fetch_runs": [
+      "2026-10-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7282321352160300343.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-26/7282321352160300343.mp3",
+      "source": "download",
+      "processed_at": "2026-10-26T13:57:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7282321352160300343",
+      "transcript_raw": "放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰补充信息：放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰关键词：水电家装水电是关键、装修工地巡检、只管努力其他交给天意、品质装修、龙港鸿浩装饰",
+      "transcript_clean": "放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰补充信息：放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰关键词：水电家装水电是关键、装修工地巡检、只管努力其他交给天意、品质装修、龙港鸿浩装饰",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-26/7282321352160300343.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "analysis": {
+      "video_id": "7282321352160300343",
+      "summary": "知雪围绕“水电家装水电是关键”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰。放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰补充信息：放心好了！扎实！硬邦邦的承诺！ 鸿浩出品，必须硬马！ 全小区那么多装修公司，不扎实，还敢出来丢人显眼啊……是不是这么说哦 #水电家装水电是关键 #装修工地巡检 #只管努力其他交给天意 #品质装修 #龙港鸿浩装饰关键词：水电家装水电是关键、装修工地巡检、只管努力其他交给天意、品质装修、龙港鸿浩装饰 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "水电家装水电是关键为什么总是做不出来结果？",
+        "先把装修工地巡检想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕水电家装水电是关键组织标题与开头。",
+        "用装修工地巡检和只管努力其他交给天意补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "水电家装水电是关键",
+        "装修工地巡检",
+        "只管努力其他交给天意"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-26/7282321352160300343.json",
+      "processed_at": "2026-10-26T13:59:04+08:00"
+    },
+    "last_error": null
   }
 }
