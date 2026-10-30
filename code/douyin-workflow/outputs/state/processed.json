@@ -66075,5 +66075,444 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7702030666632016549": {
+    "video_id": "7702030666632016549",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7702030666632016549",
+      "title": "目标博主 1 视频 7702030666632016549",
+      "publish_time": "2026-10-30T14:59:31+08:00",
+      "video_url": "https://www.douyin.com/video/7702030666632016549",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/806d69cb-47d5-45f9-958b-026f964a4ea0",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7702030666632016549",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-30T14:56:28+08:00",
+    "last_seen_at": "2026-10-30T14:56:28+08:00",
+    "fetch_runs": [
+      "2026-10-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7658185446215716115": {
+    "video_id": "7658185446215716115",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7658185446215716115",
+      "title": "目标博主 1 视频 7658185446215716115",
+      "publish_time": "2026-10-30T14:59:31+08:00",
+      "video_url": "https://www.douyin.com/video/7658185446215716115",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d930ca8b-e6e9-4bae-aeb0-fb6acf8cdfbd",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7658185446215716115",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-30T14:56:28+08:00",
+    "last_seen_at": "2026-10-30T14:56:28+08:00",
+    "fetch_runs": [
+      "2026-10-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7172749557988707596": {
+    "video_id": "7172749557988707596",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7172749557988707596",
+      "title": "目标博主 1 视频 7172749557988707596",
+      "publish_time": "2026-10-30T14:59:31+08:00",
+      "video_url": "https://www.douyin.com/video/7172749557988707596",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/6aecd657-d2bb-4890-99d1-11ac324faa40",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7172749557988707596",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-30T14:56:28+08:00",
+    "last_seen_at": "2026-10-30T14:56:28+08:00",
+    "fetch_runs": [
+      "2026-10-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7183996846522633524": {
+    "video_id": "7183996846522633524",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7183996846522633524",
+      "title": "目标博主 1 视频 7183996846522633524",
+      "publish_time": "2026-10-30T14:59:31+08:00",
+      "video_url": "https://www.douyin.com/video/7183996846522633524",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a50ff2ec-8b44-4c6c-953a-e12f2e73d3fc",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7183996846522633524",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-30T14:56:28+08:00",
+    "last_seen_at": "2026-10-30T14:56:28+08:00",
+    "fetch_runs": [
+      "2026-10-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7580974980823265891": {
+    "video_id": "7580974980823265891",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7580974980823265891",
+      "title": "伊梦本行#小说 #小说推荐 #小说推文",
+      "publish_time": "2025-12-07T04:54:00+08:00",
+      "video_url": "https://www.douyin.com/video/7580974980823265891",
+      "cover_url": "",
+      "like_count": 17,
+      "comment_count": 0,
+      "share_count": 6,
+      "collect_count": 2,
+      "description": "伊梦本行#小说 #小说推荐 #小说推文",
+      "text_hint": "伊梦本行#小说 #小说推荐 #小说推文",
+      "topic_tags": [
+        "小说",
+        "小说推荐",
+        "小说推文"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/37b6218af2a8adb7ccbc2eb3524d2248/6ae46da0/video/tos/cn/tos-cn-ve-0015c800/oMZBXxLaxQGvXAiAkUbAeeIESqIG7eRBGa3gEC/?a=6383&br=732&bt=732&btag=c0000e00038000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1793343504&feature_id=fea919893f650a8c49286568590446ef&ft=CZdgCYlIDyjNbRVQ9w0CtsHhd.VSNCM73-ApQX&is_ssr=1&l=20261030145824F3673FA3D050EE925ED7&lr=all&mime_type=video_mp4&qs=0&rc=Njg5PGg5ZzY8M2kzZTU8aUBpM3I1bWo5cjVqNzMzNGkzM0BeNTNfMTY2X2IxMF4tNmNgYSNpa20tMmRzNm5hLS1kLTBzcw%3D%3D&__vid=7580974980823265891",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-30/7580974980823265891.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-30/7580974980823265891.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7580974980823265891",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-30T14:56:28+08:00",
+    "last_seen_at": "2026-10-30T14:56:28+08:00",
+    "fetch_runs": [
+      "2026-10-30"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-30/7580974980823265891.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-30/7580974980823265891.mp3",
+      "source": "download",
+      "processed_at": "2026-10-30T15:00:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7580974980823265891",
+      "transcript_raw": "伊梦本行#小说 #小说推荐 #小说推文伊梦本行#小说 #小说推荐 #小说推文补充信息：伊梦本行#小说 #小说推荐 #小说推文关键词：小说、小说推荐、小说推文",
+      "transcript_clean": "伊梦本行#小说 #小说推荐 #小说推文伊梦本行#小说 #小说推荐 #小说推文补充信息：伊梦本行#小说 #小说推荐 #小说推文关键词：小说、小说推荐、小说推文",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-30/7580974980823265891.json",
+      "processed_at": "2026-10-30T15:02:58+08:00"
+    },
+    "analysis": {
+      "video_id": "7580974980823265891",
+      "summary": "目标博主 1围绕“小说”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "伊梦本行#小说 #小说推荐 #小说推文。伊梦本行#小说 #小说推荐 #小说推文伊梦本行#小说 #小说推荐 #小说推文补充信息：伊梦本行#小说 #小说推荐 #小说推文关键词：小说、小说推荐、小说推文 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "小说为什么总是做不出来结果？",
+        "先把小说推荐想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕小说组织标题与开头。",
+        "用小说推荐和小说推文补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "小说",
+        "小说推荐",
+        "小说推文"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-30/7580974980823265891.json",
+      "processed_at": "2026-10-30T15:02:58+08:00"
+    },
+    "last_error": null
+  },
+  "7555339170203798842": {
+    "video_id": "7555339170203798842",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7555339170203798842",
+      "title": "目标博主 1 视频 7555339170203798842",
+      "publish_time": "2026-10-30T14:59:31+08:00",
+      "video_url": "https://www.douyin.com/video/7555339170203798842",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/730ca9fa-0057-4787-aa09-1f1a5ee004f0",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7555339170203798842",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-30T14:56:28+08:00",
+    "last_seen_at": "2026-10-30T14:56:28+08:00",
+    "fetch_runs": [
+      "2026-10-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7428552884494683449": {
+    "video_id": "7428552884494683449",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7428552884494683449",
+      "title": "目标博主 1 视频 7428552884494683449",
+      "publish_time": "2026-10-30T14:59:31+08:00",
+      "video_url": "https://www.douyin.com/video/7428552884494683449",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/fe781170-c6c9-42f6-86cb-4bc5e09187a5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7428552884494683449",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-30T14:56:28+08:00",
+    "last_seen_at": "2026-10-30T14:56:28+08:00",
+    "fetch_runs": [
+      "2026-10-30"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7226570764722490682": {
+    "video_id": "7226570764722490682",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7226570764722490682",
+      "title": "冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏",
+      "publish_time": "2023-04-27T03:45:00+08:00",
+      "video_url": "https://www.douyin.com/video/7226570764722490682",
+      "cover_url": "",
+      "like_count": 54,
+      "comment_count": 27,
+      "share_count": 8,
+      "collect_count": 21,
+      "description": "冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏",
+      "text_hint": "冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏",
+      "topic_tags": [
+        "冒险岛创作者",
+        "冒险岛小知识",
+        "冒险岛",
+        "游戏解说",
+        "游戏",
+        "经典游戏"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-hl-zenl-ov.zjcdn.com/7f91711563ef55bc67d45bbadbe23b00/6ae46bc0/video/tos/cn/tos-cn-ve-0015c800/o0h7qjEFOWv3IvzPCAtMfyAEQfIN5b3yBekIKB/?a=6383&br=689&bt=689&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100J_100o_100w_100B_100D&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1793343566&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9wxntsHhd.VSNCM73-ApQX&is_ssr=1&l=2026103014592600D4001C122361D180CF&lr=all&mime_type=video_mp4&qs=1&rc=aTRmaTZoNjY7NWRmaTg3PEBpM2c7Z2g6ZnN4azMzNGkzM0AxNC4yMF4vNmExMTUyNTAvYSMzcnFtcjRfczFgLS1kLS9zcw%3D%3D&__vid=7226570764722490682",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-30/7226570764722490682.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-30/7226570764722490682.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7226570764722490682",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-30T14:56:28+08:00",
+    "last_seen_at": "2026-10-30T14:56:28+08:00",
+    "fetch_runs": [
+      "2026-10-30"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-30/7226570764722490682.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-10-30/7226570764722490682.mp3",
+      "source": "download",
+      "processed_at": "2026-10-30T15:02:58+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7226570764722490682",
+      "transcript_raw": "冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏补充信息：冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏关键词：冒险岛创作者、冒险岛小知识、冒险岛、游戏解说、游戏、经典游戏",
+      "transcript_clean": "冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏补充信息：冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏关键词：冒险岛创作者、冒险岛小知识、冒险岛、游戏解说、游戏、经典游戏",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-10-30/7226570764722490682.json",
+      "processed_at": "2026-10-30T15:02:58+08:00"
+    },
+    "analysis": {
+      "video_id": "7226570764722490682",
+      "summary": "目标博主 1围绕“冒险岛创作者”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏。冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏补充信息：冒险岛王炸级消费 #冒险岛创作者 #冒险岛小知识 #冒险岛 #游戏解说 #游戏 #经典游戏关键词：冒险岛创作者、冒险岛小知识、冒险岛、游戏解说、游戏、经典游戏 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "冒险岛创作者为什么总是做不出来结果？",
+        "先把冒险岛小知识想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕冒险岛创作者组织标题与开头。",
+        "用冒险岛小知识和冒险岛补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "冒险岛创作者",
+        "冒险岛小知识",
+        "冒险岛"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-10-30/7226570764722490682.json",
+      "processed_at": "2026-10-30T15:02:58+08:00"
+    },
+    "last_error": null
   }
 }
