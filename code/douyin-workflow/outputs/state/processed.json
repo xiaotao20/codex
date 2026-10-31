@@ -66514,5 +66514,373 @@
       "processed_at": "2026-10-30T15:02:58+08:00"
     },
     "last_error": null
+  },
+  "7702405924643720498": {
+    "video_id": "7702405924643720498",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小喜悦阅读",
+      "video_id": "7702405924643720498",
+      "title": "备战道法历史一本通，涵盖初中三年中考考点，快速精准找到答案 #好书推荐 #中考历史 #中考道法 #必考考点",
+      "publish_time": "2026-10-30T18:29:06+08:00",
+      "video_url": "https://www.douyin.com/video/7702405924643720498",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-v-c9e10a/oAN3EsC5gCx5DIqKqbQfyVFuIJAkDGfYBxCsDz~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108786400&x-signature=F35NizGfOVNI6L%2B8THtHLVC5Ouw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026103114505930263F0CF3112C2BD43D",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "备战道法历史一本通，涵盖初中三年中考考点，快速精准找到答案 #好书推荐 #中考历史 #中考道法 #必考考点",
+      "text_hint": "备战道法历史一本通，涵盖初中三年中考考点，快速精准找到答案 #好书推荐 #中考历史 #中考道法 #必考考点",
+      "topic_tags": [
+        "好书推荐",
+        "中考历史",
+        "中考道法",
+        "必考考点"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/365186347767fbe21089675b6ea70eea/6ae5ba44/video/tos/cn/tos-cn-v-c9e10a/ogyrfBBc2b7g7icV124GBQhkQIMkAZ6ERu4jiE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=2205&bt=2205&cs=0&ds=3&ft=4rzAgkIKDyjNMRVQ9wkbdsHhd.J6SRf03-ApQX&mime_type=video_mp4&qs=0&rc=aDc3PGhmOmk4Njo4ZWVnOUBpM29taW45cnY6ZTMzNDYzM0BfMjMzMC9hX2AxMTYtXjE2YSNjYS9sMmRjL2ZhLS1kMDBzcw%3D%3D&btag=80000e00028000&cquery=100o_100w_100B_102v_102u&dy_q=1793429459&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=2026103114505930263F0CF3112C2BD43D",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 65.875,
+      "raw_payload": {
+        "aweme_id": "7702405924643720498",
+        "author_uid": "108223812748",
+        "sec_uid": "MS4wLjABAAAAKkfTg3YdUAwJOhGHBCF4mFgmybPxoVQH6J_oWNq_8OI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAKkfTg3YdUAwJOhGHBCF4mFgmybPxoVQH6J_oWNq_8OI"
+      }
+    },
+    "first_seen_at": "2026-10-31T14:50:39+08:00",
+    "last_seen_at": "2026-10-31T14:50:39+08:00",
+    "fetch_runs": [
+      "2026-10-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7608589156998024463": {
+    "video_id": "7608589156998024463",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "巨星火火",
+      "video_id": "7608589156998024463",
+      "title": "刚开年就要让我追到如此夯剧！爽！#除恶开年就给犯罪剧上强度  #剧集除恶  #任素汐  #王骁  #除恶好敢拍的一部剧",
+      "publish_time": "2026-02-20T11:00:01+08:00",
+      "video_url": "https://www.douyin.com/video/7608589156998024463",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ca048698d80deaba88245f89457a66fa~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108786400&x-signature=05mhp9VgvsyKEh2CS4WubzvqcBk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610311451026D93875BD6CEA5A1D821",
+      "like_count": 2354,
+      "comment_count": 8,
+      "share_count": 390,
+      "collect_count": 172,
+      "description": "刚开年就要让我追到如此夯剧！爽！#除恶开年就给犯罪剧上强度  #剧集除恶  #任素汐  #王骁  #除恶好敢拍的一部剧",
+      "text_hint": "刚开年就要让我追到如此夯剧！爽！#除恶开年就给犯罪剧上强度  #剧集除恶  #任素汐  #王骁  #除恶好敢拍的一部剧",
+      "topic_tags": [
+        "除恶开年就给犯罪剧上强度",
+        "剧集除恶",
+        "任素汐",
+        "王骁",
+        "除恶好敢拍的一部剧"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/bbc94a30e442c3e5fa0bade49ad7ebe1/6ae5ba32/video/tos/cn/tos-cn-ve-0015c800/oM82QDfdeflMkPtv6KEeIWiqAgXoCmAIX0M0ZQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1414&bt=1414&cs=0&ds=4&ft=4rzAgkIKDyjNMRVQ9wgbdsHhd.J6SRf03-ApQX&mime_type=video_mp4&qs=0&rc=ZTlmZGdlNjs7OzQ0MztoM0Bpamg1cHk5cnZsOTMzNGkzM0AvYWMtMzM2XmAxXmExMy1hYSNrbm9vMmRrNF9hLS1kLWFzcw%3D%3D&btag=c0000e00020000&cquery=100o_100w_100B_100H_100K&dy_q=1793429462&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202610311451026D93875BD6CEA5A1D821",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 44.609,
+      "raw_payload": {
+        "aweme_id": "7608589156998024463",
+        "author_uid": "102194944407",
+        "sec_uid": "MS4wLjABAAAA14MFPk831T9Dns8Burfns5bGbQvPd7YuRCN_h4xoF1g",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA14MFPk831T9Dns8Burfns5bGbQvPd7YuRCN_h4xoF1g"
+      }
+    },
+    "first_seen_at": "2026-10-31T14:50:39+08:00",
+    "last_seen_at": "2026-10-31T14:50:39+08:00",
+    "fetch_runs": [
+      "2026-10-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7060306561071090983": {
+    "video_id": "7060306561071090983",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "冲哥瞰天下",
+      "video_id": "7060306561071090983",
+      "title": "俄到底是东方，还是西方？信仰东正教，却被蒙古人统治了400年",
+      "publish_time": "2022-02-03T10:37:58+08:00",
+      "video_url": "https://www.douyin.com/video/7060306561071090983",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/83f579bdbfb31f752eda434049ffebde~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108786400&x-signature=fliZoEpe7Rv%2FRaeN6b9%2Bfolk6Bg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261031145105C979C1F0BD9DE48F0FAB",
+      "like_count": 824,
+      "comment_count": 22,
+      "share_count": 43,
+      "collect_count": 95,
+      "description": "俄到底是东方，还是西方？信仰东正教，却被蒙古人统治了400年",
+      "text_hint": "俄到底是东方，还是西方？信仰东正教，却被蒙古人统治了400年",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/987365654e5526cafa6089f0fd910a73/6ae5bb3c/video/tos/cn/tos-cn-ve-0015c800/e96c1b3ce48a4c908d894c45dcdf28a3/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1750&bt=1750&cs=0&ds=4&ft=4rzAgkIKDyjNMRVQ9whbdsHhd.J6SRf03-ApQX&mime_type=video_mp4&qs=0&rc=OmlnaTppZDtpO2ZmOGg2M0BpMzU3a2k6ZjRuOjMzNGkzM0BiMDYyXi8yXzMxMzQxYDYxYSNtaTU0cjRnLXFgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=102u_100o_100w_100B_100D&dy_q=1793429465&l=20261031145105C979C1F0BD9DE48F0FAB",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 307.994,
+      "raw_payload": {
+        "aweme_id": "7060306561071090983",
+        "author_uid": "3060631635762856",
+        "sec_uid": "MS4wLjABAAAAf48wzyWRWQrNEF66GOJEHtP4N1DNXlY3K2IrirVQlWXGPtHTWQOrqrz2eLwmX6su",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAf48wzyWRWQrNEF66GOJEHtP4N1DNXlY3K2IrirVQlWXGPtHTWQOrqrz2eLwmX6su"
+      }
+    },
+    "first_seen_at": "2026-10-31T14:50:39+08:00",
+    "last_seen_at": "2026-10-31T14:50:39+08:00",
+    "fetch_runs": [
+      "2026-10-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7093379373083938062": {
+    "video_id": "7093379373083938062",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "巅峰玩家",
+      "video_id": "7093379373083938062",
+      "title": "5月购机推荐第四期：7000预算选啥游戏本，游戏剪辑渲染办公学习通吃 #笔记本电脑推荐 #游戏本推荐 #电脑推荐",
+      "publish_time": "2022-05-03T13:35:15+08:00",
+      "video_url": "https://www.douyin.com/video/7093379373083938062",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b6d631a6f360da8be417d152907191f3~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108786400&x-signature=ayVkENdkwFLhvxftu0eP7yvScQ8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202610311451087DE9190850BC1014FD37",
+      "like_count": 18871,
+      "comment_count": 1827,
+      "share_count": 3290,
+      "collect_count": 2793,
+      "description": "5月购机推荐第四期：7000预算选啥游戏本，游戏剪辑渲染办公学习通吃 #笔记本电脑推荐 #游戏本推荐 #电脑推荐",
+      "text_hint": "5月购机推荐第四期：7000预算选啥游戏本，游戏剪辑渲染办公学习通吃 #笔记本电脑推荐 #游戏本推荐 #电脑推荐",
+      "topic_tags": [
+        "笔记本电脑推荐",
+        "游戏本推荐",
+        "电脑推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/9c6594ef68df859a153de34310aa894b/6ae5bacc/video/tos/cn/tos-cn-ve-0015c800/0fdc61be76444b96b7e7eb44da00db3d/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=832&bt=832&cs=0&ds=4&ft=4rzAgkIKDyjNMRVQ9wdbdsHhd.J6SRf03-ApQX&mime_type=video_mp4&qs=0&rc=Z2U0ZTk7OztkaDMzOjw7O0BpM2R2eGQ6ZmtlPDMzNGkzM0BiYV4tLi1eNmIxMjMtYzQtYSM1XjJlcjQwLWxgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100o_100w_100B_100H_102u&dy_q=1793429468&l=202610311451087DE9190850BC1014FD37",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 192.58,
+      "raw_payload": {
+        "aweme_id": "7093379373083938062",
+        "author_uid": "1547767684011732",
+        "sec_uid": "MS4wLjABAAAAUCcgatwyX0XjFFun0ZjIp7lGgLD6nnMPeiTiCMW6TRJOE2TvFCw-DL0aXH4jNCUJ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAUCcgatwyX0XjFFun0ZjIp7lGgLD6nnMPeiTiCMW6TRJOE2TvFCw-DL0aXH4jNCUJ"
+      }
+    },
+    "first_seen_at": "2026-10-31T14:50:39+08:00",
+    "last_seen_at": "2026-10-31T14:50:39+08:00",
+    "fetch_runs": [
+      "2026-10-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7588318653830599622": {
+    "video_id": "7588318653830599622",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7588318653830599622",
+      "title": "在抖音记录美好生活20261031",
+      "publish_time": "2026-10-31T14:51:29+08:00",
+      "video_url": "https://www.douyin.com/video/7588318653830599622",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261031",
+      "text_hint": "在抖音记录美好生活20261031",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0e086209-f302-4bd4-aba0-9414731ac9fa",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7588318653830599622",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-31T14:50:39+08:00",
+    "last_seen_at": "2026-10-31T14:50:39+08:00",
+    "fetch_runs": [
+      "2026-10-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7172751063362063619": {
+    "video_id": "7172751063362063619",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "明月皎皎",
+      "video_id": "7172751063362063619",
+      "title": "乌克兰歌曲：ПЛАКАЛА 《哭泣》，断掉退路泪撒汪洋！ #精彩片段 #高分电影 #音乐推荐 #经典",
+      "publish_time": "2022-12-03T10:58:06+08:00",
+      "video_url": "https://www.douyin.com/video/7172751063362063619",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/9674d836e9e922f256b804548516f2c7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108786400&x-signature=EmNzoSDAnha%2F%2BUXuqiSgSHrrnRY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261031145118B4F6625172BE71147640",
+      "like_count": 427,
+      "comment_count": 6,
+      "share_count": 364,
+      "collect_count": 289,
+      "description": "乌克兰歌曲：ПЛАКАЛА 《哭泣》，断掉退路泪撒汪洋！ #精彩片段 #高分电影 #音乐推荐 #经典",
+      "text_hint": "乌克兰歌曲：ПЛАКАЛА 《哭泣》，断掉退路泪撒汪洋！ #精彩片段 #高分电影 #音乐推荐 #经典",
+      "topic_tags": [
+        "精彩片段",
+        "高分电影",
+        "音乐推荐",
+        "经典"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/bb755f4b76560e0b1172878a8509396c/6ae5baf4/video/cn/mps/realtime/v1/r/p/v0300fg10000ce5bmfrc77u277ft99j0/a1d65e5d52874ecfbdaa726fb9900974/70fc6ffc087fda07235e010019897c8c/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=704&bt=704&cs=0&ds=3&eid=64256&ft=4rzAgkIKDyjNMRVQ9wWbdsHhd.J6SRf03-ApQX&mime_type=video_mp4&qs=0&rc=NzwzPGk1ZGdpaDo1Z2g5NEBpMzx3OjU6ZmllaDMzNGkzM0A0LTZfMzReX2AxNTIyMmFeYSNnNmM0cjRvajJgLS1kLTBzcw%3D%3D&btag=80000e00028000&codec=h264&cquery=100w_100B_100D_100J_100o&definition=720p&dy_q=1793429478&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7172751063362063619&l=20261031145118B4F6625172BE71147640&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 222.818,
+      "raw_payload": {
+        "aweme_id": "7172751063362063619",
+        "author_uid": "85617253706",
+        "sec_uid": "MS4wLjABAAAAg7XcUcRnbnzsW5G6ZnJv6jiuAlXaXPSfSetFI7rOgKw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAg7XcUcRnbnzsW5G6ZnJv6jiuAlXaXPSfSetFI7rOgKw"
+      }
+    },
+    "first_seen_at": "2026-10-31T14:50:39+08:00",
+    "last_seen_at": "2026-10-31T14:50:39+08:00",
+    "fetch_runs": [
+      "2026-10-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7461529848742284596": {
+    "video_id": "7461529848742284596",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "老船长(Q欧儿)",
+      "video_id": "7461529848742284596",
+      "title": "#船长 #lol #王者局  这王者豹女很过分，你们怎么看？",
+      "publish_time": "2025-01-19T15:47:25+08:00",
+      "video_url": "https://www.douyin.com/video/7461529848742284596",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3b7a8bed5110bebe27ae074a7859a86e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2108786400&x-signature=TB1gdBzHOZ83gHZ%2FtoetvgbAcnk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026103114512117B0BCCBB59AD1074BCC",
+      "like_count": 3288,
+      "comment_count": 104,
+      "share_count": 39,
+      "collect_count": 51,
+      "description": "#船长 #lol #王者局  这王者豹女很过分，你们怎么看？",
+      "text_hint": "#船长 #lol #王者局  这王者豹女很过分，你们怎么看？",
+      "topic_tags": [
+        "船长",
+        "lol",
+        "王者局"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/a43ad35244e1e0b085fbc0ad0755e802/6ae5baf9/video/tos/cn/tos-cn-ve-0015c800/o8ECGv1A6VKGTugNhWe77leuBlBLMrIPAQiIeN/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1583&bt=1583&cs=0&ds=4&ft=4rzAgkIKDyjNMRVQ9wCbdsHhd.J6SRf03-ApQX&mime_type=video_mp4&qs=0&rc=aTtlNmg4ZGQ0ZTxmOGQ1OUBpamxkdXI5cm5keDMzNGkzM0BeMy82LTM2X18xYmBeYDQyYSNscl4yMmRrbzNgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1793429481&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026103114512117B0BCCBB59AD1074BCC",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 224.884,
+      "raw_payload": {
+        "aweme_id": "7461529848742284596",
+        "author_uid": "77173847535",
+        "sec_uid": "MS4wLjABAAAAWsZoFY7jD_YIF0HrjhhiPYt1RopCPV3FxSiCjNgAtuE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWsZoFY7jD_YIF0HrjhhiPYt1RopCPV3FxSiCjNgAtuE"
+      }
+    },
+    "first_seen_at": "2026-10-31T14:50:39+08:00",
+    "last_seen_at": "2026-10-31T14:50:39+08:00",
+    "fetch_runs": [
+      "2026-10-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7469324486089788709": {
+    "video_id": "7469324486089788709",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7469324486089788709",
+      "title": "在抖音记录美好生活20261031",
+      "publish_time": "2026-10-31T14:51:29+08:00",
+      "video_url": "https://www.douyin.com/video/7469324486089788709",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261031",
+      "text_hint": "在抖音记录美好生活20261031",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c7f4d229-2809-48f3-80ce-4936ffb9306f",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7469324486089788709",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-10-31T14:50:39+08:00",
+    "last_seen_at": "2026-10-31T14:50:39+08:00",
+    "fetch_runs": [
+      "2026-10-31"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
