@@ -66882,5 +66882,357 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7702984635847806244": {
+    "video_id": "7702984635847806244",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7702984635847806244",
+      "title": "目标博主 1 视频 7702984635847806244",
+      "publish_time": "2026-11-01T15:19:37+08:00",
+      "video_url": "https://www.douyin.com/video/7702984635847806244",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/32c275a0-a137-4acf-8846-f57573ca1cf6",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7702984635847806244",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-01T15:16:38+08:00",
+    "last_seen_at": "2026-11-01T15:16:38+08:00",
+    "fetch_runs": [
+      "2026-11-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7581816187953138978": {
+    "video_id": "7581816187953138978",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7581816187953138978",
+      "title": "目标博主 1 视频 7581816187953138978",
+      "publish_time": "2026-11-01T15:19:37+08:00",
+      "video_url": "https://www.douyin.com/video/7581816187953138978",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/9bc1d7cb-c5e3-4ae1-b0ca-e8abfb78311d",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7581816187953138978",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-01T15:16:38+08:00",
+    "last_seen_at": "2026-11-01T15:16:38+08:00",
+    "fetch_runs": [
+      "2026-11-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7384579606398979365": {
+    "video_id": "7384579606398979365",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7384579606398979365",
+      "title": "目标博主 1 视频 7384579606398979365",
+      "publish_time": "2026-11-01T15:19:37+08:00",
+      "video_url": "https://www.douyin.com/video/7384579606398979365",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a68486f1-7b60-4083-ae57-84fff5649abb",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7384579606398979365",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-01T15:16:38+08:00",
+    "last_seen_at": "2026-11-01T15:16:38+08:00",
+    "fetch_runs": [
+      "2026-11-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7379488063216422154": {
+    "video_id": "7379488063216422154",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7379488063216422154",
+      "title": "目标博主 1 视频 7379488063216422154",
+      "publish_time": "2026-11-01T15:19:37+08:00",
+      "video_url": "https://www.douyin.com/video/7379488063216422154",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/862446c2-f02b-4667-afde-f20c5a1e5c92",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7379488063216422154",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-01T15:16:38+08:00",
+    "last_seen_at": "2026-11-01T15:16:38+08:00",
+    "fetch_runs": [
+      "2026-11-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7473789901901679912": {
+    "video_id": "7473789901901679912",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7473789901901679912",
+      "title": "📖《诗野拯救》#女性安全 #女性 #拯救书荒",
+      "publish_time": "2025-02-21T08:42:00+08:00",
+      "video_url": "https://www.douyin.com/video/7473789901901679912",
+      "cover_url": "",
+      "like_count": 6,
+      "comment_count": 3,
+      "share_count": 3,
+      "collect_count": 2,
+      "description": "📖《诗野拯救》#女性安全 #女性 #拯救书荒",
+      "text_hint": "📖《诗野拯救》#女性安全 #女性 #拯救书荒",
+      "topic_tags": [
+        "女性安全",
+        "女性",
+        "拯救书荒"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a3790482-f421-48ee-acdc-21956a708e85",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7473789901901679912",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-01T15:16:38+08:00",
+    "last_seen_at": "2026-11-01T15:16:38+08:00",
+    "fetch_runs": [
+      "2026-11-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7457553928943570202": {
+    "video_id": "7457553928943570202",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7457553928943570202",
+      "title": "目标博主 1 视频 7457553928943570202",
+      "publish_time": "2026-11-01T15:19:37+08:00",
+      "video_url": "https://www.douyin.com/video/7457553928943570202",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d89454cf-1a10-4563-8b57-0ad668e10a9e",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7457553928943570202",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-01T15:16:38+08:00",
+    "last_seen_at": "2026-11-01T15:16:38+08:00",
+    "fetch_runs": [
+      "2026-11-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7524511779930885436": {
+    "video_id": "7524511779930885436",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7524511779930885436",
+      "title": "目标博主 1 视频 7524511779930885436",
+      "publish_time": "2026-11-01T15:19:37+08:00",
+      "video_url": "https://www.douyin.com/video/7524511779930885436",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d7bb605f-8517-4d5c-b9ea-1cc351f8bea8",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7524511779930885436",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-01T15:16:38+08:00",
+    "last_seen_at": "2026-11-01T15:16:38+08:00",
+    "fetch_runs": [
+      "2026-11-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7360237834588015899": {
+    "video_id": "7360237834588015899",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7360237834588015899",
+      "title": "姐妹们最新的拉伸全套视频赶紧来收藏吧#身材管理是女人一生的必修课 #让健身成为一种习惯 #好身材练起来",
+      "publish_time": "2024-04-21T08:42:00+08:00",
+      "video_url": "https://www.douyin.com/video/7360237834588015899",
+      "cover_url": "",
+      "like_count": 3437,
+      "comment_count": 208,
+      "share_count": 3013,
+      "collect_count": 1539,
+      "description": "姐妹们最新的拉伸全套视频赶紧来收藏吧#身材管理是女人一生的必修课 #让健身成为一种习惯 #好身材练起来",
+      "text_hint": "姐妹们最新的拉伸全套视频赶紧来收藏吧#身材管理是女人一生的必修课 #让健身成为一种习惯 #好身材练起来",
+      "topic_tags": [
+        "身材管理是女人一生的必修课",
+        "让健身成为一种习惯",
+        "好身材练起来"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-web.douyinvod.com/9feef47793d7995d07d4f55771b99b34/6ae713a1/video/tos/cn/tos-cn-ve-15/o8IA2fmoMBKiAdzYEtd0tNQgh2iM1JG6BwfA9P/?a=6383&br=239&bt=239&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1793517572&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=_nmGT-WHDyjNMRVQ9wiJQsHhd.5wza103-ApQX&is_ssr=1&l=20261101151932BCC0AB3F7FDBF1FCC5D5&lr=all&mime_type=video_mp4&qs=12&rc=Njg4Ozc2ZjY0ODxlZzRoaEBpajVuNjk6ZndmcjMzNGkzM0A2MDMvMWAzNS0xNWI0NmEvYSNuMDBocjRfc2ZgLS1kLWFzcw%3D%3D&__vid=7360237834588015899",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7360237834588015899",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-01T15:16:38+08:00",
+    "last_seen_at": "2026-11-01T15:16:38+08:00",
+    "fetch_runs": [
+      "2026-11-01"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
   }
 }
