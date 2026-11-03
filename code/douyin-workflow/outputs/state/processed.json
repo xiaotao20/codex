@@ -67234,5 +67234,624 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7584366414405373219": {
+    "video_id": "7584366414405373219",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "咸宁广播电视台",
+      "video_id": "7584366414405373219",
+      "title": "勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发",
+      "publish_time": "2025-12-16T22:15:00+08:00",
+      "video_url": "https://www.douyin.com/video/7584366414405373219",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0d23d581829a1e3a60ddfdf3da936bd8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109049200&x-signature=gpcnaHHLBtzSK7MU%2FYl5z%2F%2F5FmQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611031545467D35D3C0DB61A7202477",
+      "like_count": 41,
+      "comment_count": 2,
+      "share_count": 1,
+      "collect_count": 3,
+      "description": "勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发",
+      "text_hint": "勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/75881f98772111d9f9d518df024b08e6/6ae9bb70/video/tos/cn/tos-cn-ve-0015c800/ogsiACBE9NffuUtCFgQR6E6QIAAp23DkTUTAFB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1068&bt=1068&cs=0&ds=3&ft=CZdgCYlIDyjNJsVQ9w7XHzHhd.UTvRD03-ApQX&mime_type=video_mp4&qs=0&rc=OGYzOTtkaGRoZGc0ZDc6ZEBpMzV0OnU5cjhrODMzNGkzM0BjMWE2MTEtNTYxYS9jYDQ2YSMucXJkMmQ0Xi1hLS1kLWFzcw%3D%3D&btag=c0000e00010000&cquery=100w_100B_100x_100z_100o&dy_q=1793691946&feature_id=fea919893f650a8c49286568590446ef&l=202611031545467D35D3C0DB61A7202477",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7584366414405373219.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7584366414405373219.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 22.371,
+      "raw_payload": {
+        "aweme_id": "7584366414405373219",
+        "author_uid": "111360670427",
+        "sec_uid": "MS4wLjABAAAAyokQ21uZWeJF7plkOhHSPrbROYrv-fLVewxFufsiE4I",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAyokQ21uZWeJF7plkOhHSPrbROYrv-fLVewxFufsiE4I"
+      }
+    },
+    "first_seen_at": "2026-11-03T15:45:26+08:00",
+    "last_seen_at": "2026-11-03T15:45:26+08:00",
+    "fetch_runs": [
+      "2026-11-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7584366414405373219.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7584366414405373219.mp3",
+      "source": "download",
+      "processed_at": "2026-11-03T15:46:39+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7584366414405373219",
+      "transcript_raw": "勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发补充信息：勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发",
+      "transcript_clean": "勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发补充信息：勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-03/7584366414405373219.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7584366414405373219",
+      "summary": "咸宁广播电视台围绕“勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发补充信息：勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发。勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发补充信息：勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发补充信息：勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发补充信息：勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发补充信息：勇敢且善良！8岁男孩主动蓄发两年，现已把头发剪掉，准备将长发捐给癌症患者做假发",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-03/7584366414405373219.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "last_error": null
+  },
+  "7012531346446847262": {
+    "video_id": "7012531346446847262",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "《李洋洋》",
+      "video_id": "7012531346446847262",
+      "title": "粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人",
+      "publish_time": "2021-09-27T16:43:08+08:00",
+      "video_url": "https://www.douyin.com/video/7012531346446847262",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/806fb8d8efd9ae3cbe5a122854e1259e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109049200&x-signature=cSITysvSylc2VrMYhCz%2B4rGhZI8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261103154548748BB2B885AD5C169712",
+      "like_count": 6982,
+      "comment_count": 288,
+      "share_count": 1171,
+      "collect_count": 937,
+      "description": "粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人",
+      "text_hint": "粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人",
+      "topic_tags": [
+        "粉蒸肥肠",
+        "抖音美食创作人"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/de5324119882fd7fdb092a104bc67fb6/6ae9bc13/video/tos/cn/tos-cn-ve-15/1b09b8b1959740e8ae77bc41b7804bb2/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4302&bt=4302&cs=0&ds=4&ft=CZdgCYlIDyjNJsVQ9wVXHzHhd.UTvRD03-ApQX&mime_type=video_mp4&qs=0&rc=aDg8O2VnZDNpNDo3ZDVlZkBpajw5ajk6ZnhyODMzNGkzM0AtNDBjYS4uNjIxLS4uMF4zYSNjYl4tcjRvMDVgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_102u_100o&dy_q=1793691948&l=20261103154548748BB2B885AD5C169712",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7012531346446847262.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7012531346446847262.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 183.715,
+      "raw_payload": {
+        "aweme_id": "7012531346446847262",
+        "author_uid": "3091472232751355",
+        "sec_uid": "MS4wLjABAAAASeRS2ug-UwopqCe1kTJ6OLP588YbwFszBlV7OqcCY1eWTO7FrdcPJqwZ5JLJEdPX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAASeRS2ug-UwopqCe1kTJ6OLP588YbwFszBlV7OqcCY1eWTO7FrdcPJqwZ5JLJEdPX"
+      }
+    },
+    "first_seen_at": "2026-11-03T15:45:26+08:00",
+    "last_seen_at": "2026-11-03T15:45:26+08:00",
+    "fetch_runs": [
+      "2026-11-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7012531346446847262.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7012531346446847262.mp3",
+      "source": "download",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7012531346446847262",
+      "transcript_raw": "粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人补充信息：粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人关键词：粉蒸肥肠、抖音美食创作人",
+      "transcript_clean": "粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人补充信息：粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人关键词：粉蒸肥肠、抖音美食创作人",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-03/7012531346446847262.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7012531346446847262",
+      "summary": "《李洋洋》围绕“粉蒸肥肠”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人。粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人补充信息：粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠 #抖音美食创作人关键词：粉蒸肥肠、抖音美食创作人 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "粉蒸肥肠为什么总是做不出来结果？",
+        "先把抖音美食创作人想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕粉蒸肥肠组织标题与开头。",
+        "用抖音美食创作人和粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "粉蒸肥肠",
+        "抖音美食创作人",
+        "粉蒸猪大肠有的人说是江西菜，也有人说是湖南菜，又有人说是四川菜，我也不知道具体是哪里菜，反正吃是挺好吃的#粉蒸肥肠"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-03/7012531346446847262.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "last_error": null
+  },
+  "7123112870396579103": {
+    "video_id": "7123112870396579103",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "杨广宁·",
+      "video_id": "7123112870396579103",
+      "title": "教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野",
+      "publish_time": "2022-07-22T18:00:11+08:00",
+      "video_url": "https://www.douyin.com/video/7123112870396579103",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ba4b2d8e018d246091909b8fb41416f2~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109049200&x-signature=nSQ2L%2BWpRpfdF9juppEE%2BllqTjQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611031545501C479947EDBC85EEAAD9",
+      "like_count": 199876,
+      "comment_count": 2953,
+      "share_count": 2264,
+      "collect_count": 11124,
+      "description": "教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野",
+      "text_hint": "教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野",
+      "topic_tags": [
+        "六六教练",
+        "越野"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8999fa5f33d5ea422892d687dc1c2854/6ae9bc33/video/tos/cn/tos-cn-ve-15c001-alinc2/e3731cda13ce4c7bb1f728f362bc74f5/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4610&bt=4610&cs=0&ds=4&ft=CZdgCYlIDyjNJsVQ9wjXHzHhd.UTvRD03-ApQX&mime_type=video_mp4&qs=0&rc=ZGU3Z2c2ZGg5OzQ8NDQ0aEBpM2pyOzk6Znk4ZTMzNGkzM0AwMTAwYzVgNWIxMzUzNmFhYSNoNmo1cjRvLWFgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100x_102u_100o_100w_100B&dy_q=1793691950&l=202611031545501C479947EDBC85EEAAD9",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7123112870396579103.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7123112870396579103.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 213.6,
+      "raw_payload": {
+        "aweme_id": "7123112870396579103",
+        "author_uid": "378690269101908",
+        "sec_uid": "MS4wLjABAAAAf7AT8mo5CH1mdlQfgqUCO91jQRr9DXI40sXEy1c3Iwc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAf7AT8mo5CH1mdlQfgqUCO91jQRr9DXI40sXEy1c3Iwc"
+      }
+    },
+    "first_seen_at": "2026-11-03T15:45:26+08:00",
+    "last_seen_at": "2026-11-03T15:45:26+08:00",
+    "fetch_runs": [
+      "2026-11-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7123112870396579103.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7123112870396579103.mp3",
+      "source": "download",
+      "processed_at": "2026-11-03T15:49:51+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7123112870396579103",
+      "transcript_raw": "教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野补充信息：教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野关键词：六六教练、越野",
+      "transcript_clean": "教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野补充信息：教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野关键词：六六教练、越野",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-03/7123112870396579103.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7123112870396579103",
+      "summary": "杨广宁·围绕“六六教练”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野。教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野补充信息：教练请假出去越野 没想到是跟她妈妈一起去的 真是太尴尬了#六六教练 #越野关键词：六六教练、越野 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "六六教练为什么总是做不出来结果？",
+        "先把越野想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕六六教练组织标题与开头。",
+        "用越野和没想到是跟她妈妈一起去的补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "六六教练",
+        "越野",
+        "没想到是跟她妈妈一起去的"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-03/7123112870396579103.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "last_error": null
+  },
+  "7517313953320553743": {
+    "video_id": "7517313953320553743",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7517313953320553743",
+      "title": "#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！",
+      "publish_time": "2025-06-18T15:37:00+08:00",
+      "video_url": "https://www.douyin.com/video/7517313953320553743",
+      "cover_url": "",
+      "like_count": 59,
+      "comment_count": 2,
+      "share_count": 19,
+      "collect_count": 5,
+      "description": "#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！",
+      "text_hint": "#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！",
+      "topic_tags": [
+        "每天跟我涨知识",
+        "物理",
+        "中考物理",
+        "中考",
+        "期末考试"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/98b4ede8587301aa9552655795967a23/6ae9bc46/video/tos/cn/tos-cn-ve-0015c800/oAxKNIfEBQi4WBsCgivBAJQ27i1VD0AAt5YebU/?a=6383&br=146&bt=146&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1793691967&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNJsVQ9wGXHzHhd.UTvRD03-ApQX&is_ssr=1&l=202611031546065453E6FC59EA232E9031&lr=all&mime_type=video_mp4&qs=1&rc=aTs2Ozo1ZmRnZzo8ODQ0M0BpMzU2b3M5cnlnNDMzNGkzM0A2LTZiNmI2NjIxNV40MTJiYSNgal5uMmRrbDZhLS1kLWFzcw%3D%3D&__vid=7517313953320553743",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7517313953320553743.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7517313953320553743.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7517313953320553743",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-03T15:45:26+08:00",
+    "last_seen_at": "2026-11-03T15:45:26+08:00",
+    "fetch_runs": [
+      "2026-11-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7517313953320553743.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7517313953320553743.mp3",
+      "source": "download",
+      "processed_at": "2026-11-03T15:46:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7517313953320553743",
+      "transcript_raw": "#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！补充信息：#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！关键词：每天跟我涨知识、物理、中考物理、中考、期末考试",
+      "transcript_clean": "#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！补充信息：#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！关键词：每天跟我涨知识、物理、中考物理、中考、期末考试",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-03/7517313953320553743.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7517313953320553743",
+      "summary": "知雪围绕“每天跟我涨知识”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！。#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！补充信息：#每天跟我涨知识 #物理 #中考物理 #中考 #期末考试 快来学物理！听滑轮组，睡得香！关键词：每天跟我涨知识、物理、中考物理、中考、期末考试 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "每天跟我涨知识为什么总是做不出来结果？",
+        "先把物理想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕每天跟我涨知识组织标题与开头。",
+        "用物理和中考物理补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "每天跟我涨知识",
+        "物理",
+        "中考物理"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-03/7517313953320553743.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "last_error": null
+  },
+  "7394397742673513769": {
+    "video_id": "7394397742673513769",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "雄歌唱晚",
+      "video_id": "7394397742673513769",
+      "title": "本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。",
+      "publish_time": "2024-07-22T17:59:54+08:00",
+      "video_url": "https://www.douyin.com/video/7394397742673513769",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/47c1a2f72dff31877f4c51e16726829f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109049200&x-signature=pgC2OMwhSeqQbya7u%2FFYZyAbAyk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026110315461451D324D7A7BFDB390F86",
+      "like_count": 1023,
+      "comment_count": 110,
+      "share_count": 110,
+      "collect_count": 139,
+      "description": "本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。",
+      "text_hint": "本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ede770d3dd8c36a9eaaf05ca53be884b/6ae9bc43/video/tos/cn/tos-cn-ve-15/oQffkFqjMRsSoeCpAWWCav7rnC8oNtBgQ5AiBP/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1733&bt=1733&cs=0&ds=4&ft=CZdgCYlIDyjNJsVQ9wSGHzHhd.UTvRD03-ApQX&mime_type=video_mp4&qs=0&rc=ZjM3PGdlZzw0NDNmOzk6OUBpMzx5Omo5cmc1dDMzNGkzM0AyMTBfMzBjXjIxMzZfMF8xYSNxXy9eMmRjbmNgLS1kLWFzcw%3D%3D&btag=80000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1793691974&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026110315461451D324D7A7BFDB390F86",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7394397742673513769.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7394397742673513769.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 205.519,
+      "raw_payload": {
+        "aweme_id": "7394397742673513769",
+        "author_uid": "3847878540790555",
+        "sec_uid": "MS4wLjABAAAAAAnyONo4RfaGhJYEEXEr75_CUBGfsVjwYDPYwDT-WxwecmQE4MDAjIbyLQIAtfGo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAAnyONo4RfaGhJYEEXEr75_CUBGfsVjwYDPYwDT-WxwecmQE4MDAjIbyLQIAtfGo"
+      }
+    },
+    "first_seen_at": "2026-11-03T15:45:26+08:00",
+    "last_seen_at": "2026-11-03T15:45:26+08:00",
+    "fetch_runs": [
+      "2026-11-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7394397742673513769.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7394397742673513769.mp3",
+      "source": "download",
+      "processed_at": "2026-11-03T15:47:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7394397742673513769",
+      "transcript_raw": "本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。补充信息：本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。",
+      "transcript_clean": "本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。补充信息：本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-03/7394397742673513769.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7394397742673513769",
+      "summary": "雄歌唱晚围绕“本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。补充信息：本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。。本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。补充信息：本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。补充信息：本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。补充信息：本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面。补充信息：本期和大家一起分享蔡国权老师的：寒傲似冰完整版，此歌收录在1983年的专辑（在你耳边唱）里面",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-03/7394397742673513769.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "last_error": null
+  },
+  "7311308797266513189": {
+    "video_id": "7311308797266513189",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "ID车主大海",
+      "video_id": "7311308797266513189",
+      "title": "行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视",
+      "publish_time": "2023-12-11T20:12:27+08:00",
+      "video_url": "https://www.douyin.com/video/7311308797266513189",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c4a52db2569b314105b4647da76765a5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109049200&x-signature=PWv%2FlNzyp%2FY3Q%2BxKYeshddltcWs%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026110315461602FA91421DD2D90ED28B",
+      "like_count": 633,
+      "comment_count": 159,
+      "share_count": 148,
+      "collect_count": 356,
+      "description": "行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视",
+      "text_hint": "行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视",
+      "topic_tags": [
+        "id4crozz",
+        "用车妙招",
+        "大众新能源id4",
+        "行车记录仪",
+        "海康威视"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/450d69257847a7cfb7c95eacc6497fec/6ae9bc82/video/tos/cn/tos-cn-ve-15/oYx3e3XAyICxAHAKFBuflB2hENzQ5CAF9gtZV2/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1506&bt=1506&cs=0&ds=4&ft=CZdgCYlIDyjNJsVQ9weGHzHhd.UTvRD03-ApQX&mime_type=video_mp4&qs=0&rc=Ozk4NDM4OGY4NTY7Z2Q3NEBpamtud2Q6ZnhpbzMzNGkzM0BhYC9eMzI0NjIxMV8uMWFhYSNfX2VwcjRvam9gLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1793691976&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026110315461602FA91421DD2D90ED28B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7311308797266513189.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7311308797266513189.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 266.967,
+      "raw_payload": {
+        "aweme_id": "7311308797266513189",
+        "author_uid": "906445298081694",
+        "sec_uid": "MS4wLjABAAAAWCPq8JEgEMVEmhZ9xdjK6LLO3s1mUxiztoAHaKIzCUg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAWCPq8JEgEMVEmhZ9xdjK6LLO3s1mUxiztoAHaKIzCUg"
+      }
+    },
+    "first_seen_at": "2026-11-03T15:45:26+08:00",
+    "last_seen_at": "2026-11-03T15:45:26+08:00",
+    "fetch_runs": [
+      "2026-11-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7311308797266513189.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7311308797266513189.mp3",
+      "source": "download",
+      "processed_at": "2026-11-03T15:48:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7311308797266513189",
+      "transcript_raw": "行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视补充信息：行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视关键词：id4crozz、用车妙招、大众新能源id4、行车记录仪、海康威视",
+      "transcript_clean": "行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视补充信息：行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视关键词：id4crozz、用车妙招、大众新能源id4、行车记录仪、海康威视",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-03/7311308797266513189.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7311308797266513189",
+      "summary": "ID车主大海围绕“id4crozz”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视。行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视补充信息：行车记录仪怎么选？自己如何安装行车记录仪#id4crozz #用车妙招 #大众新能源id4 #行车记录仪 #海康威视关键词：id4crozz、用车妙招、大众新能源id4、行车记录仪、海康威视 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "id4crozz为什么总是做不出来结果？",
+        "先把用车妙招想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕id4crozz组织标题与开头。",
+        "用用车妙招和大众新能源id4补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "id4crozz",
+        "用车妙招",
+        "大众新能源id4"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-03/7311308797266513189.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "last_error": null
+  },
+  "7363312685036932378": {
+    "video_id": "7363312685036932378",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7363312685036932378",
+      "title": "快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋",
+      "publish_time": "2024-04-29T15:34:00+08:00",
+      "video_url": "https://www.douyin.com/video/7363312685036932378",
+      "cover_url": "",
+      "like_count": 1130,
+      "comment_count": 218,
+      "share_count": 66,
+      "collect_count": 56,
+      "description": "快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋",
+      "text_hint": "快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋",
+      "topic_tags": [
+        "快船",
+        "独行侠",
+        "哈登",
+        "欧文",
+        "东契奇"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a3fda34b094d33130de66c7c65133c86/6ae9bd96/video/tos/cn/tos-cn-ve-0015c800/os0MGpq5JAeiM7EqAA4pXwEP02UyWe3HBBCyfi/?a=6383&br=1514&bt=1514&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100H_100K_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1793691992&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNJsVQ9wuGHzHhd.UTvRD03-ApQX&is_ssr=1&l=20261103154631FE0640C37ED2E1047935&lr=all&mime_type=video_mp4&qs=1&rc=O2ZlaTs3ZDg1aDlmNWgzZ0BpanB2Ozc6ZnB1cjMzNGkzM0BhNjZgXzEzNTUxXi5jYTIvYSNeaWhfcjRnbmtgLS1kLS9zcw%3D%3D&__vid=7363312685036932378",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7363312685036932378.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7363312685036932378.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7363312685036932378",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-03T15:45:26+08:00",
+    "last_seen_at": "2026-11-03T15:45:26+08:00",
+    "fetch_runs": [
+      "2026-11-03"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7363312685036932378.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-03/7363312685036932378.mp3",
+      "source": "download",
+      "processed_at": "2026-11-03T15:48:12+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7363312685036932378",
+      "transcript_raw": "快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋补充信息：快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋关键词：快船、独行侠、哈登、欧文、东契奇",
+      "transcript_clean": "快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋补充信息：快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋关键词：快船、独行侠、哈登、欧文、东契奇",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-03/7363312685036932378.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7363312685036932378",
+      "summary": "知雪围绕“快船”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋。快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋补充信息：快船VS独行侠季后赛G4复盘G5展望 之前就说了，把球交给哈登，快船才有希望。G4独行侠为何输掉比赛？攻防两端有什么问题？卢卡又有什么问题？请跟着解码哥一起复盘#快船 #独行侠 #哈登 #欧文 #东契奇 @超级草根 @超级草根🏀王师傅 @别赖了马师傅！ @超级草根🏀郭师傅 @陈一帆👑 @刘守元 @赖益烨_ @是郭雨妍 @超级草根🏀魏师傅 @风一样的男子🏀郭小洋关键词：快船、独行侠、哈登、欧文、东契奇 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "快船为什么总是做不出来结果？",
+        "先把独行侠想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕快船组织标题与开头。",
+        "用独行侠和哈登补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "快船",
+        "独行侠",
+        "哈登"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-03/7363312685036932378.json",
+      "processed_at": "2026-11-03T15:50:54+08:00"
+    },
+    "last_error": null
   }
 }
