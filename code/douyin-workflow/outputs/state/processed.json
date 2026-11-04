@@ -67853,5 +67853,355 @@
       "processed_at": "2026-11-03T15:50:54+08:00"
     },
     "last_error": null
+  },
+  "7703717610554199305": {
+    "video_id": "7703717610554199305",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7703717610554199305",
+      "title": "目标博主 1 视频 7703717610554199305",
+      "publish_time": "2026-11-04T15:26:57+08:00",
+      "video_url": "https://www.douyin.com/video/7703717610554199305",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/bac709e4-c26d-4f48-95b4-282d4409cb98",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7703717610554199305",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-04T15:23:57+08:00",
+    "last_seen_at": "2026-11-04T15:23:57+08:00",
+    "fetch_runs": [
+      "2026-11-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7586561088628460843": {
+    "video_id": "7586561088628460843",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7586561088628460843",
+      "title": "目标博主 1 视频 7586561088628460843",
+      "publish_time": "2026-11-04T15:26:57+08:00",
+      "video_url": "https://www.douyin.com/video/7586561088628460843",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/03844a86-b58a-4231-98ca-32876c990a63",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7586561088628460843",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-04T15:23:57+08:00",
+    "last_seen_at": "2026-11-04T15:23:57+08:00",
+    "fetch_runs": [
+      "2026-11-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7012766379619126567": {
+    "video_id": "7012766379619126567",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7012766379619126567",
+      "title": "目标博主 1 视频 7012766379619126567",
+      "publish_time": "2026-11-04T15:26:57+08:00",
+      "video_url": "https://www.douyin.com/video/7012766379619126567",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/7e1ffbee-3d55-4a49-9c81-4a96ac9b69c1",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7012766379619126567",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-04T15:23:57+08:00",
+    "last_seen_at": "2026-11-04T15:23:57+08:00",
+    "fetch_runs": [
+      "2026-11-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "6987320538729434398": {
+    "video_id": "6987320538729434398",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "6987320538729434398",
+      "title": "目标博主 1 视频 6987320538729434398",
+      "publish_time": "2026-11-04T15:26:57+08:00",
+      "video_url": "https://www.douyin.com/video/6987320538729434398",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0cf4a5ce-7c26-494a-8df3-3c31f0136400",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "6987320538729434398",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-04T15:23:57+08:00",
+    "last_seen_at": "2026-11-04T15:23:57+08:00",
+    "fetch_runs": [
+      "2026-11-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7424189909105216819": {
+    "video_id": "7424189909105216819",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7424189909105216819",
+      "title": "目标博主 1 视频 7424189909105216819",
+      "publish_time": "2026-11-04T15:26:57+08:00",
+      "video_url": "https://www.douyin.com/video/7424189909105216819",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/8d687991-9fa7-4746-b582-3c84f8e2e8c5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7424189909105216819",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-04T15:23:57+08:00",
+    "last_seen_at": "2026-11-04T15:23:57+08:00",
+    "fetch_runs": [
+      "2026-11-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7502112458280586511": {
+    "video_id": "7502112458280586511",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7502112458280586511",
+      "title": "目标博主 1 视频 7502112458280586511",
+      "publish_time": "2026-11-04T15:26:57+08:00",
+      "video_url": "https://www.douyin.com/video/7502112458280586511",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/664c149e-733d-4637-b0df-a39b968e1f2f",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7502112458280586511",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-04T15:23:57+08:00",
+    "last_seen_at": "2026-11-04T15:23:57+08:00",
+    "fetch_runs": [
+      "2026-11-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7242972375225077050": {
+    "video_id": "7242972375225077050",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7242972375225077050",
+      "title": "目标博主 1 视频 7242972375225077050",
+      "publish_time": "2026-11-04T15:26:57+08:00",
+      "video_url": "https://www.douyin.com/video/7242972375225077050",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d643bd22-2e8c-4ff1-8b4e-c008daa15d9c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7242972375225077050",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-04T15:23:57+08:00",
+    "last_seen_at": "2026-11-04T15:23:57+08:00",
+    "fetch_runs": [
+      "2026-11-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7274057498636619023": {
+    "video_id": "7274057498636619023",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7274057498636619023",
+      "title": "河南省三门峡市，花三百多块钱住到了三门峡顶奢豪华单间！三门峡市天鹅湖国际大酒店打卡！看看里面到底什么样！#三门峡#三门峡天鹅湖 #三门峡天鹅湖国际大酒店 #三门峡吃喝玩乐 #三门峡风景",
+      "publish_time": "2023-09-02T02:58:00+08:00",
+      "video_url": "https://www.douyin.com/video/7274057498636619023",
+      "cover_url": "",
+      "like_count": 98,
+      "comment_count": 28,
+      "share_count": 18,
+      "collect_count": 82,
+      "description": "河南省三门峡市，花三百多块钱住到了三门峡顶奢豪华单间！三门峡市天鹅湖国际大酒店打卡！看看里面到底什么样！#三门峡#三门峡天鹅湖 #三门峡天鹅湖国际大酒店 #三门峡吃喝玩乐 #三门峡风景",
+      "text_hint": "河南省三门峡市，花三百多块钱住到了三门峡顶奢豪华单间！三门峡市天鹅湖国际大酒店打卡！看看里面到底什么样！#三门峡#三门峡天鹅湖 #三门峡天鹅湖国际大酒店 #三门峡吃喝玩乐 #三门峡风景",
+      "topic_tags": [
+        "三门峡",
+        "三门峡天鹅湖",
+        "三门峡天鹅湖国际大酒店",
+        "三门峡吃喝玩乐",
+        "三门峡风景"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/0b8e376cb4d6fb6fa6651e277f36b26d/6aeb092f/video/tos/cn/tos-cn-ve-15c001-alinc2/okqZX3eHsENAfQfYv8BJs1fn9MyxcEzRIAJ9el/?a=6383&br=1653&bt=1653&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1793777212&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=4rzAgkIKDyjNbRVQ9wTLYzHhd.z9vEf03-ApQX&is_ssr=1&l=2026110415265264969C603A657F20BFE2&lr=all&mime_type=video_mp4&qs=1&rc=OWU3N2g7ZTY1NzRoOjYzOUBpajhnZzk6ZnVkbTMzNGkzM0BeMF9gXjNhNjYxL2MvMjZeYSNjX2pycjRnNG1gLS1kLS9zcw%3D%3D&__vid=7274057498636619023",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7274057498636619023",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-04T15:23:57+08:00",
+    "last_seen_at": "2026-11-04T15:23:57+08:00",
+    "fetch_runs": [
+      "2026-11-04"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
   }
 }
