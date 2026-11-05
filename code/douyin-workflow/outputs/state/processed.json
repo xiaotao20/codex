@@ -68203,5 +68203,673 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7704247182635664118": {
+    "video_id": "7704247182635664118",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "信阳市人力资源市场",
+      "video_id": "7704247182635664118",
+      "title": "11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招",
+      "publish_time": "2026-11-04T17:33:50+08:00",
+      "video_url": "https://www.douyin.com/video/7704247182635664118",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/o0MfuAQGXQ99NABLIAAeXAI8HE8VeV3AetQfH7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109222000&x-signature=qjIomk4N2JfrWWGUY9phuG6%2FEyo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611051550473348B462382913EFCFE2",
+      "like_count": 18,
+      "comment_count": 6,
+      "share_count": 14,
+      "collect_count": 2,
+      "description": "11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招",
+      "text_hint": "11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招",
+      "topic_tags": [
+        "信阳",
+        "信阳师院",
+        "校园招聘",
+        "央国企秋招",
+        "秋招"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/68a900304c9ff5e99d1a88cdcaff36c2/6aec5f93/video/tos/cn/tos-cn-ve-15/ocr9ILrOHE8AfAX2HCTi6INALqDdAZ8efXeMQh/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1015&bt=1015&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wO0qgHhd.h-~EDR3-ApQX&mime_type=video_mp4&qs=0&rc=ZmRmNTdnNzxnNDhpaDo1OUBpM3lod3I5cnJpZTMzNGkzM0AwXmBhYC8zX2IxYmJhYTQzYSNmaG5wMmRzaWlhLS1kLS9zcw%3D%3D&btag=c0000e00008000&cquery=100w_100B_100x_100z_100o&dy_q=1793865047&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=202611051550473348B462382913EFCFE2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7704247182635664118.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7704247182635664118.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 12.067,
+      "raw_payload": {
+        "aweme_id": "7704247182635664118",
+        "author_uid": "710759825290035",
+        "sec_uid": "MS4wLjABAAAAEpkqTUNSwy-06AOjKYQzNQ8TpyHFgsmR9vvsDyxsiI4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAEpkqTUNSwy-06AOjKYQzNQ8TpyHFgsmR9vvsDyxsiI4"
+      }
+    },
+    "first_seen_at": "2026-11-05T15:50:35+08:00",
+    "last_seen_at": "2026-11-05T15:50:35+08:00",
+    "fetch_runs": [
+      "2026-11-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7704247182635664118.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7704247182635664118.mp3",
+      "source": "download",
+      "processed_at": "2026-11-05T15:51:46+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7704247182635664118",
+      "transcript_raw": "11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招补充信息：11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招关键词：信阳、信阳师院、校园招聘、央国企秋招、秋招",
+      "transcript_clean": "11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招补充信息：11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招关键词：信阳、信阳师院、校园招聘、央国企秋招、秋招",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-05/7704247182635664118.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7704247182635664118",
+      "summary": "信阳市人力资源市场围绕“信阳”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招。11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招补充信息：11月6号，信阳师范学院2027届毕业生秋季双选会震撼来袭#信阳 #信阳师院 #校园招聘 #央国企秋招 #秋招关键词：信阳、信阳师院、校园招聘、央国企秋招、秋招 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "信阳为什么总是做不出来结果？",
+        "先把信阳师院想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕信阳组织标题与开头。",
+        "用信阳师院和校园招聘补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "信阳",
+        "信阳师院",
+        "校园招聘"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-05/7704247182635664118.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "last_error": null
+  },
+  "7548630339996929290": {
+    "video_id": "7548630339996929290",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "半月谈",
+      "video_id": "7548630339996929290",
+      "title": "现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）",
+      "publish_time": "2025-09-11T09:01:12+08:00",
+      "video_url": "https://www.douyin.com/video/7548630339996929290",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2c999d42f8a5fa9bbaa28dc4b5ae3510~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109222000&x-signature=6zMVc5SIATS9bVIAH7AfiOIdID4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261105155050689DAC86F449C6CEB6BF",
+      "like_count": 331,
+      "comment_count": 21,
+      "share_count": 33,
+      "collect_count": 9,
+      "description": "现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）",
+      "text_hint": "现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）",
+      "topic_tags": [
+        "枪击案",
+        "特朗普"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/357552eb8cbba1acaf0b7558e9872725/6aec5f91/video/tos/cn/tos-cn-ve-0015c800/oofmRhlCwBAiPigIQElkxCAPK3egTo6KBA9CiD/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2808&bt=2808&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wr0qgHhd.h-~EDR3-ApQX&mime_type=video_mp4&qs=0&rc=ZWZkNmYzM2ZpOmQzaWUzZ0BpM2R4bGs5cmw0NjMzNGkzM0BfLV4uNTVjNl4xNTEyM15eYSNkXmVvMmRzci5hLS1kLS9zcw%3D%3D&btag=80000e00008000&cquery=100o_100w_100B_100H_100K&dy_q=1793865050&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20261105155050689DAC86F449C6CEB6BF",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7548630339996929290.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7548630339996929290.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 7.476,
+      "raw_payload": {
+        "aweme_id": "7548630339996929290",
+        "author_uid": "81945111176",
+        "sec_uid": "MS4wLjABAAAAtsKhUPQzPEoCRrpfstNDvOUQ1Zq-5JhRT6cYAd-Q0HA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAtsKhUPQzPEoCRrpfstNDvOUQ1Zq-5JhRT6cYAd-Q0HA"
+      }
+    },
+    "first_seen_at": "2026-11-05T15:50:35+08:00",
+    "last_seen_at": "2026-11-05T15:50:35+08:00",
+    "fetch_runs": [
+      "2026-11-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7548630339996929290.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7548630339996929290.mp3",
+      "source": "download",
+      "processed_at": "2026-11-05T15:51:49+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7548630339996929290",
+      "transcript_raw": "现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）补充信息：现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）关键词：枪击案、特朗普",
+      "transcript_clean": "现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）补充信息：现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）关键词：枪击案、特朗普",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-05/7548630339996929290.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7548630339996929290",
+      "summary": "半月谈围绕“枪击案”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）。现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）补充信息：现场画面！特朗普政治盟友遭枪击身亡 在大学演讲时被一枪射中脖子 特朗普下令降半旗致哀#特朗普 #枪击案     （来源：参考消息）关键词：枪击案、特朗普 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "枪击案为什么总是做不出来结果？",
+        "先把特朗普想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕枪击案组织标题与开头。",
+        "用特朗普和在大学演讲时被一枪射中脖子补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "枪击案",
+        "特朗普",
+        "在大学演讲时被一枪射中脖子"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-05/7548630339996929290.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "last_error": null
+  },
+  "6950272820005965093": {
+    "video_id": "6950272820005965093",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "暖太阳苗小胖",
+      "video_id": "6950272820005965093",
+      "title": "汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修",
+      "publish_time": "2021-04-12T22:08:57+08:00",
+      "video_url": "https://www.douyin.com/video/6950272820005965093",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7ad4bece1114ab27e610b95ef211afbe~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109222000&x-signature=NIsZ%2FQEAt6WYYrFDuUKywvYc3hQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611051550536B1245572CD460A232E1",
+      "like_count": 228,
+      "comment_count": 15,
+      "share_count": 40,
+      "collect_count": 100,
+      "description": "汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修",
+      "text_hint": "汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修",
+      "topic_tags": [
+        "170汽油发动机",
+        "维修",
+        "发电机维修"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/fdc0d1c59c377f8ce2b9c3e2521ba70d/6aec6092/video/cn/mps/realtime/v1/r/p/v0300fg10000c1q4jp209758ap9g49hg/57977e603fbb40d7a388e0123c2e799d/d7c4df22ad1d34289bcd2a38dcc6ce15/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=494&bt=494&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNNRVQ9wQ0qgHhd.h-~EDR3-ApQX&mime_type=video_mp4&qs=0&rc=ZzxoZjUzOzY6M2VpM2g6OkBpajxqczs6M3M3NDMzNGkzM0A2NC8wLmI1XmExXzAzNDYyYSNlMTZeMjYvZ25gLS1kLTBzcw%3D%3D&btag=c0000e00030000&codec=h264&cquery=102u_100o_100w_100B_100H&definition=720p&dy_q=1793865053&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=6950272820005965093&l=202611051550536B1245572CD460A232E1&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/6950272820005965093.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/6950272820005965093.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 264.667,
+      "raw_payload": {
+        "aweme_id": "6950272820005965093",
+        "author_uid": "98975714203",
+        "sec_uid": "MS4wLjABAAAAGZk3lYYmWqVYIxHxBcA1ZpRG73gaKCdRxz1rPbEN9yI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAGZk3lYYmWqVYIxHxBcA1ZpRG73gaKCdRxz1rPbEN9yI"
+      }
+    },
+    "first_seen_at": "2026-11-05T15:50:35+08:00",
+    "last_seen_at": "2026-11-05T15:50:35+08:00",
+    "fetch_runs": [
+      "2026-11-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/6950272820005965093.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/6950272820005965093.mp3",
+      "source": "download",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6950272820005965093",
+      "transcript_raw": "汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修补充信息：汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修关键词：170汽油发动机、维修、发电机维修",
+      "transcript_clean": "汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修补充信息：汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修关键词：170汽油发动机、维修、发电机维修",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-05/6950272820005965093.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "analysis": {
+      "video_id": "6950272820005965093",
+      "summary": "暖太阳苗小胖围绕“170汽油发动机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修。汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修补充信息：汽油机发电机运行一会熄火，不是电路问题，这2原因，容易被忽视 #170汽油发动机  #维修  #发电机维修关键词：170汽油发动机、维修、发电机维修 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "170汽油发动机为什么总是做不出来结果？",
+        "先把维修想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕170汽油发动机组织标题与开头。",
+        "用维修和发电机维修补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "170汽油发动机",
+        "维修",
+        "发电机维修"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-05/6950272820005965093.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "last_error": null
+  },
+  "7139363786057682188": {
+    "video_id": "7139363786057682188",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小琳的俄罗斯",
+      "video_id": "7139363786057682188",
+      "title": "俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯",
+      "publish_time": "2022-09-04T11:38:11+08:00",
+      "video_url": "https://www.douyin.com/video/7139363786057682188",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7a80664ec3849ac2aad684148f0774f1~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109222000&x-signature=wmmMVDf5yMm%2B%2BTWh3ViXgCFzIVw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026110515505737E3AB4407ADB7D97B56",
+      "like_count": 32836,
+      "comment_count": 2790,
+      "share_count": 908,
+      "collect_count": 1033,
+      "description": "俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯",
+      "text_hint": "俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯",
+      "topic_tags": [
+        "俄罗斯"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b0bd8f7f9a2ab6e8a789c15f169b3633/6aec60ad/video/tos/cn/tos-cn-ve-15c001-alinc2/700efd904c174d8e8faa9a4b815bffa6/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1811&bt=1811&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wa0qgHhd.h-~EDR3-ApQX&mime_type=video_mp4&qs=0&rc=Zzg1Ozs6aTNmZGllNWg0OUBpajppMzo6Zjs0ZjMzNGkzM0BjMDVeNmMuNWMxLl42NV5hYSNoX2FzcjRvb15gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100D_100J_100o_100w_100B&dy_q=1793865057&l=2026110515505737E3AB4407ADB7D97B56",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7139363786057682188.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7139363786057682188.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 284.76,
+      "raw_payload": {
+        "aweme_id": "7139363786057682188",
+        "author_uid": "3210189420632878",
+        "sec_uid": "MS4wLjABAAAACFqI3iL-neAIWMwmkfNIKsNXWqN4gkXdcxpBDm5akPWo1y2dsNtjHcrZxG4shIVu",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACFqI3iL-neAIWMwmkfNIKsNXWqN4gkXdcxpBDm5akPWo1y2dsNtjHcrZxG4shIVu"
+      }
+    },
+    "first_seen_at": "2026-11-05T15:50:35+08:00",
+    "last_seen_at": "2026-11-05T15:50:35+08:00",
+    "fetch_runs": [
+      "2026-11-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7139363786057682188.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7139363786057682188.mp3",
+      "source": "download",
+      "processed_at": "2026-11-05T15:53:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7139363786057682188",
+      "transcript_raw": "俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯补充信息：俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯关键词：俄罗斯",
+      "transcript_clean": "俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯补充信息：俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯关键词：俄罗斯",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-05/7139363786057682188.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7139363786057682188",
+      "summary": "小琳的俄罗斯围绕“俄罗斯”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯。俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯补充信息：俄罗斯人惊叹中国汽车，从看不起到买不起 #俄罗斯关键词：俄罗斯 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "俄罗斯为什么总是做不出来结果？",
+        "先把俄罗斯人惊叹中国汽车，从看不起到买不起想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕俄罗斯组织标题与开头。",
+        "用俄罗斯人惊叹中国汽车，从看不起到买不起和#俄罗斯俄罗斯人惊叹中国汽车，从看不起到买不起补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "俄罗斯",
+        "俄罗斯人惊叹中国汽车，从看不起到买不起",
+        "#俄罗斯俄罗斯人惊叹中国汽车，从看不起到买不起"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-05/7139363786057682188.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "last_error": null
+  },
+  "7571987089680777915": {
+    "video_id": "7571987089680777915",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7571987089680777915",
+      "title": "蔬菜馒头教程来喽！芹菜叶子以后再也别扔了，跟着我做成馒头，芹菜叶营养高##面食花样 #芹菜 #美食教程 #美食分享",
+      "publish_time": "2025-11-12T23:37:00+08:00",
+      "video_url": "https://www.douyin.com/video/7571987089680777915",
+      "cover_url": "",
+      "like_count": 158,
+      "comment_count": 23,
+      "share_count": 41,
+      "collect_count": 23,
+      "description": "蔬菜馒头教程来喽！芹菜叶子以后再也别扔了，跟着我做成馒头，芹菜叶营养高##面食花样 #芹菜 #美食教程 #美食分享",
+      "text_hint": "蔬菜馒头教程来喽！芹菜叶子以后再也别扔了，跟着我做成馒头，芹菜叶营养高##面食花样 #芹菜 #美食教程 #美食分享",
+      "topic_tags": [
+        "面食花样",
+        "芹菜",
+        "美食教程",
+        "美食分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/458afb6f-6b37-401b-9fb8-4d7637186614",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7571987089680777915",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-05T15:50:35+08:00",
+    "last_seen_at": "2026-11-05T15:50:35+08:00",
+    "fetch_runs": [
+      "2026-11-05"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7512961516666604835": {
+    "video_id": "7512961516666604835",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "黑胶梁叔叔",
+      "video_id": "7512961516666604835",
+      "title": "用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后",
+      "publish_time": "2025-06-07T12:00:01+08:00",
+      "video_url": "https://www.douyin.com/video/7512961516666604835",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/446afa6b4e6fbc0bfb4fce3ad18d87c0~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109222000&x-signature=uRuOcKeZ1SYYERt1%2FdVIuWvy6zQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611051551200D1D4622AA0F0CD610ED",
+      "like_count": 1725,
+      "comment_count": 79,
+      "share_count": 397,
+      "collect_count": 518,
+      "description": "用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后",
+      "text_hint": "用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后",
+      "topic_tags": [
+        "应粉丝要求",
+        "凤凰花开的路口",
+        "林志炫",
+        "毕业季",
+        "8090后"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/83e1e311fd498f377bc30e3106db1227/6aec609b/video/tos/cn/tos-cn-ve-15/o4QDIhAf9ZnQA6Do0FNgfu2tOZ4AiEQgN22yBE/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1362&bt=1362&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wb0qgHhd.h-~EDR3-ApQX&mime_type=video_mp4&qs=0&rc=NWhlZTY6NTw8Z2dlNGU7ZkBpanFpOHY5cnJwNDMzNGkzM0BiNjQwLl5gNi8xYjZjLmFiYSMwamphMmRrYC5hLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1793865080&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202611051551200D1D4622AA0F0CD610ED",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7512961516666604835.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7512961516666604835.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 243.434,
+      "raw_payload": {
+        "aweme_id": "7512961516666604835",
+        "author_uid": "3945490644228823",
+        "sec_uid": "MS4wLjABAAAAwOfnRxACbmdKxLVcdWpwtBUUZ-UnK27SKpQtGUN2ZwWhvAq_F-5IP4LIDqyjUCif",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAwOfnRxACbmdKxLVcdWpwtBUUZ-UnK27SKpQtGUN2ZwWhvAq_F-5IP4LIDqyjUCif"
+      }
+    },
+    "first_seen_at": "2026-11-05T15:50:35+08:00",
+    "last_seen_at": "2026-11-05T15:50:35+08:00",
+    "fetch_runs": [
+      "2026-11-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7512961516666604835.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7512961516666604835.mp3",
+      "source": "download",
+      "processed_at": "2026-11-05T15:52:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7512961516666604835",
+      "transcript_raw": "用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后补充信息：用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后关键词：应粉丝要求、凤凰花开的路口、林志炫、毕业季、8090后",
+      "transcript_clean": "用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后补充信息：用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后关键词：应粉丝要求、凤凰花开的路口、林志炫、毕业季、8090后",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-05/7512961516666604835.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7512961516666604835",
+      "summary": "黑胶梁叔叔围绕“应粉丝要求”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后。用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后补充信息：用HiFi音响听 | 林志炫《凤凰花开的路口》 毕业季咯！#应粉丝要求 #凤凰花开的路口 #林志炫 #毕业季 #8090后关键词：应粉丝要求、凤凰花开的路口、林志炫、毕业季、8090后 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "应粉丝要求为什么总是做不出来结果？",
+        "先把凤凰花开的路口想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕应粉丝要求组织标题与开头。",
+        "用凤凰花开的路口和林志炫补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "应粉丝要求",
+        "凤凰花开的路口",
+        "林志炫"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-05/7512961516666604835.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "last_error": null
+  },
+  "7453386848057052442": {
+    "video_id": "7453386848057052442",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "土澳猫本🇨🇳澳大利亚的西安农场主",
+      "video_id": "7453386848057052442",
+      "title": "米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!",
+      "publish_time": "2024-12-28T17:08:32+08:00",
+      "video_url": "https://www.douyin.com/video/7453386848057052442",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f2e244128cbbedd7dac4cd0cc33fced6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109222000&x-signature=qrxebKETmEyuzcjrEytq%2BsxyX6E%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611051551233CA902A924287C012420",
+      "like_count": 186,
+      "comment_count": 22,
+      "share_count": 35,
+      "collect_count": 19,
+      "description": "米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!",
+      "text_hint": "米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8e567ea131c4f44dc309854076e3aa83/6aec607a/video/tos/cn/tos-cn-ve-0015c800/oobiXAfEJgbLnRIDWIB89XAkbMQjFqASDh77fr/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3067&bt=3067&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w40qgHhd.h-~EDR3-ApQX&mime_type=video_mp4&qs=0&rc=OTpnMzozNDVoZzc4Nmk4NkBpM2Vua2o5cjd1dzMzNGkzM0AxM2BjLy5fXl8xXjJiXl9hYSNma2ZpMmRjcmtgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100z_100o_100w_100B_100x&dy_q=1793865083&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202611051551233CA902A924287C012420",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7453386848057052442.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7453386848057052442.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 207.376,
+      "raw_payload": {
+        "aweme_id": "7453386848057052442",
+        "author_uid": "95581017448",
+        "sec_uid": "MS4wLjABAAAAvBQLJtvGq0aC3gPodCPu5d5vfOGSeUdwJaRi-JPxMaw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAvBQLJtvGq0aC3gPodCPu5d5vfOGSeUdwJaRi-JPxMaw"
+      }
+    },
+    "first_seen_at": "2026-11-05T15:50:35+08:00",
+    "last_seen_at": "2026-11-05T15:50:35+08:00",
+    "fetch_runs": [
+      "2026-11-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7453386848057052442.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7453386848057052442.mp3",
+      "source": "download",
+      "processed_at": "2026-11-05T15:53:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7453386848057052442",
+      "transcript_raw": "米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!补充信息：米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!",
+      "transcript_clean": "米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!补充信息：米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-05/7453386848057052442.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7453386848057052442",
+      "summary": "土澳猫本🇨🇳澳大利亚的西安农场主围绕“米佛”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!。米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!补充信息：米佛 你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位! 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "米佛为什么总是做不出来结果？",
+        "先把你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!米佛想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕米佛组织标题与开头。",
+        "用你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!米佛和你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!补充信息：米佛补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "米佛",
+        "你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!米佛",
+        "你知道新西兰排名世界第一的景点是哪里吗？新西兰2月4-12号精品3-5人团游位置还差一位!补充信息：米佛"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-05/7453386848057052442.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "last_error": null
+  },
+  "7039647605357350182": {
+    "video_id": "7039647605357350182",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7039647605357350182",
+      "title": "到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长",
+      "publish_time": "2021-12-09T10:28:00+08:00",
+      "video_url": "https://www.douyin.com/video/7039647605357350182",
+      "cover_url": "",
+      "like_count": 467,
+      "comment_count": 94,
+      "share_count": 37,
+      "collect_count": 30,
+      "description": "到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长",
+      "text_hint": "到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长",
+      "topic_tags": [
+        "离婚",
+        "单亲妈妈",
+        "女性成长"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/d7baf9186f6ef1aa1c9dc808094eaa88/6aec6080/video/cn/mps/realtime/v1/r/p/v0300fg10000c6otin3c77u3bbhphcfg/0b387ed10947430d84f81d6f68b6eed3/1ddf68726097cd0af1444597c074f6fc/mp4/main.mp4?a=6383&br=1316&bt=1316&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&codec=h264&cquery=102u_100o_100w_100B_100x&cr=3&cs=0&cv=1&definition=720p&dr=0&ds=3&dy_q=1793865099&eid=64256&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&ft=InFJ3Y-5DyjNNRVQ9wl3qgHhd.h-~EDR3-ApQX&is_ssr=1&item_id=7039647605357350182&l=20261105155139D4F5C2CAD9921106131D&logo_type=&lr=all&mime_type=video_mp4&qs=0&rc=Nmg5O2lnOzdnNjo8NGg7ZUBpamZzZTY6ZnF3OTMzNGkzM0BhYl8zMy5jNS0xMS1hNDAtYSNjZWVfcjQwZmxgLS1kLTBzcw%3D%3D&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type&__vid=7039647605357350182",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7039647605357350182.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7039647605357350182.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7039647605357350182",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-05T15:50:35+08:00",
+    "last_seen_at": "2026-11-05T15:50:35+08:00",
+    "fetch_runs": [
+      "2026-11-05"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7039647605357350182.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-05/7039647605357350182.mp3",
+      "source": "download",
+      "processed_at": "2026-11-05T15:54:01+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7039647605357350182",
+      "transcript_raw": "到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长补充信息：到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长关键词：离婚、单亲妈妈、女性成长",
+      "transcript_clean": "到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长补充信息：到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长关键词：离婚、单亲妈妈、女性成长",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-05/7039647605357350182.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "analysis": {
+      "video_id": "7039647605357350182",
+      "summary": "知雪围绕“离婚”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长。到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长补充信息：到底要不要离婚，这是我的建议，给到大家作参考#离婚 #单亲妈妈 #女性成长关键词：离婚、单亲妈妈、女性成长 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "离婚为什么总是做不出来结果？",
+        "先把单亲妈妈想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕离婚组织标题与开头。",
+        "用单亲妈妈和女性成长补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "离婚",
+        "单亲妈妈",
+        "女性成长"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-05/7039647605357350182.json",
+      "processed_at": "2026-11-05T15:54:22+08:00"
+    },
+    "last_error": null
   }
 }
