@@ -68871,5 +68871,497 @@
       "processed_at": "2026-11-05T15:54:22+08:00"
     },
     "last_error": null
+  },
+  "7651817718329909706": {
+    "video_id": "7651817718329909706",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7651817718329909706",
+      "title": "在抖音记录美好生活20261107",
+      "publish_time": "2026-11-07T14:58:38+08:00",
+      "video_url": "https://www.douyin.com/video/7651817718329909706",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261107",
+      "text_hint": "在抖音记录美好生活20261107",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/dc38fa76-6c26-43fa-a6f3-a170d4256202",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7651817718329909706",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-07T14:57:44+08:00",
+    "last_seen_at": "2026-11-07T14:57:44+08:00",
+    "fetch_runs": [
+      "2026-11-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7355760042282388770": {
+    "video_id": "7355760042282388770",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "乡村大飞",
+      "video_id": "7355760042282388770",
+      "title": "今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽",
+      "publish_time": "2024-04-09T15:06:00+08:00",
+      "video_url": "https://www.douyin.com/video/7355760042282388770",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/f35c0759b7903c2e44e6180a430778eb~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109391200&x-signature=Kzms7nNoHa6VluNJa%2BeFkzqetjQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611071458033B0F130305DF1808D9BF",
+      "like_count": 1982,
+      "comment_count": 151,
+      "share_count": 539,
+      "collect_count": 620,
+      "description": "今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽",
+      "text_hint": "今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽",
+      "topic_tags": [
+        "湛江美食",
+        "包粽子",
+        "湛江粽子",
+        "勒古粽",
+        "蛤蒌粽"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/86a61315e2660712c1e84e31e469b2c3/6aeef6fa/video/tos/cn/tos-cn-ve-0015c800/oYm4IUiAAnDuQgHhv96BbepHbACD8Efr9OFJuR/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3828&bt=3828&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9w4m9gHhd.W6vwf03-ApQX&mime_type=video_mp4&qs=0&rc=aTU7OzU1OTo8NDNlZDdkM0BpajU4eTY6ZnlocjMzNGkzM0BiYl9hLTM0NTQxNTQzMl80YSNrLm1ucjQwYV5gLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100o_100w_100B_100x_100z&dy_q=1794034683&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202611071458033B0F130305DF1808D9BF",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7355760042282388770.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7355760042282388770.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 207.818,
+      "raw_payload": {
+        "aweme_id": "7355760042282388770",
+        "author_uid": "98241668746",
+        "sec_uid": "MS4wLjABAAAAAicRh6LXORoZ2ZOA_EBZMtn1BOUje9jWcHqcqjlAkkw",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAicRh6LXORoZ2ZOA_EBZMtn1BOUje9jWcHqcqjlAkkw"
+      }
+    },
+    "first_seen_at": "2026-11-07T14:57:44+08:00",
+    "last_seen_at": "2026-11-07T14:57:44+08:00",
+    "fetch_runs": [
+      "2026-11-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7355760042282388770.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7355760042282388770.mp3",
+      "source": "download",
+      "processed_at": "2026-11-07T15:00:16+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7355760042282388770",
+      "transcript_raw": "今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽补充信息：今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽关键词：湛江美食、包粽子、湛江粽子、勒古粽、蛤蒌粽",
+      "transcript_clean": "今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽补充信息：今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽关键词：湛江美食、包粽子、湛江粽子、勒古粽、蛤蒌粽",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-07/7355760042282388770.json",
+      "processed_at": "2026-11-07T15:01:11+08:00"
+    },
+    "analysis": {
+      "video_id": "7355760042282388770",
+      "summary": "乡村大飞围绕“湛江美食”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽。今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽补充信息：今天做个湛江特色勒古蛤蒌粽。湛江粽一定少不了的就是蛤蒌叶和海味，再加上簕古的清香味，味道绝了！\n#湛江美食 #包粽子 #湛江粽子 #勒古粽 #蛤蒌粽关键词：湛江美食、包粽子、湛江粽子、勒古粽、蛤蒌粽 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "湛江美食为什么总是做不出来结果？",
+        "先把包粽子想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕湛江美食组织标题与开头。",
+        "用包粽子和湛江粽子补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "湛江美食",
+        "包粽子",
+        "湛江粽子"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-07/7355760042282388770.json",
+      "processed_at": "2026-11-07T15:01:12+08:00"
+    },
+    "last_error": null
+  },
+  "7356102108531281162": {
+    "video_id": "7356102108531281162",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "柏川",
+      "video_id": "7356102108531281162",
+      "title": "子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版",
+      "publish_time": "2024-04-10T13:13:36+08:00",
+      "video_url": "https://www.douyin.com/video/7356102108531281162",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/589b1b446d96c15c2596e37c6109164a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109391200&x-signature=P0le1avhYtnvdQSXZUfnmsNvJk4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261107145805A4789A4349AB8FD37191",
+      "like_count": 6,
+      "comment_count": 2,
+      "share_count": 1,
+      "collect_count": 4,
+      "description": "子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版",
+      "text_hint": "子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版",
+      "topic_tags": [
+        "AE教程",
+        "时间静止"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0ee86cb7388dc82aabf31e16599f0df1/6aeefb50/video/tos/cn/tos-cn-ve-0015c800/oMBhvXIAGHAeeDDIAy7icLbHBenOBCuERQWM8W/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=286&bt=286&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9wPm9gHhd.W6vwf03-ApQX&mime_type=video_mp4&qs=0&rc=OTs0ZTVnZWlpOmY3Nmk0ZkBpM2s1M2g6Zjg0cjMzNGkzM0AyLTNiMF8wXy4xLS41Xl5eYSNjZXJjcjRvc19gLS1kLTBzcw%3D%3D&btag=80000e00038000&cquery=100H_100K_100o_100w_100B&dy_q=1794034685&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261107145805A4789A4349AB8FD37191",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7356102108531281162.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7356102108531281162.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 1315.785,
+      "raw_payload": {
+        "aweme_id": "7356102108531281162",
+        "author_uid": "4171976965360388",
+        "sec_uid": "MS4wLjABAAAA3sLqU_SVSOqp3h57UiYjAeFdhky6XLgQY3f3KrLKVQ4Zbw9tkbx5ykNybyyRsaXj",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA3sLqU_SVSOqp3h57UiYjAeFdhky6XLgQY3f3KrLKVQ4Zbw9tkbx5ykNybyyRsaXj"
+      }
+    },
+    "first_seen_at": "2026-11-07T14:57:44+08:00",
+    "last_seen_at": "2026-11-07T14:57:44+08:00",
+    "fetch_runs": [
+      "2026-11-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7356102108531281162.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7356102108531281162.mp3",
+      "source": "download",
+      "processed_at": "2026-11-07T14:59:18+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7356102108531281162",
+      "transcript_raw": "子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版补充信息：子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版关键词：AE教程、时间静止",
+      "transcript_clean": "子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版补充信息：子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版关键词：AE教程、时间静止",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-07/7356102108531281162.json",
+      "processed_at": "2026-11-07T15:01:11+08:00"
+    },
+    "analysis": {
+      "video_id": "7356102108531281162",
+      "summary": "柏川围绕“AE教程”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版。子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版补充信息：子弹时间效果 #AE教程 #时间静止 做了一个子弹时间的效果！教程完整版关键词：AE教程、时间静止 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "AE教程为什么总是做不出来结果？",
+        "先把时间静止想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕AE教程组织标题与开头。",
+        "用时间静止和#AE教程补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "AE教程",
+        "时间静止",
+        "#AE教程"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-07/7356102108531281162.json",
+      "processed_at": "2026-11-07T15:01:12+08:00"
+    },
+    "last_error": null
+  },
+  "7588726770284792960": {
+    "video_id": "7588726770284792960",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7588726770284792960",
+      "title": "在抖音记录美好生活20261107",
+      "publish_time": "2026-11-07T14:58:38+08:00",
+      "video_url": "https://www.douyin.com/video/7588726770284792960",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261107",
+      "text_hint": "在抖音记录美好生活20261107",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/781cf31f-959d-4fa6-90b5-a5ddb5b5ff63",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7588726770284792960",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-07T14:57:44+08:00",
+    "last_seen_at": "2026-11-07T14:57:44+08:00",
+    "fetch_runs": [
+      "2026-11-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7169982162828086536": {
+    "video_id": "7169982162828086536",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "一兔音乐",
+      "video_id": "7169982162828086536",
+      "title": "八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典",
+      "publish_time": "2022-11-25T23:53:17+08:00",
+      "video_url": "https://www.douyin.com/video/7169982162828086536",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/dc9fcb53c1ad8489a11444b88ac95343~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109391200&x-signature=%2FpKYAPJc0B89cmAvaEcRBWcQaKQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611071458144043172D2C87DBD55A8F",
+      "like_count": 945,
+      "comment_count": 53,
+      "share_count": 98,
+      "collect_count": 222,
+      "description": "八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典",
+      "text_hint": "八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典",
+      "topic_tags": [
+        "古装剧",
+        "主题曲",
+        "音乐",
+        "歌曲推荐",
+        "怀旧经典"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/bab5f60411537ed170e2913363e4c181/6aeef6ef/video/tos/cn/tos-cn-ve-15/oYjnCVBPtBeIOAe9BAcUQ1iQtgAtgvbqWTznDw/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2014&bt=2014&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wS19gHhd.W6vwf03-ApQX&mime_type=video_mp4&qs=0&rc=NDNmaGhnOTozMzg0M2gzOkBpM3h0dDM6ZnVoaDMzNGkzM0BgLV4wXjVfXjIxYDJfY2FhYSNscC9ncjRfNi1gLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100D_100J_100o&dy_q=1794034694&l=202611071458144043172D2C87DBD55A8F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7169982162828086536.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7169982162828086536.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 185.551,
+      "raw_payload": {
+        "aweme_id": "7169982162828086536",
+        "author_uid": "3734391981343540",
+        "sec_uid": "MS4wLjABAAAA2-3mhGF4i9_qhoNLiSKiYfXg5lAp6AYsOXTYqX2TeiHN5z4bl-0WiFs3iAFgqNMg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA2-3mhGF4i9_qhoNLiSKiYfXg5lAp6AYsOXTYqX2TeiHN5z4bl-0WiFs3iAFgqNMg"
+      }
+    },
+    "first_seen_at": "2026-11-07T14:57:44+08:00",
+    "last_seen_at": "2026-11-07T14:57:44+08:00",
+    "fetch_runs": [
+      "2026-11-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7169982162828086536.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7169982162828086536.mp3",
+      "source": "download",
+      "processed_at": "2026-11-07T15:00:42+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7169982162828086536",
+      "transcript_raw": "八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典补充信息：八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典关键词：古装剧、主题曲、音乐、歌曲推荐、怀旧经典",
+      "transcript_clean": "八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典补充信息：八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典关键词：古装剧、主题曲、音乐、歌曲推荐、怀旧经典",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-07/7169982162828086536.json",
+      "processed_at": "2026-11-07T15:01:11+08:00"
+    },
+    "analysis": {
+      "video_id": "7169982162828086536",
+      "summary": "一兔音乐围绕“古装剧”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典。八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典补充信息：八首令人惊艳的古装剧OST，首首都是回忆！ #古装剧 #主题曲 #音乐 #歌曲推荐 #怀旧经典关键词：古装剧、主题曲、音乐、歌曲推荐、怀旧经典 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "古装剧为什么总是做不出来结果？",
+        "先把主题曲想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕古装剧组织标题与开头。",
+        "用主题曲和音乐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "古装剧",
+        "主题曲",
+        "音乐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-07/7169982162828086536.json",
+      "processed_at": "2026-11-07T15:01:12+08:00"
+    },
+    "last_error": null
+  },
+  "7162546662861229351": {
+    "video_id": "7162546662861229351",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "YEStudio袁野",
+      "video_id": "7162546662861229351",
+      "title": "建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑",
+      "publish_time": "2022-11-05T22:59:17+08:00",
+      "video_url": "https://www.douyin.com/video/7162546662861229351",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/cb3f55a85dfb6953b8149790a51fd4cc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109391200&x-signature=%2BkQ2FxwmPz%2B7BUCuXX%2BlFdT9JzQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611071458178BD21FCC6A92480E00D2",
+      "like_count": 1809,
+      "comment_count": 39,
+      "share_count": 123,
+      "collect_count": 240,
+      "description": "建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑",
+      "text_hint": "建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑",
+      "topic_tags": [
+        "建筑设计",
+        "知识分享",
+        "设计思维",
+        "高层建筑"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ba538bd15bf23b98109dfceb8bf4d8d9/6aeef720/video/tos/cn/tos-cn-ve-15c001-alinc2/ooeBSbOKkAu7njEIhuPDAgCGZBz8QYIfGGfHEM/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1202&bt=1202&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wp19gHhd.W6vwf03-ApQX&mime_type=video_mp4&qs=0&rc=OTk0NzQ6Zmk8ZWg7NDtoNUBpajZ3eTY6ZnI6ZzMzNGkzM0AvNS5eYzQwNmExXl5eNGEzYSMxMXJscjQwY2dgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1794034697&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202611071458178BD21FCC6A92480E00D2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7162546662861229351.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7162546662861229351.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 231.897,
+      "raw_payload": {
+        "aweme_id": "7162546662861229351",
+        "author_uid": "1371818340660488",
+        "sec_uid": "MS4wLjABAAAAQJ3fAOQIOdR-nigkp_UrpQLHNa08KrtnJIW5hmtVFZ8VGIJkg5X5-Saq1TPKTTRV",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQJ3fAOQIOdR-nigkp_UrpQLHNa08KrtnJIW5hmtVFZ8VGIJkg5X5-Saq1TPKTTRV"
+      }
+    },
+    "first_seen_at": "2026-11-07T14:57:44+08:00",
+    "last_seen_at": "2026-11-07T14:57:44+08:00",
+    "fetch_runs": [
+      "2026-11-07"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7162546662861229351.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-07/7162546662861229351.mp3",
+      "source": "download",
+      "processed_at": "2026-11-07T15:01:11+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7162546662861229351",
+      "transcript_raw": "建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑补充信息：建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑关键词：建筑设计、知识分享、设计思维、高层建筑",
+      "transcript_clean": "建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑补充信息：建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑关键词：建筑设计、知识分享、设计思维、高层建筑",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-07/7162546662861229351.json",
+      "processed_at": "2026-11-07T15:01:11+08:00"
+    },
+    "analysis": {
+      "video_id": "7162546662861229351",
+      "summary": "YEStudio袁野围绕“建筑设计”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑。建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑补充信息：建筑师设计超高层建筑的时候在设计什么？视野、地标or权力、资本#建筑设计 #知识分享 #设计思维 #高层建筑关键词：建筑设计、知识分享、设计思维、高层建筑 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "建筑设计为什么总是做不出来结果？",
+        "先把知识分享想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕建筑设计组织标题与开头。",
+        "用知识分享和设计思维补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "建筑设计",
+        "知识分享",
+        "设计思维"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-07/7162546662861229351.json",
+      "processed_at": "2026-11-07T15:01:12+08:00"
+    },
+    "last_error": null
+  },
+  "7571807506113151601": {
+    "video_id": "7571807506113151601",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7571807506113151601",
+      "title": "@姚冠宇 2025.11.8莆田音乐节《离不开》直拍 《离不开》之于冠宇，应该算是目前作为歌手姚冠宇的代表作，之于姚姚乐，可能是冠宇每次音乐舞台的ending曲目，当歌曲结束，这场奔赴的幸福感被牢牢留存，也让我们对下一次见面多了一份期待，我们离不开，我们不离开！ #姚冠宇 #姚冠宇音乐节秒变青春男大",
+      "publish_time": "2025-11-12T12:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7571807506113151601",
+      "cover_url": "",
+      "like_count": 506,
+      "comment_count": 81,
+      "share_count": 83,
+      "collect_count": 38,
+      "description": "@姚冠宇 2025.11.8莆田音乐节《离不开》直拍 《离不开》之于冠宇，应该算是目前作为歌手姚冠宇的代表作，之于姚姚乐，可能是冠宇每次音乐舞台的ending曲目，当歌曲结束，这场奔赴的幸福感被牢牢留存，也让我们对下一次见面多了一份期待，我们离不开，我们不离开！ #姚冠宇 #姚冠宇音乐节秒变青春男大",
+      "text_hint": "@姚冠宇 2025.11.8莆田音乐节《离不开》直拍 《离不开》之于冠宇，应该算是目前作为歌手姚冠宇的代表作，之于姚姚乐，可能是冠宇每次音乐舞台的ending曲目，当歌曲结束，这场奔赴的幸福感被牢牢留存，也让我们对下一次见面多了一份期待，我们离不开，我们不离开！ #姚冠宇 #姚冠宇音乐节秒变青春男大",
+      "topic_tags": [
+        "姚冠宇",
+        "姚冠宇音乐节秒变青春男大"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/bc889a85-bac4-4bcb-8ca9-72878d336e9e",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7571807506113151601",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-07T14:57:44+08:00",
+    "last_seen_at": "2026-11-07T14:57:44+08:00",
+    "fetch_runs": [
+      "2026-11-07"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
