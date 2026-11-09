@@ -69363,5 +69363,373 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7705460868011560233": {
+    "video_id": "7705460868011560233",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "猫咪爱撒娇",
+      "video_id": "7705460868011560233",
+      "title": "紧扣2026秋人教版新教材，按课时编排，今天学校讲哪课，回家就练哪课，不超前不遗漏。",
+      "publish_time": "2026-11-08T00:03:44+08:00",
+      "video_url": "https://www.douyin.com/video/7705460868011560233",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-v-c9e10a/ogfIYy8iQSCRGa1CAXHGeBoziXGLGa8A0fyVgZ~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109567600&x-signature=CS6x130ZrtWgO7Fo0GbQ%2B%2BA7OC0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261109154917DE9E8DF94108822DB665",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "紧扣2026秋人教版新教材，按课时编排，今天学校讲哪课，回家就练哪课，不超前不遗漏。",
+      "text_hint": "紧扣2026秋人教版新教材，按课时编排，今天学校讲哪课，回家就练哪课，不超前不遗漏。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/e3cfc35b538f5927f26516b61f365ea7/6af1a55d/video/tos/cn/tos-cn-v-c9e10a/oAALURCeQKzG3ivXheCSbI8YVzNeZGI41gIAGB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=3981&bt=3981&cs=0&ds=4&ft=4rzAgkIKDyjNJsVQ9wPASHHhd.KfZA_03-ApQX&mime_type=video_mp4&qs=0&rc=Zjs2PDg4Zjk3aDlmPDpoOEBpajU0NW85cnJuZTMzNDYzM0AzMi0wYF5jNV8xYy8uXzAuYSMzNGtwMmQ0a2thLS1kMDBzcw%3D%3D&btag=c0000e00020000&cquery=102v_102u_100o_100w_100B&dy_q=1794210557&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=20261109154917DE9E8DF94108822DB665",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 48.577,
+      "raw_payload": {
+        "aweme_id": "7705460868011560233",
+        "author_uid": "2398460761650410",
+        "sec_uid": "MS4wLjABAAAAcb2Q9tolDsncMjlgWR7xTMKdeOtcKRU3LDj1pHgPOEiJd6Y7XCwNN0SVeQbZ5KfG",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAcb2Q9tolDsncMjlgWR7xTMKdeOtcKRU3LDj1pHgPOEiJd6Y7XCwNN0SVeQbZ5KfG"
+      }
+    },
+    "first_seen_at": "2026-11-09T15:48:56+08:00",
+    "last_seen_at": "2026-11-09T15:48:56+08:00",
+    "fetch_runs": [
+      "2026-11-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7608386640323671673": {
+    "video_id": "7608386640323671673",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7608386640323671673",
+      "title": "在抖音记录美好生活20261109",
+      "publish_time": "2026-11-09T15:50:19+08:00",
+      "video_url": "https://www.douyin.com/video/7608386640323671673",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261109",
+      "text_hint": "在抖音记录美好生活20261109",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ad72f8b0-cbcb-41d8-877c-d82741c97c70",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7608386640323671673",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-09T15:48:56+08:00",
+    "last_seen_at": "2026-11-09T15:48:56+08:00",
+    "fetch_runs": [
+      "2026-11-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7213339262698278182": {
+    "video_id": "7213339262698278182",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7213339262698278182",
+      "title": "在抖音记录美好生活20261109",
+      "publish_time": "2026-11-09T15:50:19+08:00",
+      "video_url": "https://www.douyin.com/video/7213339262698278182",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261109",
+      "text_hint": "在抖音记录美好生活20261109",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/71c3fb18-f53b-49a6-b701-36817f29f66a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7213339262698278182",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-09T15:48:56+08:00",
+    "last_seen_at": "2026-11-09T15:48:56+08:00",
+    "fetch_runs": [
+      "2026-11-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7227342288559656231": {
+    "video_id": "7227342288559656231",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "鱼姐不鲨鱼🐟",
+      "video_id": "7227342288559656231",
+      "title": "快艾特一个人给你做这个超可爱的小鸡咖喱饭#小鸡咖喱饭 #鱼姐的厨房日记 #咖喱饭",
+      "publish_time": "2023-04-29T13:39:27+08:00",
+      "video_url": "https://www.douyin.com/video/7227342288559656231",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6d1b7c12def5c4ee0db7caee8b29ec3c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109567600&x-signature=afbn73Bg2zSL7365MLFaGfns4uM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611091549325030B5A905C95732D65B",
+      "like_count": 74419,
+      "comment_count": 6998,
+      "share_count": 26400,
+      "collect_count": 29265,
+      "description": "快艾特一个人给你做这个超可爱的小鸡咖喱饭#小鸡咖喱饭 #鱼姐的厨房日记 #咖喱饭",
+      "text_hint": "快艾特一个人给你做这个超可爱的小鸡咖喱饭#小鸡咖喱饭 #鱼姐的厨房日记 #咖喱饭",
+      "topic_tags": [
+        "小鸡咖喱饭",
+        "鱼姐的厨房日记",
+        "咖喱饭"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/bb1caf2fb2d2a5c221ad7e414f70cafe/6af1a6a5/video/tos/cn/tos-cn-ve-15/octl1Gn2gABDjevAbAAgRKC84Kpqdw3P6eq9DS/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2374&bt=2374&cs=0&ds=3&ft=4rzAgkIKDyjNJsVQ9wnQSHHhd.KfZA_03-ApQX&mime_type=video_mp4&qs=0&rc=Z2g0ZWVkM2ZnZzU8aGg4M0BpM2dyZGU6ZnRkcTMzNGkzM0BeX2I1MjU1Nl4xMWM1Mi9eYSNyb29xcjRnNF5gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1794210572&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202611091549325030B5A905C95732D65B",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 361.367,
+      "raw_payload": {
+        "aweme_id": "7227342288559656231",
+        "author_uid": "71051272558",
+        "sec_uid": "MS4wLjABAAAAyW96AruJL0HwIveErCpLHCKDI9Kdtj8Smj2CbSk4D0U",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAyW96AruJL0HwIveErCpLHCKDI9Kdtj8Smj2CbSk4D0U"
+      }
+    },
+    "first_seen_at": "2026-11-09T15:48:56+08:00",
+    "last_seen_at": "2026-11-09T15:48:56+08:00",
+    "fetch_runs": [
+      "2026-11-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7583165315148762420": {
+    "video_id": "7583165315148762420",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7583165315148762420",
+      "title": "西藏包邮 橙固体香膏大牌coco固态香水套盒持久留香淡香便携 #便携香水 #固体香膏推荐 #香水 #香水控 #固体香水",
+      "publish_time": "2025-12-13T05:10:00+08:00",
+      "video_url": "https://www.douyin.com/video/7583165315148762420",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "西藏包邮 橙固体香膏大牌coco固态香水套盒持久留香淡香便携 #便携香水 #固体香膏推荐 #香水 #香水控 #固体香水",
+      "text_hint": "西藏包邮 橙固体香膏大牌coco固态香水套盒持久留香淡香便携 #便携香水 #固体香膏推荐 #香水 #香水控 #固体香水",
+      "topic_tags": [
+        "便携香水",
+        "固体香膏推荐",
+        "香水",
+        "香水控",
+        "固体香水"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/2a18bbcfe0f56aefeffa454402129e05/6af1a7e7/video/tos/cn/tos-cn-ve-15/oYeQcA92A38EqRc0vmDiigLnIBYfraY8LgB0AQ/?a=6383&br=1116&bt=1116&btag=c0000e00038000&cd=0%7C0%7C0%7C3&ch=26&cquery=100H_100K_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1794210588&feature_id=fea919893f650a8c49286568590446ef&ft=4rzAgkIKDyjNJsVQ9wdQSHHhd.KfZA_03-ApQX&is_ssr=1&l=2026110915494863FEE09EC325C51B4721&lr=all&mime_type=video_mp4&qs=0&rc=Zjg8OjY2Njo1OWU4OWllaUBpamRyOXE5cnhnNzMzNGkzM0BgLTItLzM0XjExNDNhMi0vYSNrazM1MmRzLXJhLS1kLTBzcw%3D%3D&__vid=7583165315148762420",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7583165315148762420",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-09T15:48:56+08:00",
+    "last_seen_at": "2026-11-09T15:48:56+08:00",
+    "fetch_runs": [
+      "2026-11-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7345055315550850358": {
+    "video_id": "7345055315550850358",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "勋哥·流量变现",
+      "video_id": "7345055315550850358",
+      "title": "粉丝福利，没有完整看完视频的，一律不接待，#起号 #如何通过短视频播放量变现 #如何成为带货达人",
+      "publish_time": "2024-03-11T18:46:08+08:00",
+      "video_url": "https://www.douyin.com/video/7345055315550850358",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2a125a1b2ebaf07144b50fbf30032dbd~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109567600&x-signature=oIEdTcEbGHbe6VUnOvi6s3k2E8Y%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261109154955C18706E9B8257DB61F98",
+      "like_count": 76,
+      "comment_count": 14,
+      "share_count": 11,
+      "collect_count": 43,
+      "description": "粉丝福利，没有完整看完视频的，一律不接待，#起号 #如何通过短视频播放量变现 #如何成为带货达人",
+      "text_hint": "粉丝福利，没有完整看完视频的，一律不接待，#起号 #如何通过短视频播放量变现 #如何成为带货达人",
+      "topic_tags": [
+        "起号",
+        "如何通过短视频播放量变现",
+        "如何成为带货达人"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/40fcc9f385c9923161d00c29201da5d0/6af1a684/video/tos/cn/tos-cn-ve-0015c800/oUe4gQhVl3Aw5mSuBe8DgBn6A7A9N0rEIbbvNu/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=902&bt=902&cs=0&ds=3&ft=4rzAgkIKDyjNJsVQ9wmQSHHhd.KfZA_03-ApQX&mime_type=video_mp4&qs=0&rc=OzU4O2c1OTw6PGY2NTRlNEBpajlkeWk6ZnhocTMzNGkzM0AxNmA2X2EtXzYxM2AtXy8uYSNec2YzcjRnLWtgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1794210595&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261109154955C18706E9B8257DB61F98",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 305.785,
+      "raw_payload": {
+        "aweme_id": "7345055315550850358",
+        "author_uid": "466644897636984",
+        "sec_uid": "MS4wLjABAAAAPBTKhhCYV2hUJRdGmYkNrDE8qOi32MUH6wxmVthq5MA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAPBTKhhCYV2hUJRdGmYkNrDE8qOi32MUH6wxmVthq5MA"
+      }
+    },
+    "first_seen_at": "2026-11-09T15:48:56+08:00",
+    "last_seen_at": "2026-11-09T15:48:56+08:00",
+    "fetch_runs": [
+      "2026-11-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7349152091169967423": {
+    "video_id": "7349152091169967423",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小龙堡【三角洲行动】",
+      "video_id": "7349152091169967423",
+      "title": "一把乱杀局，兄弟们学！ #XLB #韩服王者 #小龙堡教学 #豹女 #英雄联盟",
+      "publish_time": "2024-03-22T19:43:55+08:00",
+      "video_url": "https://www.douyin.com/video/7349152091169967423",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a60498cb8f11f0cedd5b8ff400efa383~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109567600&x-signature=Zqmr0FcKh2EcDgg9V1QqDJQc2ys%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261109154957EFC53B797E1F2A326F64",
+      "like_count": 1561,
+      "comment_count": 65,
+      "share_count": 74,
+      "collect_count": 38,
+      "description": "一把乱杀局，兄弟们学！ #XLB #韩服王者 #小龙堡教学 #豹女 #英雄联盟",
+      "text_hint": "一把乱杀局，兄弟们学！ #XLB #韩服王者 #小龙堡教学 #豹女 #英雄联盟",
+      "topic_tags": [
+        "XLB",
+        "韩服王者",
+        "小龙堡教学",
+        "豹女",
+        "英雄联盟"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/6d4ab4da4eb93896c557e4fac5e446ca/6af1a63a/video/tos/cn/tos-cn-ve-0015c800/oMxfnbs9BDEGEVjjfQLA8Ce9Io7WARX2zB0gc9/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1150&bt=1150&cs=0&ds=4&ft=4rzAgkIKDyjNJsVQ9wsQSHHhd.KfZA_03-ApQX&mime_type=video_mp4&qs=0&rc=OjRoNGQ4OTo1NzdoNDMzOUBpMzZreWU6ZnlwcTMzNGkzM0BiY19jYjVfNjUxNjEtYzAzYSNvY2c0cjRfbHJgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100H_100K_100o&dy_q=1794210597&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261109154957EFC53B797E1F2A326F64",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 229.9,
+      "raw_payload": {
+        "aweme_id": "7349152091169967423",
+        "author_uid": "2721984107774478",
+        "sec_uid": "MS4wLjABAAAAuQUOeTgCH4ODAuHcKrA5FoiLF28_xCrHTWD6oK_bLxhQ0b2HUjRwv-axtKXVeeP7",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAuQUOeTgCH4ODAuHcKrA5FoiLF28_xCrHTWD6oK_bLxhQ0b2HUjRwv-axtKXVeeP7"
+      }
+    },
+    "first_seen_at": "2026-11-09T15:48:56+08:00",
+    "last_seen_at": "2026-11-09T15:48:56+08:00",
+    "fetch_runs": [
+      "2026-11-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7324736628004605247": {
+    "video_id": "7324736628004605247",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7324736628004605247",
+      "title": "\"人生几何能够得到你\" \"所以我求求你别让我离开你\" 1月16日温柔霸总送给可爱寂宝的我只在乎你 不知道为啥听到这歌就有点莫名的感动#dl寂 #dll9 #长9之寂",
+      "publish_time": "2024-01-16T16:39:00+08:00",
+      "video_url": "https://www.douyin.com/video/7324736628004605247",
+      "cover_url": "",
+      "like_count": 710,
+      "comment_count": 71,
+      "share_count": 106,
+      "collect_count": 42,
+      "description": "\"人生几何能够得到你\" \"所以我求求你别让我离开你\" 1月16日温柔霸总送给可爱寂宝的我只在乎你 不知道为啥听到这歌就有点莫名的感动#dl寂 #dll9 #长9之寂",
+      "text_hint": "\"人生几何能够得到你\" \"所以我求求你别让我离开你\" 1月16日温柔霸总送给可爱寂宝的我只在乎你 不知道为啥听到这歌就有点莫名的感动#dl寂 #dll9 #长9之寂",
+      "topic_tags": [
+        "dl寂",
+        "dll9",
+        "长9之寂"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/a01590bae9665fd68fc75652c379e207/6af1a6af/video/tos/cn/tos-cn-ve-0015c800/oAGBesnQeML5Tsmoe7ZsAC7BnRGQIGgbALVu5D/?a=6383&br=160&bt=160&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100x_100z_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1794210614&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=4rzAgkIKDyjNJsVQ9wqQSHHhd.KfZA_03-ApQX&is_ssr=1&l=20261109155014DD4CAB3115CC7E36B951&lr=all&mime_type=video_mp4&qs=12&rc=ZDkzNGlkNmczNzQ6NDc3NUBpMzhndzs6ZmhkcDMzNGkzM0AwMDJiMDRfXmExYzAtXy9hYSNvb2xtcjRfc2dgLS1kLTBzcw%3D%3D&__vid=7324736628004605247",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7324736628004605247",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-09T15:48:56+08:00",
+    "last_seen_at": "2026-11-09T15:48:56+08:00",
+    "fetch_runs": [
+      "2026-11-09"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
   }
 }
