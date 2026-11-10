@@ -69731,5 +69731,624 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7706405906598679881": {
+    "video_id": "7706405906598679881",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "郑州轨道工程学院程老师",
+      "video_id": "7706405906598679881",
+      "title": "郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三",
+      "publish_time": "2026-11-10T13:10:48+08:00",
+      "video_url": "https://www.douyin.com/video/7706405906598679881",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/oMfQrnHVhpmBaf5C2KfM8BY76JAXSIUAWbEVAc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109657600&x-signature=1o1t6KHI%2Fnlrwdo%2FO5G3evc9NmU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261110161023EDB70F2F6FADF01E927D",
+      "like_count": 13,
+      "comment_count": 1,
+      "share_count": 14,
+      "collect_count": 0,
+      "description": "郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三",
+      "text_hint": "郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三",
+      "topic_tags": [
+        "汤阴中招",
+        "郑州轨道工程职业学院",
+        "汤阴初三"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a34255fdf3f304fb1a8d1b10495e6d66/6af2fba4/video/tos/cn/tos-cn-ve-15/ogKJEAAFxIm5r9Kgq0A8edEq2zpEDfZBN1IqXy/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=917&bt=917&cs=0&ds=3&ft=CZdgCYlIDyjNeyVQ9wZGYHHhd.uZ30l03-ApQX&mime_type=video_mp4&qs=0&rc=NDs4M2k4OGk6O2k8ZWkzO0BpanhvbHY5cmtkZTMzNGkzM0BhLV82MjEvNi4xLTFjL2MtYSNtZXBuMmQ0Ym1hLS1kLWFzcw%3D%3D&btag=c0000e00008000&cquery=100z_100o_100w_100B_100x&dy_q=1794298223&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261110161023EDB70F2F6FADF01E927D",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7706405906598679881.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7706405906598679881.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 5.667,
+      "raw_payload": {
+        "aweme_id": "7706405906598679881",
+        "author_uid": "4390771296336784",
+        "sec_uid": "MS4wLjABAAAASG1aEAwkUnhbIpaSQnBJbKFhMbTRz9Dedj3nihYfQtmxBhyWkuK4kKVMNB8OnGgM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAASG1aEAwkUnhbIpaSQnBJbKFhMbTRz9Dedj3nihYfQtmxBhyWkuK4kKVMNB8OnGgM"
+      }
+    },
+    "first_seen_at": "2026-11-10T16:09:58+08:00",
+    "last_seen_at": "2026-11-10T16:09:58+08:00",
+    "fetch_runs": [
+      "2026-11-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7706405906598679881.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7706405906598679881.mp3",
+      "source": "download",
+      "processed_at": "2026-11-10T16:11:11+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7706405906598679881",
+      "transcript_raw": "郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三补充信息：郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三关键词：汤阴中招、郑州轨道工程职业学院、汤阴初三",
+      "transcript_clean": "郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三补充信息：郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三关键词：汤阴中招、郑州轨道工程职业学院、汤阴初三",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-10/7706405906598679881.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7706405906598679881",
+      "summary": "郑州轨道工程学院程老师围绕“汤阴中招”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三。郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三补充信息：郑州轨道工程职业学院✅\n正式入驻汤阴！\n汤阴中招学子看过来👀\n招生宣传现已全面启动\n轨道类特色专业，升学就业双通道\n欢迎汤阴初三同学和家长咨询了解✨\n#汤阴中招 #郑州轨道工程职业学院 #汤阴初三关键词：汤阴中招、郑州轨道工程职业学院、汤阴初三 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "汤阴中招为什么总是做不出来结果？",
+        "先把郑州轨道工程职业学院想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕汤阴中招组织标题与开头。",
+        "用郑州轨道工程职业学院和汤阴初三补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "汤阴中招",
+        "郑州轨道工程职业学院",
+        "汤阴初三"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-10/7706405906598679881.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "last_error": null
+  },
+  "7471601410660896041": {
+    "video_id": "7471601410660896041",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "羊城晚报•羊城派",
+      "video_id": "7471601410660896041",
+      "title": "广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物",
+      "publish_time": "2025-02-15T19:13:53+08:00",
+      "video_url": "https://www.douyin.com/video/7471601410660896041",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3aa1d9963ed338ae7591c775b27f183b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109657600&x-signature=y3nL%2FCKL08VwtLzi3m%2BRmxhJumU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261110161026093E8198BE0D47BCB19C",
+      "like_count": 180,
+      "comment_count": 24,
+      "share_count": 106,
+      "collect_count": 15,
+      "description": "广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物",
+      "text_hint": "广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7f8c7e6c43be3de5f507e84d467424a2/6af2fbb5/video/tos/cn/tos-cn-ve-15/ooGIBImAPGggOBx6AZcN3PmQlQw2ii7AElBQY/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2624&bt=2624&cs=0&ds=4&ft=CZdgCYlIDyjNeyVQ9wzGYHHhd.uZ30l03-ApQX&mime_type=video_mp4&qs=0&rc=ZjszZTg5Omc6ZjpkNzQ2ZUBpMzRwaGs5cnE6eDMzNGkzM0AuMi0zMzJeXzExYDIvLWNeYSM0XmhnMmQ0YWxgLS1kLS9zcw%3D%3D&btag=c0000e00010000&cquery=100B_100H_100K_100o_100w&dy_q=1794298226&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261110161026093E8198BE0D47BCB19C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7471601410660896041.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7471601410660896041.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 19.389,
+      "raw_payload": {
+        "aweme_id": "7471601410660896041",
+        "author_uid": "104439645443",
+        "sec_uid": "MS4wLjABAAAACT0vADKxoF8nLnwQASPosvuuqBwPNeJitUgsmr6xumU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACT0vADKxoF8nLnwQASPosvuuqBwPNeJitUgsmr6xumU"
+      }
+    },
+    "first_seen_at": "2026-11-10T16:09:58+08:00",
+    "last_seen_at": "2026-11-10T16:09:58+08:00",
+    "fetch_runs": [
+      "2026-11-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7471601410660896041.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7471601410660896041.mp3",
+      "source": "download",
+      "processed_at": "2026-11-10T16:13:29+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7471601410660896041",
+      "transcript_raw": "广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物补充信息：广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物",
+      "transcript_clean": "广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物补充信息：广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-10/7471601410660896041.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7471601410660896041",
+      "summary": "羊城晚报•羊城派围绕“广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物补充信息：广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物。广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物补充信息：广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物补充信息：广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物补充信息：广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物补充信息：广州一中学被曝厕所装监控，学生称感觉如厕时会被拍到。校方回应：对着洗手槽，防破坏公物",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-10/7471601410660896041.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "last_error": null
+  },
+  "7343567074045725963": {
+    "video_id": "7343567074045725963",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7343567074045725963",
+      "title": "在抖音记录美好生活20261110",
+      "publish_time": "2026-11-10T16:11:09+08:00",
+      "video_url": "https://www.douyin.com/video/7343567074045725963",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261110",
+      "text_hint": "在抖音记录美好生活20261110",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d5ffbcbe-f360-40a2-9d4c-df9f0cfcae10",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7343567074045725963",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-10T16:09:58+08:00",
+    "last_seen_at": "2026-11-10T16:09:58+08:00",
+    "fetch_runs": [
+      "2026-11-10"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7345065440277777702": {
+    "video_id": "7345065440277777702",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "教培敬妈👩🏻‍🦳11月宁波线下课",
+      "video_id": "7345065440277777702",
+      "title": "我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享",
+      "publish_time": "2024-03-11T19:25:24+08:00",
+      "video_url": "https://www.douyin.com/video/7345065440277777702",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0d9b3bb071a31a98b4345480517308af~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109657600&x-signature=vBD6SOFKS8%2BEAinLiUaZrHAk%2Fx8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611101610361CB6BD529900EAA90A0A",
+      "like_count": 38,
+      "comment_count": 10,
+      "share_count": 3,
+      "collect_count": 8,
+      "description": "我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享",
+      "text_hint": "我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享",
+      "topic_tags": [
+        "培训机构",
+        "教育培训机构",
+        "教培机构",
+        "教育培训",
+        "干货分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/da3549c44c31061748a2ae96b0ccf489/6af2fcd8/video/tos/cn/tos-cn-ve-0015c800/oAGTqQNzyB6Crh3fhg032AIGAA5uN9MgBeEsbV/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=895&bt=895&cs=0&ds=3&ft=CZdgCYlIDyjNeyVQ9wTGYHHhd.uZ30l03-ApQX&mime_type=video_mp4&qs=0&rc=ZDRmOTo6aGQ4Omk0PDo1NEBpM2U6MzU6ZmRocTMzNGkzM0BfMjIuMDNgXzAxXzQ1LS5jYSMwY2MwcjRnZ2tgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1794298236&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202611101610361CB6BD529900EAA90A0A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7345065440277777702.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7345065440277777702.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 300.234,
+      "raw_payload": {
+        "aweme_id": "7345065440277777702",
+        "author_uid": "92216869416",
+        "sec_uid": "MS4wLjABAAAAaRA9-kqtzPntE_JiiPh9Q5SKxliuW_cCZOordz0FpEg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAaRA9-kqtzPntE_JiiPh9Q5SKxliuW_cCZOordz0FpEg"
+      }
+    },
+    "first_seen_at": "2026-11-10T16:09:58+08:00",
+    "last_seen_at": "2026-11-10T16:09:58+08:00",
+    "fetch_runs": [
+      "2026-11-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7345065440277777702.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7345065440277777702.mp3",
+      "source": "download",
+      "processed_at": "2026-11-10T16:13:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7345065440277777702",
+      "transcript_raw": "我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享补充信息：我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享关键词：培训机构、教育培训机构、教培机构、教育培训、干货分享",
+      "transcript_clean": "我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享补充信息：我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享关键词：培训机构、教育培训机构、教培机构、教育培训、干货分享",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-10/7345065440277777702.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7345065440277777702",
+      "summary": "教培敬妈👩🏻‍🦳11月宁波线下课围绕“培训机构”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享。我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享补充信息：我之所以做教培很大一部分原因，是受我原生家庭的影响，如果你做教培很迷茫，不妨花点时间好好看看这条视频#培训机构 #教育培训机构 #教培机构 #教育培训 #干货分享关键词：培训机构、教育培训机构、教培机构、教育培训、干货分享 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "培训机构为什么总是做不出来结果？",
+        "先把教育培训机构想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕培训机构组织标题与开头。",
+        "用教育培训机构和教培机构补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "培训机构",
+        "教育培训机构",
+        "教培机构"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-10/7345065440277777702.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "last_error": null
+  },
+  "7589269042884660515": {
+    "video_id": "7589269042884660515",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7589269042884660515",
+      "title": "在抖音记录美好生活20261110",
+      "publish_time": "2026-11-10T16:11:09+08:00",
+      "video_url": "https://www.douyin.com/video/7589269042884660515",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261110",
+      "text_hint": "在抖音记录美好生活20261110",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/7333aef3-4f2a-4328-96d0-2537636d36fc",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7589269042884660515",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-10T16:09:58+08:00",
+    "last_seen_at": "2026-11-10T16:09:58+08:00",
+    "fetch_runs": [
+      "2026-11-10"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7167693637273390339": {
+    "video_id": "7167693637273390339",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "彩云南现城（祥云佳利）",
+      "video_id": "7167693637273390339",
+      "title": "喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手",
+      "publish_time": "2022-11-19T19:52:10+08:00",
+      "video_url": "https://www.douyin.com/video/7167693637273390339",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/ce0b78c815e143a9b4455aff26f37026~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109657600&x-signature=YjY1hFZ1T%2FmDbFYb3bDveJPbdqo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611101610464340DDE15D8E3BB8F490",
+      "like_count": 195,
+      "comment_count": 52,
+      "share_count": 112,
+      "collect_count": 11,
+      "description": "喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手",
+      "text_hint": "喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手",
+      "topic_tags": [
+        "彩云南现城",
+        "广场舞dou起来"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/caa902381de574cc743b30ddac59be9b/6af2fcea/video/tos/cn/tos-cn-ve-0015c800/oMxQBCsiDeAgbeiAo7CnGqp4MxxfIcG4GBmbCL/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2521&bt=2521&cs=0&ds=3&ft=CZdgCYlIDyjNeyVQ9wSYYHHhd.uZ30l03-ApQX&mime_type=video_mp4&qs=0&rc=aTo8NDppaDc4Zzk2ZWVmOEBpanJtN2g6ZmRmZzMzNGkzM0BfYGMyMjBfNjYxNTBgYWBhYSNsbG41cjRnMXBgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1794298246&l=202611101610464340DDE15D8E3BB8F490",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7167693637273390339.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7167693637273390339.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 308.756,
+      "raw_payload": {
+        "aweme_id": "7167693637273390339",
+        "author_uid": "2321786456252525",
+        "sec_uid": "MS4wLjABAAAAV_T-DFFVZ9NDn0uP3tFsKX-bsMOu2e2m1Jhwi1w-hkUpGcDcuCNDq9VAaZ1Ra0RM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAV_T-DFFVZ9NDn0uP3tFsKX-bsMOu2e2m1Jhwi1w-hkUpGcDcuCNDq9VAaZ1Ra0RM"
+      }
+    },
+    "first_seen_at": "2026-11-10T16:09:58+08:00",
+    "last_seen_at": "2026-11-10T16:09:58+08:00",
+    "fetch_runs": [
+      "2026-11-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7167693637273390339.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7167693637273390339.mp3",
+      "source": "download",
+      "processed_at": "2026-11-10T16:14:43+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7167693637273390339",
+      "transcript_raw": "喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手补充信息：喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手关键词：彩云南现城、广场舞dou起来",
+      "transcript_clean": "喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手补充信息：喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手关键词：彩云南现城、广场舞dou起来",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-10/7167693637273390339.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7167693637273390339",
+      "summary": "彩云南现城（祥云佳利）围绕“彩云南现城”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手。喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手补充信息：喜欢就点点赞#彩云南现城 #广场舞dou起来 @DOU+小助手关键词：彩云南现城、广场舞dou起来 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "彩云南现城为什么总是做不出来结果？",
+        "先把广场舞dou起来想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕彩云南现城组织标题与开头。",
+        "用广场舞dou起来和#广场舞dou起来补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "彩云南现城",
+        "广场舞dou起来",
+        "#广场舞dou起来"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-10/7167693637273390339.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "last_error": null
+  },
+  "7562901475970534675": {
+    "video_id": "7562901475970534675",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "刘斌钓鱼",
+      "video_id": "7562901475970534675",
+      "title": "2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓",
+      "publish_time": "2025-10-20T08:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7562901475970534675",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2b9851d6217f8daaf1d7d3b316c47035~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109657600&x-signature=hkRWk5rpUUNme6boi2b1zU8W%2FC8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261110161048C859F5D2F986F6A46AAE",
+      "like_count": 6140,
+      "comment_count": 363,
+      "share_count": 179,
+      "collect_count": 321,
+      "description": "2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓",
+      "text_hint": "2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓",
+      "topic_tags": [
+        "原来钓鱼才是抖音运动顶流",
+        "钓鱼",
+        "钓鱼人",
+        "dou是钓鱼人",
+        "野钓"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0cdc0354e1023a5118fbb7b8e882638e/6af2fe07/video/tos/cn/tos-cn-ve-15/o8nDFBGfNA8tKnD1ITKOEf4wNi9hoEAgjAh9gs/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2806&bt=2806&cs=0&ds=4&ft=CZdgCYlIDyjNeyVQ9weYYHHhd.uZ30l03-ApQX&mime_type=video_mp4&qs=0&rc=MzZmNDw4M2hmOmY1ZGc2OEBpM2R0cng5cnZnNjMzNGkzM0BjXy5iYF9eNjAxLS1eMjEzYSNwLy1jMmQ0Lm5hLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1794298248&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20261110161048C859F5D2F986F6A46AAE",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7562901475970534675.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7562901475970534675.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 591.8,
+      "raw_payload": {
+        "aweme_id": "7562901475970534675",
+        "author_uid": "3149455073482456",
+        "sec_uid": "MS4wLjABAAAAvuzNYH9YzBXfajZ82gy87BWp7vyCi4iR2RhlhhvTYrhVVoVc5Z9ynCZmky58i_8t",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAvuzNYH9YzBXfajZ82gy87BWp7vyCi4iR2RhlhhvTYrhVVoVc5Z9ynCZmky58i_8t"
+      }
+    },
+    "first_seen_at": "2026-11-10T16:09:58+08:00",
+    "last_seen_at": "2026-11-10T16:09:58+08:00",
+    "fetch_runs": [
+      "2026-11-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7562901475970534675.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7562901475970534675.mp3",
+      "source": "download",
+      "processed_at": "2026-11-10T16:13:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7562901475970534675",
+      "transcript_raw": "2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓补充信息：2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓关键词：原来钓鱼才是抖音运动顶流、钓鱼、钓鱼人、dou是钓鱼人、野钓",
+      "transcript_clean": "2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓补充信息：2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓关键词：原来钓鱼才是抖音运动顶流、钓鱼、钓鱼人、dou是钓鱼人、野钓",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-10/7562901475970534675.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7562901475970534675",
+      "summary": "刘斌钓鱼围绕“原来钓鱼才是抖音运动顶流”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓。2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓补充信息：2025年第58集：今年的季节难道就这样结束了。 #原来钓鱼才是抖音运动顶流 #钓鱼 #钓鱼人 #dou是钓鱼人 #野钓关键词：原来钓鱼才是抖音运动顶流、钓鱼、钓鱼人、dou是钓鱼人、野钓 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "原来钓鱼才是抖音运动顶流为什么总是做不出来结果？",
+        "先把钓鱼想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕原来钓鱼才是抖音运动顶流组织标题与开头。",
+        "用钓鱼和钓鱼人补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "原来钓鱼才是抖音运动顶流",
+        "钓鱼",
+        "钓鱼人"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-10/7562901475970534675.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "last_error": null
+  },
+  "7529552965041720591": {
+    "video_id": "7529552965041720591",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7529552965041720591",
+      "title": "红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼",
+      "publish_time": "2025-07-21T15:11:00+08:00",
+      "video_url": "https://www.douyin.com/video/7529552965041720591",
+      "cover_url": "",
+      "like_count": 13,
+      "comment_count": 23,
+      "share_count": 0,
+      "collect_count": 7,
+      "description": "红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼",
+      "text_hint": "红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼",
+      "topic_tags": [
+        "路亚教学",
+        "夏天就是要玩水",
+        "船钓鲈鱼"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7d6c312eeaf93e6f012bb300ffcbdedd/6af2fcc3/video/tos/cn/tos-cn-ve-0015c800/ogxAmqyftg2e4qlIhiOsAiBNLAP9Qxsk0lwq2T/?a=6383&br=1658&bt=1658&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1794298264&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNeyVQ9wuYYHHhd.uZ30l03-ApQX&is_ssr=1&l=202611101611044FB9C5DB08FE79BEDB47&lr=all&mime_type=video_mp4&qs=12&rc=ODkzZTk8ZDhoZmVpZzU2PEBpamw4bjprb2s4NDMzNGkzM0AtNDE2L141NjQxLmNeYmMuYSNtYWZecWdeZHNhLS1kLWFzcw%3D%3D&__vid=7529552965041720591",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7529552965041720591.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7529552965041720591.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7529552965041720591",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-10T16:09:58+08:00",
+    "last_seen_at": "2026-11-10T16:09:58+08:00",
+    "fetch_runs": [
+      "2026-11-10"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7529552965041720591.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-10/7529552965041720591.mp3",
+      "source": "download",
+      "processed_at": "2026-11-10T16:13:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7529552965041720591",
+      "transcript_raw": "红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼补充信息：红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼关键词：路亚教学、夏天就是要玩水、船钓鲈鱼",
+      "transcript_clean": "红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼补充信息：红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼关键词：路亚教学、夏天就是要玩水、船钓鲈鱼",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-10/7529552965041720591.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7529552965041720591",
+      "summary": "知雪围绕“路亚教学”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼。红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼补充信息：红旗水库耍水一日游，钓不到鱼还是要快乐一下的。#路亚教学 #夏天就是要玩水 #船钓鲈鱼关键词：路亚教学、夏天就是要玩水、船钓鲈鱼 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "路亚教学为什么总是做不出来结果？",
+        "先把夏天就是要玩水想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕路亚教学组织标题与开头。",
+        "用夏天就是要玩水和船钓鲈鱼补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "路亚教学",
+        "夏天就是要玩水",
+        "船钓鲈鱼"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-10/7529552965041720591.json",
+      "processed_at": "2026-11-10T16:14:44+08:00"
+    },
+    "last_error": null
   }
 }
