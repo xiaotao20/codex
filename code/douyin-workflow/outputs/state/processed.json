@@ -70350,5 +70350,724 @@
       "processed_at": "2026-11-10T16:14:44+08:00"
     },
     "last_error": null
+  },
+  "7706334675895542646": {
+    "video_id": "7706334675895542646",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "雨博韵潇2023",
+      "video_id": "7706334675895542646",
+      "title": "苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享",
+      "publish_time": "2026-11-10T08:34:23+08:00",
+      "video_url": "https://www.douyin.com/video/7706334675895542646",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oYqnh5EQIEwqII8fUZFeyAfAqoYFIAA5DCm9Cu~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109740400&x-signature=r02ufMWzU0PAFsy%2F2Ye%2FHZtoK0g%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261111153929F3C30F865EBC928BC765",
+      "like_count": 5,
+      "comment_count": 3,
+      "share_count": 1,
+      "collect_count": 4,
+      "description": "苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享",
+      "text_hint": "苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享",
+      "topic_tags": [
+        "初中数学",
+        "高考",
+        "昆山教育",
+        "家长必读",
+        "干货分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/fff5034707bafed9ef0b443648e092d2/6af445f6/video/tos/cn/tos-cn-ve-15c000-ce/ocJXmhWZyMvI1gCiOPLBclAPiaKQAv3pEgIqC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=246&bt=246&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9w2Vz2Hhd.KbY9X73-ApQX&mime_type=video_mp4&qs=0&rc=ZzZkOjM4NjU2Z2g5NGg0O0BpampkZHE5cjU5ZTMzbGkzNEA0NmFfNTRfXzQxMV5fXmM1YSNuLWRiMmQ0YG1hLS1kLWJzcw%3D%3D&btag=c0000e00010000&cquery=100x_100z_100o_100w_100B&dy_q=1794382769&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261111153929F3C30F865EBC928BC765",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7706334675895542646.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7706334675895542646.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 21.013,
+      "raw_payload": {
+        "aweme_id": "7706334675895542646",
+        "author_uid": "460030307742541",
+        "sec_uid": "MS4wLjABAAAAypWMEJSyshRUjffilziFER3DEe_mbRGWUIXcL0-e1Lk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAypWMEJSyshRUjffilziFER3DEe_mbRGWUIXcL0-e1Lk"
+      }
+    },
+    "first_seen_at": "2026-11-11T15:39:15+08:00",
+    "last_seen_at": "2026-11-11T15:39:15+08:00",
+    "fetch_runs": [
+      "2026-11-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7706334675895542646.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7706334675895542646.mp3",
+      "source": "download",
+      "processed_at": "2026-11-11T15:40:27+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7706334675895542646",
+      "transcript_raw": "苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享补充信息：苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享关键词：初中数学、高考、昆山教育、家长必读、干货分享",
+      "transcript_clean": "苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享补充信息：苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享关键词：初中数学、高考、昆山教育、家长必读、干货分享",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-11/7706334675895542646.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7706334675895542646",
+      "summary": "雨博韵潇2023围绕“初中数学”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享。苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享补充信息：苏州中学高一数学期中考试试卷 苏州中学高一数学试卷难度天花板，学霸直接不及格#初中数学 #高考 #昆山教育 #家长必读 #干货分享关键词：初中数学、高考、昆山教育、家长必读、干货分享 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "初中数学为什么总是做不出来结果？",
+        "先把高考想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕初中数学组织标题与开头。",
+        "用高考和昆山教育补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "初中数学",
+        "高考",
+        "昆山教育"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-11/7706334675895542646.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "last_error": null
+  },
+  "7501988288506514725": {
+    "video_id": "7501988288506514725",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "上海收纳师小米辣",
+      "video_id": "7501988288506514725",
+      "title": "23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业",
+      "publish_time": "2025-05-08T16:26:18+08:00",
+      "video_url": "https://www.douyin.com/video/7501988288506514725",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ba97a0b12b0ffb9b9062f6a6fb815de0~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109740400&x-signature=L1t%2F7Fyr7GxFtI%2BiYknIseDpkjI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261111153932E58D94CB8CD595256C84",
+      "like_count": 79,
+      "comment_count": 5,
+      "share_count": 15,
+      "collect_count": 33,
+      "description": "23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业",
+      "text_hint": "23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业",
+      "topic_tags": [
+        "收纳师",
+        "整理收纳",
+        "创业",
+        "搞钱女孩",
+        "副业"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/896f1fe0d8bd151e3330b9ee0e155ce0/6af44648/video/cn/mps/realtime/v1/r/p/v0300fg10000d0e6k1vog65uqds6c9f0/940be86870bd404489a9bb4861647926/91532286eb4a5c8fe84dab91f1c70d02/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=929&bt=929&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNeRVQ9w6Vz2Hhd.KbY9X73-ApQX&mime_type=video_mp4&qs=0&rc=OTw3NDtlPDw3M2czOztlN0BpMzw5Z3g5cjQ5MzMzNGkzM0AvNDMzMV9eNTExXzQzYi02YSNjYHBuMmRzaGJhLS1kLTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100z_100o_100w_100B_100x&definition=720p&dy_q=1794382772&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7501988288506514725&l=20261111153932E58D94CB8CD595256C84&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7501988288506514725.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7501988288506514725.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 100.818,
+      "raw_payload": {
+        "aweme_id": "7501988288506514725",
+        "author_uid": "1732451476453101",
+        "sec_uid": "MS4wLjABAAAAeL9TrC3yAObs6OK1TRm45J-DV7aAASQi4jp6koU0LauXNnCLPUixoKba_Ua3QRIn",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAeL9TrC3yAObs6OK1TRm45J-DV7aAASQi4jp6koU0LauXNnCLPUixoKba_Ua3QRIn"
+      }
+    },
+    "first_seen_at": "2026-11-11T15:39:15+08:00",
+    "last_seen_at": "2026-11-11T15:39:15+08:00",
+    "fetch_runs": [
+      "2026-11-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7501988288506514725.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7501988288506514725.mp3",
+      "source": "download",
+      "processed_at": "2026-11-11T15:40:57+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7501988288506514725",
+      "transcript_raw": "23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业补充信息：23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业关键词：收纳师、整理收纳、创业、搞钱女孩、副业",
+      "transcript_clean": "23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业补充信息：23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业关键词：收纳师、整理收纳、创业、搞钱女孩、副业",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-11/7501988288506514725.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7501988288506514725",
+      "summary": "上海收纳师小米辣围绕“收纳师”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业。23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业补充信息：23岁在上海做整理收纳月营业额10w｜4个关键动作#收纳师 #整理收纳 #创业 #搞钱女孩 #副业关键词：收纳师、整理收纳、创业、搞钱女孩、副业 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "收纳师为什么总是做不出来结果？",
+        "先把整理收纳想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕收纳师组织标题与开头。",
+        "用整理收纳和创业补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "收纳师",
+        "整理收纳",
+        "创业"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-11/7501988288506514725.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "last_error": null
+  },
+  "7412294248592182566": {
+    "video_id": "7412294248592182566",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "初月悦读",
+      "video_id": "7412294248592182566",
+      "title": "123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事",
+      "publish_time": "2024-09-08T23:28:31+08:00",
+      "video_url": "https://www.douyin.com/video/7412294248592182566",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/15559d22ecb39f0871690f74480524aa~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109740400&x-signature=hYwGe6rEoJD%2F%2BeqTItvm%2FngFGJY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261111153935B620B09D4FF09286F9FF",
+      "like_count": 16,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 3,
+      "description": "123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事",
+      "text_hint": "123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事",
+      "topic_tags": [
+        "人物故事"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/71bb731f1c4fa027289cb0e0e7a6c73c/6af446e2/video/tos/cn/tos-cn-ve-0015c800/osdPEIAtUrUgHB2ikwDZGQAyQwZbB3i4vPIVB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=510&bt=510&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9wJVz2Hhd.KbY9X73-ApQX&mime_type=video_mp4&qs=0&rc=NjppMzs5ZTwzN2VmODg4NUBpM3Bqc3I5cm52dTMzNGkzM0AtNjIzLmEuNWIxNjZiMzU0YSMwNC8wMmRrL2JgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100K_100o_100w_100B_100H&dy_q=1794382775&feature_id=aa7df520beeae8e397df15f38df0454c&l=20261111153935B620B09D4FF09286F9FF",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7412294248592182566.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7412294248592182566.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 251.38,
+      "raw_payload": {
+        "aweme_id": "7412294248592182566",
+        "author_uid": "644789234567034",
+        "sec_uid": "MS4wLjABAAAAxUoBJTojGHfJntipBgprzuA9o_vtxulj-cop5A6euKM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAxUoBJTojGHfJntipBgprzuA9o_vtxulj-cop5A6euKM"
+      }
+    },
+    "first_seen_at": "2026-11-11T15:39:15+08:00",
+    "last_seen_at": "2026-11-11T15:39:15+08:00",
+    "fetch_runs": [
+      "2026-11-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7412294248592182566.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7412294248592182566.mp3",
+      "source": "download",
+      "processed_at": "2026-11-11T15:41:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7412294248592182566",
+      "transcript_raw": "123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事补充信息：123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事关键词：人物故事",
+      "transcript_clean": "123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事补充信息：123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事关键词：人物故事",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-11/7412294248592182566.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7412294248592182566",
+      "summary": "初月悦读围绕“人物故事”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事。123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事补充信息：123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事关键词：人物故事 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "人物故事为什么总是做不出来结果？",
+        "先把123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事补充信息：123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事关键词：人物故事想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕人物故事组织标题与开头。",
+        "用123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事补充信息：123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事关键词：人物故事和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "人物故事",
+        "123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事补充信息：123年前《辛丑条约》签订后，他索回超额赔款1196万美元，催生了清华#人物故事关键词：人物故事",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-11/7412294248592182566.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "last_error": null
+  },
+  "7404391271369870632": {
+    "video_id": "7404391271369870632",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "数学老申",
+      "video_id": "7404391271369870632",
+      "title": "初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程",
+      "publish_time": "2024-08-18T16:20:00+08:00",
+      "video_url": "https://www.douyin.com/video/7404391271369870632",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c649eceabc6d82e5b39ae92113fbbffe~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109740400&x-signature=OZ9Dj3NHQ%2BonaVQqKFTlBvglIRQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261111153938C98DD4E1067461947CDE",
+      "like_count": 12,
+      "comment_count": 4,
+      "share_count": 0,
+      "collect_count": 6,
+      "description": "初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程",
+      "text_hint": "初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程",
+      "topic_tags": [
+        "初中",
+        "数学",
+        "上热门",
+        "解方程",
+        "一元一次方程"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8f807e045026aa290fe3819e849fe4e9/6af44781/video/tos/cn/tos-cn-ve-0015c800/oAuxBAKKaNgEREImfwFfABg7KrcH3cQE9VDjAQ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=212&bt=212&cs=0&ds=3&ft=CZdgCYlIDyjNeRVQ9w-Vz2Hhd.KbY9X73-ApQX&mime_type=video_mp4&qs=0&rc=aTQ7NDo0OzpnaGkzMzk0Z0BpMzg1OGs5cm50dTMzNGkzM0A1XjBfMjI0NjIxYy0vMi5gYSM0Xm1lMmQ0by1gLS1kLWFzcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1794382778&feature_id=2e1813f3872a2105acee44623dff2864&l=20261111153938C98DD4E1067461947CDE",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7404391271369870632.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7404391271369870632.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 407.604,
+      "raw_payload": {
+        "aweme_id": "7404391271369870632",
+        "author_uid": "1577171156210124",
+        "sec_uid": "MS4wLjABAAAAm0eniTYpXIPRxn2er3fX2w-4VnlxEqLQohPzUkjzajJS0AnHfm2OJPJfitDPzPeX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAm0eniTYpXIPRxn2er3fX2w-4VnlxEqLQohPzUkjzajJS0AnHfm2OJPJfitDPzPeX"
+      }
+    },
+    "first_seen_at": "2026-11-11T15:39:15+08:00",
+    "last_seen_at": "2026-11-11T15:39:15+08:00",
+    "fetch_runs": [
+      "2026-11-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7404391271369870632.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7404391271369870632.mp3",
+      "source": "download",
+      "processed_at": "2026-11-11T15:41:20+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7404391271369870632",
+      "transcript_raw": "初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程补充信息：初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程关键词：初中、数学、上热门、解方程、一元一次方程",
+      "transcript_clean": "初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程补充信息：初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程关键词：初中、数学、上热门、解方程、一元一次方程",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-11/7404391271369870632.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7404391271369870632",
+      "summary": "数学老申围绕“初中”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程。初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程补充信息：初中数学零基础课程第三章第五节解一元一次方程——去分母 #初中 #数学 #上热门 @DOU+小助手 @抖音小助手 #解方程 #一元一次方程关键词：初中、数学、上热门、解方程、一元一次方程 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "初中为什么总是做不出来结果？",
+        "先把数学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕初中组织标题与开头。",
+        "用数学和上热门补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "初中",
+        "数学",
+        "上热门"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-11/7404391271369870632.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "last_error": null
+  },
+  "7587579437790580022": {
+    "video_id": "7587579437790580022",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7587579437790580022",
+      "title": "#二手家电 #维修电工 #家用电器 #电器维修 #二手空调",
+      "publish_time": "2025-12-25T00:03:00+08:00",
+      "video_url": "https://www.douyin.com/video/7587579437790580022",
+      "cover_url": "",
+      "like_count": 4,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "#二手家电 #维修电工 #家用电器 #电器维修 #二手空调",
+      "text_hint": "#二手家电 #维修电工 #家用电器 #电器维修 #二手空调",
+      "topic_tags": [
+        "二手家电",
+        "维修电工",
+        "家用电器",
+        "电器维修",
+        "二手空调"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/dba830acf982c9c3b8d2dc6032bb244a/6af446ae/video/tos/cn/tos-cn-ve-0015c800/owecYcZABCCIYXA0U2GwaSR7mgf62f7PPL8Biu/?a=6383&br=2169&bt=2169&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1794382794&feature_id=fea919893f650a8c49286568590446ef&ft=CZdgCYlIDyjNeRVQ9wAmz2Hhd.KbY9X73-ApQX&is_ssr=1&l=20261111153954B42B3F921862D68F60F7&lr=all&mime_type=video_mp4&qs=0&rc=Njw7OzVnOjk0NTg0NmlpO0BpanZ2bG85cm06ODMzNGkzM0AuYTA0LS5gNTMxLi5hNGEzYSM0X3AzMmQ0cjNhLS1kLWFzcw%3D%3D&__vid=7587579437790580022",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7587579437790580022.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7587579437790580022.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7587579437790580022",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-11T15:39:15+08:00",
+    "last_seen_at": "2026-11-11T15:39:15+08:00",
+    "fetch_runs": [
+      "2026-11-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7587579437790580022.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7587579437790580022.mp3",
+      "source": "download",
+      "processed_at": "2026-11-11T15:40:46+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7587579437790580022",
+      "transcript_raw": "#二手家电 #维修电工 #家用电器 #电器维修 #二手空调#二手家电 #维修电工 #家用电器 #电器维修 #二手空调补充信息：#二手家电 #维修电工 #家用电器 #电器维修 #二手空调关键词：二手家电、维修电工、家用电器、电器维修、二手空调",
+      "transcript_clean": "#二手家电 #维修电工 #家用电器 #电器维修 #二手空调#二手家电 #维修电工 #家用电器 #电器维修 #二手空调补充信息：#二手家电 #维修电工 #家用电器 #电器维修 #二手空调关键词：二手家电、维修电工、家用电器、电器维修、二手空调",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-11/7587579437790580022.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7587579437790580022",
+      "summary": "知雪围绕“二手家电”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#二手家电 #维修电工 #家用电器 #电器维修 #二手空调。#二手家电 #维修电工 #家用电器 #电器维修 #二手空调#二手家电 #维修电工 #家用电器 #电器维修 #二手空调补充信息：#二手家电 #维修电工 #家用电器 #电器维修 #二手空调关键词：二手家电、维修电工、家用电器、电器维修、二手空调 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "二手家电为什么总是做不出来结果？",
+        "先把维修电工想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕二手家电组织标题与开头。",
+        "用维修电工和家用电器补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "二手家电",
+        "维修电工",
+        "家用电器"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-11/7587579437790580022.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "last_error": null
+  },
+  "7326914952965524763": {
+    "video_id": "7326914952965524763",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "公孙先生I",
+      "video_id": "7326914952965524763",
+      "title": "晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享",
+      "publish_time": "2024-01-22T21:32:13+08:00",
+      "video_url": "https://www.douyin.com/video/7326914952965524763",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b61a4546bb4d1937787ee1263bb41109~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109740400&x-signature=RRYpBuoFZtuWLAJZJHmM7JLh6wo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111115400133CB4F4615A735437674",
+      "like_count": 226,
+      "comment_count": 31,
+      "share_count": 15,
+      "collect_count": 36,
+      "description": "晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享",
+      "text_hint": "晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享",
+      "topic_tags": [
+        "戏剧精彩唱段分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/188878ebc2ca7da0aead2136fceb7d97/6af4470e/video/tos/cn/tos-cn-ve-0015c800/oYmAsrEaT8KEABNWBln69vg43DgSbAFnReqoZe/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2372&bt=2372&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9wNmz2Hhd.KbY9X73-ApQX&mime_type=video_mp4&qs=0&rc=ZjU1NTVpNjpoNWY4OGc8aUBpajQ0aDw6Zng5cDMzNGkzM0BhXl5gXl81X14xMjU0LTUyYSM1MmxucjRnb2tgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1794382801&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026111115400133CB4F4615A735437674",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7326914952965524763.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7326914952965524763.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 269.677,
+      "raw_payload": {
+        "aweme_id": "7326914952965524763",
+        "author_uid": "360245692207359",
+        "sec_uid": "MS4wLjABAAAA757UKMulHQ0yasCMLsd4Z4vE4rR4ZQsRXAZbU1VXbuM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA757UKMulHQ0yasCMLsd4Z4vE4rR4ZQsRXAZbU1VXbuM"
+      }
+    },
+    "first_seen_at": "2026-11-11T15:39:15+08:00",
+    "last_seen_at": "2026-11-11T15:39:15+08:00",
+    "fetch_runs": [
+      "2026-11-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7326914952965524763.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7326914952965524763.mp3",
+      "source": "download",
+      "processed_at": "2026-11-11T15:42:01+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7326914952965524763",
+      "transcript_raw": "晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享补充信息：晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享关键词：戏剧精彩唱段分享",
+      "transcript_clean": "晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享补充信息：晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享关键词：戏剧精彩唱段分享",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-11/7326914952965524763.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7326914952965524763",
+      "summary": "公孙先生I围绕“戏剧精彩唱段分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享。晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享补充信息：晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱 #戏剧精彩唱段分享关键词：戏剧精彩唱段分享 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "戏剧精彩唱段分享为什么总是做不出来结果？",
+        "先把晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕戏剧精彩唱段分享组织标题与开头。",
+        "用晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱和#戏剧精彩唱段分享晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "戏剧精彩唱段分享",
+        "晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱",
+        "#戏剧精彩唱段分享晋剧《深宫情恨》选段——威逼我世外人又登宫门，马派传人王和爱"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-11/7326914952965524763.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "last_error": null
+  },
+  "7101996374207565092": {
+    "video_id": "7101996374207565092",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "魂牵van火影",
+      "video_id": "7101996374207565092",
+      "title": "下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都",
+      "publish_time": "2022-05-26T18:53:09+08:00",
+      "video_url": "https://www.douyin.com/video/7101996374207565092",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/53e99a65fe7eebde50b1259f882a3548~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109740400&x-signature=7FR%2BrTrPC8V2bWre%2BeNrcDXSjWU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261111154004A75DF89A2C09264482F4",
+      "like_count": 7981,
+      "comment_count": 134,
+      "share_count": 77,
+      "collect_count": 636,
+      "description": "下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都",
+      "text_hint": "下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都",
+      "topic_tags": [
+        "火影忍者手游",
+        "火影忍者",
+        "晓创生角都"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/743dd87d466450d8f2903e57cd733a20/6af446be/video/tos/cn/tos-cn-ve-0015c800/9d1b58beef1442f9b6faf43b81981a86/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2275&bt=2275&cs=0&ds=4&ft=CZdgCYlIDyjNeRVQ9womz2Hhd.KbY9X73-ApQX&mime_type=video_mp4&qs=0&rc=NWdlNmc1aDllZzM1OzM7OkBpanNsbzU6Zm5vZDMzNGkzM0BeLzIyM2JhXy4xXzMwLTI2YSMtLy1ncjQwazRgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_102u_100o_100w&dy_q=1794382805&l=20261111154004A75DF89A2C09264482F4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7101996374207565092.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7101996374207565092.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 185.69,
+      "raw_payload": {
+        "aweme_id": "7101996374207565092",
+        "author_uid": "114004878440160",
+        "sec_uid": "MS4wLjABAAAAnsCvFbOSdTrKDdD3LYIC5276V5w_P_jsGvq98rAANPA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAnsCvFbOSdTrKDdD3LYIC5276V5w_P_jsGvq98rAANPA"
+      }
+    },
+    "first_seen_at": "2026-11-11T15:39:15+08:00",
+    "last_seen_at": "2026-11-11T15:39:15+08:00",
+    "fetch_runs": [
+      "2026-11-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7101996374207565092.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7101996374207565092.mp3",
+      "source": "download",
+      "processed_at": "2026-11-11T15:42:29+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7101996374207565092",
+      "transcript_raw": "下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都补充信息：下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都关键词：火影忍者手游、火影忍者、晓创生角都",
+      "transcript_clean": "下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都补充信息：下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都关键词：火影忍者手游、火影忍者、晓创生角都",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-11/7101996374207565092.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7101996374207565092",
+      "summary": "魂牵van火影围绕“火影忍者手游”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都。下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都补充信息：下次来点什么好呢？\n #火影忍者手游 #火影忍者 #晓创生角都关键词：火影忍者手游、火影忍者、晓创生角都 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "火影忍者手游为什么总是做不出来结果？",
+        "先把火影忍者想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕火影忍者手游组织标题与开头。",
+        "用火影忍者和晓创生角都补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "火影忍者手游",
+        "火影忍者",
+        "晓创生角都"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-11/7101996374207565092.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "last_error": null
+  },
+  "7097546732371741993": {
+    "video_id": "7097546732371741993",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7097546732371741993",
+      "title": "糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房",
+      "publish_time": "2022-05-14T11:06:00+08:00",
+      "video_url": "https://www.douyin.com/video/7097546732371741993",
+      "cover_url": "",
+      "like_count": 812,
+      "comment_count": 91,
+      "share_count": 19,
+      "collect_count": 91,
+      "description": "糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房",
+      "text_hint": "糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房",
+      "topic_tags": [
+        "澳洲",
+        "澳大利亚",
+        "墨尔本",
+        "拍卖师",
+        "拍卖会",
+        "买房"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1631946cc6c3e20288167cdd3b0869d3/6af446e9/video/tos/cn/tos-cn-ve-0015c800/731f6bd46ead428da30beeaa45644baf/?a=6383&br=1104&bt=1104&btag=80000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_102u_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1794382820&ft=CZdgCYlIDyjNeRVQ9wLmz2Hhd.KbY9X73-ApQX&is_ssr=1&l=20261111154020DA4135307A259E8BE205&lr=all&mime_type=video_mp4&qs=0&rc=Omk2aDxnPDdoZjZoZ2QzZkBpMzRrdGY6ZmRyPDMzNGkzM0BjMzJjYC1fXy4xNDUuMjEtYSNucHI2cjRva3NgLS1kLWFzcw%3D%3D&__vid=7097546732371741993",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7097546732371741993.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7097546732371741993.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7097546732371741993",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-11T15:39:15+08:00",
+    "last_seen_at": "2026-11-11T15:39:15+08:00",
+    "fetch_runs": [
+      "2026-11-11"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7097546732371741993.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-11/7097546732371741993.mp3",
+      "source": "download",
+      "processed_at": "2026-11-11T15:42:40+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7097546732371741993",
+      "transcript_raw": "糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房补充信息：糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房关键词：澳洲、澳大利亚、墨尔本、拍卖师、拍卖会、买房",
+      "transcript_clean": "糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房补充信息：糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房关键词：澳洲、澳大利亚、墨尔本、拍卖师、拍卖会、买房",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-11/7097546732371741993.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7097546732371741993",
+      "summary": "知雪围绕“澳洲”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房。糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房补充信息：糟糕！我是不是又把买家惹急了！？ 失利的挫败感让买家愤然离场？#澳洲 #澳大利亚 #墨尔本 #拍卖师 #拍卖会 #买房关键词：澳洲、澳大利亚、墨尔本、拍卖师、拍卖会、买房 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "澳洲为什么总是做不出来结果？",
+        "先把澳大利亚想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕澳洲组织标题与开头。",
+        "用澳大利亚和墨尔本补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "澳洲",
+        "澳大利亚",
+        "墨尔本"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-11/7097546732371741993.json",
+      "processed_at": "2026-11-11T15:42:41+08:00"
+    },
+    "last_error": null
   }
 }
