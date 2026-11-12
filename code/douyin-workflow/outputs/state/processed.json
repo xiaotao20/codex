@@ -71069,5 +71069,671 @@
       "processed_at": "2026-11-11T15:42:41+08:00"
     },
     "last_error": null
+  },
+  "7706686440754810216": {
+    "video_id": "7706686440754810216",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "陪伴师小兰自学英语",
+      "video_id": "7706686440754810216",
+      "title": "#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门",
+      "publish_time": "2026-11-11T07:19:26+08:00",
+      "video_url": "https://www.douyin.com/video/7706686440754810216",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o4eUINiJdDAPTy4lX6F9A9qEXATgqBh8QrfhnE~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109830400&x-signature=PFn1HcKlrEvPuaWcFPbZG7JSE1c%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261112160812616F19A27CD9FBD178BC",
+      "like_count": 11,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门",
+      "text_hint": "#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门",
+      "topic_tags": [
+        "我自学外语的逆袭之路",
+        "vlog十亿流量扶持计划",
+        "英语",
+        "抖音小助手",
+        "上热门",
+        "Vlog十亿流量扶持计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1f326b7e26d2e7abf053a2b77eb13352/6af59e79/video/tos/cn/tos-cn-ve-15/oQv8NIdEDV1U6Bp1gEfqAiQEpFk5kqAAAeR90z/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3150&bt=3150&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wVMS2Hhd.DWnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=Njc2NWlkOzc6Njg6ZDs4OkBpam9waHg5cjp0ZTMzNGkzM0BiYmMuYzY2NV4xLmAtYGMyYSM1Z15mMmRjXm1hLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1794470892&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261112160812616F19A27CD9FBD178BC",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7706686440754810216.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7706686440754810216.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 93.809,
+      "raw_payload": {
+        "aweme_id": "7706686440754810216",
+        "author_uid": "3765208162774398",
+        "sec_uid": "MS4wLjABAAAArghDFDAPd2gdP2YXv57S1eo0jZq5oLRfM_C76zdpHcHEWccdmxh1ck5xVS69Z-SH",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAArghDFDAPd2gdP2YXv57S1eo0jZq5oLRfM_C76zdpHcHEWccdmxh1ck5xVS69Z-SH"
+      }
+    },
+    "first_seen_at": "2026-11-12T16:07:50+08:00",
+    "last_seen_at": "2026-11-12T16:07:50+08:00",
+    "fetch_runs": [
+      "2026-11-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7706686440754810216.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7706686440754810216.mp3",
+      "source": "download",
+      "processed_at": "2026-11-12T16:09:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7706686440754810216",
+      "transcript_raw": "#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门补充信息：#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门关键词：我自学外语的逆袭之路、vlog十亿流量扶持计划、英语、抖音小助手、上热门、Vlog十亿流量扶持计划",
+      "transcript_clean": "#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门补充信息：#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门关键词：我自学外语的逆袭之路、vlog十亿流量扶持计划、英语、抖音小助手、上热门、Vlog十亿流量扶持计划",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-12/7706686440754810216.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7706686440754810216",
+      "summary": "陪伴师小兰自学英语围绕“我自学外语的逆袭之路”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门。#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门补充信息：#我自学外语的逆袭之路 我慢慢懂得，不是所有人都值得我消耗精力，也不是每一种看法都值得我放在心上。人生短暂，不必为了得到别人的认可而活。#Vlog十亿流量扶持计划#英语#抖音小助手#我自学外语的逆袭之路 #上热门关键词：我自学外语的逆袭之路、vlog十亿流量扶持计划、英语、抖音小助手、上热门、Vlog十亿流量扶持计划 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "我自学外语的逆袭之路为什么总是做不出来结果？",
+        "先把vlog十亿流量扶持计划想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕我自学外语的逆袭之路组织标题与开头。",
+        "用vlog十亿流量扶持计划和英语补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "我自学外语的逆袭之路",
+        "vlog十亿流量扶持计划",
+        "英语"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-12/7706686440754810216.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "last_error": null
+  },
+  "7624365988489858342": {
+    "video_id": "7624365988489858342",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "新世界-NewWord",
+      "video_id": "7624365988489858342",
+      "title": "7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案",
+      "publish_time": "2026-04-03T11:14:05+08:00",
+      "video_url": "https://www.douyin.com/video/7624365988489858342",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4f258bc4bc8db36d2cea988779990981~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109830400&x-signature=%2B%2BdK9K4D4o753MHGalJWOn6lbpM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261112160815F79A0ED75C8C5FF7A335",
+      "like_count": 264,
+      "comment_count": 14,
+      "share_count": 21,
+      "collect_count": 60,
+      "description": "7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案",
+      "text_hint": "7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案",
+      "topic_tags": [
+        "枪支暴力",
+        "留学生生存记录",
+        "美国治安",
+        "公共安全",
+        "枪击案"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/24acb71f13d3ecd0d6f3bca94b198b0a/6af5a153/video/tos/cn/tos-cn-ve-15/okJbSff9DB7TFIBBiPEMliITnCGEjyUAtb7TfA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1368&bt=1368&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wZMS2Hhd.DWnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=aTszZzhkZzs3Ozs8MzY7OUBpM3k1eXA5cnJsOjMzNGkzM0BfXzNjNTE2NjAxMzUyLTVgYSNtaGhsMmRrczRhLS1kLTBzcw%3D%3D&btag=80000e00038000&cquery=100B_100H_100K_100o_100w&dy_q=1794470895&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261112160815F79A0ED75C8C5FF7A335",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7624365988489858342.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7624365988489858342.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 820.688,
+      "raw_payload": {
+        "aweme_id": "7624365988489858342",
+        "author_uid": "354464986566067",
+        "sec_uid": "MS4wLjABAAAAQjn3GaS6MS38RpfInQcltjt_iRxLsYUJTms59bI1P9U",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQjn3GaS6MS38RpfInQcltjt_iRxLsYUJTms59bI1P9U"
+      }
+    },
+    "first_seen_at": "2026-11-12T16:07:50+08:00",
+    "last_seen_at": "2026-11-12T16:07:50+08:00",
+    "fetch_runs": [
+      "2026-11-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7624365988489858342.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7624365988489858342.mp3",
+      "source": "download",
+      "processed_at": "2026-11-12T16:10:36+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7624365988489858342",
+      "transcript_raw": "7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案补充信息：7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案关键词：枪支暴力、留学生生存记录、美国治安、公共安全、枪击案",
+      "transcript_clean": "7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案补充信息：7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案关键词：枪支暴力、留学生生存记录、美国治安、公共安全、枪击案",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-12/7624365988489858342.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7624365988489858342",
+      "summary": "新世界-NewWord围绕“枪支暴力”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案。7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案补充信息：7个月大女婴遭流弹杀局，美国枪击案频发连马斯克都没有安全感？ 如果你摊开2025年的美国治安报表，会看到一个极其漂亮的数字：各类暴力事件正在减少。但在这些冰冷的数据背后，却是截然相反的社会体感：光天化日之下的婴儿车成为靶子，逃离战场的难民倒在下班的列车上，甚至连身价千亿的科技巨头，都在为去一趟超市而感到心惊肉跳。\n \n这座曾经被无数人向往的灯塔，它的底层安全契约究竟是如何被一步步瓦解的？当暴力的成本低到只需25美分，当司法的宽容变成对普通人的残忍，生存在这片土地上的人们，究竟在为谁的自由买单？\n \n本影片依据公开资讯与当事人公开发言、主流媒体报导进行整理与评论；部分内容属于传闻阶段，已于口播中明确标注，资讯可能随后续公开信息更新而变动。\n你认为在一个现代社会中，公共安全应该是一种天赋人权，还是必须靠金钱去选配的奢侈品？欢迎在留言区分享你的看法。\n#枪支暴力  #留学生生存记录  #美国治安 #公共安全#枪击案关键词：枪支暴力、留学生生存记录、美国治安、公共安全、枪击案 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "枪支暴力为什么总是做不出来结果？",
+        "先把留学生生存记录想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕枪支暴力组织标题与开头。",
+        "用留学生生存记录和美国治安补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "枪支暴力",
+        "留学生生存记录",
+        "美国治安"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-12/7624365988489858342.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "last_error": null
+  },
+  "7416630981332880640": {
+    "video_id": "7416630981332880640",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "源创力无损检测培训",
+      "video_id": "7416630981332880640",
+      "title": "射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测",
+      "publish_time": "2024-09-24T14:55:00+08:00",
+      "video_url": "https://www.douyin.com/video/7416630981332880640",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/5d4732257ce0d011729ec353657e7c9b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109830400&x-signature=AW%2FGlaWwgeUXxqEMlMqq7vG6BJY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111216081876164520802D1CF4CB64",
+      "like_count": 56,
+      "comment_count": 0,
+      "share_count": 8,
+      "collect_count": 34,
+      "description": "射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测",
+      "text_hint": "射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测",
+      "topic_tags": [
+        "射线检测"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/033b6f3c44b435abb0e95b2bf227532f/6af59f07/video/cn/mps/realtime/v1/r/p/v0200fg10000crmiktfog65n627jltig/acfdd5a54c1a4f9bb6c7541113d0a58c/0376f0725546d4fa7a936f740ec3173e/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=173&bt=173&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNb~VQ9wzMS2Hhd.DWnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=ZjgzNjQ3OjllaWRmODhnZkBpandtNXE5cndsdTMzNGkzM0A1XmEuLjJgXzYxLjFeYWNeYSNmaTQzMmRjaGpgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100w_100B_100H_100K_100o&definition=720p&dy_q=1794470898&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7416630981332880640&l=2026111216081876164520802D1CF4CB64&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7416630981332880640.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7416630981332880640.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 230.245,
+      "raw_payload": {
+        "aweme_id": "7416630981332880640",
+        "author_uid": "93137035137",
+        "sec_uid": "MS4wLjABAAAAzDXMHvCodkm0N-QPY2yWNA_gNoxxoa3h88OV0SRaOUA",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAzDXMHvCodkm0N-QPY2yWNA_gNoxxoa3h88OV0SRaOUA"
+      }
+    },
+    "first_seen_at": "2026-11-12T16:07:50+08:00",
+    "last_seen_at": "2026-11-12T16:07:50+08:00",
+    "fetch_runs": [
+      "2026-11-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7416630981332880640.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7416630981332880640.mp3",
+      "source": "download",
+      "processed_at": "2026-11-12T16:11:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7416630981332880640",
+      "transcript_raw": "射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测补充信息：射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测关键词：射线检测",
+      "transcript_clean": "射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测补充信息：射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测关键词：射线检测",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-12/7416630981332880640.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7416630981332880640",
+      "summary": "源创力无损检测培训围绕“射线检测”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测。射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测补充信息：射线照相质量的影响因素 射线照相灵敏度的影响因素 概述（三） #射线检测关键词：射线检测 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "射线检测为什么总是做不出来结果？",
+        "先把射线照相灵敏度的影响因素想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕射线检测组织标题与开头。",
+        "用射线照相灵敏度的影响因素和概述（三）补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "射线检测",
+        "射线照相灵敏度的影响因素",
+        "概述（三）"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-12/7416630981332880640.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "last_error": null
+  },
+  "7413410983814712628": {
+    "video_id": "7413410983814712628",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "NL节点教育",
+      "video_id": "7413410983814712628",
+      "title": "越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语",
+      "publish_time": "2024-09-11T23:41:14+08:00",
+      "video_url": "https://www.douyin.com/video/7413410983814712628",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1c3fc1ae8547277627e067d99c18de08~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109830400&x-signature=VyqrhZwOs4%2B2REAbSiCRVCgFTL8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111216082171D9D98A31E738B3AF84",
+      "like_count": 28,
+      "comment_count": 3,
+      "share_count": 6,
+      "collect_count": 14,
+      "description": "越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语",
+      "text_hint": "越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语",
+      "topic_tags": [
+        "越南语",
+        "外贸",
+        "外贸出口",
+        "外贸人",
+        "榴莲口语"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e8f64b4f8fc018a62ceba26893e85f43/6af59ff8/video/tos/cn/tos-cn-ve-0015c800/oIvcNIfEBmazNBudgivmAaQNliluLzAAyy9eah/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=196&bt=196&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9wyMS2Hhd.DWnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=ODpmNDRkNzs1ZzNlOzZkZUBpand0dWw5cnl1dTMzNGkzM0BjX2BgYS9gNjMxM2IvMGM0YSNyXmhmMmRrZ2RgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1794470901&feature_id=aa7df520beeae8e397df15f38df0454c&l=2026111216082171D9D98A31E738B3AF84",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7413410983814712628.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7413410983814712628.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 467.535,
+      "raw_payload": {
+        "aweme_id": "7413410983814712628",
+        "author_uid": "600765608499015",
+        "sec_uid": "MS4wLjABAAAAIUCo56DtnYMNeHlkT2WsaJu9uggbdJD7ljl957UjFQk",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAIUCo56DtnYMNeHlkT2WsaJu9uggbdJD7ljl957UjFQk"
+      }
+    },
+    "first_seen_at": "2026-11-12T16:07:50+08:00",
+    "last_seen_at": "2026-11-12T16:07:50+08:00",
+    "fetch_runs": [
+      "2026-11-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7413410983814712628.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7413410983814712628.mp3",
+      "source": "download",
+      "processed_at": "2026-11-12T16:11:17+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7413410983814712628",
+      "transcript_raw": "越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语补充信息：越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语关键词：越南语、外贸、外贸出口、外贸人、榴莲口语",
+      "transcript_clean": "越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语补充信息：越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语关键词：越南语、外贸、外贸出口、外贸人、榴莲口语",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-12/7413410983814712628.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7413410983814712628",
+      "summary": "NL节点教育围绕“越南语”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语。越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语补充信息：越南语日常生活单词补充\n#越南语 #外贸 #外贸出口 #外贸人#榴莲口语关键词：越南语、外贸、外贸出口、外贸人、榴莲口语 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "越南语为什么总是做不出来结果？",
+        "先把外贸想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕越南语组织标题与开头。",
+        "用外贸和外贸出口补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "越南语",
+        "外贸",
+        "外贸出口"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-12/7413410983814712628.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "last_error": null
+  },
+  "7228863905299303736": {
+    "video_id": "7228863905299303736",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7228863905299303736",
+      "title": "故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常",
+      "publish_time": "2023-05-03T08:04:00+08:00",
+      "video_url": "https://www.douyin.com/video/7228863905299303736",
+      "cover_url": "",
+      "like_count": 22,
+      "comment_count": 4,
+      "share_count": 4,
+      "collect_count": 1,
+      "description": "故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常",
+      "text_hint": "故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常",
+      "topic_tags": [
+        "抖音记录修理工的日常"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b7090ecf3a33c4ee95e3cef13c68163d/6af59f76/video/tos/cn/tos-cn-ve-0015c800/ocHydl4giAjLQeqJgIfTKrCz0tS7rPPhAABZkE/?a=6383&br=879&bt=879&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1794470917&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNb~VQ9wtPS2Hhd.DWnhXR3-ApQX&is_ssr=1&l=20261112160837D74BA30731F1F5AED769&lr=all&mime_type=video_mp4&qs=12&rc=OTk1NWg1aGU4OzVlaDNmOkBpanU1bmU6ZnR5azMzNGkzM0AvYDFiMGBhX14xLi4xNGEtYSM2a2gwcjRfbDVgLS1kLS9zcw%3D%3D&__vid=7228863905299303736",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7228863905299303736.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7228863905299303736.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7228863905299303736",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-12T16:07:50+08:00",
+    "last_seen_at": "2026-11-12T16:07:50+08:00",
+    "fetch_runs": [
+      "2026-11-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7228863905299303736.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7228863905299303736.mp3",
+      "source": "download",
+      "processed_at": "2026-11-12T16:11:32+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7228863905299303736",
+      "transcript_raw": "故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常补充信息：故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常关键词：抖音记录修理工的日常",
+      "transcript_clean": "故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常补充信息：故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常关键词：抖音记录修理工的日常",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-12/7228863905299303736.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7228863905299303736",
+      "summary": "知雪围绕“抖音记录修理工的日常”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常。故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常补充信息：故障 开钥匙鼓风机工作无法关闭。 原因 雨刷下方排水口堵塞，水进入车内，导致鼓风机进电阻进水。 排除 检查线路开关控制线，继电器的电源线，和地线没有问题 排除其他原因 更换电阻，解决问题。 三分修，七分养，希望大家重视起来。 修车如人生，一生在修车！ #抖音记录修理工的日常关键词：抖音记录修理工的日常 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "抖音记录修理工的日常为什么总是做不出来结果？",
+        "先把开钥匙鼓风机工作无法关闭想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕抖音记录修理工的日常组织标题与开头。",
+        "用开钥匙鼓风机工作无法关闭和原因补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "抖音记录修理工的日常",
+        "开钥匙鼓风机工作无法关闭",
+        "原因"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-12/7228863905299303736.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "last_error": null
+  },
+  "6906776586285059342": {
+    "video_id": "6906776586285059342",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小菌总",
+      "video_id": "6906776586285059342",
+      "title": "鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”",
+      "publish_time": "2020-12-16T17:01:03+08:00",
+      "video_url": "https://www.douyin.com/video/6906776586285059342",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e3f71ac835dfdabc25436e0de403950c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109830400&x-signature=bJU9D6JMH0Xh14Hx0Iq56amvW48%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111216084553191DCE740D91F8B0FB",
+      "like_count": 249735,
+      "comment_count": 10361,
+      "share_count": 3214,
+      "collect_count": 3605,
+      "description": "鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”",
+      "text_hint": "鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7ab75902fc11c98bd53aee1d9b41f37e/6af59f8e/video/tos/cn/tos-cn-ve-15/8dccd32b7fc44904a1ae852db6969046/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3773&bt=3773&cs=0&ds=3&ft=CZdgCYlIDyjNb~VQ9w8PS2Hhd.DWnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=OTpoOzVmaTxpM2lmO2c2PEBpM2U6OnZqajh2eTMzN2kzM0BeNGMtMzQyXy0xMDEtNDZhYSNjcWZxMmdia2BfLS0yLS9zcw%3D%3D&btag=c0000e00030000&cquery=100-_102u_100o_100w_100B&dy_q=1794470925&l=2026111216084553191DCE740D91F8B0FB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/6906776586285059342.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/6906776586285059342.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 337.154,
+      "raw_payload": {
+        "aweme_id": "6906776586285059342",
+        "author_uid": "3386102776866236",
+        "sec_uid": "MS4wLjABAAAAzz_TKDLuuPvRTYsVQuqlX_8EQHLtAun9k8wAB9EStAgxZG5ZPd8zBDBZ7hPIzmRq",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAzz_TKDLuuPvRTYsVQuqlX_8EQHLtAun9k8wAB9EStAgxZG5ZPd8zBDBZ7hPIzmRq"
+      }
+    },
+    "first_seen_at": "2026-11-12T16:07:50+08:00",
+    "last_seen_at": "2026-11-12T16:07:50+08:00",
+    "fetch_runs": [
+      "2026-11-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/6906776586285059342.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/6906776586285059342.mp3",
+      "source": "download",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "6906776586285059342",
+      "transcript_raw": "鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”补充信息：鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”",
+      "transcript_clean": "鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”补充信息：鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-12/6906776586285059342.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "analysis": {
+      "video_id": "6906776586285059342",
+      "summary": "小菌总围绕“鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”补充信息：鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对””给出了一条可直接执行的短视频经验。",
+      "clean_copy": "鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”。鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”补充信息：鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对” 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”补充信息：鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”补充信息：鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”补充信息：鲁班大师说鲁班曾给他讲过一个叫鲁迅的人有一句话“本是萍水相逢，何必针锋相对”",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-12/6906776586285059342.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "last_error": null
+  },
+  "7551100870826773819": {
+    "video_id": "7551100870826773819",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "一个香蕉说球",
+      "video_id": "7551100870826773819",
+      "title": "穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队",
+      "publish_time": "2025-09-18T00:48:01+08:00",
+      "video_url": "https://www.douyin.com/video/7551100870826773819",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/cf54b2b69adc7651c39a3c5c8e5703a8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109830400&x-signature=FdznE0FkLBKZ4kuCCO0HKVHiGpA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261112160848D598B89A337CEDF687BB",
+      "like_count": 4193,
+      "comment_count": 506,
+      "share_count": 124,
+      "collect_count": 268,
+      "description": "穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队",
+      "text_hint": "穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队",
+      "topic_tags": [
+        "穆里尼奥",
+        "本菲卡",
+        "罗马诺",
+        "葡萄牙国家队"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e103ee6147b20e8f8b8ea2848e058892/6af59f0d/video/tos/cn/tos-cn-ve-15c000-ce/oAgceAGl85uJqL7fRl4Pxg8BgQfVCacIv6zcIT/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=953&bt=953&cs=0&ds=4&ft=CZdgCYlIDyjNb~VQ9w0PS2Hhd.DWnhXR3-ApQX&mime_type=video_mp4&qs=0&rc=ODY8PDgzaGZkODM8NGRoaEBpM3Z4b3Y5cjxoNjMzbGkzNEBeNC8wYmAwXjYxYDM2MTM2YSNjZ2lwMmRzYDJhLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1794470928&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20261112160848D598B89A337CEDF687BB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7551100870826773819.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7551100870826773819.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 205.869,
+      "raw_payload": {
+        "aweme_id": "7551100870826773819",
+        "author_uid": "515015802632244",
+        "sec_uid": "MS4wLjABAAAANF_h_6rqOp5iMXpZlDSHnwHChPgCrk3uPiSn-JRUyRo",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAANF_h_6rqOp5iMXpZlDSHnwHChPgCrk3uPiSn-JRUyRo"
+      }
+    },
+    "first_seen_at": "2026-11-12T16:07:50+08:00",
+    "last_seen_at": "2026-11-12T16:07:50+08:00",
+    "fetch_runs": [
+      "2026-11-12"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7551100870826773819.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-12/7551100870826773819.mp3",
+      "source": "download",
+      "processed_at": "2026-11-12T16:10:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7551100870826773819",
+      "transcript_raw": "穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队补充信息：穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队关键词：穆里尼奥、本菲卡、罗马诺、葡萄牙国家队",
+      "transcript_clean": "穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队补充信息：穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队关键词：穆里尼奥、本菲卡、罗马诺、葡萄牙国家队",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-12/7551100870826773819.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "analysis": {
+      "video_id": "7551100870826773819",
+      "summary": "一个香蕉说球围绕“穆里尼奥”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队。穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队补充信息：穆里尼奥为什么要选择执教本菲卡？ #穆里尼奥 #本菲卡 #罗马诺 #葡萄牙国家队关键词：穆里尼奥、本菲卡、罗马诺、葡萄牙国家队 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "穆里尼奥为什么总是做不出来结果？",
+        "先把本菲卡想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕穆里尼奥组织标题与开头。",
+        "用本菲卡和罗马诺补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "穆里尼奥",
+        "本菲卡",
+        "罗马诺"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-12/7551100870826773819.json",
+      "processed_at": "2026-11-12T16:13:54+08:00"
+    },
+    "last_error": null
+  },
+  "7575891197000994074": {
+    "video_id": "7575891197000994074",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7575891197000994074",
+      "title": "在抖音记录美好生活20261112",
+      "publish_time": "2026-11-12T16:08:55+08:00",
+      "video_url": "https://www.douyin.com/video/7575891197000994074",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261112",
+      "text_hint": "在抖音记录美好生活20261112",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/e041ff1f-b9ac-4b31-84e0-8e50da470814",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7575891197000994074",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-12T16:07:50+08:00",
+    "last_seen_at": "2026-11-12T16:07:50+08:00",
+    "fetch_runs": [
+      "2026-11-12"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
