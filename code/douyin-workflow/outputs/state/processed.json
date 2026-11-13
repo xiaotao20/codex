@@ -71735,5 +71735,621 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7707484508635486641": {
+    "video_id": "7707484508635486641",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "wwQQ",
+      "video_id": "7707484508635486641",
+      "title": "罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常",
+      "publish_time": "2026-11-13T10:56:20+08:00",
+      "video_url": "https://www.douyin.com/video/7707484508635486641",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oAV0OyssZDwQPAL7EJTgDFEFq7B1ghefNifGIw~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109913200&x-signature=2GGexaC%2BvbwJudcM7grrZWQlD%2Fk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261113154344AA990EF47C10F775C706",
+      "like_count": 7,
+      "comment_count": 0,
+      "share_count": 1,
+      "collect_count": 4,
+      "description": "罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常",
+      "text_hint": "罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常",
+      "topic_tags": [
+        "每一堂课都经得起考验",
+        "课堂随拍记录",
+        "每天学习一点点",
+        "这才是大学真正该教的",
+        "上课日常"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d96ffb59cf4aa42625b65bf0bc4a02f1/6af6e9ea/video/tos/cn/tos-cn-ve-15c000-ce/owpIwq9QW6QfEqqYBFnMAiEDsDiFfhA49gBxPn/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1325&bt=1325&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wDep2Hhd.Y8PMeR3-ApQX&mime_type=video_mp4&qs=0&rc=aTVkZ2Q6OTw6aDQ4Z2g1ZEBpM3Zvams5cm06ZTMzbGkzNUAvYTEtMi5hNjIxNGAvLmI2YSMzNjQyMmQ0bG9hLS1kLTRzcw%3D%3D&btag=c0000e00008000&cquery=100x_100z_100o_100w_100B&dy_q=1794555824&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261113154344AA990EF47C10F775C706",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7707484508635486641.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7707484508635486641.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 10.055,
+      "raw_payload": {
+        "aweme_id": "7707484508635486641",
+        "author_uid": "7636366941708895269",
+        "sec_uid": "MS4wLjABAAAAdN82DLG3tlrHXGwr9u4bgdboP0mM0BI87axqjRXSnYnD4ju4aDlvtNf0YTxV7y5S",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdN82DLG3tlrHXGwr9u4bgdboP0mM0BI87axqjRXSnYnD4ju4aDlvtNf0YTxV7y5S"
+      }
+    },
+    "first_seen_at": "2026-11-13T15:43:25+08:00",
+    "last_seen_at": "2026-11-13T15:43:25+08:00",
+    "fetch_runs": [
+      "2026-11-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7707484508635486641.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7707484508635486641.mp3",
+      "source": "download",
+      "processed_at": "2026-11-13T15:44:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7707484508635486641",
+      "transcript_raw": "罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常补充信息：罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常关键词：每一堂课都经得起考验、课堂随拍记录、每天学习一点点、这才是大学真正该教的、上课日常",
+      "transcript_clean": "罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常补充信息：罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常关键词：每一堂课都经得起考验、课堂随拍记录、每天学习一点点、这才是大学真正该教的、上课日常",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-13/7707484508635486641.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "analysis": {
+      "video_id": "7707484508635486641",
+      "summary": "wwQQ围绕“每一堂课都经得起考验”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常。罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常补充信息：罗老师的讲课太夯了！#每一堂课都经得起考验#课堂随拍记录#每天学习一点点#这才是大学真正该教的#上课日常关键词：每一堂课都经得起考验、课堂随拍记录、每天学习一点点、这才是大学真正该教的、上课日常 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "每一堂课都经得起考验为什么总是做不出来结果？",
+        "先把课堂随拍记录想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕每一堂课都经得起考验组织标题与开头。",
+        "用课堂随拍记录和每天学习一点点补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "每一堂课都经得起考验",
+        "课堂随拍记录",
+        "每天学习一点点"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-13/7707484508635486641.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "last_error": null
+  },
+  "7662379131866271022": {
+    "video_id": "7662379131866271022",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "观察者网",
+      "video_id": "7662379131866271022",
+      "title": "多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”",
+      "publish_time": "2026-07-14T21:44:41+08:00",
+      "video_url": "https://www.douyin.com/video/7662379131866271022",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/d11082e8d2f4d3755f1b9398516aeb12~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109913200&x-signature=xzMRWEzqdrYgc3CPlUKEwZXZ%2Fh0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261113154347D7338133EE15F32F914F",
+      "like_count": 1026,
+      "comment_count": 11,
+      "share_count": 240,
+      "collect_count": 102,
+      "description": "多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”",
+      "text_hint": "多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/019ead1b303d1f5ff8aeb8b6aaf722e8/6af6ea12/video/tos/cn/tos-cn-ve-15/okSVCQrIDCO0jBmPgEfiAXgP2FNQNqAAa9a9fs/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1130&bt=1130&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w_ep2Hhd.Y8PMeR3-ApQX&mime_type=video_mp4&qs=0&rc=ZzQ2NTdkZjw1M2RpNjs1aUBpajo4ZHg5cmQ2PDMzNGkzM0BeNTQtYzYyXzQxXzU1Li0wYSNqai1nMmRzbl9hLS1kLS9zcw%3D%3D&btag=c0000e00020000&cquery=100K_100o_100w_100B_100H&dy_q=1794555827&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20261113154347D7338133EE15F32F914F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7662379131866271022.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7662379131866271022.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 47.95,
+      "raw_payload": {
+        "aweme_id": "7662379131866271022",
+        "author_uid": "104418341759",
+        "sec_uid": "MS4wLjABAAAAUlk_JJYcw09_lIy0QtxqUuED1O8qSKyqdsYQ5bCUiJY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAUlk_JJYcw09_lIy0QtxqUuED1O8qSKyqdsYQ5bCUiJY"
+      }
+    },
+    "first_seen_at": "2026-11-13T15:43:25+08:00",
+    "last_seen_at": "2026-11-13T15:43:25+08:00",
+    "fetch_runs": [
+      "2026-11-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7662379131866271022.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7662379131866271022.mp3",
+      "source": "download",
+      "processed_at": "2026-11-13T15:44:19+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7662379131866271022",
+      "transcript_raw": "多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”补充信息：多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”",
+      "transcript_clean": "多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”补充信息：多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-13/7662379131866271022.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "analysis": {
+      "video_id": "7662379131866271022",
+      "summary": "观察者网围绕“多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”补充信息：多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人””给出了一条可直接执行的短视频经验。",
+      "clean_copy": "多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”。多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”补充信息：多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人” 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”补充信息：多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”补充信息：多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”补充信息：多损啊！巴西总统卢拉吐槽巴西队不如签个机器人，“去的时候浩浩荡荡，回来的时候孤孤单单，真丢人”",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-13/7662379131866271022.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "last_error": null
+  },
+  "7343626390807268620": {
+    "video_id": "7343626390807268620",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "师者如光，微以致远",
+      "video_id": "7343626390807268620",
+      "title": "34部编版语文三下《方帽子店》唐老师优质课",
+      "publish_time": "2024-03-07T22:21:22+08:00",
+      "video_url": "https://www.douyin.com/video/7343626390807268620",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/2c043c7034504f69b3ee316a83dd5edc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109913200&x-signature=AyfRCBN0Z5X3usD7ss5rdXndgdw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611131543508BCC55FD42CF7A33AF73",
+      "like_count": 1,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "34部编版语文三下《方帽子店》唐老师优质课",
+      "text_hint": "34部编版语文三下《方帽子店》唐老师优质课",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a0252f09f01131b8f55ca2d62fba5f5b/6af6eb28/video/tos/cn/tos-cn-ve-0015c800/oQNOTjdzOyTHIgh9z5AfDAyzBcYi9EepZLNAQA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=617&bt=617&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wqep2Hhd.Y8PMeR3-ApQX&mime_type=video_mp4&qs=0&rc=N2kzNmZkNjk0O2RkOzNlNUBpMzY3bmU6Zjp2cTMzNGkzM0BgYDMuLzNhNl4xNV9eYzJjYSNlLnMucjQwbWhgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100H_100K&dy_q=1794555830&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202611131543508BCC55FD42CF7A33AF73",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7343626390807268620.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7343626390807268620.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 322.56,
+      "raw_payload": {
+        "aweme_id": "7343626390807268620",
+        "author_uid": "3670585433392540",
+        "sec_uid": "MS4wLjABAAAA-fK1uD4yNYQrTSelKrtCZTeoAJhAL_pCYu-n6tMl_FqhzpvHVRo-38ajCRYdbNJh",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA-fK1uD4yNYQrTSelKrtCZTeoAJhAL_pCYu-n6tMl_FqhzpvHVRo-38ajCRYdbNJh"
+      }
+    },
+    "first_seen_at": "2026-11-13T15:43:25+08:00",
+    "last_seen_at": "2026-11-13T15:43:25+08:00",
+    "fetch_runs": [
+      "2026-11-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7343626390807268620.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7343626390807268620.mp3",
+      "source": "download",
+      "processed_at": "2026-11-13T15:44:52+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7343626390807268620",
+      "transcript_raw": "34部编版语文三下《方帽子店》唐老师优质课34部编版语文三下《方帽子店》唐老师优质课补充信息：34部编版语文三下《方帽子店》唐老师优质课",
+      "transcript_clean": "34部编版语文三下《方帽子店》唐老师优质课34部编版语文三下《方帽子店》唐老师优质课补充信息：34部编版语文三下《方帽子店》唐老师优质课",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-13/7343626390807268620.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "analysis": {
+      "video_id": "7343626390807268620",
+      "summary": "师者如光，微以致远围绕“34部编版语文三下《方帽子店》唐老师优质课34部编版语文三下《方帽子店》唐老师优质课补充信息：34部编版语文三下《方帽子店》唐老师优质课”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "34部编版语文三下《方帽子店》唐老师优质课。34部编版语文三下《方帽子店》唐老师优质课34部编版语文三下《方帽子店》唐老师优质课补充信息：34部编版语文三下《方帽子店》唐老师优质课 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "34部编版语文三下《方帽子店》唐老师优质课34部编版语文三下《方帽子店》唐老师优质课补充信息：34部编版语文三下《方帽子店》唐老师优质课为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕34部编版语文三下《方帽子店》唐老师优质课34部编版语文三下《方帽子店》唐老师优质课补充信息：34部编版语文三下《方帽子店》唐老师优质课组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "34部编版语文三下《方帽子店》唐老师优质课34部编版语文三下《方帽子店》唐老师优质课补充信息：34部编版语文三下《方帽子店》唐老师优质课",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-13/7343626390807268620.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "last_error": null
+  },
+  "7341414275514109224": {
+    "video_id": "7341414275514109224",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "李小咖",
+      "video_id": "7341414275514109224",
+      "title": "离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门",
+      "publish_time": "2024-03-01T23:17:39+08:00",
+      "video_url": "https://www.douyin.com/video/7341414275514109224",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2936f4e787f1a9481a9d4efa3d4679ec~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109913200&x-signature=opl9hZIK8IUZS217oAhLEJ0lWOM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261113154353686A5EA60155E6328E5A",
+      "like_count": 2591,
+      "comment_count": 71,
+      "share_count": 406,
+      "collect_count": 796,
+      "description": "离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门",
+      "text_hint": "离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门",
+      "topic_tags": [
+        "C语言",
+        "C语言混乱代码大赛",
+        "程序员",
+        "网络安全技术",
+        "编程入门"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e34d6f1cfb1f3a459da4448289ec4e51/6af6eaa9/video/tos/cn/tos-cn-ve-15/oQjZaUhEIBAL8jwNTUfaj7TVkLfvXBAXzCe7QN/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1507&bt=1507&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wRep2Hhd.Y8PMeR3-ApQX&mime_type=video_mp4&qs=0&rc=NDk3ZWhpZDlpOGlpaTM4ZkBpM3R3bmc6Znh4cTMzNGkzM0AuYDMxMzMuXjQxLWMyMF4xYSNmXnFfcjQwc2RgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100H_100K_100o&dy_q=1794555833&feature_id=59cb2766d89ae6284516c6a254e9fb61&l=20261113154353686A5EA60155E6328E5A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7341414275514109224.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7341414275514109224.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 192.355,
+      "raw_payload": {
+        "aweme_id": "7341414275514109224",
+        "author_uid": "3327535245951277",
+        "sec_uid": "MS4wLjABAAAAU4zbxyKwMSdl5qcl8zBzYjuM0MQFG30ODmvn6jLJnOkz_1Sw1Ml_NlRjDUjmSr-L",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAU4zbxyKwMSdl5qcl8zBzYjuM0MQFG30ODmvn6jLJnOkz_1Sw1Ml_NlRjDUjmSr-L"
+      }
+    },
+    "first_seen_at": "2026-11-13T15:43:25+08:00",
+    "last_seen_at": "2026-11-13T15:43:25+08:00",
+    "fetch_runs": [
+      "2026-11-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7341414275514109224.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7341414275514109224.mp3",
+      "source": "download",
+      "processed_at": "2026-11-13T15:45:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7341414275514109224",
+      "transcript_raw": "离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门补充信息：离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门关键词：C语言、C语言混乱代码大赛、程序员、网络安全技术、编程入门",
+      "transcript_clean": "离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门补充信息：离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门关键词：C语言、C语言混乱代码大赛、程序员、网络安全技术、编程入门",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-13/7341414275514109224.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "analysis": {
+      "video_id": "7341414275514109224",
+      "summary": "李小咖围绕“C语言”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门。离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门补充信息：离了大谱的C语言代码 #C语言 #C语言混乱代码大赛 #程序员 #网络安全技术 #编程入门关键词：C语言、C语言混乱代码大赛、程序员、网络安全技术、编程入门 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "C语言为什么总是做不出来结果？",
+        "先把C语言混乱代码大赛想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕C语言组织标题与开头。",
+        "用C语言混乱代码大赛和程序员补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "C语言",
+        "C语言混乱代码大赛",
+        "程序员"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-13/7341414275514109224.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "last_error": null
+  },
+  "7576562386556159217": {
+    "video_id": "7576562386556159217",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7576562386556159217",
+      "title": "在抖音记录美好生活20261113",
+      "publish_time": "2026-11-13T15:44:12+08:00",
+      "video_url": "https://www.douyin.com/video/7576562386556159217",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261113",
+      "text_hint": "在抖音记录美好生活20261113",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/6dc0163c-c725-4c26-a683-92aadf352dfe",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7576562386556159217",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-13T15:43:25+08:00",
+    "last_seen_at": "2026-11-13T15:43:25+08:00",
+    "fetch_runs": [
+      "2026-11-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7505190835345001786": {
+    "video_id": "7505190835345001786",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "CHG灵魂音乐",
+      "video_id": "7505190835345001786",
+      "title": "【好歌推荐】 #好歌分享感谢聆听",
+      "publish_time": "2025-05-17T07:33:38+08:00",
+      "video_url": "https://www.douyin.com/video/7505190835345001786",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bde5515628190c050f40762343b382d8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109913200&x-signature=qfgkuDJqTKKerBOYA5l%2F0Gyut90%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261113154402B82DD2B3473CDE35A103",
+      "like_count": 139,
+      "comment_count": 23,
+      "share_count": 73,
+      "collect_count": 119,
+      "description": "【好歌推荐】 #好歌分享感谢聆听",
+      "text_hint": "【好歌推荐】 #好歌分享感谢聆听",
+      "topic_tags": [
+        "好歌分享感谢聆听"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/04ad4e5f5e25f615bb6aa76de770c600/6af6eab6/video/tos/cn/tos-cn-ve-15c000-ce/owdOuAimeeQXuiEoEJifECw8mR6lVbIp9hB0Ah/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1401&bt=1401&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wwbp2Hhd.Y8PMeR3-ApQX&mime_type=video_mp4&qs=0&rc=NDVpOGg2NjhoZTU4NmllZ0Bpajl0cW45cmp2MzMzbGkzNEA2MmExYi0zXmAxLV4zMF40YSNhMmFoMmRzaWdhLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1794555842&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261113154402B82DD2B3473CDE35A103",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7505190835345001786.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7505190835345001786.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 196.3,
+      "raw_payload": {
+        "aweme_id": "7505190835345001786",
+        "author_uid": "101013286160",
+        "sec_uid": "MS4wLjABAAAAHxaBDAzVOBKbsU9K1TgW_OyrjNWt7ph1-mtOWxyMNAg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAHxaBDAzVOBKbsU9K1TgW_OyrjNWt7ph1-mtOWxyMNAg"
+      }
+    },
+    "first_seen_at": "2026-11-13T15:43:25+08:00",
+    "last_seen_at": "2026-11-13T15:43:25+08:00",
+    "fetch_runs": [
+      "2026-11-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7505190835345001786.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7505190835345001786.mp3",
+      "source": "download",
+      "processed_at": "2026-11-13T15:44:36+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7505190835345001786",
+      "transcript_raw": "【好歌推荐】 #好歌分享感谢聆听【好歌推荐】 #好歌分享感谢聆听补充信息：【好歌推荐】 #好歌分享感谢聆听关键词：好歌分享感谢聆听",
+      "transcript_clean": "【好歌推荐】 #好歌分享感谢聆听【好歌推荐】 #好歌分享感谢聆听补充信息：【好歌推荐】 #好歌分享感谢聆听关键词：好歌分享感谢聆听",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-13/7505190835345001786.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "analysis": {
+      "video_id": "7505190835345001786",
+      "summary": "CHG灵魂音乐围绕“好歌分享感谢聆听”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "【好歌推荐】 #好歌分享感谢聆听。【好歌推荐】 #好歌分享感谢聆听【好歌推荐】 #好歌分享感谢聆听补充信息：【好歌推荐】 #好歌分享感谢聆听关键词：好歌分享感谢聆听 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "好歌分享感谢聆听为什么总是做不出来结果？",
+        "先把【好歌推荐】想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕好歌分享感谢聆听组织标题与开头。",
+        "用【好歌推荐】和#好歌分享感谢聆听【好歌推荐】补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "好歌分享感谢聆听",
+        "【好歌推荐】",
+        "#好歌分享感谢聆听【好歌推荐】"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-13/7505190835345001786.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "last_error": null
+  },
+  "7145735758769327394": {
+    "video_id": "7145735758769327394",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "福州嘉毅减龄发型定制",
+      "video_id": "7145735758769327394",
+      "title": "台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手",
+      "publish_time": "2022-09-21T15:44:21+08:00",
+      "video_url": "https://www.douyin.com/video/7145735758769327394",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/35e6b61e8579c930b9bf7a4753889967~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109913200&x-signature=V09isiA6Fi1eE%2BigOI%2FRkf%2FaXok%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111315440597F91667DEC995289DD4",
+      "like_count": 209,
+      "comment_count": 31,
+      "share_count": 37,
+      "collect_count": 29,
+      "description": "台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手",
+      "text_hint": "台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手",
+      "topic_tags": [
+        "福州发型设计",
+        "福州染发",
+        "福州烫发",
+        "福州onhair",
+        "陈嘉毅高级定制"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/47925f99439ff63d9d596acda8506ac3/6af6ead4/video/tos/cn/tos-cn-ve-0015c800/2c05815998bd4f87ba4794e2ea77a7c2/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2339&bt=2339&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wtbp2Hhd.Y8PMeR3-ApQX&mime_type=video_mp4&qs=0&rc=OTRpPDM2aTNkaDU8O2RmOEBpM2x5Omk6ZndmZjMzNGkzM0AwMi01Ly9jXmAxM18uLjFfYSMyYG1vcjRfLWlgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1794555845&l=2026111315440597F91667DEC995289DD4",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7145735758769327394.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7145735758769327394.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 223.434,
+      "raw_payload": {
+        "aweme_id": "7145735758769327394",
+        "author_uid": "58891529949",
+        "sec_uid": "MS4wLjABAAAA-hVx86zvh1Nl-VYbqZ5WbUhftwha83kqFoJQeTpsOXM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA-hVx86zvh1Nl-VYbqZ5WbUhftwha83kqFoJQeTpsOXM"
+      }
+    },
+    "first_seen_at": "2026-11-13T15:43:25+08:00",
+    "last_seen_at": "2026-11-13T15:43:25+08:00",
+    "fetch_runs": [
+      "2026-11-13"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7145735758769327394.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-13/7145735758769327394.mp3",
+      "source": "download",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7145735758769327394",
+      "transcript_raw": "台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手补充信息：台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手关键词：福州发型设计、福州染发、福州烫发、福州onhair、陈嘉毅高级定制",
+      "transcript_clean": "台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手补充信息：台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手关键词：福州发型设计、福州染发、福州烫发、福州onhair、陈嘉毅高级定制",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-13/7145735758769327394.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "analysis": {
+      "video_id": "7145735758769327394",
+      "summary": "福州嘉毅减龄发型定制围绕“福州发型设计”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手。台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手补充信息：台湾飞福州做个发型设计 是一种什么样的体验？#福州发型设计 #福州染发 #福州烫发 #陈嘉毅高级定制 #福州onhair @DOU+小助手 @抖音小助手关键词：福州发型设计、福州染发、福州烫发、福州onhair、陈嘉毅高级定制 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "福州发型设计为什么总是做不出来结果？",
+        "先把福州染发想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕福州发型设计组织标题与开头。",
+        "用福州染发和福州烫发补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "福州发型设计",
+        "福州染发",
+        "福州烫发"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-13/7145735758769327394.json",
+      "processed_at": "2026-11-13T15:45:53+08:00"
+    },
+    "last_error": null
+  },
+  "7526519652084616467": {
+    "video_id": "7526519652084616467",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7526519652084616467",
+      "title": "在抖音记录美好生活20261113",
+      "publish_time": "2026-11-13T15:44:12+08:00",
+      "video_url": "https://www.douyin.com/video/7526519652084616467",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261113",
+      "text_hint": "在抖音记录美好生活20261113",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/236d13ef-2c9d-4f9d-94fe-0d042f6eaff3",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7526519652084616467",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-13T15:43:25+08:00",
+    "last_seen_at": "2026-11-13T15:43:25+08:00",
+    "fetch_runs": [
+      "2026-11-13"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
