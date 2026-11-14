@@ -72351,5 +72351,537 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7345742123175513385": {
+    "video_id": "7345742123175513385",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "奇妙物语一",
+      "video_id": "7345742123175513385",
+      "title": "一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉",
+      "publish_time": "2024-03-13T15:11:27+08:00",
+      "video_url": "https://www.douyin.com/video/7345742123175513385",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/0bd8f389a74d285375386868541014ef~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109999600&x-signature=DBbjOTiViUWZFcBZqwgOo4rd05A%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111415302875A541187E284307496B",
+      "like_count": 11199,
+      "comment_count": 1671,
+      "share_count": 3157,
+      "collect_count": 1486,
+      "description": "一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉",
+      "text_hint": "一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉",
+      "topic_tags": [
+        "综艺",
+        "洁癖",
+        "李维嘉"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a5ac9c51b33067ea451eb5aaa1643f71/6af83ad2/video/tos/cn/tos-cn-ve-0015c800/oIejaBbDFA4LLfKGPICI7rAybnQE8fB2ndvqoj/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1375&bt=1375&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9w1L~_Hhd.-WEP103-ApQX&mime_type=video_mp4&qs=0&rc=PDhpOmU7aDwzNjhkPDZnOEBpamd5eDo6ZjpvcTMzNGkzM0AzNDA2NjE1NjIxMDAwNWNiYSMvX2M2cjRvL2xgLS1kLTBzcw%3D%3D&btag=c0000e00038000&cquery=100K_100o_100w_100B_100H&dy_q=1794641428&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=2026111415302875A541187E284307496B",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7345742123175513385.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7345742123175513385.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 654.9,
+      "raw_payload": {
+        "aweme_id": "7345742123175513385",
+        "author_uid": "4435892841233707",
+        "sec_uid": "MS4wLjABAAAA33od2mOdWp6tmL9pr6kVTnt6_g4UGbKRozdpHAf27iIC7D_PkFQ4VQHKDSh7AkLn",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA33od2mOdWp6tmL9pr6kVTnt6_g4UGbKRozdpHAf27iIC7D_PkFQ4VQHKDSh7AkLn"
+      }
+    },
+    "first_seen_at": "2026-11-14T15:30:14+08:00",
+    "last_seen_at": "2026-11-14T15:30:14+08:00",
+    "fetch_runs": [
+      "2026-11-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7345742123175513385.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7345742123175513385.mp3",
+      "source": "download",
+      "processed_at": "2026-11-14T15:33:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7345742123175513385",
+      "transcript_raw": "一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉补充信息：一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉关键词：综艺、洁癖、李维嘉",
+      "transcript_clean": "一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉补充信息：一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉关键词：综艺、洁癖、李维嘉",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-14/7345742123175513385.json",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7345742123175513385",
+      "summary": "奇妙物语一围绕“综艺”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉。一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉补充信息：一口气看完李维嘉《家务优等生》 #综艺 #洁癖 #李维嘉关键词：综艺、洁癖、李维嘉 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "综艺为什么总是做不出来结果？",
+        "先把洁癖想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕综艺组织标题与开头。",
+        "用洁癖和李维嘉补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "综艺",
+        "洁癖",
+        "李维嘉"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-14/7345742123175513385.json",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "last_error": null
+  },
+  "7394390798361513250": {
+    "video_id": "7394390798361513250",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7394390798361513250",
+      "title": "在抖音记录美好生活20261114",
+      "publish_time": "2026-11-14T15:31:11+08:00",
+      "video_url": "https://www.douyin.com/video/7394390798361513250",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261114",
+      "text_hint": "在抖音记录美好生活20261114",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0d6c2e1e-24e8-442d-86a6-6c2463e6c647",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7394390798361513250",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-14T15:30:14+08:00",
+    "last_seen_at": "2026-11-14T15:30:14+08:00",
+    "fetch_runs": [
+      "2026-11-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7389602474698509622": {
+    "video_id": "7389602474698509622",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "阿雪你的人品就是你的运气",
+      "video_id": "7389602474698509622",
+      "title": "熬鹰啊",
+      "publish_time": "2024-07-09T19:51:49+08:00",
+      "video_url": "https://www.douyin.com/video/7389602474698509622",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/okiikJEFE61AC4RBDNQBfAceIGAiAWpgsNqzI6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109999600&x-signature=Mkpz8VKdQjOFw%2FQ7H7LttlleDQA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611141530372D9E146E23A525B074FB",
+      "like_count": 35,
+      "comment_count": 0,
+      "share_count": 3,
+      "collect_count": 1,
+      "description": "熬鹰啊",
+      "text_hint": "熬鹰啊",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b8ad729321ad3dde28be38b34074f80d/6af839cf/video/tos/cn/tos-cn-ve-0015c800/ooNpxBRvEACG6DQA1AJiDEIbpIuegBikzNB6cf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=573&bt=573&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wQL~_Hhd.-WEP103-ApQX&mime_type=video_mp4&qs=0&rc=OTU6ZDw5aTg7Omg7Ozs2Z0BpMzZqaG85cjZsdDMzNGkzM0BgXmM0NTMwX14xNTI0MGNiYSNiNWhxMmRjNTNgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1794641437&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202611141530372D9E146E23A525B074FB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7389602474698509622.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7389602474698509622.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 386.218,
+      "raw_payload": {
+        "aweme_id": "7389602474698509622",
+        "author_uid": "1125542255407639",
+        "sec_uid": "MS4wLjABAAAAzLFlpNV5jZvSULkn1B9uKFH4T1BpMqqeQMEJ5y4jXFA2ZIv4xDQyrJHIM-geto4y",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAzLFlpNV5jZvSULkn1B9uKFH4T1BpMqqeQMEJ5y4jXFA2ZIv4xDQyrJHIM-geto4y"
+      }
+    },
+    "first_seen_at": "2026-11-14T15:30:14+08:00",
+    "last_seen_at": "2026-11-14T15:30:14+08:00",
+    "fetch_runs": [
+      "2026-11-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7389602474698509622.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7389602474698509622.mp3",
+      "source": "download",
+      "processed_at": "2026-11-14T15:32:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7389602474698509622",
+      "transcript_raw": "熬鹰啊熬鹰啊补充信息：熬鹰啊",
+      "transcript_clean": "熬鹰啊熬鹰啊补充信息：熬鹰啊",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-14/7389602474698509622.json",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7389602474698509622",
+      "summary": "阿雪你的人品就是你的运气围绕“熬鹰啊熬鹰啊补充信息：熬鹰啊”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "熬鹰啊。熬鹰啊熬鹰啊补充信息：熬鹰啊 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "熬鹰啊熬鹰啊补充信息：熬鹰啊为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕熬鹰啊熬鹰啊补充信息：熬鹰啊组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "熬鹰啊熬鹰啊补充信息：熬鹰啊",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-14/7389602474698509622.json",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "last_error": null
+  },
+  "7579066814865618586": {
+    "video_id": "7579066814865618586",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7579066814865618586",
+      "title": "在抖音记录美好生活20261114",
+      "publish_time": "2026-11-14T15:31:11+08:00",
+      "video_url": "https://www.douyin.com/video/7579066814865618586",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261114",
+      "text_hint": "在抖音记录美好生活20261114",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/727d8308-8bd8-42f3-888f-39b6b44e4d86",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7579066814865618586",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-14T15:30:14+08:00",
+    "last_seen_at": "2026-11-14T15:30:14+08:00",
+    "fetch_runs": [
+      "2026-11-14"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7209473734258871552": {
+    "video_id": "7209473734258871552",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "徐老师儿童简笔画",
+      "video_id": "7209473734258871552",
+      "title": "#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车",
+      "publish_time": "2023-03-12T10:00:17+08:00",
+      "video_url": "https://www.douyin.com/video/7209473734258871552",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c2e3a868f6e13887316e4c85176e808a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109999600&x-signature=vgV3Ng%2F07cKDcXqOGUaIv8bzNec%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261114153046970875F4787B69EBB255",
+      "like_count": 411,
+      "comment_count": 28,
+      "share_count": 46,
+      "collect_count": 112,
+      "description": "#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车",
+      "text_hint": "#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车",
+      "topic_tags": [
+        "育儿简笔画",
+        "简笔画",
+        "一起学画画",
+        "儿童简笔画"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/19068bb57ccaa733337f24b92e497b0a/6af8393b/video/tos/cn/tos-cn-ve-0015c800/ockAheBAAnDEcgb8sTfBb8xiHAN3iR5V9TDtdB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1109&bt=1109&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wWL~_Hhd.-WEP103-ApQX&mime_type=video_mp4&qs=0&rc=Zmc8NzVnNzkzNjlkZjRmaEBpajNncTs6ZnJtajMzNGkzM0BhNGEwMDAyXjQxYl5fYGI2YSNhYmdmcjRnMDNgLS1kLWFzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1794641446&feature_id=ba836eff443a4aac3aafe2b0f9e37539&l=20261114153046970875F4787B69EBB255",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7209473734258871552.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7209473734258871552.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 229.762,
+      "raw_payload": {
+        "aweme_id": "7209473734258871552",
+        "author_uid": "1983987028592836",
+        "sec_uid": "MS4wLjABAAAAmI76GRe0DxAk0j56lSNSarifAXmVK6gv90b54RGNz3fuDxLlvFar2_TtBfaKtQPU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAmI76GRe0DxAk0j56lSNSarifAXmVK6gv90b54RGNz3fuDxLlvFar2_TtBfaKtQPU"
+      }
+    },
+    "first_seen_at": "2026-11-14T15:30:14+08:00",
+    "last_seen_at": "2026-11-14T15:30:14+08:00",
+    "fetch_runs": [
+      "2026-11-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7209473734258871552.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7209473734258871552.mp3",
+      "source": "download",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7209473734258871552",
+      "transcript_raw": "#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车补充信息：#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车关键词：育儿简笔画、简笔画、一起学画画、儿童简笔画",
+      "transcript_clean": "#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车补充信息：#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车关键词：育儿简笔画、简笔画、一起学画画、儿童简笔画",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-14/7209473734258871552.json",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7209473734258871552",
+      "summary": "徐老师儿童简笔画围绕“育儿简笔画”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车。#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车补充信息：#育儿简笔画 #简笔画 #一起学画画 #儿童简笔画 儿童简笔画教程泥罐车关键词：育儿简笔画、简笔画、一起学画画、儿童简笔画 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "育儿简笔画为什么总是做不出来结果？",
+        "先把简笔画想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕育儿简笔画组织标题与开头。",
+        "用简笔画和一起学画画补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "育儿简笔画",
+        "简笔画",
+        "一起学画画"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-14/7209473734258871552.json",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "last_error": null
+  },
+  "7424471863092399410": {
+    "video_id": "7424471863092399410",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "咖啡不苦野钓篇",
+      "video_id": "7424471863092399410",
+      "title": "#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂",
+      "publish_time": "2024-10-11T19:03:00+08:00",
+      "video_url": "https://www.douyin.com/video/7424471863092399410",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a6966649bb921df36e65a7d73f342c59~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2109999600&x-signature=ATWeHSZJ4GjWe%2BmUbHUFi6vWWo0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261114153049F85132D01DBE3BD4F4A6",
+      "like_count": 1101,
+      "comment_count": 648,
+      "share_count": 256,
+      "collect_count": 141,
+      "description": "#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂",
+      "text_hint": "#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂",
+      "topic_tags": [
+        "创作灵感",
+        "原来钓鱼才是抖音运动顶流",
+        "爱生活爱钓鱼",
+        "钓鱼的乐趣只有钓鱼人懂",
+        "钓鱼人就是这么疯狂"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e6eee39f4849b811a511d4ca8448d3ab/6af839b9/video/tos/cn/tos-cn-ve-15/o4IgEBSCJwWOlFaZxmETvAiMkvQPIONySiRlA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2377&bt=2377&cs=0&ds=4&ft=CZdgCYlIDyjNNRVQ9wCL~_Hhd.-WEP103-ApQX&mime_type=video_mp4&qs=0&rc=ZGg1NTlpZ2c8OzU6NDtkNEBpMzV0OGw5cmdqdjMzNGkzM0AzMzUxNjFjNmIxMy0zNWIxYSM2XmU2MmRrXjFgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1794641449&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261114153049F85132D01DBE3BD4F4A6",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7424471863092399410.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7424471863092399410.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 352.201,
+      "raw_payload": {
+        "aweme_id": "7424471863092399410",
+        "author_uid": "93578601968",
+        "sec_uid": "MS4wLjABAAAAJqhyGbSqi5h9VeGdelARdupOvFnKuzXFtTz4B8PVpWU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAJqhyGbSqi5h9VeGdelARdupOvFnKuzXFtTz4B8PVpWU"
+      }
+    },
+    "first_seen_at": "2026-11-14T15:30:14+08:00",
+    "last_seen_at": "2026-11-14T15:30:14+08:00",
+    "fetch_runs": [
+      "2026-11-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7424471863092399410.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7424471863092399410.mp3",
+      "source": "download",
+      "processed_at": "2026-11-14T15:31:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7424471863092399410",
+      "transcript_raw": "#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂补充信息：#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂关键词：创作灵感、原来钓鱼才是抖音运动顶流、爱生活爱钓鱼、钓鱼的乐趣只有钓鱼人懂、钓鱼人就是这么疯狂",
+      "transcript_clean": "#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂补充信息：#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂关键词：创作灵感、原来钓鱼才是抖音运动顶流、爱生活爱钓鱼、钓鱼的乐趣只有钓鱼人懂、钓鱼人就是这么疯狂",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-14/7424471863092399410.json",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7424471863092399410",
+      "summary": "咖啡不苦野钓篇围绕“创作灵感”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂。#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂补充信息：#创作灵感 秋季野钓大板鲫连杆，用这个方法你也可以爆护！每一帧都是干货分享，大家蹲好，开始了！#原来钓鱼才是抖音运动顶流 #爱生活爱钓鱼 #钓鱼的乐趣只有钓鱼人懂 #钓鱼人就是这么疯狂关键词：创作灵感、原来钓鱼才是抖音运动顶流、爱生活爱钓鱼、钓鱼的乐趣只有钓鱼人懂、钓鱼人就是这么疯狂 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "创作灵感为什么总是做不出来结果？",
+        "先把原来钓鱼才是抖音运动顶流想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕创作灵感组织标题与开头。",
+        "用原来钓鱼才是抖音运动顶流和爱生活爱钓鱼补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "创作灵感",
+        "原来钓鱼才是抖音运动顶流",
+        "爱生活爱钓鱼"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-14/7424471863092399410.json",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "last_error": null
+  },
+  "7363592319997611300": {
+    "video_id": "7363592319997611300",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7363592319997611300",
+      "title": "多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知",
+      "publish_time": "2024-04-30T09:39:00+08:00",
+      "video_url": "https://www.douyin.com/video/7363592319997611300",
+      "cover_url": "",
+      "like_count": 1758,
+      "comment_count": 380,
+      "share_count": 295,
+      "collect_count": 329,
+      "description": "多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知",
+      "text_hint": "多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知",
+      "topic_tags": [
+        "商业思维",
+        "思维格局",
+        "提升自己",
+        "干货分享",
+        "认知"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/89d0f19784b1696287645f26a2a7c00c/6af83a09/video/tos/cn/tos-cn-ve-15/o8UWAXbnNQLD9OmANLzA8M8LeBqAuDtzegjRIg/?a=6383&br=352&bt=352&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100z_100o_100w_100B_100x&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1794641466&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9w-L~_Hhd.-WEP103-ApQX&is_ssr=1&l=202611141531052456F72808453AE4FA06&lr=all&mime_type=video_mp4&qs=12&rc=ZDloNDRkZ2U7OmQ8PDhoNUBpM3hoZDg6Zm5lcjMzNGkzM0AxNjViMy0tXzUxXzVeNjMxYSMtYm1ncjRfamxgLS1kLWFzcw%3D%3D&__vid=7363592319997611300",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7363592319997611300.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7363592319997611300.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7363592319997611300",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-14T15:30:14+08:00",
+    "last_seen_at": "2026-11-14T15:30:14+08:00",
+    "fetch_runs": [
+      "2026-11-14"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7363592319997611300.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-14/7363592319997611300.mp3",
+      "source": "download",
+      "processed_at": "2026-11-14T15:32:18+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7363592319997611300",
+      "transcript_raw": "多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知补充信息：多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知关键词：商业思维、思维格局、提升自己、干货分享、认知",
+      "transcript_clean": "多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知补充信息：多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知关键词：商业思维、思维格局、提升自己、干货分享、认知",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-14/7363592319997611300.json",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "analysis": {
+      "video_id": "7363592319997611300",
+      "summary": "目标博主 1围绕“商业思维”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知。多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知补充信息：多博士为什么出品调味品 #商业思维 #思维格局 #提升自己 #干货分享 #认知关键词：商业思维、思维格局、提升自己、干货分享、认知 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "商业思维为什么总是做不出来结果？",
+        "先把思维格局想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕商业思维组织标题与开头。",
+        "用思维格局和提升自己补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "商业思维",
+        "思维格局",
+        "提升自己"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-14/7363592319997611300.json",
+      "processed_at": "2026-11-14T15:33:44+08:00"
+    },
+    "last_error": null
   }
 }
