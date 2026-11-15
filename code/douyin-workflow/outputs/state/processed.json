@@ -72883,5 +72883,668 @@
       "processed_at": "2026-11-14T15:33:44+08:00"
     },
     "last_error": null
+  },
+  "7707842274965706367": {
+    "video_id": "7707842274965706367",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "请叫我Joy Yang",
+      "video_id": "7707842274965706367",
+      "title": "学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌",
+      "publish_time": "2026-11-14T10:04:39+08:00",
+      "video_url": "https://www.douyin.com/video/7707842274965706367",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/oYCyAwf9QFDA3A8AEqEDjbfzIARAgGEaAN30i9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110086000&x-signature=JSkT7LmYDrLS6I5N5p0y9U6EusE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261115154326FB4887CDB4BB7F524035",
+      "like_count": 8,
+      "comment_count": 1,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌",
+      "text_hint": "学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌",
+      "topic_tags": [
+        "努力向上的家庭主妇",
+        "口语天天练",
+        "自学英语口语",
+        "零基础学英语口语",
+        "磨耳朵英文歌"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/479a0877230b0a6aba54b90dfd191d9c/6af98ce6/video/tos/cn/tos-cn-ve-15/oMCEnjiEIAgqPm9fVwiN30T8PcBBUAAiBBe9Qx/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=691&bt=691&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wXp-_Hhd.4ZzJC73-ApQX&mime_type=video_mp4&qs=0&rc=O2Y3OGg1NGk7OTQ6ZzloNUBpajo6OGs5cjp2ZTMzNGkzM0A1LTY0Li02XzYxMi4uYzY2YSM0bTVlMmRzLm9hLS1kLWFzcw%3D%3D&btag=c0000e00010000&cquery=100x_100z_100o_100w_100B&dy_q=1794728606&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261115154326FB4887CDB4BB7F524035",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7707842274965706367.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7707842274965706367.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 24.5,
+      "raw_payload": {
+        "aweme_id": "7707842274965706367",
+        "author_uid": "92512643425",
+        "sec_uid": "MS4wLjABAAAA2tkjYb9G1MkLxjYF2x7h1I-b7wGZx3Bc6woKCMRZbZs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA2tkjYb9G1MkLxjYF2x7h1I-b7wGZx3Bc6woKCMRZbZs"
+      }
+    },
+    "first_seen_at": "2026-11-15T15:43:05+08:00",
+    "last_seen_at": "2026-11-15T15:43:05+08:00",
+    "fetch_runs": [
+      "2026-11-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7707842274965706367.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7707842274965706367.mp3",
+      "source": "download",
+      "processed_at": "2026-11-15T15:44:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7707842274965706367",
+      "transcript_raw": "学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌补充信息：学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌关键词：努力向上的家庭主妇、口语天天练、自学英语口语、零基础学英语口语、磨耳朵英文歌",
+      "transcript_clean": "学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌补充信息：学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌关键词：努力向上的家庭主妇、口语天天练、自学英语口语、零基础学英语口语、磨耳朵英文歌",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-15/7707842274965706367.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7707842274965706367",
+      "summary": "请叫我Joy Yang围绕“努力向上的家庭主妇”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌。学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌补充信息：学唱英文歌练口语 #努力向上的家庭主妇 #口语天天练 #自学英语口语 #零基础学英语口语  #磨耳朵英文歌关键词：努力向上的家庭主妇、口语天天练、自学英语口语、零基础学英语口语、磨耳朵英文歌 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "努力向上的家庭主妇为什么总是做不出来结果？",
+        "先把口语天天练想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕努力向上的家庭主妇组织标题与开头。",
+        "用口语天天练和自学英语口语补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "努力向上的家庭主妇",
+        "口语天天练",
+        "自学英语口语"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-15/7707842274965706367.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "last_error": null
+  },
+  "7595648563956446449": {
+    "video_id": "7595648563956446449",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "好哥哥（三角洲行动）",
+      "video_id": "7595648563956446449",
+      "title": "三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥",
+      "publish_time": "2026-01-16T01:55:57+08:00",
+      "video_url": "https://www.douyin.com/video/7595648563956446449",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6bb3239adce3db24b038bb629efb5cf5~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110086000&x-signature=qY8fXaaS1nchQBJhGry%2FlfBd%2FqY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111515432914A2FDBB6F58284EDFE1",
+      "like_count": 35,
+      "comment_count": 1,
+      "share_count": 10,
+      "collect_count": 21,
+      "description": "三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥",
+      "text_hint": "三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥",
+      "topic_tags": [
+        "三角洲行动",
+        "三角洲",
+        "三角洲八宝粥"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/e1e6cef022fa06eecb1186cfd1577ce0/6af98cee/video/tos/cn/tos-cn-ve-15c000-ce/oYFFfoEEIEwp6NafFVFoq3Vb44mUBAAWDBS9Qw/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1389&bt=1389&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wap-_Hhd.4ZzJC73-ApQX&mime_type=video_mp4&qs=0&rc=NTw2MzhkNmRnOWc6ZmU5N0BpM3k7anI5cmhsODMzbGkzNUBgNWI0MV8tXzQxL2FiNmNfYSNwb2kyMmRrZ2hhLS1kLTVzcw%3D%3D&btag=c0000e00018000&cquery=100w_100B_100x_100z_100o&dy_q=1794728609&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026111515432914A2FDBB6F58284EDFE1",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7595648563956446449.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7595648563956446449.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 29.967,
+      "raw_payload": {
+        "aweme_id": "7595648563956446449",
+        "author_uid": "3833339068816185",
+        "sec_uid": "MS4wLjABAAAA2xF6H6Ra_PZOCdiQy5uJd1ugmtgg_BpxvX2Tm3u961iWqDJq9bPYWyY6_7sIhIOG",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA2xF6H6Ra_PZOCdiQy5uJd1ugmtgg_BpxvX2Tm3u961iWqDJq9bPYWyY6_7sIhIOG"
+      }
+    },
+    "first_seen_at": "2026-11-15T15:43:05+08:00",
+    "last_seen_at": "2026-11-15T15:43:05+08:00",
+    "fetch_runs": [
+      "2026-11-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7595648563956446449.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7595648563956446449.mp3",
+      "source": "download",
+      "processed_at": "2026-11-15T15:44:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7595648563956446449",
+      "transcript_raw": "三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥补充信息：三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥关键词：三角洲行动、三角洲、三角洲八宝粥",
+      "transcript_clean": "三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥补充信息：三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥关键词：三角洲行动、三角洲、三角洲八宝粥",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-15/7595648563956446449.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7595648563956446449",
+      "summary": "好哥哥（三角洲行动）围绕“三角洲行动”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥。三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥补充信息：三角洲八宝粥礼盒大坝点位！#三角洲行动 #三角洲 #三角洲八宝粥关键词：三角洲行动、三角洲、三角洲八宝粥 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "三角洲行动为什么总是做不出来结果？",
+        "先把三角洲想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕三角洲行动组织标题与开头。",
+        "用三角洲和三角洲八宝粥补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "三角洲行动",
+        "三角洲",
+        "三角洲八宝粥"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-15/7595648563956446449.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "last_error": null
+  },
+  "7322043575435283731": {
+    "video_id": "7322043575435283731",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小脑斧网文课堂",
+      "video_id": "7322043575435283731",
+      "title": "番茄小说的推荐规则是什么？#网文",
+      "publish_time": "2024-01-09T18:28:47+08:00",
+      "video_url": "https://www.douyin.com/video/7322043575435283731",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/50fa90f2327e9289193b655975603c4b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110086000&x-signature=0fdZ0Ni5uwurz6grYTloJ0UBk5g%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611151543326997500E8EA7C55298C0",
+      "like_count": 1689,
+      "comment_count": 90,
+      "share_count": 131,
+      "collect_count": 1254,
+      "description": "番茄小说的推荐规则是什么？#网文",
+      "text_hint": "番茄小说的推荐规则是什么？#网文",
+      "topic_tags": [
+        "网文"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a0bfeb69cd4950dd5e447cd00ac0ad65/6af98df4/video/tos/cn/tos-cn-ve-0015c800/o0QBfeL1jCUjBEnyIb1rDEgADDvj6ONvPkeA7J/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=284&bt=284&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wLp-_Hhd.4ZzJC73-ApQX&mime_type=video_mp4&qs=0&rc=NDg1aTc7ZmY6aTNlaDRpO0Bpams7Zjk6ZmVrcDMzNGkzM0A1MF5fLTMvXi4xXl5jL2IxYSNyY2BxcjRvc2JgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100z_100o_100w_100B_100x&dy_q=1794728612&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202611151543326997500E8EA7C55298C0",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7322043575435283731.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7322043575435283731.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 288.508,
+      "raw_payload": {
+        "aweme_id": "7322043575435283731",
+        "author_uid": "1512528256705624",
+        "sec_uid": "MS4wLjABAAAAi6O7FgUJf8twMkZML6v-ZXtvvUPDu3cF4H8e6OCjAX-p9w-XSjxRVSKTo_UkXtGC",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAi6O7FgUJf8twMkZML6v-ZXtvvUPDu3cF4H8e6OCjAX-p9w-XSjxRVSKTo_UkXtGC"
+      }
+    },
+    "first_seen_at": "2026-11-15T15:43:05+08:00",
+    "last_seen_at": "2026-11-15T15:43:05+08:00",
+    "fetch_runs": [
+      "2026-11-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7322043575435283731.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7322043575435283731.mp3",
+      "source": "download",
+      "processed_at": "2026-11-15T15:47:15+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7322043575435283731",
+      "transcript_raw": "番茄小说的推荐规则是什么？#网文番茄小说的推荐规则是什么？#网文补充信息：番茄小说的推荐规则是什么？#网文关键词：网文",
+      "transcript_clean": "番茄小说的推荐规则是什么？#网文番茄小说的推荐规则是什么？#网文补充信息：番茄小说的推荐规则是什么？#网文关键词：网文",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-15/7322043575435283731.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7322043575435283731",
+      "summary": "小脑斧网文课堂围绕“网文”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "番茄小说的推荐规则是什么？#网文。番茄小说的推荐规则是什么？#网文番茄小说的推荐规则是什么？#网文补充信息：番茄小说的推荐规则是什么？#网文关键词：网文 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "网文为什么总是做不出来结果？",
+        "先把番茄小说的推荐规则是什么？#网文番茄小说的推荐规则是什么？#网文补充信息：番茄小说的推荐规则是什么？#网文关键词：网文想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕网文组织标题与开头。",
+        "用番茄小说的推荐规则是什么？#网文番茄小说的推荐规则是什么？#网文补充信息：番茄小说的推荐规则是什么？#网文关键词：网文和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "网文",
+        "番茄小说的推荐规则是什么？#网文番茄小说的推荐规则是什么？#网文补充信息：番茄小说的推荐规则是什么？#网文关键词：网文",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-15/7322043575435283731.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "last_error": null
+  },
+  "7323950835740822847": {
+    "video_id": "7323950835740822847",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "龙海锁业",
+      "video_id": "7323950835740822847",
+      "title": "易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁",
+      "publish_time": "2024-01-14T21:50:23+08:00",
+      "video_url": "https://www.douyin.com/video/7323950835740822847",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/1a5428a20c42778efbd2d53f8eadc1e1~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110086000&x-signature=BUJYVjvqhEJvetlfno9b4isZgXY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261115154335F99E2E65687704461518",
+      "like_count": 32,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 11,
+      "description": "易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁",
+      "text_hint": "易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁",
+      "topic_tags": [
+        "开锁",
+        "易拉罐",
+        "复制钥匙",
+        "配钥匙",
+        "挂锁"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/7812f9f4b8f7f20a3eae1f0c3e8815f8/6af98db5/video/cn/mps/realtime/v1/r/p/v0300fg10000cmhud77og65ukdnm2i4g/523fec3ceb2b4400860ed520418b5ab9/f7ba42cc05038abf381c989b087157fa/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=821&bt=821&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9wFp-_Hhd.4ZzJC73-ApQX&mime_type=video_mp4&qs=0&rc=PGRlNDM4aDkzN2VlZmZpNUBpamxwZ3g5cjp4cDMzNGkzM0BfMjUxL2EtNS0xL2IwYjAyYSMxL2toMmQ0YWVgLS1kLTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100B_100H_100K_100o_100w&definition=720p&dy_q=1794728615&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7323950835740822847&l=20261115154335F99E2E65687704461518&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7323950835740822847.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7323950835740822847.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 222.828,
+      "raw_payload": {
+        "aweme_id": "7323950835740822847",
+        "author_uid": "76760819141",
+        "sec_uid": "MS4wLjABAAAAyUg3M2nTq27mM54sGA3VHft9jDZIiphXH651Htb3Rws",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAyUg3M2nTq27mM54sGA3VHft9jDZIiphXH651Htb3Rws"
+      }
+    },
+    "first_seen_at": "2026-11-15T15:43:05+08:00",
+    "last_seen_at": "2026-11-15T15:43:05+08:00",
+    "fetch_runs": [
+      "2026-11-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7323950835740822847.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7323950835740822847.mp3",
+      "source": "download",
+      "processed_at": "2026-11-15T15:47:05+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7323950835740822847",
+      "transcript_raw": "易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁补充信息：易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁关键词：开锁、易拉罐、复制钥匙、配钥匙、挂锁",
+      "transcript_clean": "易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁补充信息：易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁关键词：开锁、易拉罐、复制钥匙、配钥匙、挂锁",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-15/7323950835740822847.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7323950835740822847",
+      "summary": "龙海锁业围绕“开锁”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁。易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁补充信息：易拉罐可以复制一把钥匙？#开锁 #易拉罐 #复制钥匙 #配钥匙 #挂锁关键词：开锁、易拉罐、复制钥匙、配钥匙、挂锁 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "开锁为什么总是做不出来结果？",
+        "先把易拉罐想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕开锁组织标题与开头。",
+        "用易拉罐和复制钥匙补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "开锁",
+        "易拉罐",
+        "复制钥匙"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-15/7323950835740822847.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "last_error": null
+  },
+  "7578564715731881270": {
+    "video_id": "7578564715731881270",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7578564715731881270",
+      "title": "孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等",
+      "publish_time": "2025-11-30T17:01:00+08:00",
+      "video_url": "https://www.douyin.com/video/7578564715731881270",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等",
+      "text_hint": "孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/48086038783d7afdb6c0e0e7f72fbc35/6af98dc9/video/tos/cn/tos-cn-ve-51c800/ogKSTgIIQBASjoEe5bLEUxQZg6cLeRGTGC4zjf/?a=6383&br=3659&bt=3659&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_102v_102u_100o&cr=3&cs=0&cv=1&dr=0&ds=4&dy_q=1794728631&feature_id=b1cb202f98cf51d95e455ae01e100ce9&ft=CZdgCYlIDyjNMRVQ9wJp-_Hhd.4ZzJC73-ApQX&is_ssr=1&l=20261115154350D0985D0BDA9B9C4D7D79&lr=all&mime_type=video_mp4&qs=0&rc=O2Y0PDY5ZWU4NjxpOmlnZ0BpM3NybXM5cnc6NzMzNDYzM0BjMTI2Yi4zNWExNDMvXzAvYSNia3NnMmRzZGphLS1kMDBzcw%3D%3D&__vid=7578564715731881270",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7578564715731881270.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7578564715731881270.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7578564715731881270",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-15T15:43:05+08:00",
+    "last_seen_at": "2026-11-15T15:43:05+08:00",
+    "fetch_runs": [
+      "2026-11-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7578564715731881270.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7578564715731881270.mp3",
+      "source": "download",
+      "processed_at": "2026-11-15T15:45:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7578564715731881270",
+      "transcript_raw": "孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等补充信息：孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等",
+      "transcript_clean": "孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等补充信息：孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-15/7578564715731881270.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7578564715731881270",
+      "summary": "知雪围绕“孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等补充信息：孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等。孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等补充信息：孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等补充信息：孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等补充信息：孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等补充信息：孩子们想吃炸鸡，自己在家做，又实惠又干净，脆皮炸鸡裹粉同样的方法还可以做：鸡腿，鸡排，汉堡肉，鸡米花，鸡柳等等",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-15/7578564715731881270.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "last_error": null
+  },
+  "7222478126188596517": {
+    "video_id": "7222478126188596517",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "保安羊肉 彩虹（涉县店）",
+      "video_id": "7222478126188596517",
+      "title": "姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量",
+      "publish_time": "2023-04-16T11:03:55+08:00",
+      "video_url": "https://www.douyin.com/video/7222478126188596517",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/32d722db82119fb8c264d9840e684be7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110086000&x-signature=XN0V%2FVo0T9BYHD6aMmUmwbAdybI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261115154357B4D9E68075019147B6ED",
+      "like_count": 313,
+      "comment_count": 25,
+      "share_count": 268,
+      "collect_count": 129,
+      "description": "姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量",
+      "text_hint": "姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量",
+      "topic_tags": [
+        "广场舞抖起来32步",
+        "当年轻人开始跳广场舞",
+        "错过缘分错过你dj",
+        "全民健身传递正能量"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/2ff0bbcd8d6f138fdf55b33a1843e807/6af98df4/video/tos/cn/tos-cn-ve-15c001-alinc2/oEVASenG8mXWOfH9298wAB1AmNqgRCCbgk2SSD/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1298&bt=1298&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wPp-_Hhd.4ZzJC73-ApQX&mime_type=video_mp4&qs=0&rc=aTw7Zzs0ZmVkNWQ5NGZnN0BpM29kczY6ZjhwajMzNGkzM0AuY19gMmAzXzUxLl8wLjBiYSNybjJgcjRnNnFgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1794728637&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261115154357B4D9E68075019147B6ED",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7222478126188596517.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7222478126188596517.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 263.2,
+      "raw_payload": {
+        "aweme_id": "7222478126188596517",
+        "author_uid": "103355207657",
+        "sec_uid": "MS4wLjABAAAAFBleSqn7q-H5j0oQHUptrWYA9ob59OeR5Difxu8oogE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAFBleSqn7q-H5j0oQHUptrWYA9ob59OeR5Difxu8oogE"
+      }
+    },
+    "first_seen_at": "2026-11-15T15:43:05+08:00",
+    "last_seen_at": "2026-11-15T15:43:05+08:00",
+    "fetch_runs": [
+      "2026-11-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7222478126188596517.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7222478126188596517.mp3",
+      "source": "download",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7222478126188596517",
+      "transcript_raw": "姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量补充信息：姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量关键词：广场舞抖起来32步、当年轻人开始跳广场舞、错过缘分错过你dj、全民健身传递正能量",
+      "transcript_clean": "姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量补充信息：姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量关键词：广场舞抖起来32步、当年轻人开始跳广场舞、错过缘分错过你dj、全民健身传递正能量",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-15/7222478126188596517.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7222478126188596517",
+      "summary": "保安羊肉 彩虹（涉县店）围绕“广场舞抖起来32步”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量。姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量补充信息：姐妹们  小区门口晚上集合喽！#广场舞抖起来32步 #当年轻人开始跳广场舞 #错过缘分错过你dj #全民健身传递正能量关键词：广场舞抖起来32步、当年轻人开始跳广场舞、错过缘分错过你dj、全民健身传递正能量 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "广场舞抖起来32步为什么总是做不出来结果？",
+        "先把当年轻人开始跳广场舞想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕广场舞抖起来32步组织标题与开头。",
+        "用当年轻人开始跳广场舞和错过缘分错过你dj补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "广场舞抖起来32步",
+        "当年轻人开始跳广场舞",
+        "错过缘分错过你dj"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-15/7222478126188596517.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "last_error": null
+  },
+  "7456612008675265832": {
+    "video_id": "7456612008675265832",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "呆呆妹儿",
+      "video_id": "7456612008675265832",
+      "title": "现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶",
+      "publish_time": "2025-01-06T17:03:00+08:00",
+      "video_url": "https://www.douyin.com/video/7456612008675265832",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b4e7eaca13517e8a8ee02e35f3863e49~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110086000&x-signature=4J9xroOfQRSrKBQcXJelw3jLbd0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611151544000BE57ABAB1F9E048B871",
+      "like_count": 674,
+      "comment_count": 96,
+      "share_count": 16,
+      "collect_count": 18,
+      "description": "现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶",
+      "text_hint": "现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶",
+      "topic_tags": [
+        "农村柴火灶"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/afaa04336fd03ae04a5d8c4ad9e81327/6af98df1/video/tos/cn/tos-cn-ve-15/ocWhBjfDEIqD7eOBq9hp5e0z7COAWETNFSRIEA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=4612&bt=4612&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w.c-_Hhd.4ZzJC73-ApQX&mime_type=video_mp4&qs=0&rc=Nzw4O2Q1PGVnOTloMzRmZkBpam46bm85cmxtdzMzNGkzM0BgXzUvYmMyNTYxLi5eMS9jYSNocTNeMmQ0NnFgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100H_100K_100o&dy_q=1794728640&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202611151544000BE57ABAB1F9E048B871",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7456612008675265832.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7456612008675265832.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 257.904,
+      "raw_payload": {
+        "aweme_id": "7456612008675265832",
+        "author_uid": "1380605212503140",
+        "sec_uid": "MS4wLjABAAAANpxhtJJaUF4-1btS2unWuPCxoOUByWUkOqhZroAg1_JdQ_99KI-pIHIGRrCkQfje",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAANpxhtJJaUF4-1btS2unWuPCxoOUByWUkOqhZroAg1_JdQ_99KI-pIHIGRrCkQfje"
+      }
+    },
+    "first_seen_at": "2026-11-15T15:43:05+08:00",
+    "last_seen_at": "2026-11-15T15:43:05+08:00",
+    "fetch_runs": [
+      "2026-11-15"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7456612008675265832.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-15/7456612008675265832.mp3",
+      "source": "download",
+      "processed_at": "2026-11-15T15:46:29+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7456612008675265832",
+      "transcript_raw": "现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶补充信息：现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶关键词：农村柴火灶",
+      "transcript_clean": "现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶补充信息：现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶关键词：农村柴火灶",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-15/7456612008675265832.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "analysis": {
+      "video_id": "7456612008675265832",
+      "summary": "呆呆妹儿围绕“农村柴火灶”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶。现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶补充信息：现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶关键词：农村柴火灶 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "农村柴火灶为什么总是做不出来结果？",
+        "先把现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶补充信息：现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶关键词：农村柴火灶想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕农村柴火灶组织标题与开头。",
+        "用现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶补充信息：现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶关键词：农村柴火灶和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "农村柴火灶",
+        "现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶补充信息：现在多备一点柴火过年，路过刚好看到一只鱼摆摆，虽然鱼没有很大，但是伯伯很开心#农村柴火灶关键词：农村柴火灶",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-15/7456612008675265832.json",
+      "processed_at": "2026-11-15T15:47:37+08:00"
+    },
+    "last_error": null
+  },
+  "7479025827905047849": {
+    "video_id": "7479025827905047849",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7479025827905047849",
+      "title": "在抖音记录美好生活20261115",
+      "publish_time": "2026-11-15T15:44:07+08:00",
+      "video_url": "https://www.douyin.com/video/7479025827905047849",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261115",
+      "text_hint": "在抖音记录美好生活20261115",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/b767f59b-4787-4257-a78d-9113baa867d5",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7479025827905047849",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-15T15:43:05+08:00",
+    "last_seen_at": "2026-11-15T15:43:05+08:00",
+    "fetch_runs": [
+      "2026-11-15"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
