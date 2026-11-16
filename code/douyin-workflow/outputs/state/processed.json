@@ -73546,5 +73546,667 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7708290555981073683": {
+    "video_id": "7708290555981073683",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "王熙高中物理",
+      "video_id": "7708290555981073683",
+      "title": "高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#",
+      "publish_time": "2026-11-15T15:04:16+08:00",
+      "video_url": "https://www.douyin.com/video/7708290555981073683",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0051/o0xBfmsfzrpqFAA3I7wqNHJDgEYDNNDjbv6iQq~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110172400&x-signature=NQP0s30Yd2MJdWtjz1ZH9nzIbh4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261116154904B9C34B137EDE21BD7874",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#",
+      "text_hint": "高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#",
+      "topic_tags": [
+        "学习方法"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/6577809d465d6d148979b2d12592cf23/6afadfc7/video/tos/cn/tos-cn-ve-51/okuOggCVBAKRPfbUCQfx8BTAWZ8M1Xd3jaMPfG/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=3429&bt=3429&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wD0p_Hhd.K0EJC73-ApQX&mime_type=video_mp4&qs=0&rc=Z2k0ZzNlZWllPGRkOWU8OEBpMzR3N3Q5cnVvZTMzNDYzM0BhNmFeMS0wXi0xNjUuNl4tYSNxZTRzMmRzZnBhLS1kMGFzcw%3D%3D&btag=c0000e00018000&cquery=100B_102v_102u_100o_100w&dy_q=1794815344&feature_id=e260ce660b55c740019a357948f03c3e&l=20261116154904B9C34B137EDE21BD7874",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7708290555981073683.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7708290555981073683.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 39.521,
+      "raw_payload": {
+        "aweme_id": "7708290555981073683",
+        "author_uid": "7547912822412313658",
+        "sec_uid": "MS4wLjABAAAAIqu-N7yMoyPPunwnQm6OSWkN4WKMFHwiIPHWpjPtzBQyGNv7zJR_1RgHqbq7woIE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAIqu-N7yMoyPPunwnQm6OSWkN4WKMFHwiIPHWpjPtzBQyGNv7zJR_1RgHqbq7woIE"
+      }
+    },
+    "first_seen_at": "2026-11-16T15:48:43+08:00",
+    "last_seen_at": "2026-11-16T15:48:43+08:00",
+    "fetch_runs": [
+      "2026-11-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7708290555981073683.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7708290555981073683.mp3",
+      "source": "download",
+      "processed_at": "2026-11-16T15:50:09+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7708290555981073683",
+      "transcript_raw": "高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#补充信息：高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#关键词：学习方法",
+      "transcript_clean": "高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#补充信息：高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#关键词：学习方法",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-16/7708290555981073683.json",
+      "processed_at": "2026-11-16T15:53:24+08:00"
+    },
+    "analysis": {
+      "video_id": "7708290555981073683",
+      "summary": "王熙高中物理围绕“学习方法”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#。高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#补充信息：高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#关键词：学习方法 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "学习方法为什么总是做不出来结果？",
+        "先把高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#补充信息：高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#关键词：学习方法想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕学习方法组织标题与开头。",
+        "用高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#补充信息：高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#关键词：学习方法和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "学习方法",
+        "高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#补充信息：高中数学想快速提分，班主任老师告诉你一个学霸不会说的绝招！#学习方法#关键词：学习方法",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-16/7708290555981073683.json",
+      "processed_at": "2026-11-16T15:53:25+08:00"
+    },
+    "last_error": null
+  },
+  "7624505242389875968": {
+    "video_id": "7624505242389875968",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "纵览新闻",
+      "video_id": "7624505242389875968",
+      "title": "25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。",
+      "publish_time": "2026-04-03T20:14:34+08:00",
+      "video_url": "https://www.douyin.com/video/7624505242389875968",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/76fbda3e213f028df63dfac845763245~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110172400&x-signature=Hr%2Fn14erPqiWKkRT%2BghVKEZ%2Fde0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261116154907073746CA9833DFF285AB",
+      "like_count": 974,
+      "comment_count": 18,
+      "share_count": 126,
+      "collect_count": 115,
+      "description": "25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。",
+      "text_hint": "25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f1da66101394e6399a5c3793bd90a9d3/6afadfd2/video/tos/cn/tos-cn-ve-0015c800/oYdejKgNwi359GF0AaQuEsIPvuAr8BACEB9e5i/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1192&bt=1192&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w_0p_Hhd.K0EJC73-ApQX&mime_type=video_mp4&qs=0&rc=Zjc8NmQ7aDo7ZjU4aTg8aEBpMzcza3c5cnd0OjMzNGkzM0AuMi80My0yNS8xMjMwLTAvYSNhaGJyMmRrcDRhLS1kLS9zcw%3D%3D&btag=c0000e00020000&cquery=100B_100H_100K_100o_100w&dy_q=1794815347&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=20261116154907073746CA9833DFF285AB",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7624505242389875968.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7624505242389875968.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 47.207,
+      "raw_payload": {
+        "aweme_id": "7624505242389875968",
+        "author_uid": "79901759380",
+        "sec_uid": "MS4wLjABAAAABDxQFX8d__WAqu4qoLw7AmYIKArRe_8NeHnpwLJl1A4",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAABDxQFX8d__WAqu4qoLw7AmYIKArRe_8NeHnpwLJl1A4"
+      }
+    },
+    "first_seen_at": "2026-11-16T15:48:43+08:00",
+    "last_seen_at": "2026-11-16T15:48:43+08:00",
+    "fetch_runs": [
+      "2026-11-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7624505242389875968.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7624505242389875968.mp3",
+      "source": "download",
+      "processed_at": "2026-11-16T15:50:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7624505242389875968",
+      "transcript_raw": "25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。补充信息：25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。",
+      "transcript_clean": "25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。补充信息：25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-16/7624505242389875968.json",
+      "processed_at": "2026-11-16T15:53:24+08:00"
+    },
+    "analysis": {
+      "video_id": "7624505242389875968",
+      "summary": "纵览新闻围绕“25”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。。25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。补充信息：25 岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "25为什么总是做不出来结果？",
+        "先把岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。25想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕25组织标题与开头。",
+        "用岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。25和岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。补充信息：25补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "25",
+        "岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。25",
+        "岁女子参加亲戚丧礼被砸死，遗体已停放半年多，家属不认可事故被定性为“意外”。补充信息：25"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-16/7624505242389875968.json",
+      "processed_at": "2026-11-16T15:53:25+08:00"
+    },
+    "last_error": null
+  },
+  "7374274252364598578": {
+    "video_id": "7374274252364598578",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "文刀",
+      "video_id": "7374274252364598578",
+      "title": "QUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #Sparkplug",
+      "publish_time": "2024-05-29T12:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7374274252364598578",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/25f5cc92fff90b4645f790d9f8747579~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110172400&x-signature=o0V9r4XCZ7KvXLabx3GeDWtCcRY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261116154910CD6B5812E01A6AD8C947",
+      "like_count": 16,
+      "comment_count": 2,
+      "share_count": 1,
+      "collect_count": 6,
+      "description": "QUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #Sparkplug",
+      "text_hint": "QUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #Sparkplug",
+      "topic_tags": [
+        "QUIC",
+        "数字化",
+        "IIOT",
+        "Sparkplug"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/8e3c06efa3a7cb9ec51d9d8719ad5e9d/6afae093/video/tos/cn/tos-cn-ve-0015c800/oMgGRABf7f1rA7GMiL8oeB1NY7ABXIQAEMVICA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=146&bt=146&cs=0&ds=6&ft=CZdgCYlIDyjNMRVQ9wq0p_Hhd.K0EJC73-ApQX&mime_type=video_mp4&qs=1&rc=MzpkOTszPDY7N2U4PDY3OEBpMzNvO2o5cnRkczMzNGkzM0BjLy0vMzJhNS4xLmJeYS4vYSNfM28xMmRzcl9gLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100J_100o_100w_100B_100D&dy_q=1794815350&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261116154910CD6B5812E01A6AD8C947",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7374274252364598578.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7374274252364598578.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 237.007,
+      "raw_payload": {
+        "aweme_id": "7374274252364598578",
+        "author_uid": "9423763604",
+        "sec_uid": "MS4wLjABAAAAdZwM3M0y9gGGubRb5sjgB-FR49GgbIOyKIWQEYmypQg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdZwM3M0y9gGGubRb5sjgB-FR49GgbIOyKIWQEYmypQg"
+      }
+    },
+    "first_seen_at": "2026-11-16T15:48:43+08:00",
+    "last_seen_at": "2026-11-16T15:48:43+08:00",
+    "fetch_runs": [
+      "2026-11-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7374274252364598578.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7374274252364598578.mp3",
+      "source": "download",
+      "processed_at": "2026-11-16T15:53:10+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7374274252364598578",
+      "transcript_raw": "QUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #SparkplugQUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #Sparkplug补充信息：QUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #Sparkplug关键词：QUIC、数字化、IIOT、Sparkplug",
+      "transcript_clean": "QUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #SparkplugQUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #Sparkplug补充信息：QUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #Sparkplug关键词：QUIC、数字化、IIOT、Sparkplug",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-16/7374274252364598578.json",
+      "processed_at": "2026-11-16T15:53:24+08:00"
+    },
+    "analysis": {
+      "video_id": "7374274252364598578",
+      "summary": "文刀围绕“QUIC”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "QUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #Sparkplug。QUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #SparkplugQUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #Sparkplug补充信息：QUIC 协议：特性、应用场景及其对工业物联网的影响 #QUIC #数字化 #IIOT  #Sparkplug关键词：QUIC、数字化、IIOT、Sparkplug 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "QUIC为什么总是做不出来结果？",
+        "先把数字化想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕QUIC组织标题与开头。",
+        "用数字化和IIOT补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "QUIC",
+        "数字化",
+        "IIOT"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-16/7374274252364598578.json",
+      "processed_at": "2026-11-16T15:53:25+08:00"
+    },
+    "last_error": null
+  },
+  "7370155989208714515": {
+    "video_id": "7370155989208714515",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "宝藏诗词",
+      "video_id": "7370155989208714515",
+      "title": "文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭",
+      "publish_time": "2024-05-18T10:09:30+08:00",
+      "video_url": "https://www.douyin.com/video/7370155989208714515",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/741d4083d7fc13647f6c6438df21469a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110172400&x-signature=EyQ%2F1CntHA8a4ZZehL7hzZH3%2BsY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611161549130EFCC4DEB0D397B1D840",
+      "like_count": 334,
+      "comment_count": 23,
+      "share_count": 35,
+      "collect_count": 84,
+      "description": "文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭",
+      "text_hint": "文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭",
+      "topic_tags": [
+        "古文",
+        "陋室铭"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/46ef6ec1ad9d5843a73f62706d4bd83c/6afae092/video/tos/cn/tos-cn-ve-0015c800/ogKIAivxDeAXgSQgE9JnCbgAAe0XyImpXA7bBn/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=824&bt=824&cs=0&ds=6&ft=CZdgCYlIDyjNMRVQ9wR0p_Hhd.K0EJC73-ApQX&mime_type=video_mp4&qs=1&rc=aTQ2aWY4NDw8aDlkNDc1OUBpangzeTc6ZjkzczMzNGkzM0BjYC1jMl8tNS8xY18tXjZhYSNsLWIycjRvbTFgLS1kLS9zcw%3D%3D&btag=80000e00028000&cquery=100B_100x_100z_100o_100w&dy_q=1794815353&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202611161549130EFCC4DEB0D397B1D840",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7370155989208714515.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7370155989208714515.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 233.767,
+      "raw_payload": {
+        "aweme_id": "7370155989208714515",
+        "author_uid": "2211822631926324",
+        "sec_uid": "MS4wLjABAAAAdr1mitsktkQurfWi7Y-BKk6eOTuPsw7__cqXyfiKrW7I9pCQUH6Pd1NuGPGApr-T",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdr1mitsktkQurfWi7Y-BKk6eOTuPsw7__cqXyfiKrW7I9pCQUH6Pd1NuGPGApr-T"
+      }
+    },
+    "first_seen_at": "2026-11-16T15:48:43+08:00",
+    "last_seen_at": "2026-11-16T15:48:43+08:00",
+    "fetch_runs": [
+      "2026-11-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7370155989208714515.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7370155989208714515.mp3",
+      "source": "download",
+      "processed_at": "2026-11-16T15:53:24+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7370155989208714515",
+      "transcript_raw": "文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭补充信息：文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭关键词：古文、陋室铭",
+      "transcript_clean": "文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭补充信息：文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭关键词：古文、陋室铭",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-16/7370155989208714515.json",
+      "processed_at": "2026-11-16T15:53:24+08:00"
+    },
+    "analysis": {
+      "video_id": "7370155989208714515",
+      "summary": "宝藏诗词围绕“古文”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭。文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭补充信息：文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭关键词：古文、陋室铭 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "古文为什么总是做不出来结果？",
+        "先把陋室铭想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕古文组织标题与开头。",
+        "用陋室铭和文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭补充信息：文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭关键词：古文、陋室铭补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "古文",
+        "陋室铭",
+        "文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭补充信息：文章通过赞美陋室来表达作者志行高洁、安贫乐道、不与世俗同流合污的意趣。#古文#陋室铭关键词：古文、陋室铭"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-16/7370155989208714515.json",
+      "processed_at": "2026-11-16T15:53:25+08:00"
+    },
+    "last_error": null
+  },
+  "7377080094713597195": {
+    "video_id": "7377080094713597195",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7377080094713597195",
+      "title": "V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机",
+      "publish_time": "2024-06-05T17:59:00+08:00",
+      "video_url": "https://www.douyin.com/video/7377080094713597195",
+      "cover_url": "",
+      "like_count": 125,
+      "comment_count": 6,
+      "share_count": 72,
+      "collect_count": 16,
+      "description": "V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机",
+      "text_hint": "V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机",
+      "topic_tags": [
+        "V6发动机",
+        "V8发动机",
+        "发动机"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/de77d1b405747fcd53f0f3034773898f/6afae1e1/video/tos/cn/tos-cn-ve-15/o8Yf4AYghlaC1u2QZ43z3JMDAAOUE94ifeepg1/?a=6383&br=1185&bt=1185&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100D_100J&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1794815369&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNMRVQ9wp3p_Hhd.K0EJC73-ApQX&is_ssr=1&l=20261116154929F36E50AB78D49A16DF04&lr=all&mime_type=video_mp4&qs=1&rc=PDw7Ozg5ZDZnPDM2aDk4NkBpM2g7a3U5cnlkczMzNGkzM0BeMmMwMjJeX2AxMzQxYl5gYSNyYXFvMmQ0YmRgLS1kLTBzcw%3D%3D&__vid=7377080094713597195",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7377080094713597195.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7377080094713597195.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7377080094713597195",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-16T15:48:43+08:00",
+    "last_seen_at": "2026-11-16T15:48:43+08:00",
+    "fetch_runs": [
+      "2026-11-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7377080094713597195.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7377080094713597195.mp3",
+      "source": "download",
+      "processed_at": "2026-11-16T15:53:04+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7377080094713597195",
+      "transcript_raw": "V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机补充信息：V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机关键词：V6发动机、V8发动机、发动机",
+      "transcript_clean": "V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机补充信息：V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机关键词：V6发动机、V8发动机、发动机",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-16/7377080094713597195.json",
+      "processed_at": "2026-11-16T15:53:24+08:00"
+    },
+    "analysis": {
+      "video_id": "7377080094713597195",
+      "summary": "知雪围绕“V6发动机”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机。V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机补充信息：V6发动机和V8发动机 - 有什么不同（哪个更好）!有懂哥吗？ #V6发动机 #V8发动机 #发动机关键词：V6发动机、V8发动机、发动机 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "V6发动机为什么总是做不出来结果？",
+        "先把V8发动机想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕V6发动机组织标题与开头。",
+        "用V8发动机和发动机补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "V6发动机",
+        "V8发动机",
+        "发动机"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-16/7377080094713597195.json",
+      "processed_at": "2026-11-16T15:53:25+08:00"
+    },
+    "last_error": null
+  },
+  "7380497327687011624": {
+    "video_id": "7380497327687011624",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "董苏☕62年🐯",
+      "video_id": "7380497327687011624",
+      "title": "这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛",
+      "publish_time": "2024-06-15T06:59:27+08:00",
+      "video_url": "https://www.douyin.com/video/7380497327687011624",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/okcyuAAsmBAuYCysC1FEgrDoAbA90hAIEffiCM~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110172400&x-signature=dMi853MXfky9LDNnnGBv95YPoRM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261116154937BBFB07604DF479CD341A",
+      "like_count": 1910,
+      "comment_count": 139,
+      "share_count": 7,
+      "collect_count": 7,
+      "description": "这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛",
+      "text_hint": "这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛",
+      "topic_tags": [
+        "英子模仿大赛"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/489c6e2d57ec9f2b35852b7b2c974b2d/6afae075/video/tos/cn/tos-cn-ve-0015c800/oU9uKM6uDIRLw4srACFjC19cwBfMmfAQEtgqAb/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=5821&bt=5821&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wN3p_Hhd.K0EJC73-ApQX&mime_type=video_mp4&qs=0&rc=Z2VpZzNmNDtmOTU5aGY8ZkBpM3J2b3A5cnFmczMzNGkzM0BiYmJgNl8zNjAxYGJjNDU0YSNgL15fMmQ0aWpgLS1kLS9zcw%3D%3D&btag=c0000e00028000&cquery=100z_100o_100w_100B_100x&dy_q=1794815377&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261116154937BBFB07604DF479CD341A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7380497327687011624.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7380497327687011624.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.071,
+      "raw_payload": {
+        "aweme_id": "7380497327687011624",
+        "author_uid": "64053751930",
+        "sec_uid": "MS4wLjABAAAAA35Zud17U6VIg3XIbnsO5JfeYIvKt8GssTADBNPQmKs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAA35Zud17U6VIg3XIbnsO5JfeYIvKt8GssTADBNPQmKs"
+      }
+    },
+    "first_seen_at": "2026-11-16T15:48:43+08:00",
+    "last_seen_at": "2026-11-16T15:48:43+08:00",
+    "fetch_runs": [
+      "2026-11-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7380497327687011624.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7380497327687011624.mp3",
+      "source": "download",
+      "processed_at": "2026-11-16T15:52:18+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7380497327687011624",
+      "transcript_raw": "这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛补充信息：这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛关键词：英子模仿大赛",
+      "transcript_clean": "这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛补充信息：这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛关键词：英子模仿大赛",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-16/7380497327687011624.json",
+      "processed_at": "2026-11-16T15:53:24+08:00"
+    },
+    "analysis": {
+      "video_id": "7380497327687011624",
+      "summary": "董苏☕62年🐯围绕“英子模仿大赛”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛。这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛补充信息：这么近那么美周末到河北 ，周末来承德避暑山庄🤗🤗#英子模仿大赛关键词：英子模仿大赛 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "英子模仿大赛为什么总是做不出来结果？",
+        "先把这么近那么美周末到河北想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕英子模仿大赛组织标题与开头。",
+        "用这么近那么美周末到河北和周末来承德避暑山庄🤗🤗#英子模仿大赛这么近那么美周末到河北补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "英子模仿大赛",
+        "这么近那么美周末到河北",
+        "周末来承德避暑山庄🤗🤗#英子模仿大赛这么近那么美周末到河北"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-16/7380497327687011624.json",
+      "processed_at": "2026-11-16T15:53:25+08:00"
+    },
+    "last_error": null
+  },
+  "7434101241073929512": {
+    "video_id": "7434101241073929512",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "哈欠戴戴",
+      "video_id": "7434101241073929512",
+      "title": "拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得",
+      "publish_time": "2024-11-06T17:50:00+08:00",
+      "video_url": "https://www.douyin.com/video/7434101241073929512",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c8a68a4bae277e09355cb5f539676b9d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110172400&x-signature=4%2Fx3WXQowLRakuvqEewhSwMrHYA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611161549400E1CF9256DEE94AE720C",
+      "like_count": 5261,
+      "comment_count": 389,
+      "share_count": 842,
+      "collect_count": 1133,
+      "description": "拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得",
+      "text_hint": "拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得",
+      "topic_tags": [
+        "ccd",
+        "5s",
+        "se",
+        "佳能",
+        "拍立得"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/25facdd235cadc6e42a2a540828db492/6afae126/video/tos/cn/tos-cn-ve-15/oMRHdPyiK7BMIS1ApZRtQl9yRaAriETst7IvA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1656&bt=1656&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w13p_Hhd.K0EJC73-ApQX&mime_type=video_mp4&qs=0&rc=OjhnZWlmMzo5OTUzaTc0OkBpandlbm85cmZtdjMzNGkzM0AvYWExYDEyXzExNl5gMjY1YSNxbmpoMmRramlgLS1kLWFzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1794815380&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202611161549400E1CF9256DEE94AE720C",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7434101241073929512.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7434101241073929512.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 354.5,
+      "raw_payload": {
+        "aweme_id": "7434101241073929512",
+        "author_uid": "3919106010520430",
+        "sec_uid": "MS4wLjABAAAA_T-3awzBd_OVdtWo0y5b4vzJ_RnPFzraG4t5mOl3XiZ-_Lj1yecvydYggdnNjFtv",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA_T-3awzBd_OVdtWo0y5b4vzJ_RnPFzraG4t5mOl3XiZ-_Lj1yecvydYggdnNjFtv"
+      }
+    },
+    "first_seen_at": "2026-11-16T15:48:43+08:00",
+    "last_seen_at": "2026-11-16T15:48:43+08:00",
+    "fetch_runs": [
+      "2026-11-16"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7434101241073929512.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-16/7434101241073929512.mp3",
+      "source": "download",
+      "processed_at": "2026-11-16T15:50:59+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7434101241073929512",
+      "transcript_raw": "拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得补充信息：拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得关键词：ccd、5s、se、佳能、拍立得",
+      "transcript_clean": "拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得补充信息：拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得关键词：ccd、5s、se、佳能、拍立得",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-16/7434101241073929512.json",
+      "processed_at": "2026-11-16T15:53:24+08:00"
+    },
+    "analysis": {
+      "video_id": "7434101241073929512",
+      "summary": "哈欠戴戴围绕“ccd”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得。拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得补充信息：拍照设备分享终于来啦 #ccd #5s #se #佳能 #拍立得关键词：ccd、5s、se、佳能、拍立得 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "ccd为什么总是做不出来结果？",
+        "先把5s想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕ccd组织标题与开头。",
+        "用5s和se补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "ccd",
+        "5s",
+        "se"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-16/7434101241073929512.json",
+      "processed_at": "2026-11-16T15:53:25+08:00"
+    },
+    "last_error": null
+  },
+  "7465041201574513935": {
+    "video_id": "7465041201574513935",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7465041201574513935",
+      "title": "@嫏女 ⁶¹³ 🎙️ 《青藏高原》回放来了，@🎡枫火轮⁵²⁷ 🎶 你来监督到底浪不浪，笑死了，太搞笑了#青藏高原",
+      "publish_time": "2025-01-28T18:54:00+08:00",
+      "video_url": "https://www.douyin.com/video/7465041201574513935",
+      "cover_url": "",
+      "like_count": 477,
+      "comment_count": 53,
+      "share_count": 153,
+      "collect_count": 29,
+      "description": "@嫏女 ⁶¹³ 🎙️ 《青藏高原》回放来了，@🎡枫火轮⁵²⁷ 🎶 你来监督到底浪不浪，笑死了，太搞笑了#青藏高原",
+      "text_hint": "@嫏女 ⁶¹³ 🎙️ 《青藏高原》回放来了，@🎡枫火轮⁵²⁷ 🎶 你来监督到底浪不浪，笑死了，太搞笑了#青藏高原",
+      "topic_tags": [
+        "青藏高原"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/cdb09618-6113-4491-9c3f-59fbf9b387a2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7465041201574513935",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-16T15:48:43+08:00",
+    "last_seen_at": "2026-11-16T15:48:43+08:00",
+    "fetch_runs": [
+      "2026-11-16"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
