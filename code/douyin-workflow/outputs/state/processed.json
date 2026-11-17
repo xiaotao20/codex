@@ -74208,5 +74208,377 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7708747256517692710": {
+    "video_id": "7708747256517692710",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "浙大优学企业店",
+      "video_id": "7708747256517692710",
+      "title": "浙大联合20个全国各省的重点高中教研组编写的这套中学数学思想方法20讲，适合现在高考的你难度，高中有着一本就够了",
+      "publish_time": "2026-11-16T20:36:53+08:00",
+      "video_url": "https://www.douyin.com/video/7708747256517692710",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-29cc83/oIq88aWv6s1oIDDLtgzIkXQHpFvrI7Xqdt300~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110262400&x-signature=ZMw7zW1m4t7BEX7iox1BFhLBUgk%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111716582409D71B15D02427705B1A",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "浙大联合20个全国各省的重点高中教研组编写的这套中学数学思想方法20讲，适合现在高考的你难度，高中有着一本就够了",
+      "text_hint": "浙大联合20个全国各省的重点高中教研组编写的这套中学数学思想方法20讲，适合现在高考的你难度，高中有着一本就够了",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/f2a0ac95db2c1dc1d11b1f16ce447b69/6afc4186/video/tos/cn/tos-cn-v-29cc83/oUN8ClAunbyeyier55Bei4ArH7LfnECISVF26q/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2620&bt=2620&cs=0&ds=4&ft=4rzAgkIKDyjNewVQ9wD.zrHhd.4PpA103-ApQX&mime_type=video_mp4&qs=0&rc=Njo3NTY6NjVmZjU8NDQ0aUBpM3huPHc5cnNpZTMzNDYzM0AyYV4xYy4wX2IxMDQtYC1iYSNobmBsMmRjZXFhLS1kMC9zcw%3D%3D&btag=c0000e00018000&cquery=102v_102u_100o_100w_100B&dy_q=1794905904&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=2026111716582409D71B15D02427705B1A",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 38.6,
+      "raw_payload": {
+        "aweme_id": "7708747256517692710",
+        "author_uid": "94174775335",
+        "sec_uid": "MS4wLjABAAAA5YCNSHkRozHXb5qRQtQeUEmYSasFoMgJdqsATkW1yrg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA5YCNSHkRozHXb5qRQtQeUEmYSasFoMgJdqsATkW1yrg"
+      }
+    },
+    "first_seen_at": "2026-11-17T16:58:03+08:00",
+    "last_seen_at": "2026-11-17T16:58:03+08:00",
+    "fetch_runs": [
+      "2026-11-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7572892862737687419": {
+    "video_id": "7572892862737687419",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "你的朋友",
+      "video_id": "7572892862737687419",
+      "title": "长狂喷高市早苗中国人的事日本人给我闭嘴示警\"一种情况#馆长#中日关系#两岸局势#中天新闻#两岸交流",
+      "publish_time": "2025-11-15T18:12:04+08:00",
+      "video_url": "https://www.douyin.com/video/7572892862737687419",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/866185fc31824f9f5abfc05fa0ce5ab4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110262400&x-signature=Odx4oRYcBNGsq0ZenaMV%2F%2BuSQAo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261117165827057C936B7226AD6975BE",
+      "like_count": 413537,
+      "comment_count": 9124,
+      "share_count": 89812,
+      "collect_count": 24269,
+      "description": "长狂喷高市早苗中国人的事日本人给我闭嘴示警\"一种情况#馆长#中日关系#两岸局势#中天新闻#两岸交流",
+      "text_hint": "长狂喷高市早苗中国人的事日本人给我闭嘴示警\"一种情况#馆长#中日关系#两岸局势#中天新闻#两岸交流",
+      "topic_tags": [
+        "馆长",
+        "中日关系",
+        "两岸局势",
+        "中天新闻",
+        "两岸交流"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/9e899165c6f4997682f573101a207bea/6afc43c7/video/tos/cn/tos-cn-ve-15c000-ce/oEfzGjCkgQznbD5JKSSBhMOCMRf48fa8gAiXh7/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=619&bt=619&cs=0&ds=6&ft=4rzAgkIKDyjNewVQ9w_.zrHhd.4PpA103-ApQX&mime_type=video_mp4&qs=0&rc=NTk4ZDM0OTg3aGk3ODU2NEBpanZtOHY5cnA4NzMzbGkzNEBhYGMxLi9jNjMxXmIuYzIuYSNwc2xiMmRjLmBhLS1kLWJzcw%3D%3D&btag=c0000e00038000&cquery=100o_100w_100B_100x_100z&dy_q=1794905907&feature_id=fea919893f650a8c49286568590446ef&l=20261117165827057C936B7226AD6975BE",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 612.534,
+      "raw_payload": {
+        "aweme_id": "7572892862737687419",
+        "author_uid": "87807015076",
+        "sec_uid": "MS4wLjABAAAA9e8DGaFFKownEAGy2foMPh0v9zML6KPCZilr1v-Nc20",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9e8DGaFFKownEAGy2foMPh0v9zML6KPCZilr1v-Nc20"
+      }
+    },
+    "first_seen_at": "2026-11-17T16:58:03+08:00",
+    "last_seen_at": "2026-11-17T16:58:03+08:00",
+    "fetch_runs": [
+      "2026-11-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7164341202525949223": {
+    "video_id": "7164341202525949223",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "数码王杰克",
+      "video_id": "7164341202525949223",
+      "title": "建议收藏！硬盘盒全面选购指南 #科技 #数码科技 #电子产品 #数码 #好物 #好物推荐 #好物推荐",
+      "publish_time": "2022-11-10T19:03:06+08:00",
+      "video_url": "https://www.douyin.com/video/7164341202525949223",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/4647a0b70841f7de63a1a757559cb951~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110262400&x-signature=%2F5xg16JfX014BoVxaM1tgTJ6eoQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111716583099D4A43A9AA8299071EB",
+      "like_count": 1136,
+      "comment_count": 94,
+      "share_count": 76,
+      "collect_count": 539,
+      "description": "建议收藏！硬盘盒全面选购指南 #科技 #数码科技 #电子产品 #数码 #好物 #好物推荐 #好物推荐",
+      "text_hint": "建议收藏！硬盘盒全面选购指南 #科技 #数码科技 #电子产品 #数码 #好物 #好物推荐 #好物推荐",
+      "topic_tags": [
+        "科技",
+        "数码科技",
+        "电子产品",
+        "数码",
+        "好物",
+        "好物推荐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/be659808f35ed257e2de104722ed83d5/6afc434e/video/tos/cn/tos-cn-ve-15c001-alinc2/ocvAAt1DwUAmvSJnFM20sNQJ5ghCYBzFxIZeGf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=303&bt=303&cs=0&ds=3&ft=4rzAgkIKDyjNewVQ9wq.zrHhd.4PpA103-ApQX&mime_type=video_mp4&qs=0&rc=Mzs6NDg7MzRoZjVkNTVmaEBpamk3PDU6ZnRnZzMzNGkzM0BgMV4wNC02NTQxYDIuMmA2YSNwX29gcjRnaGpgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100J_100o_100w_100B_100D&dy_q=1794905910&l=2026111716583099D4A43A9AA8299071EB",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 488.641,
+      "raw_payload": {
+        "aweme_id": "7164341202525949223",
+        "author_uid": "1957546878834492",
+        "sec_uid": "MS4wLjABAAAAf0SaZQWiEa3dOMnyMgVKJgEymZZz45-ecr_orYeYJPSbQqlxw7-eALDMSzBZGZgU",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAf0SaZQWiEa3dOMnyMgVKJgEymZZz45-ecr_orYeYJPSbQqlxw7-eALDMSzBZGZgU"
+      }
+    },
+    "first_seen_at": "2026-11-17T16:58:03+08:00",
+    "last_seen_at": "2026-11-17T16:58:03+08:00",
+    "fetch_runs": [
+      "2026-11-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7154305711114177799": {
+    "video_id": "7154305711114177799",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "秀芹在此",
+      "video_id": "7154305711114177799",
+      "title": "人生的第一次联名，我居然做了这种事.....#粉丝共创 #包包种草 #百搭 #时尚百万新星计划",
+      "publish_time": "2022-10-14T18:00:07+08:00",
+      "video_url": "https://www.douyin.com/video/7154305711114177799",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/67cc48627e5dc71079775cd4c3d1e9c4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110262400&x-signature=UYsvYhHQZUA7BJsB5UzCRCFvd2Q%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111716583355C936AFA92B6A54DA9E",
+      "like_count": 2696,
+      "comment_count": 125,
+      "share_count": 129,
+      "collect_count": 153,
+      "description": "人生的第一次联名，我居然做了这种事.....#粉丝共创 #包包种草 #百搭 #时尚百万新星计划",
+      "text_hint": "人生的第一次联名，我居然做了这种事.....#粉丝共创 #包包种草 #百搭 #时尚百万新星计划",
+      "topic_tags": [
+        "粉丝共创",
+        "包包种草",
+        "百搭",
+        "时尚百万新星计划"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/92881f7c118e73886a99406ace82eb80/6afc43f0/video/tos/cn/tos-cn-ve-15c001-alinc2/906af6a7984647ca8b7799e11285d824/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2268&bt=2268&cs=0&ds=4&ft=4rzAgkIKDyjNewVQ9wR.zrHhd.4PpA103-ApQX&mime_type=video_mp4&qs=0&rc=aTllNDg4NjU8OzNlaGg0OUBpM2dtPGg6ZnRsZzMzNGkzM0A2YC02LzAyXmIxYC81MGI0YSNtZW5wcjRvZTFgLS1kLS9zcw%3D%3D&btag=c0000e00038000&cquery=100B_100H_100K_100o_100w&dy_q=1794905913&l=2026111716583355C936AFA92B6A54DA9E",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 647.939,
+      "raw_payload": {
+        "aweme_id": "7154305711114177799",
+        "author_uid": "2173104833705422",
+        "sec_uid": "MS4wLjABAAAAz0uDqjmip8hKSDE-2_cTLRGUpCyWBky4C8vFeVvwTNjmOOLjNGNjSxcinvDCN8VI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAz0uDqjmip8hKSDE-2_cTLRGUpCyWBky4C8vFeVvwTNjmOOLjNGNjSxcinvDCN8VI"
+      }
+    },
+    "first_seen_at": "2026-11-17T16:58:03+08:00",
+    "last_seen_at": "2026-11-17T16:58:03+08:00",
+    "fetch_runs": [
+      "2026-11-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7503167926020214073": {
+    "video_id": "7503167926020214073",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7503167926020214073",
+      "title": "心理访谈｜将妈妈和孩子隔开，应用自然观察法+问题引导法，体验一次直击心灵的对话 #母亲节#访谈#记录",
+      "publish_time": "2025-05-11T12:43:00+08:00",
+      "video_url": "https://www.douyin.com/video/7503167926020214073",
+      "cover_url": "",
+      "like_count": 1,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "心理访谈｜将妈妈和孩子隔开，应用自然观察法+问题引导法，体验一次直击心灵的对话 #母亲节#访谈#记录",
+      "text_hint": "心理访谈｜将妈妈和孩子隔开，应用自然观察法+问题引导法，体验一次直击心灵的对话 #母亲节#访谈#记录",
+      "topic_tags": [
+        "母亲节",
+        "访谈",
+        "记录"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/5c7239e16942b9c2e8a835ade536b83c/6afc4367/video/tos/cn/tos-cn-ve-15c000-ce/o0Y7aQICEHx52C8eBuOZbfggGeAMLJC70COQTR/?a=6383&br=559&bt=559&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100B_100x_100z_100o_100w&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1794905929&feature_id=fea919893f650a8c49286568590446ef&ft=4rzAgkIKDyjNewVQ9wp9zrHhd.4PpA103-ApQX&is_ssr=1&l=202611171658488869F026DC3EE5337068&lr=all&mime_type=video_mp4&qs=0&rc=NGQ2OjlmZGk2ODU2NDc8NEBpM2g3OXA5cm08MzMzbGkzNEAzMGNiMmNfNTYxY2NjLV40YSNvbnBqMmQ0Z2RhLS1kLWJzcw%3D%3D&__vid=7503167926020214073",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7503167926020214073",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-17T16:58:03+08:00",
+    "last_seen_at": "2026-11-17T16:58:03+08:00",
+    "fetch_runs": [
+      "2026-11-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7258965782762196224": {
+    "video_id": "7258965782762196224",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "大力出奇迹",
+      "video_id": "7258965782762196224",
+      "title": "肖战还有多少惊喜是我们还不知道的？？？可爱吧哈哈#冰雪运动",
+      "publish_time": "2023-07-23T18:54:43+08:00",
+      "video_url": "https://www.douyin.com/video/7258965782762196224",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/83891758672d36dda205762290c1fe1a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110262400&x-signature=yoB78g3wTfSQo19wGafMVEw%2BJkU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111716585695E6231341AE82341279",
+      "like_count": 3588,
+      "comment_count": 111,
+      "share_count": 54,
+      "collect_count": 152,
+      "description": "肖战还有多少惊喜是我们还不知道的？？？可爱吧哈哈#冰雪运动",
+      "text_hint": "肖战还有多少惊喜是我们还不知道的？？？可爱吧哈哈#冰雪运动",
+      "topic_tags": [
+        "冰雪运动"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/d2235e22faddadd79b1e518e3201040c/6afc4358/video/tos/cn/tos-cn-ve-0015c800/owgtAabnDQYg9NkAlDfE9vgQ6B2ALDXOeidtIg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1363&bt=1363&cs=0&ds=3&ft=4rzAgkIKDyjNewVQ9w09zrHhd.4PpA103-ApQX&mime_type=video_mp4&qs=0&rc=aWdkaTY2O2c6NDY1ODUzZkBpM2puZ2Y6ZnVqbDMzNGkzM0AvXzAzY2MyNjUxNV5fYy8yYSMuYWk2cjRfX3JgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1794905936&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=2026111716585695E6231341AE82341279",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 472.341,
+      "raw_payload": {
+        "aweme_id": "7258965782762196224",
+        "author_uid": "10631043817",
+        "sec_uid": "MS4wLjABAAAAnnpkSNCCaEhz8oioLXaYMOyOXPQFlPkN4soWRyr3teI",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAnnpkSNCCaEhz8oioLXaYMOyOXPQFlPkN4soWRyr3teI"
+      }
+    },
+    "first_seen_at": "2026-11-17T16:58:03+08:00",
+    "last_seen_at": "2026-11-17T16:58:03+08:00",
+    "fetch_runs": [
+      "2026-11-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7273828206011043133": {
+    "video_id": "7273828206011043133",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "一峰老师街舞课堂",
+      "video_id": "7273828206011043133",
+      "title": "一组Rolling练全身#零基础学舞蹈 #hiphop基础 #街舞教学",
+      "publish_time": "2023-09-01T20:08:29+08:00",
+      "video_url": "https://www.douyin.com/video/7273828206011043133",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/ef955993f53f470e73f05704aff054a1~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110262400&x-signature=OT0KRij%2FzFmZ4qzUB6c2ivwSF7I%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261117165859AF65F300AF848EA63D47",
+      "like_count": 1429,
+      "comment_count": 52,
+      "share_count": 443,
+      "collect_count": 1463,
+      "description": "一组Rolling练全身#零基础学舞蹈 #hiphop基础 #街舞教学",
+      "text_hint": "一组Rolling练全身#零基础学舞蹈 #hiphop基础 #街舞教学",
+      "topic_tags": [
+        "零基础学舞蹈",
+        "hiphop基础",
+        "街舞教学"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/12fbecaad8e45207144d6ccb18b74ef4/6afc4298/video/tos/cn/tos-cn-ve-15c001-alinc2/owBGAnReMfr8wAOQIkhzGHtTELFjgmHkADyMI9/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1777&bt=1777&cs=0&ds=4&ft=4rzAgkIKDyjNewVQ9wk9zrHhd.4PpA103-ApQX&mime_type=video_mp4&qs=0&rc=ZjlmNDxlZDNoOmhmOzg3PEBpamt2PDk6Zjl3bTMzNGkzM0AzMmFhMy0vXmExNF4yXy0xYSM2ZC1scjRfM2xgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1794905939&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261117165859AF65F300AF848EA63D47",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 277.315,
+      "raw_payload": {
+        "aweme_id": "7273828206011043133",
+        "author_uid": "2230251021664830",
+        "sec_uid": "MS4wLjABAAAAA3rLXVtl7HBDO0irZc92OxlewRnSVnhSD9ArRn8uAD_Hp7KUk711NNYqwmwpVUi8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAA3rLXVtl7HBDO0irZc92OxlewRnSVnhSD9ArRn8uAD_Hp7KUk711NNYqwmwpVUi8"
+      }
+    },
+    "first_seen_at": "2026-11-17T16:58:03+08:00",
+    "last_seen_at": "2026-11-17T16:58:03+08:00",
+    "fetch_runs": [
+      "2026-11-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7339536954305809701": {
+    "video_id": "7339536954305809701",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7339536954305809701",
+      "title": "正月十六千人广场舞展演 “桃花红杏花白”",
+      "publish_time": "2024-02-25T13:52:00+08:00",
+      "video_url": "https://www.douyin.com/video/7339536954305809701",
+      "cover_url": "",
+      "like_count": 463,
+      "comment_count": 124,
+      "share_count": 30,
+      "collect_count": 38,
+      "description": "正月十六千人广场舞展演 “桃花红杏花白”",
+      "text_hint": "正月十六千人广场舞展演 “桃花红杏花白”",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/5eb5d530142e5970730757649c65cb59/6afc42c8/video/tos/cn/tos-cn-ve-15/ooThhFYQI3PACL7BPQ7ztAjeJ5AfRyagg2LyE9/?a=6383&br=2558&bt=2558&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1794905955&feature_id=37f92ebd2877ae8e7eba995d406c5150&ft=4rzAgkIKDyjNewVQ9wm9zrHhd.4PpA103-ApQX&is_ssr=1&l=20261117165915F34A4774C3031E6EF51C&lr=all&mime_type=video_mp4&qs=12&rc=MzQ3NTtmMzdpaGkzPDQ4OEBpamk4eWk6ZnZucTMzNGkzM0AvLWM0YjQzXjAxY2NiMF9eYSNlZGBvcjRvNmFgLS1kLS9zcw%3D%3D&__vid=7339536954305809701",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7339536954305809701",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-17T16:58:03+08:00",
+    "last_seen_at": "2026-11-17T16:58:03+08:00",
+    "fetch_runs": [
+      "2026-11-17"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
   }
 }
