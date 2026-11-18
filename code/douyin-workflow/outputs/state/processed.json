@@ -74580,5 +74580,630 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7579257140070649088": {
+    "video_id": "7579257140070649088",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "百姓关注",
+      "video_id": "7579257140070649088",
+      "title": "江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。",
+      "publish_time": "2025-12-02T21:49:02+08:00",
+      "video_url": "https://www.douyin.com/video/7579257140070649088",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/dbbf52bc84eb7d58c06915d6c8cdc5cb~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110348800&x-signature=soANyAd5tNPn6Tz9DQpjzwRIxeU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111816233747A2027A1CECC9F5A093",
+      "like_count": 1173,
+      "comment_count": 33,
+      "share_count": 27,
+      "collect_count": 33,
+      "description": "江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。",
+      "text_hint": "江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b75c6e3f1e17ea3ae26e59f4319fc987/6afd8ac8/video/tos/cn/tos-cn-ve-0015c800/oInlElNeXAz35UBiACgillOFIf8c0biBjQczuA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1248&bt=1248&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wpU-rHhd.zDkAl03-ApQX&mime_type=video_mp4&qs=0&rc=aWU8MzRoN2Q2PGg6NWYzZUBpajhscm05cmdoNzMzNGkzM0BhMi5jNGEuNmExYzQtMy8xYSNmMm9wMmRzcGthLS1kLWFzcw%3D%3D&btag=c0000e00010000&cquery=100H_100K_100o_100w_100B&dy_q=1794990217&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026111816233747A2027A1CECC9F5A093",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7579257140070649088.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7579257140070649088.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 15.511,
+      "raw_payload": {
+        "aweme_id": "7579257140070649088",
+        "author_uid": "97175128004",
+        "sec_uid": "MS4wLjABAAAAmE4eZVyUnGuRg_lYeG1ppRSlM5_JzWsbCLESmeePuXg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAmE4eZVyUnGuRg_lYeG1ppRSlM5_JzWsbCLESmeePuXg"
+      }
+    },
+    "first_seen_at": "2026-11-18T16:23:15+08:00",
+    "last_seen_at": "2026-11-18T16:23:15+08:00",
+    "fetch_runs": [
+      "2026-11-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7579257140070649088.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7579257140070649088.mp3",
+      "source": "download",
+      "processed_at": "2026-11-18T16:24:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7579257140070649088",
+      "transcript_raw": "江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。补充信息：江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。",
+      "transcript_clean": "江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。补充信息：江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-18/7579257140070649088.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7579257140070649088",
+      "summary": "百姓关注围绕“江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。补充信息：江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。。江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。补充信息：江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。补充信息：江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。补充信息：江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场。补充信息：江苏一小区地下室突发火灾，男生单手抱着奶奶逃出火场",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-18/7579257140070649088.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "last_error": null
+  },
+  "7350636554559229236": {
+    "video_id": "7350636554559229236",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "冰姐扒书",
+      "video_id": "7350636554559229236",
+      "title": "8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享",
+      "publish_time": "2024-03-26T19:44:38+08:00",
+      "video_url": "https://www.douyin.com/video/7350636554559229236",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/99714cbf5453c07c49b9b5d41b05cdf9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110348800&x-signature=1%2FCsdfUOW2u2fpRfRClCwtg%2B5ZY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611181623403AEEDDD4DFBA5AF6C7B7",
+      "like_count": 11329,
+      "comment_count": 507,
+      "share_count": 3119,
+      "collect_count": 5743,
+      "description": "8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享",
+      "text_hint": "8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享",
+      "topic_tags": [
+        "西游记",
+        "知识分享"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/b7432c84a73901ec08b108de659ce9cc/6afd8db1/video/tos/cn/tos-cn-ve-15/o4zFwm2IbABHTFnJAg8CQXEgfe9srAuI5CDIAK/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2172&bt=2172&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9wnU-rHhd.zDkAl03-ApQX&mime_type=video_mp4&qs=0&rc=NjtmN2U8PGg0aDg4PDtnOEBpM215cjU6ZjVlcjMzNGkzM0AtL15eLzI1X2AxX2FiMzFiYSMyZ2tpcjRfNS5gLS1kLS9zcw%3D%3D&btag=c0000e00038000&cquery=100H_100K_100o_100w_100B&dy_q=1794990220&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=202611181623403AEEDDD4DFBA5AF6C7B7",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7350636554559229236.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7350636554559229236.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 757.318,
+      "raw_payload": {
+        "aweme_id": "7350636554559229236",
+        "author_uid": "62857529366",
+        "sec_uid": "MS4wLjABAAAA0ig_J9Wc88YAer-RQUIO7ab6wfAV0cfTfNuN7LrNBCs",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA0ig_J9Wc88YAer-RQUIO7ab6wfAV0cfTfNuN7LrNBCs"
+      }
+    },
+    "first_seen_at": "2026-11-18T16:23:15+08:00",
+    "last_seen_at": "2026-11-18T16:23:15+08:00",
+    "fetch_runs": [
+      "2026-11-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7350636554559229236.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7350636554559229236.mp3",
+      "source": "download",
+      "processed_at": "2026-11-18T16:31:37+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7350636554559229236",
+      "transcript_raw": "8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享补充信息：8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享关键词：西游记、知识分享",
+      "transcript_clean": "8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享补充信息：8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享关键词：西游记、知识分享",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-18/7350636554559229236.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7350636554559229236",
+      "summary": "冰姐扒书围绕“西游记”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享。8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享补充信息：8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记 #知识分享关键词：西游记、知识分享 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "西游记为什么总是做不出来结果？",
+        "先把知识分享想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕西游记组织标题与开头。",
+        "用知识分享和8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "西游记",
+        "知识分享",
+        "8分钟说完《西游记》，前半段孩子听，后半段大人听。#西游记"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-18/7350636554559229236.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "last_error": null
+  },
+  "7358060144489549082": {
+    "video_id": "7358060144489549082",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "数码优选",
+      "video_id": "7358060144489549082",
+      "title": "jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥",
+      "publish_time": "2024-04-15T19:51:31+08:00",
+      "video_url": "https://www.douyin.com/video/7358060144489549082",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/bbdc1d4d9846b76681e5e0332821bfdc~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110348800&x-signature=7XTJGQDhKK9HGO%2F7ngdgNrZ4pN4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611181623430EF0632F1AD1E72FA98A",
+      "like_count": 46,
+      "comment_count": 16,
+      "share_count": 8,
+      "collect_count": 5,
+      "description": "jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥",
+      "text_hint": "jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥",
+      "topic_tags": [
+        "jbl",
+        "蓝牙音箱",
+        "jblgo3",
+        "高性价比音箱推荐",
+        "好物推荐🔥"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/697d1ec73080315301fb36133d203de1/6afd8b73/video/cn/mps/realtime/v1/r/p/v0200fg10000coeh993c77udu9gprrd0/2e4497b457204c1bb6bdc395fde5b4de/c5696281b5ce7279a0c97d7c1ff1b111/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=382&bt=382&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNewVQ9wBU-rHhd.zDkAl03-ApQX&mime_type=video_mp4&qs=0&rc=aDc4Zzg2ZzllZjM6Nzo3aEBpM3VzPGc6ZjxrcjMzNGkzM0BhX2JjNmBfXy4xLzJfNjEvYSNhb2RycjQwNmJgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1794990223&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7358060144489549082&l=202611181623430EF0632F1AD1E72FA98A&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7358060144489549082.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7358060144489549082.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 180.658,
+      "raw_payload": {
+        "aweme_id": "7358060144489549082",
+        "author_uid": "3573883954803224",
+        "sec_uid": "MS4wLjABAAAAnErh7vIvRDJRPhr5zqiE31lqtIuuVixOumE3So5FQ52h7-n3FBTdcSYlVZMcgaUF",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAnErh7vIvRDJRPhr5zqiE31lqtIuuVixOumE3So5FQ52h7-n3FBTdcSYlVZMcgaUF"
+      }
+    },
+    "first_seen_at": "2026-11-18T16:23:15+08:00",
+    "last_seen_at": "2026-11-18T16:23:15+08:00",
+    "fetch_runs": [
+      "2026-11-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7358060144489549082.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7358060144489549082.mp3",
+      "source": "download",
+      "processed_at": "2026-11-18T16:30:03+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7358060144489549082",
+      "transcript_raw": "jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥补充信息：jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥关键词：jbl、蓝牙音箱、jblgo3、高性价比音箱推荐、好物推荐🔥",
+      "transcript_clean": "jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥补充信息：jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥关键词：jbl、蓝牙音箱、jblgo3、高性价比音箱推荐、好物推荐🔥",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-18/7358060144489549082.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7358060144489549082",
+      "summary": "数码优选围绕“jbl”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥。jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥补充信息：jbl go go3 go4 对比每代提升有多少  蓝牙音箱#jbl #蓝牙音箱 #jblgo3 #高性价比音箱推荐 #好物推荐🔥关键词：jbl、蓝牙音箱、jblgo3、高性价比音箱推荐、好物推荐🔥 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "jbl为什么总是做不出来结果？",
+        "先把蓝牙音箱想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕jbl组织标题与开头。",
+        "用蓝牙音箱和jblgo3补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "jbl",
+        "蓝牙音箱",
+        "jblgo3"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-18/7358060144489549082.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "last_error": null
+  },
+  "7514183226665323836": {
+    "video_id": "7514183226665323836",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7514183226665323836",
+      "title": "折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中",
+      "publish_time": "2025-06-10T05:08:00+08:00",
+      "video_url": "https://www.douyin.com/video/7514183226665323836",
+      "cover_url": "",
+      "like_count": 2,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 3,
+      "description": "折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中",
+      "text_hint": "折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中",
+      "topic_tags": [
+        "车载手机支架",
+        "车载好物",
+        "好物推荐🔥",
+        "把你的爱车打造的与众不同",
+        "爆款热卖中"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c6c7e03ec63eff170a6bc4000131061d/6afd8db0/video/tos/cn/tos-cn-ve-15c000-ce/o0Q7kjEaJq6TeP82BxfvnjgQDfAGFJihTCdQ2I/?a=6383&br=946&bt=946&btag=c0000e00038000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&dr=0&ds=6&dy_q=1794990239&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNewVQ9wvU-rHhd.zDkAl03-ApQX&is_ssr=1&l=20261118162359EC1D53875E4813EED1E8&lr=all&mime_type=video_mp4&qs=12&rc=aTo8aDM5ODk7ZWhpNmg6aUBpM2pscGw5cnV1NDMzbGkzNEAtLjAtMGNgNWMxYGE2MF5hYSNoZzFiMmRzYzBhLS1kLWJzcw%3D%3D&__vid=7514183226665323836",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7514183226665323836.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7514183226665323836.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7514183226665323836",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-18T16:23:15+08:00",
+    "last_seen_at": "2026-11-18T16:23:15+08:00",
+    "fetch_runs": [
+      "2026-11-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7514183226665323836.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7514183226665323836.mp3",
+      "source": "download",
+      "processed_at": "2026-11-18T16:25:20+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7514183226665323836",
+      "transcript_raw": "折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中补充信息：折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中关键词：车载手机支架、车载好物、好物推荐🔥、把你的爱车打造的与众不同、爆款热卖中",
+      "transcript_clean": "折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中补充信息：折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中关键词：车载手机支架、车载好物、好物推荐🔥、把你的爱车打造的与众不同、爆款热卖中",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-18/7514183226665323836.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7514183226665323836",
+      "summary": "知雪围绕“车载手机支架”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中。折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中补充信息：折叠屏手机车主的福音，折叠屏车载手机支架它来啦，美观又实用，2025新款专用适用华为Mate X6无线充电X5荣耀#车载手机支架 #车载好物 #好物推荐🔥 #把你的爱车打造的与众不同 #爆款热卖中关键词：车载手机支架、车载好物、好物推荐🔥、把你的爱车打造的与众不同、爆款热卖中 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "车载手机支架为什么总是做不出来结果？",
+        "先把车载好物想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕车载手机支架组织标题与开头。",
+        "用车载好物和好物推荐🔥补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "车载手机支架",
+        "车载好物",
+        "好物推荐🔥"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-18/7514183226665323836.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "last_error": null
+  },
+  "7485553113076747554": {
+    "video_id": "7485553113076747554",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "@追风筝的人",
+      "video_id": "7485553113076747554",
+      "title": "忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐",
+      "publish_time": "2025-03-25T09:29:50+08:00",
+      "video_url": "https://www.douyin.com/video/7485553113076747554",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/66b215203fa182b0383fab3ce2a63eae~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110348800&x-signature=oUa7bHeZ0lAh1bjo7jCD02VOG5k%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611181624071AE43ACC7CF016FBB2A6",
+      "like_count": 634,
+      "comment_count": 37,
+      "share_count": 113,
+      "collect_count": 202,
+      "description": "忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐",
+      "text_hint": "忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐",
+      "topic_tags": [
+        "欧美音乐",
+        "经典老歌",
+        "每日推荐音乐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/9474b8505ddfe7e161f1d5ff58dab72b/6afd8b97/video/cn/mps/realtime/v1/r/p/v0300fg10000cvh0bd7og65l9cl14pg0/20e6d4e1ea9347fbbd61bd489c234d7f/4a198d436d3b7f3b4be998c15a1e28f4/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1361&bt=1361&cs=0&ds=3&ft=InFJ3Y-5DyjNewVQ9wFU-rHhd.zDkAl03-ApQX&mime_type=video_mp4&qs=0&rc=aWc2ZjtnNGdlOjZkNDc5M0BpM3M0Zm85cmczeTMzNGkzM0A0MS82MV8zX2MxNmJiYWIvYSNkMWk2MmQ0X2VgLS1kLTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100w_100B_100x_100z_100o&definition=720p&dy_q=1794990247&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7485553113076747554&l=202611181624071AE43ACC7CF016FBB2A6&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7485553113076747554.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7485553113076747554.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 192.331,
+      "raw_payload": {
+        "aweme_id": "7485553113076747554",
+        "author_uid": "3601607719138365",
+        "sec_uid": "MS4wLjABAAAAEFPd22xV6D4K9lTb_dbriAw8DhW3JUheZvafTEKiKs5V0_Kzq7FKaqGhGSebMVNm",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAEFPd22xV6D4K9lTb_dbriAw8DhW3JUheZvafTEKiKs5V0_Kzq7FKaqGhGSebMVNm"
+      }
+    },
+    "first_seen_at": "2026-11-18T16:23:15+08:00",
+    "last_seen_at": "2026-11-18T16:23:15+08:00",
+    "fetch_runs": [
+      "2026-11-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7485553113076747554.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7485553113076747554.mp3",
+      "source": "download",
+      "processed_at": "2026-11-18T16:25:45+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7485553113076747554",
+      "transcript_raw": "忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐补充信息：忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐关键词：欧美音乐、经典老歌、每日推荐音乐",
+      "transcript_clean": "忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐补充信息：忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐关键词：欧美音乐、经典老歌、每日推荐音乐",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-18/7485553113076747554.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7485553113076747554",
+      "summary": "@追风筝的人围绕“欧美音乐”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐。忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐补充信息：忽有故人心上过，满目山河已是秋～\n《秋日私语》理查德·克莱德曼，琴声悠悠，幽深静远，跌宕起伏，是寻觅是回归，还是一种淡然的超脱。旋律优美，意境空灵，如诗如画，醉人心扉！青春记忆，永不忘怀！#欧美音乐 #经典老歌#每日推荐音乐关键词：欧美音乐、经典老歌、每日推荐音乐 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "欧美音乐为什么总是做不出来结果？",
+        "先把经典老歌想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕欧美音乐组织标题与开头。",
+        "用经典老歌和每日推荐音乐补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "欧美音乐",
+        "经典老歌",
+        "每日推荐音乐"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-18/7485553113076747554.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "last_error": null
+  },
+  "7187660329034190137": {
+    "video_id": "7187660329034190137",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "红色歌曲",
+      "video_id": "7187660329034190137",
+      "title": "#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐",
+      "publish_time": "2023-01-12T19:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7187660329034190137",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/8a36b8fa4b3486324ac254566ca355f9~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110348800&x-signature=K1vqD92un5Dgw9uYXG%2Fn%2FhUgSv8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261118162410B853868C34092EE6D446",
+      "like_count": 7587,
+      "comment_count": 319,
+      "share_count": 2886,
+      "collect_count": 4305,
+      "description": "#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐",
+      "text_hint": "#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐",
+      "topic_tags": [
+        "醉美纯音乐",
+        "唢呐大师刘英",
+        "唢呐独奏",
+        "抬花轿",
+        "抬花轿唢呐"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/90fb9f55d6fd348cda60fd5d238b484e/6afd8bd3/video/tos/cn/tos-cn-ve-15/oULHAEbnCIPI9HjAe8MKPvt7EBdA1DIdeQbVUg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=899&bt=899&cs=0&ds=4&ft=CZdgCYlIDyjNewVQ9w7U-rHhd.zDkAl03-ApQX&mime_type=video_mp4&qs=0&rc=NzVlaTY7O2g1aWc4OWVkZkBpM2dqNDo6Zjh1aDMzNGkzM0AxLy8yLmJjNS8xLzUwYWAwYSMyY2xzcjRfMXNgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100K_100o_100w_100B_100H&dy_q=1794990250&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261118162410B853868C34092EE6D446",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7187660329034190137.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7187660329034190137.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 249.934,
+      "raw_payload": {
+        "aweme_id": "7187660329034190137",
+        "author_uid": "1069162147615720",
+        "sec_uid": "MS4wLjABAAAADUKwYvakw9CKjEiUs3QMc5T7j5bRCr3AlBxIdLwy0ErL0WJ9d1EDHcKGtZefINCF",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAADUKwYvakw9CKjEiUs3QMc5T7j5bRCr3AlBxIdLwy0ErL0WJ9d1EDHcKGtZefINCF"
+      }
+    },
+    "first_seen_at": "2026-11-18T16:23:15+08:00",
+    "last_seen_at": "2026-11-18T16:23:15+08:00",
+    "fetch_runs": [
+      "2026-11-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7187660329034190137.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7187660329034190137.mp3",
+      "source": "download",
+      "processed_at": "2026-11-18T16:31:56+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7187660329034190137",
+      "transcript_raw": "#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐补充信息：#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐关键词：醉美纯音乐、唢呐大师刘英、唢呐独奏、抬花轿、抬花轿唢呐",
+      "transcript_clean": "#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐补充信息：#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐关键词：醉美纯音乐、唢呐大师刘英、唢呐独奏、抬花轿、抬花轿唢呐",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-18/7187660329034190137.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7187660329034190137",
+      "summary": "红色歌曲围绕“醉美纯音乐”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐。#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐补充信息：#醉美纯音乐 分享：#唢呐大师刘英 #唢呐独奏 《#抬花轿 》，名家独奏，喜庆欢快，结婚必备。#抬花轿唢呐关键词：醉美纯音乐、唢呐大师刘英、唢呐独奏、抬花轿、抬花轿唢呐 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "醉美纯音乐为什么总是做不出来结果？",
+        "先把唢呐大师刘英想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕醉美纯音乐组织标题与开头。",
+        "用唢呐大师刘英和唢呐独奏补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "醉美纯音乐",
+        "唢呐大师刘英",
+        "唢呐独奏"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-18/7187660329034190137.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "last_error": null
+  },
+  "7177314987512204603": {
+    "video_id": "7177314987512204603",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7177314987512204603",
+      "title": "达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼",
+      "publish_time": "2022-12-15T10:07:00+08:00",
+      "video_url": "https://www.douyin.com/video/7177314987512204603",
+      "cover_url": "",
+      "like_count": 107,
+      "comment_count": 120,
+      "share_count": 59,
+      "collect_count": 26,
+      "description": "达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼",
+      "text_hint": "达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼",
+      "topic_tags": [
+        "水滴轮改装",
+        "水滴轮",
+        "水滴轮保养",
+        "2022dou来钓鱼"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/06110fa96a9bc3f52949149e06bbaea9/6afd8d0f/video/tos/cn/tos-cn-ve-0015c800/o0abDeB9Cnjum3AF8go5AqweIbR9NgADIBUdvQ/?a=6383&br=602&bt=602&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1794990266&feature_id=f0150a16a324336cda5d6dd0b69ed299&ft=CZdgCYlIDyjNewVQ9w-U-rHhd.zDkAl03-ApQX&is_ssr=1&l=20261118162426014F876D94488499D6CA&lr=all&mime_type=video_mp4&qs=0&rc=ZzU4NGZkOTVlODQ3aTU5PEBpamtpaTQ6ZnlpaDMzNGkzM0A0LV9jYS9jX18xY2ExYF81YSNhcDRncjRfL2FgLS1kLS9zcw%3D%3D&__vid=7177314987512204603",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7177314987512204603.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7177314987512204603.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7177314987512204603",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-18T16:23:15+08:00",
+    "last_seen_at": "2026-11-18T16:23:15+08:00",
+    "fetch_runs": [
+      "2026-11-18"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7177314987512204603.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-18/7177314987512204603.mp3",
+      "source": "download",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7177314987512204603",
+      "transcript_raw": "达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼补充信息：达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼关键词：水滴轮改装、水滴轮、水滴轮保养、2022dou来钓鱼",
+      "transcript_clean": "达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼补充信息：达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼关键词：水滴轮改装、水滴轮、水滴轮保养、2022dou来钓鱼",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-18/7177314987512204603.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7177314987512204603",
+      "summary": "知雪围绕“水滴轮改装”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼。达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼补充信息：达瓦steez ctsv改装21子龙日版8.5原装大小齿，全程无剪辑无损安装#水滴轮改装 #水滴轮 #水滴轮保养 #2022dou来钓鱼关键词：水滴轮改装、水滴轮、水滴轮保养、2022dou来钓鱼 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "水滴轮改装为什么总是做不出来结果？",
+        "先把水滴轮想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕水滴轮改装组织标题与开头。",
+        "用水滴轮和水滴轮保养补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "水滴轮改装",
+        "水滴轮",
+        "水滴轮保养"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-18/7177314987512204603.json",
+      "processed_at": "2026-11-18T16:32:12+08:00"
+    },
+    "last_error": null
   }
 }
