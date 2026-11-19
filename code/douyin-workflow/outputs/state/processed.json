@@ -75205,5 +75205,673 @@
       "processed_at": "2026-11-18T16:32:12+08:00"
     },
     "last_error": null
+  },
+  "7709360166886700971": {
+    "video_id": "7709360166886700971",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "昆山落户升学",
+      "video_id": "7709360166886700971",
+      "title": "昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校",
+      "publish_time": "2026-11-18T12:14:52+08:00",
+      "video_url": "https://www.douyin.com/video/7709360166886700971",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c000-ce/oMAYAf5XDJHVFAjB46ETSnIHfFQQJGTgjF7fYA~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110435200&x-signature=UWuUU%2FZYPjNN5K7ni%2BvHe9te4%2Fo%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111916344196BF68F756FDD41A2510",
+      "like_count": 2,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校",
+      "text_hint": "昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校",
+      "topic_tags": [
+        "昆山落户",
+        "昆山上学",
+        "昆山插班",
+        "昆山初中转学",
+        "昆山公办学校"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1a34cf5b2464b4821bd6262a10144d54/6afededa/video/tos/cn/tos-cn-ve-15c000-ce/oMAamIBKVBIgki49vv73bMAEOPJS4BQb0i3Pa/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1637&bt=1637&cs=0&ds=3&ft=CZdgCYlIDyjNeyVQ9wauprHhd.IU30l03-ApQX&mime_type=video_mp4&qs=0&rc=NjlpOTwzaDpnNmdlOzU1ZUBpM2k2Z3I5cmhsZTMzbGkzNUA0YzEtNC8uNmIxYC4uNV40YSNka21wMmQ0YHJhLS1kLTVzcw%3D%3D&btag=80000e00008000&cquery=100x_100z_100o_100w_100B&dy_q=1795077281&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=2026111916344196BF68F756FDD41A2510",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7709360166886700971.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7709360166886700971.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 9.335,
+      "raw_payload": {
+        "aweme_id": "7709360166886700971",
+        "author_uid": "592016257326304",
+        "sec_uid": "MS4wLjABAAAAkv3bTtSzUkBl02mVo8vAZZV3SjOHsz0HVnmzYozYt4E",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAkv3bTtSzUkBl02mVo8vAZZV3SjOHsz0HVnmzYozYt4E"
+      }
+    },
+    "first_seen_at": "2026-11-19T16:34:27+08:00",
+    "last_seen_at": "2026-11-19T16:34:27+08:00",
+    "fetch_runs": [
+      "2026-11-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7709360166886700971.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7709360166886700971.mp3",
+      "source": "download",
+      "processed_at": "2026-11-19T16:35:45+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7709360166886700971",
+      "transcript_raw": "昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校补充信息：昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校关键词：昆山落户、昆山上学、昆山插班、昆山初中转学、昆山公办学校",
+      "transcript_clean": "昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校补充信息：昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校关键词：昆山落户、昆山上学、昆山插班、昆山初中转学、昆山公办学校",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-19/7709360166886700971.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "analysis": {
+      "video_id": "7709360166886700971",
+      "summary": "昆山落户升学围绕“昆山落户”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校。昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校补充信息：昆山落户 昆山小初插班入学📚 昆山春季入学现在就可以开始准备了\n#昆山落户 #昆山上学 #昆山插班 #昆山初中转学 #昆山公办学校关键词：昆山落户、昆山上学、昆山插班、昆山初中转学、昆山公办学校 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "昆山落户为什么总是做不出来结果？",
+        "先把昆山上学想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕昆山落户组织标题与开头。",
+        "用昆山上学和昆山插班补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "昆山落户",
+        "昆山上学",
+        "昆山插班"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-19/7709360166886700971.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "last_error": null
+  },
+  "7629663159285211894": {
+    "video_id": "7629663159285211894",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "狼王",
+      "video_id": "7629663159285211894",
+      "title": "曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控",
+      "publish_time": "2026-04-17T17:49:45+08:00",
+      "video_url": "https://www.douyin.com/video/7629663159285211894",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b1498525c3d0df3e97809708da1d3e9e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110435200&x-signature=D8AJxTiKi%2FT%2FnP8f7MdAk8A0QIE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026111916344440D3A9DC07AA50CC4480",
+      "like_count": 931,
+      "comment_count": 53,
+      "share_count": 63,
+      "collect_count": 54,
+      "description": "曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控",
+      "text_hint": "曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控",
+      "topic_tags": [
+        "furry",
+        "兽装",
+        "furry控"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/346bc785f3d7f72f4adc85a1912d3979/6afedf03/video/tos/cn/tos-cn-ve-15/oEieBBEj1XPF6VBMBgvXiyADQBItWH86AIe0uA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1373&bt=1373&cs=0&ds=4&ft=CZdgCYlIDyjNeyVQ9wLuprHhd.IU30l03-ApQX&mime_type=video_mp4&qs=0&rc=N2Y1PDY6ODU0NTw4OmZoaEBpamc3NG85cnQzOjMzNGkzM0AwMS5gYzA1NWExYTItNmFhYSNfbTVtMmRrMGVhLS1kLTBzcw%3D%3D&btag=c0000e00020000&cc=1f&cquery=100z_100o_100w_100B_100x&dy_q=1795077284&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026111916344440D3A9DC07AA50CC4480&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7629663159285211894.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7629663159285211894.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 47.2,
+      "raw_payload": {
+        "aweme_id": "7629663159285211894",
+        "author_uid": "2939427462846871",
+        "sec_uid": "MS4wLjABAAAApCZYdQHbiGbxgnjb4SObEz1WN8g-7Iz6khfK50Ezs7MRWQht_NJ5WSpeC6bG_DJM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAApCZYdQHbiGbxgnjb4SObEz1WN8g-7Iz6khfK50Ezs7MRWQht_NJ5WSpeC6bG_DJM"
+      }
+    },
+    "first_seen_at": "2026-11-19T16:34:27+08:00",
+    "last_seen_at": "2026-11-19T16:34:27+08:00",
+    "fetch_runs": [
+      "2026-11-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7629663159285211894.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7629663159285211894.mp3",
+      "source": "download",
+      "processed_at": "2026-11-19T16:35:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7629663159285211894",
+      "transcript_raw": "曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控补充信息：曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控关键词：furry、兽装、furry控",
+      "transcript_clean": "曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控补充信息：曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控关键词：furry、兽装、furry控",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-19/7629663159285211894.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "analysis": {
+      "video_id": "7629663159285211894",
+      "summary": "狼王围绕“furry”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控。曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控补充信息：曹晟茗 《cheer up》录音室花絮公开🌹\n#furry #兽装 #furry控关键词：furry、兽装、furry控 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "furry为什么总是做不出来结果？",
+        "先把兽装想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕furry组织标题与开头。",
+        "用兽装和furry控补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "furry",
+        "兽装",
+        "furry控"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-19/7629663159285211894.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "last_error": null
+  },
+  "7259511814554160399": {
+    "video_id": "7259511814554160399",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "氧气男神",
+      "video_id": "7259511814554160399",
+      "title": "#铜氨吸收法分析氧现场实拍",
+      "publish_time": "2023-07-25T06:13:42+08:00",
+      "video_url": "https://www.douyin.com/video/7259511814554160399",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/dffa4668965db83840823df306ebb793~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110435200&x-signature=oQOArA%2FrzYM1QbSBhDAbgy70YoM%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261119163447D77D0D764C66A6ED14CD",
+      "like_count": 227,
+      "comment_count": 71,
+      "share_count": 51,
+      "collect_count": 70,
+      "description": "#铜氨吸收法分析氧现场实拍",
+      "text_hint": "#铜氨吸收法分析氧现场实拍",
+      "topic_tags": [
+        "铜氨吸收法分析氧现场实拍"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d6fc94b30011a272b4e8b21a6a7944fa/6afedfb2/video/tos/cn/tos-cn-ve-0015c800/oUfIAu9QeeV9E0lokz7bH6cUefZ8YGAzshIoNY/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1574&bt=1574&cs=0&ds=3&ft=CZdgCYlIDyjNeyVQ9wFuprHhd.IU30l03-ApQX&mime_type=video_mp4&qs=0&rc=NTZoOzczOzw4OWY2OjplZkBpM3N4d2c6ZmppbDMzNGkzM0AwX2M1Yy8vNTYxNS1eMzQ0YSNuczFncjRvYnNgLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100z_100o_100w_100B_100x&dy_q=1795077287&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261119163447D77D0D764C66A6ED14CD",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7259511814554160399.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7259511814554160399.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 219.336,
+      "raw_payload": {
+        "aweme_id": "7259511814554160399",
+        "author_uid": "107965660717",
+        "sec_uid": "MS4wLjABAAAAS-nGDpZpk0DBJyfG9cbr5qDJfmVYzMlf0eo-0umuHxE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAS-nGDpZpk0DBJyfG9cbr5qDJfmVYzMlf0eo-0umuHxE"
+      }
+    },
+    "first_seen_at": "2026-11-19T16:34:27+08:00",
+    "last_seen_at": "2026-11-19T16:34:27+08:00",
+    "fetch_runs": [
+      "2026-11-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7259511814554160399.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7259511814554160399.mp3",
+      "source": "download",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7259511814554160399",
+      "transcript_raw": "#铜氨吸收法分析氧现场实拍#铜氨吸收法分析氧现场实拍补充信息：#铜氨吸收法分析氧现场实拍关键词：铜氨吸收法分析氧现场实拍",
+      "transcript_clean": "#铜氨吸收法分析氧现场实拍#铜氨吸收法分析氧现场实拍补充信息：#铜氨吸收法分析氧现场实拍关键词：铜氨吸收法分析氧现场实拍",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-19/7259511814554160399.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "analysis": {
+      "video_id": "7259511814554160399",
+      "summary": "氧气男神围绕“铜氨吸收法分析氧现场实拍”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#铜氨吸收法分析氧现场实拍。#铜氨吸收法分析氧现场实拍#铜氨吸收法分析氧现场实拍补充信息：#铜氨吸收法分析氧现场实拍关键词：铜氨吸收法分析氧现场实拍 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "铜氨吸收法分析氧现场实拍为什么总是做不出来结果？",
+        "先把#铜氨吸收法分析氧现场实拍#铜氨吸收法分析氧现场实拍补充信息：#铜氨吸收法分析氧现场实拍关键词：铜氨吸收法分析氧现场实拍想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕铜氨吸收法分析氧现场实拍组织标题与开头。",
+        "用#铜氨吸收法分析氧现场实拍#铜氨吸收法分析氧现场实拍补充信息：#铜氨吸收法分析氧现场实拍关键词：铜氨吸收法分析氧现场实拍和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "铜氨吸收法分析氧现场实拍",
+        "#铜氨吸收法分析氧现场实拍#铜氨吸收法分析氧现场实拍补充信息：#铜氨吸收法分析氧现场实拍关键词：铜氨吸收法分析氧现场实拍",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-19/7259511814554160399.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "last_error": null
+  },
+  "7278699016177634619": {
+    "video_id": "7278699016177634619",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "灵汐",
+      "video_id": "7278699016177634619",
+      "title": "不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维",
+      "publish_time": "2023-09-14T23:09:48+08:00",
+      "video_url": "https://www.douyin.com/video/7278699016177634619",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/98bb4e649bcee9042e03a14eb0570d1a~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110435200&x-signature=%2Fi5PYwvJ2V7X9sAErKopnFekhCg%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261119163450E9A1C87C5C3D58132CBA",
+      "like_count": 46,
+      "comment_count": 5,
+      "share_count": 5,
+      "collect_count": 30,
+      "description": "不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维",
+      "text_hint": "不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维",
+      "topic_tags": [
+        "奥数思维"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/78fe6ac7c12134d2d6179e2972134600/6afee014/video/tos/cn/tos-cn-ve-0015c800/okE9nDg0IJlQgpAoEBDzSDeZfA37IAbyazAsGA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=673&bt=673&cs=0&ds=3&ft=CZdgCYlIDyjNeyVQ9wcuprHhd.IU30l03-ApQX&mime_type=video_mp4&qs=0&rc=Zjc7ZzpoO2k0ZzszZmVnZUBpamxsaWc6ZjNsbjMzNGkzM0A0LTAzLjUtNWAxYS4wMGAxYSNvLXIvcjQwMC5gLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100x_100z_100o_100w_100B&dy_q=1795077291&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261119163450E9A1C87C5C3D58132CBA",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7278699016177634619.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7278699016177634619.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 313.702,
+      "raw_payload": {
+        "aweme_id": "7278699016177634619",
+        "author_uid": "108047295660",
+        "sec_uid": "MS4wLjABAAAAAQoi03mkEtCGGLJWCo5OVTjfT0mkhlUZHfKWR7231ko",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAQoi03mkEtCGGLJWCo5OVTjfT0mkhlUZHfKWR7231ko"
+      }
+    },
+    "first_seen_at": "2026-11-19T16:34:27+08:00",
+    "last_seen_at": "2026-11-19T16:34:27+08:00",
+    "fetch_runs": [
+      "2026-11-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7278699016177634619.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7278699016177634619.mp3",
+      "source": "download",
+      "processed_at": "2026-11-19T16:37:26+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7278699016177634619",
+      "transcript_raw": "不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维补充信息：不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维关键词：奥数思维",
+      "transcript_clean": "不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维补充信息：不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维关键词：奥数思维",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-19/7278699016177634619.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "analysis": {
+      "video_id": "7278699016177634619",
+      "summary": "灵汐围绕“奥数思维”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维。不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维补充信息：不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维关键词：奥数思维 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "奥数思维为什么总是做不出来结果？",
+        "先把不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维补充信息：不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维关键词：奥数思维想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕奥数思维组织标题与开头。",
+        "用不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维补充信息：不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维关键词：奥数思维和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "奥数思维",
+        "不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维补充信息：不规则图形怎么数正方形呢，容斥原理，轻松解决！#奥数思维关键词：奥数思维",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-19/7278699016177634619.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "last_error": null
+  },
+  "7363694666660810023": {
+    "video_id": "7363694666660810023",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7363694666660810023",
+      "title": "又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展",
+      "publish_time": "2024-04-30T16:16:00+08:00",
+      "video_url": "https://www.douyin.com/video/7363694666660810023",
+      "cover_url": "",
+      "like_count": 10,
+      "comment_count": 4,
+      "share_count": 1,
+      "collect_count": 3,
+      "description": "又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展",
+      "text_hint": "又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展",
+      "topic_tags": [
+        "虚拟声卡",
+        "音频服务器",
+        "自动混音",
+        "广州国际灯光音响展"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/78b720e3d93acbfe2869a340935d1bf9/6afee01e/video/tos/cn/tos-cn-ve-0015c800/oYgjICfcPnAya9PrjReAA9mQlAvgFBVMELb63D/?a=6383&br=415&bt=415&btag=c0000e00030000&cc=1f&cd=0%7C0%7C0%7C3&ch=26&cquery=100z_100o_100w_100B_100x&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1795077307&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNeyVQ9w4uprHhd.IU30l03-ApQX&is_ssr=1&l=20261119163506E7FE54E7D20DE47DB7C7&lr=all&mime_type=video_mp4&qs=12&rc=PGc5ODc7ODRpNzo2ZmVoOkBpajVxOjM6Zm1rcjMzNGkzM0BeYi4uLzEzX2MxYl80MWE1YSNzY2g0cjRvZWxgLS1kLS9zcw%3D%3D&req_cdn_type=&__vid=7363694666660810023",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7363694666660810023.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7363694666660810023.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7363694666660810023",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-19T16:34:27+08:00",
+    "last_seen_at": "2026-11-19T16:34:27+08:00",
+    "fetch_runs": [
+      "2026-11-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7363694666660810023.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7363694666660810023.mp3",
+      "source": "download",
+      "processed_at": "2026-11-19T16:37:08+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7363694666660810023",
+      "transcript_raw": "又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展补充信息：又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展关键词：虚拟声卡、音频服务器、自动混音、广州国际灯光音响展",
+      "transcript_clean": "又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展补充信息：又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展关键词：虚拟声卡、音频服务器、自动混音、广州国际灯光音响展",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-19/7363694666660810023.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "analysis": {
+      "video_id": "7363694666660810023",
+      "summary": "目标博主 1围绕“虚拟声卡”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展。又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展补充信息：又一年广展要来了，从去年5月到现在顶力干了啥？#虚拟声卡 1536通道#音频服务器 三模#自动混音 音频矩阵 DSP网络音箱 网络麦克风 全新OTA算法…数不清了 #广州国际灯光音响展关键词：虚拟声卡、音频服务器、自动混音、广州国际灯光音响展 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "虚拟声卡为什么总是做不出来结果？",
+        "先把音频服务器想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕虚拟声卡组织标题与开头。",
+        "用音频服务器和自动混音补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "虚拟声卡",
+        "音频服务器",
+        "自动混音"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-19/7363694666660810023.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "last_error": null
+  },
+  "7547606649469472035": {
+    "video_id": "7547606649469472035",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "小福体育",
+      "video_id": "7547606649469472035",
+      "title": "面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光",
+      "publish_time": "2025-09-08T14:48:37+08:00",
+      "video_url": "https://www.douyin.com/video/7547606649469472035",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b6807f6eb5c17c8a2267aba977f1998f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110435200&x-signature=2%2BL4yERPylbXSt0GAtW6FWGb7vY%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261119163513830AEE23F9BE4D11A83E",
+      "like_count": 17294,
+      "comment_count": 328,
+      "share_count": 531,
+      "collect_count": 3134,
+      "description": "面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光",
+      "text_hint": "面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光",
+      "topic_tags": [
+        "技巧锦标赛",
+        "中国队",
+        "冠军",
+        "中国骄傲",
+        "为国争光"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v3-dy-o.zjcdn.com/aa215fce64681b0459b8f9f9c7c50f3b/6afedffc/video/tos/cn/tos-cn-ve-15/oonnBbIBAAhQwfsIeeLP5xhQ5ic7weexAAeZba/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2141&bt=2141&cs=0&ds=4&ft=CZdgCYlIDyjNeyVQ9wwaprHhd.IU30l03-ApQX&mime_type=video_mp4&qs=0&rc=N2Y0M2kzO2c2NDc0aDtoOUBpM25ueGw5cjY6NTMzNGkzM0AyMjQtXzMvNjUxLjBeNjViYSMxNHFvMmQ0bHNhLS1kLTBzcw%3D%3D&btag=80000e00030000&cc=1f&cquery=100B_100x_100z_100o_100w&dy_q=1795077314&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20261119163513830AEE23F9BE4D11A83E&req_cdn_type=",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7547606649469472035.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7547606649469472035.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 266.283,
+      "raw_payload": {
+        "aweme_id": "7547606649469472035",
+        "author_uid": "424829701593486",
+        "sec_uid": "MS4wLjABAAAAwtXoTWhGInHKaFtVoC3ao4W6SCr6Kcd_K84QWV3FCWE",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAwtXoTWhGInHKaFtVoC3ao4W6SCr6Kcd_K84QWV3FCWE"
+      }
+    },
+    "first_seen_at": "2026-11-19T16:34:27+08:00",
+    "last_seen_at": "2026-11-19T16:34:27+08:00",
+    "fetch_runs": [
+      "2026-11-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7547606649469472035.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7547606649469472035.mp3",
+      "source": "download",
+      "processed_at": "2026-11-19T16:36:32+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7547606649469472035",
+      "transcript_raw": "面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光补充信息：面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光关键词：技巧锦标赛、中国队、冠军、中国骄傲、为国争光",
+      "transcript_clean": "面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光补充信息：面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光关键词：技巧锦标赛、中国队、冠军、中国骄傲、为国争光",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-19/7547606649469472035.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "analysis": {
+      "video_id": "7547606649469472035",
+      "summary": "小福体育围绕“技巧锦标赛”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光。面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光补充信息：面对英国队的全场最高分，中国少年用自家的绝技，最后稳稳手下金牌带回中国！#技巧锦标赛 #中国队 #冠军 #中国骄傲 #为国争光关键词：技巧锦标赛、中国队、冠军、中国骄傲、为国争光 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "技巧锦标赛为什么总是做不出来结果？",
+        "先把中国队想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕技巧锦标赛组织标题与开头。",
+        "用中国队和冠军补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "技巧锦标赛",
+        "中国队",
+        "冠军"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-19/7547606649469472035.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "last_error": null
+  },
+  "7133896983986654467": {
+    "video_id": "7133896983986654467",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7133896983986654467",
+      "title": "在抖音记录美好生活20261119",
+      "publish_time": "2026-11-19T16:35:43+08:00",
+      "video_url": "https://www.douyin.com/video/7133896983986654467",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261119",
+      "text_hint": "在抖音记录美好生活20261119",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d2d7c49b-fb1c-4d64-aaf9-ce6736407b1f",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7133896983986654467",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-19T16:34:27+08:00",
+    "last_seen_at": "2026-11-19T16:34:27+08:00",
+    "fetch_runs": [
+      "2026-11-19"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7510600270267567395": {
+    "video_id": "7510600270267567395",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7510600270267567395",
+      "title": "哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪",
+      "publish_time": "2025-05-31T13:31:00+08:00",
+      "video_url": "https://www.douyin.com/video/7510600270267567395",
+      "cover_url": "",
+      "like_count": 1428,
+      "comment_count": 88,
+      "share_count": 308,
+      "collect_count": 180,
+      "description": "哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪",
+      "text_hint": "哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪",
+      "topic_tags": [
+        "三角洲行动",
+        "猛攻三角洲黑夜之子新赛季",
+        "三角洲行动攻略",
+        "三角洲改枪"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/137153ba271b5bee079c3bf4851ff8ff/6afee008/video/tos/cn/tos-cn-ve-15/oAwAMOh48FMsABNfboiq97gqMEQYfAiDI7CTQa/?a=6383&br=1724&bt=1724&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100H_100K_100o&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1795077338&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNeyVQ9wraprHhd.IU30l03-ApQX&is_ssr=1&l=202611191635383E3EE5204C1BEC2FC9E7&lr=all&mime_type=video_mp4&qs=1&rc=aDdnaGVoaTYzaTZlNWRpOkBpM2twNGs5cmRqMzMzNGkzM0AxYDQxYmMzXzMxNTE1MF4vYSNfYGVjMmRrM3FhLS1kLWFzcw%3D%3D&__vid=7510600270267567395",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7510600270267567395.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7510600270267567395.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7510600270267567395",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-19T16:34:27+08:00",
+    "last_seen_at": "2026-11-19T16:34:27+08:00",
+    "fetch_runs": [
+      "2026-11-19"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7510600270267567395.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-19/7510600270267567395.mp3",
+      "source": "download",
+      "processed_at": "2026-11-19T16:36:54+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7510600270267567395",
+      "transcript_raw": "哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪补充信息：哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪关键词：三角洲行动、猛攻三角洲黑夜之子新赛季、三角洲行动攻略、三角洲改枪",
+      "transcript_clean": "哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪补充信息：哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪关键词：三角洲行动、猛攻三角洲黑夜之子新赛季、三角洲行动攻略、三角洲改枪",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-19/7510600270267567395.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "analysis": {
+      "video_id": "7510600270267567395",
+      "summary": "目标博主 1围绕“三角洲行动”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪。哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪补充信息：哪吧武器是目前三角洲以小博大的最优选择？ #三角洲行动 #猛攻三角洲黑夜之子新赛季 #三角洲行动攻略 #三角洲改枪关键词：三角洲行动、猛攻三角洲黑夜之子新赛季、三角洲行动攻略、三角洲改枪 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "三角洲行动为什么总是做不出来结果？",
+        "先把猛攻三角洲黑夜之子新赛季想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕三角洲行动组织标题与开头。",
+        "用猛攻三角洲黑夜之子新赛季和三角洲行动攻略补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "三角洲行动",
+        "猛攻三角洲黑夜之子新赛季",
+        "三角洲行动攻略"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-19/7510600270267567395.json",
+      "processed_at": "2026-11-19T16:37:51+08:00"
+    },
+    "last_error": null
   }
 }
