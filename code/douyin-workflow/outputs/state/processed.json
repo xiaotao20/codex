@@ -76447,5 +76447,631 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7710485849330273555": {
+    "video_id": "7710485849330273555",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "时光学教育图书旗舰店",
+      "video_id": "7710485849330273555",
+      "title": "想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。",
+      "publish_time": "2026-11-21T13:03:09+08:00",
+      "video_url": "https://www.douyin.com/video/7710485849330273555",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0051-ce/oY6CSE1gAIm3in0BiJAkBEIBBYH0gS4ACHfil6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110608000&x-signature=pq5eTuIPVcCU7VoiQJhL1oMRv6s%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026112116092814B235A75A46C4DC812E",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。",
+      "text_hint": "想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/212c6e6cbc552eb70d24a5f6359a529e/6b017bfa/video/tos/cn/tos-cn-v-0051-ce/oQsAuEfEGwAJrPEopIBJNxA9AAIfFlDAD1ASRC/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=14173&bt=14173&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wbYPOXhd.rK.EN03-ApQX&mime_type=video_mp4&qs=13&rc=M3E3b205cjZsZjMzbDYzNUBpM3E3b205cjZsZjMzbDYzNUBnLS1vMmRjYC1hLS1kMDVzYSNnLS1vMmRjYC1hLS1kMDVzcw%3D%3D&btag=c0000e00010000&cquery=100w_100B_102v_102u_100o&dy_q=1795248568&l=2026112116092814B235A75A46C4DC812E",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7710485849330273555.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7710485849330273555.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 18.901,
+      "raw_payload": {
+        "aweme_id": "7710485849330273555",
+        "author_uid": "1917982334258396",
+        "sec_uid": "MS4wLjABAAAA4jTNbOfS0Hje03_MBD7JGpiOVAALESNxubEW0Nd6_9cTbMp65ZZ9Y8kjgNVog_cQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4jTNbOfS0Hje03_MBD7JGpiOVAALESNxubEW0Nd6_9cTbMp65ZZ9Y8kjgNVog_cQ"
+      }
+    },
+    "first_seen_at": "2026-11-21T16:09:14+08:00",
+    "last_seen_at": "2026-11-21T16:09:14+08:00",
+    "fetch_runs": [
+      "2026-11-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7710485849330273555.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7710485849330273555.mp3",
+      "source": "download",
+      "processed_at": "2026-11-21T16:10:40+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7710485849330273555",
+      "transcript_raw": "想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。补充信息：想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。",
+      "transcript_clean": "想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。补充信息：想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-21/7710485849330273555.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7710485849330273555",
+      "summary": "时光学教育图书旗舰店围绕“想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。补充信息：想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。。想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。补充信息：想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。补充信息：想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。补充信息：想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句。补充信息：想给孩子做好历史科普，这套《中华先贤人物故事汇》别错过。贴合语文课拓展，帮孩子树立榜样、积累写作好词好句",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-21/7710485849330273555.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "last_error": null
+  },
+  "7630785842977624037": {
+    "video_id": "7630785842977624037",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "杭州日报",
+      "video_id": "7630785842977624037",
+      "title": "#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！",
+      "publish_time": "2026-04-20T18:26:20+08:00",
+      "video_url": "https://www.douyin.com/video/7630785842977624037",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/97dab97e084ed20a60c1c9be62c47f68~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110608000&x-signature=kJqm1nJyG%2BRfb94K9UrT6w%2B5bW0%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026112116093104B960EC888154FAA9CE",
+      "like_count": 16659,
+      "comment_count": 15306,
+      "share_count": 7502,
+      "collect_count": 578,
+      "description": "#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！",
+      "text_hint": "#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！",
+      "topic_tags": [
+        "华为新品太火爆",
+        "华为新品发布会体验区人挤人",
+        "华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f8df2cc142b07d73c25108fe27ec32b7/6b017bfd/video/tos/cn/tos-cn-ve-15c000-ce/oQANLBfAPfeMd53TgOptqf8mHlmXMCQPAQuIEf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3283&bt=3283&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9w4YPOXhd.rK.EN03-ApQX&mime_type=video_mp4&qs=0&rc=Zmg3PDg7aTYzNGk2OjNmNUBpamx2bXg5cnV5OjMzbGkzNUA2NTI0LmIvNjExNi0yNmFjYSNvMXNzMmRzcGZhLS1kLTVzcw%3D%3D&btag=c0000e00010000&cquery=100z_100o_100w_100B_100x&dy_q=1795248571&feature_id=37f92ebd2877ae8e7eba995d406c5150&l=2026112116093104B960EC888154FAA9CE",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7630785842977624037.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7630785842977624037.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 18.267,
+      "raw_payload": {
+        "aweme_id": "7630785842977624037",
+        "author_uid": "1151906078000839",
+        "sec_uid": "MS4wLjABAAAA9W4qYBkRHeKu4l-acUw0l8nmdHGbOO5FBsIDPDbg3cPFwo6u7NzDstlh9b6n3NrZ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA9W4qYBkRHeKu4l-acUw0l8nmdHGbOO5FBsIDPDbg3cPFwo6u7NzDstlh9b6n3NrZ"
+      }
+    },
+    "first_seen_at": "2026-11-21T16:09:14+08:00",
+    "last_seen_at": "2026-11-21T16:09:14+08:00",
+    "fetch_runs": [
+      "2026-11-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7630785842977624037.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7630785842977624037.mp3",
+      "source": "download",
+      "processed_at": "2026-11-21T16:10:45+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7630785842977624037",
+      "transcript_raw": "#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！补充信息：#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！关键词：华为新品太火爆、华为新品发布会体验区人挤人、华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura",
+      "transcript_clean": "#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！补充信息：#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！关键词：华为新品太火爆、华为新品发布会体验区人挤人、华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-21/7630785842977624037.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7630785842977624037",
+      "summary": "杭州日报围绕“华为新品太火爆”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！。#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！补充信息：#华为新品太火爆 #华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura X Max？！关键词：华为新品太火爆、华为新品发布会体验区人挤人、华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "华为新品太火爆为什么总是做不出来结果？",
+        "先把华为新品发布会体验区人挤人想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕华为新品太火爆组织标题与开头。",
+        "用华为新品发布会体验区人挤人和华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "华为新品太火爆",
+        "华为新品发布会体验区人挤人",
+        "华为新品发布会体验区人挤人，队伍看不到头，转头一看，大哥已用上Pura"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-21/7630785842977624037.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "last_error": null
+  },
+  "7408881346715602191": {
+    "video_id": "7408881346715602191",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "快乐优品购物",
+      "video_id": "7408881346715602191",
+      "title": "小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠",
+      "publish_time": "2024-08-30T18:43:44+08:00",
+      "video_url": "https://www.douyin.com/video/7408881346715602191",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/c3f9c01460452f00f152fac8f00a8c11~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110608000&x-signature=59TRFW5BH4BwdIXqataWCfaKOsI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611211609347EAFFCFF474097E386F8",
+      "like_count": 63,
+      "comment_count": 3,
+      "share_count": 3,
+      "collect_count": 42,
+      "description": "小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠",
+      "text_hint": "小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠",
+      "topic_tags": [
+        "陆星辰陆柠顾嘉嘉小说后续",
+        "陆星辰陆柠顾嘉嘉结局配享太庙",
+        "花亦弄丢小说后续",
+        "花亦弄丢结局配享太庙",
+        "花亦弄丢全文完结侠"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/aee57a2bdc4fa708a1d98ac3ebc4117b/6b017eba/video/tos/cn/tos-cn-ve-0015c800/oQaMA1cqQtfKR0XANBfAUkz885B7C5BoGgBeEj/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1982&bt=1982&cs=0&ds=3&ft=CZdgCYlIDyjNMRVQ9wEYPOXhd.rK.EN03-ApQX&mime_type=video_mp4&qs=0&rc=OGQ0NDo2ZTU8ZjY1Mzo3N0BpM3lkcnI5cmlzdTMzNGkzM0BhL2MwMzNeNTQxYzAwLy4tYSNsNTE0MmQ0cjVgLS1kLWFzcw%3D%3D&btag=c0000e00038000&cquery=100o_100w_100B_100x_100z&dy_q=1795248574&feature_id=2e1813f3872a2105acee44623dff2864&l=202611211609347EAFFCFF474097E386F8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7408881346715602191.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7408881346715602191.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 716.452,
+      "raw_payload": {
+        "aweme_id": "7408881346715602191",
+        "author_uid": "2805577116029783",
+        "sec_uid": "MS4wLjABAAAAIyJAI7Uind6pBxkcAMxbGlu0B1wV2hrIacwKYyjn6d7QuQz4bUxSga8xNGxwlTfi",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAIyJAI7Uind6pBxkcAMxbGlu0B1wV2hrIacwKYyjn6d7QuQz4bUxSga8xNGxwlTfi"
+      }
+    },
+    "first_seen_at": "2026-11-21T16:09:14+08:00",
+    "last_seen_at": "2026-11-21T16:09:14+08:00",
+    "fetch_runs": [
+      "2026-11-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7408881346715602191.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7408881346715602191.mp3",
+      "source": "download",
+      "processed_at": "2026-11-21T16:14:00+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7408881346715602191",
+      "transcript_raw": "小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠补充信息：小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠关键词：陆星辰陆柠顾嘉嘉小说后续、陆星辰陆柠顾嘉嘉结局配享太庙、花亦弄丢小说后续、花亦弄丢结局配享太庙、花亦弄丢全文完结侠",
+      "transcript_clean": "小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠补充信息：小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠关键词：陆星辰陆柠顾嘉嘉小说后续、陆星辰陆柠顾嘉嘉结局配享太庙、花亦弄丢小说后续、花亦弄丢结局配享太庙、花亦弄丢全文完结侠",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-21/7408881346715602191.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7408881346715602191",
+      "summary": "快乐优品购物围绕“陆星辰陆柠顾嘉嘉小说后续”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠。小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠补充信息：小说名《流月弄丢》已完结， 厚续在纸、乎  小说名《流月弄丢》 七岁那年哥哥忙着追贫困生小说后续 #陆星辰陆柠顾嘉嘉小说后续 #陆星辰陆柠顾嘉嘉结局配享太庙 #花亦弄丢小说后续 #花亦弄丢结局配享太庙 #花亦弄丢全文完结侠 陆星辰陆柠顾嘉嘉全文完结侠关键词：陆星辰陆柠顾嘉嘉小说后续、陆星辰陆柠顾嘉嘉结局配享太庙、花亦弄丢小说后续、花亦弄丢结局配享太庙、花亦弄丢全文完结侠 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "陆星辰陆柠顾嘉嘉小说后续为什么总是做不出来结果？",
+        "先把陆星辰陆柠顾嘉嘉结局配享太庙想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕陆星辰陆柠顾嘉嘉小说后续组织标题与开头。",
+        "用陆星辰陆柠顾嘉嘉结局配享太庙和花亦弄丢小说后续补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "陆星辰陆柠顾嘉嘉小说后续",
+        "陆星辰陆柠顾嘉嘉结局配享太庙",
+        "花亦弄丢小说后续"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-21/7408881346715602191.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "last_error": null
+  },
+  "7402550308280339753": {
+    "video_id": "7402550308280339753",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "安吉",
+      "video_id": "7402550308280339753",
+      "title": "一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活",
+      "publish_time": "2024-08-13T17:16:00+08:00",
+      "video_url": "https://www.douyin.com/video/7402550308280339753",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-pk90l89vgd/f9e3aca394624d1395b8c25a9bc7bcbb~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110608000&x-signature=HMkVURy0m4VAKX7rq8X59cXZ6sQ%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261121160936B4BBC27CE3AD29EB4C3E",
+      "like_count": 484,
+      "comment_count": 463,
+      "share_count": 20,
+      "collect_count": 26,
+      "description": "一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活",
+      "text_hint": "一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活",
+      "topic_tags": [
+        "知识分享",
+        "中视频",
+        "三农",
+        "美好生活"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/7b58c24d9fd6785268a153f1485dc771/6b017cd5/video/cn/mps/realtime/v1/r/p/v0300fg10000cqti8mfog65qnv7fslbg/6854318e10614c48b386cfc5a9058919/42e08eb90dfb464f12f4d6dd8585e1fa/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=429&bt=429&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNMRVQ9w.-POXhd.rK.EN03-ApQX&mime_type=video_mp4&qs=0&rc=PDw4PDhpOTY7ZjQzaDQ3O0Bpam9peXQ5cnBsdDMzNGkzM0AuNS1eYGA1XzExMy41MDIzYSNfcDRrMmRjNXFgLS1kLTBzcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100w_100B_100D_100J_100o&definition=720p&dy_q=1795248576&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7402550308280339753&l=20261121160936B4BBC27CE3AD29EB4C3E&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7402550308280339753.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7402550308280339753.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 229.42,
+      "raw_payload": {
+        "aweme_id": "7402550308280339753",
+        "author_uid": "2782201249792424",
+        "sec_uid": "MS4wLjABAAAAe4K6n2E1zYGWfQoJG993iKx_NyY2h5RB87hfNurDA-RMIS7LRmjwJz-qailiMUoH",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAe4K6n2E1zYGWfQoJG993iKx_NyY2h5RB87hfNurDA-RMIS7LRmjwJz-qailiMUoH"
+      }
+    },
+    "first_seen_at": "2026-11-21T16:09:14+08:00",
+    "last_seen_at": "2026-11-21T16:09:14+08:00",
+    "fetch_runs": [
+      "2026-11-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7402550308280339753.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7402550308280339753.mp3",
+      "source": "download",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7402550308280339753",
+      "transcript_raw": "一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活补充信息：一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活关键词：知识分享、中视频、三农、美好生活",
+      "transcript_clean": "一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活补充信息：一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活关键词：知识分享、中视频、三农、美好生活",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-21/7402550308280339753.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7402550308280339753",
+      "summary": "安吉围绕“知识分享”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活。一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活补充信息：一碗面牛肉面毁了一个孩子，大家都引以为戒，让孩子健康成长。 #知识分享 #中视频 #三农 #美好生活关键词：知识分享、中视频、三农、美好生活 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "知识分享为什么总是做不出来结果？",
+        "先把中视频想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕知识分享组织标题与开头。",
+        "用中视频和三农补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "知识分享",
+        "中视频",
+        "三农"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-21/7402550308280339753.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "last_error": null
+  },
+  "7586452667745979706": {
+    "video_id": "7586452667745979706",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7586452667745979706",
+      "title": "云南昆明小人国#古色古香古建筑 #记录我的旅游足迹",
+      "publish_time": "2025-12-21T23:11:00+08:00",
+      "video_url": "https://www.douyin.com/video/7586452667745979706",
+      "cover_url": "",
+      "like_count": 14,
+      "comment_count": 2,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "云南昆明小人国#古色古香古建筑 #记录我的旅游足迹",
+      "text_hint": "云南昆明小人国#古色古香古建筑 #记录我的旅游足迹",
+      "topic_tags": [
+        "古色古香古建筑",
+        "记录我的旅游足迹"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d25845e5-316b-49f5-9f9f-adf4f0b2f911",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7586452667745979706",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-21T16:09:14+08:00",
+    "last_seen_at": "2026-11-21T16:09:14+08:00",
+    "fetch_runs": [
+      "2026-11-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7508325378559495484": {
+    "video_id": "7508325378559495484",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "甘肃王小哥优质农产品",
+      "video_id": "7508325378559495484",
+      "title": "浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活",
+      "publish_time": "2025-05-25T18:17:15+08:00",
+      "video_url": "https://www.douyin.com/video/7508325378559495484",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6b9e29931c3356128b8ee52fe946341f~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110608000&x-signature=Dwli%2BSf9LPnJfeeCKiFErnwlfDc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261121160959F73FBF1CADF71E8438DF",
+      "like_count": 664,
+      "comment_count": 127,
+      "share_count": 137,
+      "collect_count": 74,
+      "description": "浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活",
+      "text_hint": "浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活",
+      "topic_tags": [
+        "优质农产品",
+        "甘肃特产",
+        "家的味道",
+        "美食教程",
+        "我的乡村生活"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/eafca548ad9aef48b14c35e95eeb229b/6b017cdc/video/tos/cn/tos-cn-ve-15c000-ce/ooIGQZiGfftdBCa8uEtJPS6AIJ8tmUtQRgeL7D/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3344&bt=3344&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wO-POXhd.rK.EN03-ApQX&mime_type=video_mp4&qs=0&rc=ZGVoNTZkOjxkZTY8NTw1NUBpamR4a2s5cmdoMzMzbGkzNEA0NTYuMi1gNl8xXy0xXjYzYSMzZjBrMmRrb21hLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1795248599&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261121160959F73FBF1CADF71E8438DF",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7508325378559495484.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7508325378559495484.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 213.034,
+      "raw_payload": {
+        "aweme_id": "7508325378559495484",
+        "author_uid": "101416040700",
+        "sec_uid": "MS4wLjABAAAA4wzAdbW4RM_hy5JJYMAZeuC9Tbza69LBymPW3Adwo-g",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA4wzAdbW4RM_hy5JJYMAZeuC9Tbza69LBymPW3Adwo-g"
+      }
+    },
+    "first_seen_at": "2026-11-21T16:09:14+08:00",
+    "last_seen_at": "2026-11-21T16:09:14+08:00",
+    "fetch_runs": [
+      "2026-11-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7508325378559495484.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7508325378559495484.mp3",
+      "source": "download",
+      "processed_at": "2026-11-21T16:12:20+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7508325378559495484",
+      "transcript_raw": "浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活补充信息：浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活关键词：优质农产品、甘肃特产、家的味道、美食教程、我的乡村生活",
+      "transcript_clean": "浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活补充信息：浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活关键词：优质农产品、甘肃特产、家的味道、美食教程、我的乡村生活",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-21/7508325378559495484.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7508325378559495484",
+      "summary": "甘肃王小哥优质农产品围绕“优质农产品”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活。浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活补充信息：浆水难道你还没喝过 千年时光淬炼的古早风味，自战国陶罐中氤氲而出——那是浸润着秦人血脉的浆水，自秦始皇孩提时代起，便以酸冽回甘的滋味滋养味蕾，一路相伴至他君临天下，成为刻在帝王记忆深处最质朴的秦人乡愁。#优质农产品  #甘肃特产  #家的味道  #美食教程  #我的乡村生活关键词：优质农产品、甘肃特产、家的味道、美食教程、我的乡村生活 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "优质农产品为什么总是做不出来结果？",
+        "先把甘肃特产想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕优质农产品组织标题与开头。",
+        "用甘肃特产和家的味道补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "优质农产品",
+        "甘肃特产",
+        "家的味道"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-21/7508325378559495484.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "last_error": null
+  },
+  "7567965079071062629": {
+    "video_id": "7567965079071062629",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "洪雨哥电动车维修店",
+      "video_id": "7567965079071062629",
+      "title": "好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好",
+      "publish_time": "2025-11-02T11:29:48+08:00",
+      "video_url": "https://www.douyin.com/video/7567965079071062629",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/df40269df9a9ce423d8b046c66f50e61~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110608000&x-signature=uRPQGAo1qAJ6hMduzY6Iiwlvezw%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026112116100138C5F0A2CCD7F69CDE13",
+      "like_count": 1011,
+      "comment_count": 296,
+      "share_count": 191,
+      "collect_count": 470,
+      "description": "好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好",
+      "text_hint": "好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好",
+      "topic_tags": [
+        "铅酸电池超威好还是天能好"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/d66fafc3d0b5ea2d77ed658e23bf13df/6b017cee/video/tos/cn/tos-cn-ve-15c000-ce/o8Qco7CSeDQA9LoS7ewGBgiB8cJeA5PiAIp7IZ/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3031&bt=3031&cs=0&ds=4&ft=CZdgCYlIDyjNMRVQ9wh-POXhd.rK.EN03-ApQX&mime_type=video_mp4&qs=0&rc=ZDhnZmRmZDRoaWkzaDxnN0BpajozeXg5cmlmNzMzbGkzNEAwYGItXzQxXzMxNi4zYTU1YSM0aGptMmQ0czBhLS1kLWJzcw%3D%3D&btag=c0000e00028000&cquery=100w_100B_100x_100z_100o&dy_q=1795248601&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026112116100138C5F0A2CCD7F69CDE13",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7567965079071062629.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7567965079071062629.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 229.042,
+      "raw_payload": {
+        "aweme_id": "7567965079071062629",
+        "author_uid": "3227753953100990",
+        "sec_uid": "MS4wLjABAAAALmMVxAjLw4S5f8lakldZP2ClPqw6QpH5DNB0bz3SPPlPsTGMFfacnbXvd5NlkP-t",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAALmMVxAjLw4S5f8lakldZP2ClPqw6QpH5DNB0bz3SPPlPsTGMFfacnbXvd5NlkP-t"
+      }
+    },
+    "first_seen_at": "2026-11-21T16:09:14+08:00",
+    "last_seen_at": "2026-11-21T16:09:14+08:00",
+    "fetch_runs": [
+      "2026-11-21"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7567965079071062629.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-21/7567965079071062629.mp3",
+      "source": "download",
+      "processed_at": "2026-11-21T16:11:33+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7567965079071062629",
+      "transcript_raw": "好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好补充信息：好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好关键词：铅酸电池超威好还是天能好",
+      "transcript_clean": "好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好补充信息：好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好关键词：铅酸电池超威好还是天能好",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-21/7567965079071062629.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "analysis": {
+      "video_id": "7567965079071062629",
+      "summary": "洪雨哥电动车维修店围绕“铅酸电池超威好还是天能好”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好。好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好补充信息：好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好关键词：铅酸电池超威好还是天能好 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "铅酸电池超威好还是天能好为什么总是做不出来结果？",
+        "先把好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好补充信息：好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好关键词：铅酸电池超威好还是天能好想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕铅酸电池超威好还是天能好组织标题与开头。",
+        "用好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好补充信息：好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好关键词：铅酸电池超威好还是天能好和效率工具补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "铅酸电池超威好还是天能好",
+        "好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好补充信息：好多粉丝朋友问，铅酸电池是超威好还是天能好，那么今天就来了解一下，详细带大家解析一下#铅酸电池超威好还是天能好关键词：铅酸电池超威好还是天能好",
+        "效率工具"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-21/7567965079071062629.json",
+      "processed_at": "2026-11-21T16:14:12+08:00"
+    },
+    "last_error": null
+  },
+  "7548406776011656507": {
+    "video_id": "7548406776011656507",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7548406776011656507",
+      "title": "新手怎么利用汽车ABC柱判断车距，快速提升开车上路车感 #驾驶技巧 #汽车知识 #新手司机",
+      "publish_time": "2025-09-10T10:33:00+08:00",
+      "video_url": "https://www.douyin.com/video/7548406776011656507",
+      "cover_url": "",
+      "like_count": 671,
+      "comment_count": 19,
+      "share_count": 434,
+      "collect_count": 118,
+      "description": "新手怎么利用汽车ABC柱判断车距，快速提升开车上路车感 #驾驶技巧 #汽车知识 #新手司机",
+      "text_hint": "新手怎么利用汽车ABC柱判断车距，快速提升开车上路车感 #驾驶技巧 #汽车知识 #新手司机",
+      "topic_tags": [
+        "驾驶技巧",
+        "汽车知识",
+        "新手司机"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/c592ae60-0c61-4866-94b4-37126f611d1f",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7548406776011656507",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-21T16:09:14+08:00",
+    "last_seen_at": "2026-11-21T16:09:14+08:00",
+    "fetch_runs": [
+      "2026-11-21"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
   }
 }
