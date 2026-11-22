@@ -77073,5 +77073,371 @@
     "transcript": null,
     "analysis": null,
     "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7710496252265286921": {
+    "video_id": "7710496252265286921",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "单身宝妈霞姐5",
+      "video_id": "7710496252265286921",
+      "title": "必刷题【高考真题周周练】2027新高一高二高三按专题分",
+      "publish_time": "2026-11-21T13:43:36+08:00",
+      "video_url": "https://www.douyin.com/video/7710496252265286921",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-v-c9e10a/oUCPd9eezWIFoGBrCdGBAnLleQWAAG8IyWLxQR~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110690800&x-signature=cgfMBWsFaBZ13gUHFspOpi6n93o%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261122155419830D307665E7171B1233",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "必刷题【高考真题周周练】2027新高一高二高三按专题分",
+      "text_hint": "必刷题【高考真题周周练】2027新高一高二高三按专题分",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/3466b5f96380d9b2f4ad6da8c4fc4c96/6b02ca13/video/tos/cn/tos-cn-v-c9e10a/oMozGIAdQyWgAURQICCUPGLhdAeNXBel8fGcn9/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&br=2416&bt=2416&cs=0&ds=3&ft=4rzAgkIKDyjNMRVQ9wceOOXhd.j5wjf03-ApQX&mime_type=video_mp4&qs=0&rc=M2hlZjZpODY4O2RmPDg3aUBpanFuO245cjVsZjMzNDYzM0BfYjQvLjY2Ni4xNjE1MGBfYSNlX3NlMmQ0cy1hLS1kMDBzcw%3D%3D&btag=c0000e00020000&cquery=100w_100B_102v_102u_100o&dy_q=1795334059&feature_id=d6a18d7c5414b1f1e95a75faf9147845&l=20261122155419830D307665E7171B1233",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 56.495,
+      "raw_payload": {
+        "aweme_id": "7710496252265286921",
+        "author_uid": "7608743298907800625",
+        "sec_uid": "MS4wLjABAAAAbcIYsJ9wbBaorjoiH0ueKwZtiOqtGSGSdTRyC1_DjqJFQVgOi_kqETe0gsVyCd44",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAbcIYsJ9wbBaorjoiH0ueKwZtiOqtGSGSdTRyC1_DjqJFQVgOi_kqETe0gsVyCd44"
+      }
+    },
+    "first_seen_at": "2026-11-22T15:53:57+08:00",
+    "last_seen_at": "2026-11-22T15:53:57+08:00",
+    "fetch_runs": [
+      "2026-11-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7590771959512796462": {
+    "video_id": "7590771959512796462",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "看看新闻Knews",
+      "video_id": "7590771959512796462",
+      "title": "承诺夺冠送车却失联？后续来了！永州女老板称节后协商 多家企业愿接手兑现承诺#湘超 #媒体精选计划 #东方快评",
+      "publish_time": "2026-01-02T22:32:49+08:00",
+      "video_url": "https://www.douyin.com/video/7590771959512796462",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/2557404e68a684cb6beb76e770d2d561~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110690800&x-signature=AeYCclZEb0jlzdxwnzvQS2O63S8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611221554235B7871151D00AC4E19FB",
+      "like_count": 1006,
+      "comment_count": 243,
+      "share_count": 56,
+      "collect_count": 70,
+      "description": "承诺夺冠送车却失联？后续来了！永州女老板称节后协商 多家企业愿接手兑现承诺#湘超 #媒体精选计划 #东方快评",
+      "text_hint": "承诺夺冠送车却失联？后续来了！永州女老板称节后协商 多家企业愿接手兑现承诺#湘超 #媒体精选计划 #东方快评",
+      "topic_tags": [
+        "湘超",
+        "媒体精选计划",
+        "东方快评"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/828faec53960420cf3c0fb89fdde1c06/6b02ca2f/video/tos/cn/tos-cn-ve-15/owSAUQLfShB4TlYYC3FEA0DeBrA7PyLEIjf1G6/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1139&bt=1139&cs=0&ds=4&ft=4rzAgkIKDyjNMRVQ9wZeOOXhd.j5wjf03-ApQX&mime_type=video_mp4&qs=0&rc=aTk6ZDw7ZWg4OmYzNDZoZUBpamxrdHU5cjp3ODMzNGkzM0A0LS8vMjI0Xi4xL15hYC0xYSNzaTZsMmRrYV9hLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100K_100o_100w_100B_100H&dy_q=1795334063&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202611221554235B7871151D00AC4E19FB",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 80.41,
+      "raw_payload": {
+        "aweme_id": "7590771959512796462",
+        "author_uid": "102350735397",
+        "sec_uid": "MS4wLjABAAAA7XpEbISHnNcUzdrK8Xinzr4irjk0QXNtbVkcfrR8BV0",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA7XpEbISHnNcUzdrK8Xinzr4irjk0QXNtbVkcfrR8BV0"
+      }
+    },
+    "first_seen_at": "2026-11-22T15:53:57+08:00",
+    "last_seen_at": "2026-11-22T15:53:57+08:00",
+    "fetch_runs": [
+      "2026-11-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7183286568591969595": {
+    "video_id": "7183286568591969595",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "天",
+      "video_id": "7183286568591969595",
+      "title": "天津——你不知道的事之塘沽",
+      "publish_time": "2022-12-31T20:21:14+08:00",
+      "video_url": "https://www.douyin.com/video/7183286568591969595",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/b80e38badb1e39b71d04a09c8aeb8dba~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110690800&x-signature=FTd8GVZ4HrTRd%2FXI6V460A%2BRu3o%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261122155426C77F11BE6B8CF50A1038",
+      "like_count": 16,
+      "comment_count": 1,
+      "share_count": 13,
+      "collect_count": 1,
+      "description": "天津——你不知道的事之塘沽",
+      "text_hint": "天津——你不知道的事之塘沽",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/afebd1025a9b1579c562816123bb7000/6b02cbb4/video/tos/cn/tos-cn-ve-0015c800/o8JqAitzCIHFemxAsKH7q2gBwBiAthSzfQzdUg/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=910&bt=910&cs=0&ds=3&ft=4rzAgkIKDyjNMRVQ9wzeOOXhd.j5wjf03-ApQX&mime_type=video_mp4&qs=0&rc=Nzo7MzU6PGQ2OGlmNWY1NUBpajNkZDo6Zmg1aDMzNGkzM0AwLi9iYjYyXjUxMl8vLi41YSNxYWhqcjRvZmxgLS1kLS9zcw%3D%3D&btag=c0000e00030000&cquery=100J_100o_100w_100B_100D&dy_q=1795334066&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261122155426C77F11BE6B8CF50A1038",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 466.234,
+      "raw_payload": {
+        "aweme_id": "7183286568591969595",
+        "author_uid": "12264054566",
+        "sec_uid": "MS4wLjABAAAA5GiXBhT1uSTJg5PJ9AL3isoBdDD55NSnzf_V8TbWgGQ",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAA5GiXBhT1uSTJg5PJ9AL3isoBdDD55NSnzf_V8TbWgGQ"
+      }
+    },
+    "first_seen_at": "2026-11-22T15:53:57+08:00",
+    "last_seen_at": "2026-11-22T15:53:57+08:00",
+    "fetch_runs": [
+      "2026-11-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7204301527429729569": {
+    "video_id": "7204301527429729569",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "老新在此",
+      "video_id": "7204301527429729569",
+      "title": "同样是M2芯片，便携型电脑选MacBook Air还是iPad Pro #数码科技 #MacBook",
+      "publish_time": "2023-02-26T11:30:00+08:00",
+      "video_url": "https://www.douyin.com/video/7204301527429729569",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/7a41411c82c84a450c154ec7c3727f6b~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110690800&x-signature=u2voUDGQwBfaFsK7k1joG9CYkys%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261122155428F508CEB876AC09572E94",
+      "like_count": 342,
+      "comment_count": 18,
+      "share_count": 89,
+      "collect_count": 54,
+      "description": "同样是M2芯片，便携型电脑选MacBook Air还是iPad Pro #数码科技 #MacBook",
+      "text_hint": "同样是M2芯片，便携型电脑选MacBook Air还是iPad Pro #数码科技 #MacBook",
+      "topic_tags": [
+        "数码科技",
+        "MacBook"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/0e87adb2bfed642ef8d05ec7304b42ba/6b02cb73/video/tos/cn/tos-cn-ve-15c001-alinc2/ooBIA09fpfblyAWQIjhzArN0Um6HgkOEAD6lG9/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=771&bt=771&cs=0&ds=3&ft=4rzAgkIKDyjNMRVQ9w6eOOXhd.j5wjf03-ApQX&mime_type=video_mp4&qs=0&rc=Ojs4OGU3ZTc4NGk4Zjk4M0BpM3dyNDM6ZmxnaTMzNGkzM0BjMTNfNWFjXi0xYjQxNmEwYSNuYS5tcjRnMXFgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100D_100J_100o&dy_q=1795334068&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=20261122155428F508CEB876AC09572E94",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 399.105,
+      "raw_payload": {
+        "aweme_id": "7204301527429729569",
+        "author_uid": "1675292059635396",
+        "sec_uid": "MS4wLjABAAAAySW5A-yfUiqlLO1UfO4r9-IV7tAvnEQSaubbyw8FefBdVGq826OGFAtJY5agWZ2_",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAySW5A-yfUiqlLO1UfO4r9-IV7tAvnEQSaubbyw8FefBdVGq826OGFAtJY5agWZ2_"
+      }
+    },
+    "first_seen_at": "2026-11-22T15:53:57+08:00",
+    "last_seen_at": "2026-11-22T15:53:57+08:00",
+    "fetch_runs": [
+      "2026-11-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7547287780486303017": {
+    "video_id": "7547287780486303017",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7547287780486303017",
+      "title": "汽修人的一天#汽车保养与维修 #汽车维修 #汽修人",
+      "publish_time": "2025-09-07T10:11:00+08:00",
+      "video_url": "https://www.douyin.com/video/7547287780486303017",
+      "cover_url": "",
+      "like_count": 10,
+      "comment_count": 3,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "汽修人的一天#汽车保养与维修 #汽车维修 #汽修人",
+      "text_hint": "汽修人的一天#汽车保养与维修 #汽车维修 #汽修人",
+      "topic_tags": [
+        "汽车保养与维修",
+        "汽车维修",
+        "汽修人"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/1b1456411a580670ffc7e022bc68c587/6b02caf6/video/cn/mps/realtime/v1/r/p/v0300fg10000d2uljrnog65qj6if7u20/5b506bc5635a41368b9bed0cb2e9f3da/0866d5557e81c74eb496d24b65eb809b/mp4/main.mp4?a=6383&br=1167&bt=1167&btag=80000e00030000&cd=0%7C0%7C0%7C3&ch=26&codec=h264&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&definition=720p&dr=0&ds=3&dy_q=1795334084&eid=64256&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&ft=4rzAgkIKDyjNMRVQ9wibOOXhd.j5wjf03-ApQX&is_ssr=1&item_id=7547287780486303017&l=20261122155444D96EF9FE257B53513AD4&logo_type=&lr=all&mime_type=video_mp4&qs=0&rc=ZDY8NWZnZWU5NGQ2OGUzZUBpM3hpOXQ5cnVvNTMzNGkzM0BhY2JfLWI2NTAxMjNgMzIyYSMvNGZnMmRrZ3JhLS1kLTBzcw%3D%3D&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type&__vid=7547287780486303017",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7547287780486303017",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-22T15:53:57+08:00",
+    "last_seen_at": "2026-11-22T15:53:57+08:00",
+    "fetch_runs": [
+      "2026-11-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7427046214505368869": {
+    "video_id": "7427046214505368869",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "霞姐💃🏽",
+      "video_id": "7427046214505368869",
+      "title": "时光因舞而健康，人生因舞而快乐，竞赛结束，有收获，有喜悦，有遗憾，结果不重要，重要的是和姐妹共同努力的过程！",
+      "publish_time": "2024-10-18T17:32:38+08:00",
+      "video_url": "https://www.douyin.com/video/7427046214505368869",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o0STYjAGiQpAID4xBIUTZCKiEBqAzDrsvTIMP~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110690800&x-signature=vKFAYD904TomGycrHdGHjKoH5z4%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611221554523FFFEF124ADFD850EA51",
+      "like_count": 114,
+      "comment_count": 40,
+      "share_count": 17,
+      "collect_count": 6,
+      "description": "时光因舞而健康，人生因舞而快乐，竞赛结束，有收获，有喜悦，有遗憾，结果不重要，重要的是和姐妹共同努力的过程！",
+      "text_hint": "时光因舞而健康，人生因舞而快乐，竞赛结束，有收获，有喜悦，有遗憾，结果不重要，重要的是和姐妹共同努力的过程！",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/845d240424578663fb8ee072669de798/6b02cb2e/video/tos/cn/tos-cn-ve-0015c800/oUsMQwFecHNOyEakAiDAImEx9WngVBwACiEYfB/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1745&bt=1745&cs=0&ds=6&ft=4rzAgkIKDyjNMRVQ9wnbOOXhd.j5wjf03-ApQX&mime_type=video_mp4&qs=0&rc=ZGhnPGY8NTk0ODplZWU0Z0BpMzVqanI5cjY1djMzNGkzM0BfMmEwLTFfNTAxXmJhMy9jYSNgYHFpMmRrZzZgLS1kLWFzcw%3D%3D&btag=80000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1795334092&feature_id=aa7df520beeae8e397df15f38df0454c&l=202611221554523FFFEF124ADFD850EA51",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 306.132,
+      "raw_payload": {
+        "aweme_id": "7427046214505368869",
+        "author_uid": "106397186504",
+        "sec_uid": "MS4wLjABAAAAYKt1MYAxRcYXp5eis81p55u35WRlBhIUg3HwPHUbYjg",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAYKt1MYAxRcYXp5eis81p55u35WRlBhIUg3HwPHUbYjg"
+      }
+    },
+    "first_seen_at": "2026-11-22T15:53:57+08:00",
+    "last_seen_at": "2026-11-22T15:53:57+08:00",
+    "fetch_runs": [
+      "2026-11-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7371768026275826953": {
+    "video_id": "7371768026275826953",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "妻九",
+      "video_id": "7371768026275826953",
+      "title": "零物质如何苟进决赛圈《在给九来个圈》 #妻九 #苟分队长 #给队友一个惊喜 #和平精英",
+      "publish_time": "2024-05-22T18:25:02+08:00",
+      "video_url": "https://www.douyin.com/video/7371768026275826953",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/27f6813ff185ca54e265c82e42b1c3b4~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110690800&x-signature=%2Bi2qQQPGZYhEsELpGXzgVzU7BBc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261122155455DAA29C268011D15B7A72",
+      "like_count": 17906,
+      "comment_count": 634,
+      "share_count": 2340,
+      "collect_count": 2474,
+      "description": "零物质如何苟进决赛圈《在给九来个圈》 #妻九 #苟分队长 #给队友一个惊喜 #和平精英",
+      "text_hint": "零物质如何苟进决赛圈《在给九来个圈》 #妻九 #苟分队长 #给队友一个惊喜 #和平精英",
+      "topic_tags": [
+        "妻九",
+        "苟分队长",
+        "给队友一个惊喜",
+        "和平精英"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/42bf65b2ee25bc1b686442bd0acf0f1e/6b02cb51/video/tos/cn/tos-cn-ve-15/ogA3ZvrSEikAQIZ0F3qvJNFTBdMPySHg33IUi/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3322&bt=3322&cs=0&ds=4&ft=4rzAgkIKDyjNMRVQ9wBbOOXhd.j5wjf03-ApQX&mime_type=video_mp4&qs=0&rc=ZTRoOmRpZ2k3Mzg8aGRpPEBpamw8d3E5cmZ2czMzNGkzM0A0NGJgLzM0NWAxX15jNjNfYSNpNXJrMmRrYjNgLS1kLWFzcw%3D%3D&btag=80000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1795334095&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&l=20261122155455DAA29C268011D15B7A72",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 338.873,
+      "raw_payload": {
+        "aweme_id": "7371768026275826953",
+        "author_uid": "92283278242",
+        "sec_uid": "MS4wLjABAAAAJjE1BwYewvppsS4JZci1zjCjnUEXaY9CRo7_HAhoMdM",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAJjE1BwYewvppsS4JZci1zjCjnUEXaY9CRo7_HAhoMdM"
+      }
+    },
+    "first_seen_at": "2026-11-22T15:53:57+08:00",
+    "last_seen_at": "2026-11-22T15:53:57+08:00",
+    "fetch_runs": [
+      "2026-11-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7475572209822518555": {
+    "video_id": "7475572209822518555",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7475572209822518555",
+      "title": "一个视频带你了解Minecraft战斗机制相关知识和注意事项 #我的世界 #Minecraft #游戏教程 #游戏教学 #游戏杂谈",
+      "publish_time": "2025-02-26T04:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7475572209822518555",
+      "cover_url": "",
+      "like_count": 11000,
+      "comment_count": 206,
+      "share_count": 2967,
+      "collect_count": 1126,
+      "description": "一个视频带你了解Minecraft战斗机制相关知识和注意事项 #我的世界 #Minecraft #游戏教程 #游戏教学 #游戏杂谈",
+      "text_hint": "一个视频带你了解Minecraft战斗机制相关知识和注意事项 #我的世界 #Minecraft #游戏教程 #游戏教学 #游戏杂谈",
+      "topic_tags": [
+        "我的世界",
+        "Minecraft",
+        "游戏教程",
+        "游戏教学",
+        "游戏杂谈"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v26-webf.douyinvod.com/f80d110a32e1efc949387fd371c40781/6b02cb3a/video/tos/cn/tos-cn-ve-15/oIvexWnI0jsygIEQEJLeAllGAeoX9EHFeRfHNY/?a=6383&br=844&bt=844&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100H_100K&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1795334111&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=4rzAgkIKDyjNMRVQ9wvbOOXhd.j5wjf03-ApQX&is_ssr=1&l=20261122155511EF2F2755DAE5C8167087&lr=all&mime_type=video_mp4&qs=1&rc=ZmloaDVlNTQ7NjY6O2Y7aUBpanVsdHA5cng7eDMzNGkzM0AvNi8tMDYuXjMxYDYyLmA0YSNzMzQvMmQ0bXNgLS1kLWFzcw%3D%3D&__vid=7475572209822518555",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7475572209822518555",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-22T15:53:57+08:00",
+    "last_seen_at": "2026-11-22T15:53:57+08:00",
+    "fetch_runs": [
+      "2026-11-22"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "HTTP Error 403: Forbidden"
   }
 }
