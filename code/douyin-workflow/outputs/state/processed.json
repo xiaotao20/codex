@@ -77809,5 +77809,632 @@
     "transcript": null,
     "analysis": null,
     "last_error": "HTTP Error 403: Forbidden"
+  },
+  "7711545311801672603": {
+    "video_id": "7711545311801672603",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "新概念升级（戏剧表演）Lisa老师",
+      "video_id": "7711545311801672603",
+      "title": "新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange",
+      "publish_time": "2026-11-24T09:34:19+08:00",
+      "video_url": "https://www.douyin.com/video/7711545311801672603",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oAQ9mNrAOfywBYyJDAIjSBFAGAACygfqE0AATz~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110874400&x-signature=Ug3SPE%2BDJmkkUc2qhD6JQYVjFwE%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261124184725E1C9D02D07E941C7BEF6",
+      "like_count": 3,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange",
+      "text_hint": "新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange",
+      "topic_tags": [
+        "新概念英语",
+        "升级版新概念",
+        "新版新概念",
+        "英语课程改革",
+        "bigchange"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/32d421c33e5b70d4edca943c8c80ab3a/6b059575/video/tos/cn/tos-cn-ve-15/o4Bx9dD6BwOfbBSiEJTpNOMEQ2eFIArMAEgAab/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1440&bt=1440&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wPQ-7Xhd.PTd9V03-ApQX&mime_type=video_mp4&qs=0&rc=M2hpO2Q1NWZkOWU6ZTk3OUBpM3U7dHg5cm1oZjMzNGkzM0AtYmM0LmIuXjYxLWI0Ll4xYSNvbGAxMmQ0YS9hLS1kLWFzcw%3D%3D&btag=c0000e00008000&cquery=100o_100w_100B_100x_100z&dy_q=1795517245&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=20261124184725E1C9D02D07E941C7BEF6",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7711545311801672603.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7711545311801672603.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 8.336,
+      "raw_payload": {
+        "aweme_id": "7711545311801672603",
+        "author_uid": "958361953122148",
+        "sec_uid": "MS4wLjABAAAAXyOxEBX1blSPQ5NQuJ3tjqcpRcOyqTiwS-0BUIzpodc",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAXyOxEBX1blSPQ5NQuJ3tjqcpRcOyqTiwS-0BUIzpodc"
+      }
+    },
+    "first_seen_at": "2026-11-24T18:47:12+08:00",
+    "last_seen_at": "2026-11-24T18:47:12+08:00",
+    "fetch_runs": [
+      "2026-11-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7711545311801672603.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7711545311801672603.mp3",
+      "source": "download",
+      "processed_at": "2026-11-24T18:48:31+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7711545311801672603",
+      "transcript_raw": "新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange补充信息：新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange关键词：新概念英语、升级版新概念、新版新概念、英语课程改革、bigchange",
+      "transcript_clean": "新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange补充信息：新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange关键词：新概念英语、升级版新概念、新版新概念、英语课程改革、bigchange",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-24/7711545311801672603.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7711545311801672603",
+      "summary": "新概念升级（戏剧表演）Lisa老师围绕“新概念英语”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange。新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange补充信息：新概念英语融合新课标，全新升级，落地核心素养。单数课与双数课焕新，紧跟英语教学改革趋势。#新概念英语 #升级版新概念 #新版新概念 #英语课程改革 #bigchange关键词：新概念英语、升级版新概念、新版新概念、英语课程改革、bigchange 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新概念英语为什么总是做不出来结果？",
+        "先把升级版新概念想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新概念英语组织标题与开头。",
+        "用升级版新概念和新版新概念补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新概念英语",
+        "升级版新概念",
+        "新版新概念"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-24/7711545311801672603.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "last_error": null
+  },
+  "7613026353855646982": {
+    "video_id": "7613026353855646982",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "新甘肃",
+      "video_id": "7613026353855646982",
+      "title": "现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）",
+      "publish_time": "2026-03-03T21:52:04+08:00",
+      "video_url": "https://www.douyin.com/video/7613026353855646982",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/49f3034b2dc50471c7cf800c863ddbb8~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110874400&x-signature=3iQG135Uxa5DFqaV1m77b6BN6q8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611241847288832F19E50BD47411FD2",
+      "like_count": 9,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）",
+      "text_hint": "现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）",
+      "topic_tags": [
+        "新甘肃现场报道",
+        "网络中国节·元宵节"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/f3c6d77759429990ec22dd23ab036fcb/6b0595cb/video/tos/cn/tos-cn-ve-0015c800/oA5uUDpzEANhSCQAoAGEVfcN0Iu9gFFyprBpkf/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1168&bt=1168&cs=0&ds=6&ft=CZdgCYlIDyjNNRVQ9w.S-7Xhd.PTd9V03-ApQX&mime_type=video_mp4&qs=1&rc=O2U4ODU2OzY7OTs1aTtmOUBpMzU4b245cjtoOTMzNGkzM0AwMjE0MGJeNjIxMS41YzMwYSNmcjQxMmRjYmdhLS1kLWFzcw%3D%3D&btag=80000e00028000&cquery=100o_100w_100B_100H_100K&dy_q=1795517248&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=202611241847288832F19E50BD47411FD2",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7613026353855646982.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7613026353855646982.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 91.743,
+      "raw_payload": {
+        "aweme_id": "7613026353855646982",
+        "author_uid": "2928754433203597",
+        "sec_uid": "MS4wLjABAAAAQPeSeohvKcZjaFKwuo0aePlwZXoW9YMajvYFaXA35tTNUgLqxj89FxYWcZaPy507",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAQPeSeohvKcZjaFKwuo0aePlwZXoW9YMajvYFaXA35tTNUgLqxj89FxYWcZaPy507"
+      }
+    },
+    "first_seen_at": "2026-11-24T18:47:12+08:00",
+    "last_seen_at": "2026-11-24T18:47:12+08:00",
+    "fetch_runs": [
+      "2026-11-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7613026353855646982.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7613026353855646982.mp3",
+      "source": "download",
+      "processed_at": "2026-11-24T18:48:40+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7613026353855646982",
+      "transcript_raw": "现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）补充信息：现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）关键词：新甘肃现场报道、网络中国节·元宵节",
+      "transcript_clean": "现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）补充信息：现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）关键词：新甘肃现场报道、网络中国节·元宵节",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-24/7613026353855646982.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7613026353855646982",
+      "summary": "新甘肃围绕“新甘肃现场报道”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）。现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）补充信息：现场报道丨共度元宵暖时光，让爱不再独居！今天（3月3日），白银路街道徐家巷社区携手兰州市正宁路亚朵酒店，邀请所在社区独居老人齐聚一堂，共庆元宵佳节。#新甘肃现场报道 #网络中国节·元宵节  （新甘肃客户端记者 赵昕玥 年梦洁）关键词：新甘肃现场报道、网络中国节·元宵节 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新甘肃现场报道为什么总是做不出来结果？",
+        "先把网络中国节·元宵节想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新甘肃现场报道组织标题与开头。",
+        "用网络中国节·元宵节和#网络中国节·元宵节补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新甘肃现场报道",
+        "网络中国节·元宵节",
+        "#网络中国节·元宵节"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-24/7613026353855646982.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "last_error": null
+  },
+  "7333550773332200758": {
+    "video_id": "7333550773332200758",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "国摇磁带怀旧",
+      "video_id": "7333550773332200758",
+      "title": "超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属",
+      "publish_time": "2024-02-09T18:42:50+08:00",
+      "video_url": "https://www.douyin.com/video/7333550773332200758",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/6c41e06017f81f2205273aa7eaeaa8d6~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110874400&x-signature=pwhZWn66chfZGecOQ%2FADzN%2BeuQU%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611241847326CF5FC57094A913AB7F8",
+      "like_count": 55,
+      "comment_count": 26,
+      "share_count": 7,
+      "collect_count": 8,
+      "description": "超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属",
+      "text_hint": "超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属",
+      "topic_tags": [
+        "前奏一响拾起多少人的回忆",
+        "磁带",
+        "乐队",
+        "摇滚",
+        "重金属"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/3e58e085bade570cc22b6d79df02dc55/6b05965f/video/cn/mps/realtime/v1/r/p/v0200fg10000cn3031jc77u910kga23g/c5553afbfe1d49d08a8d4ee79bf953b5/4c834ce3d35951b566f5dfce4c872839/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=350&bt=350&cs=0&ds=3&eid=64256&ft=InFJ3Y-5DyjNNRVQ9wiS-7Xhd.PTd9V03-ApQX&mime_type=video_mp4&qs=0&rc=ODY8ZTpoZ2QzPGdoZWQ4OEBpajVqMzw6ZjQzcTMzNGkzM0BfMmM2YjE1NWExLmNjMDJgYSMwXmgucjRnMDBgLS1kLS9zcw%3D%3D&btag=80000e00028000&codec=h264&cquery=100o_100w_100B_100x_100z&definition=720p&dy_q=1795517252&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7333550773332200758&l=202611241847326CF5FC57094A913AB7F8&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7333550773332200758.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7333550773332200758.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 235.992,
+      "raw_payload": {
+        "aweme_id": "7333550773332200758",
+        "author_uid": "108703558411",
+        "sec_uid": "MS4wLjABAAAARs2cO5Fc_ck_4VWKymchuCwJXyEeh3B26x3wmHh6ft8",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAARs2cO5Fc_ck_4VWKymchuCwJXyEeh3B26x3wmHh6ft8"
+      }
+    },
+    "first_seen_at": "2026-11-24T18:47:12+08:00",
+    "last_seen_at": "2026-11-24T18:47:12+08:00",
+    "fetch_runs": [
+      "2026-11-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7333550773332200758.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7333550773332200758.mp3",
+      "source": "download",
+      "processed_at": "2026-11-24T18:48:55+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7333550773332200758",
+      "transcript_raw": "超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属补充信息：超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属关键词：前奏一响拾起多少人的回忆、磁带、乐队、摇滚、重金属",
+      "transcript_clean": "超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属补充信息：超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属关键词：前奏一响拾起多少人的回忆、磁带、乐队、摇滚、重金属",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-24/7333550773332200758.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7333550773332200758",
+      "summary": "国摇磁带怀旧围绕“前奏一响拾起多少人的回忆”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属。超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属补充信息：超载1，国内最早的激流金属乐队#前奏一响拾起多少人的回忆 #磁带 #乐队 #摇滚 #重金属关键词：前奏一响拾起多少人的回忆、磁带、乐队、摇滚、重金属 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "前奏一响拾起多少人的回忆为什么总是做不出来结果？",
+        "先把磁带想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕前奏一响拾起多少人的回忆组织标题与开头。",
+        "用磁带和乐队补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "前奏一响拾起多少人的回忆",
+        "磁带",
+        "乐队"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-24/7333550773332200758.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "last_error": null
+  },
+  "7342468248291560723": {
+    "video_id": "7342468248291560723",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7342468248291560723",
+      "title": "在抖音记录美好生活20261124",
+      "publish_time": "2026-11-24T18:48:28+08:00",
+      "video_url": "https://www.douyin.com/video/7342468248291560723",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261124",
+      "text_hint": "在抖音记录美好生活20261124",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/6a9d8017-94be-4f3c-8c08-0163cadc1d64",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7342468248291560723",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-24T18:47:12+08:00",
+    "last_seen_at": "2026-11-24T18:47:12+08:00",
+    "fetch_runs": [
+      "2026-11-24"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7365882236421311785": {
+    "video_id": "7365882236421311785",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7365882236421311785",
+      "title": "今天的红豆饼也太软啦#谁懂这一口的好吃程度 #利仁电煎锅#无涂层不粘锅#利仁不锈钢电煎锅#利仁无涂层电饼铛",
+      "publish_time": "2024-05-06T13:45:00+08:00",
+      "video_url": "https://www.douyin.com/video/7365882236421311785",
+      "cover_url": "",
+      "like_count": 8347,
+      "comment_count": 304,
+      "share_count": 11000,
+      "collect_count": 1916,
+      "description": "今天的红豆饼也太软啦#谁懂这一口的好吃程度 #利仁电煎锅#无涂层不粘锅#利仁不锈钢电煎锅#利仁无涂层电饼铛",
+      "text_hint": "今天的红豆饼也太软啦#谁懂这一口的好吃程度 #利仁电煎锅#无涂层不粘锅#利仁不锈钢电煎锅#利仁无涂层电饼铛",
+      "topic_tags": [
+        "谁懂这一口的好吃程度",
+        "利仁电煎锅",
+        "无涂层不粘锅",
+        "利仁不锈钢电煎锅",
+        "利仁无涂层电饼铛"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/e9ad429c-cf4b-4083-8d9b-ee4fc2f9c19a",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7365882236421311785",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-24T18:47:12+08:00",
+    "last_seen_at": "2026-11-24T18:47:12+08:00",
+    "fetch_runs": [
+      "2026-11-24"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7201390568679755012": {
+    "video_id": "7201390568679755012",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "群英车汇",
+      "video_id": "7201390568679755012",
+      "title": "假如给你一百万，你会怎么把它干报废？",
+      "publish_time": "2023-02-18T15:16:14+08:00",
+      "video_url": "https://www.douyin.com/video/7201390568679755012",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/60b9353fad9276d5b0598289e3f7e0f0~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110874400&x-signature=dPoQyo5v0SicvLZQkfQIGXyiVj8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611241848036D6D2B90A9A063930AB1",
+      "like_count": 577,
+      "comment_count": 53,
+      "share_count": 48,
+      "collect_count": 184,
+      "description": "假如给你一百万，你会怎么把它干报废？",
+      "text_hint": "假如给你一百万，你会怎么把它干报废？",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v9-v2-mps-cdn.douyinvod.com/6b8802ad1612ffca008b9554b9233fcc/6b059654/video/cn/mps/realtime/v1/r/p/v0200fg10000cfo7jnjc77u11ltlei7g/0c63fb87657a4fa5a6d57465143e1b41/7e75d86731ddcfe670935ce4c765f596/mp4/main.mp4?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1081&bt=1081&cs=0&ds=3&ft=InFJ3Y-5DyjNNRVQ9wmS-7Xhd.PTd9V03-ApQX&mime_type=video_mp4&qs=0&rc=NGVoNzg3ODk4aWQ4OmU2ZkBpamxvbzQ6ZnE6aTMzNGkzM0AxLjAuMzRhXl4xNDM1YzMtYSM0YnEucjRnZ2xgLS1kLS9zcw%3D%3D&btag=c0000e00028000&codec=h264&cquery=100H_100K_100o_100w_100B&definition=720p&dy_q=1795517283&feature_id=a0bda0ab39a0229d088573ba250e1030&format=mp4&item_id=7201390568679755012&l=202611241848036D6D2B90A9A063930AB1&logo_type=&sign_params=codec%2Cdefinition%2Cformat%2Citem_id%2Clogo_type",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7201390568679755012.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7201390568679755012.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 193.708,
+      "raw_payload": {
+        "aweme_id": "7201390568679755012",
+        "author_uid": "1812415275339566",
+        "sec_uid": "MS4wLjABAAAAknUNy1oPsrOXndqckKMhDz08yZAvk-5rsgOh4Mv3NcF1jLp00w8cRwZWIdSL0oWy",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAknUNy1oPsrOXndqckKMhDz08yZAvk-5rsgOh4Mv3NcF1jLp00w8cRwZWIdSL0oWy"
+      }
+    },
+    "first_seen_at": "2026-11-24T18:47:12+08:00",
+    "last_seen_at": "2026-11-24T18:47:12+08:00",
+    "fetch_runs": [
+      "2026-11-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7201390568679755012.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7201390568679755012.mp3",
+      "source": "download",
+      "processed_at": "2026-11-24T18:49:14+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7201390568679755012",
+      "transcript_raw": "假如给你一百万，你会怎么把它干报废？假如给你一百万，你会怎么把它干报废？补充信息：假如给你一百万，你会怎么把它干报废？",
+      "transcript_clean": "假如给你一百万，你会怎么把它干报废？假如给你一百万，你会怎么把它干报废？补充信息：假如给你一百万，你会怎么把它干报废？",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-24/7201390568679755012.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7201390568679755012",
+      "summary": "群英车汇围绕“假如给你一百万，你会怎么把它干报废？假如给你一百万，你会怎么把它干报废？补充信息：假如给你一百万，你会怎么把它干报废”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "假如给你一百万，你会怎么把它干报废？。假如给你一百万，你会怎么把它干报废？假如给你一百万，你会怎么把它干报废？补充信息：假如给你一百万，你会怎么把它干报废？ 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "假如给你一百万，你会怎么把它干报废？假如给你一百万，你会怎么把它干报废？补充信息：假如给你一百万，你会怎么把它干报废为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕假如给你一百万，你会怎么把它干报废？假如给你一百万，你会怎么把它干报废？补充信息：假如给你一百万，你会怎么把它干报废组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "假如给你一百万，你会怎么把它干报废？假如给你一百万，你会怎么把它干报废？补充信息：假如给你一百万，你会怎么把它干报废",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-24/7201390568679755012.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "last_error": null
+  },
+  "7183260510782115075": {
+    "video_id": "7183260510782115075",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "汽车运营咨询汤洁",
+      "video_id": "7183260510782115075",
+      "title": "#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？",
+      "publish_time": "2022-12-31T18:39:43+08:00",
+      "video_url": "https://www.douyin.com/video/7183260510782115075",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/680d618e2960eda63d6499226496765c~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2110874400&x-signature=2k0lZmWaqlwuhaUVpu2a4tlgo5U%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611241848077BB3410DB74E091C4B97",
+      "like_count": 115,
+      "comment_count": 15,
+      "share_count": 21,
+      "collect_count": 54,
+      "description": "#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？",
+      "text_hint": "#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？",
+      "topic_tags": [
+        "新能源汽车",
+        "管理",
+        "4s店",
+        "销售",
+        "年度报告"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/12ae1d891dafd2c1c4c506d640eaac0c/6b0597bc/video/tos/cn/tos-cn-ve-0015c800/oclBQN1wzASxfaIALwhEAoIl2BDUamNgGKeigA/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=557&bt=557&cs=0&ds=3&ft=CZdgCYlIDyjNNRVQ9wFS-7Xhd.PTd9V03-ApQX&mime_type=video_mp4&qs=0&rc=aDY7Njo5ODNlZmQ4NTg6ZkBpM28zZjk6Zjg0aDMzNGkzM0BgLS8yLjBjXmAxMDZfYDNhYSNnby5hcjRnLWxgLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100w_100B_100x_100z_100o&dy_q=1795517287&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202611241848077BB3410DB74E091C4B97",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7183260510782115075.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7183260510782115075.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 549.4,
+      "raw_payload": {
+        "aweme_id": "7183260510782115075",
+        "author_uid": "96383615131",
+        "sec_uid": "MS4wLjABAAAANvN7CALLuiOSRJgDUEmAIr2vlV_stqFA4hNP6JxZC4Y",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAANvN7CALLuiOSRJgDUEmAIr2vlV_stqFA4hNP6JxZC4Y"
+      }
+    },
+    "first_seen_at": "2026-11-24T18:47:12+08:00",
+    "last_seen_at": "2026-11-24T18:47:12+08:00",
+    "fetch_runs": [
+      "2026-11-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7183260510782115075.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7183260510782115075.mp3",
+      "source": "download",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7183260510782115075",
+      "transcript_raw": "#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？补充信息：#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？关键词：新能源汽车、管理、4s店、销售、年度报告",
+      "transcript_clean": "#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？补充信息：#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？关键词：新能源汽车、管理、4s店、销售、年度报告",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-24/7183260510782115075.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7183260510782115075",
+      "summary": "汽车运营咨询汤洁围绕“新能源汽车”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？。#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？补充信息：#新能源汽车 #管理 #4s店 #销售 #年度报告   了解目标管理原则，思考如何做4S店年度经营计划及预算？关键词：新能源汽车、管理、4s店、销售、年度报告 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "新能源汽车为什么总是做不出来结果？",
+        "先把管理想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕新能源汽车组织标题与开头。",
+        "用管理和4s店补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "新能源汽车",
+        "管理",
+        "4s店"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-24/7183260510782115075.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "last_error": null
+  },
+  "7324619072233065755": {
+    "video_id": "7324619072233065755",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7324619072233065755",
+      "title": "澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学",
+      "publish_time": "2024-01-18T04:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7324619072233065755",
+      "cover_url": "",
+      "like_count": 958,
+      "comment_count": 123,
+      "share_count": 697,
+      "collect_count": 1115,
+      "description": "澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学",
+      "text_hint": "澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学",
+      "topic_tags": [
+        "澳洲留学",
+        "澳洲选课",
+        "澳洲新生开学"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/0dd04d28e04c7aeec9f0c9f955d9afe5/6b0596ad/video/tos/cn/tos-cn-ve-2883c800/oMAAgwjYralIfBDdvKDkmQEkCpR9EZFgzfbAiS/?a=6383&br=464&bt=464&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100K_100o_100w_100B_100H&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1795517303&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNNRVQ9wJS-7Xhd.PTd9V03-ApQX&is_ssr=1&l=20261124184822229575276216198C746F&lr=all&mime_type=video_mp4&qs=12&rc=ODQzM2doaDg2MzM0NTxlaEBpamtxbHE5cms3cDMzNGkzM0BfYjVfYDIzNTUxYDI2Y2E0YSNsMzZqMmQ0YGdgLS1kLS9zcw%3D%3D&__vid=7324619072233065755",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7324619072233065755.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7324619072233065755.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7324619072233065755",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-24T18:47:12+08:00",
+    "last_seen_at": "2026-11-24T18:47:12+08:00",
+    "fetch_runs": [
+      "2026-11-24"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7324619072233065755.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-24/7324619072233065755.mp3",
+      "source": "download",
+      "processed_at": "2026-11-24T18:48:58+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7324619072233065755",
+      "transcript_raw": "澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学补充信息：澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学关键词：澳洲留学、澳洲选课、澳洲新生开学",
+      "transcript_clean": "澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学补充信息：澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学关键词：澳洲留学、澳洲选课、澳洲新生开学",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-24/7324619072233065755.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "analysis": {
+      "video_id": "7324619072233065755",
+      "summary": "目标博主 1围绕“澳洲留学”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学。澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学补充信息：澳洲大学新生入学季 | 到底怎么选课？ #澳洲留学 #澳洲选课 #澳洲新生开学关键词：澳洲留学、澳洲选课、澳洲新生开学 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "澳洲留学为什么总是做不出来结果？",
+        "先把澳洲选课想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕澳洲留学组织标题与开头。",
+        "用澳洲选课和澳洲新生开学补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "澳洲留学",
+        "澳洲选课",
+        "澳洲新生开学"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-24/7324619072233065755.json",
+      "processed_at": "2026-11-24T18:49:41+08:00"
+    },
+    "last_error": null
   }
 }
