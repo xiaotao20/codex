@@ -78436,5 +78436,663 @@
       "processed_at": "2026-11-24T18:49:41+08:00"
     },
     "last_error": null
+  },
+  "7712289214838121956": {
+    "video_id": "7712289214838121956",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "克比服装",
+      "video_id": "7712289214838121956",
+      "title": "学英语的第三十一天再发一下一段视频😁",
+      "publish_time": "2026-11-26T09:41:02+08:00",
+      "video_url": "https://www.douyin.com/video/7712289214838121956",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/tos-cn-p-0015/o84EA0d0iiAI2gBgIeiBD8Hg89jxbz1HcAzfBi~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2111043600&x-signature=RaLrif2R4wKDQb2K9glOSaZoORc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026112617253593FB86BAFD38391EE6EA",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "学英语的第三十一天再发一下一段视频😁",
+      "text_hint": "学英语的第三十一天再发一下一段视频😁",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/72bf8a8982809fcff0332a9a9d7575f1/6b082553/video/tos/cn/tos-cn-ve-15/ow9zj1rMfABcQzB8AjxHbIEgHiek8gcCgDiIA0/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1093&bt=1093&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wBQL7Xhd.eZjCf03-ApQX&mime_type=video_mp4&qs=0&rc=aDg5PDw1aWhpMzllOGUzZEBpM3d4Zm05cnhyZjMzNGkzM0AwXmM1My4wNjYxYGIxYDAvYSNuLmwxMmRjbzBhLS1kLTBzcw%3D%3D&btag=c0000e00010000&cquery=100o_100w_100B_100x_100z&dy_q=1795685135&feature_id=f5241e7604dff1d9d6c943fd20bd51a2&l=2026112617253593FB86BAFD38391EE6EA",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7712289214838121956.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7712289214838121956.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 20.038,
+      "raw_payload": {
+        "aweme_id": "7712289214838121956",
+        "author_uid": "2251398140143136",
+        "sec_uid": "MS4wLjABAAAAK16JNfMt6MoJyw6CmpZgXrkmJP7_uakxtfKn0z_9D8Y31L6CKN_Z6aaPxDd0sTK2",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAK16JNfMt6MoJyw6CmpZgXrkmJP7_uakxtfKn0z_9D8Y31L6CKN_Z6aaPxDd0sTK2"
+      }
+    },
+    "first_seen_at": "2026-11-26T17:25:14+08:00",
+    "last_seen_at": "2026-11-26T17:25:14+08:00",
+    "fetch_runs": [
+      "2026-11-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7712289214838121956.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7712289214838121956.mp3",
+      "source": "download",
+      "processed_at": "2026-11-26T17:26:19+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7712289214838121956",
+      "transcript_raw": "学英语的第三十一天再发一下一段视频😁学英语的第三十一天再发一下一段视频😁补充信息：学英语的第三十一天再发一下一段视频😁",
+      "transcript_clean": "学英语的第三十一天再发一下一段视频😁学英语的第三十一天再发一下一段视频😁补充信息：学英语的第三十一天再发一下一段视频😁",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-26/7712289214838121956.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7712289214838121956",
+      "summary": "克比服装围绕“学英语的第三十一天再发一下一段视频😁学英语的第三十一天再发一下一段视频😁补充信息：学英语的第三十一天再发一下一段视频😁”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "学英语的第三十一天再发一下一段视频😁。学英语的第三十一天再发一下一段视频😁学英语的第三十一天再发一下一段视频😁补充信息：学英语的第三十一天再发一下一段视频😁 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "学英语的第三十一天再发一下一段视频😁学英语的第三十一天再发一下一段视频😁补充信息：学英语的第三十一天再发一下一段视频😁为什么总是做不出来结果？",
+        "先把效率工具想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕学英语的第三十一天再发一下一段视频😁学英语的第三十一天再发一下一段视频😁补充信息：学英语的第三十一天再发一下一段视频😁组织标题与开头。",
+        "用效率工具和AI 工作流补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "学英语的第三十一天再发一下一段视频😁学英语的第三十一天再发一下一段视频😁补充信息：学英语的第三十一天再发一下一段视频😁",
+        "效率工具",
+        "AI 工作流"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-26/7712289214838121956.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "last_error": null
+  },
+  "7584382775893953826": {
+    "video_id": "7584382775893953826",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "中国网财经",
+      "video_id": "7584382775893953826",
+      "title": "#欧盟将放弃2035年内燃机禁令 @抖音财经",
+      "publish_time": "2025-12-16T17:18:51+08:00",
+      "video_url": "https://www.douyin.com/video/7584382775893953826",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/e4b08fa6e7cb3190a0e4df0cc2fb2d72~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2111043600&x-signature=rWNIkLDUs1%2Flrl0IkomR6GWM5KA%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261126172538B231D26DFA505E47BFE8",
+      "like_count": 176,
+      "comment_count": 34,
+      "share_count": 12,
+      "collect_count": 6,
+      "description": "#欧盟将放弃2035年内燃机禁令 @抖音财经",
+      "text_hint": "#欧盟将放弃2035年内燃机禁令 @抖音财经",
+      "topic_tags": [
+        "欧盟将放弃2035年内燃机禁令"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/7262fbf1d1685a0435f3466c44a3e06c/6b082548/video/tos/cn/tos-cn-ve-0015c800/oweAtkzEgCBLNFgQgIubyCAzocdAgSfeGB7CIS/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1475&bt=1475&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wfQL7Xhd.eZjCf03-ApQX&mime_type=video_mp4&qs=0&rc=NzY6ZTU4MztkZmY0O2Q5ZEBpM251bXY5cmhsODMzNGkzM0AuY14yMWE1Xi4xMS9jLTBgYSM1YmxnMmRjNC1hLS1kLS9zcw%3D%3D&btag=c0000e00008000&cquery=100K_100o_100w_100B_100H&dy_q=1795685138&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=20261126172538B231D26DFA505E47BFE8",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7584382775893953826.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7584382775893953826.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 6.734,
+      "raw_payload": {
+        "aweme_id": "7584382775893953826",
+        "author_uid": "64281620486",
+        "sec_uid": "MS4wLjABAAAAq3kXlON6-IM-t8_aV2Rb6LHqdg1uCL5RF3LnZiszu2g",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAq3kXlON6-IM-t8_aV2Rb6LHqdg1uCL5RF3LnZiszu2g"
+      }
+    },
+    "first_seen_at": "2026-11-26T17:25:14+08:00",
+    "last_seen_at": "2026-11-26T17:25:14+08:00",
+    "fetch_runs": [
+      "2026-11-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7584382775893953826.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7584382775893953826.mp3",
+      "source": "download",
+      "processed_at": "2026-11-26T17:26:21+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7584382775893953826",
+      "transcript_raw": "#欧盟将放弃2035年内燃机禁令 @抖音财经#欧盟将放弃2035年内燃机禁令 @抖音财经补充信息：#欧盟将放弃2035年内燃机禁令 @抖音财经关键词：欧盟将放弃2035年内燃机禁令",
+      "transcript_clean": "#欧盟将放弃2035年内燃机禁令 @抖音财经#欧盟将放弃2035年内燃机禁令 @抖音财经补充信息：#欧盟将放弃2035年内燃机禁令 @抖音财经关键词：欧盟将放弃2035年内燃机禁令",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-26/7584382775893953826.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7584382775893953826",
+      "summary": "中国网财经围绕“欧盟将放弃2035年内燃机禁令”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "#欧盟将放弃2035年内燃机禁令 @抖音财经。#欧盟将放弃2035年内燃机禁令 @抖音财经#欧盟将放弃2035年内燃机禁令 @抖音财经补充信息：#欧盟将放弃2035年内燃机禁令 @抖音财经关键词：欧盟将放弃2035年内燃机禁令 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "欧盟将放弃2035年内燃机禁令为什么总是做不出来结果？",
+        "先把#欧盟将放弃2035年内燃机禁令想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕欧盟将放弃2035年内燃机禁令组织标题与开头。",
+        "用#欧盟将放弃2035年内燃机禁令和@抖音财经#欧盟将放弃2035年内燃机禁令补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "欧盟将放弃2035年内燃机禁令",
+        "#欧盟将放弃2035年内燃机禁令",
+        "@抖音财经#欧盟将放弃2035年内燃机禁令"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-26/7584382775893953826.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "last_error": null
+  },
+  "7155682812929035561": {
+    "video_id": "7155682812929035561",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "快乐的芽妹Phoebe",
+      "video_id": "7155682812929035561",
+      "title": "芽妹手工 \n     之\n恐怖南瓜灯🎃",
+      "publish_time": "2022-10-18T11:04:02+08:00",
+      "video_url": "https://www.douyin.com/video/7155682812929035561",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/38fe57112003379867aacafa322aa369~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2111043600&x-signature=CTw2fR8JPzNiUoHLJbgCT2CRcT8%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=202611261725404598C00C9447461B8D6F",
+      "like_count": 26,
+      "comment_count": 5,
+      "share_count": 0,
+      "collect_count": 1,
+      "description": "芽妹手工 \n     之\n恐怖南瓜灯🎃",
+      "text_hint": "芽妹手工 \n     之\n恐怖南瓜灯🎃",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/4d7b0ef02df7c5a33b8217ecee2e5cf0/6b08267e/video/tos/cn/tos-cn-ve-0015c800/74e6ee81512946a1a3264e6226d9860c/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1073&bt=1073&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9w1QL7Xhd.eZjCf03-ApQX&mime_type=video_mp4&qs=0&rc=NDQ7NGVmZjY8ODRpZzg2OkBpanRncTc6ZnczZzMzNGkzM0BfYWExMDUzNjUxNTFjY2NgYSNkMGJycjQwLTRgLS1kLWFzcw%3D%3D&btag=80000e00030000&cquery=100B_100x_100z_100o_100w&dy_q=1795685140&l=202611261725404598C00C9447461B8D6F",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7155682812929035561.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7155682812929035561.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 314.211,
+      "raw_payload": {
+        "aweme_id": "7155682812929035561",
+        "author_uid": "59327438559",
+        "sec_uid": "MS4wLjABAAAAAiWUzITEHvkaKAnbTOCJZ-LnM4zAGtH1yUk2FKIS-7A",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAAiWUzITEHvkaKAnbTOCJZ-LnM4zAGtH1yUk2FKIS-7A"
+      }
+    },
+    "first_seen_at": "2026-11-26T17:25:14+08:00",
+    "last_seen_at": "2026-11-26T17:25:14+08:00",
+    "fetch_runs": [
+      "2026-11-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7155682812929035561.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7155682812929035561.mp3",
+      "source": "download",
+      "processed_at": "2026-11-26T17:28:13+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7155682812929035561",
+      "transcript_raw": "芽妹手工 \n     之\n恐怖南瓜灯🎃芽妹手工 \n     之\n恐怖南瓜灯🎃补充信息：芽妹手工 \n     之\n恐怖南瓜灯🎃",
+      "transcript_clean": "芽妹手工 \n     之\n恐怖南瓜灯🎃芽妹手工 \n     之\n恐怖南瓜灯🎃补充信息：芽妹手工 \n     之\n恐怖南瓜灯🎃",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-26/7155682812929035561.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7155682812929035561",
+      "summary": "快乐的芽妹Phoebe围绕“芽妹手工”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "芽妹手工 \n     之\n恐怖南瓜灯🎃。芽妹手工 \n     之\n恐怖南瓜灯🎃芽妹手工 \n     之\n恐怖南瓜灯🎃补充信息：芽妹手工 \n     之\n恐怖南瓜灯🎃 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "芽妹手工为什么总是做不出来结果？",
+        "先把恐怖南瓜灯🎃芽妹手工想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕芽妹手工组织标题与开头。",
+        "用恐怖南瓜灯🎃芽妹手工和恐怖南瓜灯🎃补充信息：芽妹手工补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "芽妹手工",
+        "恐怖南瓜灯🎃芽妹手工",
+        "恐怖南瓜灯🎃补充信息：芽妹手工"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-26/7155682812929035561.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "last_error": null
+  },
+  "7131514673647652128": {
+    "video_id": "7131514673647652128",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "Haze",
+      "video_id": "7131514673647652128",
+      "title": "英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游",
+      "publish_time": "2022-08-14T08:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7131514673647652128",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/a6f0c48a7027bf5fdc52cf3b2b684f3d~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2111043600&x-signature=12QqoIPXgdpqTQmNe1HnLvejSPc%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261126172543B52DF6D42465FE5E92A7",
+      "like_count": 26,
+      "comment_count": 0,
+      "share_count": 2,
+      "collect_count": 2,
+      "description": "英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游",
+      "text_hint": "英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游",
+      "topic_tags": [
+        "海外生活",
+        "vlog日常",
+        "海外游",
+        "旅游"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/a518d3e124f34963aed59e988f3d1d5a/6b0826bf/video/tos/cn/tos-cn-ve-0015c800/507ea37f68c4427ebfd27e879361ed52/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=1968&bt=1968&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9wOQL7Xhd.eZjCf03-ApQX&mime_type=video_mp4&qs=0&rc=MzozPGU0OWU1ZDY7M2RlNUBpM3Vsajk6ZjU2ZTMzNGkzM0BhM2IxYTM2Xl8xMy8tNS0yYSM0b2EycjQwanBgLS1kLTBzcw%3D%3D&btag=80000e00030000&cquery=100w_100B_100D_100J_100o&dy_q=1795685143&l=20261126172543B52DF6D42465FE5E92A7",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7131514673647652128.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7131514673647652128.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 376.257,
+      "raw_payload": {
+        "aweme_id": "7131514673647652128",
+        "author_uid": "108138007887",
+        "sec_uid": "MS4wLjABAAAACHt4LSPNBJRabtbZ9nYCQUETmYI4XJH5njjxva8xZPY",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAACHt4LSPNBJRabtbZ9nYCQUETmYI4XJH5njjxva8xZPY"
+      }
+    },
+    "first_seen_at": "2026-11-26T17:25:14+08:00",
+    "last_seen_at": "2026-11-26T17:25:14+08:00",
+    "fetch_runs": [
+      "2026-11-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7131514673647652128.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7131514673647652128.mp3",
+      "source": "download",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7131514673647652128",
+      "transcript_raw": "英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游补充信息：英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游关键词：海外生活、vlog日常、海外游、旅游",
+      "transcript_clean": "英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游补充信息：英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游关键词：海外生活、vlog日常、海外游、旅游",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-26/7131514673647652128.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7131514673647652128",
+      "summary": "Haze围绕“海外生活”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游。英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游补充信息：英国又是热浪滚滚，我们带你看不一样的英国乡村-威尔士 #海外生活 #vlog日常 #海外游 #旅游关键词：海外生活、vlog日常、海外游、旅游 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "海外生活为什么总是做不出来结果？",
+        "先把vlog日常想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕海外生活组织标题与开头。",
+        "用vlog日常和海外游补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "海外生活",
+        "vlog日常",
+        "海外游"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-26/7131514673647652128.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "last_error": null
+  },
+  "7534229607306874153": {
+    "video_id": "7534229607306874153",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7534229607306874153",
+      "title": "在抖音记录美好生活20261126",
+      "publish_time": "2026-11-26T17:26:17+08:00",
+      "video_url": "https://www.douyin.com/video/7534229607306874153",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "在抖音记录美好生活20261126",
+      "text_hint": "在抖音记录美好生活20261126",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a3112e13-fdc1-4365-96f5-7ea0a745e21c",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7534229607306874153",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-26T17:25:14+08:00",
+    "last_seen_at": "2026-11-26T17:25:14+08:00",
+    "fetch_runs": [
+      "2026-11-26"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7427783355711720741": {
+    "video_id": "7427783355711720741",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "张碧晨陪伴站",
+      "video_id": "7427783355711720741",
+      "title": "李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版",
+      "publish_time": "2024-10-20T17:13:17+08:00",
+      "video_url": "https://www.douyin.com/video/7427783355711720741",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/3ecdde7899d13d5083fb0e4cbbe163c7~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2111043600&x-signature=B1FDpxy8vII1u0jSfRFH9Ad44Ds%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=20261126172553D58D7239A1DB151ACD8A",
+      "like_count": 798,
+      "comment_count": 26,
+      "share_count": 309,
+      "collect_count": 355,
+      "description": "李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版",
+      "text_hint": "李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版",
+      "topic_tags": [
+        "李易峰",
+        "剑伤",
+        "剑伤完整版",
+        "李易峰的歌曲",
+        "剑伤李易峰"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/53b3bab70435664cc9e4de0afe153e4f/6b082635/video/tos/cn/tos-cn-ve-15c001-alinc2/oEEeSDzAmZb0tfAcBAIOiiiz2ZQBbgPziRAmAX/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=917&bt=917&cs=0&ds=3&ft=CZdgCYlIDyjNbRVQ9waQL7Xhd.eZjCf03-ApQX&mime_type=video_mp4&qs=0&rc=Njg7NzdpZjZmOGQ1OTw1ZUBpMzVmM205cnlmdjMzNGkzM0AvXzJiYV4vNTUxMi8xMzQxYSMtcTBuMmQ0Zl5gLS1kLTBzcw%3D%3D&btag=c0000e00028000&cquery=100x_100z_100o_100w_100B&dy_q=1795685153&feature_id=cb5bceaf0f8810e794f7733747a60db6&l=20261126172553D58D7239A1DB151ACD8A",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7427783355711720741.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7427783355711720741.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 228.584,
+      "raw_payload": {
+        "aweme_id": "7427783355711720741",
+        "author_uid": "1594712046966152",
+        "sec_uid": "MS4wLjABAAAAKmXco7feMWObpBbgaWGf9l6AgKqFW8RG9U0mwS18mW7PWleRchkqN8RRgDofMS-I",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAKmXco7feMWObpBbgaWGf9l6AgKqFW8RG9U0mwS18mW7PWleRchkqN8RRgDofMS-I"
+      }
+    },
+    "first_seen_at": "2026-11-26T17:25:14+08:00",
+    "last_seen_at": "2026-11-26T17:25:14+08:00",
+    "fetch_runs": [
+      "2026-11-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7427783355711720741.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7427783355711720741.mp3",
+      "source": "download",
+      "processed_at": "2026-11-26T17:27:29+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7427783355711720741",
+      "transcript_raw": "李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版补充信息：李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版关键词：李易峰、剑伤、剑伤完整版、李易峰的歌曲、剑伤李易峰",
+      "transcript_clean": "李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版补充信息：李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版关键词：李易峰、剑伤、剑伤完整版、李易峰的歌曲、剑伤李易峰",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-26/7427783355711720741.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7427783355711720741",
+      "summary": "张碧晨陪伴站围绕“李易峰”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版。李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版补充信息：李易峰演唱的古剑奇谭插曲mv来啦#李易峰 #李易峰的歌曲 #剑伤李易峰 #剑伤 #剑伤完整版关键词：李易峰、剑伤、剑伤完整版、李易峰的歌曲、剑伤李易峰 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "李易峰为什么总是做不出来结果？",
+        "先把剑伤想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕李易峰组织标题与开头。",
+        "用剑伤和剑伤完整版补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "李易峰",
+        "剑伤",
+        "剑伤完整版"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-26/7427783355711720741.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "last_error": null
+  },
+  "7556461482709208374": {
+    "video_id": "7556461482709208374",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "是张小麦一家呀",
+      "video_id": "7556461482709208374",
+      "title": "做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活",
+      "publish_time": "2025-10-02T11:29:56+08:00",
+      "video_url": "https://www.douyin.com/video/7556461482709208374",
+      "cover_url": "https://p3-pc-sign.douyinpic.com/image-cut-tos-priv/384901fd8f9ae82fce19eb4637241e8e~tplv-dy-resize-origshort-autoq-75:330.jpeg?lk3s=138a59ce&x-expires=2111043600&x-signature=P7SfoBX%2F9AIVPrrFVzLG5JZ5IYI%3D&from=327834062&s=PackSourceEnum_AWEME_DETAIL&se=false&sc=cover&biz_tag=pcweb_cover&l=2026112617255670547FC7ED3B9F4290A7",
+      "like_count": 1695,
+      "comment_count": 117,
+      "share_count": 31,
+      "collect_count": 67,
+      "description": "做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活",
+      "text_hint": "做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活",
+      "topic_tags": [
+        "记录我的生活",
+        "不易的生活"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/ab7fb72833d6c219c161447a82850627/6b0826dc/video/tos/cn/tos-cn-ve-0015c800/okjeg7sDAGIKLAqu8fQEeLvvICMI7RUb2edZ7G/?a=6383&ch=26&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2245&bt=2245&cs=0&ds=4&ft=CZdgCYlIDyjNbRVQ9wLQL7Xhd.eZjCf03-ApQX&mime_type=video_mp4&qs=0&rc=ZTc5ZWRlZWlpZTNnNGY3M0BpanVzZ3U5cjp5NjMzNGkzM0AuLTYzNV5gXmExYWNeNGM2YSM0MjVvMmRjL2JhLS1kLTBzcw%3D%3D&btag=c0000e00030000&cquery=100o_100w_100B_100x_100z&dy_q=1795685156&feature_id=0ea98fd3bdc3c6c14a3d0804cc272721&l=2026112617255670547FC7ED3B9F4290A7",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7556461482709208374.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7556461482709208374.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 392.867,
+      "raw_payload": {
+        "aweme_id": "7556461482709208374",
+        "author_uid": "7494868197084283961",
+        "sec_uid": "MS4wLjABAAAATL2JKQZDSSN5zes9OqMjcouVCsRBrw8HQdJldtsU0CGpouuwCM_EDnEHnmtQS4Ws",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAATL2JKQZDSSN5zes9OqMjcouVCsRBrw8HQdJldtsU0CGpouuwCM_EDnEHnmtQS4Ws"
+      }
+    },
+    "first_seen_at": "2026-11-26T17:25:14+08:00",
+    "last_seen_at": "2026-11-26T17:25:14+08:00",
+    "fetch_runs": [
+      "2026-11-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7556461482709208374.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7556461482709208374.mp3",
+      "source": "download",
+      "processed_at": "2026-11-26T17:27:11+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7556461482709208374",
+      "transcript_raw": "做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活补充信息：做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活关键词：记录我的生活、不易的生活",
+      "transcript_clean": "做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活补充信息：做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活关键词：记录我的生活、不易的生活",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-26/7556461482709208374.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7556461482709208374",
+      "summary": "是张小麦一家呀围绕“记录我的生活”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活。做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活补充信息：做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活 #不易的生活关键词：记录我的生活、不易的生活 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "记录我的生活为什么总是做不出来结果？",
+        "先把不易的生活想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕记录我的生活组织标题与开头。",
+        "用不易的生活和做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "记录我的生活",
+        "不易的生活",
+        "做人不能太攀比，我国庆中秋无休，你们拿什么跟我比😝#记录我的生活"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-26/7556461482709208374.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "last_error": null
+  },
+  "7215538650208013572": {
+    "video_id": "7215538650208013572",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "知雪",
+      "video_id": "7215538650208013572",
+      "title": "盲僧打野抢3打法#大司马 #联盟魅力 #游戏",
+      "publish_time": "2023-03-28T10:15:00+08:00",
+      "video_url": "https://www.douyin.com/video/7215538650208013572",
+      "cover_url": "",
+      "like_count": 76,
+      "comment_count": 9,
+      "share_count": 12,
+      "collect_count": 8,
+      "description": "盲僧打野抢3打法#大司马 #联盟魅力 #游戏",
+      "text_hint": "盲僧打野抢3打法#大司马 #联盟魅力 #游戏",
+      "topic_tags": [
+        "大司马",
+        "联盟魅力",
+        "游戏"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/1bb6389c6d22fe91062e561e49db0508/6b082711/video/tos/cn/tos-cn-ve-0015c800/osenRUAiHUPARGM4XfCWcIms3bpB7BFeAL8c29/?a=6383&br=828&bt=828&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100o_100w_100B_100x_100z&cr=3&cs=0&cv=1&dr=0&ds=3&dy_q=1795685172&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNbRVQ9w6QL7Xhd.eZjCf03-ApQX&is_ssr=1&l=20261126172611C55B9BDD9F28B4312363&lr=all&mime_type=video_mp4&qs=1&rc=NWVlO2llOjk8ZWg4NzkzNkBpM2VkbDk6ZjVlajMzNGkzM0AwLjYyXzM0NTMxYF8vMDFgYSNlY2pycjRnb2VgLS1kLTBzcw%3D%3D&__vid=7215538650208013572",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7215538650208013572.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7215538650208013572.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7215538650208013572",
+        "author_uid": "7569807853663470641",
+        "sec_uid": "MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX",
+        "profile_url": "https://www.douyin.com/user/MS4wLjABAAAAdLR9Cbg551DbYSu-dJloO0OLZJlvWQTN08A4oLMdC_skWDqREIp3-0fmIDCpm_MX"
+      }
+    },
+    "first_seen_at": "2026-11-26T17:25:14+08:00",
+    "last_seen_at": "2026-11-26T17:25:14+08:00",
+    "fetch_runs": [
+      "2026-11-26"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7215538650208013572.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-26/7215538650208013572.mp3",
+      "source": "download",
+      "processed_at": "2026-11-26T17:27:48+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7215538650208013572",
+      "transcript_raw": "盲僧打野抢3打法#大司马 #联盟魅力 #游戏盲僧打野抢3打法#大司马 #联盟魅力 #游戏补充信息：盲僧打野抢3打法#大司马 #联盟魅力 #游戏关键词：大司马、联盟魅力、游戏",
+      "transcript_clean": "盲僧打野抢3打法#大司马 #联盟魅力 #游戏盲僧打野抢3打法#大司马 #联盟魅力 #游戏补充信息：盲僧打野抢3打法#大司马 #联盟魅力 #游戏关键词：大司马、联盟魅力、游戏",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-26/7215538650208013572.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "analysis": {
+      "video_id": "7215538650208013572",
+      "summary": "知雪围绕“大司马”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "盲僧打野抢3打法#大司马 #联盟魅力 #游戏。盲僧打野抢3打法#大司马 #联盟魅力 #游戏盲僧打野抢3打法#大司马 #联盟魅力 #游戏补充信息：盲僧打野抢3打法#大司马 #联盟魅力 #游戏关键词：大司马、联盟魅力、游戏 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "大司马为什么总是做不出来结果？",
+        "先把联盟魅力想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕大司马组织标题与开头。",
+        "用联盟魅力和游戏补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "大司马",
+        "联盟魅力",
+        "游戏"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-26/7215538650208013572.json",
+      "processed_at": "2026-11-26T17:29:07+08:00"
+    },
+    "last_error": null
   }
 }
