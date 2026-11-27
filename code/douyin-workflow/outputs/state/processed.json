@@ -79094,5 +79094,354 @@
       "processed_at": "2026-11-26T17:29:07+08:00"
     },
     "last_error": null
+  },
+  "7615211961474764082": {
+    "video_id": "7615211961474764082",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7615211961474764082",
+      "title": "目标博主 1 视频 7615211961474764082",
+      "publish_time": "2026-11-27T17:36:26+08:00",
+      "video_url": "https://www.douyin.com/video/7615211961474764082",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/752d6c70-acd6-45a6-87cd-e005dd92943d",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7615211961474764082",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-27T17:33:43+08:00",
+    "last_seen_at": "2026-11-27T17:33:43+08:00",
+    "fetch_runs": [
+      "2026-11-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7367952629378338089": {
+    "video_id": "7367952629378338089",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7367952629378338089",
+      "title": "目标博主 1 视频 7367952629378338089",
+      "publish_time": "2026-11-27T17:36:26+08:00",
+      "video_url": "https://www.douyin.com/video/7367952629378338089",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/92ea7fc7-c069-42a1-8834-f06e39aba9ea",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7367952629378338089",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-27T17:33:43+08:00",
+    "last_seen_at": "2026-11-27T17:33:43+08:00",
+    "fetch_runs": [
+      "2026-11-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7362130627392458038": {
+    "video_id": "7362130627392458038",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7362130627392458038",
+      "title": "目标博主 1 视频 7362130627392458038",
+      "publish_time": "2026-11-27T17:36:26+08:00",
+      "video_url": "https://www.douyin.com/video/7362130627392458038",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/3ec4280b-be97-406b-b36d-77d9f5f44496",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7362130627392458038",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-27T17:33:43+08:00",
+    "last_seen_at": "2026-11-27T17:33:43+08:00",
+    "fetch_runs": [
+      "2026-11-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7468593016064789772": {
+    "video_id": "7468593016064789772",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7468593016064789772",
+      "title": "目标博主 1 视频 7468593016064789772",
+      "publish_time": "2026-11-27T17:36:26+08:00",
+      "video_url": "https://www.douyin.com/video/7468593016064789772",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/fb9ad4c0-e742-4f10-a11a-79b9da7ae434",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7468593016064789772",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-27T17:33:43+08:00",
+    "last_seen_at": "2026-11-27T17:33:43+08:00",
+    "fetch_runs": [
+      "2026-11-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7129039471961460008": {
+    "video_id": "7129039471961460008",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7129039471961460008",
+      "title": "目标博主 1 视频 7129039471961460008",
+      "publish_time": "2026-11-27T17:36:26+08:00",
+      "video_url": "https://www.douyin.com/video/7129039471961460008",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/9d72efa0-8c27-4bbb-8404-dc73b33dae12",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7129039471961460008",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-27T17:33:43+08:00",
+    "last_seen_at": "2026-11-27T17:33:43+08:00",
+    "fetch_runs": [
+      "2026-11-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7445619380630588730": {
+    "video_id": "7445619380630588730",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7445619380630588730",
+      "title": "目标博主 1 视频 7445619380630588730",
+      "publish_time": "2026-11-27T17:36:26+08:00",
+      "video_url": "https://www.douyin.com/video/7445619380630588730",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/d9eb2e18-06a0-46d1-964d-0f359b4c8188",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7445619380630588730",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-27T17:33:43+08:00",
+    "last_seen_at": "2026-11-27T17:33:43+08:00",
+    "fetch_runs": [
+      "2026-11-27"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7492436071855164698": {
+    "video_id": "7492436071855164698",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7492436071855164698",
+      "title": "高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑",
+      "publish_time": "2025-04-12T14:43:00+08:00",
+      "video_url": "https://www.douyin.com/video/7492436071855164698",
+      "cover_url": "",
+      "like_count": 447,
+      "comment_count": 25,
+      "share_count": 339,
+      "collect_count": 126,
+      "description": "高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑",
+      "text_hint": "高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑",
+      "topic_tags": [
+        "直播电商培训",
+        "直播电商运营",
+        "高客单起号",
+        "高客单",
+        "底层逻辑"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/c73cacf74b08deb46d2c7c61f11d7c55/6b097a75/video/tos/cn/tos-cn-ve-15/ocnBQ8P0SAg7MEKIg0AQATCGfB9WQRCePNdfLn/?a=6383&br=136&bt=136&btag=c0000e00030000&cd=0%7C0%7C0%7C3&ch=26&cquery=100H_100K_100o_100w_100B&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1795772181&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNeRVQ9wohNRXhd.w0Ewf03-ApQX&is_ssr=1&l=20261127173620AB89464DEE030F98BBE4&lr=all&mime_type=video_mp4&qs=12&rc=PGY0Ojg1NzM2aWU6NTQ8aUBpMzk7eWo5cmQ6eTMzNGkzM0BeNGI0NjJhXjMxMWA1MS42YSNoZm8wMmRja3FgLS1kLTBzcw%3D%3D&__vid=7492436071855164698",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-27/7492436071855164698.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-27/7492436071855164698.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7492436071855164698",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-27T17:33:43+08:00",
+    "last_seen_at": "2026-11-27T17:33:43+08:00",
+    "fetch_runs": [
+      "2026-11-27"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-27/7492436071855164698.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-27/7492436071855164698.mp3",
+      "source": "download",
+      "processed_at": "2026-11-27T17:36:30+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7492436071855164698",
+      "transcript_raw": "高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑补充信息：高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑关键词：直播电商培训、直播电商运营、高客单起号、高客单、底层逻辑",
+      "transcript_clean": "高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑补充信息：高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑关键词：直播电商培训、直播电商运营、高客单起号、高客单、底层逻辑",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-27/7492436071855164698.json",
+      "processed_at": "2026-11-27T17:36:30+08:00"
+    },
+    "analysis": {
+      "video_id": "7492436071855164698",
+      "summary": "目标博主 1围绕“直播电商培训”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑。高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑补充信息：高客单直播间如何操盘？ #直播电商培训 #直播电商运营 #高客单起号 #高客单 #底层逻辑关键词：直播电商培训、直播电商运营、高客单起号、高客单、底层逻辑 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "直播电商培训为什么总是做不出来结果？",
+        "先把直播电商运营想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕直播电商培训组织标题与开头。",
+        "用直播电商运营和高客单起号补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "直播电商培训",
+        "直播电商运营",
+        "高客单起号"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-27/7492436071855164698.json",
+      "processed_at": "2026-11-27T17:36:30+08:00"
+    },
+    "last_error": null
   }
 }
