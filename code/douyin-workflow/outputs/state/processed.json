@@ -79443,5 +79443,397 @@
       "processed_at": "2026-11-27T17:36:30+08:00"
     },
     "last_error": null
+  },
+  "7712774514295311626": {
+    "video_id": "7712774514295311626",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7712774514295311626",
+      "title": "目标博主 1 视频 7712774514295311626",
+      "publish_time": "2026-11-28T16:49:45+08:00",
+      "video_url": "https://www.douyin.com/video/7712774514295311626",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/f950711c-be73-43d7-b12f-0bc3e9ba4247",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7712774514295311626",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-28T16:46:40+08:00",
+    "last_seen_at": "2026-11-28T16:46:40+08:00",
+    "fetch_runs": [
+      "2026-11-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7589840373431799269": {
+    "video_id": "7589840373431799269",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7589840373431799269",
+      "title": "目标博主 1 视频 7589840373431799269",
+      "publish_time": "2026-11-28T16:49:45+08:00",
+      "video_url": "https://www.douyin.com/video/7589840373431799269",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/ca2f0a03-485d-46d1-807c-261eb170968d",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7589840373431799269",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-28T16:46:40+08:00",
+    "last_seen_at": "2026-11-28T16:46:40+08:00",
+    "fetch_runs": [
+      "2026-11-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7199807570125671713": {
+    "video_id": "7199807570125671713",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7199807570125671713",
+      "title": "目标博主 1 视频 7199807570125671713",
+      "publish_time": "2026-11-28T16:49:45+08:00",
+      "video_url": "https://www.douyin.com/video/7199807570125671713",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/5525e973-77e9-4d27-857d-7300728a1182",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7199807570125671713",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-28T16:46:40+08:00",
+    "last_seen_at": "2026-11-28T16:46:40+08:00",
+    "fetch_runs": [
+      "2026-11-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7183566129489612084": {
+    "video_id": "7183566129489612084",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7183566129489612084",
+      "title": "目标博主 1 视频 7183566129489612084",
+      "publish_time": "2026-11-28T16:49:45+08:00",
+      "video_url": "https://www.douyin.com/video/7183566129489612084",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/25d72656-49d2-4d29-925a-f37a21625e48",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7183566129489612084",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-28T16:46:40+08:00",
+    "last_seen_at": "2026-11-28T16:46:40+08:00",
+    "fetch_runs": [
+      "2026-11-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7570551613379693870": {
+    "video_id": "7570551613379693870",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7570551613379693870",
+      "title": "自驾武威海藏寺，1700年前古老寺院，藏着一口包治百病的神泉",
+      "publish_time": "2025-11-09T10:00:00+08:00",
+      "video_url": "https://www.douyin.com/video/7570551613379693870",
+      "cover_url": "",
+      "like_count": 3361,
+      "comment_count": 196,
+      "share_count": 157,
+      "collect_count": 65,
+      "description": "自驾武威海藏寺，1700年前古老寺院，藏着一口包治百病的神泉",
+      "text_hint": "自驾武威海藏寺，1700年前古老寺院，藏着一口包治百病的神泉",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/0c4e8843-bc32-462b-9a9c-0b33c984917f",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7570551613379693870",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-28T16:46:40+08:00",
+    "last_seen_at": "2026-11-28T16:46:40+08:00",
+    "fetch_runs": [
+      "2026-11-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7562152542189473081": {
+    "video_id": "7562152542189473081",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7562152542189473081",
+      "title": "目标博主 1 视频 7562152542189473081",
+      "publish_time": "2026-11-28T16:49:45+08:00",
+      "video_url": "https://www.douyin.com/video/7562152542189473081",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/a6c02336-dab2-49cf-8d8a-2ab23471f122",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7562152542189473081",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-28T16:46:40+08:00",
+    "last_seen_at": "2026-11-28T16:46:40+08:00",
+    "fetch_runs": [
+      "2026-11-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7279321109302971667": {
+    "video_id": "7279321109302971667",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7279321109302971667",
+      "title": "目标博主 1 视频 7279321109302971667",
+      "publish_time": "2026-11-28T16:49:45+08:00",
+      "video_url": "https://www.douyin.com/video/7279321109302971667",
+      "cover_url": "",
+      "like_count": 0,
+      "comment_count": 0,
+      "share_count": 0,
+      "collect_count": 0,
+      "description": "",
+      "text_hint": "",
+      "topic_tags": [],
+      "source": "douyin_playwright",
+      "media_url": "blob:https://www.douyin.com/e5ab0a8a-491c-486c-bfe8-fae2ccf15be2",
+      "local_media_path": "",
+      "audio_path": "",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7279321109302971667",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-28T16:46:40+08:00",
+    "last_seen_at": "2026-11-28T16:46:40+08:00",
+    "fetch_runs": [
+      "2026-11-28"
+    ],
+    "media_status": "failed",
+    "media": null,
+    "transcript_status": "pending",
+    "analysis_status": "pending",
+    "transcript": null,
+    "analysis": null,
+    "last_error": "<urlopen error unknown url type: blob>"
+  },
+  "7443795964457962761": {
+    "video_id": "7443795964457962761",
+    "video": {
+      "creator_id": "target_creator_1",
+      "creator_name": "目标博主 1",
+      "video_id": "7443795964457962761",
+      "title": "一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食",
+      "publish_time": "2024-12-02T12:50:00+08:00",
+      "video_url": "https://www.douyin.com/video/7443795964457962761",
+      "cover_url": "",
+      "like_count": 175,
+      "comment_count": 43,
+      "share_count": 58,
+      "collect_count": 38,
+      "description": "一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食",
+      "text_hint": "一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食",
+      "topic_tags": [
+        "辅食",
+        "辅食教程",
+        "抖音美食推荐官",
+        "萌娃",
+        "宝宝辅食"
+      ],
+      "source": "douyin_playwright",
+      "media_url": "https://v5-dy-ov-experiment.zjcdn.com/270db95528c05ccbc2c42bb23a493fd4/6b0ac088/video/tos/cn/tos-cn-ve-0015c800/oo1OCO3VEfsFqJtAiAiIm5Os7jGxDBQeBfnEta/?a=6383&br=986&bt=986&btag=c0000e00028000&cd=0%7C0%7C0%7C3&ch=26&cquery=100w_100B_100x_100z_100o&cr=3&cs=0&cv=1&dr=0&ds=6&dy_q=1795855780&feature_id=46a7bb47b4fd1280f3d3825bf2b29388&ft=CZdgCYlIDyjNxIVQ9wL3ORXhd.i1_h_03-ApQX&is_ssr=1&l=20261128164940A276DEEFFDDE8D422611&lr=all&mime_type=video_mp4&qs=12&rc=aDM3aDs1aTo4O2Q8NmY1NEBpamc5NHg5cnl0dzMzNGkzM0AxLWIzMzM2NV8xLl4tMGJiYSNwaWo0MmRzbDNgLS1kLWFzcw%3D%3D&__vid=7443795964457962761",
+      "local_media_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-28/7443795964457962761.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-28/7443795964457962761.mp3",
+      "transcript_hint": "",
+      "duration_seconds": 0.0,
+      "raw_payload": {
+        "aweme_id": "7443795964457962761",
+        "author_uid": null,
+        "sec_uid": "",
+        "profile_url": ""
+      }
+    },
+    "first_seen_at": "2026-11-28T16:46:40+08:00",
+    "last_seen_at": "2026-11-28T16:46:40+08:00",
+    "fetch_runs": [
+      "2026-11-28"
+    ],
+    "media_status": "completed",
+    "media": {
+      "video_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-28/7443795964457962761.mp4",
+      "audio_path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/media/2026-11-28/7443795964457962761.mp3",
+      "source": "download",
+      "processed_at": "2026-11-28T16:49:50+08:00"
+    },
+    "transcript_status": "completed",
+    "analysis_status": "completed",
+    "transcript": {
+      "video_id": "7443795964457962761",
+      "transcript_raw": "一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食补充信息：一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食关键词：辅食、辅食教程、抖音美食推荐官、萌娃、宝宝辅食",
+      "transcript_clean": "一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食补充信息：一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食关键词：辅食、辅食教程、抖音美食推荐官、萌娃、宝宝辅食",
+      "language": "zh",
+      "duration_seconds": 0.0,
+      "segments": [],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/transcripts/2026-11-28/7443795964457962761.json",
+      "processed_at": "2026-11-28T16:49:50+08:00"
+    },
+    "analysis": {
+      "video_id": "7443795964457962761",
+      "summary": "目标博主 1围绕“辅食”给出了一条可直接执行的短视频经验。",
+      "clean_copy": "一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食。一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食补充信息：一岁+宝宝的一天 #辅食 #辅食教程 #抖音美食推荐官 #萌娃 #宝宝辅食关键词：辅食、辅食教程、抖音美食推荐官、萌娃、宝宝辅食 核心做法是先统一选题，再补充案例和执行动作，把一条视频整理成可复用的工作模版。",
+      "hooks": [
+        "辅食为什么总是做不出来结果？",
+        "先把辅食教程想清楚，内容效率会高很多。"
+      ],
+      "key_points": [
+        "先明确主题，围绕辅食组织标题与开头。",
+        "用辅食教程和抖音美食推荐官补足正文信息密度。",
+        "结尾补上动作建议，方便团队复用到下一条视频。"
+      ],
+      "keywords": [
+        "辅食",
+        "辅食教程",
+        "抖音美食推荐官"
+      ],
+      "tone": "干货",
+      "cta": "收藏这条内容，按同样结构复盘下一条视频。",
+      "content_type": "知识分享",
+      "risk_notes": [
+        "当前为占位分析结果，接入真实模型后可获得更细的表达。"
+      ],
+      "source": "mock",
+      "path": "/home/runner/work/codex/codex/code/douyin-workflow/outputs/analysis/2026-11-28/7443795964457962761.json",
+      "processed_at": "2026-11-28T16:49:50+08:00"
+    },
+    "last_error": null
   }
 }
